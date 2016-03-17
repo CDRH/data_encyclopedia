@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jumanos</title>
+<title level="m" type="sub"></title>
+<author>Nancy Parrot Hickerson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hickerson, Nancy Parrott">Nancy Parrott Hickerson</author>. <title level="a">"Jumanos."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">579</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JUMANOS</head>
+
+<p>Jumano is the standard ethnonym applied by
+scholars to a Native American people who, between
+the sixteenth and eighteenth centuries,
+were variously identified as Jumano, Humana,
+Xuman, Sumana, and Chouman. Modern interest
+began in 1890, when Adolph Bandelier
+observed that the Jumanos, evidently an important
+Indian nation during the early days of
+Spanish exploration north of Mexico, had virtually
+disappeared from the historical record
+by 1700. Scholars have since ranged far and
+wide in pursuit of the identity and the fate of
+the Jumanos: Frederick W. Hodge believed
+them to be Caddoans, ancestors of the Wichitas;
+Carl Sauer favored a Uto-Aztecan affiliation,
+linking them to the Tarahumaras and
+other Mexican Indians; Jack D. Forbes argued
+that they were early Apacheans. In 1940
+France V. Scholes and H. P. Mera proposed that
+"Jumano" was simply a generic term that
+Spanish colonists had used to designate all Indians
+who painted or tattooed their faces with
+horizontal lines; in view of the diversity of
+opinion, it is not surprising that this suggestion
+found wide acceptance. Recently,
+Nancy P. Hickerson has reopened the discussion,
+citing inferential evidence that the Jumanos'
+language (never recorded) was actually
+Tanoan, closely related to that of their trading
+partners in the eastern Pueblos of New Mexico.</p>
+
+<p>Bandelier's data provided no clues to Jumano
+prehistory, nor did he speculate about
+their linguistic or cultural links with other
+tribes. During the intervening century, archival
+and archeological research has revealed a
+fuller&#8211;if still incomplete&#8211;picture of their adaptation
+and possible origins. The Jumanos
+ranged from south of the Rio Grande to the
+Southern Plains. Within this territory they
+were essentially nomadic, although there were
+permanent enclaves at La Junta de los Rios
+(near present-day Ojinaga, Chihuahua), in
+the Tompiro Pueblos of New Mexico, and perhaps
+elsewhere. Their eastward movements
+were timed to coincide with seasonal rains
+and prime bison hunting in the Plains; the
+return trip brought the Jumano bands back to
+spend the winter at or near the communities
+of their trading partners. There, meat, hides,
+and other trophies of the hunt were traded
+for agricultural produce. Such a relationship
+of reciprocity between related farmers and
+hunter-gatherers has many parallels and often
+develops as an adaptation to changing ecological
+conditions.</p>
+
+<p>The historical importance of the Jumanos
+rests primarily on their role as intertribal and
+interregional traders. This role undoubtedly
+developed as a consequence of their pattern of
+seasonal migration. The Southern Plains was a
+hunting area shared by many Native American
+groups&#8211;Caddoan, Tonkawan, Coahuiltecan,
+and others. The Jumanos established a close
+relationship with the Caddos and their neighbors
+(the "Tejas" alliance) and became active
+agents in trade between these tribes and those
+along the Rio Grande. Their routes followed
+and linked several river systems, including the
+Pecos, Canadian, Brazos, and Colorado of
+Texas.</p>
+
+<p>The Jumanos' trade sphere expanded when
+they adopted an equestrian way of life, and it
+changed in character as they began to deal in
+horses. Records of French explorer La Salle's
+visits to the Ceni (Caddos) reveal the impact
+of the Jumano trade, which provided the Caddo
+elite with Spanish clothing, swords, religious
+artifacts, and many horses; on the return
+trip, hides and peltries were carried for
+sale in New Spain. At this time the Jumano
+traders were, in effect, serving as Spanish surrogates
+in promoting friendly relations between
+the "Nations of the North" (the Caddoan
+confederacies) and the Spanish Crown.</p>
+
+<p>Even as their interregional trade reached its
+height, the Jumanos' territorial base was increasingly
+under attack. Apaches and Jumanos
+were in contention, both for hunting grounds
+and for trade access along the Rio Grande. In
+1540 Coronado's expedition witnessed the enmity
+between Querechos (Apaches) and Teyas
+(probably Jumanos). By 1600 the Apaches had
+taken control of the trade at Pecos Pueblo, and
+they dominated a wide area east of that site. In
+the Tompiro region, farther south, the Jumano
+population was augmented by refugees from
+the war in the Plains. When the Tompiros also
+came under attack, around 1660, the Jumanos
+abandoned New Mexico for good; thereafter,
+La Junta de los Rios was their only foothold on
+the Rio Grande. The Jumanos' trade continued
+from La Junta following a route along the
+lower Pecos and Colorado Rivers. This route
+was broken around 1690, when Apache bands
+pushed eastward to the upper Colorado and
+the Brazos. Thereafter, the Jumanos had no
+intact territorial base, and their activities
+as traders came to an end. Remnant groups
+around La Junta evidently joined forces with
+their conquerors after 1700, when Apache occupancy
+extended southward along the Rio
+Grande below El Paso.</p>
+
+<p>Throughout the seventeenth century there
+were several occasions in which Jumano leaders
+acted as spokesmen for their own and allied
+tribes, seeking Spanish assistance in defending
+their territories and trade routes. In
+1682 the Jumano chief Juan Sabeata addressed
+such an appeal to New Mexican authorities at
+El Paso and escorted a party of soldiers and
+Franciscan friars to meet with representatives
+of more than thirty Indian nations on the upper
+Colorado of Texas. When this effort failed,
+a remarkable transregional economic and political
+alliance came to an end, and the Jumanos
+effectively vanished from the history of
+the Southern Plains.</p>
+
+<closer>
+<signed>Nancy Parrott Hickerson</signed>
+Texas Tech University</closer>
+</div1>
+
+<div1>
+<bibl>Hickerson, Nancy P. <title level="m">The Jumanos: Hunters and Traders of
+the South Plains</title>. Austin: University of Texas Press, 1994.</bibl>
+<bibl>Kelley, J. Charles. "Juan Sabeata and Diffusion in Aboriginal
+Texas." <title level="j">American Anthropologist</title> 57 (1955): 981-95.</bibl>
+<bibl>Scholes, France V., and H. P. Mera. "Some Aspects of the
+Jumano Problem." <title level="j">Contributions to American Anthropology
+and History</title> 6 (1940): 269-99.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

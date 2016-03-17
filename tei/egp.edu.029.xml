@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">National Cowyboy Hall of Fame and Western Heritage Center</title>
+<title level="m" type="sub"></title>
+<author>M. J. Van Deventer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Van Deventer, M. J.">M. J. Van Deventer</author>. <title level="a">"National Cowyboy Hall of Fame and Western Heritage Center."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">209-210</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIONAL COWYBOY HALL OF FAME AND WESTERN HERITAGE CENTER</head>
+
+<p>There's no better place to learn about the history
+and art of the West than the National
+Cowboy Hall of Fame and Western Heritage
+Center, a sprawling, 80,000 square-foot
+museum located atop Persimmon Hill overlooking
+old Route 66 in Oklahoma City, Oklahoma.
+The center attracts about 350,000 visitors
+each year.</p>
+
+<p>The center, founded in 1955, was the dream
+of the president of Lee Jeans, Chester A. Reynolds.
+A Kansas City, Missouri, entrepreneur,
+he had long been concerned about preserving
+the country's western heritage. When the museum
+o.cially opened in 1965, actor John
+Wayne was parade marshal. He served on the
+center's board of directors for more than a decade,
+and his numerous collections are among
+the museum's treasures. Dedicated to the
+memory of those who settled the West, the
+museum quickly began to acquire, catalog,
+and exhibit art, artifacts, and archival material
+that pay homage to America's favorite icon,
+the American cowboy.</p>
+
+<p>Separating myth from reality has always
+been one of the center's major missions. The
+reality is found in three major halls of fame,
+all within the institution. The Hall of Great
+Westerners honors those who have made significant
+contributions to the development
+of the West. The Hall of Great Western Performers
+honors those who have contributed
+to the Western genre on stage, screen, and
+television. Its inductees are honored each year
+during the Academy Awards–style Western
+Heritage Awards ceremony. The Rodeo Hall of
+Fame honorees, chosen by the Rodeo Historical
+Society, are honored each October. The
+American Rodeo Gallery displays memorabilia
+of these rodeo greats.</p>
+
+<p>Reality and myths mingle in the museum's
+western art collection, including works by
+such famous artists as Charles M. Russell,
+Frederic Remington, Albert Bierstadt, and
+William R. Leigh. The work of contemporary
+artists is found in the center's Prix de West
+Collection, honoring the annual Prix de West
+Award winner during the Prix de West Invitational
+Exhibition. Held each June, the exhibition
+features the work of more than ninety of
+the country's most prominent western artists.</p>
+
+<p>Among recent additions to the museum's
+showcase of western art and artifacts is the
+Arthur and Shifra Silberman Native American
+Art Gallery, which presents a narrative from
+ledger art to contemporary Indian work. The
+American Cowboy Gallery traces cowboy culture
+from its vaquero roots to today's cowboy.
+The Western Entertainment Gallery highlights
+the films of early Western movie stars.
+Prosperity Junction, an authentic turn-of-the-century
+western town, shows how communities
+developed in the Old West. The Children's
+Cowboy Corral provides an interactive experience
+about western legends.</p>
+
+<p>A constantly changing exhibition schedule
+explores aspects of the West from fashion,
+cowboy gear, and photography to notables
+such as Hopalong Cassidy and Frederic Remington.
+Special events round out the museum's
+program, including the annual Chuckwagon
+Gathering and Children's Festival, a
+biannual Cowboy Poetry Festival, a Visions of
+the West Gala honoring patrons, and Michael
+Martin Murphey's Cowboy Christmas Ball.</p>
+
+<p>What often impresses visitors most is the
+sense of monumentality that the museum
+now expresses in its massive <hi rend="italic">Canyon Princess</hi>,
+<hi rend="italic">Welcome Sundown</hi>, and <hi rend="italic">End of the Trail</hi> sculptures
+that are among the first works of art
+greeting guests. What often lingers with them
+is the memory of viewing the five monumental
+western landscape triptychs painted
+by Wilson Hurley. These massive paintings,
+housed in the Sam Noble Special Events Center,
+serve as true "windows to the West" for
+museum visitors.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.015">Cowboy Culture</ref> / 
+<hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.045">Rodeo</ref>.</p>
+
+<p><ref target="http://www.nationalcowboymuseum.org/">National Cowboy Hall of Fame</ref> website.</p>
+
+<closer>
+<signed>M. J. Van Deventer<lb/>
+National Cowboy and Western Heritage Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Van Deventer, M. J., ed. <hi rend="italic">Visions of the West: A Tribute
+to Leadership</hi>. Oklahoma City: National Cowboy Hall of
+Fame, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Loy, Myrna (1905-1993)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Loy, Myrna (1905-1993)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">272</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOY, MYRNA (1905-1993)</head>
+<figure n="egp.fil.042" rend="granted" type="noclick">
+<figDesc>Manhattan Melodrama film poster (1934)</figDesc>
+</figure>    
+
+<p>Myrna Loy, Hollywood's top female box office
+attraction in the mid-1930s, was born on August
+2, 1905, on a sheep and wheat ranch near
+Raidersburg, Montana, where the Rocky
+Mountains meet the Great Plains. She grew up
+in nearby Helena in comfortable circumstances,
+just up the street from another future
+Hollywood star, Gary Cooper. Her father was
+a member of the Montana legislature, and
+early on Myrna developed her own strong political
+conscience. When her father died in the
+1918 flu epidemic, her mother moved the family
+to Los Angeles, settling in Culver City, near
+Hollywood.</p>
+
+<p>Long interested in theater and dance, Myrna
+started doing screen tests when she was eighteen.
+She landed bit roles in <title>The Ten Commandments</title>
+(1923) and <title>Ben Hur</title> (1925) before
+being typecast as a mysterious vamp in numerous
+films over the next ten years. Her casting
+opposite William Powell in <title>Manhattan Melodrama</title> in 1934 shattered this stereotype,
+and in subsequent films, thirteen of them with
+Powell, she reinvented herself as a witty and
+beautiful heroine, the model of the "perfect
+wife." The public loved the image, and in
+1936 she was crowned "Queen of the Movies"
+in a poll, alongside the anointed "King," Clark
+Gable.</p>
+
+<p>During World War II Loy put her film career
+on hold and channeled her energies into
+the Red Cross. She continued her political activism
+after the war as U.S. representative to
+unesco and as campaigner for John F. Kennedy
+and Eugene McCarthy in their runs for
+the presidency. She continued to find time for
+movies, most notably, <title>The Best Years of Our Lives</title> (1946).</p>
+
+<p>Loy was never nominated for an Oscar, but
+at the 1991 ceremony she was presented with
+an honorary Academy Award. That same year
+the Myrna Loy Center opened in Helena with
+a mission to bring the arts to the citizens of
+Montana. Myrna Loy died in New York on
+December 14, 1993.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kotsilibas-Davis, James, and Myrna Loy. <title level="m">Myrna Loy: Being and Becoming</title>. New York: Alfred A. Knopf, 1987.</bibl> <bibl>Thompson,
+Frank. "Loy, Myrna." In <title level="m">International Dictionary of Films and Filmmakers</title>, edited by Nicholas Thomas. Chicago:
+St. James Press, 1990: 3: 203–6.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

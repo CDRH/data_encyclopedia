@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cattle Codes</title>
+<title level="m" type="sub"></title>
+<author>Ray August</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="August, Ray">Ray August</author>. <title level="a">"Cattle Codes."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">449-450</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATTLE CODES</head>
+
+<p>Cattle laws on the Great Plains trace their
+origins and their defining elements to similar
+laws in the eastern United States. The main
+cattle laws, which are interdependent rules
+regulating the raising and marketing of livestock,
+govern fencing, branding, rustling, recording,
+and strays.</p>
+
+<p>Fencing laws are of two types. The oldest of
+these, used in northern Europe as early as the
+fifth century, requires farmers to fence out animals
+to protect crops. The newer laws, which
+were adopted in more populated livestock
+areas beginning in the seventeenth and eighteenth
+centuries, require livestock owners to
+fence in their animals. At the time the United
+States became independent, fencing-in laws
+had been adopted in England as well as in
+Spain and its colonies but not in the former
+English colonies. When American cattlemen
+came to the Great Plains in the nineteenth
+century, they brought with them the fencingout
+laws of the eastern United States, and they
+ignored the fencing-in laws that had previously
+prevailed under Spanish and Mexican
+rule in Texas and New Mexico.</p>
+
+<p>Although branding was never followed in
+England, it was a common practice in the English colonies and in the eastern United States
+after independence. It was similarly used in
+the Spanish colonies and in Mexico after its
+independence. However, unlike the practice in
+Spain and Mexico, livestock owners in the
+eastern United States were required to use a
+system of town brands, in addition to their
+own personal brands, to identify the origin of
+their animals. Cattle in Salem, Massachusetts,
+for example, had to be branded with an "S."
+This same system was adopted on the Great
+Plains; for instance, the first branding law
+adopted in Colorado required cattle from
+Arapaho County to carry an "A" brand.</p>
+
+<p>The parentage of the Great Plains cattlerustling
+laws can be traced to the eastern
+United States because of an anomaly originally
+peculiar to the rustling law of North
+Carolina. To convict an individual of altering
+a cattle brand, North Carolina required a
+prosecutor to first prove that the original
+brand was recorded. This same requirement
+was later adopted in Texas, Colorado, and
+other parts of the American West. Laws in
+Texas similarly made illegal the stealing of
+"neat cattle" and the "altering or defacing" of
+another's brand. Both of these expressions
+were copied from statutes in the East.</p>
+
+<p>Early Great Plains recording statutes followed
+procedures used in the East. As the English
+had done since medieval times, easterners
+relied on a toll system for proving
+ownership of livestock. Anyone moving cattle
+from one county to another had to register his
+individual brands in the county he was moving
+them to. Also, driving cattle without a certified
+bill of sale (one endorsed by certain
+town, county, or state officials) was similarly
+illegal.</p>
+
+<p>Estray statutes, like fencing laws, are of two
+kinds: those that require finders to advertise
+found animals and those that require owners
+to advertise lost animals. In 1747 South Carolina
+adopted the first estray statute requiring
+finders to advertise in newspapers of general
+circulation, a requirement common to all later
+American estray statutes, including those
+adopted by Great Plains states. The Spanish
+colonies and Mexico after its independence
+used the second kind of estray statute, with
+one exception. When the Mexican state of
+Coahuila and Texas adopted a new estray statute
+in 1835, it required finders to advertise,
+a procedure familiar to the many American
+colonists who had recently moved to Texas.
+When Texas became independent the next
+year, it kept the "finders must advertise" statute
+adopted by Coahuila and Texas the year
+before.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.014">Branding</ref>.</p>
+
+<closer>
+<signed>Ray August<lb/>
+Washington State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>August, Ray. "Cowboys v. Rancheros: The Origins of
+Western American Livestock Law." <title level="j">Southwestern Historical Quarterly</title> 96 (1993): 457–88.</bibl> <bibl>Myres, Sandra L. "The
+Ranching Frontier: Spanish Institutional Backgrounds of
+the Plains Cattle Industry." In <title level="m">Essays on the American West</title>,
+edited by Harold M. Hollingsworth and Sandra L. Myres.
+Austin: University of Texas Press for University of Texas at
+Arlington, 1969: 19–39.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

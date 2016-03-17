@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pd.040 SYSTEM "egp.pd.040.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">O'Hare, Kate Richards (1876-1948)</title>
+<title level="m" type="sub"></title>
+<author>Sally M. Miller</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Miller, Sally M.">Sally M. Miller</author>. <title level="a">"O'Hare, Kate Richards (1876-1948)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">719-720</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">O'HARE, KATE RICHARDS (1876-1948)</head>
+
+<figure n="egp.pd.040" rend="granted">
+<figDesc>Kate Richards O'Hare and family</figDesc>
+</figure>
+
+<p>Born on March 26, 1876, in Ottawa County,
+Kansas, Kate Richards O'Hare was one of the
+most popular lecturers, journalists, and socialist
+reformers of the first decades of the
+twentieth century, with her strongest support
+coming in the Great Plains and the Southwest.
+She was the daughter of Kansas homesteaders
+who lost their land in the late 1880s and relocated
+to Kansas City, Missouri. Educated in
+Kansas, Missouri, and Nebraska, Kate taught
+school briefly, then turned to temperance and
+missionary work. Disillusioned, she became a
+machinist in her father's shop, which introduced
+her to the labor movement. In 1901 Kate
+enrolled in a socialist program in Girard, Kansas, a hub of socialist activism and the home
+of the newspaper <title level="j">Appeal to Reason</title>. She became
+an organizer for the newly founded Socialist
+Party of America and, with her new
+husband, Frank Patrick O'Hare, went on the
+road to spread the word of socialism.</p>
+
+<p>For five years the O'Hares and their four
+children homesteaded in Oklahoma Territory,
+which was then beginning to develop one of
+the fastest-growing socialist movements in the
+United States. Kate wrote for the regional socialist
+press and became the most popular local
+speaker at the socialist summer encampments
+in the Southwest, which featured nationally
+known lecturers and drew thousands of farmers.
+In 1909 the O'Hares relocated to Kansas
+City, Kansas, where Kate was a candidate for
+the U.S. House of Representatives in 1910.
+Thereafter, they settled in St. Louis, Missouri,
+where she became a staff writer for the <title level="j">National
+Rip-Saw</title>, an agrarian socialist monthly,
+alongside her close colleague Eugene Debs.</p>
+
+<p>As a socialist, O'Hare advocated peaceful
+means to achieve a collectivist system, promoting
+electoral activity, mass education,
+and reform measures. In the Socialist Party,
+she was the voice of the farmers of the Great
+Plains, one of the few party leaders who understood
+intimately the farmers' struggle with
+increasingly overwhelming economic forces.
+She introduced an agrarian plank to the party's
+platform and tried to expand its definition
+of the proletariat to include farmers. Meanwhile,
+O'Hare toured constantly on the socialist
+lecture circuit, with her spring and summer
+itineraries spanning the Dakotas through
+Texas and Oklahoma.</p>
+
+<p>During World War I O'Hare upheld the Socialist
+Party's opposition to the war. She was
+found guilty of violating the Espionage Act for
+an antiwar speech she delivered in Bowman,
+North Dakota, in 1917 and served fourteen
+months of a five-year prison term. Thereafter,
+her activities focused on penal reform and labor
+education. In 1928 she divorced O'Hare,
+and that year married Charles C. Cunningham,
+a businessman, and gradually abandoned
+her activism, although she continued
+to lecture on civic issues until the end of her
+life. She died in Benicia, California, on January
+10, 1948.</p>
+
+<closer>
+<signed>Sally M. Miller<lb/>
+University of the Pacific</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Basen, Neil K. "Kate Richards O'Hare: The 'First Lady' of
+American Socialism, 1901–1917." <title level="j">Labor History</title> 21 (1980):
+165–99.</bibl> <bibl>Foner, Philip S., and Sally M. Miller, eds. <title level="j">Kate
+Richards O'Hare: Selected Writings and Speeches</title>. Baton
+Rouge: Louisiana State University Press, 1982.</bibl> <bibl>Miller, Sally
+M. <title level="m">From Prairie to Prison: The Life of Social Activist Kate
+Richards O'Hare</title>. Columbia: University of Missouri Press,
+1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

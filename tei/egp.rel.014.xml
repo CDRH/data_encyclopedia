@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.rel.014 SYSTEM "egp.rel.014.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">De Smet, Pierre-Jean (1801-1873)</title>
+<title level="m" type="sub"></title>
+<author>Robert C. Carriker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Carriker, Robert C.">Robert C. Carriker</author>. <title level="a">"De Smet, Pierre-Jean (1801-1873)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">740</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DE SMET, PIERRE-JEAN (1801-1873)</head>
+
+<figure n="egp.rel.014" rend="granted">
+<figDesc>Pierre-Jean De Smet, ca. 1864</figDesc>
+</figure>
+
+<p>As a missionary to the West, Pierre-Jean De
+Smet, S.J., had no equal among nineteenthcentury
+Catholics. Born on January 30, 1801,
+to a wealthy family in East Flanders (Belgium),
+De Smet journeyed to America in 1821
+to join the Society of Jesus, or Jesuits, an order
+of Catholic men with a special interest in missions
+and education. Following more than a
+decade of religious formation, De Smet began
+his missionary career in 1838 when he established
+Saint Joseph's Mission for members of
+the Potawatomi tribe at Council Bluffs. From
+that date until his death, De Smet baptized
+many thousands of Native Americans in more
+than thirty tribes. He traveled some 180,000
+miles, including seventeen trips across the Atlantic
+Ocean, in his efforts to educate others
+about the spiritual condition of Native Americans,
+and he ultimately raised more than a half
+million dollars on their behalf.</p>
+
+<p>For thirty years, in nineteen journeys taken
+between 1838 and 1868, De Smet traversed the
+Great Plains from all points of the compass
+and during all seasons of the year. Intimately
+familiar with the drainage basins of both the
+Missouri and Columbia Rivers, De Smet favored
+the Great Plains because he believed
+that the natural environment offered exceptional
+advantages to potential settlers. He used
+terms like "superb" and "smiling and beautiful" to describe the richness of the environment
+in letters to his family and others in Europe.
+De Smet encountered the Niobrara,
+White Earth, and Little Medicine Rivers in his
+travels in the Great Plains, but it was the attributes
+of the Missouri and the Platte that
+received most of the attention in his extensive
+journals. An avid amateur scientist, De Smet
+was also a close observer of the region's flora,
+fauna, and geology.</p>
+
+<p>After 1851 the question of how to reconcile
+the needs of white pioneers with the rights of
+Native Americans vexed De Smet. The key to
+his solution, which he offered several times to
+high government officials, including President
+Abraham Lincoln, centered on isolating tribes
+for a minimum of twenty years while missionaries
+added elements of "practical civilization"
+to their already crowded workload of spiritual
+salvation.</p>
+
+<p>De Smet passed away at his room in the
+Jesuit community at St. Louis University on
+May 23, 1873. His ideas, observations, and predictions
+about the trans-Mississippi western
+frontier survive in four published books and
+hundreds of personal letters preserved in archives
+in Belgium, St. Louis, Missouri, and
+Pullman, Washington.</p>
+
+<closer>
+<signed>Robert C. Carriker<lb/>
+Gonzaga University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Carriker, Robert. "Admiring Advocate of the Great Plains:
+Father Pierre-Jean De Smet, S.J., on the Middle Missouri."
+<title level="j">Great Plains Quarterly</title> 14 (1994): 243–56.</bibl> <bibl>Carriker, Robert
+C. <title level="m">Father Peter John De Smet, S.J.: Jesuit in the West</title>.
+Norman: University of Oklahoma Press, 1995.</bibl> <bibl>Chittenden,
+Hiram Martin, and Alfred Talbot Richardson, eds. <title level="m">Life,
+Letters and Travels of Father Pierre-Jean De Smet, S.J., 1801–1873</title>.
+New York: Francis P. Harper, 1905.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

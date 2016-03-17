@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.law.034 SYSTEM "egp.law.034.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Morris, Esther (1814-1902)</title>
+<title level="m" type="sub"></title>
+<author>Lois M. Berry</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berry, Lois M.">Lois M. Berry</author>. <title level="a">"Morris, Esther (1814-1902)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">458</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MORRIS, ESTHER (1814-1902)</head>
+
+<figure n="egp.law.034" rend="granted">
+<figDesc>Esther Morris</figDesc>
+</figure>
+
+<p>When the commissioners of Sweetwater
+County, Wyoming Territory, approved Esther
+Morris as a justice of the peace on February 12,
+1870, she entered history as the first woman
+magistrate in the nation.</p>
+
+<p>Morris was born in Spencer, Tioga County,
+New York, on August 8, 1814. Orphaned at an
+early age, she learned to support herself and
+developed a sense of independence. She lived
+for more than twenty years in Peru, Illinois,
+where she raised her family. In 1869 she moved
+west to the rough-and-tumble gold-mining
+town of South Pass City to join her husband
+and oldest son, who had moved there the previous
+year in search of gold. Five months later,
+women in Wyoming Territory were the first in
+the nation to be granted suffrage. One of the
+few advocates of women's rights in the small
+mining town, Morris was encouraged by local
+citizens and an influential judge to apply for a
+vacant justice of the peace position. She was
+appointed on February 17, 1870.</p>
+
+<p>Justice Morris's first case involved the prosecution
+of her predecessor, who refused to
+turn over the court docket to her as a female
+judge. The case was consequently dismissed
+without the transfer of the docket, and Morris
+purchased a new book in which to record her
+cases. Serving less than nine months, she tried
+twenty-eight cases, including ten assaults.</p>
+
+<p>Although she chose not to stand for election
+at the end of her appointed term, Esther Morris
+earned the respect of the predominantly
+male, antisuffrage local citizenry. Even though
+she was erroneously dubbed the "Mother
+of Woman Suffrage" in turn-of-the-century
+newspaper and historical reports, she did work
+diligently for women's rights, and Judge Morris
+rightfully deserves national attention because
+of the precedent she set. She died in
+Laramie on April 2, 1902. Her statue stands in
+front of the Wyoming State Capitol in Cheyenne.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.037">Suffrage Movement</ref>.</p>
+
+<closer>
+<signed>Lois M. Berry<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dobler, Lavinia. <title level="m">Esther Morris: First Woman Justice of the Peace</title>. Riverton <hi rend="smallcaps">WY</hi>: Big Bend Press, 1993.</bibl> <bibl>Larson, T. A.
+<title level="m">History of Wyoming</title>. Lincoln: University of Nebraska
+Press, 1978.</bibl> <bibl>Massie, Michael A. "Reform Is Where You
+Find It: The Roots of Woman Suffrage in Wyoming." <title level="j">Annals of Wyoming</title> 62 (1990): 2-21.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

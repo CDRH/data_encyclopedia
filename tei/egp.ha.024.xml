@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lisa, Manuel (1772-1820)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Lisa, Manuel (1772-1820)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">360</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LISA, MANUEL (1772-1820)</head>
+
+<p>In a letter to William Clark, written in 1817,
+Manuel Lisa offered this self-assessment: "I go
+a great distance while some are considering
+whether they will start today or tomorrow. I
+impose upon myself great privations." Indeed
+he did. Ambitious and impetuous, Lisa was
+the first St. Louis trader to respond to Lewis
+and Clark's revelation of an area "richer in
+beaver and otter than any country on earth" at
+the headwaters of the Missouri.</p>
+
+<p>Lisa was born in New Orleans on September
+8, 1772, to Christobal de Lisa and Maria
+Ignacia Rodriquez. He learned his trade on
+the Mississippi and Ohio Rivers in the 1790s
+before settling on a Spanish land grant in St.
+Louis. There he went into direct competition
+with the resident French trading aristocracy
+over the commerce with the Osage Indians.
+But after the return of Lewis and Clark, he
+turned his sights to the upper Missouri River</p>
+
+<p>In the spring of 1807 Lisa organized an expedition
+of about sixty men, which ascended
+the Missouri and built a trading post, Fort
+Raymond, at the confluence of the Yellowstone
+and Bighorn Rivers. From there he dispatched
+trappers to the Rocky Mountains
+while plying a successful trade with the Crows.
+Encouraged by the large quantity of furs they
+obtained, Lisa returned to St. Louis to mount
+a larger expedition.</p>
+
+<p>In 1809, 160 men in the employ of Lisa's
+Missouri Fur Company left St. Louis for the
+upper Missouri. They established posts along
+the river for all the Indians who wanted to
+trade, thus satisfying the Indians' wants and
+keeping the river open, while at the same time
+garnering furs. But Lisa's main objective was
+to trap in the headwaters of the upper Missouri,
+and there his plans disintegrated. The
+furs were there, but so were the Blackfeet.
+When his enterprise was abandoned in the
+summer of 1810, only thirty packs of beaver
+had been accumulated, and twenty of his men
+were dead.</p>
+
+<p>Lisa's trading activities&#8211;indeed all the activities
+of the St. Louis fur trade&#8211;were curtailed
+during the War of 1812. When trade resumed
+in 1819, Lisa formed a second Missouri
+Fur Company with the same objectives as the
+first. But before the enterprise got under way,
+Lisa contracted a serious illness. The enterprising
+Spaniard died in St. Louis in the summer
+of 1820 and was buried in what became
+Bellefontaine Cemetery. He never realized his
+ambition to create a fur empire that combined
+trading along the Missouri River with trapping
+in the Rocky Mountains, but he left a
+blueprint that others, like William Ashley,
+would follow with great success.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.022">Fur Trade</ref>.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Oglesby, Richard E. <title level="m">Manuel Lisa and the Opening of the Missouri Fur Trade</title>. Norman: University of Oklahoma
+Press, 1963.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

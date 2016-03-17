@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Emporia Gazette</hi></title>
+<title level="m" type="sub"></title>
+<author>Sally E. Turner</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Turner, Sally E.">Sally E. Turner</author>. <title level="a">"<hi rend="italic">Emporia Gazette</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">512</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">EMPORIA GAZETTE</hi></head>
+
+<p>For more than 100 years, the <title level="j">Emporia Gazette</title>
+has covered the city of Emporia, Kansas, its
+joys, heartaches, and scandals, and surrounding
+Lyon County, providing Kansas with news
+and opinion that includes the state, nation,
+and world. It has endured as one of the state's
+strongest small dailies and has been a training
+ground for some of the state's best journalists.</p>
+
+<p>Emporia, from its very beginning, had a
+strong tradition of newspapers, as did many
+pioneer communities. Its first newspaper, the
+<title level="j">Kanzas News</title>, began just a few months after
+the town was founded in 1857, when Senator
+Preston Plumb started the newspaper to promote
+development and the Republican Party.
+A former owner of the <title level="j">News</title>, J. R. Graham,
+founded the <title level="j">Emporia Gazette</title> in 1890 but sold
+it to W. Y. Morgan during the 1893 depression.</p>
+
+<p>Five years after its founding, when newspapers
+and the country were struggling financially,
+the <title level="j">Gazette</title> was purchased for $3,000 by
+William Allen White, a twenty-seven-year-old
+Republican newspaperman ready to hone his
+reporting and editing talents. After writing for
+several Kansas publications, White considered
+purchasing newspapers in several northeast
+Kansas cities, including Lawrence, but decided
+on Emporia, the town where he was born and
+where he had attended college. White borrowed
+the money to purchase the paper from
+Governor E. N. Morrill, from the estate of
+Senator Plumb, from Plumb's brother George,
+and from Major Calvin Hood. All were paid
+back quickly, mostly from money made from
+the sale of White's books and stories, which
+were gaining popularity.</p>
+
+<p>White played the role of small-town country
+editor, conscious of his role in bolstering
+the community. His editorials, often in support
+of small-town values, were frequently
+printed in national newspapers and magazines,
+bringing recognition to the <title level="j">Gazette</title>.
+With new and faster presses and more efficient
+distribution, larger editions and wider circulation
+became possible, and the increased
+subscription rates and advertising revenue put
+the paper on a sound financial footing.</p>
+
+<p>In many respects, the <title level="j">Gazette</title> is similar to
+most local hometown newspapers. It covers
+the local area; it reflects its community's tastes;
+it records the town's history. Unlike most
+dailies, however, the <title level="j">Gazette</title> also gained national
+prominence, as William Allen White
+became well known through his political associations,
+national writings, and Pulitzer Prize.
+As its reputation grew, the newspaper began
+to attract starstruck young journalists, who
+were trained by various <title level="j">Gazette</title> managing and
+city editors. Many went on to become some of
+the state's best journalists.</p>
+
+<p>To this day, the <title level="j">Gazette</title>, appearing six days a
+week, maintains its roots in community coverage.
+It has stayed in the White family, first with
+his son and daughter-in-law, William Lindsay
+and Kathrine White, then with his granddaughter
+and her husband, Barbara and David
+Walker, and now his grandson and his wife,
+Chris and Ashley Walker. While the newspaper
+remains a training ground for many novice
+reporters, its editors help maintain continuity
+with long careers in the newsroom.</p>
+
+<closer>
+<signed>Sally E. Turner<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">The Emporia Gazette's Album of Memories</title>. Emporia <hi rend="smallcaps">KS</hi>:
+Emporia Gazette, 1976.</bibl> <bibl>Griffith, Sally Foreman. <title level="m">Hometown News: William Allen White and the "Emporia Gazette."</title>
+New York: Oxford University Press, 1998.</bibl> <bibl>White,
+William Allen. <title level="m">The Autobiography of William Allen White</title>.
+New York: Macmillan Publishing Company, 1946.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

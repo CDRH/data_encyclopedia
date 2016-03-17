@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Miles, Nelson (1839-1925)</title>
+<title level="m" type="sub"></title>
+<author>Robert Wooster</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wooster, Robert">Robert Wooster</author>. <title level="a">"Miles, Nelson (1839-1925)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">831-832</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILES, NELSON (1839-1925)</head>
+<figure n="egp.war.028" rend="granted">
+<figDesc>"Nelson Miles Appleton (1839-1925), Collodion print on card" (1898, Brands Studios, Chicago) (Harvard Art Museum/Fogg Museum, Historical Photographs and Special Visual Collections Department, Fine Arts Library) </figDesc>
+</figure>    
+
+<p>Nelson Appleton Miles ranks among the army's
+most effective leaders in the Indian wars of the
+late nineteenth century. Born at Westminster,
+Massachusetts, on August 6, 1839, he joined the
+Union army following the First Battle of Bull
+Run. Though lacking in formal military training,
+he proved an excellent combat leader. He
+participated in all of the Army of the Potomac's
+major campaigns except Gettysburg, suffered
+three wounds, and emerged from the war a
+brevet-major general. He supervised the imprisonment
+of former Confederate president
+Jefferson Davis at Fortress Monroe, Virginia,
+from May 1864 to August 1865.</p>
+
+<p>In September 1866 Miles became a full colonel
+in the reorganized post–Civil War regular
+army. In April 1869, following Reconstructionrelated
+duty in North Carolina, he was transferred
+with the Fifth Infantry Regiment to
+Kansas. During the next decade Miles commanded
+troops in a succession of campaigns
+against Native Americans in the Great Plains&#8211;the
+Red River War (1874–75), the Sioux War
+(1876–77), and the Nez Perce campaign (1877).
+He was promoted to brigadier general in 1881
+and later helped to organize the capture of
+Geronimo. After securing a second general's
+star, he oversaw the Ghost Dance campaign of
+1890–91.</p>
+
+<p>In 1895 Miles was appointed commanding
+general of the army. He led the invasion
+of Spanish-occupied Puerto Rico during the
+Spanish-American War but later lost credibility
+by making sensational, though unsubstantiated,
+charges that the War Department
+had distributed "embalmed beef" to American
+soldiers. He also opposed much-needed structural
+reform within the army. Upon reaching
+the mandatory retirement age of sixty-four,
+Miles retired from active military duty and
+later unsuccessfully campaigned for the 1904
+Democratic presidential nomination. He died
+in Washington dc of a heart attack while attending
+the circus with his grandchildren on
+May 16, 1925, and was buried at Arlington National
+Cemetery. Egotistical and a shameless
+self-promoter, Miles had nonetheless established
+a superb combat record against the
+Confederates, several groups of Native Americans,
+and the Spanish.</p>
+
+<closer>
+<signed>Robert Wooster<lb/>
+Texas A&amp;M University at Corpus Christi</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wooster, Robert. <title level="m">Nelson A. Miles and the Twilight of the
+Frontier Army</title>. Lincoln: University of Nebraska Press,
+1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lloyd, Harold (1893-1971)</title>
+<title level="m" type="sub"></title>
+<author>Keith Semmel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Semmel, Keith">Keith Semmel</author>. <title level="a">"Lloyd, Harold (1893-1971)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">272</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LLOYD, HAROLD (1893-1971)</head>
+<figure n="egp.fil.041" rend="granted" type="noclick">
+<figDesc>Harold Lloyd in An Eastern Westerner (1920)</figDesc>
+</figure>    
+
+<p>Harold Lloyd has been called the third genius
+of silent film comedy. The films of Charles
+Chaplin and Buster Keaton may be better
+known to modern audiences, but Lloyd's films
+are equally as innovative and entertaining as
+those of his famous contemporaries. While
+Chaplin was the master of pathos, and Keaton
+deftly battled the machinery of the modern
+age, Lloyd's Great Plains sensibility allowed
+him to mine the humor found in day-to-day
+experiences. His Everyman character paid
+tribute to the resiliency of the American spirit
+and the wisdom of everyday people.</p>
+
+<p>Harold Clayton Lloyd was born on April
+20, 1893, in Burchard, Nebraska. His father,
+James "Foxy" Lloyd, was frequently unemployed,
+requiring the Lloyds to move constantly.
+Harold acquired his mother Elizabeth's
+love for dramatics, and when he was
+twelve years old he performed with a traveling
+stock company directed by John Lane Connor.
+In 1910 the Lloyds divorced. Harold and his
+father moved to San Diego, where Harold
+once again studied drama with Connor, his
+mentor. Lloyd's film debut came in 1912, when
+he landed a small part as a Yaqui Indian in the
+Edison Company's production of <title>The Old Monk's Tale</title>. In 1913 Harold moved to Los Angeles,
+where he performed in several Keystone
+comedies. He was also hired as an extra at
+Universal, becoming friends with another aspiring
+filmmaker, Hal Roach.</p>
+
+<p>When Roach opened his own studio in
+1914, he hired Lloyd to play a character named
+Willie Work in a series of comedy shorts.
+Willie Work was quickly replaced by Lonesome
+Luke, a Chaplinesque character who
+wore tight-fitting clothes and sported a twopiece
+mustache. In 1916 and 1917 Lloyd and
+Roach produced more than a hundred of the
+Luke action comedies, but Lloyd was never
+completely satisfied with the character. In 1917
+he devised a new character who wore normalfitting
+clothes and the black horn-rimmed
+glasses that soon became Lloyd's comic trademark.
+A series of short comedies starring
+Lloyd's new character, often referred to simply
+as Harold, or "the Boy," soon made the comic
+star the highest paid actor in Hollywood. In
+1921 Roach and Lloyd produced their first feature
+film, <title>A Sailor-Made Man</title>, and Lloyd began
+outdrawing both Chaplin and Keaton at
+the box office.</p>
+
+<p>In 1923 Lloyd married Mildred Davis, his
+leading lady in several films, including the
+masterpiece <title>Safety Last</title>, filmed that same year.
+Also in 1923 Lloyd and Roach parted company
+on friendly terms following their final collaboration,
+<title>Why Worry?</title> Lloyd began producing
+his own films for Path&#233; and later for Paramount.
+One of Lloyd's biggest commercial
+hits, <title>The Freshman</title>, was released in 1925. In
+1929 Lloyd made the transition into sound
+films with <title>Welcome Danger</title>, but his style of
+gentle, optimistic comedy was poorly received
+by Depression audiences. Lloyd made his final
+film, <title>Mad Wednesday</title>, in 1947.</p>
+
+<p>In 1952 Lloyd received a special Academy
+Award inscribed to a "master comedian and
+good citizen." In 1962 Lloyd produced a compilation
+of his work entitled <title>Harold Lloyd's World of Comedy</title>, which he presented at the
+Cannes Film Festival to a rave response. During
+the 1960s Lloyd traveled to colleges and
+film festivals, introducing his work to new audiences.
+Harold Lloyd died of cancer on March
+8, 1971. He left behind over 200 films, more
+than Chaplin and Keaton combined, documenting
+his extraordinary contributions to
+American film comedy.</p>
+
+<closer>
+<signed>Keith Semmel<lb/>
+Cumberland College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brownlow, Kevin, and David Gill, producers. <title level="m">Harold Lloyd: The Third Genius</title>. Thames Television Production,
+1989.</bibl> <bibl>Katz, Ephraim, ed. <title level="m">The Film Encyclopedia</title>. New York:
+Harper Collins, 1994: 833–34.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

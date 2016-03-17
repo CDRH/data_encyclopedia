@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McGrath, Tom (1916-1990)</title>
+<title level="m" type="sub"></title>
+<author>Tom Matchie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Matchie, Tom">Tom Matchie</author>. <title level="a">"McGrath, Tom (1916-1990)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">717-718</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCGRATH, TOM (1916-1990)</head>
+
+<p>Perhaps America's most talented political
+poet, Thomas Matthew McGrath was a man
+dedicated to protest. Born (on November 20,
+1916) and raised on a farm near the tiny Plains
+town of Sheldon, North Dakota, he returned
+there through his poetry to relate the simple
+struggles of his boyhood in the 1920s. The
+family farm fell into the hands of bankers in
+the Great Depression. It is such hardships, as
+well as joys, that he captures in his poems,
+especially his best and longest, the semi-autobiographical
+<title level="m">Letter to an Imaginary Friend</title>
+(published in four parts from 1962 to 1985 and
+as a combined definitive edition in 1997).</p>
+
+<p>McGrath's father was influenced by the
+Wobblies and was a storyteller who read
+poems and sang to his son on the farm. Tom
+grew up respecting the workingman, and the
+rhythms and images of the threshing machine
+influenced his poetry. As a young adult he rode
+the rails, and in the early 1940s he worked as a
+welder and union organizer in the New York
+shipyards. He still found time to earn his bachelor
+of arts degree from the University of
+North Dakota in 1939 and his master of arts
+from Louisiana State University a year later. He
+received a Rhodes scholarship to study at Oxford,
+but delayed it until after World War II,
+during which he served reluctantly in the Aleutian
+Islands. In 1954 McGrath was ousted from
+a teaching job at Los Angeles State College of
+Applied Arts and Sciences for his radical views
+and his refusal to testify before the House
+Committee on Un-American Activities.</p>
+
+<p>Following a year in New York, where he
+wrote what he called "junk fiction," McGrath
+returned to teach writing at North Dakota
+State University in Fargo in 1962, and after
+that, at Moorhead State University in Moorhead,
+Minnesota, from 1968 to 1982. However,
+he often took leaves to travel in Europe and
+Mexico, and he published prolifically. His poetry
+has been described as a Whitmanesque
+song about America, though unlike Whitman,
+he candidly attacks the country's racism, classism,
+and sectionalism. McGrath was a Marxist,
+but his communism functioned as a vehicle
+for his art, a framework within which he
+could build and render his vision of life. Like
+Crazy Horse, whom he championed, he was
+an outsider, rooted in the Plains and a defender
+of the people.</p>
+
+<p>McGrath received many honors for his poetry,
+including an American Book Award for
+<title level="m">Echoes inside the Labyrinth</title> in 1983, but his
+frank, outspoken political views probably prevented
+him from receiving the recognition he
+deserved as a great American poet. Tom McGrath died in Minneapolis on September 19,
+1990.</p>
+
+<closer>
+<signed>Tom Matchie<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McGrath, Tom. <title level="m">Letter to an Imaginary Friend</title>. Port Townsend
+<hi rend="smallcaps">WA</hi>: Copper Canyon Press, 1997.</bibl> <bibl>Stern, Frederick C.
+<title level="m">The Revolutionary Poet in the United States: The Poetry
+of Thomas McGrath</title>. Columbia: University of Missouri
+Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

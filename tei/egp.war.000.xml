@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.war.000 SYSTEM "egp.war.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">War</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+
+<div1 type="contents">
+
+<head>War</head>
+
+<figure n="egp.war.000" rend="granted">
+<figDesc>Cheyenne Indian scouts at Fort Reno, Indian Territory</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.war.001">War</ref></item>
+<item><ref n="egp.war.002">Adobe Walls, Battle of</ref></item>
+<item><ref n="egp.asam.002">Amache Internment Camp <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.war.004">Arikara Expedition</ref></item>
+<item><ref n="egp.war.005">Army Topographical Engineers</ref></item>
+<item><ref n="egp.war.006">Beecher Island, Battle of</ref></item>
+<item><ref n="egp.afam.009">Black Regiments <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.war.008">Bleeding Kansas</ref></item>
+<item><ref n="egp.war.009">British Commonwealth Air Training Plan</ref></item>
+<item><ref n="egp.war.010">Cheyenne Mountain</ref></item>
+<item><ref n="egp.war.011">Civil War</ref></item>
+<item><ref n="egp.war.012">Cold War</ref></item>
+<item><ref n="egp.war.013">Counting Coup</ref></item>
+<item><ref n="egp.war.014">Crazy Horse</ref></item>
+<item><ref n="egp.war.015">Crook, George</ref></item>
+<item><ref n="egp.war.016">Fremont, John C.</ref></item>
+<item><ref n="egp.war.017">Frontier Forts</ref></item>
+<item><ref n="egp.war.018">Galvanized Yankees</ref></item>
+<item><ref n="egp.ii.031">Grant, Cuthbert <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.war.020">Harney, William</ref></item>
+<item><ref n="egp.war.021">Hazen, William</ref></item>
+<item><ref n="egp.war.022">Indian Scouts</ref></item>
+<item><ref n="egp.war.023">Intertribal Warfare</ref></item>
+<item><ref n="egp.war.024">Lincoln County War</ref></item>
+<item><ref n="egp.war.025">Little Bighorn, Battle of the</ref></item>
+<item><ref n="egp.war.026">Long, Stephen H.</ref></item>
+<item><ref n="egp.war.027">Mackenzie, Ranald</ref></item>
+<item><ref n="egp.war.028">Miles, Nelson</ref></item>
+<item><ref n="egp.war.029">Military Bases</ref></item>
+<item><ref n="egp.war.030">National Guards</ref></item>
+<item><ref n="egp.war.031">Nimitz, Chester</ref></item>
+<item><ref n="egp.war.032">North-West Rebellion</ref></item>
+<item><ref n="egp.war.033">Palo Duro Canyon, Battle of</ref></item>
+<item><ref n="egp.war.034">Pershing, John J.</ref></item>
+<item><ref n="egp.war.035">Pike, Zebulon</ref></item>
+<item><ref n="egp.war.036">Red Cloud</ref></item>
+<item><ref n="egp.war.037">Red River Resistance</ref></item>
+<item><ref n="egp.pd.047">Riel, Louis <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.war.039">Sand Creek Massacre</ref></item>
+<item><ref n="egp.war.040">San Saba Mission, Destruction of</ref></item>
+<item><ref n="egp.war.041">Seven Oaks Massacre</ref></item>
+<item><ref n="egp.war.042">Sheridan, Philip</ref></item>
+<item><ref n="egp.war.043">Sherman, William Tecumseh</ref></item>
+<item><ref n="egp.war.044">Sioux Wars</ref></item>
+<item><ref n="egp.war.045">Stephenson, William Samuel</ref></item>
+<item><ref n="egp.war.046">Strategic Air Command</ref></item>
+<item><ref n="egp.war.047">Summit Springs, Battle of</ref></item>
+<item><ref n="egp.war.048">Texas Revolution</ref></item>
+<item><ref n="egp.war.049"><hi rend="italic">Tropa de Gren&#237;zaro</hi></ref></item>
+<item><ref n="egp.edu.039">United States Air Force Academy <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.war.051">Villasur Expedition</ref></item>
+<item><ref n="egp.war.052">War Chiefs</ref></item>
+<item><ref n="egp.war.053">Wartime Prices and Trade Board</ref></item>
+<item><ref n="egp.war.054">Washita, Battle of the </ref></item>
+<item><ref n="egp.war.055">World War II</ref></item>
+<item><ref n="egp.war.056">Wounded Knee Massacre</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

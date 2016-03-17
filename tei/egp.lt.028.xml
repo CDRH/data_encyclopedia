@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Immigrant Literature</title>
+<title level="m" type="sub"></title>
+<author>Linda Norberg Blair</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Blair, Linda Norberg">Linda Norberg Blair</author>. <title level="a">"Immigrant Literature."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">480</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">IMMIGRANT LITERATURE</head>
+
+<p>Immigrant literature takes various forms and
+is usually written by immigrants and secondand/
+or third-generation Americans. Often
+autobiographical in nature, these narratives
+reflect the experience of immigration and acculturation
+and the associated uneasiness of
+these processes. The anxiety that immigrant
+literature exposes is a combination of determination,
+success, loneliness, and abandonment.
+Repressed desires of attachment to the
+homeland juxtaposed with the uncertainties
+surrounding assimilation assert themselves as
+underlying conflicts. Added to these struggles
+are issues of self-identity that stem from the
+intricacies of cultural adaptation.</p>
+
+<p>Tension in immigrant literature centers on
+association with the new land, identification
+of the self and other, and language acquisition.
+First, the land itself offers a powerful blend of
+freedom and fear. Whether the landscape is
+the wilderness that Cotton Mather writes
+about in <title level="m">Magnalia Christi Americana</title> (1702) or
+the flat expanse of the Great Plains that Per
+Hansa finds exhilarating and Beret, his wife,
+renders intolerable in O. E. R&#246;lvaag's <title level="m">Giants in the Earth</title> (1927), the New World offers an
+abundance of possibilities even as it diminishes
+emotional security. Immigrant writings
+illustrate ambivalence surrounding the land:
+the untouched wilderness offers both freedom
+from past constraints and fear of independence
+associated with pleasures derived from
+the land.</p>
+
+<p>Immigrant literature also explores the idea
+of self and other. The writings seek to affirm
+the new immigrant self while simultaneously
+using the other to restructure the immigrant's
+new identity. Fundamentally, the notion of
+self and other becomes manifest as the narrators
+and characters reflect the ambiguities of
+the immigrant experience. When people emigrate,
+they strive to give up that which they
+were in order to become the other, that which
+they desire to be. The former self remains part
+of the immigrant's psychological structure. In
+<title level="m">Giants in the Earth</title>, Per Hansa and Beret represent
+self and other. While Per Hansa sublimates
+his Old World self by conquering physical
+obstacles, Beret's transformation to her
+New World self emerges only after a descent
+into extreme loneliness. The juxtaposition of
+these characters reflects the heroic illusion
+and difficult reality of immigrant life.</p>
+
+<p>A third characteristic of immigrant literature,
+intertwined with aspects of self and
+other, is the acquisition of a new language. In
+many immigrant narratives, acquiring English
+becomes a traumatic experience. The writings
+often point out the fact that children become
+more fluent in English than their parents. The
+first language of the immigrant is that of the
+home, containing implications and idioms
+that make the native language familiar and
+comfortable. English initially resides outside
+of the immigrant and belongs to the other.
+Eventually, the immigrant adopts English to
+conduct the business of social interactions,
+education, and commerce. English, however,
+intrudes on the comfort of the home, creating
+an abyss that widens with time as the immigrant
+embraces the new cultural modes of
+behavior.</p>
+
+<p>As immigrants and settlers moved to the
+interior regions of America, they brought
+with them their native languages, cultures,
+dreams of success, and fears of the unknown.
+In their writings, relationships of characters
+and narrators to the physical land, the development
+of self and other, and the acquisition
+of language appear as central themes not
+only in literature written by immigrants and
+their children who made the trek but also in
+works by authors who may be generations removed
+from the actual experience but whose
+collective past embodies acculturation. The
+symphony of voices echoing the immigrant
+experience form a multiethnic framework for
+the literature of the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.014"><title level="m">Giants in the Earth</title></ref>.</p>
+
+<closer>
+<signed>Linda Norberg Blair<lb/>
+Springfield, Virginia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gunn, Giles. <title level="m">The Interpretation of Otherness: Literature, Religion, and the American Imagination</title>. New York: Oxford
+University Press, 1979.</bibl> <bibl>Kolodny, Annette. <title level="m">The Lay of the Land: Metaphor as Experience and History in American Life and Letters</title>. Chapel Hill: University of North Carolina
+Press, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

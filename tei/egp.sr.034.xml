@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lucas, Barbara (1902-1990)</title>
+<title level="m" type="sub"></title>
+<author>Sonja Rossum</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rossum, Sonja">Sonja Rossum</author>. <title level="a">"Lucas, Barbara (1902-1990)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">778</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LUCAS, BARBARA (1902-1990)</head>
+
+<p>"Rodeo's First Lady" was born Barbara Inez
+Barnes on September 1, 1902, on a ranch near
+Cody, Nebraska. As the youngest of twenty-four
+children (hence the nickname "Tadpole,"
+shortened to Tad), she was familiar with competition
+from the start. Riding from a very
+young age, she was winning steer-riding contests
+by the time she was fourteen, and by
+twenty she was a full-time professional cowgirl.
+She met and married cowboy James Edward
+"Buck" Lucas shortly before heading to
+London, where she competed in trick riding
+for the first time.</p>
+
+<p>The 1920s and early 1930s were a Golden
+Age for women in rodeo, giving them the opportunity
+to compete as rough stock riders,
+trick riders, and relay racers. Fascinated by
+trick riding, Lucas mastered stunts such as a
+back drag (arching back so her head was just
+shy of the galloping hooves) and changing
+sides of a running horse by crawling under its
+belly. A fearless performer, she was the only
+woman ever to ride a Brahma bull in Madison
+Square Garden. Her trick-riding skills won
+her an assortment of titles across the country,
+and starting in 1928 Lucas proved the diversity
+of her abilities by winning the all-around
+champion at Madison Square Garden three
+years in a row, retiring the prestigious ten-thousand-dollar
+<hi rend="smallcaps">MGM</hi> Trophy.</p>
+
+<p>During World War II many women's rodeo
+competitions were dropped, so in 1948 the
+Girls Rodeo Association (now the Women's
+Professional Rodeo Association) set out to revive
+women's role in the sport. As a charter
+member, Lucas added credibility to this new
+organization, and her undisputed success and
+popularity eventually earned her a place in all
+three rodeo Halls of Fame: the National Rodeo
+Hall of Fame (1967, first woman elected),
+the National Cowgirl Hall of Fame and Western
+Heritage Museum's Rodeo Hall of Fame
+(1978), and the Pro Rodeo Hall of Fame
+(1979).</p>
+
+<p>Lucas retired from her long career at the age
+of fifty-six. Her daughter Dorothy hated
+rodeo, but second daughter Mitzi loved it
+enough to become a respected trick rider herself.
+Tad Lucas died on February 23, 1990, in
+Fort Worth, Texas. The Tad Lucas Memorial
+Award honors women who excel in any field
+related to western heritage.</p>
+
+<closer>
+<signed>Sonja Rossum<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lecompte, Mary Lou. <title level="m">Cowgirls of the Rodeo: Pioneer Professional
+Athletes (Sport and Society)</title>. Urbana: University
+of Illinois Press, 2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

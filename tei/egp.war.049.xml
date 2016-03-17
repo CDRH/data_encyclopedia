@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Tropade Gen&#237;zaro</hi></title>
+<title level="m" type="sub"></title>
+<author>Russell M. Magnaghi</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Magnaghi, Russell M.">Russell M. Magnaghi</author>. <title level="a">"<hi rend="italic">Tropade Gen&#237;zaro</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">838-839</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">TROPADE GEN&#205;ZARO</hi></head>
+
+<p>During the eighteenth century, Indian slavery
+and the slave trade were important components
+in relations between the New Mexican
+Spanish and Native Americans of the Great
+Plains. Captives who had been acculturated
+and paid their ransom debt were discharged
+by their Spanish masters and entered Spanish
+society as gen&#237;zaros. The term is from "janissary,"
+which referred to Christian captives
+who entered Turkish service.</p>
+
+<p>The genízaros, many of whom came from
+the ranks of such Plains tribes as Plains
+Apaches, Jumanos, Comanches, Kiowas, Pawnees,
+Wichitas, and possibly Crows, lacked legal
+and social status and land; consequently,
+they settled at frontier outposts from El Paso
+to north of Santa Fe, where they received land
+and protected the colony from surrounding
+Indian raiders&#8211;Apaches, Comanches, Navajos,
+and Utes. In time they developed civilian
+(trader, weaver, rancher, farmer) and military
+occupations. Many traded with Plains Indians
+during peaceful times. They continued as an
+unorganized military force known for their
+bravery and fighting ability, both as militia
+troops and scouts. Their economic status improved
+with the horses, livestock, and other
+goods that they were allowed to keep from
+successful campaigns.</p>
+
+<p>The gen&#237;zaro militia was officially recognized
+and formally organized in 1808 as the
+Tropa de Genizaro. It was commanded by a
+corporal from their own ranks and based in
+Santa Fe. They had an organized supply system,
+which provided the militia with equipment
+and expendable supplies. With the end
+of Spanish rule in 1821, the segregated genizaro
+troops disappeared as they merged with the
+regular Mexican militia.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">HISPANIC AMERICANS</hi>: Gen&#237;zaros.</p>
+
+<closer>
+<signed>Russell M. Magnaghi<lb/>
+Northern Michigan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Magnaghi, Russell M. "Plains Indians in New Mexico: The
+Gen&#237;zaro Experience." <title level="j">Great Plains Quarterly</title> 10 (1990):
+86–95.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

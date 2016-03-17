@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mail-Order Brides</title>
+<title level="m" type="sub"></title>
+<author>Julie Checkoway</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Checkoway, Julie">Julie Checkoway</author>. <title level="a">"Mail-Order Brides."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">332-333</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MAIL-ORDER BRIDES</head>
+
+<p>The term "mail-order bride," as it applies to a
+marriage arranged via correspondence between
+American men and women in the Great
+Plains in the nineteenth century, is largely a
+misnomer. Twentieth-century folklore has it
+that a homesteader could peruse the Sears and
+Roebuck or Montgomery Ward catalogs and
+order a wife to be delivered to his dusty doorstep
+just as easily as he could order a rifle,
+stove, or stomach cure, but the truth is far
+more interesting. Arranged long-distance
+marriage existed in the Plains in a range of
+communities, took a number of forms, and
+grew out of a variety of social, economic, and
+cultural phenomena, but never involved the
+literal sale, purchase, or ownership of women,
+as the term "mail-order bride" suggests.</p>
+
+<p>Among Plains Indians, sight-unseen marriage
+was frequently arranged with the help of
+a middleman and could involve the payment
+of a "bride price," intended to compensate the
+woman's family for the impending loss of her
+labor. But intercultural marriage was rare. In
+1854, at a peace conference at Fort Laramie, a
+prominent Cheyenne chief requested of the
+U.S. Army the gift of 100 white women as
+brides, but the army refused. Russian immigrants
+brought with them the tradition of
+<hi rend="italic">koopla</hi>, whereby marriage brokers were paid a
+fee to pair men with potential spouses from
+the Old Country. Similarly, Chinese and Japanese
+obtained "picture brides" from their
+homelands, women whom they had come to
+know only through grainy photographs.
+According to historian Glenda Riley, Asian
+women entered such relationships because of
+parental pressure, to escape poverty, or to hide
+a sullied reputation. It was customary for the
+men to bear all costs, including the woman's
+passage and any wedding expenses incurred.</p>
+
+<p>During the peak years of overland migration,
+hundreds of thousands of white women
+traveled west, but the majority were already
+married, and it was thought that "suitable"
+single women did not go west alone. While
+many cowboys eschewed marriage for perpetual
+bachelorhood, homesteaders believed
+that married men made better farmers.</p>
+
+<p>From the 1830s until the turn of the twentieth
+century, settlers pined for "that useful
+and essential article of household furniture&#8211;a
+wife." So severe was the shortage of single
+white women of marriageable age in Nebraska,
+recounts Mari Sandoz in <title level="m">Old Jules</title>
+(1935), her classic portrait of Plains homesteading,
+"a man had to marry anything that
+got off the train."</p>
+
+<p>By 1865 it was estimated that there were as
+many as 30,000 single women back east, a
+number augmented by the Civil War widows.
+The plentitude of bachelors in the Plains&#8211;and
+hence the chance for greater social and economic
+freedom away from home&#8211;beckoned
+women. Newspapers from Nebraska to Kansas
+and Wyoming (a state the <title level="j">Ladies Home Journal</title> in 1899 declared a heaven for spinsters
+and widows) began to serve as forums for
+matchmaking, running regular "matrimonial
+columns" of paid advertisements, frequently
+with accompanying photographs, for example:
+"A young lady residing in one of the small
+towns in Central New York is desirous of
+opening a correspondence with some young
+man in the West, with a view to a matrimonial
+engagement. . . . she is about 24 years of age,
+possesses a good moral character . . . is tolerably
+well-educated, and thoroughly versed in
+the mysteries of housekeeping"; or more commonly,
+"A Bachelor of 40, good appearance
+and substantial means, wants a wife. She must
+be under 30, amiable, and musical." Across the
+Plains there arose a cottage industry of "heart
+and hand" catalogs, folded double sheets and
+broadsides devoted entirely to the matrimonial
+prospects.</p>
+
+<p>Letters were the only means of courtship
+between potential mates separated by thousands
+of miles. According to one bride, the
+Pony Express "took about four weeks to go
+from east to west," and letters "often came in
+bundles." Language was a means of persuasion.
+Illiterate men could dictate their letters
+to typists who, for a fee, would doctor their
+sentiments on Remington Standards. Dishonesty
+was a risk. Men and women could easily
+misrepresent their physical attributes, their
+station, or finances. A homesteader who sent
+his betrothed a train ticket might find that she
+had turned it in for cash. A 1911 <title level="j">Wahpeton Times</title> article tells of a New York girl for
+whom, upon arrival in Buford, North Dakota,
+"the spell was immediately broken" when she
+saw the face of her intended.</p>
+
+<p>The railroad also played an important role
+in the western diaspora of single women. In
+1882 businessman Fred Harvey sought young
+rural women "of good character, attractive
+and intelligent" as waitresses in whistlestop
+caf&#233;s along the Santa Fe rail line. Harvey required
+that they remain single for a year, live
+in chaperoned dormitories, and entertain
+callers in "courting parlors." By the turn of the
+century, he had married off nearly 5,000 socalled
+Harvey Girls.</p>
+
+<p>By the early twenty-first century, matchmaking
+not only in the Plains but across the
+globe had become technically sophisticated.
+More than 200 so-called mail-order bride
+companies are available on the Internet, providing,
+for a fee, pictures of, or arranged
+meetings with, women from impoverished
+third world countries. At the millennium, the
+U.S. Immigration and Naturalization Service
+estimated that there were 10,000 such marriages
+per year, although specific numbers for
+the Great Plains are not available. The contemporary
+mail-order bride business, with its
+roots in benign nineteenth-century customs,
+has been called the "trafficking" and "enslavement"
+of women, but no clear evidence exists
+that the contemporary incarnation is different
+from its antecedents, except that profits from
+a single business can exceed $500,000 per year
+and a greater economic, social, and linguistic
+divide exists between the men and the women
+they marry.</p>
+
+<closer>
+<signed>Julie Checkoway<lb/>
+University of Georgia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Luchetti, Cathy. <title level="m">"I Do!": Courtship, Love, and Marriage on the American Frontier: A Glimpse at America's Romantic Past through Photographs, Diaries, and Journals, 1715–1915</title>.
+New York: Crown Trade Paperbacks, 1996.</bibl> <bibl>Makabe, Tomoko.
+<title level="m">Picture Brides: Japanese Women in Canada</title>. Toronto:
+University of Toronto Press, 1995.</bibl> <bibl>Riley, Glenda. <title level="m">Building and Breaking Families in the American West</title>. Albuquerque:
+University of New Mexico Press, 1996.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

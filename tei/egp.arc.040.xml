@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Religious Architecture</title>
+<title level="m" type="sub"></title>
+<author>Keith Sawyers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sawyers, Keith">Keith Sawyers</author>. <title level="a">"Religious Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">92-93</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RELIGIOUS ARCHITECTURE</head>
+
+<p>The practice of religion in the Great Plains has
+been diverse, and the historical evidence of
+worship displays a rich variety of physical expression.
+Among the Native inhabitants of the
+Great Plains, religion was intertwined with
+nature. Prominent landscape features such as
+mountains and buttes were venerated as sites
+possessing spiritual significance. An e.cient
+form of mobile architecture was devised by
+the Omahas, who created a special tent for
+housing their Sacred Pole. Permanent structures
+for the practice of religious ceremonies
+were also erected by Plains Indians such as
+the willow sweat lodge of the Lakotas. Indian
+settlements attracted Christian missions as
+European immigrants pushed into the Great
+Plains. For the most part, the rude structures
+associated with these religious activities
+were short-lived. Notable exceptions were the
+Spanish Colonial missions, which continue to
+grace the southern fringes of the Great Plains
+in Texas and New Mexico.</p>
+
+<p>The influx of immigrants into the Great
+Plains of Canada and the United States during
+the nineteenth century resulted in the creation
+of numerous local church organizations, and
+buildings to accommodate worship soon followed.
+The character of many of these early
+churches, regardless of denomination, was
+similar&#8211;a rectangular, one-room wooden
+building capped with a gable roof. A slightly
+more elaborate version included a central bell
+tower, the lower portion of which served as an
+entrance vestibule. Modesty of means and the
+use of pattern books contributed to a significant
+degree of homogeneity in the general appearance
+of the building type during this period.
+The style preferred for these structures
+was Gothic Revival, an imagery associated
+with European Christianity, but most attempts
+to acknowledge this precedent were
+pale imitations of the style as practiced in the
+older metropolitan areas of North America.
+Scarce resources limited use of the Gothic design
+vocabulary; for example, the pointed
+arch above door and window openings might
+appear only on the front elevation. The interiors
+of these early churches were generally
+lacking in spatial development and ornamentation.
+Furthermore, the functional anonymity
+of the room and the mobility of the
+sparse furnishings allowed some fledgling
+frontier communities to temporarily utilize
+the building for the secular activities associated
+with a municipal hall, courtroom, or
+school until resources allowed for the construction
+of these special-use facilities.</p>
+
+<p>By the end of the nineteenth century many
+former frontier communities had grown in
+both population and financial resources. Consequently,
+attention was directed toward the
+design and construction of more sophisticated
+houses of worship. Congregations erected
+churches that reflected both their wealth and
+the history of their beliefs. Guided by the romantic
+influences of the era, the more conformist
+denominations such as Roman Catholic,
+Lutheran, Episcopalian, and Canadian
+Anglican favored the Gothic Revival, Romanesque
+Revival, and occasionally the neoclassical
+Revival styles that were associated with the
+rituals and rich historical traditions of the European
+Christian church. Methodists, Presbyterians,
+Baptists, Congregationalists, and
+some of the newer denominations frequently
+took liberties with their interpretations of
+the traditional Gothic, Romanesque, and
+Classical styles as well as employing more original
+nineteenth-century styles such as the High
+Victorian, Gothic, and Queen Anne. In the
+process they generated diverse and less historically
+accurate versions of the precedents, the
+latter modified to express more contemporary
+values.</p>
+
+<p>Noteworthy deviations from the popular
+revival styles of the period were to be found in
+the interpretations of the Byzantine style employed
+in Jewish synagogues and the churches
+built by both Eastern Catholic and Orthodox
+congregations. Predominantly located in the
+Northern Great Plains and Prairie Provinces,
+Eastern Catholic and Orthodox churches in
+particular were characterized by impressively
+crafted wood construction, complex massing,
+and picturesque domes crowning the roofs
+above the nave and chancel.</p>
+
+<p>More specific distinctions in the architecture
+of the various denominations resulted
+from their differing beliefs and rituals of worship.
+These differences were especially evident
+in the design of church interiors, the two basic
+concerns being a recognition of those emotive
+factors that influenced the worshipers' feelings
+such as illumination, color, and proportions,
+especially height, and liturgical factors
+related to the actions, symbols, and furnishings
+that defined and facilitated the process
+of worship.</p>
+
+<p>Prior to the 1960s the plan and spatial configuration
+of conformist churches placed emphasis
+upon a celebration of the sacraments
+in an environment designed to enhance the
+sense of mystery accompanying rituals and
+the hierarchical separation between the clergy
+and laity. Two traditional configurations were
+most commonly employed. The basilican plan
+consisted of a rectangular nave, which accommodated
+seating for the congregation, and a
+chancel, which was separated from the nave
+by an arched opening and raised floor. Approached
+by steps, the chancel was reserved
+for the clergy and contained the high altar
+against the rear wall. In the cruciform plan the
+longer portion contained the nave, the short
+projection at the top of the cross contained
+the chancel, and the projections to the left and
+right, the transepts, held secondary altars.</p>
+
+<p>The spatial complexity and opulence of
+these interiors could be enhanced by the addition
+of side aisles, a tall nave illuminated by
+clerestory windows, stained glass, liberal use
+of three-dimensional detailing, elegant furnishings,
+and decorative ceiling and wall surfaces.
+A characterizing feature of Episcopal
+and Canadian Anglican churches was the extended
+length of the chancel. This space accommodated
+a choir, the seating of which was
+split into two segments facing one another
+across an aisle that terminated at the altar. The
+interiors of Eastern Catholic and Orthodox
+churches were distinguished by domes that
+spatially defined the nave and chancel. Typically,
+the chancel was separated from the nave
+by an elaborately decorated icon screen that
+obscured the congregation's view of the altar.</p>
+
+<p>The layout and spatial design of nonconformist
+churches such as Methodist, Baptist,
+Presbyterian, and Congregationalist placed
+emphasis upon the spoken word. This led to
+the abandonment of traditional elongated
+plans in favor of a square auditorium configuration
+that greatly enhanced acoustics and
+sight lines. Other features borrowed from auditorium
+design included a gently sloping
+floor and a fan-shaped seating arrangement
+that focused attention upon a raised platform
+containing the pulpit and choir. All these features
+were ideally suited to a room created for
+preaching.</p>
+
+<p>During the last half of the nineteenth century
+a design scheme called the Akron plan
+was widely used by many Protestant congregations. It typically consisted of the auditorium
+arrangement of seating and platform plus a
+large adjacent room separated from the main
+meeting hall by a moveable partition. This
+multipurpose room served several functions.
+When the dividing partition was opened the
+room could accommodate overflow seating
+for the auditorium. When closed the partition
+defined a space used for Sunday school classes.
+The appearance of a church utilizing the
+Akron plan was distinctive and usually asymmetrical.
+The main entrance to the auditorium
+was typically through a tall corner
+tower. This arrangement was particularly appropriate
+for a corner lot and invited direct
+access from both streets. A secondary entrance
+was marked by a shorter tower positioned
+between the auditorium and the Sunday
+school.</p>
+
+<p>In the years following World War II the superiority
+of historical precedents influencing
+both style and hierarchical organization in
+the design of conformist churches was questioned.
+Modernization of Roman Catholic
+churches was accelerated following the Vatican
+Council II in the early 1960s. The latter
+resulted in a massive program of remodeling
+existing churches and rethinking the design
+of new churches. Interior design changes included
+reducing the dominance of the high
+altar in favor of a more communal altar or
+table situated at the front of the chancel or in
+the midst of the seating area. Further diminishing
+of the hierarchical separation of clergy
+and laity was reinforced by utilization of the
+auditorium seating plan. This has produced a
+blurring of the historical distinctions between
+conformist and nonconformist church interior
+layout and exterior massing.</p>
+
+<p>Recent trends in the design of religious architecture
+in the Great Plains reveal a movement
+away from the conservatism of the past
+and toward a search for spatial and liturgical
+compositions compatible with the evolving
+views of contemporary religious worship.
+Meanwhile, significant shifts in population
+linked to social and economic changes resulted
+in the abandonment of many older
+churches throughout the Great Plains during
+the last half of the twentieth century. Finding
+new uses for these redundant but culturally
+significant buildings presents a challenge to
+the communities in which they are located.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">RELIGION</hi>: 
+<ref n="egp.rel.017">Distribution of Religions</ref>.</p>
+
+<closer>
+<signed>Keith Sawyers<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kalman, Harold D. <title level="m">A History of Canadian Architecture</title>.
+Toronto: Oxford University Press, 1996.</bibl> <bibl>Maddex, Diane,
+ed. <title level="m">Built in the U.S.A.: American Buildings from Airports to Zoos</title>. Washington <hi rend="smallcaps">DC</hi>: Preservation Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

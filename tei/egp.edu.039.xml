@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.edu.039 SYSTEM "egp.edu.039.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">United States Air Force Academy</title>
+<title level="m" type="sub"></title>
+<author>William E. Fischer Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fischer, Jr., William E.">William E. Fischer Jr.</author>. <title level="a">"United States Air Force Academy."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">214</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UNITED STATES AIR FORCE ACADEMY</head>
+
+<figure n="egp.edu.039" rend="granted">
+<figDesc>Cadets in front of the USAFA Cadet Chapel, Colorado Springs, Colorado</figDesc>
+</figure>
+
+<p>In 1949, two years after the establishment of an
+independent air force, Secretary of Defense
+James Forrestal appointed a board of educators
+to review the education of core armed
+forces officers. The board, headed by Dwight
+Eisenhower and Robert Stearns, both university
+presidents, advised creating a separate
+institution to meet the needs of the new air
+service. Overtaken by events in Korea, the recommendation
+languished until 1954, when
+Congress authorized Secretary of the Air
+Force Harold Talbott to select the United
+States Air Force Academy (<hi rend="smallcaps">USAFA</hi>) site. After
+exhaustive consideration of 580 possible locations
+in 45 states, three&#8211;Colorado Springs,
+Colorado; Alton, Illinois; and Lake Geneva,
+Wisconsin&#8211;were submitted to Secretary Talbott
+for final site selection. Colorado's enthusiastic
+support influenced the outcome. In
+July 1955 the first cadets entered temporary
+quarters at Lowry Air Force Base in Denver
+while permanent facilities were being
+constructed.</p>
+
+<p>The Cadet Wing moved to the <hi rend="smallcaps">USAFA</hi>
+grounds in August 1958. The following spring
+206 cadets graduated and were commissioned.
+As cold war tensions increased following the
+Cuban missile crisis, authorized wing strength
+nearly doubled to 4,417 cadets. The first female
+cadets graduated with the class of 1980.</p>
+
+<p>The <hi rend="smallcaps">USAFA</hi> campus is nestled among 18,000
+acres fronting the Rocky Mountain's Rampart
+Range. Its most endearing landmark is
+the Cadet Chapel, architect Walter Netsch Jr.'s
+innovative design of glass, aluminum, and
+steel. The chapel's seventeen spires dominate
+the cadet quadrangle and inspire the institution's
+"Commitment to Excellence." That
+commitment, despite occasional scandal, has
+resulted in more than thirty Rhodes scholars
+and critical leadership for the youngest military
+service.</p>
+
+<p><ref target="http://www.usafa.af.mil/">United States Air Force Academy</ref> website.</p>
+
+<closer>
+<signed>William E. Fischer Jr.<lb/>
+Ottawa, Canada</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cannon, M. Hamlin, and Henry S. Fellerman. <hi rend="italic">Quest for
+an Air Force Academy</hi>. Colorado Springs: <hi rend="smallcaps">USAFA</hi>, 1974.</bibl>
+<bibl>Fagan, George V. <hi rend="italic">The Air Force Academy: An Illustrated
+History</hi>. Boulder <hi rend="smallcaps">CO</hi>: Johnson Books, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.tra.000 SYSTEM "egp.tra.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Transportation</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Transportation</head>
+
+<figure n="egp.tra.000" rend="granted">
+<figDesc>Burlington Route depot, Beldon, Nebraska</figDesc>
+</figure>
+
+<list>
+    
+<item><ref n="egp.tra.001">Transportation</ref></item>
+<item><ref n="egp.tra.002">Automobiles</ref></item>
+<item><ref n="egp.tra.003">Aviation</ref></item>
+<item><ref n="egp.tra.004">Board of Railway Commissioners</ref></item>
+<item><ref n="egp.tra.005">Bozeman Trail</ref></item>
+<item><ref n="egp.ind.010">Canadian Pacific Railway <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.tra.007">Cattle Trails</ref></item>
+<item><ref n="egp.tra.008">Covered Wagons</ref></item>
+<item><ref n="egp.tra.009">Dodge, Grenville</ref></item>
+<item><ref n="egp.tra.010">Durant, Thomas</ref></item>
+<item><ref n="egp.gen.011">Earhart, Amelia <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.tra.012">Electric Interurban Railways</ref></item>
+<item><ref n="egp.tra.013">Good Roads Movement</ref></item>
+<item><ref n="egp.tra.014">Harriman, Edward Henry</ref></item>
+<item><ref n="egp.tra.015">Hill, James</ref></item>
+<item><ref n="egp.tra.016">Holladay, Ben</ref></item>
+<item><ref n="egp.tra.017">Holliday, Cyrus K.</ref></item>
+<item><ref n="egp.tra.018">Indian Trails</ref></item>
+<item><ref n="egp.tra.019">Lincoln Highway</ref></item>
+<item><ref n="egp.tra.020">Meridian Highway</ref></item>
+<item><ref n="egp.tra.021">Mormon Trail</ref></item>
+<item><ref n="egp.tra.022">Oregon Trail</ref></item>
+<item><ref n="egp.tra.023">Parking Meter</ref></item>
+<item><ref n="egp.tra.024">Pony Express</ref></item>
+<item><ref n="egp.tra.025">Portages</ref></item>
+<item><ref n="egp.arc.038">Railroad Depots <hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.tra.027">Railroad Land Grants</ref></item>
+<item><ref n="egp.tra.028">Railroads, United States</ref></item>
+<item><ref n="egp.tra.029">Railways, Canada</ref></item>
+<item><ref n="egp.tra.030">Red River Carts</ref></item>
+<item><ref n="egp.sr.044">Riding Around <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.tra.032">Route 66</ref></item>
+<item><ref n="egp.tra.033">Russell, Majors and Waddell</ref></item>
+<item><ref n="egp.tra.034">Santa Fe Trail</ref></item>
+<item><ref n="egp.tra.035">Stagecoaches</ref></item>
+<item><ref n="egp.tra.036">Trans-Canada Highway</ref></item>
+<item><ref n="egp.tra.037">Transcontinental Motor Convoy</ref></item>
+<item><ref n="egp.tra.038">Travois</ref></item>
+<item><ref n="egp.tra.039">Water Transportation</ref></item>
+<item><ref n="egp.tra.040">Wells, Fargo and Company</ref></item>
+<item><ref n="egp.tra.041">Western Trail</ref></item>
+<item><ref n="egp.tra.042">Whoop-Up Trail</ref></item>
+<item><ref n="egp.tra.043">Yellowstone Trail</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

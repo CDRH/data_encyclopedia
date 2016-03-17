@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women in Higher Education</title>
+<title level="m" type="sub"></title>
+<author>Andrea G. Radke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Radke, Andrea G.">Andrea G. Radke</author>. <title level="a">"Women in Higher Education."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">214-215</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOMEN IN HIGHER EDUCATION</head>
+
+<p>Women felt the importance of higher education
+almost as soon as the first settlers arrived
+in the Great Plains. Plains immigrants
+brought with them democratic ideals rooted
+in the need for public education. By the late
+1840s and 1850s only a few scattered communities
+in the eastern Plains had established
+primary schools. After the Civil War, increased
+Plains settlement prompted more
+school building. Public education was not
+yet compulsory in the United States, but communities
+took the initiative of organizing
+schools. Local districts often hired teachers
+from among the young, unmarried daughters
+of homesteaders, especially in the wake of the
+post–Civil War shortage of male teachers.
+Since new teachers were often young and uneducated
+themselves, the need for institutionalized
+teacher training arose early.</p>
+
+<p>The first opportunities for women in higher
+education emerged as part of this need for
+teacher training. In rural areas, teachers had
+little or no access to institutional education,
+so for Plains women, "normal" training and
+teacher institutes provided an early opportunity
+for higher education. Normal schools
+and teacher-training institutes, founded in the
+United States since the early nineteenth century,
+went west with the settlers. However, it
+was not until the late 1860s that Plains states
+and territories established normal schools
+such as Nebraska State Normal School in Peru
+(1867). By the 1870s counties throughout the
+Plains were holding teacher institutes during
+the summer months for educating schoolteachers.
+Little better than high schools, these
+institutes offered a form of higher education
+to rural women. Also called county institutes,
+by the 1890s they became union normals and/or junior normal schools after many counties
+were brought under one, consolidated summer
+training session. It was mainly women
+who attended these institutes because the
+teaching profession became increasingly feminized
+in the late nineteenth century.</p>
+
+<p>Around 1910 many Plains states consolidated
+normal training under state jurisdiction
+with the establishment of state teachers colleges.
+States then assumed more control over
+these colleges by incorporating them within
+the state university systems by the 1930s. After
+World War II education standards began to
+require a bachelor's degree for teacher certification.
+Today, many women college students
+obtain teaching certificates through bachelor
+programs in primary and secondary education
+at state and land-grant universities, where
+they dominate the programs.</p>
+
+<p>University education for women had important
+beginnings in the Great Plains. The
+Morrill Act of 1862 set aside lands for each state
+or territory to establish a university for the
+education of the agricultural and industrial
+populations. Although coeducation was not
+required by the Morrill Act, by 1890 every state
+included the admission of women in its landgrant
+charter. The first Plains land-grant institution
+to admit women was Kansas State
+Agricultural College (Manhattan), founded in
+1863. Others followed: the University of Nebraska
+(Lincoln) in 1869; Texas A&amp;M University
+(College Station) in 1876; Colorado State
+University (Fort Collins) in 1879; South Dakota
+State University (Brookings) in 1881; the
+University of Wyoming (Laramie) in 1886;
+North Dakota State University (Fargo) in 1890;
+and Oklahoma State University (Stillwater) in
+1890. By 1890 coeducation was a recognized
+norm in Great Plains higher education.</p>
+
+<p>Since coeducation was not yet overwhelmingly
+accepted in America, the admission of
+women students was an important experiment
+for Plains women. Women's education
+fit easily into the land-grant mission because
+agricultural populations included farmers'
+wives and daughters as well as those single
+women who farmed for themselves. Domestic
+economy training, later known as home economics,
+provided for the making of scientific
+farm wives. Land-grant universities in the
+Plains were some of the first in the world to
+offer professional domestic economy training
+to female students. Kansas Agricultural College
+in Manhattan, later Kansas State University, offered a domestic economy department
+in 1871, the first of its kind at a public institution
+in America. Other land-grant institutions
+were sometimes slow to establish a domestic
+economy department, instead offering
+women students the traditional, classicalbased
+curriculum of Latin, Greek, history, and
+literature. By the 1890s, however, most domestic
+economy departments were firmly in place.</p>
+
+<p>Domestic economy programs began with
+the basic courses of cooking and sewing. As
+departments expanded, courses included nutrition,
+sanitation, hygiene, air circulation,
+plumbing, dairying, poultry, dressmaking,
+millinery, child care, nursing, and horticulture
+or house gardening. What made landgrant
+universities unique is that men and
+women students together studied basic science
+courses like chemistry and biology. In
+the upper-class years, students divided into
+separate coursework based upon gender: mechanical
+arts (engineering) and agriculture
+for men and domestic economy for women.
+While domestic economy courses built upon
+the scientific foundation women had received
+with their male colleagues, the practical application
+of that science was directed toward
+women's roles as housewives. For instance,
+chemistry was applied toward the study of nutrition
+for healthy meal preparation. Although
+most land-grant women used their
+training for domestic purposes, a few women
+built upon their undergraduate backgrounds
+in chemistry and biology to pursue graduate
+degrees in those sciences.</p>
+
+<p>While higher education for women in the
+Plains centered mostly around domestic economy,
+many women chose to pursue the traditional
+classical curriculum. Since the landgrant
+universities were founded for scientific
+training, some states established separate state
+universities with an emphasis on liberal arts.
+For example, the University of Kansas, the
+University of Oklahoma, the University of
+South Dakota, and the University of North
+Dakota were all founded as liberal arts alternatives
+to their states' land-grant universities.
+At these state universities, women could study
+history and literature and receive teacher
+training. Other states like Nebraska and Wyoming
+combined both the land-grant purpose
+and liberal arts into one consolidated university
+where women could choose between domestic
+arts and liberal arts. Women like Willa
+Cather at the University of Nebraska chose the
+literary option instead of the domestic arts
+program. Other important women who made
+names for themselves at universities in the
+Plains included Grace Hebard as a historian at
+the University of Wyoming and Rachel Lloyd
+as a botanist at the University of Nebraska.</p>
+
+<p>In the Canadian Plains, women entered
+higher education in various private colleges
+and seminaries for women prior to 1900.
+Provinces founded public coeducational universities
+after 1900 with the establishment
+of the University of Manitoba (Winnipeg)
+in 1900, the University of Alberta (Edmonton)
+in 1908, and the University of Saskatchewan
+(Saskatoon), which opened with fifty-eight
+men and twelve women students in 1909.
+These Canadian universities had programs
+similar to the American state universities for
+studying liberal arts, and most had established
+domestic economy programs for women by
+the 1920s.</p>
+
+<p>Native American and African American
+women also found opportunities for higher
+education in the Plains. Since most of the landgrant
+institutions were open to anyone regardless
+of race, a few nonwhite women attended.
+Most Native women entered all-female seminaries
+and academies, like the Chickasaw Female
+Indian Academy in Oklahoma. These
+academies provided language, domestic economy,
+and teacher training for Native women. A
+few Native American women with means went
+east for higher education, like Susan and Marguerite
+LaFlesche of the Omaha nation, who
+attended the Hampton Normal and Agricultural
+Institute in Virginia. Black women who
+could not find adequate training in the Plains
+also enrolled in eastern universities. By the late
+1890s, in order to accommodate the need for
+African American women teachers at segregated
+Plains schools, Texas and Oklahoma
+founded black-only normal schools. The second
+Morrill Act of 1890 created land-grant
+universities for African Americans, including
+Prairie View A&amp;M University in Texas and the
+Colored Agricultural and Normal University
+in Oklahoma, today known as Langston University,
+where women could obtain domestic
+economy and liberal arts education.</p>
+
+<p>The history of women's experiences in
+Great Plains higher education is an especially
+important one to the overall history of women's
+education in America. Many Plains institutions,
+both land-grant and state universities,
+were some of the first public institutions
+in America and in the world to be coeducational.
+Further, women's entrance into scientific
+studies like chemistry and biology was
+pioneered in the Plains, especially in landgrant
+education. Enrollment for women students
+in the nineteenth century hovered at
+around 25 to 30 percent of all university students,
+and that percentage gradually increased
+through the twentieth century. Today, female
+enrollment at Plains universities is just under
+50 percent, with a higher representation for
+women in specific areas of study such as home
+economics, family sciences, history, English,
+music, and art. Women are still underrepresented
+in fields such as agriculture, veterinary
+science, engineering, math, and biological sciences
+as well as in chemistry. Plains universities
+are now seeking to increase female enrollment
+in graduate programs, law schools,
+and medical and dental programs. In 2001
+at the University of Nebraska, for example,
+women constitute 53 percent of all graduate
+students and 43 percent of the students in law
+and architecture but only 32 percent of the
+dental and medical students. With recruiting
+programs, scholarship opportunities, teacher
+training, distance education, and collegiate
+preparation in high schools, Plains women
+continue to expand their presence in Great
+Plains higher education.</p>
+
+<closer>
+<signed>Andrea G. Radke<lb/>
+Brigham Young University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cordier, Mary Hurlbut. <hi rend="italic">Schoolwomen of the Prairies and
+Plains: Personal Narratives from Iowa, Kansas, and Nebraska</hi>.
+Albuquerque: University of New Mexico Press,
+1992.</bibl> <bibl>Myres, Sandra L. <hi rend="italic">Westering Women and the Frontier
+Experience 1899–1915</hi>. Albuquerque: University of New
+Mexico Press, 1982.</bibl> <bibl>Vaughn-Robertson, Courtney Ann.
+"Sometimes Independent but Never Equal&#8211;Women
+Teachers, 1900–1950: The Oklahoma Example." <hi rend="italic">Pacific
+Historical Review</hi> 53 (1984): 39–58.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

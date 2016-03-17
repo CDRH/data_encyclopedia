@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wyatt Earp Films</title>
+<title level="m" type="sub"></title>
+<author>William M. Wehrbein</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.066</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wehrbein, William M.">William M. Wehrbein</author>. <title level="a">"Wyatt Earp Films."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">281-282</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WYATT EARP FILMS</head>
+<figure n="egp.fil.066" rend="granted" type="noclick">
+<figDesc>Title shot from Wyatt Earp-themed film My Darling Clementine (1946) </figDesc>
+</figure>     
+
+<p>Wyatt Earp, itinerant lawman, gambler, and
+saloon keeper, was born in 1848 and died in
+1929. He served as marshal in several towns in
+Kansas, but his legendary status rests on an
+incident in Tombstone, Arizona, that lasted
+no more than half a minute.</p>
+
+<p>Besides having his own television series, the
+character Wyatt Earp appears in about twenty
+motion pictures. In some, nothing more than
+the character name is used, while in others,
+Earp is only a minor figure. But four wellknown
+films purport to tell the history of Wyatt
+Earp. Although the events in these films are
+inconsistent, all of them emphasize the close
+relationship between the Earp brothers (Wyatt,
+Morgan, Virgil, and James), the unlikely
+friendship between Wyatt and the notorious
+alcoholic and tubercular gambler John "Doc"
+Holliday, the stormy relationship between
+Holliday and his female companion, and Wyatt's
+own romance with a strange and beautiful
+woman who arrives on a stagecoach.</p>
+
+<p><title>My Darling Clementine</title> (1946) is the most
+economical of the four, beginning when the
+Earp brothers reach Tombstone and ending
+immediately after the famous gunfight. Furthermore,
+the shootout involves only two
+Earps and Holliday versus four Clantons.
+From its opening shot of Monument Valley
+this film is unmistakably a John Ford Western,
+with its emphasis not on action but on the
+transition from wilderness and disorder to
+civilized society. Henry Fonda's Earp has a dry
+sense of humor and is even a bit playful. While
+the gunfight that destroys the power of the
+Clanton family is certainly the climax, the
+turning point in the film is the dance held at
+the construction site of a church, emphasized
+by the long tracking shots of Earp and Clementine
+(Cathy Downs) walking arm in arm to
+the camp meeting while the hymn "Shall We
+Gather at the River" can be heard in the background.
+At the end of the film the surviving
+Earps head to California, while Clementine
+chooses to remain in Tombstone to organize
+its first school.</p>
+
+<p>Frankie Lane sings a Dimitri Tiomkin ballad
+over the credits of John Sturges's <title>Gunfight
+at the <hi rend="smallcaps">OK</hi> Corral</title> (1957) that comments on the
+action throughout the film. The first half recounts
+the story of Earp's developing friendship
+with Holliday in Fort Griffin, Texas, and
+Dodge City. Burt Lancaster is a stolid if somewhat
+prissy Wyatt Earp who disapproves of
+the near sadomasochistic relationship between
+Holliday (Kirk Douglas) and his longsuffering
+companion, Kate (Jo Van Fleet).
+Their emotionally charged relationship is a
+stark contrast to the rather dull and unconvincing
+romance between Earp and a woman
+gambler (Rhonda Fleming) he initially disdains.
+Accompanied by Holliday, Wyatt leaves
+her to join his brothers in Tombstone, where
+town marshal Virgil is threatened by a gang of
+cattle rustlers. After young Jimmy Earp (Martin
+Milner) is ambushed, the three surviving
+Earps are joined by Holliday in that final
+showdown with six members of the Clanton
+and McLaury gang.</p>
+
+<p>After a montage of historical footage, clips
+from <title>The Great Train Robbery</title> (1903), and
+scenes of the cast shot in grainy black and
+white, <title>Tombstone</title> (1993), directed by George P.
+Cosmatos, opens as Wyatt and his wife join
+his two brothers and their wives in Arizona to
+seek their fortunes. Although they are financially
+successful, the lawlessness of Tombstone
+leads Virgil and Morgan to take up the badge
+again, over Wyatt's objections. Conflict with
+the outlaw gang known as the Cowboys culminates
+in an especially quick and ugly gunfight,
+with three Earp brothers joined by
+Holliday blasting away at five Clantons and
+McLaurys at point-blank range. Surviving
+members of the Cowboys ambush Virgil and
+kill Morgan, convincing the Earp family to
+leave Tombstone. But before heading to California,
+Wyatt secures an appointment as U.S.
+marshal and heads a posse of loyal followers in
+an orgy of revenge killings. While Kurt Russell's
+Earp possesses a cruel streak, he has a
+rather tender relationship with the deteriorating
+Holliday (played by Val Kilmer in a flamboyant
+performance).</p>
+
+<p>Released only nine months after Tombstone,
+Lawrence Kasdan's <title>Wyatt Earp</title> (1994)
+takes time telling its story. The film flashes
+back to the cornfields of Iowa, where Earp's
+father (Gene Hackman) instills in his many
+children the primacy of family over all other
+human relationships. After adventures in California
+and Wyoming Territory, young Wyatt
+settles in Lamar, Missouri, to raise a family
+and read law. When his wife dies of typhoid, a
+despondent Earp (Kevin Costner) falls into
+alcoholism and crime until his father arranges
+for his release from jail. Jumping bail, Wyatt
+heads west to become a lawman in Wichita
+and Dodge City, where he is fired for excessive
+brutality. The story of the Earp family in Arizona
+parallels rather closely the <title>Tombstone</title>
+version, but this Wyatt is even colder and
+more aloof, his life driven primarily by fate
+rather than choice.</p>
+
+<p>After years of traveling the real Wyatt Earp
+settled in Southern California and in his later
+years often hung out with former cowboys
+who had become extras and wranglers for
+Hollywood Westerns. When he died both William
+S. Hart and Tom Mix were pallbearers at
+his funeral.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.011">Cattle Towns</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.020">Earp, Wyatt</ref>; <ref n="egp.ii.035">Holliday, Doc</ref>.</p>
+
+<closer>
+<signed>William M. Wehrbein<lb/>
+Nebraska Wesleyan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Faragher, John Mack. "The Tale of Wyatt Earp." In <title level="m">Past Imperfect: History According to the Movies</title>, edited by Ted
+Mico, John Miller-Monzon, and David Rubel. New York:
+Henry Holt and Company, 1995: 154–61.</bibl> <bibl>Parks, Rita. <title level="m">The Western Hero in Film and Television: Mass Media Mythology</title>.
+Ann Arbor <hi rend="smallcaps">MI</hi>: <hi rend="smallcaps">UMI</hi> Research Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

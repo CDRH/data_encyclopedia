@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Female Employment Act</title>
+<title level="m" type="sub"></title>
+<author>Ken Leyton-Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brown, Ken Layton">Ken Layton Brown</author>. <title level="a">"Female Employment Act."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">143</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FEMALE EMPLOYMENT ACT</head>
+
+<p>In February of 1912 the Saskatchewan legislature
+enacted the Female Employment Act,
+which made it illegal for "any Japanese, Chinaman
+or other Oriental person" to employ
+or offer lodging to any "white woman or girl."
+The legislation resulted from, in a general
+sense, the adoption in Saskatchewan of pronounced
+anti-Chinese ideas, current especially
+on the West Coast, and from an almost
+pathological fear of miscegenation. However,
+the trigger was a seemingly innocuous incident
+in Moose Jaw involving a Chinese restaurant
+owner who rapped with a broom handle
+the ankle of a white woman (and former employee)
+who was blocking a doorway in his
+establishment. This incident, for which the
+restaurateur was convicted of indecent assault,
+occurred less than a week before the introduction
+and passage of the act.</p>
+
+<p>The owners of two restaurants in Moose
+Jaw, with the financial help of other Chinese
+businessmen and the active support of their
+white female employees, unsuccessfully challenged
+the act before the courts, claiming that
+it infringed on federal powers. The act's scope
+was reduced in 1913 when an amendment confined
+the prohibition to Chinese, and again at
+the end of World War I when another amendment
+allowed the owners of restaurants and
+laundries to employ white females if they obtained
+a yearly license from the municipal
+council.</p>
+
+<p>It was a demeaning experience to apply for
+such a license, and by no means guaranteed to
+be successful. The effect of the act was to discourage
+such businesses, commonly run by
+Chinese, from employing white females and
+to contribute to the marginalization of the
+Chinese in Saskatchewan. Of course the act
+also limited employment opportunities for
+"white women and girls," and it was this that
+ultimately led to the act's repeal in 1969.</p>
+
+<closer>
+<signed>Ken Leyton-Brown<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Leyton-Brown, Ken. "Discriminatory Legislation in Early
+Saskatchewan and the Development of Small Business." In
+<title level="m">Proceedings of the Seventh Annual Conference of the International
+Council for Small Business&#8211;Canada</title>. Regina: <hi rend="smallcaps">icsb</hi>-
+Canada, 1991: 252–71.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

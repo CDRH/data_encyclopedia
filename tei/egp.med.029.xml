@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Leader-Post</hi> (Regina)</title>
+<title level="m" type="sub"></title>
+<author>Peter E. Mayeux</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mayeux, Peter E.">Peter E. Mayeux</author>. <title level="a">"Military Post Publications."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">516</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILITARY POST PUBLICATIONS</head>
+
+<p>U.S. troop newspapers in both Spanish and
+English appeared in the Great Plains soon after
+the Mexican War (1846–48). These soldier
+newspapers included the <title level="j">Anglo-Saxon</title>, the
+<title level="j">Santa Fe Republican</title>, the <title level="j">Flag of Freedom</title>, and
+the <title level="j">Picket Guard</title>&#8211;one of the first substantial
+troop papers of the U.S. Army. The papers
+included items on American troop victories,
+the preparedness of Mexican troops, the need
+for accurate reporting, the rivalry between
+regular and volunteer troops, and the need to
+keep enlisted men's morale high. Although
+they generally lasted a short time, these small,
+letter-size sheets accustomed troops to having
+their own papers, even in combat zones.</p>
+
+<p>In 1864, during the American Civil War, the
+<title level="j">Frontier Scout</title>, a four-page, three-column
+weekly, appeared at Fort Union, Dakota Territory.
+The same name was used for a paper
+started in 1865 farther down the Missouri
+River at Fort Rice, Dakota Territory. It is likely
+that the same printing office produced both
+papers. Prisoner-of-war publications were not
+uncommon. On a sheet of unruled letter paper,
+a captain in the Connecticut Volunteers
+produced a handwritten publication, the <title level="j">Old Flag</title>, at Camp Ford, Texas. Each single copy
+was read aloud to prisoners.</p>
+
+<p>Post publications reflected the military's
+growing professionalism between the Civil
+War and the beginning of World War I. Weekly
+newspapers were established at several Plains
+military installations to help relieve boredom,
+inform troops, and recount life on the frontier.
+In articles, poems, drawings, cartoons, and editorials,
+readers learned about military policies
+and were informed about life at the post. Great
+Plains newspapers included the <title level="j">Chugg Water Journal</title>, Fort Laramie; the <title level="j">Phil Kearny Scout</title>,
+Fort Philip Kearny, Dakota Territory; the <title level="j">Daily Telegraph</title>, Fort Bridger, Wyoming; and the
+<title level="j">Plains</title>, Fort Larned, Kansas. The frontier soldier
+papers resembled their civilian counterparts
+with their mixture of wit and satire and
+their boosterism.</p>
+
+<p>Publications were also established by veterans
+and other military groups. In 1888, for
+example, the United States Cavalry Association
+issued the <title level="j">U.S. Cavalry Journal</title> from
+Leavenworth, Kansas, and after 1910 the Artillery
+Association published the <title level="j">Field Artillery Journal</title> from Washington <hi rend="smallcaps">DC</hi> and Fort Sill,
+Oklahoma.</p>
+
+<p>During World War I, camp newspapers
+typically were seven-column, four-page papers
+costing two cents a copy. Weekly issues
+aimed to boost troop morale and promote
+high moral standards. Many soldier papers
+were launched following the Armistice, including
+the <title level="j">Jayhawker</title> in France, the "Unofficial
+Organ of the 137th Infantry," a unit with
+Kansas connections. A hospital paper, the <title level="j">Fort Bayard News</title>, was published near Silver City,
+New Mexico, by the U.S. Army General Hospital.
+And in 1922 the first monthly issue of the
+<title level="j">Military Review</title> was published at the Command
+and General Staff College at Fort Leavenworth,
+Kansas. The <title level="j">Review</title> has been labeled
+the "Professional Journal of the U.S. Army"
+because of its articles on military philosophy
+and tactics and its influence on army doctrine.</p>
+
+<p>Long before Pearl Harbor, <hi rend="smallcaps">GI</hi> papers were
+started to help train draftees. Two of these papers
+were the <title level="j">Camp Wolters Longhorn</title>, published
+near Mineral Wells, Texas, and the
+<title level="j">Rainbow Reveille</title> at Camp Gruber, Oklahoma.
+During the war, other troop newspapers
+emerged, including <hi rend="smallcaps"><title level="j">BAM</title></hi>, published in
+1943 at the Naval Air Gunner's School, Purcell,
+Oklahoma. World War II military publications
+observed tight editorial controls that
+produced items that were bland, traditional,
+and predictable. Most were weeklies printed
+by letterpress or offset, although several were
+mimeographed issues. Writers with little or
+no actual journalism experience produced
+many of the camp papers.</p>
+
+<p>Several Great Plains military post publications
+continue journalistic traditions that began
+in the nineteenth century. Some of these
+are the <title level="j">Field Artillery Journal</title> (a magazine)
+and <title level="j">Military Review</title>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.029">Military Bases</ref>.</p>
+
+<closer>
+<signed>Peter E. Mayeux<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cornebise, Alfred Emile. <title level="m">Ranks and Columns: Armed Forces Newspapers in American Wars</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood
+Press, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

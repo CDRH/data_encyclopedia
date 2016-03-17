@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.112">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Standing Bear (ca. 1829-1908)</title>
+<title level="m" type="sub"></title>
+<author>James Lake Sr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.112</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lake, Sr., James">James Lake, Sr.</author>. <title level="a">"Standing Bear (ca. 1829-1908)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">605</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STANDING BEAR (ca. 1829-1908)</head>
+<figure n="egp.na.112" rend="granted" type="noclick">
+<figDesc>Formal portrait of Ponca chief Standing Bear</figDesc>
+</figure>
+
+<p>In the Nebraska Hall of Fame in the State Capitol
+building is a bust of Standing Bear. He is
+there among other honored Nebraskans because
+of the pivotal role he played in resisting
+the United States' efforts to move his people
+from their homeland and for his victory in a
+famous trial, which projected American injustices
+against Native Americans into the
+public mind.</p>
+
+<p>Standing Bear was born around 1829 in the
+traditional Ponca homeland near the confluence
+of the Niobrara and Missouri Rivers.
+The Poncas sold this homeland to the United
+States in 1858, retaining a 58,000-acre reservation
+between Ponca Creek and the Niobrara.
+In 1865 the reservation boundaries were modified,
+resulting in a larger reservation that
+fronted on the Missouri River. On this reservation
+the Poncas lived a life of deprivation
+and fear&#8211;the United States did little to protect
+them from attacks from the Brulé Sioux.
+Furthermore, when the United States created
+the Great Sioux Reservation in 1868, the Ponca
+Reservation was included within its boundaries,
+arguably depriving them of title to their
+remaining land.</p>
+
+<p>This was the context for the removal of the
+Poncas to Indian Territory in 1877. Standing
+Bear was among the chiefs who protested this
+eviction, and for this he was imprisoned at
+Yankton in early 1877. But they were forced
+to move. Standing Bear went with the second,
+more resistant, group of migrants. On
+the way, his daughter Prairie Flower died of
+consumption.</p>
+
+<p>On their new reservation in Indian Territory,
+the Poncas continued to die in great
+numbers. Unknown to their agent, Standing
+Bear and twenty-nine other Poncas had been
+storing their rations in preparation for the
+daunting journey back to the Niobrara. They
+left on January 1, 1879, and trekked through
+the Plains winter to reach the reservation of
+their relatives, the Omahas, in mid-March.
+Standing Bear carried with him the bones of
+his son to be buried in the familiar earth along
+the Niobrara.</p>
+
+<p>Again the federal government intervened.
+Standing Bear and his followers were arrested
+by order of Gen. George Crook and taken to
+Fort Omaha, the intention being to return
+them to Indian Territory. At this point Thomas
+Henry Tibbles, an Omaha newspaperman, became
+interested in their plight and secured
+two Nebraska lawyers to represent them. The
+lawyers filed a federal court application for
+habeas corpus to test the legality of the detention.
+Judge Elmer Dundy, after permitting
+Standing Bear to make a moving speech, ruled
+the detention illegal and the prisoners released.
+Dundy reasoned that Indians were indeed
+"persons" under the law and entitled to
+sever tribal connections and to live where they
+desired.</p>
+
+<p>Standing Bear subsequently toured the eastern
+United States with Tibbles, arousing support
+for the reform of federal Indian policy. In
+the 1880s he lived with his followers in the bend
+of the Niobrara, farming successfully. They became
+known as the Northern Poncas, and their
+lives increasingly separated from the Southern
+Poncas who had remained in Indian Territory.
+Standing Bear died in 1908 and was buried
+alongside his ancestors.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.053">Trial of Standing Bear</ref>.</p>
+
+<closer>
+<signed>James Lake Sr.</signed>
+University of Nebraska College of Law</closer>
+</div1>
+
+<div1>
+<bibl>Lake, James A., Sr. "Standing Bear, Who?" <title level="j">Nebraska Law
+Review</title> 60 (1981): 451–503.</bibl> <bibl>Tibbles, Thomas Henry. <title level="m">The
+Ponca Chiefs: An Account of the Trial of Standing Bear</title>.
+Edited by Kay Graber. Lincoln: University of Nebraska
+Press, 1972.</bibl> <bibl>Wishart, David J. <title level="m">An Unspeakable Sadness: The
+Dispossession of the Nebraska Indians</title>. Lincoln: University
+of Nebraska Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

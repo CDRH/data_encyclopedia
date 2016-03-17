@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Eiseley, Loren (1907-1977)</title>
+<title level="m" type="sub"></title>
+<author>Jacquelynn Sorensen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sorensen, Jacquelynn">Jacquelynn Sorsensen</author>. <title level="a">"Eiseley, Loren (1907-1977)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">626</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EISELEY, LOREN (1907-1977)</head>
+<figure n="egp.pe.023" rend="granted">
+<figDesc>Loren Eiseley</figDesc>
+</figure>
+
+<p>Loren Corey Eiseley was born September 3,
+1907, in Fremont, Nebraska, and was the only
+child of Daisy Corey and Clyde Edwin Eiseley.
+After briefly residing in both Fremont and
+Aurora, the family settled in Lincoln, where in
+1925 Loren completed his public schooling,
+the first member of his family to do so. Having
+been introduced to the natural history museum
+on the University of Nebraska campus at
+age twelve and returning often to be fascinated
+by its archeological and anthropological exhibits,
+he entered the university that fall intent
+on majoring in science. It was at Nebraska
+that he experienced his first scientific expedition
+as part of the South Party (Morrill Paleontological
+Expedition of 1931–33). Professor
+C. Bertrand Schultz, leader of the expedition,
+honored Eiseley some years later by naming a
+fossil oreodont after him (<hi rend="italic">hadroleptauchenia
+eiseleyi</hi>).</p>
+
+<p>Eiseley graduated from the university in
+1933 with a Bachelor of Arts in sociology and
+English and received a doctorate in anthropology
+at the University of Pennsylvania in 1937.
+After brief tenure at the University of Kansas
+and Oberlin College in Ohio, where he served
+as chair of the Department of Sociology and
+Anthropology, he returned to Pennsylvania
+where he remained for thirty years until he
+ended his teaching career as Benjamin Franklin
+Professor of Anthropology and the History
+of Science.</p>
+
+<p>Although his formal education and subsequent
+livelihood would emphasize scientific
+application, Eiseley maintained a dedicated
+and productive interest in literature and composition.
+In fact, his fiction won him awards
+from <title level="j">Atlantic Monthly</title> as a high-school senior
+and citation in the Distinctive Index of <title level="m">Best
+Short Stories of 1936</title>, and he wrote three collections
+of poetry. But it was Eiseley's combination
+of scientific analysis and poetic sensibility
+that brought him his greatest acclaim. In
+books like <title level="m">The Immense Journey</title> (1957) and
+<title level="m">Darwin's Century: Evolution and the Men who
+Discovered It</title> (1958), he interpreted natural
+history for a wide audience. Eiseley conveyed
+a sense of awe and wonder when he wrote
+about nature, a spiritual yearning that reverberated
+with his readers.</p>
+
+<p>During his lifetime, Eiseley was awarded
+thirty-six honorary degrees, memberships in
+distinguished scholarly societies&#8211;including
+the National Institute of Arts and Letters&#8211;and
+was appointed by President Lyndon Johnson
+to the President's Task Force on the Preservation
+of Natural Beauty. He was the twelfth recipient
+of the Distinguished Nebraskan Award.
+Loren Eiseley died in Philadelphia on July 9,
+1977.</p>
+
+<closer>
+<signed>Jacquelynn Sorensen<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Christianson, Gale E. <title level="m">Fox at the Wood's Edge: a Biography
+of Loren Eiseley</title>. New York: Henry Holt and Company,
+1990.</bibl> <bibl>Heidtmann, Peter. <title level="m">Loren Eiseley: A Modern Ishmael</title>.
+Hamden <hi rend="smallcaps">CT</hi>: Archon Books, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

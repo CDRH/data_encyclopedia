@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nature Writing</title>
+<title level="m" type="sub"></title>
+<author>Susan Naramore Maher</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Maher, Susan Naramore">Susan Naramore Maher</author>. <title level="a">"Nature Wriiting."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">487</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATURE WRITING</head>
+
+<p>Nature writing has been a component of
+American Great Plains literature ever since
+Lewis and Clark captured their impressions of
+the Plains in their journals. Long before, Native
+peoples had described their existence in
+stories about nature, passed on from generation
+to generation. The land's presence indelibly
+marks itself in language, making nature a
+part of Plains fiction, poetry, nonfiction, and
+drama. Frederick Philip Grove's <title level="m">Over Prairie Trails</title> (1922) marks the beginning of a vital
+body of twentieth-century Great Plains nature
+writing that has emerged in both the United
+States and Canada. This literary tradition gazes
+back upon the irrevocable environmental
+changes on the Plains, noting the loss of species,
+the depletion of resources, the economic
+boom-and-bust cycles that have populated
+and depopulated areas, and the traumatic displacement
+of Native peoples. Grove's narrative
+positions a lone traveler on the Plains both
+fascinated with and distrustful of the natural
+forces confronting him. This ambivalence toward
+such a vast landscape is a signature mood
+in much Plains nature writing.</p>
+
+<p>The natural landscape today reveals an environment
+vastly different from that encountered
+by Lewis and Clark in 1804. The aftermath
+of settlement haunts contemporary
+Plains nature writers such as Gretel Ehrlich,
+Ian Frazier, Don Gayton, Linda Hasselstrom,
+Wes Jackson, William Least Heat-Moon, John
+McPhee, and Wallace Stegner. Least Heat-
+Moon's metaphor of deep mapping that conflates
+natural and human history through
+time and space provides an understanding of
+contemporary nature writing of the Plains.
+Like geologists, these writers create crosssectional
+narratives of natural history, illuminating
+the strata in which natural history
+makes contact with human cultures, in which
+deep time and human time collide. John Janovy's
+textual journeys to Keith County, Nebraska,
+illustrate the complex histories that
+Plains nature writers create. Evolutionary history
+is rich in Keith County (and in Don Gayton's
+Saskatchewan), yet European Americans
+have rapidly altered what has taken millions of
+years to create. Plains human history unravels
+at an even faster pace. Around the abandoned
+homesteads, ghost towns, and empty schoolyards,
+nature reasserts its claim. Species become
+extinct, but the niches will be filled with
+new plants and animals. In a "tallgrass dream,"
+Gayton ponders the complexity of reestablishing
+grasslands that are all but gone.</p>
+
+<p>Nature writing of the Plains is as much
+about the human response to change as it
+is about the natural world's adjustment to
+change. It examines the human need for spiritual
+connection to the land. Kathleen Norris
+coined the phrase "spiritual geography" to define
+her search for meaning in western South
+Dakota, and other nature writers of the Plains,
+including Loren Eiseley, Sharon Butala, Don
+Gayton, Linda Hogan, Least Heat-Moon, Norris,
+and Dan O'Brien have also expressed with
+memorable poignancy their spiritual hungers.
+To counter the sense of fragmentation that
+often accompanies life in embattled communities,
+these writers seek wisdom in the land.
+Some, like Linda Hasselstrom, are acutely
+aware of how tenuous humans' hold on the
+land is. An entire way of life is threatened when
+ranchers and farmers face economic hardships.
+Native writers in particular turn back to
+the land to re-create their tribal legacies and to
+recover suppressed spiritual traditions.</p>
+
+<p>Nature writing of the Plains, therefore, expresses
+multiple themes: to account for loss, to
+acknowledge mistakes, to preserve and celebrate
+what remains, and to retrace centuries
+of change. To accomplish such layered narratives,
+nature writers of the Plains cross boundaries
+of genre and discipline, region and country,
+gender and culture. In voicings rich and
+variant, they examine complex issues of science,
+history, and human desire.</p>
+
+<closer>
+<signed>Susan Naramore Maher<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lyon, Thomas J. "The Nature Essay in the West." In <title level="m">A Literary History of the American West</title>, edited by J. Golden
+Taylor. Fort Worth: Texas Christian University Press, 1987:
+221–65.</bibl> <bibl>Quantic, Diane Dufva. <title level="m">The Nature of the Place: A Study of Great Plains Fiction</title>. Lincoln: University of Nebraska
+Press, 1995.</bibl> <bibl>Thacker, Robert. <title level="m">The Great Prairie Fact and Literary Imagination</title>. Albuquerque: University of
+New Mexico Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

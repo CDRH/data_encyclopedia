@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.061">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Oklahoma</title>
+<title level="m" type="sub"></title>
+<author>David R. Morgan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.061</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morgan, David R.">David R. Morgan</author>. <title level="a">"Oklahoma."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">682-683</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OKLAHOMA</head>
+
+<p>When Oklahoma became the forty-sixth state
+in 1907, it brought together two disparate territories.
+The eastern half of the state was Indian
+Territory, a place where the federal government
+had been sending Native Americans
+since 1817. The western region, officially unassigned
+land, eventually became Oklahoma
+Territory. These two regions, reflecting significant
+topographical differences, were even
+more distinctive in history, culture, and political
+orientation.</p>
+
+<p>In the Land Run of 1889, white settlers
+poured into the "unassigned lands" of what
+would become Oklahoma Territory. These
+homesteaders came largely from the Midwest,
+bringing their Republican politics and the
+values of frontier individualism. The northern
+and western Oklahoma Plains was ideal wheat-growing
+country. Today, it remains sparsely
+settled, primarily agriculture land. Beginning
+in the mid-1800s, other settlers, mostly whites
+from Texas and the South, had begun a relentless
+invasion of Indian Territory. The land in
+the southeastern region, with rolling hills and
+scrub forest, was far less suitable for large
+farms. Many of the new occupants became
+subsistence farmers. They brought along their
+Democratic heritage and a southern cultural
+and political outlook.</p>
+
+<p>The enduring question remains: is Oklahoma
+primarily a Plains or southern state? It
+is both, and distinctive regional differences are
+still visible today. The northwestern wheat-growing
+region is still far more Republican
+than the rural southeast. The political fault
+line bisects the state from northeast to southwest,
+largely reflecting the Indian Territory.
+Oklahoma Territory division at statehood.
+Old-timers still refer to the southeast as "Little
+Dixie." It is the poorest part of the state and
+remains the most Democratic. Since World
+War II the state's two large metropolitan areas,
+Oklahoma City and Tulsa, have joined the
+rural northwest as Republican strongholds.</p>
+
+<p>Statewide, more and more Oklahoma voters
+have turned to Republican candidates. The last
+Democratic presidential nominee to carry the
+state was Lyndon Johnson in 1964. Unlike the
+states of the Deep South, race has not been a
+major cause of this shift. With an African
+American population of about 8 percent, race
+has never been the defining issue in Oklahoma
+politics. A key influence in the state's shifting
+political allegiance has been religion. With an
+abundance of Protestant fundamentalists and
+evangelicals, the state has become a bastion of
+social conservatism. In 2000 the Christian
+Right dominated the state's Republican Party.
+Oklahoma's six House members, and senators
+Don Nickles and Jim Inhofe, were all Republicans,
+a first in state history. All had 100 percent
+Christian Coalition voting records.</p>
+
+<p>For statewide offices, the Republicans have
+fared less well. In the year 2000 Gov. Frank
+Keating, a Tulsa Republican, was serving his
+second term. Of the additional ten statewide
+offices, the Republicans held five. Democrats
+controlled the state legislature, holding about
+three-fifths of the seats in the House (60 of
+101) and the Senate (33 of 48). Although party
+registration favors the Democrats (about 57
+percent to 35 percent Republican, with 8 percent
+Independent), more Sooners self-identify
+as Republicans than Democrats. At the end of
+the twentieth century a statewide survey of
+party identification shows 39 percent Republican,
+31 percent Democrat, and the balance Independent
+or other. These figures represent a
+precise reversal of party identification from
+the 1980s.</p>
+
+<p>The state's populist-influenced constitution
+scatters power widely. Boards and commissions
+abound, mostly controlled indirectly, if
+at all, by the state's chief executive. In formal
+power, Oklahoma's governor ranks below
+average. The office is especially weak on appointment
+power and the authority to reorganize
+the executive branch.</p>
+
+<p>Following a 1960s bribery scandal in the state
+supreme court, the voters approved a constitutional
+amendment removing the courts from
+partisan politics. The governor now appoints
+members of the two highest courts to a six-year
+term (the supreme court has nine members and
+the court of criminal appeals five members).
+The nominees must come from a list of three
+names provided by a judicial nominating commission.
+Each six years, the incumbents may
+seek a new term by appearing on a retention
+ballot. The voters elect lower-level judges on
+nonpartisan ballots.</p>
+
+<p>Oklahoma's political culture has been called
+"frontier individualism" or "agrarian populist."
+With a pro-gun, antiregulation electorate,
+the state enjoys a low tax burden. Still, it
+has a higher than average number of state and
+local government employees. Such an anomaly
+results in part from the continued political
+strength of rural Oklahoma. The state contains
+seventy-seven counties, each electing
+eight separate officials, and there are more
+than 500 independent school districts.</p>
+
+<p>The state's population (about 3.4 million in
+2000) grew less rapidly than the nation's as a
+whole, causing the loss of a congressional seat
+following the 2000 census. The economy has
+diversified and is far less dependent today on
+extractive industry and agriculture. Still, the
+state's per capita income is below average and
+is only partly offset by a lower cost of living. As
+the state's quest for a more diversified economy
+continues, Oklahoma struggles to find its
+place in a global technology economy.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: Boomers / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.050">Indian Territory</ref>.</p>
+
+<closer>
+<signed>David R. Morgan<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Markwood, Christopher L., ed. <title level="m">Oklahoma Government
+and Politics: An Introduction</title>. Dubuque <hi rend="smallcaps">IA</hi>: Kendall/Hunt
+Pub. Co., 2000.</bibl> <bibl>Morgan, David R., Robert E. England, and
+George G. Humphreys. <title level="m">Oklahoma Politics and Policies</title>.
+Lincoln: University of Nebraska Press, 1991.</bibl> <bibl>Scales, James
+R., and Danney Goble. <title level="m">Oklahoma Politics: A History</title>. Norman:
+University of Oklahoma Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

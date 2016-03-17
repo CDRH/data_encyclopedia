@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pettigrew, Richard (1848-1926)</title>
+<title level="m" type="sub"></title>
+<author>Kermit L. Staggers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.062</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Staggers, Kermit L.">Kermit L. Staggers</author>. <title level="a">"Pettigrew, Richard (1848-1926)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">683</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PETTIGREW, RICHARD (1848-1926)</head>
+
+<p>One of the first two U.S. senators from South
+Dakota and a successful businessman, Richard
+Franklin Pettigrew was born July 23, 1848, in
+Ludlow, Vermont, to abolitionist parents who
+maintained a station on the Underground Railroad.
+When he was young his family moved to
+Wisconsin, where he graduated from Evansville
+Academy in 1864, attended Beloit College for
+two years, and studied law at the University of
+Wisconsin.</p>
+
+<p>In 1870 Pettigrew settled in Sioux Falls, Dakota
+Territory, where he earned his living as a
+surveyor and lawyer before establishing himself
+as a prominent real estate broker. During
+the next twenty years his business interests expanded
+to include railroads, mining, and agriculture.
+Politically astute, he was first elected
+to the territory's legislature in 1872 as a Republican
+and later served on the territorial
+council before winning the position of delegate
+to the U.S. Congress in 1880.</p>
+
+<p>After South Dakota achieved statehood in
+1889, Pettigrew served twelve years in the U.S.
+Senate. During his first term in office, the
+Panic of 1893 ruined his business investments,
+which caused him to abandon his Republican
+principles for the lure of populism. He advocated
+the issues of free silver and government
+regulation of large businesses while personally
+attacking Republicans and their positions on
+the gold standard and the annexation of Hawaii
+and the Philippines. These views eventually
+doomed his reelection efforts for a third
+term in the Senate. Disgruntled, he moved to
+New York City, where he lived for ten years
+and amassed another personal fortune before
+returning to Sioux Falls. He died on October
+5, 1926, leaving to the community his home to
+be used as a museum that would preserve the
+Pettigrew legacy.</p>
+
+<closer>
+<signed>Kermit L. Staggers<lb/>
+University of Sioux Falls</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hendrickson, Kenneth E., Jr. "The Public Career of Richard
+F. Pettigrew of South Dakota, 1848–1926." <title level="j">South Dakota
+Department of History Report and Historical Collections</title>
+34 (1968): 143–311.</bibl> <bibl>Pettigrew, Richard Franklin.
+Papers. Siouxland Heritage Museums, Sioux Falls <hi rend="smallcaps">SD</hi>.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

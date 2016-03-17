@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Breadbasket of North America</title>
+<title level="m" type="sub"></title>
+<author>Peter S. Morris</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morris, Peter S.">Peter S. Morris</author>. <title level="a">"Breadbasket of North America."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">378&#8211;379</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BREADBASKET OF NORTH AMERICA</head>
+
+<p>For most of its history, the word "breadbasket" was tied to the consumption of food, referring since the early 1700s to one's stomach or belly. Not until after World War II did the word's slang usage switch to the <hi rend="italic">production</hi> side of the food story. Nonetheless, by the end of the twentieth century "breadbasket" was widely used to describe a significant grain-growing region, with the <geogName rend="region" reg="Great Plains">Great Plains</geogName> offering the prototype example for North America and indeed the world. The <geogName rend="region" reg="Great Plains">Great Plains</geogName> "Breadbasket" was one of journalist <persName reg="Garreau, Joel">Joel Garreau</persName>'s Nine Nations of <geogName rend="continent" reg="North America">North America</geogName>; travel books covering the <geogName rend="region" reg="Great Plains">Great Plains</geogName> states commonly tout the unexpected beauty and excitement awaiting the tourist in "America's breadbasket"; and even a fantasy board game called Arduin includes a fictional region called the "Great Grass Plains," which is described as "truly the breadbasket of the country."</p>
+
+<p>While the breadbasket label is relatively recent, the general idea is not. Indeed, the concept of a distant agricultural region providing grain to a food-deficient metropolis is as old as classical Greco-Roman civilization. The mass consumption of pillowy white wheat bread, however, was a modern development of the industrial era. Political-economic changes such as the repeal of <placeName rend="country" key="uk" reg="United Kingdom">Britain</placeName>'s Corn Laws, combined with new technologies such as the railroad, steamship, grain elevator, and combine, effectively opened the once-remote interior grasslands of <geogName rend="continent" reg="North America">North America</geogName> to a global market in gluten-rich hard wheat. Consequently, early pessimism regarding the agricultural potential of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> gave way during the mid-1800s to new assessments made by regional boosters such as <persName reg="Gilpin, William">William Gilpin</persName>, the Pacific railroads, and government scientists such as <placeName rend="country" key="can" reg="Canada">Canada</placeName>'s <persName reg="Macoun, John">John Macoun</persName>. By the 1870s, optimism about the potential <geogName rend="region" reg="Great Plains">Great Plains</geogName> granary provided a powerful counterweight to the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> idea that had characterized some earlier reports. In fact, the old Desert image became a convenient straw man for the boosters, an excessively pessimistic stereotype against which the region's early agricultural successes shone bright.</p>
+
+<p>Despite frequent calls for greater diversification, wheat was the preferred crop. Relatively cheap and easy to grow and readily transportable to distant markets, wheat offered quick returns and desperately needed cash flow to debt-strapped farmers. Wheat likewise fit the boosters' grand patriotic visions of <geogName rend="region" reg="Great Plains">Great Plains</geogName> farmers literally feeding the world, not just with any food but with the staple grain that many Victorians believed provided the key to civilization. Moreover, the very qualities for which the region had long been denigrated, namely, its broad expanses of treeless grassland, were now celebrated as regional virtues, providing the ideal environment for large-scale, mechanized grain production.</p>
+
+<p>By the early twentieth century, the <geogName rend="region" reg="Great Plains">Great Plains</geogName> granary was widely celebrated across <geogName rend="continent" reg="North America">North America</geogName>. In his 1901 novel <hi rend="italic">The Pit</hi>, <persName reg="Norris, Frank">Frank Norris</persName> described "waveless tides" of grain springing from the western "wheat belt" and being funneled through Chicago on its way to the "mills and bakeshops of Europe," a "world-force" that was the "Nourisher of the Nations." In 1908 the Canadian government circulated a pamphlet simply titled <hi rend="italic"><placeName rend="country" key="can" reg="Canada">Canada</placeName>: The Granary of the World</hi>, a label echoed at the local scale as cities all across the <geogName rend="region" reg="Great Plains">Plains</geogName> became the self-proclaimed "Grain Golden City" or the "Garden of the West."</p>
+
+<p>The sharp decline in wheat prices after World War I, followed by the difficult Dust Bowl years of the "dirty thirties," brought an end to the boosters' rhetoric and renewed calls for economic diversification. The number of farms declined as the size of farms increased, and wheat became increasingly supplemented by maize, cotton, and oilseeds. Wheat remains king, however, both on the ground and in the region's psyche. During the 1990s, the winter-wheat belt, centered on <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, and the springwheat belt, centered on <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName> and <placeName rend="state" key="sk" reg="Saskatchewan">Saskatchewan</placeName>, combined to produce more than 60 million metric tons per year, most of which was destined for overseas markets. Despite ongoing rural depopulation and the death of the old agrarian dream, the <geogName rend="region" reg="Great Plains">Great Plains</geogName> remain a breadbasket, a continental granary feeding the world.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.075">Wheat</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Peter S. Morris<lb/>
+Santa Monica College</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Morgan, Dan. <title level="m">Merchants of Grain</title>. New York: Penguin, 1979.</bibl> <bibl>Owram, Doug. <title level="m">Promise of Eden: The Canadian Expansionist Movement and the Idea of the West, 1856–1900</title>. Toronto: University of Toronto Press, 1980.</bibl> <bibl>Smith, Henry Nash. <title level="m">Virgin Land: The American West as Symbol and Myth</title>. Cambridge: Harvard University Press, 1950.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wells, Fargo and Company</title>
+<title level="m" type="sub"></title>
+<author>William E. Lass</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lass, William E.">William E. Lass</author>. <title level="a">"Wells, Fargo and Company"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">813</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WELLS, FARGO AND COMPANY</head>
+
+<p>Wells, Fargo and Company, which developed
+express, stagecoaching, overland freighting,
+and banking divisions, was formed in New
+York in 1852. Its principal founders, Henry
+Wells and William G. Fargo, both experienced
+expressmen, had earlier started the American
+Express Company in association with John
+Butterfield. Butterfield’s unwillingness to extend
+expressing to California caused Wells and
+Fargo with other associates to create a separate
+company.</p>
+
+<p>Based in San Francisco, Wells Fargo soon
+became California's leading express and banking
+firm. Aggressively branching out, in 1848
+the firm acquired a financial interest in the
+Butterfield Overland Mail. After purchasing
+Ben Holladay's Overland Mail and Express
+Company in 1866, Wells Fargo became dominant
+in Great Plains and western stagecoaching.
+Simultaneously, the company opened a freighting
+division, which, among other things, transported
+government and private freight by
+wagon westward from the railhead of the advancing
+Union Pacific Railroad.</p>
+
+<p>The completion of the Union Pacific in 1869
+caused Wells Fargo to deemphasize stagecoaching
+and freighting in favor of its transcontinental
+express service. Nonetheless, the
+firm extended stagecoach and wagon express
+into new frontiers such as the gold-producing
+Black Hills. By the 1890s, when railroad networks
+had finally replaced stagecoaching,
+Wells Fargo was almost completely devoted to
+railroad expressing and banking.</p>
+
+<p>In the twentieth century, Wells Fargo's
+banking interests expanded rapidly. First it became
+one of the major financial institutions in
+California and other western states, and then
+in 1998 it merged with Norwest Corporation
+of Minneapolis under the Wells Fargo name.
+The merger made it the principal banking
+firm on the Northern Great Plains.</p>
+
+<closer>
+<signed>William E. Lass<lb/>
+Mankato State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Beebe, Lucius, and Charles Clegg. <title level="m">U.S. West: The Saga of
+Wells Fargo</title>. New York: E. P. Dutton and Company, 1949.</bibl>
+<bibl>Hungerford, Edward. <title level="m">Wells Fargo: Advancing the American
+Frontier</title>. New York: Random House, 1949.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

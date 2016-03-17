@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Calumet Ceremony</title>
+<title level="m" type="sub"></title>
+<author>Mark A. Eifler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Eifler, Mark A.">Mark A. Eifler</author>. <title level="a">"Calumet Ceremony."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">569</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CALUMET CEREMONY</head>
+
+<p>Native Americans used the calumet ceremony
+throughout the Plains to trade between different
+tribes, or between different bands of the
+same tribe, for food and other needed items.
+The ceremony evolved in the thirteenth century,
+possibly among the Wichitas. During the
+early thirteenth century the climate of the
+Plains was wetter, supporting more bison and
+encouraging more tribes to move into the region.
+Subsequently, as the weather turned
+drier, many tribes, caught without adequate
+food supplies following a poor hunt or a local
+drought, needed to trade with neighbors to
+survive. In time, the calumet ceremony not
+only provided food but also often became a
+primary bond between bands and tribes.</p>
+
+<p>In its fullest form, the calumet was a long
+and complex ceremony, but even the more
+common shorter version involved several days
+of ritual feasting, gift giving, singing, and
+dancing. The ceremony climaxed with the
+presentation of the calumet pipe, which made
+unrelated peoples one "family" through the
+working of a fictional kinship. Leaders of different
+bands adopted each other as father or
+son. Exchanges of gifts then went on for several
+days, in the later stages accompanied by
+exchanges between the men and women of
+each band, who acquired the same fictive
+father-son relationship to the other band as
+that established by their leaders. A leader's calumet
+relationships were considered permanent,
+and leaders were expected to maintain a
+number of calumet relationships with other
+tribes, bands, and villages. The calumet ceremonies
+also allowed men and women from
+different bands to meet and court each other,
+and often trade bonds between bands were
+supplemented by matrimonial bonds.</p>
+
+<closer>
+<signed>Mark A. Eifler<lb/>
+University of Portland</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blakeslee, Donald J. "The Plains Interband Trade System:
+An Ethnohistoric and Archeological Investigation." Ph.D.
+diss., University of Wisconsin, Milwaukee, 1975.</bibl> <bibl>Fletcher,
+Alice C. <title level="m">The Hako: Song, Pipe, and Unity in a Pawnee
+Calumet Ceremony</title>. Lincoln: University of Nebraska Press,
+1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

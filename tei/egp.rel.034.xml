@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Methodism, United States</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Methodism, United States."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">751-752</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">METHODISM, UNITED STATES</head>
+
+<p>Methodism emerged as a lay organization
+within the Church of England in the mid–eighteenth
+century and separated from that
+parent body in 1784. By that time, Methodist
+evangelists had been active in North America
+for more than twenty years, spreading a religion
+that emphasized the primacy of the Bible,
+but also the importance of reason, experience,
+and social action. The sermons of John Wesley,
+the founder of Methodism, and the inspirational
+hymns of his younger brother Charles
+were, and are, the heart of the theology.</p>
+
+<p>In the United States, Methodism quickly
+became the most successful frontier religion,
+spreading westward in step with the expansion
+of the nation. (See the entry on Canadian
+Wesleyan Methodism for the Canadian story.)
+The emphasis on personal salvation, the galvanizing
+effect of Charles's hymns, and especially
+the groundswell of conversion through
+circuit rider preaching and camp meetings accounted
+for this rapid growth. By 1830 Methodism
+dominated more American counties
+than any other denomination. Also by 1830
+Methodism had reached the Great Plains,
+with the establishment of the Shawnee Mission
+in what is now Kansas. Over the next
+thirty years, Methodist missions were established
+in Kansas and Indian Territory for the
+Delawares (1832), Choctaws (1832), Kickapoos
+(1833), Peorias (1833), Potawatomis (1837),
+Senecas (1839), Quapaws (1843), and Sauk and
+Fox (1860).</p>
+
+<p>The Methodist Church established conferences&#8211;its
+system of regional organization&#8211;in
+Nebraska and Kansas soon after the Civil War
+and continued its extraordinary rate of expansion
+into the Great Plains. Only a series of
+schisms, mainly over the issues of centralized
+control and slavery, slowed the advance. By
+1890 most counties in the eastern half of Kansas
+and across the entire breadth of southern
+Nebraska had more than eleven Methodist
+churches; many had more than twenty.</p>
+
+<p>Methodism continued to gain members in
+the Great Plains and in the country as a whole
+to about 1970, when national membership
+reached about 11 million. Most of the branches
+of the denomination were reunited in 1939 and
+in 1968 as the United Methodist Church. By
+1950, while the number of Methodist churches
+per county in the core area of Kansas and Nebraska
+had fallen, as other denominations became
+established, most counties in the Great
+Plains had at least three Methodist churches.
+But thereafter, and in common with many
+other mainline Protestant denominations,
+church membership declined nationally and
+regionally. In 1990 Methodists accounted for
+17.8 percent of denominational membership
+in Kansas (compared to 28.5 percent in 1890),
+second only to Roman Catholics. In Texas,
+Methodists ranked third behind Roman Catholics
+and Baptists, with 9.3 percent of denominational
+membership (compared to 32.3 percent
+in 1890), and in Nebraska Methodists
+accounted for 14.5 percent of denominational
+membership (compared to 22.1 percent in
+1890), behind Catholics and Lutherans. In
+other Great Plains states in 1990, Methodism
+ranked third in New Mexico in denominational
+membership (6.2 percent), second in
+Oklahoma (15.6 percent), fifth in Colorado
+(7.2 percent), sixth in Wyoming (4.9 percent),
+third in South Dakota (9.2 percent), third in
+North Dakota (4.9 percent), and fifth in Montana
+(5.7 percent).</p>
+
+<p>Despite the recent decline, however, Methodism
+continues to exert a major influence on
+Great Plains land and life. Methodism has always
+emphasized education, and fifteen theological
+seminars, universities, and colleges in
+the Great Plains are associated with the Methodist
+Church. Among them are Iliff School of
+Theology (Denver, Colorado), Dakota Wesleyan
+University (Mitchell, South Dakota),
+Rocky Mountain College (Billings, Montana),
+Nebraska Wesleyan University (Lincoln, Nebraska),
+Baker University (Baldwin City, Kansas),
+Oklahoma City University (Oklahoma),
+and Texas Wesleyan University (Fort Worth,
+Texas). While many rural Methodist churches
+are humble frame buildings, some church
+structures are prominent landscape features.
+Trinity Methodist, completed in Denver in
+1887, has a 182-foot spire and once dominated
+the city's skyline; and the Art Deco-style Boston
+Avenue Methodist Church of Tulsa, Oklahoma,
+designed in 1926 by Bruce Goff, has a
+280-foot tower and an auditorium that can
+hold 1,800 worshipers. In Kansas, Methodism
+is the leading denomination in most counties,
+and Methodism is still regarded as one of the
+two foundations of Kansas culture, the other
+being the Republican Party.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.025">Goff, Bruce</ref>.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gaustad, Edwin Scott, and Philip L. Barlow. <title level="m">New Historical
+Atlas of Religion in America</title>. Oxford: Oxford University
+Press, 2001.</bibl> <bibl>Szasz, Ferenc M. <title level="m">The Protestant Clergy in the
+Great Plains and Mountain West, 1865–1915</title>. Albuquerque:
+University of New Mexico Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

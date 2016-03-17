@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.021 SYSTEM "egp.afam.021.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Harris, Wynonie (1913-1969)</title>
+<title level="m" type="sub"></title>
+<author>Tony Collins</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Collins, Tony">Tony Collins</author>. <title level="a">"Harris, Wynonie (1913-1969)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">15</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HARRIS, WYNONIE (1913-1969)</head>
+
+<figure n="egp.afam.021" rend="granted">
+<figDesc>Wynonie Harris on stage with the Lucky Millinder</figDesc>
+</figure>
+
+<p>Blues singer Wynonie Harris was a leading figure
+in black music during the 1940s and early
+1950s, and he developed a style that had a considerable
+influence on early rock and roll. A
+handsome man with striking blue-gray eyes
+and a flashing smile, and with a voice powerful
+enough to project over driving horn-led
+bands, Harris was renowned as a charismatic
+performer on stage and as a hard-drinking
+hell-raiser and ladies' man off stage. He became
+best known for his humorous, often risque
+songs such as "Good Rockin" Tonight,"
+"All She Wants to Do Is Rock," "Grandma
+Plays the Numbers," and "Bloodshot Eyes."</p>
+
+<p>Harris was born in Omaha, Nebraska, on
+August 24, 1913, the illegitimate offspring of an
+African American mother and a Native American
+father. He worked as a dancer for several
+years before becoming a singer. Influenced
+and inspired by Jimmy Rushing and Big Joe
+Turner, both big-voiced blues singers from
+Kansas City, Harris learned his craft in the
+clubs on Omaha's Near North Side, in particular
+Jim Bell's Harlem Club. By the early
+1940s he was calling himself "Mr. Blues" and
+was a regular attraction at the Club Alabam
+on Los Angeles's Central Avenue. His big
+break came in 1944 when he was invited to
+join Lucky Millinder's big band as the featured
+male singer. With Millinder he recorded
+"Who Threw the Whiskey in the Well," which
+became a number-one hit on the black music
+charts. Thereafter, Harris worked as a single,
+playing residencies at the country's leading
+black nightclubs and touring frequently. His
+greatest commercial success came after he
+signed with King Records in 1947 and recorded
+"Good Rockin' Tonight." From then
+until 1952 a string of hit records made him one
+of the biggest-selling artists among African
+American record buyers.</p>
+
+<p>Harris's brand of good-time blues was a direct
+precursor of 1950s rock and roll. Elvis
+Presley, who recorded his own version of
+"Good Rockin' Tonight" in 1954, is reputed to
+have adopted some of his stage movements
+after seeing Harris perform. Wynonie Harris
+himself, however, was too old, too raunchy,
+and too rooted in black musical traditions to
+appeal to rock and roll's white teenage audience.
+Harris never gave up the music business
+completely, but from the mid-1950s onward he
+worked mostly outside music. He died of
+throat cancer in Los Angeles on June 14, 1969.</p>
+
+
+<closer>
+<signed>Tony Collins<lb/>
+London, England</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Collins, Tony. <title level="m">Rock Mr. Blues: The Life and Music of Wynonie
+Harris</title>. Milford <hi rend="smallcaps">NH</hi>: Big Nickel Publications, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

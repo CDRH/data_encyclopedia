@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Curry, John Steuart (1897-1946)</title>
+<title level="m" type="sub"></title>
+<author>Wendy J. Katz</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Katz, Wendy J.">Wendy J. Katz</author>. <title level="a">"Curry, John Steuart (1897-1946)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">114</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CURRY, JOHN STEUART (1897-1946)</head>
+
+<p>John Steuart Curry and his admirers stressed
+his connections with his birthplace, a farm
+near Dunavant, Jefferson County, Kansas,
+where he was born on November 14, 1847, just
+as it was his paintings of rural Kansas that
+brought him national fame. However, in a
+typical pattern, his career as a regionalist
+painter began only when he left Kansas.</p>
+
+<p>After classes from 1916 to 1918 at the Chicago
+Art Institute, Curry moved to New York in
+1919 and studied with magazine illustrator
+Harvey Dunn. His apprenticeship led to a successful
+seven-year career illustrating short stories
+for periodicals like the Saturday Evening
+Post, during which time he moved to Westport,
+Connecticut, home to a bohemian artists
+colony. There writers like Van Wyck Brooks
+introduced him to the regionalist aim of creating
+a distinctive and authentic American culture
+based on artists who were an organic part
+of a community and who represented their
+own experience in it. The artist who was responsive
+to and shaped by the customs and
+traditions of a particular place would naturally
+produce an American art that was inseparable
+from ordinary people's experience within the
+same community.</p>
+
+<p>After a stint in 1926.27 studying the figure
+in Vasily Shukayev's studio in Paris, Curry returned
+and painted his first regionalist subject,
+<title>Baptism in Kansas</title> (1928). It and pictures
+like <title>Tornado over Kansas</title> (1929) instantly succeeded
+with influential eastern critics and patrons
+who admired Kansan traditions and
+communities for their differences from the
+uniformity and commercialism of modern
+mass culture. Gertrude Whitney posed with
+<title>Baptism</title> at the opening of the Whitney Museum
+of American Art in 1931; by 1934 Curry
+was on the cover of <title level="j">Time</title>, anointed with
+Grant Wood of Iowa and Thomas Hart Benton
+of Missouri as the midwestern leaders of a
+new American art movement, distinct from
+French modernism and abstraction.</p>
+
+<p>Under the New Deal, the Departments of
+Justice and the Interior in Washington <hi rend="smallcaps">DC</hi>
+hired Curry from 1936 to 1938 to paint mural
+cycles on themes like the Oklahoma land rush
+and the freeing of the slaves. But Curry's dealers
+and friends sought to bolster his regionalist
+credentials by bringing him back to the
+Midwest, and in 1936 Curry accepted the position
+of artist in residence at the University
+of Wisconsin's College of Agriculture, where
+he fulfilled the requirement to develop regional
+art as a force for improving rural culture.
+Curry's <title>Ajax</title> (1936–37), which shows a
+monumental Hereford bull rising in massive
+proportions above a flat landscape, in many
+ways fulfilled the goal of regional art: communities
+that raised scientifically bred herds of
+cattle would have their ideal of beauty celebrated
+on their walls.</p>
+
+<p>Curry also sought validation from his home
+state of Kansas but with less success, as his
+choice of subjects was seen there as closer to
+negative provincial stereotyping. In 1937 he
+was commissioned to paint murals for the
+Kansas State Capitol in Topeka, but his depiction
+of Kansas history&#8211;including abolitionist
+John Brown and soil erosion&#8211;met
+with such hostility that the murals were never
+completed. Curry stayed at the University of
+Wisconsin until his death on August 29, 1946,
+and his success encouraged the incorporation
+of an arts curriculum at other land-grant
+universities.</p>
+
+<closer>
+<signed>Wendy J. Katz<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Junker, Patricia, ed. <title level="m">John Steuart Curry</title>. New York: Hudson
+Hills Press, 1998.</bibl> <bibl>Kendall, M. Sue. <title level="m">Rethinking Regionalism: John Steuart Curry and the Kansas Mural Controversy</title>.
+Washington <hi rend="smallcaps">DC</hi>: Smithsonian Institution Press,
+1986.</bibl> <bibl>Schmeckebier, Laurence. <title level="m">John Steuart Curry's Pageant of America</title>. New York: American Artists Group, 1943.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

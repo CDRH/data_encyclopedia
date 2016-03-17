@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Villasur, Pedro de (ca. late seventeenth century-1720)</title>
+<title level="m" type="sub"></title>
+<author>Steven Jackman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jackman, Steven">Steven Jackman</author>. <title level="a">"Villasur, Pedro de (ca. late seventeenth century-1720)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">251</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VILLASUR, PEDRO DE (ca. late seventeenth century-1720)</head>
+
+<p>Don Pedro de Villasur, a Spanish government
+official and military officer, led a disastrous expedition
+north into modern Nebraska in 1720.
+Born a Castilian nobleman in the late seventeenth
+century, he died on August 13, 1720, in a
+battle against Pawnee and Otoe Indians. In the
+early eighteenth century he reached the Americas,
+where he became a sublieutenant at El
+Paso, then later a war captain and alcalde
+at Santa Barbara, Nueva Vizcaya. By 1719 he
+had risen to be lieutenant governor of New
+Mexico. To find out what their French rivals
+planned to the north, Governor Antonio Valverde
+de Cosio sent Villasur, an inexperienced
+officer, on a reconnaissance mission.</p>
+
+<p>The expedition, consisting of forty-two veteran
+soldiers, three settlers, sixty Pueblo Natives,
+chaplain Juan Minguez, chief scout Jose
+Naranjo, and interpreter Jean L'Archeveque,
+set out on June 16, 1720, from the Santa Fe
+presidio. They crossed the Sangre de Cristo
+Mountains, then moved north to modern
+Pueblo, Colorado. From there they pushed
+across the Plains of eastern Colorado to the
+South Platte River, which they followed to the
+Platte and down into what is now eastern Nebraska.
+There, Villasur sent a captive Pawnee
+to parley at a nearby village.</p>
+
+<p>Negotiations with the Pawnees collapsed after
+two days. The other officers convinced Villasur
+that the situation had reached a crisis,
+and they retreated fifty miles upstream to the
+Loup River near modern-day Columbus, Nebraska.
+That night the sentries heard noises
+in the dark, but Villasur responded only by
+sending Pueblos to look around. In the early
+morning of August 13, 1720, while the groggy
+Spanish rounded up their horses, a united
+band of Pawnees and Otoes attacked. Most of
+the Pueblos escaped, while the disoriented
+Spaniards milled around on foot and fell victim
+to the attackers' musket fire. Thirteen soldiers
+and one settler managed to escape, but
+they left behind forty-five dead, including
+eleven Pueblos and thirty-two Spaniards, Villasur
+among them. All the survivors were
+wounded, but the attackers themselves had
+suffered so heavily that they could not give
+chase.</p>
+
+<p>Subsequently, many Spaniards seriously
+questioned Valverde's decision to allow an inexperienced
+lieutenant such as Villasur to lead
+such an important mission, blaming this officer's
+mistakes in leadership for the massacre.
+Valverde was found guilty of negligence by a
+court of inquiry but had only to pay a small
+fine. Despite its tragic end, Villasur's expedition
+remains important because it was the
+most northerly penetration by the Spanish
+into North America and the only Spanish incursion
+into Nebraska.</p>
+
+<closer>
+<signed>Steven Jackman<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hotz, Gottfried. <title level="m">The Segesser Hide Paintings: Masterpieces Depicting Spanish Colonial New Mexico</title>. Santa Fe: Museum
+of New Mexico Press, 1991.</bibl> <bibl>Jones, Oakah L. <title level="m">Pueblo Warriors and Spanish Conquest</title>. Norman: University of
+Oklahoma Press, 1966.</bibl> <bibl>Thomas, Alfred B. <title level="m">After Coronado: Spanish Exploration Northeast of New Mexico, 1696–1727</title>.
+Norman: University of Oklahoma Press, 1935.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

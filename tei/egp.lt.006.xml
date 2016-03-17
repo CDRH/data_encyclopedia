@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Butala, Sharon (b. 1940)</title>
+<title level="m" type="sub"></title>
+<author>Janice Fiamengo</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fiamengo, Janice">Janice Fiamengo</author>. <title level="a">"Butala, Sharon (b. 1940)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">475</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUTALA, SHARON (b. 1940)</head>
+
+<p>Sharon Butala is best known for her descriptions
+of the physical and spiritual geography
+of her corner of southwestern Saskatchewan,
+near the Montana border, where she lives with
+her husband, Peter Butala, a cattle rancher. In
+1996 the Butalas dedicated a portion of their
+ranch land to Nature Conservancy Canada so
+that the beauty of the native shortgrass prairie
+could be preserved. Butala's literary work has
+similarly been dedicated to preserving and
+communicating the aesthetic and cultural
+meanings of the prairie, especially the complex
+relationships between farming people
+and the land they work.</p>
+
+<p>Born Sharon LeBlanc on August 24, 1940, in
+northern Saskatchewan near Nipawin, Butala
+moved to Saskatoon at age thirteen. After
+graduating from St. Mary's Roman Catholic
+School, she attended the University of Saskatchewan,
+where she earned a bachelor's degree
+in English and art. A decade later she
+returned to the university for a bachelor's degree
+in education, specializing in learning disabilities.
+She married Peter Butala after her
+first marriage ended, leaving her urban life
+behind and embarking on a difficult but fruitful
+period of reflection, observation, and self-discovery
+through writing.</p>
+
+<p>Butala's first published work was <title level="m">Country of the Heart</title> (1984), which was nominated for the
+W. H. Smith/<hi rend="italic">Books in Canada</hi> First Novel
+Award. Subsequent to this successful debut,
+she has written extensively, publishing two
+collections of acclaimed short stories (<title level="m">Queen of the Headaches</title>, 1985; <title level="m">Fever</title>, 1990), five more
+novels, two nonfiction accounts, and a collection
+of essays (<title level="m">Coyote's Morning Cry</title>, 1995).
+She has also written six unpublished plays. Of
+special interest is her loosely connected novel
+trilogy about life in rural Saskatchewan, comprised
+of <title level="m">The Gates of the Sun</title> (1986), <title level="m">Luna</title>
+(1988), and <title level="m">The Fourth Archangel</title> (1992). Luna
+portrays the special challenges and rewards of
+rural women's lives, while <title level="m">The Fourth Archangel</title>
+presents a visionary and compassionate
+account of the provincial farm crisis. These
+novels belong to the tradition of regional realism,
+with elements of the mythic and the magical.</p>
+
+<p>Butala's first foray into nonfiction, <title level="m">The Perfection of the Morning</title> (1994), tells of the slow
+process by which she learned to see nature
+truly. The book remained on best-seller lists
+for more than a year and brought Butala considerable
+recognition within Canada. In her
+sixth novel, <title level="m">The Garden of Eden</title> (1998), Butala
+expanded her geographical parameters to
+Ethiopia, but her focus remained the capacity
+of the land to heal and human responsibility
+for its restoration and protection. <title level="m">Wild Stone Heart</title> (2000), a companion volume to <title level="m">The Perfection of the Morning</title>, chronicles Butala's
+respectful exploration of a 100-acre field of
+unplowed land; seeking to connect with the
+wild and with an Indigenous worldview in
+order to heal her spiritual malaise, she investigates
+the Aboriginal and settler pasts to uncover
+layers of unknowable presence. While
+maintaining her interest in emotional journeys
+and the beauty of the land, Butala's later
+work has increasingly turned to considerations
+of the mystical.</p>
+
+<closer>
+<signed>Janice Fiamengo<lb/>
+University of Saskatchewan-Saskatoon</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

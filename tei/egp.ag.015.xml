@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Buffalo Ranching</title>
+<title level="m" type="sub"></title>
+<author>T. R. Hughes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hughes, T. R.">T. R. Hughes</author>. <title level="a">"Buffalo Ranching."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">37</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUFFALO RANCHING</head>
+
+<p>Most people are aware of the near extermination
+of the Plains buffalo (<hi rend="italic">Bison bison</hi>) in the
+1870s from a high point population of perhaps
+40 million in the mid-1800s. Not so widely
+known is the story of the restoration of the
+Plains buffalo and the expanding buffalo
+ranching scene today.</p>
+
+<p>From an estimated 1,500 animals around
+1900, buffalo numbers have expanded to a
+current U.S. population of approximately
+300,000, with roughly 40 percent located in
+the Great Plains region. The 1996 Canadian
+Census of Agriculture reported an additional
+45,235 bison were being raised on 745 farms
+across Canada. Alberta, with 334 farms and
+22,782 bison, is by far the leader in production.
+Canadian numbers include both the
+Plains bison and the indigenous Woods bison
+subspecies.</p>
+
+<p>In the United States, government herds,
+both state and federal, have remained relatively
+constant in number over the past thirty
+years. The percentage of buffalo owned and
+managed by private individuals has grown
+dramatically and now represents approximately
+90 percent of the total population. This
+change in the percentage of buffalo that are
+privately owned has been accompanied by a
+shift toward treating the animal as domestic
+livestock by many producers.</p>
+
+<p>The National Buffalo Association was
+founded in 1966. Its primary goal was to promote
+the marketing of buffalo meat and byproducts.
+In 1974 the American Bison Association
+was founded and took a more aggressive
+approach to the raising and marketing of the
+animal. In 1995 the two organizations combined
+to form the National Bison Association
+(<hi rend="smallcaps">NBA</hi>). The <hi rend="smallcaps">NBA</hi> represents more than 2,000
+producers, ranging from many who raise just a
+few animals (fifty or less) to several large
+ranches each raising thousands of animals.
+The large, and many moderate-size, ranches
+typically finish animals in feedlots and market
+the meat on a large scale to restaurants and the
+public. One cooperative in New Rockford,
+North Dakota, processes about 10,000 animals
+per year.</p>
+
+<p>Producers in the <hi rend="smallcaps">NBA</hi> have been increasing
+research into the formulation of feeds and
+selection of breeding stock to improve the
+meat-producing ability of the buffalo. They
+do not support the use of hormones and other
+such feed additives. The <hi rend="smallcaps">NBA</hi> sponsors a Gold
+Trophy show and sale annually in Denver in
+connection with the National Western Livestock
+Show.</p>
+
+<p>Numerous state and regional associations
+have sprung up across the country and the
+Great Plains to assist in regional production
+and marketing. Another philosophy gaining
+renewed interest since the 1990s places emphasis
+on a more natural approach to the
+management, raising, and finishing of buffalo.
+The Great Plains Buffalo Association was
+formed in 1996 to network grass-fed, grassfinished-
+oriented producers.</p>
+
+<p>In 1992, another influential organization
+entered onto the buffalo industry scene. That
+year Native American tribes formed the Inter-
+Tribal Bison Cooperative (<hi rend="smallcaps">ITBC</hi>). Now numbering
+about fifty tribes nationwide, with
+more than half of them in the Great Plains
+region, the <hi rend="smallcaps">ITBC</hi>'s goal is to restore buffalo to
+reservation lands. The cooperative also takes a
+more spiritual approach to the management
+of buffalo. Respect for the animal and the environment
+is central to the tribes' care of the
+buffalo. With substantial land resources, the
+<hi rend="smallcaps">ITBC</hi> is becoming an increasingly important
+player in the marketing of buffalo products.</p>
+
+<closer>
+<signed>T. R. Hughes<lb/>
+Crawford, Nebraska</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

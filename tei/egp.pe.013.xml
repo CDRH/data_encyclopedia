@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Blizzards</title>
+<title level="m" type="sub"></title>
+<author>Kenneth F. Dewey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dewey, Kenneth F.">Kenneth F. Dewey</author>. <title level="a">"Blizzards."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">623</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLIZZARDS</head>
+<figure n="egp.pe.013" rend="granted">
+<figDesc>Image: "Song of the Great Blizzard 1888 'Thirteen Were Saved' or 'Nebraska's Fearless Maid' Song and Chorus by Wm. Vincent, published by Lyon &amp; Healy, Chicago"</figDesc>
+</figure>
+
+<p>The climate of the Great Plains region is punctuated
+with extreme variation in both temperature
+and precipitation, and one of these
+extreme weather events is the blizzard. A blizzard
+is a storm with sustained winds in excess
+of thirty-five miles per hour, temperatures below
+20&#186;F, and blowing or falling snow that
+reduces visibility to less than a quarter mile.</p>
+
+<p>Although most common in winter, Plains
+blizzards also occur in autumn and spring.
+The meteorological "stage" is set when a mass
+of cold polar air moves rapidly southward
+from higher latitudes and encounters a strong
+northward flow of moist tropical air from
+lower latitudes. When a low-pressure cell encounters
+the energy difference between these
+two unlike air masses, it rapidly grows in
+strength, becoming a "deepening low." As the
+low-pressure cell strengthens, it feeds itself by
+pulling southward even greater amounts of
+cold air and northward even larger amounts
+of warm air and moisture. By the time the
+blizzard reaches full intensity, it is not unusual
+to have severe thunderstorms and tornadoes
+across the southern portion of this major
+storm. Snowfalls often exceed 1&#189; feet just
+north of the path of the low, and wind chill
+temperatures drop to life-threatening levels
+across the northern portion of the storm. The
+winds pack the snow, making it extremely difficult
+to walk through and to remove from
+driveways and sidewalks. Although urban
+highways are usually opened within a day or
+so of a blizzard, rural roads often remain impassible
+for many days.</p>
+
+<p>Blizzards have, on rare occasion, occurred
+as far south as northern Texas, but they increase
+in frequency northward up the Great
+Plains. Nebraska, for example, averages one to
+two blizzards per year while the southern
+parts of the Prairie Provinces average from
+three to five blizzards per year. The climate
+history of the Great Plains is replete with stories
+of blizzards, but two storms stand out.
+Most legendary is the "Blizzard of '88," which
+occurred in January 1888. The region from
+Texas to Alberta was affected by this paralyzing
+storm. The suddenness of the blizzard
+conditions resulted in many people losing
+their lives as they traveled even short distances
+to their homes. The blizzard of January 1975,
+called the "blizzard of the century," struck the
+Plains from Kansas to Manitoba. This blizzard
+was so fierce that it set all-time record lowpressure
+values for the region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.004">Blizzard Stories</ref>.</p>
+
+<closer>
+<signed>Kenneth F. Dewey<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

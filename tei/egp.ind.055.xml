@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.055">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sugar Beet Processing</title>
+<title level="m" type="sub"></title>
+<author>Richard Reisig</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.055</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reisig, Richard">Richard Reisig</author>. <title level="a">"Sugar Beet Processing."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">434</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUGAR BEET PROCESSING</head>
+
+<p>Sugar beets of the Beta vulgaris species have a
+white inner flesh and look more like a large
+parsnip than a red beet. The sugar beet crop
+is planted in early spring and harvested in
+the fall, when it is at maximum sugar content.
+To grow beets, a farmer signs a contract with a
+company to plant a certain amount of acreage;
+usually payment is made by the company on
+the basis of the sugar content of the beets
+and also the price of refined sugar sold by the
+company. Many U.S. sugar companies today
+are owned by cooperatives made up of beet
+growers.</p>
+
+<p>Harvesting machines uproot the beets, cut
+off the tops, and then convey the beets into a
+truck. The beets are delivered to the factories
+and receiving stations, where they are dumped
+either directly into the process or stored in
+large piles for later use. The sugar factory operates
+round the clock and must be fed a continuous
+supply of beets once the "campaign," or
+processing season, gets under way. Campaign
+length is usually from 120 to 150 days and even
+longer in the northern regions.</p>
+
+<p>Upon entering the factory, the beets are
+washed and sliced into long thin strips called
+"cossettes." The cossettes then enter the diffuser,
+where water carries away the sugar in
+the form of raw juice. The exhausted beet material,
+called "pulp," goes to the dryer or silo to
+be sold as livestock feed. After leaving the diffuser,
+the raw juice is purified with lime and
+then put through two stages of carbonation in
+which carbon dioxide gas is added to precipitate
+the lime and nonsugars. The juice then
+passes through several filtration steps to remove
+impurities. This purified juice, called
+"thin juice," then goes to the evaporators to be
+concentrated into "thick juice." It is then filtered
+again to assure purity.</p>
+
+<p>The pure thick juice then enters crystallization,
+where there are typically three stages:
+white pan, high raw pan, and low raw pan.
+The syrups arrive at the vacuum pans, where
+the liquid is boiled into a thick supersaturated
+liquid. At just the exact moment in the boiling
+stage, the sugar boiler initiates the crystal formation
+by "seeding" the pan with an extremely
+fine sugar slurry. The sugar crystals
+are grown to the proper size, then the mass of
+sugar crystals is dropped to centrifugal machines
+to be spun at high speed. The liquid
+portion, or "mother liquor," is separated from
+the sugar crystals and saved for further crystallization
+and sugar removal. The liquid from
+the final boiling is exhausted of sugar and is
+called molasses. The molasses is saved for further
+desugarization and sold as an animal feed
+by-product.</p>
+
+<p>The final white sugar is centrifuged from
+the white pan mass and washed. The damp
+sugar crystals are then sent to the sugar granulator
+for drying. From the granulator, the
+sugar goes to packaging, truck, or rail loading
+or is stored in huge storage silos. It requires
+approximately forty pounds of sugar beets to
+produce a five-pound bag of granulated sugar.</p>
+
+<p>In the crop year 2000 more than 32 million
+tons of beets were harvested in the United
+States in twelve states. The major sugar beet
+growing area is the Red River Valley, which
+straddles the boundary of Minnesota and
+North Dakota. Nearly half of all the sugar beets
+grown in the United States come from this
+area. Among other Plains states, Montana,
+Colorado, Wyoming, and Nebraska all produce
+more than one million tons of sugar
+beets. During the 2000 production year there
+was a total of ten sugar beet companies in the
+United States, with a total of twenty-eight operating
+factories. Of these factories, thirteen
+are in the Great Plains region. They are located
+in the states of Colorado, Nebraska, Wyoming,
+Montana, and North Dakota. The beet sugar
+companies of the Great Plains include Western
+Sugar Company, Holly Sugar Corporation,
+American Crystal Sugar Company, Minn-Dak
+Farmers Co-op, and Rogers Sugar. There are
+two sugar beet growing areas in Canada, located
+in Ontario and Alberta. Canada has one
+sugar beet factory, located in Taber, Alberta,
+that annually contributes approximately 10
+percent of Canada's total refined sugar production.
+Despite the above-noted production, the
+United States and Canada are net importers of
+sugar.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.064">Sugar Beets</ref>.</p>
+
+<closer>
+<signed>Richard Reisig<lb/>
+Western Sugar Company</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

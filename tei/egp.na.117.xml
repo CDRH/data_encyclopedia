@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.117">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trade</title>
+<title level="m" type="sub"></title>
+<author>Mark A. Eifler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.117</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Eifler, Mark A.">Mark A. Eifler</author>. <title level="a">"Trade."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">606-607</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRADE</head>
+
+<p>Native peoples of the Great Plains engaged in
+trade between members of the same tribe, between
+different tribes, and with the European
+Americans who increasingly encroached upon
+their lands and lives. Trade within the tribe
+involved gift-giving, a means of obtaining
+needed items and social status. Trade between
+Plains tribes often took the form of an exchange
+of products of the hunt (bison robes,
+dried meat, and tallow) for agricultural products,
+such as corn and squash. European and
+American items, such as horses, guns, and
+other metal products, were incorporated into
+the existing Plains trade system after the seventeenth
+century.</p>
+
+<p>Trade among the Plains Indians has a long
+history. The archeological record shows an active
+trade in Knife River flint in the Northern
+Plains beginning before 2000 <hi rend="smallcaps">B.C.</hi> Moreover,
+copper, obsidian, and marine shell artifacts
+suggest an existence of an early east–west trade
+route crossing the Northern Plains and connecting
+to the Great Lakes and the Atlantic
+Coast in the east and the Rocky Mountains and
+the Pacific Coast in the west. Farther south, the
+people living along the lower Missouri, Arkansas,
+and Red Rivers traded in copper and marine
+shells with the Mississippi Valley people
+after 2000 <hi rend="smallcaps">B.C.</hi> There is also evidence of local
+trade for this period. While the Northern
+Plains trade system remained relatively stable
+throughout the following centuries, the Southern
+and Central Plains trade patterns changed
+dramatically around <hi rend="smallcaps">A.D.</hi> 1200, when the ties
+between the Mississippi valley and the lower
+Missouri, Arkansas, and Red River societies
+were cut. Further changes came in the fourteenth
+and fifteenth centuries, when the Southern
+Plains societies began to trade in corn, pottery,
+and bison products with the Pueblos of the
+Southwest.</p>
+
+<p>At the time of European contact, there were
+two types of Native American trading sites
+in the Great Plains. The first was associated
+with permanent agricultural villages, including
+those of the Mandans and Hidatsas in
+present-day North Dakota and the Arikaras in
+present-day South Dakota. These sites hosted
+trading parties from the Crows, Shoshones
+from the west, Assiniboines and Crees from
+the north, and Plains Apaches, Cheyennes,
+Arapahos, and Pawnees from the south. Lewis
+and Clark, who wintered with the Mandans in
+1804, noted that traders in the villages obtained
+items from as far as Mexico and the Pacific
+Coast. In the Southern Plains, the Wichita villages
+on the Arkansas and Red Rivers served as
+trading sites for Jumanos, Apaches, Comanches,
+and Pawnees.</p>
+
+<p>The second type of trading site was a trade
+fair, or rendezvous, in which bands met to
+exchange goods away from a permanent village,
+generally at a point convenient to nomadic
+bands. The Dakota rendezvous, held on
+the James River in present-day South Dakota,
+and the Shoshone rendezvous, held in southwestern
+Wyoming, were regular trading fairs
+at the beginning of the nineteenth century. A
+major trading site&#8211;perhaps as important as
+those at the Mandan, Hidatsa, and Arikara
+villages&#8211;was operated by the Western Comanches
+in the valley of the upper Arkansas
+River from the 1740s to around 1830.</p>
+
+<p>An integral part of the trade system was the
+middlemen who operated between the various
+trade centers. The Cheyennes served as intermediaries
+between the upper Missouri villages
+and the Southern Plains hunter-pastoralists
+and carried firearms and other European
+American goods to the south and horses to the
+north. The Crows trafficked in horses and firearms
+between the central upper Missouri and
+the Shoshone rendezvous. The Assiniboines
+and Plains Crees carried manufactured goods
+to the upper Missouri from Canadian fur
+traders and took back horses and corn. In the
+Southern Plains, the Jumanos and Apaches
+and later the Apaches and Comanches competed
+for the lucrative middleman position between
+the Wichitas and the Pueblos. By linking
+the trade centers, these middleman groups
+integrated the Plains tribes into a compact
+commercial network that covered the whole
+region.</p>
+
+<p>The trade systems were maintained through a
+variety of sustaining mechanisms, including
+the calumet ceremony, redundancy trading, and
+sign language. The calumet ceremony made unrelated
+peoples one family through the working
+of a fictional kinship. Leaders of different bands
+or tribes adopted each other as father or son,
+allowing trade to take place even between traditional
+enemies. In such exchanges, tribes gained
+access to foodstuffs that would otherwise have
+been difficult to acquire. However, Native peoples
+often exchanged corn for corn, or meat for
+meat. The Pawnees, for example, traded corn
+for corn with the Arikaras. This redundancy
+trading was a security mechanism, setting up
+avenues for exchange in case of local crop failure.
+Sign language allowed linguistically diverse
+tribes to negotiate the terms of the trade.</p>
+
+<p>European traders began to engage in this
+trade from the edges of the Plains. Spanish
+settlers in Santa Fe exchanged goods of European
+manufacture, such as beads, mirrors, and
+blades, for hides, foodstuffs and services early
+in the seventeenth century. British traders infiltrated
+the network from the northeast, and
+French and Spanish traders pushed up the Missouri
+River from St. Louis in the late eighteenth
+century. By the early nineteenth century, American
+and British fur companies had created networks
+of fixed trading posts throughout the
+Missouri and Saskatchewan river drainage basins.
+At these points European and American
+manufactured products were exchanged for
+bison robes, beaver pelts, and other furs and
+skins. The Plains Indians became the primary
+producers in an international trade system controlled
+from New York and London. American
+and Canadian traders also sought to bypass the
+traditional middlemen and used alcohol as a
+means to curry favor. The Indians would not
+have participated if they had not valued the
+introduced products (especially guns), but a dependency
+on outside supplies was created, and
+when there no longer were furs to trade the
+Indians could not obtain the goods they had
+come to rely upon.</p>
+
+<p>The increased market demands resulted in
+the collapse of the resource base. By 1840 beaver
+had been eliminated from large parts of the
+Plains, and the virtual destruction of the bison
+herds in the 1870s brought an end to the traditional
+Plains Indian trade. Restricted to reservations
+in both Canada and the United States,
+the Indians' trade was often a sale of annuity
+goods, at inadequate prices, at the local trader's
+store. Native American conventions of trade
+continued, and continues, within tribes and in
+contexts like powwows between tribes, but the
+traditional Plains trade system that had endured
+for so long fell victim to imposed European
+American economies.</p>
+
+<closer>
+<signed>Mark A. Eifler</signed>
+University of Portland</closer>
+</div1>
+
+<div1>
+<bibl>H&#228;m&#228;l&#228;inen, Pekka. "The Western Comanche Trade Center:
+Rethinking the Plains Indian Trade System." <title level="j">Western
+Historical Quarterly</title> 29 (1998): 485–513.</bibl> <bibl>Jablow, Joseph.
+"The Cheyenne in Plains Indian Trade Relations 1795–
+1840." In <title level="j">Monographs of the American Ethnological Society</title>.
+Vol. 19. New York: J. J. Augustin Publisher, 1950.</bibl> <bibl>Swagerty,
+William R. "Indian Trade in the Trans-Mississippi West to
+1870." In <title level="j">Handbook of North American Indians</title>, 4:351–74.
+Washington <hi rend="smallcaps">DC</hi>: Smithsonian Institution, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.006 SYSTEM "egp.afam.006.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">All-Black Towns</title>
+<title level="m" type="sub"></title>
+<author>Larry O'Dell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="O'Dell, Larry">Larry O'Dell</author>. <title level="a">"All-Black Towns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">9-10</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALL-BLACK TOWNS</head>
+
+<figure n="egp.afam.006" rend="granted">
+<figDesc>Town council, Boley, Oklahoma, ca. 1907–10</figDesc>
+</figure>
+
+<p>African Americans left the South for the
+"promised land" of the West in ever-increasing
+numbers after the Civil War. Economic
+hardship, racial violence, and intolerance
+prompted this vast migration from states such
+as Mississippi, Louisiana, Tennessee, Texas,
+and Arkansas. With leadership from Pap Singleton
+and Henry Adams, the "Exodusters"
+settled mainly in Kansas in 1879–80, though
+the movement had began a few years earlier
+and lasted into the next decade. The opportunity
+to own land attracted many of these
+people to the Great Plains. Reports directed
+back to the South claimed that landownership
+was a simple and cheap prospect.</p>
+
+<p>By 1881 African Americans emigrants had
+established twelve agricultural colonies in
+Kansas: Nicodemus, Hodgeman, Morton City,
+Dunlap, Kansas City–area Colony, Parsons,
+Wabaunsee, Summit Township, Topeka-area
+Colony, Burlington, Little Coney, and the
+Daniel Votaw Colony. Another settlement, the
+Singleton Colony, seems to have never really
+been a viable community. Many of the other
+colonies lasted only a few years. The town of
+Nicodemus, on the other hand, founded a few
+years before the large exodus, prospered into
+the twentieth century. African Americans also
+established colonies in Nebraska, including
+the town of Dewitty. They migrated to western
+New Mexico, too, creating settlements
+such as Blackdom and Dora. Oliver Toussaint
+Jackson established the settlement of Dearfield,
+Colorado, in 1910, one of the last African
+American Plains agricultural communities.
+Many African Americans dispersed elsewhere
+throughout the Plains; most worked the land
+like their white counterparts.</p>
+
+<p>During a fifty-five-year period following
+the end of the Civil War, African Americans
+built more than fifty identifiable communities
+in Oklahoma. Some sprouted and quickly
+vanished; others still survive. Achieving freedom
+after the Civil War, former slaves of
+the Cherokees, Creeks, Seminoles, Chickasaws,
+and Choctaws also formed towns in Indian
+Territory. When the U.S. government allotted
+land to individual Native Americans,
+most Indian "freedman" chose land next to
+other African Americans. Their farming communities
+sheltered self-governed economic
+and social institutions, including businesses,
+schools, and churches. Enterprising businessmen
+set up every imaginable kind of business,
+including publishing concerns whose newspapers
+advertised in the South for settlers.</p>
+
+<p>More African Americans settled in Oklahoma
+Territory with the land run of 1889,
+which ordered "free land" to non-Indians. E. P.
+McCabe, former state auditor of Kansas,
+helped found the all-black town of Langston.
+By means of the Langston City Herald, which
+his traveling agents circulated around the
+South, he and other leaders hoped to bring in
+large numbers of African Americans whose
+growing political power would secure their
+prosperity and safety. McCabe never accomplished
+his goal of creating an African American
+state. Nevertheless, dozens of black communities
+sprouted and flourished in the rich
+topsoil of the new territory and, after 1907, the
+new state.</p>
+
+<p>In Oklahoma and Kansas, African Americans
+lived relatively free from the prejudices
+and brutality common in racially mixed communities
+of the Midwest and the South. Cohesive
+all-black settlements offered residents the
+security of depending on neighbors for financial
+assistance and the economic opportunity
+provided by access to open markets for their
+crops.</p>
+
+<p>Marshalltown, North Fork Colored, Canadian
+Town, and Arkansas Colored existed as
+early as the 1860s in Indian Territory. Other
+Indian Territory towns that no longer exist
+include Sanders, Mabelle, Wiley, Homer, Huttonville,
+Lee, and Rentie. Among the Oklahoma
+Territory towns that no longer exist are
+Lincoln, Cimarron City, Bailey, Zion, Emanuel,
+Udora, and Douglas in old Oklahoma
+Territory. Surviving towns include Boley,
+Brooksville, Clearview, Grayson, Langston,
+Lima, Redbird, Rentiesville, Summit, Taft,
+Tatums, Tullahassee, and Vernon. Boley, the
+largest and most renowned of these was twice
+inspected by African American educator
+Booker T. Washington, who lauded the town
+in <title level="j">Outlook Magazine</title> in 1908.</p>
+
+<p>Immediately after statehood in 1907 the
+Oklahoma legislature passed Jim Crow laws,
+and many African Americans became disenchanted
+with the new state. A large contingent
+relocated to western Canada, forming colonies
+such as Amber Valley, Alberta, and Maidstone,
+Saskatchewan. Another exodus of African
+Americans from the United States occurred
+with the "Back to Africa" movements of the
+late nineteenth and early twentieth centuries.
+A large group of Oklahomans joined the illfated
+Chief Sam expedition to Africa. Other
+Plains African Americans migrated to colonies
+in Mexico.</p>
+
+<p>The collapse of the American farm economy
+in the 1920s and the advent of the Great
+Depression in 1929 spelled the end for most
+all-black communities. The all-black towns
+were, for the most part, small agricultural centers
+that gave nearby African American farmers
+a market for their cotton and other crops.
+The Depression devastated these towns, and
+residents moved west or migrated to metropolises
+where jobs might be found. Black towns
+dwindled to only a few residents.</p>
+
+<p>As population dwindled, so too did the tax
+base. In the 1930s many railroads failed, isolating
+small towns from regional and national
+markets. This spelled the end of many of the
+black towns. During the Depression, whites
+denied credit to African Americans, creating
+an almost impossible situation for black
+farmers and businessmen. Even Boley, one of
+the most successful towns, declared bankruptcy
+in 1939. Today, only a few all-black
+towns survive, but their legacy of economic
+and political freedom is well remembered.</p>
+
+<closer>
+<signed>Larry O'Dell<lb/>
+Oklahoma Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Crockett, Norman. <title level="m">The Black Towns</title>. Lawrence: Regents
+Press of Kansas, 1979.</bibl> <bibl>Hamilton, Kenneth Marvin. <title level="m">Black
+Towns and Profit: Promotion and Development in the
+Trans-Appalachian West, 1877–1915</title>. Urbana: University
+of Illinois Press, 1991.</bibl> <bibl>Taylor, Quintard. <title level="m">In Search of the
+Racial Frontier: African Americans in the American West,
+1528–1990</title>. New York: W. W. Norton, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

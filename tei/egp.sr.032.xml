@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jackson, Phil (b. 1945)</title>
+<title level="m" type="sub"></title>
+<author>Roger Holmes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Holmes, Roger">Roger Holmes</author>. <title level="a">"Jackson, Phil (b. 1945)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">777-778</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JACKSON, PHIL (b. 1945)</head>
+
+<p>Born on September 17, 1945, in Deer Lodge,
+Montana, and brought up in Williston, North
+Dakota, Phil Jackson is one of the most successful
+coaches in the history of the National
+Basketball Association. Between 1990 and
+2002 Jackson's Chicago Bulls and Los Angeles
+Lakers teams won nine <hi rend="smallcaps">NBA</hi> championships.
+Through the 2001-2002 season, Jackson had
+the highest career-winning percentage in <hi rend="smallcaps">NBA</hi>
+history in regular season games (.738) and
+play-off games (.742).</p>
+
+<p>Jackson's success is a study in contrasts. At a
+time when the <hi rend="smallcaps">NBA</hi> vigorously promotes its
+individual stars, he wins by preaching selfless
+team play. In a game requiring the highest levels
+of physical skill, he emphasizes the mental
+and spiritual condition of his players. The
+coaching philosophy underpinning this approach
+is an amalgam of influences ranging
+from Jackson's native Great Plains to the Far
+East. "The day I took over the Chicago Bulls,"
+he writes in his book Sacred Hoops, "I vowed to
+create an environment based on the principles
+of selflessness and compassion I'd learned as
+a Christian in my parents' home; sitting on
+a cushion practicing Zen; and studying the
+teachings of the Lakota Sioux." The son of two
+Pentecostal ministers, Jackson was a devoted
+student of the Bible, and his parents had hopes
+of him entering the ministry. He was also a
+gifted athlete, a pro prospect in baseball and a
+standout basketball player on the 1963 Williston
+High School state championship team. He
+accepted a basketball scholarship to the University
+of North Dakota, where he played under
+future <hi rend="smallcaps">NBA</hi> coach Bill Fitch. While twice
+earning all-American honors on the court,
+Jackson studied psychology, philosophy, and
+religion in the classroom and became involved
+in the charged politics of the Vietnam War era.
+He graduated in 1967.</p>
+
+<p>A second-round draft choice of the New
+York Knicks in 1967, Jackson spent ten of his
+thirteen seasons with that team. He was never
+a star, but the gangly six-foot-eight-inch Jackson
+was a valuable role player on a team that
+featured several future <hi rend="smallcaps">NBA</hi> Hall of Fame players,
+including Bill Bradley, the future senator
+and presidential candidate. During this time
+Jackson broadened his personal horizons, exploring
+various religious and meditative traditions
+and conducting summer basketball
+clinics on the Pine Ridge Reservation in South
+Dakota.</p>
+
+<p>In 1978 Jackson was traded to the New Jersey
+Nets and got his first taste of coaching as
+a player/assistant coach. After retiring as a
+player, he spent the 1980s learning the coaching
+craft and paying his dues in the Continental
+Basketball Association and the Puerto
+Rican summer leagues. In 1987 Jackson accepted
+an assistant coaching job with the Chicago
+Bulls, a team with a prodigiously gifted
+young player named Michael Jordan and a
+losing record. In 1989, frustrated by more mediocre
+seasons, Bulls' management offered the
+head coaching job to Jackson. Within two
+years, the Bulls were <hi rend="smallcaps">NBA</hi> champions. By the
+end of the 1990s Jackson was recognized as
+one of the game's all-time great coaches, a reputation
+solidified by his continued success as
+head coach of the Los Angeles Lakers.</p>
+
+<closer>
+<signed>Roger Holmes<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jackson, Phil, and Hugh Delahanty. <title level="m">Sacred Hoops</title>. New
+York: Hyperion, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

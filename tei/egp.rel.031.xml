@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lac Ste. Anne Pilgrimage</title>
+<title level="m" type="sub"></title>
+<author>Raymond J. A. Huel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Huel, Raymond J. A.">Raymond J. A. Huel</author>. <title level="a">"Lac Ste. Anne Pilgrimage."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">750</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LAC STE. ANNE PILGRIMAGE</head>
+
+<p>This pilgrimage is the most famous and the
+most popular of the Roman Catholic pilgrimages
+in western Canada. It is held annually
+at Lac Ste. Anne, about forty miles west
+of Edmonton, Alberta, in the third week of
+July, to coincide with the feast day of Saint
+Anne (July 26). Saint Anne, mother of the Virgin
+Mary, is also the patron saint of childless
+women and miners, as well as the miracle
+worker of Canada. The pilgrimage was inaugurated
+in 1889 by Joseph Lestanc, a Missionary
+Oblate of Mary Immaculate, who, while
+visiting the shrine of Saint Anne of Auray in
+his native Brittany, felt the need to work ardently
+to revive the cult of Saint Anne and to
+institute pilgrimages in her honor. Upon Lestanc's
+return to Canada, a new chapel was
+built at the Lac Ste. Anne Mission, and he
+obtained a statue of the saint that had touched
+the famous relics at Sainte Anne de Beaupré in
+Quebec.</p>
+
+<p>Religious services associated with the pilgrimage
+include penitential rites, mass and
+Holy Communion, recitation of the rosary,
+the blessing of the sick, the stations of the
+cross, benediction of the Blessed Sacrament,
+and the blessing of the lake. First Nations languages
+such as Cree and Blackfoot are used
+extensively in these services. Today the annual
+pilgrimage attracts thousands of Indians and
+Métis from the western provinces and the
+Northwest Territories, and it reflects a blend
+of traditional Catholic practices implanted
+long ago by French-speaking Oblate missionaries
+and traditional Native ceremonies and
+rituals.</p>
+
+<closer>
+<signed>Raymond J. A. Huel<lb/>
+University of Lethbridge</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Provincial Archives of Alberta, <title level="m">Fonds Oblat de la province
+Alberta-Saskatchewan, Lac Ste Anne, 6, Codex historicus</title>,
+Edmonton, Alberta: Provincial Archives of Alberta, 1889–1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

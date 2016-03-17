@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.007 SYSTEM "egp.arc.007.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cemeteries</title>
+<title level="m" type="sub"></title>
+<author>Steve C. Martens</author>
+<author>Nancy Volkman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Martens, Steve C.">Steve C. Martens</author> and <author n="Volkman, Nancy">Nancy Volkman</author>. <title level="a">"Cemeteries."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">70-71</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CEMETERIES</head>
+
+<figure n="egp.arc.007" rend="granted">
+<figDesc>Haskell County, Kansas, 1941</figDesc>
+</figure>
+
+<p>Rural cemeteries in the Great Plains are familiar,
+ritual landscapes that serve a fundamental
+human need for remembrance, commemoration,
+and spiritual healing. Historically, people
+have sought out places of natural beauty as
+burial sites and attempted to cultivate natural
+beauty according to a sense of ritual order
+they regarded as appropriate. Cultural notions
+about death and the commemoration of departed
+loved ones make cemeteries rich places
+in which to look for expressions of cultural
+meaning. The mosaic of burial traditions in
+the Great Plains is as varied as other cultural
+indicators. Observers of the Great Plains landscape
+can discern a range of cemetery types,
+including cemeteries associated with country
+churches, designed or otherwise planned secular
+cemeteries in many towns and cities, and
+cemeteries with distinctively ethnic characteristics.
+A more recent phenomenon in Great
+Plains cemeteries, as elsewhere, is the lawn
+cemetery or memorial garden with minimally
+visible, flat stone markers.</p>
+
+<p>The most widespread and familiar cemetery
+tradition on the Plains is cemeteries
+alongside country churches connected with a
+particular religious denomination and a specific
+congregation. These cemeteries have
+often outlasted the churches themselves after
+their congregations have dwindled. Country
+church cemeteries display an orderliness according
+to rules that vary with religious sect.
+Many Catholic cemeteries, for example, exhibit
+perimeter rows of trees and occasional
+walking paths that connect stations of the
+cross. Some church cemeteries historically encouraged
+burial plots grouped according to
+family, while others simply allocated each
+grave site in chronological sequence based on
+the order in which members of the community
+died. Most cemeteries adjacent to country
+churches were laid out according to a simple,
+classical sense of order, generally symmetrically
+and in straight rows, often alongside a
+straight access driveway.</p>
+
+<p>A romantic, Victorian vision of death permeated
+many social groups at the time communities
+were being established in the Great
+Plains. In the mid-1800s landscape architects
+in large eastern cities designed cemeteries
+according to a newly conceived cemeteryplanning
+tradition called the "Rural Romantic"
+cemetery movement. These picturesque,
+naturalistic cemeteries were widely copied
+and adapted in parklike cemeteries constructed
+in the Great Plains around the turn of
+the twentieth century, particularly in towns
+but also in some country cemeteries. In addition
+to less formal arrangement, Rural Romantic
+cemeteries often display tranquil water
+elements, weeping trees and groupings of
+plants with varied textures, and overtly reflective
+markers with symbolic meanings. In general,
+plant materials in Great Plains cemeteries
+include more diverse and prized cultivars than
+one might expect to find in the surrounding
+landscape. Cemeteries change significantly
+over the seasons as graves are marked with
+holiday decorations.</p>
+
+<p>Ideas about cemeteries and burial practices
+are persistent over time, and there is good indication
+that ethnic populations on the Plains
+adhered to conservative funerary customs imported
+directly from native homelands. Ethnicity
+and religious affiliation clearly influenced
+the layout of rural cemeteries. Czech
+American cemeteries on the Plains (including
+cemeteries designed by secular associations
+and those consecrated by more traditional
+Catholic congregations) were laid out in a
+highly formalized order, with a gridded configuration
+and a formal all&#233;e, or double row of
+trees, flanking the driveway. Moravian cemeteries
+were customarily divided into choirs,
+grouped by age, gender, and marital status.
+German Americans, Black Sea German Americans,
+and Ukrainian Americans consecrated
+some of the most austere, strikingly powerful,
+and isolated cemeteries, reflecting previous
+settlement experiences and the harsh circumstances
+of life in the Great Plains. Handcrafted
+wrought-iron crosses are a conspicuous feature
+marking graves in these cemeteries. On
+the Southern Plains, Hispanic cemeteries, or
+<hi rend="italic">camposantos</hi>, reflect traditions of burial in
+which individual graves are differentiated with
+low fences (termed <hi rend="italic">cerquitas</hi>) and niches for
+sacred reliquary objects. The scraped or swept
+grave, often attributed to African influences,
+is a distinctive tradition in cemeteries on the
+Southern Plains. Other common characteristics
+of African American burial grounds
+are the use of homemade grave markers,
+mounded earth over graves, and "found object"
+grave decorations such as bottles and
+light bulbs. Distinctive ethnic traditions can
+be observed in cemeteries established by many
+other groups.</p>
+
+<p>In addition to location and overall layout,
+cemeteries are made distinctive by the features
+and details constructed within them. Typically,
+grave markers in most Great Plains cemeteries
+are made of stone, although there are
+many examples of wooden, concrete, and
+wrought-iron markers. Iconographic symbolism
+often coincides with one of the three traditions
+described above. In classical church
+cemeteries, upright stones with family names
+can be expected. Many Rural Romantic cemeteries
+include benches for reflection, obelisks,
+and markers either in the shape of broken tree
+trunks or topped with urns covered by a
+draped cloth. Messages inscribed on grave
+markers range from cowboy epitaphs to academic
+poetry, memorial photographs, and
+beautifully composed foreign-language remembrances.
+Other constructed features include
+perimeter fences, setting the cemetery
+apart from its surroundings, and distinctive
+ornamental gates that often bear the name of
+the cemetery or congregation. Many local and
+state historical societies have genealogy interest
+groups that specialize in informative cemetery
+grave marker research and inventories.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.022">Grave Markers</ref>.</p>
+
+<closer>
+<signed>Steve C. Martens</signed>
+North Dakota State Unviersity<lb/>
+<signed>Nancy Volkman</signed>
+Texas A&amp;M University</closer>
+</div1>
+
+<div1>
+<bibl>Jackson, Kenneth. <title level="m">Silent Cities: Evolution of the American Cemetery</title>. New York: Princeton Architectural Press, 1989.</bibl>
+<bibl>Sloane, David C. <title level="m">The Last Great Necessity: Cemeteries in American History</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns Hopkins University
+Press, 1991.</bibl> <bibl>Zelinsky, Wilbur. "Unearthly Delights:
+Cemetery Names and the Map of the Changing American
+Afterworld." In <title level="m">Geographies of the Mind: Essays in Historical Geosophy</title>, edited by David Lowenthal and Martyn J.
+Bowden. New York: Oxford University Press, 1976: 171–96.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

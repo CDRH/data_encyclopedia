@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Central Americans</title>
+<title level="m" type="sub"></title>
+<author>David P. Lindstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lindstrom, David P.">David P. Linstrom</author>. <title level="a">"Central Americans."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">353</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CENTRAL AMERICANS</head>
+
+<p>Central Americans are one of the fastestgrowing
+Latin American origin groups in the
+United States. The 1990 U.S. census enumerated
+1.3 million persons of Central American
+origin, of whom slightly more than 1 million
+were foreign born. Approximately 8 percent
+of all Central Americans in the United States
+reside in the ten states of the American Great
+Plains, the vast majority in Texas.</p>
+
+<p>The isthmus of Central America encompasses
+the nations of Guatemala, Belize, Honduras,
+El Salvador, Nicaragua, Costa Rica, and
+Panama. There are an estimated 36 million
+people in Central America, most of whom
+are mestizos, but there also are Indigenous
+groups, especially in Guatemala, and people of
+African ancestry in the Caribbean coastal
+areas. The United Nations projects that this
+population will increase to 58 million by the
+year 2025. Poverty is widespread: gross national
+product per capita in 1997 ranged from
+a low of $410 in Nicaragua to a high of $3,080
+in Panama, compared to $29,080 in the United
+States. Export agriculture dominates the economies
+of Central America, with coffee, cotton,
+bananas, beef, and sugar the leading products.
+The industrial sector grew during the 1960s
+and 1970s but remains small. With the exception
+of Costa Rica and Belize, military governments
+have been a common feature of the
+political landscape in the region. Mounting
+political tensions and public discontent with
+the ruling regimes in El Salvador, Guatemala,
+and Nicaragua erupted into civil wars in the
+late 1970s and early 1980s. The 1990s saw the
+restoration of peace and the establishment
+of democratically elected governments in all
+three countries.</p>
+
+<p>During the worst years of the conflicts the
+number of immigrants entering the United
+States from El Salvador, Guatemala, and Nicaragua
+grew dramatically. Close to two-thirds
+of the roughly 1 million Central American immigrants
+included in the 1990 U.S. census arrived
+between 1980 and 1990. Advocates of U.S.
+foreign policy in the region argued that immigration
+from El Salvador and Guatemala was
+economically motivated, and to support their
+argument they pointed to well-established
+patterns of international migration within the
+region and significant differences in earnings
+and living standards between the United States
+and Central America. Critics of U.S. foreign
+policy viewed Salvadoran and Guatemalan
+immigrants in the United States as political
+refugees in search of safe haven. The U.S. government
+generally denied refugee status to immigrants
+from the region. In spite of the legal
+restrictions on immigration to the United
+States, immigrants from Central America
+came in large numbers, many without legal
+documentation.</p>
+
+<p>Central Americans began arriving in the
+Great Plains in significant numbers during the
+1980s as part of a larger stream of foreignborn
+immigrants attracted to the region by
+employment opportunities in new or expanding
+meatpacking plants and other low-wage
+industries. Intense competition and low profit
+margins in meatpacking have made the industry
+very dependent on unskilled immigrant
+labor. The arrival of Mexican, Central American,
+and Asian immigrants has transformed
+many small towns with meatpacking plants,
+like Lexington, Nebraska, and Garden City,
+Kansas, into ethnically, linguistically, and culturally
+diverse communities. The low wages
+offered by meatpacking plants and the comparatively
+low skill levels of many Central
+Americans and other new immigrants have
+also created greater levels of poverty in these
+communities.</p>
+
+<p>The relative youth and size of the new immigrant
+streams have placed strains on the supply
+of housing, education, medical care, and basic
+services available in meatpacking communities.
+School enrollments have soared, creating
+overcrowding in classrooms, and there is a
+growing demand for bilingual and English as a
+Second Language programs. In the area of
+health care, most of the current demand for
+services is related to maternal and child health.
+As the Central American population ages, the
+demand will eventually shift to health services
+for adolescents, adults, and the elderly.</p>
+
+<p>Although they represent a small proportion
+of all Central Americans in the United
+States, Central American immigrants in the
+Great Plains, along with other new immigrant
+groups, will have an increasingly visible impact
+on the towns and cities they inhabit because
+of the comparatively small size and previous
+ethnic homogeneity of these places.</p>
+
+<closer>
+<signed>David P. Lindstrom<lb/>
+Brown University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lamphere, Louise, Alex Stepick, and Guillermo Grenier,
+eds. <title level="m">Newcomers in the Workplace: Immigrants and the Restructuring of the U.S. Economy</title>. Philadelphia: Temple
+University Press, 1994.</bibl> <bibl>Stull, Donald D., Michael J. Broadway,
+and David Griffith, eds. <title level="m">Any Way You Cut It: Meat Processing and Small-Town America</title>. Lawrence: University
+Press of Kansas, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

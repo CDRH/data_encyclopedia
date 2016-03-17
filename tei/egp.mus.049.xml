@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.mus.049 SYSTEM "egp.mus.049.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Welk, Lawrence (1903-1992)</title>
+<title level="m" type="sub"></title>
+<author>Robert W. Groves</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Groves, Robert W.">Robert W. Groves</author>. <title level="a">"Welk, Lawrence (1903-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">549-550</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WELK, LAWRENCE (1903-1992)</head>
+
+<figure n="egp.mus.049">
+<figDesc>Lawrence Welk</figDesc>
+</figure>
+
+<p>The sixth of eight children, Lawrence Welk
+was born on a farm near Strasburg in southcentral
+North Dakota on March 11, 1903, to
+Ludwig and Christina Schwann Welk, German
+Russian immigrants from the Odessa region
+of the Ukraine. Throughout his career,
+Welk claimed that his lifelong frugality, work
+ethic, and strong Catholic Church ties were
+products of his impoverished and strictly disciplined
+upbringing. A largely self-taught musician,
+Welk quit school during the fourth
+grade, purchased his first piano accordion at
+age seventeen, and left the farm on his twentyfirst
+birthday to begin a career as a regional
+musician and dance band leader.</p>
+
+<p>In 1926 he began his first significant fulltime
+job in South Dakota as an accordionist
+and actor with the Peerless Entertainers, a
+small traveling show led by George T. Kelly,
+the individual Welk credited with teaching
+him the basics of advertising, showmanship,
+and audience sensitivity. From 1927 to 1937
+Welk traveled the Plains states with his own
+six- to ten-piece territory band under various
+names (Welk's Novelty Orchestra, the Hotsy-Totsy Boys, and the Honolulu Fruit Gum Orchestra),
+and from 1927 to 1934 they played
+live radio shows over <hi rend="smallcaps">WNAX</hi> in Yankton, South
+Dakota. During this period his most notable
+and regular bookings were in the seven Tom
+Archer Ballrooms located in Iowa, Nebraska,
+South Dakota, and Missouri. In 1931 he married
+Fern Renner in Yankton. They had three
+children: Shirley (b. 1932), Donna (b. 1937),
+and Lawrence Jr. (b. 1940).</p>
+
+<p>In late 1937 Welk got his first national exposure
+under management of the Fredericks
+Brothers with broadcast performances at the
+William Penn Hotel in Pittsburgh. It was during
+this booking in early 1938 that he began
+distinguishing his musical style as "champagne
+music," and soon thereafter he had his
+own waltz-ballad, "You're My Home Sweet
+Home," rearranged as "Bubbles in the Wine,"
+his signature theme for the remainder of his
+career. While at the William Penn he also
+hired the first of seven "champagne ladies"
+(Lois Best, 1938–40; Jayne Walton, 1940–45;
+Joan Mowery, 1945–47; Helen Ramsey, 1947–
+49; Roberta Linn, 1949–53; Alice Lon, 1953–59;
+and Norma Zimmer, 1960–82). From 1940 to
+1950 Welk's band was based in Chicago, where
+he most often played the Trianon Ballroom.</p>
+
+<p>Welk moved his band in 1951 to the Aragon
+Ballroom in Santa Monica, California, and
+was featured from 1952 to 1955 on weekly
+broadcasts from the ballroom over <hi rend="smallcaps">KTLA</hi> television.
+In 1955 Welk began weekly national
+broadcasts over <hi rend="smallcaps">ABC</hi>. After <hi rend="smallcaps">ABC</hi> dropped the
+show in 1971, it continued in syndication until
+Welk's retirement in 1982. During the early
+years of this period Welk hired his most famous band member, accordionist Myron Floren
+(1950); his personal manager, Sam Lutz
+(1952); and his musical director, George Cates
+(1956). All three remained with him until his
+retirement. In 1956 he hired the four Lennon
+Sisters as featured singers, the first of a long
+line of young singers and dancers who would
+become part of his "musical family" over the
+next twenty-one years. In order to keep his
+now famous musical family intact (he paid
+only union scale salaries, a policy that never
+changed throughout his career), he initiated a
+unique profit-sharing plan in 1956 based in
+part on how long a member of the show remained
+with the organization.</p>
+
+<p>After building his audience through years
+of live appearances, he maintained their loyalty
+as television viewers with the stylistic consistency
+of his programming, the personalized
+presentation of his musical family, his famous
+accent and misstatements, and his simple,
+North Dakota farm boy demeanor. Welk retired
+at the end of the 1982 season, and the
+decision was made not to continue the show
+without him. Even though his show never received
+a broadcast award, it remains the most
+watched and longest running program of its
+kind in television history. Reruns continue
+over public television stations. In 1994 Lawrence
+Jr. opened the Welk Theater and Resort
+in Branson, Missouri, where the shows are
+headlined by members of the original television
+cast. The Lawrence Welk Archive,
+which contains his scrapbooks, band arrangements,
+and memorabilia, is located at North
+Dakota State University in Fargo. Welk died
+on May 12, 1992, in Santa Monica, California.</p>
+
+<closer>
+<signed>Robert W. Groves<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schwienher, William. <title level="m">Lawrence Welk: An American Institution</title>.
+Chicago: Nelson-Hall, 1980.</bibl> <bibl>Welk, Lawrence.
+<title level="m">Wunnerful, Wunnerful: The Autobiography of Lawrence Welk</title>, edited by Bernice McGeehan. Englewood Cliffs <hi rend="smallcaps">NJ</hi>:
+Prentice-Hall, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

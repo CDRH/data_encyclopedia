@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fertile Belt</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Francis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Francis, R. Douglas">R. Douglas Francis</author>. <title level="a">"Fertile Belt."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">385</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><geogName rend="region" reg="Fertile Belt">FERTILE BELT</geogName></head>
+
+<p>The term <hi rend="italic"><geogName rend="region" reg="Fertile Belt">fertile belt</geogName></hi> first appeared in <persName reg="Hind, Henry Youle">Henry Youle Hind</persName>'s <hi rend="italic">Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858</hi> (1860), the account of his scientific expedition commissioned by the government of the Canadas to explore the possibilities of large-scale agricultural settlement in the <geogName rend="region" reg="Canadian Northwest">Northwest</geogName>. <persName reg="Hind, Henry Youle">Hind</persName> used the term to refer to a region that he estimated to be 40 million acres in size, of excellent soil and rich pasture that would be ideal for agriculture, stock raising, and settlement, and that stretched in an arc from the American border at the <geogName rend="river" reg="Red River">Red River</geogName>, northwest to the forks of the <geogName rend="river" reg="Saskatchewan River">Saskatchewan River</geogName>, and then along the <geogName rend="river" reg="North Saskatchewan River">North Saskatchewan River</geogName> to the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountains</geogName>, where, in the foothills, it took a southward turn until it reached the border at 114&#186; west. Hind highlighted and accentuated the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName> in his report in two ways: as a yellow band marked "Fertile Belt" on a map drawn by the British cartographer <persName reg="Arrowsmith, John">John Arrowsmith</persName> to accompany the British version of the report and by stating in block letters its importance for agricultural settlement: "<hi rend="smallcaps">IT IS A PHYSICAL REALITY OF THE HIGHEST IMPORTANCE TO THE INTERESTS OF BRITISH NORTH AMERICA THAT THIS CONTINUOUS BELT CAN BE SETTLED AND CULTIVATED FROM A FEW MILES WEST OF THE LAKE OF THE WOODS TO THE PASSES OF THE <geogName rend="mountains" reg="Rocky Mountains">ROCKY MOUNTAINS</geogName>, AND ANY LINE OF COMMUNICATION, WHETHER BY WAGON ROAD OR RAILROAD, PASSING THROUGH IT WILL EVENTUALLY ENJOY THE GREAT ADVANTAGE OF BEING FED BY AN AGRICULTURAL POPULATION FROM ONE EXTREMITY TO THE OTHER</hi>."</p>
+
+<p><persName reg="Palliser, John">John Palliser</persName>, heading a British expedition into the same region that <persName reg="Hind, Henry Youle">Hind</persName> traversed, also in 1857, also recognized the existence of an arc of fertile land and used the term <geogName rend="region" reg="Fertile Belt">fertile belt</geogName> in his Report in 1863. It is possible that <persName reg="Palliser, John">Palliser</persName> gave <persName reg="Hind, Henry Youle">Hind</persName> the idea of calling the region the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName> but was himself cautious in using the term and played down the concept in his Report. As a result, his name has become associated with the more sterile land to the south&#8211;<geogName rend="region" reg="Palliser's Triangle">Palliser's Triangle</geogName>&#8211;believed at the time to be the northern tip of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName>. Nevertheless, both <persName reg="Hind, Henry Youle">Hind</persName>'s and <persName reg="Palliser, John">Palliser</persName>'s reports established the very important generalization of two distinct regions in the <geogName rend="region" reg="Canadian Northwest">Northwest</geogName>: one containing good agricultural land&#8211;the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName>&#8211;and the other poor agricultural land&#8211;<geogName rend="region" reg="Palliser's Triangle">Palliser's Triangle</geogName>. Later promoters of western settlement used such images as the "Rainbow of Rupert's Land," "ordained garden," and "Paradise of Fertility" in reference to <persName reg="Hind, Henry Youle">Hind</persName>'s and <persName reg="Palliser, John">Palliser</persName>'s <geogName rend="region" reg="Fertile Belt">fertile belt</geogName>.</p>
+
+<p>During the negotiations of the sale of Rupert's Land by the <orgName rend="business" key="bus.hbc" reg="Hudson's Bay Company">Hudson's Bay Company</orgName> to the Canadian government in 1869–70, the term <hi rend="italic"><geogName rend="region" reg="Fertile Belt">fertile belt</geogName></hi> came to be associated with the whole area from the <geogName rend="river" reg="Red River">Red River</geogName> to the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountains</geogName> and from the <geogName rend="region" reg="North Saskatchewan">North Saskatchewan</geogName> clear down to the American border, including <geogName rend="region" reg="Palliser's Triangle">Palliser's Triangle</geogName>. This was the area referred to in the deed of surrender by which the <orgName rend="business" key="bus.hbc" reg="Hudson's Bay Company">Hudson's Bay Company</orgName> retained "one twentieth of the land of the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName>" as part of the agreement to sell Rupert's Land to <placeName rend="country" key="can" reg="Canada">Canada</placeName>.</p>
+
+<p>Throughout the 1870s, both visions of the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName>&#8211;as a delineated area north of <geogName rend="region" reg="Palliser's Triangle">Palliser's Triangle</geogName> and as all the land south of the <geogName rend="river" reg="Saskatchewan River">Saskatchewan River</geogName>&#8211;held sway. When exploration and surveying began for a proposed railway through western <placeName rend="country" key="can" reg="Canada">Canada</placeName>, reference was frequently made to the <geogName rend="region" reg="Fertile Belt">fertile belt</geogName>. <persName reg="Fleming, Sanford">Sandford Fleming</persName> and <persName reg="Grant, George">George Grant</persName> used the term in <hi rend="italic">From Ocean to Ocean</hi> (1872) to refer only to the Hind-Palliser area, recommending this area as the best route for the proposed railway to follow. The International Boundary Survey of 1872–75 that mapped out the area for homesteading also emphasized the Hind-Palliser concept of a fertile belt. In the words of the survey's chief geologist, <persName reg="Dawson, C. M.">C. M. Dawson</persName>, the "fertile belt must form the basis of settlement and utilization of the western plains," although Dawson emphasized as well the availability of good agricultural land to the south.</p>
+
+<p>By 1881, however, when the <orgName rend="railroad" key="rail.cprc" reg="Canadian Pacific Railway Company">Canadian Pacific Railway Company</orgName> began construction of its line, <persName reg="Hind, Henry Youle">Hind</persName>'s and <persName reg="Palliser, John">Palliser</persName>'s concept of a clearly demarcated fertile belt had given way to one that assumed all the area south of the Arctic to be "fertile," therefore rendering as meaningless the term <hi rend="italic">fertile belt</hi>. The botanist <persName reg="Macoun, John">John Macoun</persName> of the <orgName rend="government" key="gov.can.gsc" reg="Geological Survey of Canada">Geological Survey of Canada</orgName> party implied in his <hi rend="italic">Manitoba and the Great North-West</hi> (1880) that the land previously designated as the arid land of <geogName rend="region" reg="Palliser's Triangle">Palliser's Triangle</geogName> was no less fertile than the fertile belt. He estimated such fertile land as consisting of some 150 million acres&#8211;a striking contrast to <persName reg="Hind, Henry Youle">Hind</persName>'s original estimate of 40 million acres for his "fertile belt." By 1900 the term had died out, because it implied that the area through which the <orgName rend="railroad" key="rail.cprc" reg="Canadian Pacific Railway Company">Canadian Pacific Railway</orgName> ran was not fertile and therefore unsuitable for agricultural settlement.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: 
+<ref n="egp.pe.046">Palliser's Triangle</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">R. Douglas Francis<lb/>
+University of Calgary</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Hind, Henry Youle. <title level="m">Narrative of the Canadian Red River Exploring Expedition of 1857 and of the Assinniboine and Saskatchewan Exploring Expedition of 1858</title>. 1860. Reprint, Edmonton: Hurtig Publishing, 1971.</bibl> <bibl>Owram, Doug. <title level="m">Promise of Eden: The Canadian Expansionist Movement and the Idea of the West, 1856–1900</title>. Toronto: University of Toronto Press, 1980.</bibl> <bibl>Warkentin, John. "<title level="a">Steppe, Desert and Empire</title>." In <title level="j">Prairie Perspectives</title> 2, edited by Anthony Rasporich and Henry C. Klassen. Toronto: Holt, Rinehart, and Winston of Canada, 1973: 102–36.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

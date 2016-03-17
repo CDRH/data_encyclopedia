@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crozier, Lorna (b. 1948)</title>
+<title level="m" type="sub"></title>
+<author>Susan Gingell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gingell, Susan">Susan Gingell</author>. <title level="a">"Crozier, Lorna (b. 1948)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">476-477</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROZIER, LORNA (b. 1948)</head>
+
+<p>Born on May 24, 1948, and raised in Swift Current,
+Saskatchewan, poet, anthologist, and
+professor Lorna Crozier writes predominantly
+of life on the Canadian Great Plains. Frequent
+reprintings of her new and selected poems,
+<title level="m">The Garden Going on without Us</title> (1985), and
+her characteristically packed public readings
+attest to her work's broad appeal. Its humor,
+rich imagery, and unpretentious language
+prompt many people to recognize aspects of
+their own lives. Crozier's sometimes spicy stew
+of frank sexuality and trenchant but witty
+feminist critique has, however, overpowered
+some palettes.</p>
+
+<p>The strength of Crozier's identification
+with the land is evident in the title of her first
+collection, <title level="m">Inside Is the Sky</title> (1976), while her
+kinship with its creatures, which in "Inventing
+the Hawk" makes her feel the bird's scream
+rising from her belly to echo in her skull, is
+sometimes stronger than the connection she
+feels to humans. Her affection for Prairie people
+is, nevertheless, palpable in everything
+from the tall tales of "Spring Storm, 1916" to
+her description in "Home Town" of a freshman
+history student who identifies the Holy
+Land as something like Christ's hometown.
+The warmth of such feelings does not, however,
+blind her to the racism, misogyny, and
+pettiness of some hometown people.</p>
+
+<p>Crozier often reworks Christian and patriarchal
+accounts of origin and existence. Her
+rewriting of Genesis in "On the Seventh Day"
+explains the thin strip of earth beneath the
+massive skies of the Great Plains: a forgetful
+God was without His wife to remind Him that
+He had already created light, so He kept repeating
+this step, leaving scant space for land.
+<title level="m">A Saving Grace</title> (1996) gives new voice and a
+richer female consciousness to Sinclair Ross's
+Mrs. Bentley, narrator of <title level="m">As for Me and My House</title>, imagining, for example, the kind of
+domestic violence that might go on in the
+house of a woman who jumps into a dry well
+with her baby and lies there silently for three
+days ("The Kind of Woman").</p>
+
+<closer>
+<signed>Susan Gingell<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gingell, Susan. "Let Us Revise Mythologies: The Poetry of
+Lorna Crozier." <title level="j">Essays on Canadian Writing</title> 43 (1991): 67–
+82.</bibl> <bibl>Hillis, Doris. "The Real Truth, the Poetic Truth: An
+Interview with Lorna Crozier." <title level="j">Prairie Fire</title> 6 (1985): 4–15.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

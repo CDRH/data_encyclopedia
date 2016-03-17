@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.053 SYSTEM "egp.art.053.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rock Art</title>
+<title level="m" type="sub"></title>
+<author>Ralph J. Hartley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hartley, Ralph J.">Ralph J. Hartley</author>. <title level="a">"Rock Art."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">127-128</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROCK ART</head>
+
+<figure n="egp.art.053" rend="granted">
+<figDesc>Rock art, southeastern Colorado, Fort Carson Military Reservation.</figDesc>
+</figure>
+
+<p>Rock art in the Great Plains consists of both
+petroglyphs (markings that have been pecked,
+scratched, incised, or abraded on natural rock
+surfaces) and pictographs (painting on nonportable
+rock surfaces). Petroforms (sometimes
+called geomorphs, in which large stones
+or boulders have been used to outline anthropomorphic,
+zoomorphic, or geometric forms)
+are found primarily in the northeastern U.S.
+Plains and southern Saskatchewan. Petroglyphs
+and/or pictographs have been recorded
+in all states of the Great Plains. Rock art was
+noted in the journals of European American
+explorers, but it was not until the 1930s that
+petroglyphs and pictographs were thoroughly
+documented and interpreted for professional
+publication.</p>
+
+<p>The placement of petroglyphs and pictographs
+is highly variable in the Great Plains.
+In the Northern Plains rock art is found in
+and around major geologic uplifts, especially
+where rock surfaces are exposed on canyon
+walls and in rock shelters. On the open Plains
+rock art is found on sandstone or limestone
+where streams have cut the underlying bedrock
+and on boulders on talus slopes and hogbacks.
+Petroglyphs on isolated boulders also
+occur along the Missouri River in the Dakotas,
+in southern Alberta and Saskatchewan, and in
+central Texas and southern Oklahoma. Rock
+art in the Central Plains is rarer; however, proto-historic
+and early historic Native Americans
+used rock shelters intensively in the Dakota
+sandstone of the Smoky Hills region of northcentral
+Kansas, where they depicted representational
+images. Native Americans also made
+petroglyphs on sandstone bluffs in central
+Oklahoma. In the Northern Plains some rock
+art is believed to be associated with bison
+jumps and kill sites. It is generally acknowledged,
+however, that in prehistoric social environments
+the role of rock art as a means of
+communication varied with its social context.
+The places where it was produced are usually
+understood to have had special meanings and
+functioned, along with myths and stories, to
+maintain social cohesion.</p>
+
+<p>Despite difficulties in the accurate dating of
+rock art, it is known that some of the oldest
+rock art in the Plains is found in the Black Hills
+of western South Dakota, eastern Wyoming,
+and the Wyoming Basin. These areas have rock
+art thought to predate 10,000 <hi rend="smallcaps">B.P.</hi> and also
+contain sites ranging through the Archaic period
+(7500.2000 <hi rend="smallcaps">B.P.</hi>). The art is primarily on
+exposed vertical cliffs and at the base of canyon
+walls. Zoomorphic figures, usually wapiti (elk)
+or mountain sheep, are the predominant representations.
+Some depictions of hunting are
+found, such as game nets or corrals and the
+spearing of animals by humans. Some of the
+most heavily varnished petroglyphs depict apparent
+hoof prints, vulvas, and grooves. Pictographs
+depicting orange to light red finger
+lines and handprints in central Montana are
+believed to be more than 3,000 years old.</p>
+
+<p>Archaic hunters and gatherers in southern
+Texas, where the Pecos River, Devils River, and
+Rio Grande meet, created rock art—considered
+to be some of the most impressive prehistoric
+art in the world—in dry rock shelters.
+Dramatic polychrome pictographs of detailed
+life-size human-feline composites and anthropomorphic
+figures with feathers, wings, claws,
+horns, and weapons are documented. The
+oldest rock art, the Pecos River style, is nearly
+4,000 years old. Farther north along the Pecos
+River at Lewis Canyon are more than 250 pictograph
+sites and more than 900 petroglyphs.
+The petroglyphs, many on flat rock surfaces,
+consist of abstract geometrical designs and
+representational figures of human hands as
+well as deer, bison, and bird feet. Depictions
+of atlatls, a weapon of the Archaic, suggest, in
+association with other cultural remains, production
+of the petroglyphs between 9,000 and
+1,000 years ago. In some of the older glyphs
+human figures appear to brandish some kind
+of lance or other weapon. Rock shelters in
+the Wichita Mountains of Oklahoma contain
+near life-size anthropomorphic figures and
+geometric petroglyphs painted with red and
+yellow ochre.</p>
+
+<p>Pictograph images of animals and anthropomorphs
+on a massive schist formation at
+Long Lake along the Manigotagan River in
+southern Manitoba are thought to have been
+produced during the middle to late Archaic.
+In the Milk River valley of southern Alberta a
+complex of 93 sites and 280 separate rock art
+panels constitutes one of the largest concentrations
+of rock art in the Northern Plains.
+This area, the Writing-on-Stone Provincial
+Park, includes petroglyphs ranging from up to
+1000 years old through the postcontact period
+(<hi rend="smallcaps">A.D.</hi> 1725–1850). Boulder alignments, many
+considered solstice-aligned configurations,
+are found in southern Saskatchewan. Some
+of the alignments were probably constructed
+2,000 years ago; others, based on astronomical
+calculations, may have been constructed in
+the eighteenth and nineteenth centuries.</p>
+
+<p>Rock art in southeastern Colorado, including
+many zoomorphic or anthropomorphic
+representations, has been intensively studied,
+especially in the rock shelters of the Purgatoire
+River area. Some rock art in this area is associated
+with rock structural remains that suggest
+Native American vision quest activities.
+Ages of these images range from the middle
+Archaic (c. 3500 <hi rend="smallcaps">B.P.</hi>) to the late Ceramic stage
+(c. 250 <hi rend="smallcaps">B.P.</hi>). A cluster of dry caves and rock
+shelters in the canyon country of Black Mesa
+in the Oklahoma Panhandle contain petroglyphs
+and pictographs of bison and anthropomorphs,
+associated with perishable artifacts
+such as sandals, basketry, and skin
+bags, that range in age from the late Archaic
+through the Woodland (<hi rend="smallcaps">A.D.</hi> 200–1000). The
+Black Hills of South Dakota include many examples
+of prehistoric rock art. Stylistic analyses
+suggest that a chronological sequence of
+rock art, ranging from the late Paleo-Indian to
+the early historic period, is reflected in at least
+seven distinct styles of petroglyph and pictograph
+imaging. Pecked petroglyphs are also
+documented, especially in Whoop-Up Canyon
+in the Black Hills.</p>
+
+<p>The diversity of prehistoric rock art in the
+Great Plains is indicative of the region's varied
+modes of social organization and economic
+systems. Advances in the technology of direct
+dating will help in assigning rock art to its
+cultural a.liations, but an understanding of
+why the markings were made in the places
+they occur will challenge researchers for years
+to come and, indeed, may never be known.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.080">Paleo-Indians</ref>.</p>
+
+<closer>
+<signed>Ralph J. Hartley<lb/>
+Midwest Archeological Center</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Francis, Julie E., and Lawrence L. Loendorf. <title level="m">Ancient Visions: Petroglyphs and Pictographs of the Wind River and Bighorn Country, Wyoming and Montana</title>. Salt Lake City:
+University of Utah Press, 2002.</bibl> <bibl>Kirland, Forrest, and W.
+W. Newcomb Jr. <title level="m">The Rock Art of Texas Indians</title>. Austin:
+University of Texas Press, 1967.</bibl> <bibl>Sundstrom, Linea. <title level="m">Rock Art of the Southern Black Hills</title>. New York: Garland, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

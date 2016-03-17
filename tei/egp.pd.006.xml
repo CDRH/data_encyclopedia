@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ameringer, Oscar (1870-1943)</title>
+<title level="m" type="sub"></title>
+<author>Stephen H. Norwood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Norwood, Stephen H.">Stephen H. Norwood</author>. <title level="a">"Ameringer, Oscar (1870-1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">706</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AMERINGER, OSCAR (1870-1943)</head>
+
+<p>Oscar Ameringer, a principal leader of the socialist
+movement on the Southern Plains, was
+born in Achstetten, Germany, on August 4,
+1870, the son of a cabinetmaker. Evading military
+service, he emigrated to the United States
+in 1886 and earned his living as a furniture
+worker, salesman, painter, and musician. He
+joined the Socialist Party shortly after it was
+formed in 1901 and became editor of the <title level="j">Labor
+World</title>, financed by the Brewery Workers
+Union. He reported on the general strike that
+tied up the port of New Orleans in 1907. The
+dockworkers' success there in forging a longterm
+biracial alliance reinforced Ameringer's
+commitment to both racial equality and industrial
+unionism.</p>
+
+<p>After the strike's collapse, Ameringer moved
+to Oklahoma, where he quickly assumed a leading
+role in the Socialist Party. Although lacking
+a sizable industrial working class, Oklahoma
+boasted the nation's largest Socialist Party, polling
+close to a third of the statewide vote. On his
+first speaking tour in 1907, traveling by covered
+wagon and on horseback, Ameringer realized
+that Oklahoma's farmers, primarily impoverished
+tenants, constituted the party's major potential
+base of support. Ameringer stayed in
+dirt-floored tenant shacks and homes dug out
+of hillsides and saw human suffering at its most
+intense. The Oklahoma farmers' socialist commitment
+deeply impressed him. He praised
+their determination by recalling that the man
+who presided at his first speech had arrived
+soaked to the skin, having swum across a river
+in his only suit because the bridge had been
+washed out.</p>
+
+<p>Ameringer was one of the most popular
+speakers at the weeklong socialist encampments,
+frequently held in Oklahoma from
+1908 until the U.S. entry into World War I.
+Farm people numbering in the thousands
+traveled vast distances, often in covered wagons
+bearing red flags, to hear Ameringer and
+other socialist orators. In 1911 Ameringer
+polled 23 percent of the vote in a three-way
+race for mayor of Oklahoma City.</p>
+
+<p>In 1910 Ameringer led the fight against Oklahoma's
+adoption of the so-called grandfather
+clause, which was introduced by the
+Democrats to eliminate black suffrage. His
+effort was opposed by a faction in the Oklahoma
+Socialist Party based in the Little Dixie
+section of the state, which resented Ameringer
+as an outsider and feared losing white supporters.
+In 1913 this faction assumed control of
+the Socialist Party in Oklahoma, and Ameringer
+moved to Milwaukee.</p>
+
+<p>Although opposed to U.S. intervention in
+World War I, Ameringer advised Oklahoma
+farmers against launching the Green Corn Rebellion,
+an abortive uprising intended to force
+the government to end the war. The repression
+it precipitated, along with a decline in
+farm tenancy, caused the swift collapse of the
+Oklahoma Socialist Party.</p>
+
+<p>Returning to Oklahoma City after the war,
+Ameringer published a radical newspaper, the
+<title level="j">Oklahoma Leader</title>, which, as the <title level="j">American
+Guardian</title> from 1931 to 1941, developed a national
+circulation. Ameringer waged a high-profile
+campaign in the <title level="j">Leader</title> against the
+Ku Klux Klan, which was highly influential in
+Oklahoma during the early 1920s. From 1922
+to 1931 Ameringer also published the <title level="j">Illinois
+Miner</title> in Oklahoma City, an insurgent newspaper
+that challenged John L. Lewis's control
+of the United Mine Workers. He contributed a
+column under the pseudonym Adam Coaldigger.
+In his preface to Ameringer's 1940 autobiography,
+<title level="m">If You Don't Weaken</title>, Carl Sandburg,
+an old socialist comrade and friend,
+compared him as a humorist to Mark Twain
+and Will Rogers. Oscar Ameringer died in
+Oklahoma City on November 5, 1943.</p>
+
+<closer>
+<signed>Stephen H. Norwood<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ameringer, Oscar. <title level="m">If You Don't Weaken</title>. Norman: University
+of Oklahoma Press, 1983.</bibl> <bibl>Green, James R. <title level="m">Grass-Roots
+Socialism: Radical Movements in the Southwest, 1895–1943</title>.
+Baton Rouge: Louisiana State University Press, 1978.</bibl> <bibl>Meredith,
+Howard L. "A History of the Socialist Party in Oklahoma."
+Ph.D. diss., University of Oklahoma, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

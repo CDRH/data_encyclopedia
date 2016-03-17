@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.059">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Saunders, Russell (1919-2001)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.059</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Saunders, Russell (1919-2001)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">278</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAUNDERS, RUSSELL (1919-2001)</head>
+<figure n="egp.fil.059" rend="granted" type="noclick">
+<figDesc>Headshot of Russell Saunders</figDesc>
+</figure>    
+
+<p>Born on a farm near Winnipeg, Manitoba, on
+May 21, 1919, Russell M. Saunders repeatedly
+risked his life as perhaps the greatest movie
+stuntman of Hollywood's halcyon days. As a
+child he was fascinated by the acrobats in traveling
+circuses, and he worked on his acrobatic
+skills until he had achieved Canadian championships
+in diving and gymnastics. After
+being rejected by the Canadian Air Force because
+he was color-blind, he moved to California.
+There he quickly found his way to Muscle
+Beach in Santa Monica, where acrobats and
+body builders performed and paraded. Even
+in his later years he spent much of his time on
+the beach, giving free gymnastics lessons to
+children.</p>
+
+<p>But it was in the movie business that Saunders
+made his name. He appeared in more
+than a hundred movies, doubling for stars
+such as Alan Ladd, Robert Cummings, and
+Gene Kelly. He was particularly revered by his
+peers for his ability to capture the exact mannerisms
+of the stars as he performed the dangerous
+feats they were unable to do. In <title>The Three Musketeers</title> (1948), for example, he
+jumped from a rooftop, caught hold of a flag,
+and, as it ripped, swung on the shreds through
+an open window. In another film as Richard
+Widmark's double he leaped off a fifty-foot
+cliff, breaking his arm on a rock in the water.
+Saunders was also in the climactic fight scene
+in <title>Shane</title> (1953), unknown to audiences, who
+saw only Alan Ladd and his antagonists in the
+blur of action. Russell Saunders died in a West
+Los Angeles nursing home on May 29, 2001.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

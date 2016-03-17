@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.lt.000 SYSTEM "egp.lt.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Literary Traditions</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+ 
+<div1 type="contents">
+
+<head>Literary Traditions</head>
+
+<figure n="egp.lt.000" rend="granted">
+<figDesc>O. D. Wheeler interviewing Cheyennes, including White Bull, about the Battle of the Little Bighorn, June 1901</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.lt.001">Literary Traditions</ref></item>
+<item><ref n="egp.lt.002">Aldrich, Bess Streeter</ref></item>
+<item><ref n="egp.lt.003">Baum, Frank L.</ref></item>
+<item><ref n="egp.lt.004">Birdsell, Sandra</ref></item>
+<item><ref n="egp.afam.010">Brooks, Gwendolyn. <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.lt.006">Butala, Sharon</ref></item>
+<item><ref n="egp.lt.007">Campbell, Maria</ref></item>
+<item><ref n="egp.gen.007">Captivity Narratives <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.lt.009">Cather, Willa</ref></item>
+<item><ref n="egp.lt.010">Children's Literature</ref></item>
+<item><ref n="egp.gen.008">Cleary, Kate M <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.lt.012">Cowboy Poetry</ref></item>
+<item><ref n="egp.lt.013">Crozier, Lorna</ref></item>
+<item><ref n="egp.lt.014">Debo, Angie</ref></item>
+<item><ref n="egp.lt.015">Deverell, Rex</ref></item>
+<item><ref n="egp.lt.016">Dust Bowl Literature</ref></item>
+<item><ref n="egp.lt.017">Ellison, Ralph</ref></item>
+<item><ref n="egp.lt.018">Erdrich, Louise</ref></item>
+<item><ref n="egp.ea.014">Giants of the Earth See<hi rend="smallcaps">European Americans</hi></ref></item>
+<item><ref n="egp.lt.020">Gordon, Charles W.</ref></item>
+<item><ref n="egp.fil.026"><hi rend="italic">The Grapes of Wrath</hi> See<hi rend="smallcaps">Film</hi></ref></item>
+<item><ref n="egp.lt.022">Grey, Zane</ref></item>
+<item><ref n="egp.lt.023">Grove, Frederick Philip</ref></item>
+<item><ref n="egp.lt.024">Guthrie, A. B., Jr.</ref></item>
+<item><ref n="egp.gen.017">Hayes, Kate Simpson <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.lt.026">Hogan, Linda</ref></item>
+<item><ref n="egp.afam.022">Hughes, Langston <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.lt.028">Immigrant Literature</ref></item>
+<item><ref n="egp.law.020"><hi rend="italic">In Cold Blood</hi> See<hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.lt.030">Inge, William</ref></item>
+<item><ref n="egp.lt.031">Kreisel, Henry</ref></item>
+<item><ref n="egp.lt.032">Kroetsch, Robert</ref></item>
+<item><ref n="egp.lt.033">L'Amour, Louis</ref></item>
+<item><ref n="egp.lt.034">LaRocque, Emma</ref></item>
+<item><ref n="egp.lt.035">Laurence, Margaret</ref></item>
+<item><ref n="egp.arc.033">Literary Architecture <hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.lt.037">Literary Criticism</ref></item>
+<item><ref n="egp.lt.038">Little Magazines</ref></item>
+<item><ref n="egp.lt.039">Livesay, Dorothy</ref></item>
+<item><ref n="egp.lt.040">Malin, James C.</ref></item>
+<item><ref n="egp.lt.041">Mandel, Eli</ref></item>
+<item><ref n="egp.lt.042">May, Karl</ref></item>
+<item><ref n="egp.pd.035">McGrath, Tom <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.lt.044">McMurtry, Larry</ref></item>
+<item><ref n="egp.lt.045">Memoirs</ref></item>
+<item><ref n="egp.lt.046">Mitchell, W. O.</ref></item>
+<item><ref n="egp.lt.047">Momaday, N. Scott</ref></item>
+<item><ref n="egp.lt.048">Morris, Wright</ref></item>
+<item><ref n="egp.lt.049">Mountie Stories</ref></item>
+<item><ref n="egp.lt.050">Native American Literature</ref></item>
+<item><ref n="egp.lt.051">Nature Writing</ref></item>
+<item><ref n="egp.lt.052">Neihardt, John G.</ref></item>
+<item><ref n="egp.lt.053">Olsen, Tillie</ref></item>
+<item><ref n="egp.lt.054">Oral Traditions</ref></item>
+<item><ref n="egp.lt.055">Ostenso, Martha</ref></item>
+<item><ref n="egp.fol.032">Personal Experience Narratives <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.fol.033">Plains Indian Narratives <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.lt.058">Poetry</ref></item>
+<item><ref n="egp.lt.059">Pollock, Sharon</ref></item>
+<item><ref n="egp.lt.060">Porter, Katherine Anne</ref></item>
+<item><ref n="egp.lt.061">Posey, Alexander</ref></item>
+<item><ref n="egp.lt.062"><hi rend="italic">Prairie Schooner</hi></ref></item>
+<item><ref n="egp.ii.047">Promotional Literature <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.lt.064">Publishing Houses</ref></item>
+<item><ref n="egp.lt.065">Riggs, Rollie Lynn</ref></item>
+<item><ref n="egp.ha.037">Rivera, Tom&#225;s <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.lt.067">R&#246;lvaag, O. E.</ref></item>
+<item><ref n="egp.lt.068">Ross, Sinclair</ref></item>
+<item><ref n="egp.lt.069">Roy, Gabrielle</ref></item>
+<item><ref n="egp.lt.070">Sandoz, Mari</ref></item>
+<item><ref n="egp.lt.071">Small Presses</ref></item>
+<item><ref n="egp.lt.072">Stafford, William</ref></item>
+<item><ref n="egp.lt.073">Stead, Robert</ref></item>
+<item><ref n="egp.lt.074">Stegner, Wallace</ref></item>
+<item><ref n="egp.afam.040">Thompson, Era Bell <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.lt.076">Travel Literature</ref></item>
+<item><ref n="egp.lt.077">Vanderhaeghe, Guy</ref></item>
+<item><ref n="egp.lt.078">Webb, Walter Prescott</ref></item>
+<item><ref n="egp.lt.079">Welch, James</ref></item>
+<item><ref n="egp.lt.080">The Western</ref></item>
+<item><ref n="egp.lt.081">Weibe, Rudy</ref></item>
+<item><ref n="egp.lt.082">Wilder, Laura Ingalls</ref></item>
+<item><ref n="egp.lt.083">Wiseman, Adele</ref></item>
+<item><ref n="egp.lt.084">Woiwode, Larry</ref></item>
+<item><ref n="egp.ha.048">Zamora, Bernice <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.lt.086">Zitkala &#352;a</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

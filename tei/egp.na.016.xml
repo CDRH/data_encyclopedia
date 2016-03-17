@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Caddos</title>
+<title level="m" type="sub"></title>
+<author>F. Todd Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, F. Todd">F. Todd Smith</author>. <title level="a">"Caddos."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">568-569</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CADDOS</head>
+
+<p>The Caddo Indians are a tribe whose traditional
+historic homeland was located along
+the borders of present Louisiana, Texas, Arkansas,
+and Oklahoma. In the seventeenth
+and eighteenth centuries the Caddos occupied
+a strategic position between Spanish Texas
+and French Louisiana. In the early nineteenth
+century, however, Texans forced the tribe out
+into the Great Plains. After wandering for
+three decades, they finally settled in western
+Oklahoma, where most of the Caddos still live
+today.</p>
+
+<p>The Caddos were the southernmost tribe of
+the Caddoan language group, whose membership
+stretched northward to include the Wichitas,
+Pawnees, and Arikaras. About 2,000 years
+ago the Caddo peoples settled down in small
+horticultural villages between the Neches and
+Arkansas Rivers. By about 1000 <hi rend="smallcaps">A.D.</hi>, the Caddos
+had developed complex and socially ranked societies
+with well-planned civic and ceremonial
+centers. They conducted elaborate ceremonial
+practices and mortuary rituals led by a religious
+and political elite, and engaged in extensive
+interregional trade.</p>
+
+<p>In 1542 the Caddos were visited by the remnants
+of Hernando de Soto's Spanish <hi rend="italic">entrada</hi>,
+at this point led by Luis de Moscoso. Although
+the Spaniards spent only a few weeks among
+the Caddos, they, and later members of other
+Spanish expeditions, left behind epidemic diseases,
+which caused the Caddo population to
+decline catastrophically. By the time Europeans
+returned to Caddo country in the late
+seventeenth century, the tribe had abandoned
+their village sites in the Arkansas Valley. The
+10,000 remaining Caddos established permanent
+farming villages along the Red and the
+Neches Rivers. The Red River Caddos consisted
+of the four tribes of the Kadohadacho
+Confederacy, as well as the Yatasis and the
+Natchitoches. To the west, along the upper
+reaches of the Neches River in East Texas, were
+the nine tribes that made up the Hasinai Confederacy.
+Each individual Caddo tribe was
+led by a hereditary chief, or caddi, who presided
+over a well-defined chain of command
+that provided the tribe with strong, e.cient
+government.</p>
+
+<p>By 1730 both the French and the Spanish had
+established themselves in the Caddos' territory.
+The French maintained trading posts at
+the Natchitoches, Yatasi, and Kadohadacho
+villages, while the Spanish set up three Franciscan
+missions in Hasinai country, as well as
+establishing the capital of Texas at Los Adaes,
+only a few miles west of the French post at
+Natchitoches. Despite the Spanish presence, all
+of the Caddo tribes obtained French weapons
+and metal goods, which, together with the
+adoption of the horse in the seventeenth century,
+allowed them to better defend themselves
+against enemies such as the Lipan Apaches to
+the west and the Osages to the east. By the
+mid–eighteenth century, however, the Caddos
+had abandoned most of their traditional crafts
+and were increasingly dependent upon European
+metal goods. When Spain obtained Louisiana
+from France in 1763, it continued to allow
+French trade goods to flow to the Caddos and
+their Wichita and Comanche allies in Texas.
+When the United States acquired the territory
+in 1803, the Caddos found themselves occupying
+an undefined border between American
+Louisiana and Spanish Texas. Seizing the moment,
+the Kadohadacho caddi, Dehahuit, expertly
+played the two rivals against one another
+to gain even further munificence for all of the
+Caddo tribes for whom he had become spokesman.
+After 1821, however, the border between
+Louisiana and Texas was settled, and both the
+United States and the newly independent Mexico
+neglected the Caddos. By the 1830s alcohol,
+disease, and Osage pressure had caused the
+Caddo numbers to dwindle to about 1,000, and
+the original fifteen tribes had coalesced into
+only three: the Hainais, Nadacos, and Kadohadachos.
+In 1835 U.S. Indian agent Jehiel
+Brooks forced the Kadohadachos to sign a
+treaty by which the tribe agreed to move to East
+Texas to live with the Hainais and Nadacos.</p>
+
+<p>Unfortunately for the Caddos, Texas gained
+its independence from Mexico the following
+year and the Anglo-Americans who ruled the
+republic after 1836 and the state after 1845 were
+extremely hostile to the Indians of the region.
+In 1838 Texan settlers drove all three Caddo
+tribes from their homes in the forests of East
+Texas out onto the plains of central Texas,
+where they lived in various settlements for the
+next sixteen years. In 1854 the Caddos&#8211;along
+with Wichitas, Tonkawas, and Penateka Comanches&#8211;
+settled on two Indian reservations
+established by the U.S. government on the
+Brazos River. On the Brazos Reservation, the
+three Caddo tribes were led by Nadaco caddi
+Iesh (or José María), an impressive leader who
+convinced his fellow tribesmen to accept the
+federal government's "civilization" program
+and to assist the United States and the Texas
+Rangers in their struggle with hostile Comanches.
+Despite this accommodationist stance,
+in 1859 Texas vigilantes forced the Brazos Reservation
+tribes to move north of the Red River
+into Indian Territory. The Caddos splintered
+during the chaos of the Civil War, moving into
+Kansas and Colorado. The federal government
+finally brought them together on a reservation
+in 1872. On the Wichita Reservation,
+between the Washita and Canadian Rivers, the
+three remaining Caddo groups united into
+one tribe. Although the Caddos did everything
+the federal government asked of them in
+their new homes&#8211;farming, stock raising, and
+submitting to education and Christianity&#8211;the
+Wichita Reservation was dissolved in 1901 and
+the 534 remaining Caddos went through the
+allotment process as outlined by the Dawes Act
+of 1887.</p>
+
+<p>Despite the attempts of the federal government
+to destroy it, the Caddo tribe remained
+intact, and a measure of home rule was provided
+through the terms of the Oklahoma Indian
+Welfare Act of 1936, which was accepted
+by the enrolled Caddo voters. The tribe ratified
+a constitution that remained in effect until
+1976, when it was replaced by a completely
+new document. A measure of compensation
+for their historical losses came in the 1970s
+when the U.S. Court of Claims awarded the
+Caddo tribe $383,475 for abuses in the 1835
+treaty and $1,222,800 for inadequate payments
+for allotments and surplus lands on the Wichita
+Reservation. Today, the approximately
+3,200 Caddos maintain a tribal complex on
+thirty-seven acres of tribal-controlled land located
+at Binger, in Caddo County, Oklahoma.</p>
+
+<closer>
+<signed>F. Todd Smith</signed>
+University of North Texas</closer>
+</div1>
+
+<div1>
+<bibl>Carter, Cecile. <title level="m">Caddo Indians: Where We Come From</title>. Norman:
+University of Oklahoma Press, 1995.</bibl> <bibl>Smith, F. Todd.
+<title level="m">The Caddo Indians: Tribes at the Convergence of Empires,
+1542–1854</title>. College Station: Texas <hi rend="smallcaps">A&amp;M</hi> University Press,
+1995.</bibl> <bibl>Smith, F. Todd. <title level="m">The Caddos, the Wichitas, and the
+United States, 1846–1901</title>. College Station: Texas A&amp;M University
+Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

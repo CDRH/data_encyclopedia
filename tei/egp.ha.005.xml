@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bracero Program</title>
+<title level="m" type="sub"></title>
+<author>Ralph H. Vigil</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vigil, Ralph H.">Ralph H. Vigil</author>. <title level="a">"Bracero Program."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">352-353</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BRACERO PROGRAM</head>
+
+<p>Mexican workers, repatriated during the
+Great Depression, were allowed to enter the
+United States as temporary contract workers
+due to the manpower shortage during World
+War II. The August 4, 1942, bilateral agreement
+(Public Law 45) between Mexico and the
+United States (Mexican Farm Labor Program
+Agreement) assured agricultural employers a
+steady supply of documented laborers (braceros).
+In 1943 railroads were allowed to hire
+Mexican workers as section hands. The first
+phase of this labor importation ended in 1947.
+Approximately 253,000 farmhands were recruited
+in these years, and some 80,000 Mexicans
+were employed by the rail lines, many of
+them in the Great Plains. The number that
+o.cially entered the United States diminished
+considerably after the war, but the Korean
+War and the problems of the ever-increasing
+numbers of illegal aliens rationalized demands
+by agricultural employers' associations
+for legally imported Mexican labor. Formalized
+by Public Law 78 as a temporary measure
+in 1951 and periodically renewed, the final
+phase of this government-sponsored importation
+program recruited some 4.6 million braceros
+before it was finally ended in 1964.</p>
+
+<p>Critics of the program called it another federal
+subsidy to large-scale commercial farm
+operators. Since the government paid for the
+recruitment and transportation of contract
+workers, growers of crops like sugar beets
+were spared this expense. The agreement provided
+for a regional prevailing wage and adequate
+housing, but it was farm employers
+rather than the government who ultimately set
+wages and the condition of the labor camps.
+Mexican workers also acted as "task forces"
+where domestic laborers threatened to organize
+for higher wages. Not only did the program
+adversely affect wages of domestic farmhands,
+but it may have contributed to an
+increase of undocumented Mexican workers.
+On their return to Mexico, legally contracted
+workers told others of the higher wages available
+in the United States, which motivated
+Mexican workers to cross the border illegally.
+Further, Public Law 78 did not include provisions
+penalizing employers who hired illegal
+aliens. In any case, some 3.8 million undocumented
+Mexican nationals, pejoratively called
+"wetbacks," were rounded up and returned to
+Mexico in the 1950s.</p>
+
+<p>Braceros and <hi rend="italic">mojados</hi> (undocumented
+workers) not only froze or lowered wages for
+domestic farmworkers in these years, but undocumented
+workers were frequently given legal
+status and entered the program. Texas
+opted out of the Bracero Program during the
+war years and instead decided on an openborder
+policy. When the Mexican government
+announced it would refuse to send workers to
+the state, Texas growers recruited Mexican
+workers by using private contractors. Between
+1947 and 1950 some 200,000 undocumented
+workers, the majority of them in Texas, were
+legalized by the federal government and admitted
+into the contract labor program. Mexican
+Americans in Texas and the Southwest
+found it hard to compete for jobs, and many
+left to seek work elsewhere. The need for labor
+finally persuaded Texas to participate in the
+Bracero Program in the 1950s.</p>
+
+<p>The Bracero Program benefited large-scale
+growers of crops rather than small farmers.
+The braceros themselves formed part of a recent,
+massive Mexican migration to the United
+States. Mexican immigration, whether legal or
+illegal, permanent or temporary, has created
+low-wage labor pools, legal peonage, social ostracism,
+and a negative stereotyping of Mexican
+Americans. Under pressure from organized
+labor, the National Farmers Union, and
+concerned religious and social reform groups,
+Congress finally ended the legal importation of
+workers under the Bracero Program, which
+seemed to signal that the formerly open southern
+border would be harder to cross legally and
+illegally.</p>
+
+<closer>
+<signed>Ralph H. Vigil<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Craig, Richard B. <title level="m">The Bracero Program: Interest Groups and Foreign Policy</title>. Austin: University of Texas Press, 1971.</bibl>
+<bibl>Galarza, Ernesto. <title level="m">Merchants of Labor: The Mexican Bracero Story</title>. Santa Barbara <hi rend="smallcaps">CA</hi>: McNally and Loftin, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

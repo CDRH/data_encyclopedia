@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ecueracapa (d. 1793)</title>
+<title level="m" type="sub"></title>
+<author>Thomas W. Kavanagh</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kavanagh, Thomas W.">Thomas W. Kavanagh</author>. <title level="a">"Ecueracapa (d. 1793)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">572-573</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ECUERACAPA (d. 1793)</head>
+
+<p>Ecueracapa (Leather Cape) was the name the
+Spaniards of late-eighteenth-century New
+Mexico gave to the principal chief of the Kotsoteka
+Comanches. His Comanche name was
+apparently <hi rend="italic">Koontyta'nikypa'a</hi>, or "Crane on a
+Stake," but he was also called Cota de Malla
+(or Maya), "Coat of Mail." This latter citation
+has led to continuing confusion between the
+New Mexican Ecueracapa and at least two
+Texas Comanches also called Cota de Malla.</p>
+
+<p>Ecueracapa first came to the attention of
+the New Mexican Spaniards in late 1785 when,
+after peace had been concluded with the Texas
+Comanches, Governor Juan Bautista de Anza
+managed to open communication with the
+western Comanches. They sent word that Ecueracapa,
+the "captain most distinguished as
+much by his skill and valor in war as by his
+adroitness and intelligence in political matters,"
+was empowered to enter into negotiations,
+which were conducted in early 1786. In
+June 1786 a formal agreement was signed at
+Pecos Pueblo marking the beginning of a
+Comanche–New Mexican peace that endured
+until 1821.</p>
+
+<p>In the following years, Ecueracapa appears
+a number of times in the historical record. In
+May 1787 he forestalled retaliation against some
+Jupe Comanche youths who had stolen Spanish
+horses, and in early 1790 he was involved in
+an ill-planned joint Spanish-Comanche expedition
+against the Pawnees. In 1793 Ecueracapa
+was "grievously wounded" on a campaign
+against the Pawnees. He probably died
+sometime that fall.</p>
+
+<closer>
+<signed>Thomas W. Kavanagh<lb/>
+Indiana University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kavanagh, Tomas W. <title level="m">Comanche Political History: An Ethnohistorical
+Perspective, 1706–1875</title>. Lincoln: University of
+Nebraska Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

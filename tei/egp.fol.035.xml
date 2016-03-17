@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Play Party</title>
+<title level="m" type="sub"></title>
+<author>Keith Cunningham</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cunningham, Keith">Keith Cunningham</author>. <title level="a">"Play Party."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">309-310</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PLAY PARTY</head>
+
+<p>The play party, a preplanned traditional dance
+without instruments, was a recreational activity
+of teenagers and young adults that was
+once common across the Great Plains and the
+entire United States. People attending play
+parties played singing and action games such
+as "musical chairs" and many other games in
+volving male-female interactions, emphasizing
+socialization and interpersonal relationships
+rather than competition, while they
+shared refreshments and conversation.</p>
+
+<p>Early folklorists, including Ben Botkin,
+Vance Randolf, and L. D. Ames, analyzed the
+play party and concluded that it flourished in
+Anglo-American culture on the western frontier
+because of the repressive influence of the
+puritan ethic, especially its opposition to musical
+instruments. As early as 1949, folklorists
+began to challenge this widely accepted description
+by noting that the lack of instruments
+at the play party might well have been
+caused simply by a shortage of instruments.
+Ben Botkin further maintains that the songs
+of the play party came to the Great Plains with
+the cattle drives through Texas and Oklahoma,
+two states where the parties were very
+popular. He also made the point that despite
+the play party's Anglo-American origins, African
+Americans and Native Americans participated
+in them as well, particularly in the Southern
+Great Plains. A 1972 article based on field
+interviews conducted in the mid-1960s concluded
+that the play party probably existed
+across America, persisted after the passage of
+the frontier, experienced revivals that often included
+instruments, created a complex poetic,
+and lived on as a substantial contribution to
+American children's games and folk music.
+Since that time, however, it seems that the tradition
+of the play party has faded.</p>
+
+<closer>
+<signed>Keith Cunningham<lb/>
+Northern Arizona University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ames, L. D. "The Missouri Play Party." <title level="j">Journal of American Folklore</title> 24 (1911): 295-318.</bibl> <bibl>Cunningham, Keith. "Another
+Look at the Play Party." <title level="j">Affword</title> 2 (1972): 12-23.</bibl>
+<bibl>Randolf, Vance. "The Ozark Play-Party." <title level="j">Journal of American Folklore</title> 42 (1929): 201-32.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mni Sose Intertribal Water Rights Coalition</title>
+<title level="m" type="sub"></title>
+<author>Richard Bad Moccasin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Maccasin, Richard Bad">Richard Bad Maccasin</author>. <title level="a">"Mni Sose Intertribal Water Rights Coalition."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">856</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MNI SOSE INTERTRIBAL WATER RIGHTS COALITION</head>
+<figure n="egp.na.062" rend="granted">
+<figDesc>Logo for the Mni Sose Intertribal Water Rights Coalition</figDesc>
+</figure>
+    
+
+<p>The Mni Sose Intertribal Water Rights Coalition
+was organized in 1993 to enable the
+twenty-eight American Indian Nations in the
+Missouri River basin to seek legal, administrative,
+economic, and physical control over their
+water resources. Since its inception, the coalition
+has been engaged in a constant effort to
+educate U.S. agencies and congressional committees
+about the treaty and trust responsibilities
+of the federal government. For example,
+under the Flood Control Act of 1944, which
+authorized the Pick-Sloan Plan, eight reservations
+relinquished a total of 350,000 acres, or
+23 percent of the total land appropriated for
+the construction of the five earthen dams to
+control flooding along the Missouri River. Although
+a $1.3 billion economic benefit is derived
+from these projects each year, the tribes
+have shared in little of the revenues. However,
+based upon the efforts of the coalition, the
+tribes are now in the process of approving contracts
+for allocations of hydropower from the
+Pick-Sloan dams, which will ultimately result
+in lower electrical rates on the reservations.</p>
+
+<p>The coalition is also working with federal and
+other agencies to develop partnerships with
+tribes to support tribal water uses, conduct research,
+and encourage technology transfer to
+improve water resource development and cultural
+protection of the environment. With the
+assistance of the Mni Sose Intertribal Water
+Rights Coalition, tribes are moving from a passive
+to an active role in protecting their tribal
+homelands. They are now acquiring the legislative,
+administrative, and operational capabilities
+to govern, manage, and protect their tribal water
+resources.</p>
+
+<closer>
+<signed>Richard Bad Moccasin<lb/>
+Mni Sose Intertribal Water Rights Coalition</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

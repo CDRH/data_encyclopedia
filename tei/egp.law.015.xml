@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dawes Act</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Scherer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mark, Scherer R.">Mark R. Scherer</author>. <title level="a">"Dawes Act."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">450-451</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DAWES ACT</head>
+
+<p>Formally titled the General Allotment Act of
+1887, the Dawes Act (also commonly referred
+to as the Dawes Severalty Act) authorized the
+president of the United States to subdivide
+tribal reservations into private parcels of land
+that would then be "allotted" to individual
+members of each tribe. Designed to detribalize
+Indians and assimilate them into mainstream
+white society by transforming them into selfsupporting
+farmers and ranchers, the Dawes
+Act became one of the most far-reaching and,
+for Native Americans, disastrous pieces of Indian
+legislation ever passed by Congress. By
+the time the allotment process was stopped in
+1934, the amount of Indian-held land in the
+United States had dropped from 138 million
+acres to 48 million acres, and, of the remaining
+Indian-owned land, almost half was arid or
+semiarid desert.</p>
+
+<p>Under the act, heads of families received
+quarter-section parcels of 160 acres, while
+other individuals were granted smaller tracts
+of up to 80 acres. Allotments deemed to be
+suitable only for grazing were doubled in size.
+Once the president directed that a particular
+reservation be broken up pursuant to the act,
+tribal members were given four years to select
+their specific allotment. If no such selection
+was made, the government made the selection
+for the individual. Each allotted tribal member
+received a patent, or trust deed, which
+provided that the United States would hold
+title to the land in trust for the benefit of
+the nominal Indian "owner" for a period of
+twenty-five years. Proponents of the legislation
+envisioned that during the trust period
+Indian allottees would adapt to the farming
+lifestyle and become increasingly self-reliant
+through the ownership and control of private
+property. Perhaps most significantly, the act
+further provided that tribal lands that were
+unallocated and therefore deemed "surplus"
+could be offered for sale to non-Indians, with
+the revenues to be held in trust by the government
+for the benefit of the tribes.</p>
+
+<p>The Dawes Act affected reservations
+throughout the Great Plains, except in Indian
+Territory, which was not subject to allotment
+until the establishment of the Dawes Commission
+in 1893 and the passage of the Curtis Act
+in 1898. For example, the Devils Lake Sioux
+Reservation in North Dakota was allotted in
+1904 over the objections of many of its residents.
+The allotments amounted to about
+136,000 acres, leaving 92,000 surplus acres to
+be sold to non-Indians. It was through the
+allotment process that Plains reservations became
+"checkerboarded" in complex patterns
+of white-owned private property and Indian
+trust lands.</p>
+
+<p>Most modern commentators concede that
+the proponents of the Dawes Act, including its
+primary legislative sponsor and namesake,
+Senator Henry L. Dawes of Massachusetts,
+were motivated by a sincere interest in the
+well-being and future prosperity of Native
+Americans. "Reformers" inside and outside
+the government viewed tribalism and traditional
+Indian cultural practices as impediments
+to the long-term survival and "advancement"
+of Native Americans&#8211;obstacles
+that could only be overcome by breaking up
+the reservations and forcing Indians to adopt
+a more "civilized" lifestyle. Other analysts insist
+that allotment was never intended to be
+anything more than a disingenuous legal
+cover for whites who coveted Indian lands.
+Whatever the appropriate interpretation of
+the motivations behind the Dawes Act, the allotment
+era that the act ushered in is today
+universally viewed as one of the darkest chapters
+in the annals of federal-Indian relations.
+Individual landownership was and is contrary
+to most traditional Native American beliefs
+and practices. Moreover, many Indians had
+no desire to become sedentary farmers and
+were woefully unprepared and ill equipped to
+succeed in that occupation even if they had
+wanted to. The value of the parcels of thousands
+of allottees was quickly dissipated or lost
+entirely through tax foreclosures, distressed
+sales, or unfavorable lease arrangements. Millions
+of surplus acres were sold or leased away
+by the government as well, and the ultimate
+effect of the allotment program was to separate
+Native Americans from millions of acres
+of their lands without accomplishing any of
+the "reforms" intended by the act's proponents.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.002">Allotment</ref>; <ref n="egp.na.008">Assimilation Policy</ref>; <ref n="egp.na.096">Reservations</ref>.</p>
+
+<closer>
+<signed>Mark R. Scherer<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Prucha, Francis Paul. <title level="m">The Great Father: The United States Government and the American Indians</title>. Lincoln: University
+of Nebraska Press, 1986.</bibl> <bibl>Washburn, Wilcomb. <title level="m">The Assault on Indian Tribalism: The General Allotment Law (Dawes Act) of 1887</title>. Philadelphia: J. B. Lippincott, 1975.</bibl>
+<bibl>Wunder, John R. <title level="m">Retained by the People: A History of American Indians and the Bill of Rights</title>. New York: Oxford
+University Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

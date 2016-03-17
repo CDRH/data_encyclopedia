@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Romero, Casimero (1833-1912)</title>
+<title level="m" type="sub"></title>
+<author>Frederick W. Rathjen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rathjen, Frederick W.">Frederick W. Rathjen</author>. <title level="a">"Romero, Casimero (1833-1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">366</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROMERO, CASIMERO (1833-1912)</head>
+
+<p>Little is known of the early life of Casimero
+Romero except that he was of Spanish lineage,
+born in 1833 in New Mexico, and that in his
+younger years he participated in the comanchero
+trade and perhaps was a cibolero as
+well. Evidently he prospered, because by the
+1870s Romero, then living in Moro County,
+was a large-scale sheep rancher. His entrepreneurial
+eye turned eastward, however, and led
+him to the Texas Panhandle, where he contributed
+significantly to the nascent development
+of the Southern High Plains.</p>
+
+<p>In November 1876 Romero trailed 3,000
+head of sheep to the Canadian River valley to
+take advantage of unoccupied, rich, free grasslands.
+He built a capacious, sturdy adobe
+home and, except for a few staples, produced
+or took from the land everything needed to
+sustain a good life for his family and workers.
+Unwittingly, Romero may have inspired the
+first European Americans to migrate into the
+Texas Panhandle as residents. Other New
+Mexican pastores followed Romero and settled
+along the Canadian River, and the town of
+Tascosa grew around the Romero plaza.</p>
+
+<p>By the middle 1880s, however, the pastores
+found themselves unable to compete with cattle
+ranchers who secured land titles which,
+backed by barbed wire, enabled them to control
+access to grass. The pastores had to find
+other livelihoods. While keeping his Tascosa
+homestead, Romero turned to a twelve-wagon
+freighting business connecting the far-flung
+ranchers and the merchants of Tascosa with
+their major supply point, Dodge City, Kansas,
+thereby contributing in a second way to
+Southern High Plains settlement.</p>
+
+<p>Long-haul freighting declined as railroads
+crossed the Texas Panhandle and eliminated
+the need for Romero's service. Romero experimented
+with an irrigated fruit orchard for
+a time at Tascosa, but he soon returned to
+New Mexico. In 1893 he purchased a sheep
+ranch near present-day Bard and lived there
+until his death in 1912. He is buried at Endee,
+New Mexico.</p>
+
+<closer>
+<signed>Frederick W. Rathjen<lb/>
+West Texas <hi rend="smallcaps">A&amp;M</hi> University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Carlson, Paul H. <title level="m">Texas Wooleybacks: The Range Sheep and Goat Industry</title>. College Station: Texas <hi rend="smallcaps">A&amp;M</hi> University Press,
+1982.</bibl> <bibl>Romero, Jos&#233; Ynocencio. "Spanish Sheepmen on the
+Canadian at Old Tascosa." as told to Ernest R. Archambeau.
+<title level="j">Panhandle-Plains Historical Review</title> 19 (1946): 45–72.</bibl>
+<bibl>Taylor, A. J. "New Mexican Pastores and Priests in the Texas
+Panhandle, 1876–1915." <title level="j">Panhandle-Plains Historical Review</title>
+56 (1984): 65–79.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

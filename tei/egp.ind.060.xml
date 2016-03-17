@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.060">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Weather Industry</title>
+<title level="m" type="sub"></title>
+<author>Michael A. Amundson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.060</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Biddle, Matthew D.">Matthew D. Biddle</author>. <title level="a">"Weather Industry."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">436-437</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WEATHER INDUSTRY</head>
+
+<p>As the nicknames "Tornado Alley," "Dust
+Bowl," and "blizzard country" imply, weather
+has a major impact in the Great Plains. The
+variety and intensity of Plains weather justify
+its description as a "climate of extremes." For
+these reasons, the region is home to a sizable
+percentage of the country's weather and climate
+research institutions, government service
+agencies, and weather information businesses.
+Among what is nationally a relatively small
+sector of specialized business, the "weather industry"
+in the Plains has a substantial impact,
+especially in certain local areas. The potential
+impact of severe weather on such weathersensitive
+industries as aviation, highway and
+rail transportation, insurance businesses, and
+agriculture creates a high demand for weather
+data, weather-monitoring equipment, and
+weather professionals. Private weather enterprises
+include weather data and hardware
+vendors, wind energy generation, aviation and
+agricultural weather forecast services, and
+even weather modification companies that
+provide cloud seeding for hail suppression
+or precipitation enhancement. Television
+weather coverage in the Plains, with an emphasis
+on tornado warning dissemination, is
+extensive and highly detailed, with stations in
+Oklahoma City, Tulsa, and Wichita devoting
+more resources to weather coverage than their
+counterparts in large markets such as Los Angeles,
+New York, and Chicago.</p>
+
+<p>Significant concentrations of private businesses
+devoted to weather and climate data
+analysis and forecasting are found in the Dallas–
+Fort Worth, Oklahoma City, and Wichita
+metropolitan areas. Major centers for public
+weather research include Boulder, Colorado,
+Lubbock, Texas, Rapid City, South Dakota,
+and, most notably, Norman, Oklahoma. Numerous
+agencies of the National Oceanic and
+Atmospheric Administration (<hi rend="smallcaps">NOAA</hi>), a division
+of the U.S. Department of Commerce, are
+headquartered in the Plains. The Aviation
+Weather Center, responsible for worldwide
+weather forecasting for American civilian airlines,
+is located in Kansas City, and its military
+equivalent is in Omaha.</p>
+
+<p>The emergence of Norman as the world's
+primary center for research, monitoring, and
+prediction of tornadoes and severe local
+storms began in 1948 at nearby Tinker Air
+Force Base, where tornado forecasting was pioneered.
+The evolution continued in 1964 with
+the establishment in Norman of the National
+Severe Storms Laboratory (<hi rend="smallcaps">NSSL</hi>), where Doppler
+weather radar was developed and tested.
+In 1997, under modernization initiatives of the
+National Weather Service (<hi rend="smallcaps">NWS</hi>), the Storm
+Prediction Center, responsible for the issuance
+of severe weather watches and hazardous
+weather guidance nationwide, relocated to
+Norman from Kansas City. Additional <hi rend="smallcaps">NOAA</hi>
+agencies, including an <hi rend="smallcaps">NWS</hi> office, the <hi rend="smallcaps">NEXRAD</hi>
+(National Weather Service's Next Generation
+Weather Radar) Radar Operational Support
+Facility, and numerous federal and state atmospheric
+research institutes associated with
+nssl and the University of Oklahoma, were
+placed under one cooperative umbrella in 1998
+as the Oklahoma Weather Center. The center,
+with emphasis in the development of numerical
+forecast models, environmental monitoring
+systems, tornado research, and severe
+weather forecasting, directly employs 600 people
+and injects more than $60 million annually
+into the economy.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.061">Tornadoes</ref>.</p>
+
+<closer>
+<signed>Matthew D. Biddle<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>England, Gary A. <title level="m">Weathering the Storm: Tornadoes, Television, and Turmoil</title>. Norman: University of Oklahoma
+Press, 1997.</bibl> <bibl>Grazulis, Thomas P. <title level="m">Tornadoes of the United States</title>. Norman: University of Oklahoma Press, 2000.</bibl>
+<bibl>Penn, David. <title level="m">Impact of the Oklahoma Weather Center on the Oklahoma Economy</title>. Norman: Center for Economic
+and Management Research, University of Oklahoma–
+Norman, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

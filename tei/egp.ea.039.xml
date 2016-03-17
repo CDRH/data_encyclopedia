@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">V&#233;rendrye Family</title>
+<title level="m" type="sub"></title>
+<author>W. Raymond Wood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wood, W. Raymond">W. Raymond Wood</author>. <title level="a">"V&#233;rendrye Family."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">250</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">V&#201;RENDRYE FAMILY</head>
+
+<p>Pierre Gaultier de Varennes, the Sieur de la
+V&#233;rendrye, was born in Trois Rivières, Canada,
+on November 16, 1685. He served briefly
+in the army, married in Quebec in 1712, and
+fathered four sons and a daughter. The rest of
+his life was devoted to the western fur trade
+and exploration. In 1727 he was appointed
+commandant of the Posts of the North, which
+then consisted of three forts on the west side
+of Lake Superior. From that beginning, he established
+a string of small forts that extended
+deep into the Plains north and west of Lake
+Superior in what is now southern Ontario and
+Manitoba. These forts established the claim of
+New France to this western country and challenged
+the English fur traders based at Hudson
+Bay. He and his sons went on to be the
+first Europeans to explore what is now southern
+Manitoba and western North and South
+Dakota.</p>
+
+<p>La V&#233;rendrye and his sons established Fort
+St. Pierre in 1727, Fort St. Charles in 1732, Fort
+Maurepas in 1734, Fort Dauphin about 1741,
+and finally, Fort La Reine on October 3, 1738.
+Fort La Reine was on the Assiniboine River
+directly south of Lake Manitoba. On October
+18, 1738, La V&#233;rendrye, two of his sons, and
+a party of about fifty men moved southwest
+from Fort La Reine. Accompanied by Assiniboine
+Indians who joined them on the march,
+they reached the Mandan villages near the
+junction of the Heart and Missouri Rivers on
+December 3. After a brief trading session, he
+left two men there to learn the Mandan language
+and, seriously ill, departed on the 13th.</p>
+
+<p>In 1742 his two younger sons, Fran&#231;ois and
+Louis-Joseph, returned to the Mandan villages,
+and on July 23 they struck out to the
+southwest, eventually approaching some high,
+wooded mountains. Most historians believe
+these mountains were the Black Hills of South
+Dakota, although they may have been the Big
+Horn Mountains of northern Wyoming. Because
+of the generalized nature of their narrative
+it is impossible to be certain either of
+their destination or the identity of most of the
+Indian tribes they met during their travels.
+Whatever their route, it is certain that they
+returned to the Mandans by way of the mouth
+of the Bad River, near what is now Pierre,
+South Dakota, for the discovery there in 1913
+of a lead plate left by their party provides the
+only indisputable point of reference for their
+eleven-month expedition from the Mandan
+villages.</p>
+
+<p>The brothers had hoped to discover the
+"Western Sea," and their long search was a
+disappointment both for their father and his
+superiors. La V&#233;rendrye was recalled and replaced
+as commandant in 1744. Much of his
+exploration had been done at his own expense,
+and he was deeply in debt. When his
+successor left the post two years later, La V&#233;rendrye
+resumed his former position, but his
+explorations were over. Before his death on
+December 6, 1749, La V&#233;rendrye was awarded
+the coveted Cross of St. Louis. He had opened
+the Canadian West for the French but they
+ignored his explorations, and it was left to
+the British to occupy the Prairie Provinces
+of Canada. His trials, expenditures, and sacrifices
+for New France had been in vain.</p>
+
+<closer>
+<signed>W. Raymond Wood<lb/>
+University of Missouri-Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burpee, Lawrence J. <title level="m">Journals and Letters of Pierre Gaultier
+de Varennes de la V&#233;rendrye and His Sons</title>. Publications of
+the Champlain Society, vol. 16. Toronto: Ballantyne Press,
+1927.</bibl> <bibl>Smith, G. Hubert. <title level="m">Explorations of the La V&#233;rendryes
+in the Northern Plains. 1738–1743</title>, edited by W. Raymond
+Wood. Lincoln: University of Nebraska Press, 1980.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hall, Monte (b. 1923)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Hall, Monte (b. 1923)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">513</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HALL, MONTE (b. 1923)</head>
+
+<p>Monte Hall, television celebrity and noted philanthropist,
+was born in Winnipeg on August
+25, 1923, and brought up in the close-knit Jewish
+community there. His maternal grandfather
+migrated from the village of Poveltch in
+the Ukraine, stepping off the train in Winnipeg
+in 1901. Within a few years he had built a successful
+fruit and vegetable business. Hall traces
+his strong Jewish roots to lessons learned in his
+grandfather's home and to the example of his
+mother, a leading figure among Canadian
+Jewry. He believes that his Jewish upbringing
+in his grandfather's home&#8211;a home filled with
+four generations of relatives&#8211;gave him the
+sense of humor that prepared him for his
+show-business career.</p>
+
+<p>While a student at the University of Manitoba
+in the early 1940s, Hall acted in musical
+and dramatic productions and served as a
+host of Canadian army shows. After graduation
+with a bachelor of science degree in 1945,
+he moved to Toronto and continued his career
+as an actor, emcee, and sportscaster. In New
+York from 1955 to 1960 he was emcee of <hi rend="smallcaps">NBC</hi>'s
+radio show <title>Monitor</title>. Hall's big break came in
+Hollywood in 1963, when he and coproducer
+Stefan Hatos put together <title>Let's Make a Deal</title>,
+the game show where contestants from the
+audience dressed in outrageous costumes to
+get Hall's attention and offered items they had
+brought with them in exchange for valuable
+or nonsense prizes hidden in boxes behind a
+curtain. With Hall as the amiable host, <title>Let's Make a Deal</title> ran from 1963 to 1968 on <hi rend="smallcaps">NBC</hi>,
+from 1968 to 1976 on <hi rend="smallcaps">ABC</hi>, and briefly again on
+<hi rend="smallcaps">NBC</hi> in 1990-91.</p>
+
+<p>Hall has also devoted his time to myriad
+charitable and philanthropic endeavors. He
+was recognized for this work in 1988, when he
+was made an Officer of the Order of Canada,
+the country's most prestigious award. Honorary
+degrees at the Universities of Manitoba
+(1987) and Haifa (1989) and at the Hahneman
+College of Medicine (1988) as well as induction
+into the National Broadcasters Hall of
+Fame (1995) also attest to Monte Hall's lifetime
+achievements.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hall, Monte. "My Canadian Jewish Childhood." <title level="j">Western States Jewish History</title> 26 (1994): 101–11.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

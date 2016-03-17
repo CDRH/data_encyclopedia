@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.086 SYSTEM "egp.pg.086.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.086">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Warren, Francis (1844-1929)</title>
+<title level="m" type="sub"></title>
+<author>William Howard Moore</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.086</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Moore, William Howard">William Howard Moore</author>. <title level="a">"Warren, Francis (1844-1929)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">694-695</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WARREN, FRANCIS (1844-1929)</head>
+
+<figure n="egp.pg.086" rend="granted">
+<figDesc>Francis Warren</figDesc>
+</figure>
+
+<p>U.S. senator Francis Emory Warren used his
+seniority and committee assignments to encourage
+economic development in the West
+and to build an effective Republican political
+machine in Wyoming. Born on June 20, 1844,
+in Hinsdale, Massachusetts, Warren attended
+local schools and won the Congressional
+Medal of Honor for his service with a Union
+Army regiment during the Civil War. Moving
+westward, he arrived in Cheyenne in 1868,
+where he clerked in a furniture store. Soon, he
+purchased and expanded the enterprise (renaming
+it the Warren Mercantile Company)
+and established the Warren Land and Livestock
+Company and a far-flung set of investments
+in banks, railroads, and public utilities.
+Possibly the wealthiest individual in Wyoming,
+Warren maintained close ties to the
+powerful Wyoming Stock Growers Association
+and served as president of the National
+Wool Growers Association.</p>
+
+<p>Business interests quite naturally attracted
+Warren to politics. Appointed territorial governor
+in 1885, he sided with business interests
+and Chinese workers during the Rock Springs
+massacre of 1885. In 1890 Warren was elected
+the state's first governor, but he resigned days
+later after being chosen U.S. senator. He would
+serve more than thirty-seven years in the Senate,
+a record unsurpassed until 1964. Warren's
+seniority, his energy, his unusual knack for political
+organization and patronage, and his
+close attention to the state's business interests
+brought him extensive influence both in Washington
+and in Wyoming.</p>
+
+<p>Warren chose to use that influence primarily
+to benefit his state and region. Rejecting
+charges of conflict of interest, he worked assiduously
+for high tariffs on raw wool, hides,
+and beef&#8211;-psitions that clearly favored the
+sheep and cattle industry. Warren supported
+federal leasing policies designed to accommodate
+both interests, he opposed policies that
+would block fencing on the federal domain,
+and he promoted the Carey Act of 1894 and a
+host of irrigation and reclamation projects to
+advance western interests. He lobbied shamelessly
+for the construction of federal buildings
+in Wyoming and used his position on the Senate
+Military Affairs Committee to enhance
+Fort Mackenzie in Sheridan, Wyoming, and
+Fort D. A. Russell (later F. E. Warren Air Force
+Base) in Cheyenne. As chair of the Senate Appropriations
+Committee in the 1920s, Warren
+worked for government economy and high
+tariffs.</p>
+
+<p>Warren died in Washington dc on November
+24, 1929. He was married twice, and a
+daughter by his first marriage became the wife
+of Gen. John J. Pershing.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.034">Pershing, John J.</ref>.</p>
+
+<closer>
+<signed>William Howard Moore<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gould, Lewis L. <title level="m">Wyoming: From Territory to Statehood</title>.
+Worland <hi rend="smallcaps">WY</hi>: High Plains Publishing Company, 1989.</bibl> <bibl>Larson,
+Taft Alfred. <title level="m">History of Wyoming</title>. Lincoln: University
+of Nebraska Press, 1978.</bibl> <bibl>Warren, Francis E. Papers. Ms.
+00013. American Heritage Center, University of Wyoming,
+Laramie.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

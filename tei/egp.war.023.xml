@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Intertribal Warfare</title>
+<title level="m" type="sub"></title>
+<author>Douglas B. Bamforth</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bamforth, Douglas B.">Douglas B. Bamforth</author>. <title level="a">"Intertribal Warfare."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">829-830</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INTERTRIBAL WARFARE</head>
+
+<p>Intertribal warfare was intense throughout the
+Great Plains during the 1700s and 1800s, and
+archeological data indicate that warfare was
+present prior to this time. Human skeletons
+from as early as the Woodland Period (250 <hi rend="smallcaps">B.C.</hi>
+to <hi rend="smallcaps">A.D.</hi> 900) show occasional marks of violence,
+but conflict intensified during and after
+the thirteenth century, by which time farmers
+were well established in the Plains. After 1250,
+villages were often destroyed by fire, and human
+skeletons regularly show marks of violence,
+scalping, and other mutilations. Warfare
+was most intense along the Missouri River
+in the present-day Dakotas, where ancestors
+of the Mandans, Hidatsas, and Arikaras were
+at war with each other, and towns inhabited
+by as many as 1,000 people were often fortified
+with ditch and palisade defenses. Excavations
+at the Crow Creek site, an ancestral Arikara
+town dated to 1325, revealed the bodies of 486
+people&#8211;men, women, and children, essentially
+the town's entire population&#8211;in a mass
+grave. These individuals had been scalped and
+dismembered, and their bones showed clear
+evidence of severe malnutrition, suggesting
+that violence resulted from competition for
+food, probably due to local overpopulation
+and climatic deterioration. Violence among
+farmers continued from the 1500s through the
+late 1800s.</p>
+
+<p>Archeological data on war among the nomadic
+Plains hunters are few, but some nomads
+were attacking farmers on the edges of
+the Plains by at least the 1500s. By the eighteenth
+century, war was common among the
+nomads, apparently largely because of conflicts
+over hunting territories.</p>
+
+<p>Prior to the introduction of European horses
+and guns, Plains warfare took two forms. When
+equally matched forces confronted each other,
+warriors sheltered behind large shields, firing
+arrows; individual warriors came out from behind
+these lines to dance and taunt their opponents.
+This mode of combat was largely for
+show and casualties were light. However, sometimes,
+large war parties surprised and utterly
+destroyed small camps or hamlets. Increasing
+interaction with Europeans from the eighteenth
+century on changed these patterns dramatically.
+Massed shield lines could neither stand against
+mounted warriors nor protect against firearms;
+this mode of battle largely disappeared with
+the introduction of horses and guns, although
+equally matched mounted war parties sometimes
+used the old tactics. Early access to horses
+also allowed some groups, notably the Comanches,
+to overwhelm and displace neighboring
+tribes who lacked such access. Documentary
+and archeological evidence indicate that horses
+and guns contributed mightily to this more destructive
+mode of Plains warfare, most intensively
+along the Missouri River.</p>
+
+<p>Raids for horses by small groups of warriors
+became a primary form of conflict after
+about 1750, particularly among the nomadic
+groups. Horse raiders usually entered enemy
+camps at night to take horses picketed close
+to their owners. Such raids were dangerous&#8211;raiders
+were killed when caught in the act&#8211;and
+successful raiders often achieved high status.
+The relation between war and status in the
+Plains is similarly evident in the practice of
+counting coup, in which a living enemy (or
+sometimes a dead enemy) was touched with
+the hand or a special stick. This act signified
+ultimate bravery in most Plains tribes and
+gave a warrior great prestige.</p>
+
+<p>The prestige attached to stealing horses and
+to counting coup rather than killing has contributed
+to the view that Plains warfare was a
+moderately dangerous kind of game driven by
+individual quests for status rather than "real"
+war driven by competition for resources. This
+is misleading. Individual warriors sought status
+and sometimes avoided killing enemies in
+battle, but destructive high-casualty warfare
+was widespread, with documented battles involving
+thousands of warriors and hundreds
+of fatalities. Other massacres like that at Crow
+Creek are known from the eighteenth and
+nineteenth centuries, and archeological and
+documentary evidence show great changes in
+tribal territories resulting from war before
+and after white contact.</p>
+
+<p>Destructive war in the Plains intensified after
+contact because of migrations of eastern
+tribes (the Cheyennes and Lakotas, for example)
+into the Plains as settlement moved west,
+because Europeans and Americans manipulated
+traditional hostilities, and because tribes
+competed for access to European and American
+trade, especially in fur-rich areas of the
+Northern Plains and Prairie Provinces. Contact-period
+war ended some long-standing
+hostilities: for example, the Mandans, Hidatsas,
+and Arikaras, decimated by disease and
+raiding, banded together for mutual protection
+during the 1860s. Other hostilities continued,
+and expanding European Americans
+exploited them: for example, Crows and Pawnees
+scouted in military campaigns against the
+Cheyennes and Lakotas. Intertribal violence
+in the Plains subsided with the confinement of
+the tribes to reservations in the late nineteenth
+century.</p>
+
+<closer>
+<signed>Douglas B. Bamforth<lb/>
+University of Colorado at Boulder</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bamforth, Douglas B. "Indigenous People, Indigenous Violence:
+Pre-Contact Warfare on the North American
+Great Plains." <title level="j">Man</title> 29 (1994): 95–115.</bibl> <bibl>Galloway, Colin G.
+<title level="m">Our Hearts Fell to the Ground: Plains Indian Views of How
+the West Was Lost</title>. New York: Bedford Books of St. Martin's
+Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

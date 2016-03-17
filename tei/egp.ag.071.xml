@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.071">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Taylor Grazing Act</title>
+<title level="m" type="sub"></title>
+<author>Laurence A. Clement Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.071</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Clement Jr., Laurence A.">Laurence A. Clement Jr.</author>. <title level="a">"Taylor Grazing Act."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">55</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TAYLOR GRAZING ACT</head>
+
+<p>Public agency management of the federal
+grazing lands began with the passage of the
+Taylor Grazing Act on June 28, 1934, as dust
+from the worst storms in the nation's history
+settled on Washington <hi rend="smallcaps">DC</hi>. Enacted after decades
+of rangeland deterioration, conflicts between
+cattle ranchers and migratory sheepherders,
+jurisdictional disputes, and states'
+rights debates, the act and its amendments
+ended free access to the range. The purposes
+of the act were to stop injury to the public
+lands; provide for their orderly use, improvement,
+and development; and stabilize the livestock
+industry dependent on the public range.
+The new law effectively closed the rangelands
+to homesteading in the Dakotas and western
+states.</p>
+
+<p>The act as amended in 1936 established
+grazing districts on the vacant, unappropriated
+and unreserved lands of the public domain:
+fifty-nine districts encompassing 168
+million acres of federal land and 97 million
+acres otherwise owned. The act, as amended
+in 1939, established grazing advisory boards,
+primarily composed of livestock owners.
+Board duties included the allocation of permits
+and the determination of boundaries,
+seasons of use, and the carrying capacity of the
+range. This gave rise to the Federal Range
+Code and the criticism by some commentators
+that the advisory boards constituted a private
+government.</p>
+
+<p>A new permit system granted grazing privileges
+by preference to ranchers who had actually
+used a grazing district's land during a priority
+period before 1934. Owners of land or
+water rights who could support livestock on
+base ranches during seasons when herds were
+not on the grazing districts were favored;
+those without property were not. Technically,
+the grazing permit is a revocable license under
+the law, not creating any right, title, interest,
+or estate in or to land, but it is considered
+by many to be a unique form of ownership,
+constituting a property right of the utmost
+importance.</p>
+
+<p>The act created the Grazing Service, but inadequate
+funding prevented effective observation
+and evaluation of range use. Permitted
+animal unit months were set at preexisting
+1934 stock levels. Efforts to reduce stock levels
+inevitably failed. The Grazing Service and
+General Land Office were consolidated in 1946
+to form the Bureau of Land Management,
+which continues today to administer grazing
+lands not in the national forests.</p>
+
+<p>The basis for grazing fees has always been
+controversial. Initially fees were set to cover
+only administrative costs. Western senators
+have opposed increasing the fees, despite obvious
+shortages of administrative resources,
+arguing that costs are higher on lower quality
+lands and fees comparable to those charged by
+the Forest Service would be unfair. Other legislators
+and groups interested in conservation
+and recreation have called for increased fees
+as a condition for larger appropriations. The
+1970 Public Land Law Review Commission
+and a 1986 study by the General Accounting
+Office recommended raising the fee to fair
+market value. Efforts in the Department of the
+Interior to increase fees, however, were abandoned
+after the 1994 election.</p>
+
+<p>Subchapter IV of the Federal Lands Policy
+and Management Act of 1976 and the Public
+Rangelands Improvement Act of 1978 have
+superceded the Taylor Grazing Act. Measuring
+carrying capacity, determining a viable
+basis for grazing fees, incorporating public
+participation into land management decisions,
+and balancing competing demands
+for access all continue to challenge rangeland
+policymakers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>Laurence A. Clement Jr.<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clawson, Marion, and Burnell Held. <title level="m">The Federal Lands: Their Use and Management</title>. Lincoln: University of Nebraska
+Press, 1957.</bibl> <bibl>Coggins, George Cameron, and Robert
+L. Glicksman. <title level="m">Public Natural Resources Law</title>. St. Paul:
+West Group, 1998.</bibl> <bibl>Foss, Phillip O. <title level="m">Politics and Grass: The Administration of Grazing on the Public Domain</title>. Seattle:
+University of Washington Press, 1960.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

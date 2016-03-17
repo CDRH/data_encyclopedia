@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mock Weddings</title>
+<title level="m" type="sub"></title>
+<author>Michael Taft</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Taft, Michael">Michael Taft</author>. <title level="a">"Mock Weddings."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">306</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MOCK WEDDINGS</head>
+
+<p>The mock wedding is a folk drama that flourishes
+in the small communities of the Great
+Plains and is as strong a tradition today as it
+was more than 100 years ago. While the drama
+may take a number of forms, all mock weddings
+are theatrical parodies of the marriage
+ritual, in which members of a community
+dress as a wedding entourage and stage a
+mock ceremony. Players have specific roles&#8211;
+such as bride, groom, minister, ring bearer,
+and bridesmaids&#8211;and there is usually a script,
+either written or oral, in which several of the
+players have speaking parts.</p>
+
+<p>Especially in earlier times, this drama was
+performed informally by teenage girls as playful
+preparation for marriage. Children of both
+sexes also performed mock weddings&#8211;often
+called Tom Thumb weddings&#8211;under adult
+supervision, either as a school play or as part
+of a fund-raising benefit. Similarly, all-male
+groups, such as volunteer fire departments,
+would stage "womenless weddings" as a way
+of raising money.</p>
+
+<p>While these forms are popular in various
+parts of North America, there is one kind of
+mock wedding tradition that is stronger in the
+Great Plains than in the rest of the continent.
+This drama involves both men and women actors
+who cross-dress, and it is characterized
+by ad-libbing, bawdy behavior, and general
+horseplay. Often the bride is a very large
+man, while the groom is a particularly petite
+woman. Outrageous costumes, masks, and
+props usually add to the parodic nature of the
+performances.</p>
+
+<p>Although this form of mock wedding is
+sometimes staged as a fund-raiser, it is usually
+part of a larger community celebration of a
+marriage or, more likely, a milestone wedding
+anniversary. As part of a couple's twenty-fifth
+anniversary, for example, friends, family, and
+neighbors will hold a celebration. The honored
+couple may be regaled with speeches
+(often of a "roast" variety) and locally composed
+songs or poems. Gifts, food, drink, music,
+and dancing are all part of this celebration.</p>
+
+<p>Unannounced, a mock wedding procession
+enters the hall and takes over "center stage."
+Amid laughter, jeers, and expressions of dismay,
+the procession arranges itself in a typical
+wedding tableau. The minister usually begins
+with a "dearly beloved" speech, a parody of
+the liturgy. This is followed by the saying of
+vows, which often reveals embarrassing characteristics
+or stories about the honored couple,
+a ring ceremony involving a jar-sealer ring
+or other sight gag, and the kissing of the bride,
+which sometimes devolves into a wrestling
+match. The ceremony might be augmented
+with other scenes, such as the entrance of a
+girlfriend with babe in arms.</p>
+
+<p>Obviously, this drama honors the anniversary
+couple through good-natured mockery.
+But it is also a form of commentary on rural
+and agrarian life, especially through some of
+the vows, which often concern the less savory
+aspects of farm work ("Do you promise
+to clean the slaughterhouse mess, and not
+love and honor your husband any less?"). As
+women are generally the organizers of mock
+weddings, these dramas tend to comment on
+the many roles that women must fulfill on the
+family-run farm or ranch. The cross-dressing
+itself emphasizes the blurring of divisions between
+men's and women's work on the farm.
+These commentaries are well understood by
+actors and audience alike.</p>
+
+<closer>
+<signed>Michael Taft<lb/>
+American Folklife Center<lb/>
+Library of Congress</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Butala, Sharon. <title level="m">Luna</title>. Saskatoon: Fifth House, 1988.</bibl> <bibl>Taft,
+Michael. "Folk Drama on the Great Plains: The Mock
+Wedding in Canada and the United States." <title level="j">North Dakota History</title> 56 (1989): 16–23.</bibl> <bibl>Taft, Michael. "Men in Women's
+Clothes: Theatrical Transvestites on the Canadian Prairie."
+In <title level="m">Undisciplined Women: Tradition and Culture in Canada</title>,
+edited by Pauline Greenhill and Diane Tye. Montreal:
+McGill-Queen's University Press, 1997: 131–38.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Arikara Expedition</title>
+<title level="m" type="sub"></title>
+<author>Jo Lea Wetherilt Behrens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Behrens, Joe Lea Wetherilt">Jo Lea Wetherilt Behrens</author>. <title level="a">"Arikara Expedition."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">822-823</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ARIKARA EXPEDITION</head>
+
+<p>Early 1823 proved deadly along the upper Missouri
+River after a series of Indian attacks
+on fur trappers and trading posts caused staggering
+economic losses, especially to the Missouri
+Fur Company. In particular, the Arikaras
+opposed American attempts to move upriver,
+which would eliminate their middleman role
+in the fur trade. On June 2 they attacked William
+Ashley's trapping party, which was
+camped near their villages, close to the confluence
+of the Grand and Missouri Rivers, killing
+fourteen men. When the survivors limped
+into Fort Atkinson (in present-day Nebraska)
+on June 18, Col. Henry Leavenworth and Indian
+agent Benjamin O'Fallon decided that
+American military strength had to be demonstrated.
+This would be the first major U.S. expedition
+against the Plains Indians.</p>
+
+<p>Leavenworth left Fort Atkinson on June 22
+with 230 men of the Sixth U.S. Infantry and
+two cannons to punish the Arikaras. Joining
+him five days later was trader Joshua Pilcher,
+head of the Missouri Fur Company, with sixty
+men and a howitzer. Ashley's men added
+eighty to the force, and about 700 Lakotas
+joined in to fight their enemies, the Arikaras.
+As the force neared the villages on August 9,
+the Lakotas rode ahead and engaged the Arikaras,
+killing ten to fifteen of them. At dawn
+on August 10, Leavenworth trained his artillery
+on the stockaded Arikara villages, but
+they mainly overshot the target. When the
+Lakotas deserted the fight to raid the Arikaras'
+cornfields, the troops were forced to face an
+expected battle alone. Seizing an opportunity
+to negotiate with Arikara leaders, Leavenworth
+asked them to return Ashley's property
+and to promise future good behavior. The
+Arikaras were allowed to leave their besieged
+villages on the night of August 14. Ashley
+seemingly accepted this outcome, but Pilcher
+was infuriated.</p>
+
+<p>On August 15 Leavenworth and his troops
+headed downriver, followed by Pilcher with
+his contingent of trappers. Angry at the dismal
+show of force against the Arikaras, Pilcher
+set fire to both of their villages. This action
+naturally further alienated the Arikaras, who
+continued to resist American inroads on the
+upper Missouri. Forced to seek a new route to
+the trapping grounds, Ashley and his men
+forged the overland route into the Central
+Rockies through South Pass. The new trail set
+the stage for the enormous future pioneer migration
+along the Platte Valley and into the
+West in the 1840s.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.022">Fur Trade</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.007">Arikaras</ref>.</p>
+
+<closer>
+<signed>Jo Lea Wetherilt Behrens<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Meyer, Roy Willard. <title level="m">The Village Indians of the Upper Missouri:
+The Mandans, Hidatsas, and Arikaras</title>. Lincoln: University
+of Nebraska Press, 1977.</bibl> <bibl>Morgan, Dale L. <title level="m">Jedediah
+Smith and the Opening of the West</title>. Lincoln: University of
+Nebraska Press, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

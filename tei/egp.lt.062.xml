@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Prairie Schooner</hi></title>
+<title level="m" type="sub"></title>
+<author>Lee T. Lemon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.062</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lemon, Lee T.">Lee T. Lemon</author>. <title level="a">"<hi rend="italic">Prairie Schooner</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">490</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">PRAIRIE SCHOONER</hi></head>
+<figure n="egp.lt.062" rend="granted">
+<figDesc>Cover image of the Summer 2010 edition of the University of Nebraska's "Prairie Schooner" publication</figDesc>
+</figure>
+
+<p>The <title level="j">Prairie Schooner</title>, founded in 1926 at the
+University of Nebraska by Lowry C. Wimberly,
+is widely recognized as one of the premier
+literary magazines in the world. It has
+been cited by the <title level="j">Washington Post</title> for its "fabulous fiction" and by the <title level="m">Dictionary of Literary Biography</title> and <title level="j">Writer's Digest</title> as one of the top
+ten magazines publishing poetry.</p>
+
+<p>The <title level="j">Prairie Schooner</title>'s prose and poetry are
+regularly reprinted in collections such as <title level="m">Best American Poetry</title>, <title level="m">Best American Short Stories</title>,
+<title level="m">Best American Essays</title>, the <title level="m">O. Henry</title> anthology
+of short stories, and the <title level="m">Pushcart Prize</title> anthology.
+<title level="j">The Schooner</title> has also won recognition
+for special issues devoted to specific national
+and ethnic literatures.</p>
+
+<p>A consistent goal of the <title level="j">Prairie Schooner</title> editorial
+staff has been to publish works of excellent
+young writers. That group has included,
+among many others, Joyce Carol Oates, Eudora
+Welty, Octavio Paz, Truman Capote,
+Cynthia Ozick, Tennessee Williams, Raymond
+Carver, and Richard Russo. Willa Cather, Mari
+Sandoz, Loren Eiseley, Wright Morris, Ron
+Hansen, Ted Kooser, and Kathleen West are
+among the prestigious Nebraska contributors.</p>
+
+<p>The <title level="j">Prairie Schooner</title> is supported by the
+University of Nebraska through the Department
+of English and the University of Nebraska
+Press. Its distinguished editors have been
+Wimberly (1926–56), Karl Shapiro (1956–63),
+Bernice Slote (1963–80), Hugh Luke (1980–
+87), and Hilda Raz (1987–present).</p>
+
+<p>Perhaps the best summation of the <title level="j">Schooner</title>'s
+history appeared in the <title level="j">Literary Magazine Review</title>
+several years ago: "[The] Prairie Schooner
+rolls along, avoiding the quagmires of fads and
+schisms, steadfastly defining the American
+idiom."</p>
+
+<closer>
+<signed>Lee T. Lemon<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

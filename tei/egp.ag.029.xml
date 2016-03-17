@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Exotic Animals</title>
+<title level="m" type="sub"></title>
+<author>Elizabeth Cary Mungall</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mungall, Elizabeth Cary">Elizabeth Cary Mungall</author>. <title level="a">"Exotic Animals."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">43</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EXOTIC ANIMALS</head>
+
+<p>Exotic animals, animals living outside their
+native areas, are increasing in number in
+the Great Plains. These additions to hunting,
+ranching, and farming operations, plus rare
+species in private preservation efforts, are
+mainly hoofed animals of wildlife species with
+antlers or horns. A few novel domestics, like
+llamas, join the mix. In the early 1990s, ostriches,
+emus, and rheas were also promoted,
+but markets for these large, flightless birds are
+more limited than for hoofed exotics.</p>
+
+<p>Exotics are raised variously for meat, feathers,
+hides, eggs, and, in the case of the emu, for
+oil that is used in cosmetics. Within the Great
+Plains, exotics activity varies with environment
+and politics. Texas, with huge, private
+ranches and varied environments, stresses all
+types and has the most animals (15,735, representing
+fifty-six varieties, in Great Plains
+counties). Species on the Texas Plains include
+aoudad (<hi rend="italic">Ammotragus lervia</hi>) from North Africa,
+axis deer (<hi rend="italic">Axis axis</hi>) from India and Sri
+Lanka, blackbuck antelope (<hi rend="italic">Antilope cervicapra</hi>)
+from India, fallow deer (<hi rend="italic">Dama dama</hi>)
+from Europe and Asia Minor, red deer (<hi rend="italic">Cervus
+elaphus</hi>) from Europe, and various forms
+of ibex and wild goat (<hi rend="italic">Capra</hi> spp.) from
+Asia and Africa. In New Mexico, free-ranging
+aoudad predominate. There, the state dominates
+exotics activity, and public hunting is the
+objective. Northward, the main species are
+winter-hardy deer, such as fallow and red deer.
+These are mainly found in the drier western
+zones of the Northern Plains and in Canada
+where agricultural alternatives are fewer. Canadian
+exotics farming is an addition to more
+prevalent experiments with farming, herding,
+or culling native wildlife.</p>
+
+<p>Increasing numbers of wildlife ranches, deer
+farms, and escaped exotics have prompted
+restrictions to prevent disease and interbreeding
+with native fauna. Wildlife departments
+often disapprove of exotics because of these
+negative possibilities or the added competition
+for space or forage. Thus, it is agricultural
+rather than wildlife interests that are promoting
+growth of exotic activity in the Great
+Plains.</p>
+
+<closer>
+<signed>Elizabeth Cary Mungall<lb/>
+Texas Woman's University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mungall, Elizabeth Cary, and William J. Sheffield. <title level="m">Exotics
+on the Range: The Texas Example</title>. College Station: Texas
+A&amp;M University Press, 1994.</bibl> <bibl>Traweek, Max S. <title level="m">Statewide
+Census of Exotic Big Game Animals</title>. Austin: Texas Parks
+and Wildlife Department, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

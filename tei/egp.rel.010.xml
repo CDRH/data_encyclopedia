@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Catholic Sisterhoods</title>
+<title level="m" type="sub"></title>
+<author>James T. Carroll</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Carroll, James T.">James T. Carroll</author>. <title level="a">"Catholic Sisterhoods."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">739</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATHOLIC SISTERHOODS</head>
+
+<p>Catholic sisterhoods are groups of Roman
+Catholic women who are bound by the vows
+of poverty, chastity, and obedience to live in a
+community and to serve the church in a wide
+range of ministries, especially education,
+health care, and social services. These women
+arrived in the Great Plains in the 1860s to establish
+schools, hospitals, and churches for
+Native Americans from Dakota Territory to
+Texas. They were among the first representatives
+of the Catholic Church to reach the frontier
+for purposes of evangelization. As the sisterhoods
+attracted more members in later
+years, they founded a large number of institutions
+to serve the Catholic population in
+the Great Plains, including elementary and
+high schools, colleges, orphanages, homes for
+women, hospitals, and nursing homes. Much
+of the Catholic infrastructure in the Great
+Plains was established by religious sisters.</p>
+
+<p>Between fifty and sixty Catholic sisterhoods
+serve in the Great Plains today. These groups
+vary widely in terms of membership, lifestyle,
+and apostolic activity. The largest groups include
+the Sisters of Saint Joseph of Carondelet
+(St. Louis, Missouri), Order of Saint Benedict
+of Pontifical Jurisdiction (Yankton, South Dakota),
+Religious Sisters of Mercy (Omaha, Nebraska), and the Sisters of the Presentation of
+the Blessed Virgin Mary (Aberdeen, South Dakota).
+The smallest community is the Oblate
+Sisters of the Blessed Sacrament, who minister
+to Native Americans in Rapid City and Marty,
+South Dakota. In the Prairie Provinces the
+most prominent Catholic sisterhoods are the
+Grey Nuns and the Sisters of Saint Anne.</p>
+
+<p>Since the Second Vatican Council (1965) the
+sisterhoods have liberalized their rules on dress,
+cloister, and the types of work they perform.
+The new areas of ministry include reaching out
+to the poor and marginalized as directors of
+soup kitchens, social workers, hospice caretakers,
+and coordinators of low-income housing and
+improving the condition of Native Americans.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.037">North Dakota Anti-Garb Law</ref>.</p>
+
+<closer>
+<signed>James T. Carroll<lb/>
+Iona College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Coburn, Carol, and Martha Smith. <title level="m">Spirited Lives: How
+Nuns Shaped Catholic Culture and American Life, 1836–1920</title>.
+Chapel Hill: University of North Carolina Press,
+1999.</bibl> <bibl>Peterson, Susan. "Religious Communities of Women
+in the West: The Presentation Sisters' Adaptation to the
+Northern Plains Frontier." <title level="j">Journal of the West</title> 21 (1982):
+65–70.</bibl> <bibl>Peterson, Susan. "Widening Horizons: Catholic
+Sisterhoods on the Northern Plains, 1874–1910." <title level="j">Great
+Plains Quarterly</title> 5 (1985): 125–32.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

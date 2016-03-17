@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Deverell, Rex (b. 1941)</title>
+<title level="m" type="sub"></title>
+<author>Donald C. Kerr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerr, Donald C.">Donald C. Kerr</author>. <title level="a">"Deverell, Rex (b. 1941)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">477</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DEVERELL, REX (b. 1941)</head>
+
+<p>Rex Deverell is a Canadian dramatist noted
+for his children's plays, his full-length plays,
+and his time as a writer in residence at the
+Globe Theatre, Regina, from 1975 to 1990. He
+was born July 17, 1941, in Toronto, raised in
+Orillia, Ontario, and received a bachelor's
+from McMaster University, Hamilton, Ontario,
+in 1963, a bachelor of divinity from Mc-
+Master in 1966, and a master of sacred theology
+from Union Theological Seminary in New
+York in 1967. He began writing plays in 1966
+and has been a prolific writer ever since, with
+more than twenty children's plays, fifteen fulllength
+plays, and half a dozen plays commissioned
+by various groups. He has participated
+in five collective productions and has been an
+active playwright for <hi rend="smallcaps">CBC</hi> radio.</p>
+
+<p>At the Globe Theatre he began as a children's
+playwright and wrote roughly one children's
+play a year. His first full-length play,
+<title level="m">Boiler Room Suite</title> (1977), became his best
+known and most produced. He wrote a number
+of Saskatchewan-specific documentaries
+like <title level="m">Medicare!</title> (1980), on the introduction of
+socialized medicine to Canada and the subsequent
+doctors strike, as well as <title level="m">Number 1 Hard</title>
+(1978) and <title level="m">Black Powder: Estevan 1931</title> (1981).
+He has also written musicals, including <title level="m">Mandarin Oranges</title> (1985/1990), and plays that explore
+religion, including <title level="m">Righteousness</title> (1983),
+about Saint Augustine.</p>
+
+<p>Plays produced in a single year, 1985, give a
+good cross section of Deverell's work. That
+year was the centenary of the North-West Rebellion,
+and Deverell composed both a fivehour
+radio drama for the cbc, <title level="m">The Riel Commission</title>,
+and a play for the Globe, <title level="m">Beyond Batoche</title>. He also wrote a musical, a children's
+play, and another radio drama and worked on
+a collective show in 1985.</p>
+
+<closer>
+<signed>Donald C. Kerr<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wallace, Robert, and Cynthia Zimmerman, eds. <title level="m">The Works: Conversations with English Canadian Playwrights</title>.
+Toronto: Coach House Press, 1982: 127–41.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

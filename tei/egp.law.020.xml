@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">In Cold Blood</hi></title>
+<title level="m" type="sub"></title>
+<author>Guy Louis Rocha</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rocha, Guy Louis">Guy Louis Rocha</author>. <title level="a">"<hi rend="italic">In Cold Blood</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">452-453</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">IN COLD BLOOD</hi></head>
+<figure n="egp.law.020" rend="granted">
+<figDesc>In Cold Blood film poster</figDesc>
+</figure>     
+
+<p><title level="m">In Cold Blood</title> is the compelling and controversial
+account of the brutal murder of Herb,
+Bonnie, Nancy, and Kenyon Clutter inside
+their farmhouse near Holcomb, Kansas, on
+November 15, 1959, and of their murderers,
+Richard Eugene Hickock and Perry Edward
+Smith. Truman Capote's Edgar Award–winning
+work catapulted him to the peak of his
+career with its release in 1965. The country was
+still recovering from the rampage of mass
+killer Charles Starkweather in Nebraska and
+Wyoming (he was executed on June 25, 1959)
+when another horrible slaying traumatized
+the nation's heartland. The innocence associated
+with rural America was shattered, and
+the phrase "it can't happen here" seemingly
+did not apply anymore.</p>
+
+<p>Shortly after reading about the killing of the
+Clutter family, Capote, accompanied by his
+childhood friend, author Harper Lee, traveled
+to Holcomb on assignment for the <title level="j">New Yorker</title>
+to do his investigative research. He interviewed
+Dick Hickock and Perry Smith after they were
+captured in Las Vegas, Nevada, and returned to
+the Finney County jail. Capote followed their
+lives for more than five years, from the trial in
+Garden City and subsequent conviction for
+first-degree murder, through the numerous
+appeals, and ultimately to their execution on
+April 14, 1965, at the state penitentiary in Lansing,
+not far from where Hickock had grown
+up in Olathe. Capote watched Hickock die;
+however, he had grown much too close to
+Smith, a mixed-blood Western Shoshone from
+Nevada, to witness his execution, and he ran
+from the building where the hangings were
+staged.</p>
+
+<p>The fascination with what transpired that
+night outside Holcomb in remote southwestern
+Kansas and the events that followed continues
+unabated. Within two years after Capote's
+work was published, a motion picture by
+the same name was released. The "semidocumentary,"
+directed by Oscar-winner Richard
+Brooks, received four Academy Award nominations
+in 1968. More recently, a <hi rend="smallcaps">TV</hi> movie
+aired in 1996, and the A&amp;E Channel featured
+the Clutter murders and <title level="m">In Cold Blood</title> in its
+<title level="m">American Justice</title> series.</p>
+
+<p>In 1997 Doubleday published George Plimpton's
+book Truman Capote. Plimpton, in focusing
+on Capote through the eyes of those
+who knew him prior to his death in 1984, explored
+the author's motives in creating what
+he claimed was a new genre, the "nonfiction
+novel." The Modern Library in 1999 ranked In
+Cold Blood 96th among its top 100 nonfiction
+books.</p>
+
+<closer>
+<signed>Guy Louis Rocha<lb/>
+Nevada State Library and Archives</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Algeo, Ann M. <title level="m">The Courtroom as Forum: Homicide Trials by Dreiser, Wright, Capote and Mailer</title>. New York: P. Lang,
+1996.</bibl> <bibl>Capote, Truman. <title level="m">In Cold Blood: A True Account of a Multiple Murder and Its Consequences</title>. New York: Random
+House, 1965.</bibl> <bibl>Plimpton, George. <title level="m">Truman Capote: In Which Various Friends, Enemies, Acquaintances, and Detractors Recall His Turbulent Career</title>. New York: Nan A.
+Talese/Doubleday, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.edu.001 SYSTEM "egp.edu.001.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Education</title>
+<title level="m" type="sub"></title>
+<author>Kathleen Underwood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Underwood, Kathleen">Kathleen Underwood</author>. <title level="a">"Education."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">193-198</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EDUCATION</head>
+
+<p>Education has always been part of human life
+in the Great Plains, a means of passing on
+necessary skills, values, and history. While today
+we tend to think of education in formal
+terms that include institutions and administrative
+structures, Native peoples had wellestablished
+means of transferring knowledge
+between generations long before Europeans
+arrived. For pioneers, education in the form of
+schooling was fundamental to the "civilization"
+they carried with them. Schools were
+among the first institutions established, and as
+society matured, so did the levels of education.
+Within a decade of initial settlement and often
+much earlier, states and provinces in the Great
+Plains had institutions of higher education.
+Throughout the region today, an energetic system
+of education exists. Virtually all children
+attend elementary schools, most graduate
+from high school, and many have attained
+at least some postsecondary schooling.</p>
+
+<p>This level of education has not been easily
+secured. The story of education in the Great
+Plains has been one of reform and resistance
+over the past two centuries.</p>
+
+<p>The earliest European and American educators
+in the Plains were missionaries who
+were motivated to bring Christianity to Native
+peoples through education. Later reformers
+determined that schooling would not only
+be the best way to separate Indians from
+their traditional cultures, thereby assimilating
+them, but it would also instruct African
+Americans and immigrants about their place
+in society. Reformers also sought ways to
+improve education: they legislated compulsory
+education and longer school terms and
+pushed for vocational training, adult education,
+and, in rural areas, agricultural education
+and eventually school consolidation. In
+an attempt to improve the quality of education,
+reformers also promoted formal teacher
+training. Many reforms met resistance from
+the outset as parents challenged the implementation
+of schooling as well as attempts
+to alter it. Sometimes, they simply refused
+to participate; at other times, they used the
+courts to contest school practices.</p>
+
+<div2>
+<head type="sub">Schooling Indians</head>
+
+<figure n="egp.edu.089">
+<figDesc>Indian parents waiting for children who will be going home for summer vacation, Birtle Residential School, Manitoba, 1904</figDesc>
+</figure>
+
+<p>The first attempts at formalizing education in
+the Great Plains involved the long tradition of
+ministry to Native peoples. Much of the story
+of "educating the Indians" centered on replacing
+long-standing customs with indoctrination.
+Missionaries accompanied the fur trade
+in Canada's earliest years, and the tie there
+between religion and Indian education was
+strong until the 1970s. Similarly, in the United
+States missionaries were present at the earliest
+stages of exploration and settlement. When
+the United States forcibly removed Native
+Americans from the eastern woodlands to the
+Southern and Central Great Plains, missionaries
+followed them. By the 1830s missionaries
+were present in many parts of the region. In
+both countries the federal government relied
+on various religious organizations to help administer
+Indian policy, particularly education.</p>
+
+<p>Strategies for Indian education have followed
+a common pattern throughout the
+Great Plains: initial contact with Native peoples
+and attempts to bring them to Christianity
+and European-derived values; day schools on
+reservations; boarding schools that took children
+from their families, first on the reservation
+and then off; integrating Indian children
+into public schools; and, most recently, admitting
+tribal influence back into education.</p>
+
+<p>By the mid.nineteenth century, provisions
+for education had become commonplace
+in treaties negotiated between Indians
+and whites. Tribal peoples sought skills to help
+them deal with a rapidly changing world, and,
+for different motives, politicians, missionaries,
+and humanitarians believed education
+would ease that transition. At first, missionaries
+established day schools near villages
+where children could attend and still reside at
+home. Day schools were strongly preferred by
+parents, so much so that when negotiations
+were under way in a series of treaties between
+Canadian and First Nations leaders in the
+years following Confederation, local education
+was a consistent demand. Such schools
+were also cheap to administer, and missionaries
+and government officials hoped that
+the children would take their newfound ideas
+back to their families and thus accelerate assimilation
+for everyone. These hopes were not
+fulfilled; far from assimilating their parents,
+children often held tenaciously to traditional
+values. Neither bureaucrats nor missionaries
+ever understood that Indian parents wanted
+whatever advantages education might bring
+but steadfastly rejected the underlying principles
+of assimilation that went hand in hand
+with schools.</p>
+
+<p>By the 1870s boarding schools had become a
+cornerstone of Indian education in both Canada
+and the United States. At first, educators
+built boarding schools near the reserves or
+reservations. When close proximity to tribal
+and family influences proved too strong, perpetuating
+old ways, missionaries and government
+officials decided that total separation
+was necessary. The thinking was that only by
+disconnecting children physically as well as
+culturally from their families would they learn
+the educational and economic skills necessary
+for assimilation into society. Although the tactics
+they used proved execrable, educators'
+primary concern was how to prepare Indian
+children for the world they would face as
+adults, a world that could not rely on the buffalo
+hunt.</p>
+
+<p>The first and probably best known off-
+reservation boarding school in the United
+States was Carlisle Indian Industrial School,
+located in rural Pennsylvania, far from the
+homes of Great Plains children who were sent
+there. Carlisle opened in 1879, and over the
+next two decades an additional twenty-five
+off-reservation boarding schools, all located
+in the West, were established. Almost a third
+were in the Great Plains: Chilocco, Indian Territory
+(1884); Genoa, Nebraska (1884); Lawrence,
+Kansas (1884); and Pierre (1891), Flandreau
+(1893), Chamberlain (1898), and Rapid
+City (1898), South Dakota. In 1883 the Canadian
+Parliament approved funding for three
+off-reservation schools dedicated to industrial
+education, all in what was then the Northwest
+Territory: Battleford and Lebret, Saskatchewan,
+and Dunbow, Alberta. Other industrial
+schools were subsequently established at Elkhorn,
+Manitoba (1888), and at Red Deer
+(1893) and Regina (1895), Saskatchewan. These
+schools initially provided agricultural skills to
+boys; later, girls also attended and were taught
+mainly domestic skills.</p>
+
+<p>The children found much to dislike about
+attending boarding schools. Often their hair
+(their specific identity) was cut, and they were
+obliged to wear uniforms. They were also
+forced to abandon their Native languages.
+They were lonely and found life at the residential
+schools harsh. Not only was the labor
+physically hard, but it was also designed to
+train them in tasks and gender roles that paralleled
+white society and contradicted their
+own. Punishments for even minor infractions
+were severe. Scores of children ran away, and
+many died, particularly from contagious diseases,
+which spread rapidly in the crowded
+conditions.</p>
+
+<p>Indian parents were ambivalent about
+boarding schools. Over time, many had come
+to believe that their children needed to learn
+nontraditional skills to survive in their changing
+world. Tribal leaders sometimes actively
+sought schooling with great hopes that it
+would help preserve tribal autonomy. At the
+same time, they detested teaching methods
+that relied on punishment and coercion, and
+they missed their children during the long absences.
+Many resisted sending their children to
+school even though their refusal led to punishments
+such as having their annuities withheld.</p>
+
+<p>By the late 1890s, however, there was growing
+concern about residential schools. Humanitarians
+and policy makers, both outside
+and inside the government in Canada and in
+the United States, voiced opinions that policies
+aimed at educating Native peoples were dismal
+failures, particularly at boarding schools. Although
+it would take several years before they
+were closed, the period between 1900 and
+1920 marked a shift in policy away from off-
+reservation schools.</p>
+
+<p>The first four decades of the twentieth century
+were turbulent times for Indian education.
+Growing criticism since the turn of
+the century, combined with constant financial
+woes, brought a major reorganization of Indian
+schooling in Canada in 1910. Industrial
+education lost its privileged status and after
+that date received no extra funding. In the
+United States more and more Indian children
+attended public schools, for which school districts
+received per capita payments. Criticism
+also led to the closing of the Carlisle Indian
+Industrial School in 1918. Continuing financial
+problems during World War I, the 1920s,
+and the Great Depression resulted in greatly
+reduced funding for Indian education. Nevertheless,
+the proportion of Indian children
+in school increased during this period. Taken
+together, Canadian day and boarding schools
+were, by 1910, providing education to about
+half (54.4 percent) of the 20,000 school-age
+Indian children, although in the northern districts
+attendance was erratic because many
+Natives there continued to follow a huntingand-
+gathering lifestyle. In the United States in
+1913 about 75 percent of the 65,000 school-age
+Indian children attended. By 1927 Canadian
+enrollment proportions equaled those of the
+United States. Nonetheless, the goal of that
+education, assimilation, was not achieved.</p>
+
+<p>A number of reports, both private and
+government-sponsored, concluded that even
+after several years at school, few Native Americans
+had achieved the necessary skills to succeed
+in the larger society. At the same time,
+throughout the Great Plains, additional criticisms
+were leveled at federal policies regarding
+education. One criticism pointed to the unhealthy
+conditions at the schools, which resulted
+in much illness and death. Dr. P. H.
+Bryce, a medical examiner for Canadian Indian
+Affairs, concluded a study in 1904 of the
+devastating health conditions in residential
+schools. None of his recommendations were
+implemented.</p>
+
+<p>A second and new criticism was directed at
+the central objective of the education programs:
+destruction of Indian culture. In the
+United States this criticism culminated in the
+report entitled <hi rend="italic">The Problem of Indian Administration</hi>
+(known as the Meriam Report after
+its chief investigator, Dr. Lewis Meriam), published
+in 1928, which provided, among other
+topics, a detailed description of life for Native
+American children in boarding schools. The
+Meriam Report also influenced the appointment
+of John Collier as commissioner of Indian
+Affairs in 1933, a post he held for the next
+dozen years. Under his direction, federal Indian
+policy radically changed, particularly in
+education. He instituted instruction in Native
+American languages and required teachers to
+develop curricula about Indian culture. He
+also closed boarding schools in favor of day
+schools.</p>
+
+<p>Between World War II and the emergence
+of Native American and First Nations activism
+in the 1960s, both countries tried to find ways
+to reshape policy regarding education. In the
+United States a new policy, aptly named "termination,"
+sought to end federal responsibility
+and jurisdiction over many tribal nations.
+Families were encouraged to leave reservations
+and relocate in cities, where, theoretically,
+they would become part of mainstream
+society. The results were disastrous. Unwelcome
+in urban schools, Native Americans
+came to be the most poorly educated people
+in the United States by the 1950s.</p>
+
+<p>In Canada too First Nations children academically
+lagged behind their contemporaries
+in public schools. The Canadian government,
+in cooperation with provincial education authorities,
+radically changed its policy. Indian
+students would attend provincial elementary
+and high schools. Mainstreaming the
+students would take them away from the
+poorly staffed, inadequately equipped, heavily
+church-oriented day schools and thereby
+speed up assimilation. In many ways, the attempt
+to mainstream these children was quite
+similar to the rejected boarding schools. They
+faced long bus rides or, once again, living away
+from their families. This shift in policy proved
+no more successful than had previous plans in
+terms of academic achievement or assimilation.
+Indian students enrolled in large numbers,
+but few completed high school, and even
+fewer matriculated.</p>
+
+<p>The social activism of the 1960s led Indians
+in both Canada and the United States to demand
+control of their own education programs.
+In specific legislation passed in the
+United States in the 1960s and 1970s, especially
+the Bilingual Education Act of 1968,
+the Indian Self-Determination and Education
+Assistance Act of 1975, and the Education
+Amendments Act of 1972, Indian parents
+gained control over the money spent for
+schools and for the first time in many generations
+could help determine the education of
+their children. At the same time, education in
+Canada became more Indian centered. The
+Department of Indian Affairs and Northern
+Development adopted a policy on education
+that shifted much responsibility to local communities
+and demanded new curricula, instruction
+in Native languages, and a focus on
+Native culture.</p>
+
+<p>The same activism that led First Nations
+peoples to demand control over elementary
+and secondary education made them seek access
+to and representation in higher education,
+both in Canada and the United States.
+Programs in "Native studies" or "Native
+American studies" were developed in colleges
+throughout the Great Plains in the 1970s. Not
+content with representation in the curriculum,
+Native Americans also successfully demanded
+that programs be developed for them
+as well as about them. At the University of
+Regina, for example, the Indian Cultural College
+receives federal funding. In the United
+States, federal legislation such as Title III of
+the Elementary and Secondary Education Act
+of 1965, the Indian Education Act of 1972, and
+the Indian Self-Determination and Education
+Assistance Act of 1975 support institutions
+for Native students. Thus by the 1980s education
+for Indian children throughout the Great
+Plains was more clearly grounded in tribal society
+than at any time since 1850.</p>
+</div2>
+
+<div2>
+<head type="sub">The Development of Public Schools</head>
+
+<p>With European, American, and Canadian settlement
+of the Great Plains came school systems
+that replicated seasoned educational
+models in the East. In copying existing modes
+of education, Great Plains settlers maintained
+a link to the places they had left. They also
+shared the belief that schools would moderate
+the instability associated with migration to
+the frontier. Schooling was to provide children
+with an understanding of reading, writing,
+and arithmetic as well as a patriotic sense
+of their country's history. Students were also
+expected to grasp the virtues of the work ethic
+and Christian values as a route to success.
+While settlers in both countries borrowed
+heavily from existing school practice, there
+were also differences. In the United States central
+issues included the philosophy of education
+and who had access to schooling; in Canada
+a major concern was the role religion and
+language played in public education.</p>
+
+<p>By the 1860s, when pioneers began to settle
+the Great Plains, the United States had established
+a school system that drew funding from
+property taxes to provide free education to
+all children through eight grades. That model
+would eventually extend through high school.
+Even access to higher education was relatively
+inexpensive in the Great Plains. In the belief
+that an educated public was necessary to uphold
+democracy, public lands were set aside to
+support education. Pioneers were quick to set
+up schools, and western legislatures just as
+quickly established the framework to guide
+and fund the schools. In most U.S. territories,
+public schooling of some sort was available
+within the first year of settlement. The territory
+of Nebraska, for example, was opened to
+settlement in 1854, and the territorial legislature
+approved a school system the following
+year. Many school systems, however, existed
+only on paper because land sales and tax funds
+often could not support a school. In such
+cases, private schools, both religious and secular,
+or subscription schools (schools organized
+by individual communities) often met
+the needs of students.</p>
+
+<p>Over the long term, as territories became
+more densely populated, formal public education
+spread. Then, with statehood, legislatures
+once again mimicked eastern structures, establishing
+departments of public instruction
+and creating hierarchies to direct education.
+At the top was the state superintendent of
+public instruction, followed by county superintendents
+who were responsible for administering
+several local schools, which in turn
+had boards of education. Even with formal
+structures in place, public education frequently
+was sketchy, especially for rural children,
+who seldom had a school close by. Even
+in 1918 many rural schools on the Northern
+Great Plains had no wells or indoor plumbing.
+Such schools were generally one-room shacks,
+sometimes with a basement that served as
+poor accommodation for a lonely teacher.</p>
+
+<p>Manitoba had established schools in 1819
+along the Red River settlement, and the
+Church of England and the Hudson's Bay
+Company established the first school in Saskatchewan
+in 1840. However, the commitment
+to public education was not initially as deeply
+entrenched in the Prairie Provinces as in the
+United States. Until the 1840s, when Egerton
+Ryerson, superintendent of education for
+Canada West, initiated a reform of education
+in the new province of Ontario, schooling
+in the Canadian colony copied the British
+model, which provided schooling based primarily
+on social class. Ryerson borrowed ideas
+from European and American educators to
+design a centralized system of education that
+used property taxes to provide free schooling.
+His innovations were not enthusiastically received,
+but he steadfastly worked to bring various
+schools under control. Beginning in 1841
+with the Common School Act, Ryerson tried
+to initiate a uniform school system based on
+the sale of public lands with local or municipal
+councils serving as boards of education.
+Subsequent school acts in 1846 and 1850 were
+aimed at school administration and how to
+fund education so that all children could attend.
+Ryerson's structure was embodied in
+the British North America Act in 1867 and was
+in place as the territories in the West were
+first settled and later sought admission to the
+Dominion.</p>
+
+<p>Language and religion also distinguish the
+schools set up in Canada from those in the
+United States. In the Canadian West both
+Catholics (mainly French speaking) and Protestants
+(mainly English speaking) have had an
+active voice in staffing classrooms and determining
+curriculum; in the United States, by
+contrast, such decisions had long rested in
+civil hands. Recognizing the importance of
+private religious schools that were already in
+place, the Manitoba Act ensured that minority
+rights were retained. The implementation of
+this system was left to the new legislatures, and
+it took different forms in each of the Prairie
+Provinces. In 1871 the Manitoba legislature
+created a provincial board of education to direct
+schools and oversee funding. At the local
+level, various denominations managed their
+respective schools, and appointed officials
+oversaw the public schools. This dual school
+system also existed in the Northwest Territory,
+which in 1905 was split into Saskatchewan and
+Alberta. These two provinces also inherited
+already-functioning school systems and, like
+Manitoba, created centralized departments of
+education, with a minister at the top and locally
+elected boards of trustees in the various
+communities that were responsible for operating
+the schools. Over time, however, language
+became a more important issue than
+religion as new immigrants from central Europe
+added to the population mix. In Saskatchewan
+a provincewide dual system persisted,
+with each system receiving tax support,
+while Alberta adopted a system based on central
+administration that permits local options
+for separate schools.</p>
+
+<p>Educators' strong beliefs in the power of
+schooling to transform cultural norms and to
+bring about social change is evident in a series
+of reforms in the late nineteenth and early
+twentieth centuries. None of these reforms
+was initiated in the Great Plains; rather, educators
+there were influenced by the larger
+forces for change in that period.</p>
+
+<p>Forming a national identity and inculcating
+in future citizens the responsibilities that accompany
+that citizenship have long formed a
+cornerstone of educational reform. Such beliefs
+underlay the origins of public schools in
+the United States, and patriotic themes had
+been central in the curriculum there since the
+1840s. Concerns about patriotism and about
+national identity were heightened by the massive
+immigration from eastern and southern
+Europe after 1900. Canadians also utilized
+schools to encourage nationalism, but until
+after World War I, that nation was part
+of the British Empire. Only in the 1920s did
+educators develop a curriculum that focused
+more closely on Canadian history, replacing
+stories of English patriotism with Canadian
+examples.</p>
+
+<p>In addition to designing a curriculum that
+encouraged nationalism, school reformers
+were determined that students would be in
+school and for longer periods of time. School
+superintendents at all levels throughout the
+Great Plains successfully pushed for laws
+that required attendance and lengthened the
+school year. By 1920 all states and provinces in
+the Great Plains had compulsory education
+laws, but even then, in many cases, that law
+required attendance for only three months
+each year. In towns, where the population was
+larger and children had fewer work responsibilities,
+school terms were much longer, often
+eight or nine months.</p>
+
+<p>Concerned about the quality of education
+in rural areas, where attendance was erratic
+and staffing a constant concern, reformers began
+to push for consolidation based on the
+argument that the districts could not afford
+to maintain distant schools with comparable
+curriculum. Annual reports written by
+state superintendents of public instruction
+throughout the Great Plains sung the praises
+of school consolidation. Such praise fell on
+the deaf ears of parents and their elected legislators,
+who ignored or rejected this reform
+well into the twentieth century. World War II,
+however, hastened the consolidation of rural
+schools and the standardization of the length
+of the school term for all students&#8211;roughly
+nine months long.</p>
+
+<p>High school education also came quickly to
+the towns and cities of the Great Plains, encouraged
+by the influx of new settlers in the
+early twentieth century and by changes in the
+role of the high school in education. In the
+mid-nineteenth century high schools were
+viewed as a course of study only for those students
+who were college bound, but over time
+they came to be seen as the logical completion
+of public schooling instead of simply a prep
+school for college. As a result, the curriculum
+changed radically. Rather than courses solely
+in the liberal arts and sciences, high schools
+began to offer classes in vocational and business
+education. Students could graduate ready
+to enter the workforce. Some historians have
+argued that this development was closely tied
+to the needs of industry and that immigrant
+children in particular were tracked away from
+college and into vocational, technical, or commercial
+education. Whether these charges are
+valid for the Great Plains is difficult to discern.</p>
+
+<p>What is clear is that students and their parents
+valued a high school education. Since the
+1940s the demand for high schools to provide
+rural students the same multipurpose education
+that their contemporaries in towns and
+cities receive has led to regional high schools
+that enroll students from several rural districts.
+By the end of World War II most young
+people in the Great Plains received at least
+some secondary education. This, of course,
+often involved long-distance transportation to
+schools, frequently as far as fifty miles each
+way every day in sparsely populated areas such
+as the Nebraska Sandhills or eastern Montana.
+Many rural children boarded in towns in order
+to complete the program. This was still the
+case in 1981 in Jordan, the county seat of Garfield
+County, eastern Montana, where a dormitory
+was attached to the only high school
+serving this vast space.</p>
+
+<p>Teacher preparation was a central aim of
+the first high schools, especially in the stages
+of rapid immigration in the late nineteenth
+and early twentieth centuries. School administrators
+throughout the region lamented
+the shortage of trained teachers. High schools
+seemed to provide an obvious solution. There,
+as they completed their own public schooling,
+young people, primarily young women,
+could also pick up pedagogical skills to enter
+elementary classrooms. Hundreds of young
+women in the Great Plains taught during a
+summer term in a rural school and worked
+on their own diplomas during the regular
+term. Many high schools also provided specific
+courses in teacher training, particularly
+in Canada, where normal schools as separate
+institutions were less common than in the
+United States.</p>
+
+<p>In addition to teacher training, many high
+schools provided instruction in other vocations.
+Schools that emphasized business or
+commercial education prepared graduates for
+various aspects of office work; others focused
+on technical skills to train students for industrial
+work. In 1910, for example, Winnipeg had
+a composite high school that offered commercial
+and technical programs in addition to academic
+courses. The Technical Education Act
+of 1919 gave federal money to provinces that
+provided such training.</p>
+
+<p>As important as teacher training, agricultural
+education was also offered in high
+schools throughout the region. The Agricultural
+Instruction Act of 1913 provided federal
+funding to Canadian provinces to encourage
+high schools that taught agricultural science
+and farm mechanics. In 1917 the United States
+followed suit with the Smith-Hughes Act.</p>
+</div2>
+
+<div2>
+<head type="sub">Colleges and Universities</head>
+
+<p>Just as Plains settlers were quick to establish
+public schools, they also wanted institutions
+of higher education. Most states provided for
+state universities in their constitutions; some
+even planned such institutions during the territorial
+period. Dreams about higher education
+were fostered by federal support. Recognizing
+the importance of higher education,
+the federal government set aside two townships
+(sections 16 and 36) as an endowment
+for a university when a state was admitted to
+the Union. As with public education, the state
+could use whatever funds the land generated
+to support higher education. In some states,
+like Wyoming, the land set aside was rich in
+minerals and has provided substantial funds
+to the state university. Most other states were
+not so fortunate. The Morrill Act of 1862 provided
+additional lands (30,000 acres for each
+representative and senator for each state)
+to support higher education, specifically in
+agriculture and mechanical arts. The timing
+of this legislation was fortuitous for the
+Great Plains, and states such as Kansas, Colorado,
+Texas, and Oklahoma developed strong
+"<hi rend="smallcaps">A&amp;M</hi>" programs. In the Dakotas, Montana,
+and Wyoming, these two provisions were supplemented
+by the Land Act of 1881, which held
+back land from sale during the territorial days
+so that states would have access to it after
+statehood. As a result, all Great Plains states
+were able to develop public systems of higher
+education.</p>
+
+<p>Like elementary education, funding for
+higher education was seldom su.cient, and
+for many years these universities existed only
+on paper. Nevertheless, as population increased
+and parents and students came to demand
+higher education, the necessary public
+structures were put in place. In addition to
+these public institutions, dozens of privately
+endowed colleges and universities dot the
+American Great Plains. North Dakota, for example,
+has ten accredited institutions of higher
+education: one is private, three are church supported,
+and the remainder are state schools. Of
+the twenty-three accredited schools in Kansas,
+two thirds (sixteen) are religious.</p>
+
+<p>One group that benefited from early planning
+for higher education in the United States
+was women. Because the legislation establishing
+land-grant institutions did not prohibit
+women's matriculation, when these schools
+did open, women took advantage of the opportunity
+and enrolled in large numbers. In
+the first years more women than men attended.
+While these legal provisions were not
+unique to the Great Plains, women there were
+among the first to profit from the broadened
+access to education.</p>
+
+<p>Ideological differences about who should
+obtain a college education also influenced
+higher education in Canada, where matriculation
+has been more difficult. Nevertheless,
+all three Prairie Provinces established universities
+shortly after admission to the Dominion
+and have received federal funding. Moreover,
+agricultural education at the university level,
+while primarily a responsibility of the province
+rather than the federal government, has
+been a central component of postsecondary
+schooling. Agricultural education in Manitoba,
+for example, is centered at the Manitoba
+Agricultural College, established in 1906 and
+since 1924 a part of the University of Manitoba.
+In Saskatchewan and Alberta agricultural
+studies have been part of the provincial
+universities from the beginning. Like American
+land-grant universities, the University
+of Saskatchewan was located where land was
+readily available for farming, animal science,
+and experimental agriculture and today retains
+its reputation as an "ag school." As part
+of the Agricultural Schools Act, Alberta also
+opened agricultural schools at Vermilion and
+Olds in 1913.</p>
+
+<p>Proportionally fewer students attended the
+Prairie Province universities than those on the
+American Plains until the 1950s, when increasing
+urbanization, industrialization, and
+expanded communication demanded a more
+highly trained workforce. These economic demands,
+combined with a shift in consciousness
+that more students should have the opportunity
+for higher education, resulted in the
+creation of more colleges and universities in
+the Prairie Provinces.</p>
+</div2>
+
+<div2>
+<head type="sub">Vocational Education</head>
+
+<p>Despite the courses historically offered to high
+school students to prepare them for the workforce,
+many were unable to find jobs. Some
+students dropped out before completing the
+high school program, but others who did earn
+their diplomas found that a gap existed between
+the training they received and the skills
+required on the job. To meet the needs of both
+workers and employers, vocational and technical
+training has been available since the late
+nineteenth century in Canada and the United
+States. Initially, this training was a responsibility
+of the provinces or states. As early as 1911
+Saskatchewan passed legislation authorizing a
+course in manual training. About a decade
+later, the federal government also became involved.
+The Technical Education Act (1919)
+provided shared funding for provinces that
+established technical schools.</p>
+
+<p>Responsive to the need for an adequately
+trained workforce, federal governments in
+Canada and the United States have continued
+to provide funds to build schools that are
+strictly vocational, especially during World
+War II and the postwar years. Canada's Vocational
+Training Co-ordination Act of 1942
+provided a strong impetus to the provinces to
+establish facilities for postsecondary vocational
+training. The act offered federal funds
+to help such programs, and the Prairie Provinces
+quickly took advantage of it and set up
+vocational schools in several communities, especially
+to meet the needs of returning veterans.
+In 1948, for example, the Manitoba Technical
+Institute opened at Winnipeg. Other
+federally funded schools were established in
+Brandon and The Pas. Continued enrollment,
+coupled with demands for a broader curriculum,
+had by the late 1960s modified the original
+mission of these schools from strictly vocational
+training to include some liberal arts
+courses. Saskatchewan also took advantage
+of the Vocational Training Co-ordination Act
+and set up vocational training at Moose Jaw,
+Prince Albert, Saskatoon, and Regina. Following
+Manitoba's pattern, the school at Prince
+Albert added liberal arts courses and evolved
+into a community college.</p>
+</div2>
+
+<div2>
+<head type="sub">Agricultural Extension and Education</head>
+
+<p>In keeping with the spirit of agricultural education,
+reformers sought the means to transfer
+academic research to the men and women on
+farms. Funded by both federal and state or
+provincial governments, these programs provide
+a variety of services, including personal
+contacts as well as demonstrations and lectures.
+Specialists were trained to address issues
+of importance to rural families, including diverse
+topics such as pesticides and hybrid corn
+as well as sanitary measures for food preservation
+and better-laying chickens. The Hatch
+Act of 1887 funded agricultural experiment
+stations that would demonstrate new techniques
+and crops in the United States. Since
+then, government support for agricultural education
+has generally increased. A formal division
+of the Department of Agriculture, the
+Cooperative Extension System, was created in
+1914 (the Smith-Lever Act). The same legislation
+transferred federal money to the states to
+organize agricultural clubs for girls and boys,
+which, in the 1920s, became known as 4-h
+Clubs. Agricultural clubs for Canadian youth
+started at the same time and in the early 1930s
+organized nationally as the Canadian Council
+on Boys' and Girls' Clubs.</p>
+</div2>
+
+<div2>
+<head type="sub">Teacher Training and Professionalism</head>
+
+<p>Reformers have always looked to teachers as
+the main purveyors of educational norms, and
+for more than a century they have been concerned
+about how to provide an adequately
+prepared teaching force. State and provincial
+legislatures began to demand that teachers receive
+some sort of formal instruction and
+pass tests aimed at ensuring a qualified teaching force. In the United States teachers were
+trained in departments of education at state
+universities. More important in sta.ng classrooms,
+however, were the normal schools established
+throughout the Great Plains in the
+last decades of the nineteenth century. Massive
+immigration from border states and provinces
+and from Europe mandated more teachers, especially
+for the elementary grades. The first
+was Kansas State Normal School, which initially
+enrolled students in 1865, followed by
+Nebraska State Normal School at Peru in 1867.
+Other states in the region did not establish
+schools for another twenty years. One of these,
+Colorado State Normal School at Greeley,
+which opened in 1891, became known for its
+innovative methods and stood out in the first
+quarter of the twentieth century as one of
+the leading teachers colleges in the nation. In
+western Canada, teacher training was often offered
+as part of the high school curriculum,
+but there too separate schools prepared teachers
+to meet increasing standards. Saskatchewan
+created normal schools when it became a
+province in 1905.</p>
+
+<p>At the same time that school reformers
+tried to improve the teaching force, teachers
+formed professional organizations to further
+their own interests. They too were interested
+in curricular change and compulsory education.
+The Alberta Teachers' Association was
+particularly active in politics in the 1920s and
+1930s. A number of the association's members
+were elected to positions of power, and
+they were able to change both the structure
+of and curriculum in public schools. Perhaps
+more important, they were able to make clear
+that the association represented the teachers.
+Teachers associations were never as politically
+strong in the United States, but, like their
+counterparts in Canada, they fought for tenure,
+retirement, hospitalization, and fair pay.</p>
+</div2>
+
+<div2>
+<head type="sub">Resistance</head>
+
+<p>Not everyone agreed with the developments
+in education. There have been resistance and
+challenge from the earliest days, and they continue
+to the present. A central issue is minority
+school rights.</p>
+
+<p>The first resistance came from Native peoples
+who rightly saw the imposed education
+systems as direct attacks on their ways of life.
+Immigrants also resisted the forces of assimilation.
+While settlers willingly migrated into
+the Great Plains, many insisted on retaining
+their own cultures, especially their language
+and religion. Because of the religious pluralism
+in the United States, religion was rarely
+the crucial issue for immigrants. Moreover,
+until recently it has always been clear that English
+would be the sole language. The main
+exception is Spanish, which in the Texas, New
+Mexico, and Colorado Plains is in widespread
+use. Attempts to preserve bilingualism, which
+emerged in the 1960s and 1970s, have been
+hampered by contemporary nativism, which
+calls for "English only."</p>
+
+<p>In contrast, issues of religion and language
+in the Prairie Provinces have been contested
+since settlement. The best-known conflict is
+the "Manitoba schools question." Reflecting
+the ethnic mix of the population as well as
+tradition, the federal legislation that separated
+Manitoba from the other western territories
+protected the educational rights of Protestants
+and Roman Catholics when schools were first
+established but did not make provisions about
+language. Respective boards of education administered
+each set of schools and received
+tax support, but in 1889 the more populous
+Anglo-Protestant residents determined to
+abolish tax support of Roman Catholic and
+French-language schools. French Catholics
+naturally objected that their constitutional
+rights were being abridged. After years of litigation,
+a compromise in 1897 resolved that
+Catholic teachers would be hired if there were
+sufficient students to teach. Moreover, if ten
+or more students in a school spoke another
+language, instruction might be in that language.
+Because of the massive immigration to
+Manitoba between 1890 and 1910, this compromise
+led to linguistic disarray. By then instruction
+was being held not only in English
+and French but also in German, Ukrainian,
+Polish, Icelandic, and Scandinavian languages.
+Several factors encouraged the provincial government
+in 1916 to repeal the bilingual section
+of the school law.</p>
+
+<p>Minority school rights in the United States
+have been most successfully won through the
+courts. Access to equal education has been a
+central issue for African Americans since Reconstruction.
+Jim Crow legislation by 1900
+had firmly established the concept of "separate
+but equal" education in Great Plains
+states and elsewhere. In Oklahoma segregated
+schools were written into the first state constitution
+in 1907. Since the 1930s civil rights organizations,
+particularly the National Association
+for the Advancement of Colored People
+(<hi rend="smallcaps">NAACP</hi>), have filed lawsuits under the equal
+protection clause of the Fourteenth Amendment.
+Many of these cases had their origins in
+the Great Plains. The first focused on access
+to postgraduate programs where none existed
+or where those that did could not offer equal
+facilities like libraries. In <hi rend="italic">Sweatt v. Painter</hi>
+(1950), the Supreme Court ruled that African
+Americans must be admitted to the University
+of Texas law school; in <hi rend="italic">McLaurin v. Oklahoma
+State Regents</hi> (1950) the Court determined
+that African Americans must be admitted to
+graduate school. The most far-reaching of the
+naacp cases was <hi rend="italic">Brown v. The Board of Education
+of Topeka</hi> (1954), which overturned the
+separate but equal concept and concluded that
+race could not be used to determine which
+schools students would attend. Equal access
+has not translated into equal education, however,
+especially in regard to funding. In many
+Plains states where a proportion of the financing
+for public education rests on property
+taxes, great disparities exist between rich
+and poor districts.</p>
+
+<p>Contemporary concerns about minority
+rights focus on the curriculum, both in content
+(especially evolution versus creation) and
+pedagogy (whole language versus phonics and
+spelling skills). Neither issue is new. Concerns
+about content reach back decades, as do arguments
+about how students should learn. What
+is new is the increasing number of families
+who homeschool their children.</p>
+</div2>
+
+<div2>
+<head type="sub">Conclusion</head>
+
+<p>To a large extent, the school systems that
+emerged in the Great Plains mirrored those in
+eastern Canada and the United States. But to
+conclude that education in the Great Plains
+simply replicated earlier models ignores the
+unique and sometimes controversial issues
+that shaped education there. One contentious
+issue involved schooling for the Aboriginal
+population. The large Indigenous population,
+there either by long custom or by removal,
+could not be ignored. The Great Plains provided
+a crucible for working through conflicting
+ideologies about the role and scope
+of education for Native Americans and First
+Peoples. Today, after many failures, that education
+rests once more in the hands of the
+various tribes.</p>
+
+<p>Other issues that have played out in the
+Great Plains focus on the rights of minorities
+to education. In Canada that issue has centered
+on language and religion; in the United States,
+on the access of African Americans first to
+graduate training and later to public schools.
+Finally, the access of American women to
+higher education at state-supported institutions,
+which took place first in the Great Plains,
+distinguishes the region. Many recent pressures
+have also been important in shaping education:
+more ardent demands by minorities for
+civil rights and, especially on the American
+Plains, the increasing role of the courts in education.
+Today education and schools continue
+to confront the same issues of two centuries
+ago: what is the purpose of education, and who
+controls it?</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: 
+<ref n="egp.ag.005">Agricultural Extension Service</ref> / <hi rend="smallcaps">GENDER</hi>: 
+<ref n="egp.gen.020">Hooker, Evelyn</ref> / 
+<hi rend="smallcaps">HISPANIC AMERICANS</hi>: <hi rend="italic"><ref n="egp.ha.013">Escuela Tlatelolco</ref></hi> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.011"><hi rend="italic">Brown v. The Board of Education of Topeka</hi></ref>;
+<ref n="egp.law.032"><hi rend="italic">Meyer v. Nebraska</hi></ref>; <ref n="egp.law.037">North Dakota Anti-Garb Law</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.008">Assimilation Policy</ref>.</p>
+
+</div2>
+
+<closer>
+<signed>Kathleen Underwood<lb/>
+University of Texas at Arlington</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Adams, David Wallace. <hi rend="italic">Education for Extinction: American
+Indians and the Boarding School Experience, 1875–1928</hi>.
+Lawrence: University Press of Kansas, 1995.</bibl> <bibl>Axelrod, Paul.
+<hi rend="italic">The Promise of Schooling: Education in Canada, 1800–1914</hi>.
+Toronto: University of Toronto Press, 1997.</bibl> <bibl>Barman, Jean,
+Yvonne Herbert, and Don McCaskill, eds. <hi rend="italic">Before Canada:
+Toward an Ethnohistory of Indian Education</hi>. Vancouver:
+University of British Columbia Press, 1986.</bibl> <bibl>Bruno-Jofre,
+Rosa del C. <hi rend="italic">Issues in the History of Education in Manitoba:
+From the Construction of the Common Schools to the Politics
+of Voices</hi>. Lewiston <hi rend="smallcaps">NY</hi>: Mellon, 1993.</bibl> <bibl>Burchart, Ronald
+E. "Education and Culture in the Trans-Mississippi
+West: An Interpretation." <hi rend="italic">Journal of American Culture</hi> 3
+(1980): 351–73.</bibl> <bibl>Campbell, John Martin. <hi rend="italic">The Prairie Schoolhouse</hi>.
+Albuquerque: University of New Mexico Press,
+1996.</bibl> <bibl>Friesen, Gerald. <hi rend="italic">The Canadian Prairies: A History</hi>.
+Toronto: University of Toronto Press, 1984.</bibl> <bibl>Gaskell, Jane
+S., and Arlene Tigar McLaren, eds. <hi rend="italic">Women and Education:
+A Canadian Perspective</hi>. Calgary: Detselig Enterprises,
+1987.</bibl> <bibl>Gulliford, Andrew. <hi rend="italic">America's Country Schools</hi>. Washington
+<hi rend="smallcaps">DC</hi>: Preservation Press, 1984.</bibl> <bibl>Jones, David C.,
+Nancy M. Sheeban, and Robert M. Stamp, eds. <hi rend="italic">Shaping
+the Schools of the Canadian West</hi>. Calgary: Detselig Enterprises, 1979.</bibl> <bibl>Miller, J. R. <hi rend="italic">Shingwauk's Vision: A History of
+Native Residential Schools</hi>. Toronto: University of Toronto
+Press, 1996.</bibl> <bibl>Sheehan, Nancy M., J. David Wilson, and
+David C. Jones, eds. <hi rend="italic">Schools in the West: Essays in Canadian
+Educational History</hi>. Calgary: Detselig Enterprises,
+1986.</bibl> <bibl>Titley, E. Brian, and Peter J. Miller, eds. <hi rend="italic">Education in
+Canada: An Interpretation</hi>. Calgary: Detselig Enterprises,
+1982.</bibl> <bibl>West, Elliott. <hi rend="italic">Growing up with the Country: Childhood
+on the Far Western Frontier</hi>. Albuquerque: University
+of New Mexico Press, 1989.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

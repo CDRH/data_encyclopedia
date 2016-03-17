@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McGuire, Dorothy (1918-2001)</title>
+<title level="m" type="sub"></title>
+<author>Samuel J. Umland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Umland, Samuel J.">Samuel J. Umland</author>. <title level="a">"McGuire, Dorothy (1918-2001)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">273</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCGUIRE, DOROTHY (1918-2001)</head>
+<figure n="egp.fil.045" rend="granted">
+<figDesc>Dorothy McGuire in a scene from "Gentleman's Agreement" (1947)</figDesc>
+</figure>     
+
+<p>Dorothy McGuire was born June 14, 1918, in
+Omaha, Nebraska, where she grew up. Her
+acting debut at age thirteen was on the stage of
+the Omaha Community Playhouse, where she
+appeared opposite Henry Fonda in <title>A Kiss for Cinderella</title>. Like Fonda, also a native Nebraskan,
+Dorothy McGuire had a warm, engaging
+personality, an honest, homespun sincerity
+that was to characterize the roles she played
+during her highly successful career.</p>
+
+<p>She went to New York, first to work in radio
+and then on Broadway, getting her start as the
+understudy to Martha Scott in Thornton Wilder's
+<title>Our Town</title> in 1938. She then toured with
+John Barrymore in <title>My Dear Children</title> and in
+1940 was the understudy to Julie Haydon in
+<title>The Time of Your Life</title>. She was chosen by playwright
+Rose Franken to star in the Broadway
+comedy <title>Claudia</title> (1941) and in 1943 played the
+role, opposite Robert Young, in David O. Selznick's
+successful film version. She and Young
+appeared in the sequel, Claudia and David, in
+1946, by which time she had also appeared in
+Elia Kazan's <title>A Tree Grows in Brooklyn</title> (1945)
+and <title>The Spiral Staircase</title> (1946), a thriller
+in which she played a mute servant. She was
+nominated for but did not win an Academy
+Award for best actress for her performance in
+<title>Gentleman's Agreement</title> (1947), a film about
+anti-Semitism. In 1947 she also founded the La
+Jolla Playhouse with Gregory Peck and Mel
+Ferrer.</p>
+
+<p>She continued to appear in prestigious films
+&#8211;the romantic comedy <title>Three Coins in the Fountain</title> (1954) and a drama about Quaker
+pacifism, <title>Friendly Persuasion</title> (1956)&#8211;while
+her versatility as an actress continued to garner
+praise. Her appeal lay in the way she gave unglamorous,
+common, hardworking women a
+beauty and integrity that came from inside,
+from the spirit. She starred in two classic films
+by Walt Disney for precisely these reasons: <title>Old Yeller</title> (1957) and <title>Swiss Family Robinson</title> (1960)
+were both about the value of family and the
+difficulties of adolescence. Perhaps because her
+personal life remained intensely private, her
+screen persona dominated; she eventually
+played the Virgin Mary in George Stevens's <title>The Greatest Story Ever Told</title> (1965), after which she
+made fewer and fewer feature film appearances.</p>
+
+<p>In 1976, after an absence of many years, she
+starred in a revival of Tennessee Williams's
+<title>The Night of the Iguana</title> on Broadway and also
+began acting in made-for-television features.
+All her appearances thereafter were in television,
+the medium in which she continued to
+work until the late 1980s, when she was in her
+seventies. Her talent and professionalism
+placed her in the upper echelon of the best
+Hollywood film actresses of the century. She
+died from heart failure in Santa Monica, California,
+on September 13, 2001.</p>
+
+<closer>
+<signed>Samuel J. Umland<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Chaneles, Sol, and Albert Wolsky, eds. <title level="m">The Movie Makers</title>.
+Secaucus <hi rend="smallcaps">NJ</hi>: Derbibooks, 1974.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.010 SYSTEM "egp.fil.010.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Chaney, Lon (1883-1930)</title>
+<title level="m" type="sub"></title>
+<author>Jon C. Mirsalis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mirsalis, Jon C.">Jon C. Mirsalis</author>. <title level="a">"Chaney, Lon (1883-1930)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">261</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHANEY, LON (1883-1930)</head>
+
+<figure n="egp.fil.010" rend="granted">
+<figDesc>Lon Chaney</figDesc>
+</figure>
+
+<p>Famous star of silent motion pictures, Lon
+(Leonidas) Chaney was dubbed "The Man of
+a Thousand Faces" for his elaborate makeups.
+He was born to deaf-mute parents in Colorado
+Springs on April 1, 1883. His acting career
+began in 1902 with comic operas for the Colorado
+Springs Opera House. After touring with
+several musical comedy troupes, he joined
+Fischer's Follies of Los Angeles in 1912. Chaney
+began to do bit parts for the Universal Film
+Manufacturing Company in 1912, and he used
+novel makeups in films as early as <title>The Sea Urchin</title> (1913), in which he played a hunchback.
+His breakthrough role was as a con man
+pretending to be crippled in <title>The Miracle Man</title>
+(1919).</p>
+
+<p>In 1923 Chaney starred in <title>The Hunchback of Notre Dame</title>, and his incredible makeup and
+performance as Quasimodo vaulted him to
+fame. He achieved superstardom in <title>The Phantom of the Opera</title> (1925), arguably the most
+famous of all silent films. The remainder of his
+career included many macabre roles at mgm,
+often teamed with director Tod Browning, including
+<title>The Unholy Three</title> (1925), <title>The Unknown</title> (1925), <title>London after Midnight</title> (1927), and <title>West of Zanzibar</title> (1928). Some of his best performances, however, came in his nonmakeup roles: as a tough drill sergeant in <title>Tell It to the Marines</title> (1927) and as a detective in <title>While the City Sleeps</title> (1928). Chaney appeared in only one sound film, a remake of <title>The Unholy Three</title> (1930), before dying of lung cancer
+on August 26, 1930. He appeared in approximately
+160 films. His only child, Creighton,
+appeared in numerous horror films, billed as
+Lon Chaney Jr.</p>
+
+<closer>
+<signed>Jon C. Mirsalis<lb/>
+Emerald Hills, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blake, Michael F. <title level="m">Lon Chaney: The Man behind the Thousand Faces</title>. New York: Vestal Press, 1990.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

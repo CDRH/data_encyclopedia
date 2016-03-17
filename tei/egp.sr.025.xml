@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gymnastics</title>
+<title level="m" type="sub"></title>
+<author>Richard V. McGehee</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McGehee, Richard V.">Richard V. McGehee</author>. <title level="a">"Gymnastics."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">775</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GYMNASTICS</head>
+
+<p>Although gymnastics has had its greatest development
+in the Midwest, Northeast, and Pacific
+region of the United States, universities,
+high schools, and clubs in the Great Plains,
+especially in Nebraska and Oklahoma, are
+known for their gymnastics traditions and
+successes. Men's teams at the Universities of
+Nebraska and Oklahoma have been among
+the finest in the nation. Under coach Francis
+Allen, Nebraska won eight men's National
+Collegiate Athletic Association (<hi rend="smallcaps">NCAA</hi>) championships
+between 1979 and 1994. After 1964
+Nebraska won thirteen Big 8 Conference titles.
+Nebraska gymnasts such as James Hartung
+have stood out at the highest levels of competition.
+The University of Oklahoma has won
+three men's <hi rend="smallcaps">NCAA</hi> championships and seven
+Big 8 titles. Oklahoma's best-known gymnast
+is Bart Conner, a 1984 Olympic gold medal
+winner. Oklahoma women won the Big 8 title
+five times and placed second in the 1997 Big 12
+championships; Nebraska women won the
+1997 Big 12 event.</p>
+
+<p>Other colleges such as the University of
+Denver, the United States Air Force Academy,
+the University of North Dakota, Texas Tech,
+Hardin-Simmons, and Odessa College have
+sponsored varsity or club gymnastics. The
+U.S. Olympic Committee maintains a training
+center in Colorado Springs, Colorado. The
+Maverick Boys Club and Nard's Trampoline
+Club in Amarillo, Texas, were among the earliest
+gymnastics clubs in the region, and the
+Sokol (ethnic Czechoslovakian) Clubs of
+Omaha, Nebraska, and Fort Worth, Texas,
+have long gymnastics traditions. The most accomplished
+gymnastics Olympian of the region
+is Shannon Miller of the Dynamo Gymnastics
+Club in Edmond, Oklahoma, who won
+seven medals in the 1992 and 1996 games.</p>
+
+<closer>
+<signed>Richard V. McGehee<lb/>
+University of Texas at Austin</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

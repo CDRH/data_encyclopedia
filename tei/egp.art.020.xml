@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Evans, Terry (b. 1944)</title>
+<title level="m" type="sub"></title>
+<author>Martha H. Kennedy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kennedy, Martha H.">Martha H. Kennedy</author>. <title level="a">"Evans, Terry (b. 1944)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">116</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EVANS, TERRY (b. 1944)</head>
+
+<p>Terry H. Evans has been photographing the
+landscape and people of the Plains for much
+of her adult life. She lived in Salina, Kansas,
+for twenty-six years before moving to Chicago,
+where she currently resides. Best known
+for her photographs of the prairie in both its
+pristine and its altered states, she continues to
+develop, expanding the geographic and aesthetic
+parameters of her art.</p>
+
+<p>Evans was born on August 30, 1944, in
+Kansas City, Missouri. From the age of four
+she loved to draw and paint, and she was encouraged
+in these interests by her parents,
+Norman and Dale Holt, who had a photography
+studio in Kansas City for many years.
+Evans completed a bachelor of fine arts degree
+in drawing and painting at the University of
+Kansas, Lawrence, but not until her last semester
+in college did she begin to take photographs.
+At that time she had the rare opportunity
+to photograph presidential candidate
+Robert F. Kennedy during his 1968 visit to
+the campus. From this experience Evans perceived
+the extraordinary access that photography
+gives viewers to special situations. She
+never had a formal course in photography and
+cites her father as her main teacher. The work
+of Charles Harbutt and James Enyeart was
+also influential.</p>
+
+<p>In her first decade as a photographer, Evans
+concentrated on exploring the life conditions
+of poor people, farm people, her own family,
+and the inhabitants of her hometown in Kansas.
+In the years since, her work has been
+shaped mainly by the landscape of the Plains,
+an environment characterized by unexpected
+beauty and shaped by often overwhelming
+natural forces and human activity. In building
+her understanding of this complex environment,
+Evans has employed varied approaches
+that range from close-ups of diverse prairie
+plant and animal life, including root systems
+of grasses, to vistas framed at ground level, to
+stunning aerial views.</p>
+
+<p>Within Evans's aerial photographs, which
+capture current conditions of the Plains landscape,
+the viewer can also catch sight of historic
+alterations of the land. These include
+paths worn by animal movements, indentations
+made by long-abandoned dwellings,
+patterns wrought by agriculture and military
+shooting ranges, and many more irregular
+forms and lines made by forces of nature. The
+conjunctions of such telling details in her
+aerial views highlight relationships between
+the past and present and between nature and
+humans, sometimes resulting in striking abstract
+designs. Believing that a single image
+can never su.ce to represent her subject,
+Evans makes images of forms and visual
+rhythms that stretch to the edges of and sometimes
+beyond the frame in both her aerial and
+other scenes. For example, <title>Chase County, South of Matfield Green</title>, Kansas, 1993, presents
+a panoramic view of a prairie landscape in
+three images that are not strictly continuous
+yet appear harmoniously connected: late afternoon
+sunlight burnishes stands of Indian
+grass in the foreground; across all three panels
+autumnal light throws the land behind the
+grasses into a deep horizontal shadow; the
+same light also illuminates the gentle golden
+rise of land in the far distance; contrasting
+bands of shadow and light unify the three
+panels and reinforce the horizontal character
+of the grassland, which is bereft of human
+presence and nearly reduced to essentials that
+verge on the abstract. Evans takes care, however,
+to include details such as the slightly
+mounded landforms in the background of the
+frame on the far right, details tied inextricably
+to the land's subtle beauty.</p>
+
+<p>Evans's photography has been exhibited
+widely. Recently, the Smithsonian's Museum
+of Natural History organized In <title>Place of Prairie</title>,
+a nationally touring solo exhibition of her
+work. Her books are <title level="m">Prairie: Images of Land and Sky</title> (1986), <title level="m">Disarming the Prairie</title> (1998),
+and <title level="m">The Inhabited Prairie</title> (1998). Her works
+are held in, among others, the National Museum
+of American Art, Washington <hi rend="smallcaps">DC</hi>; the
+Museum of Modern Art, New York; the Baltimore
+Museum of Art; the Chicago Art Institute;
+the San Francisco Museum of Art; the
+Sheldon Memorial Art Gallery, University of
+Nebraska–Lincoln; and the Spencer Museum
+of Art, University of Kansas at Lawrence. She
+received a John Simon Guggenheim Memorial
+Fellowship in 1996. Recently, Evans has been
+making a photographic study of Matfield
+Green and is completing an aerial survey
+of the prairie from Canada to Texas. Evans
+distinguishes herself as a photographer by
+the sheer volume of outstanding images she
+has made that collectively embrace a photographic
+vision of Plains landscape that is extraordinarily
+and appropriately broad.</p>
+
+<closer>
+<signed>Martha H. Kennedy<lb/>
+Library of Congress</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Turner, and Elaine Partnow, eds. <title level="m">Macmillan Biographical Encyclopedia of Photographic Artists and Innovators</title>.
+New York: Macmillan Publishing Company, 1983.</bibl>
+<bibl>Kinsey, Joni L. <title level="m">Plain Pictures: Images of the American Prairie</title>.
+Washington <hi rend="smallcaps">DC</hi>: Published for the University of Iowa
+Museum of Art by the Smithsonian Institution Press,
+1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

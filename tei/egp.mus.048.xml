@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.mus.048 SYSTEM "egp.mus.048.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Vee, Bobby (b. 1943)</title>
+<title level="m" type="sub"></title>
+<author>John Arthur Linquist</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lindquist, John Arthur">John Arthur Lindquist</author>. <title level="a">"Vee, Bobby (b. 1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">549</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<figure n="egp.mus.048" rend="granted">
+<figDesc>Bobby Vee</figDesc>
+</figure>
+
+<div1>
+<head type="main">VEE, BOBBY (b. 1943)</head>
+
+<p>Born Robert Thomas Velline on April 30, 1943,
+in Fargo, North Dakota, Bobby Vee became
+one of the more enduring popular musicians
+of the mid– to late twentieth century. After
+gaining entrance into his older brother's
+combo because he knew the lyrics to the popular
+songs of the day, Vee got his first major
+exposure on the night of February 3, 1959, in
+Moorhead, Minnesota, as one of the acts filling
+in for Buddy Holly, Richie Valens, and the
+Big Bopper, J. P. Richardson, who had died
+that morning in a plane crash near Clear Lake,
+Iowa. The success throughout the Northern
+Plains and upper Midwest of his self-penned
+and Holly-inspired "Susie Baby" led to his
+signing with Los Angeles–based Liberty Records
+in the fall of 1959. He achieved international
+fame singing about the joys and angst of
+teenage life and young adulthood on "Devil or
+Angel," "Rubber Ball," "Take Good Care of My
+Baby" (which stayed at number one on the
+<title>Billboard</title> charts for three weeks in September
+1961), "Run to Him," "The Night Has a Thousand
+Eyes," "Come Back When You Grow Up,"
+and dozens of other songs released on singles
+and albums throughout the 1960s. In 1967 Vee
+starred in the movie <title>C'mon, Let's Live a Little</title>,
+in which he portrayed a rural folksinger adjusting
+to college life.</p>
+
+<p>Vee still plays to sold-out audiences throughout
+Europe and North America. His high energy,
+positively oriented stage show includes
+his three sons, who also perform independently
+as a rockabilly act called the Vees. At his
+studio located near St. Cloud, Minnesota, Vee
+continues to record and release songs, old and
+new, on his Rockhouse label, including novel
+arrangements and compositions that reveal a
+diverse and occasionally avant-garde musical
+intellect.</p>
+
+<closer>
+<signed>John Arthur Lindquist<lb/>
+University of Wisconsin-Madison</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nite, Norm N. <title level="m">Rock On: The Illustrated Encyclopedia of Rock N' Roll</title>. New York: Thomas Y. Crowell Company,
+1974.</bibl> <bibl>Rees, Dafydd, and Luke Crampton. <title level="m"><hi rend="smallcaps">DK</hi> Encyclopedia
+of Rock Stars</title>. New York: <hi rend="smallcaps">DK</hi> Publishing, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

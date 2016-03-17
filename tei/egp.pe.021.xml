@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Coyotes</title>
+<title level="m" type="sub"></title>
+<author>Phillip Drennon Thomas</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thomas, Phillip Drennon">Phillip Drennon Thomas</author>. <title level="a">"Coyotes."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">625</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COYOTES</head>
+<figure n="egp.pe.021" rend="granted">
+<figDesc>"Coyote at Ridgefield National Wildlife Refuge, 2008" by Rebecca Richardson</figDesc>
+</figure>
+
+<p>The most opportunistic of all North American
+predators, the coyote (<hi rend="italic">Canis laterans</hi>) was familiar
+to Native Americans, early travelers, and
+settlers in the Great Plains. Their characteristic
+yip and resonant howling earned them the title
+"song dog of the prairie." Figuring prominently
+in the religious traditions of the Plains
+Indians, the coyotes of the Great Plains were
+observed by Lewis and Clark, who termed
+them the "prairie wolf." Thomas Say of the
+Stephen Long expedition in 1823 provided
+more specific information on this ubiquitous
+western animal and gave it its scientific name.</p>
+
+<p>Smaller in size than its relative the wolf,
+coyotes usually weigh between eighteen and
+thirty pounds, are born in litters of five to
+seven pups, and live up to eighteen years. They
+are remarkably adaptable animals that can live
+in almost any environment. As native fauna
+was reduced through settlement and as domesticated
+animals were raised in the Great
+Plains, the omnivorous coyote began to prey
+upon the chickens, pigs, cattle, and sheep of
+the emerging farms and ranches. Coyote predation
+became a problem for European American
+settlers, and the resources of local, state,
+and federal government were called upon to
+address this problem. In the latter half of the
+nineteenth century, state bounties were placed
+on coyotes. Trappers hunted, poisoned, and
+trapped them, but there was only limited success
+in reducing their numbers. Coyotes remain
+as one of the most persistent and distinctive
+members of the fauna of the Great
+Plains.</p>
+
+<closer>
+<signed>Phillip Drennon Thomas<lb/>
+Wichita State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Leydet, Fran&#231;ois. <title level="m">The Coyote: Defiant Songdog of the West</title>.
+Norman: University of Oklahoma Press, 1977.</bibl> <bibl>Van Wormer,
+Joe. <title level="m">The World of the Coyote</title>. Philadelphia: J. B. Lippincott
+Company, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

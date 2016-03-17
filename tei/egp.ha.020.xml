@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispanic Population Geography</title>
+<title level="m" type="sub"></title>
+<author>Terrence W. Haverluk</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Haverluk, Terrence W.">Terrence W. Haverluk</author>. <title level="a">"Hispanic Population Geography."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">359</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HISPANIC POPULATION GEOGRAPHY</head>
+
+<p>Spanish was the first European language spoken
+in the Great Plains. In 1540 Francisco V&#225;squez
+de Coronado and 1,800 adventurers departed
+from Tiguex, Nuevo Mexico, in search
+of the fabled Seven Cities of Cíbola. Coronado
+then traversed the Texas and Oklahoma Panhandles,
+the Arkansas River, and much of central
+Kansas looking for Quivira, another fabled
+realm of gold. Coronado returned emptyhanded,
+but the Spanish legacy is evident in
+Texas place-names such as Llano Estacado,
+Tierra Blanca, and Palo Duro.</p>
+
+<p>Permanent European settlement of the
+grasslands began over 300 years later in New
+Mexico and Colorado. Hispano homesteaders
+&#8211;descendants of Spaniards who settled New
+Mexico in 1598&#8211;migrated from the New Mexican
+mountains to the High Plains east of Las
+Vegas, New Mexico, as early as 1823. However,
+widespread settlement of the Great Plains did
+not occur until after 1848 when the United
+States annexed northern Mexico. After 1848
+Hispanos established several towns on the
+New Mexican High Plains, including San Miguel,
+Sabinoso, and Picacho, and several southern
+Colorado communities, including Trinidad,
+Trinchera, and La Plaza de los Leones
+(Walsenburg). By 1900 approximately 2,000
+Hispanos tended sheep and grew vegetables
+between the Arkansas and Hondo Rivers, an
+area that was part of the "Hispano homeland."</p>
+
+<p>Hispano migration away from the homeland
+began after 1900 when European American
+farmers began irrigating the valleys of the
+Arkansas and South and North Platte Rivers.
+European Americans planted sugar beets
+along the Platte and vegetables along the Arkansas.
+Increased agricultural production led
+to labor shortages, and many Hispanos migrated
+from the homeland to take advantage of
+the relatively high wages; some migrated as far
+north as the Red River Valley in North Dakota.
+Hispano barrios established in the 1920s are
+still visible around sugar beet factories from
+Loveland, Colorado, to Scottsbluff, Nebraska.</p>
+
+<p>European American farmers in Texas used
+water from the Ogallala Aquifer to irrigate
+thousands of dryland acres on the Llano Estacado
+and then recruited Tejano laborers
+from the Rio Grande Valley to work the farms.
+European Americans also financed railroads
+to connect Great Plains states, but much of the
+labor came from Mexico. By 1912 railroad
+companies were encouraging Mexican families
+to settle permanently on railroad property
+near the tracks. By 1930 Mexican railroad
+workers had established several barrios "on
+the other side of the tracks" in towns in Oklahoma,
+Kansas, Texas, and Nebraska. Between
+1900 and 1930 what we now call "Latinos"&#8211;
+Hispanos from New Mexico, Tejanos from
+South Texas, and Mexicans from Mexico&#8211;laid
+track and irrigation pipe and harvested crops
+from Wyoming to Texas. The Great Depression
+temporarily halted Latino migration to
+the Great Plains.</p>
+
+<p>World War II created labor shortages that
+led in 1942 to Public Law 45 that authorized
+Mexican workers, braceros, to enter the United
+States as contract workers. Such contracting
+continued through the 1940s and was formalized
+by Public Law 78 in 1951. The Bracero
+Program recruited Mexican laborers to work
+in the United States at a guaranteed wage and
+provided transportation, food, and housing.
+The Bracero Program institutionalized the
+Hispanization of certain sectors of the Great
+Plains economy, especially the Llano Estacado
+cotton farms. By 1950, 30,000 braceros and
+Tejanos migrated annually to the Llano Estacado
+to pick cotton and vegetables. Labor
+shortages continued after the war because
+many veterans took advantage of the so-called
+<hi rend="smallcaps">GI</hi> Bill to get an education and leave farmwork.</p>
+
+<p>Although the Bracero Program was abolished
+in 1964, Great Plains farmers still relied
+on Mexican labor. In 1965 the U.S. government
+amended its longstanding immigration
+quota policy in order to allow an increasing
+number of Mexican migrants into the country.
+After 1965 Hispanics began to diversify
+from agricultural and railroad work and were
+increasingly employed in factory jobs associated
+with agribusiness such as beef processing,
+well-drilling, and pipe-laying. Iowa Beef Processors
+(<hi rend="smallcaps">IBP</hi>) and Monfort (now Con-Agra),
+among others, needed to replace their diminishing
+European American workforce and increasingly
+hired Hispanic laborers in their
+plants in Omaha, Grand Island, Lexington,
+and North Platte, Nebraska; Garden City,
+Kansas; and Greeley, Colorado. <hi rend="smallcaps">IBP</hi>, for example,
+has worked with the Immigration and
+Naturalization Service (<hi rend="smallcaps">INS</hi>) to recruit workers
+from Mexico and has been discussing the
+creation of a new bracero-type program.</p>
+
+<p>Diversification of the Latino occupational
+structure has led to the urbanization of the
+Hispanic population. Today Latinos live primarily
+in Great Plains cities&#8211;Denver, Greeley,
+Pueblo, Lubbock, Amarillo, Midland-Odessa,
+Omaha, and Kansas City. In these cities,
+Latino-owned businesses have altered the
+Great Plains urban landscape, with Mexican
+restaurants, Latino music shops, tortilla factories,
+Spanish-language theaters and radio stations,
+and bilingual churches.</p>
+
+<p>Latinos are now an integral part of the labor
+force in several Great Plains economic sectors,
+and their cultural imprint is increasingly evident.
+Mexican restaurants, which not so long
+ago were considered exotic, are common even
+in small Plains towns. Around Lubbock, Texas,
+a "High Plains Mexican food" variant has
+emerged, and in the South Platte and Arkansas
+Valleys there is a thriving Hispano cuisine. An
+essential ingredient of Mexican food&#8211;chiles&#8211;
+are now planted extensively along the Arkansas
+River and handpicked by Mexican immigrants.
+Chile farms and chile harvest festivals
+around Pueblo, Colorado, are key components
+to the revitalization of that city. Politically,
+Latino participation is most apparent in
+the Texas High Plains and the Arkansas Valley,
+where Hispanics now constitute as much as 50
+percent of the population. Latino mayors,
+sheriffs, and business leaders are common
+in these regions. The economic boom of the
+1990s exacerbated Great Plains labor shortages,
+and a willing, mobile population of Mexicans
+with a history of migration to the Great
+Plains means that the sounds of Spanish will
+continue to be heard well into the foreseeable
+future.</p>
+
+<closer>
+<signed>Terrence W. Haverluk<lb/>
+United States Air Force Academy</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Haverluk, Terrence W. "The Changing Geography of U.S.
+Hispanics, 1850–1990." <title level="j">Journal of Geography</title> 96 (1997):
+134–45.</bibl> <bibl>Nostrand, Richard L. "The Century of Hispano
+Expansion." <title level="j">New Mexico Historical Review</title> 62 (1987): 361–
+86.</bibl> <bibl>Smith, Michael M. "Beyond the Borderlands: Mexican
+Labor and the Central Plains, 1900–1930." <title level="j">Great Plains Quarterly</title> 4 (1981): 219–51.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

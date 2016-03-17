@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Democratic Party</title>
+<title level="m" type="sub"></title>
+<author>J. Clark Archer</author>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Archer, J. Clark">J. Archer Clark</author> and <author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Democratic Party."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">659-660</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DEMOCRATIC PARTY</head>
+
+<p>The noted Oklahoma humorist Will Rogers
+once said, "I belong to no organized party; I'm a
+Democrat." Rogers's jest conveyed more than a
+grain of truth. American political parties are
+nonexclusive in the sense that there are no formal
+membership requirements other than selfdeclaration
+when registering to vote. American
+political parties are also quite loosely organized,
+with considerable variation in organizational
+structure and ideological stance from place to
+place. The most important roles of American
+political parties involve the recruitment and selection
+of candidates for offices at local, state,
+and national levels. But the importance of local
+interests and the fragmented nature of political
+power under the American federal system render
+unanimity on policy issues quite unlikely.</p>
+
+<p>The antecedents of the modern Democratic
+Party can be traced to the embryonic Democratic-
+Republican faction formed under the
+leadership of James Madison and Thomas
+Jefferson near the end of the eighteenth century.
+Democratic-Republican candidates were
+most successful in frontier settings away from
+the Tidewater commercial core of the young
+Republic. In 1800 Jefferson defeated Federalist
+incumbent John Adams. Shortly after winning
+the presidency, Jefferson put aside his own
+concerns about centralized authority to successfully
+negotiate the Louisiana Purchase of
+1803, which brought much of the territory of
+the Great Plains under American sovereignty.</p>
+
+<p>The Democratic Party is usually deemed to
+have been formed by supporters of Andrew
+Jackson who split away from the vanishing
+Democratic-Republican Party in 1828. The
+Democratic Party was the first to hold a national
+convention, to renominate Jackson for
+president in 1832. The Democratic National
+Committee was initially formed in 1848 to give
+the party continuity between quadrennial national
+nominating conventions. But whichever
+date of origin is selected&#8211;1800, 1828, 1832,
+or even 1848&#8211;the Democratic Party is generally
+recognized as the oldest political party still
+in existence in the entire world.</p>
+
+<p>From 1828 until 1856 the Jacksonian Democratic
+coalition of Southern white planters,
+Irish Catholic immigrant laborers, and western
+frontiersmen was often successful against
+the opposing Whig coalition of Yankee merchants,
+"native" English Protestants, and successful
+midwestern farmers. But Democrats
+divided sharply over slavery into northern
+and southern factions, losing the presidency
+to Republican Abraham Lincoln in 1860. The
+Republican Party became nationally dominant
+after the Civil War. The Democratic
+Party regained strength in the South after Reconstruction,
+and it also managed to attract
+considerable support among immigrants in
+northern cities. However, between 1860 and
+1928 Grover Cleveland and Woodrow Wilson
+were the only Democrats elected to the White
+House.</p>
+
+<p>The post–Civil War geography of party
+support in the Great Plains echoed that of the
+United States as a whole. Republicans dominated
+from Kansas northward, while Democrats
+won sweeping electoral victories as soon
+as federal troops were withdrawn after Reconstruction.
+For example, in the three U.S. Congresses
+between 1885 and 1890, every single
+one of the U.S. senators and all but one of
+the U.S. representatives from the Central and
+Northern Plains states of Colorado, Wyoming,
+Montana, Kansas, Nebraska, and North
+and South Dakota were Republicans; and
+every single one of the U.S. senators and representatives
+from Texas were Democrats. Oklahoma
+and New Mexico had not yet been
+admitted to the Union, but they too would
+become strongly Democratic after their admission
+in the early twentieth century.</p>
+
+<p>The end of the nineteenth century was an
+economically and politically tumultuous period
+in the Great Plains. Drought and low agricultural
+product prices pressured farmers to
+demand relief. Reform pledges by Greenback
+and Populist Party candidates began to draw
+farmers and townsfolk dependent upon farmers
+away from their traditional party loyalties.
+Populist or Populist-Democratic fusion candidates
+did well in the Central and Northern
+Plains, winning several U.S. House or U.S. Senate
+seats in Colorado, Kansas, Nebraska, North
+and South Dakota, Montana, and Wyoming in
+elections from 1890 to 1902. In Texas, where
+"Bourbon" Democrats dominated, white
+agrarian Populists joined with black Republicans
+to win fusion Populist-Republican seats
+in the U.S. House of Representatives in each
+election between 1896 and 1900.</p>
+
+<p>William Jennings Bryan was the most notable
+Plains Democrat of the period. Agrarian
+unrest swept Republicans from Nebraska's
+U.S. House delegation in the 1890 election,
+and Bryan was elected to the House of Representatives
+from Nebraska's First District. The
+"Boy Orator of the Platte" made his famous
+"Cross of Gold" speech to the Democratic National
+Convention in 1896 criticizing tight fiscal
+policies and calling for several reforms, in
+cluding greater regulation of railroads and imposition
+of an income tax in order to expand
+federal relief efforts. The speech convinced wavering
+delegates to nominate the "Great Commoner"
+for president. Bryan was also nominated
+for the presidency by the Populist Party
+and by the Silver Party in 1896. After a hard-fought
+campaign, Bryan lost to Republican
+William McKinley in the popular and the electoral
+votes. Bryan carried all the Great Plains
+states except North Dakota. Bryan was again
+nominated for president in 1900 and 1908, losing
+the rematch to McKinley in 1900 and to
+Republican William Howard Taft in 1908.</p>
+
+<p>The Populist alliance, involving struggling
+farmers in the South and West, blacks in the
+South, and recent immigrants in the northern
+industrial centers, sent shock waves through
+American politics. Newspapers in eastern financial
+centers were nearly unanimous in
+condemning Bryan's proposed Populist reforms,
+such as relaxing the gold standard, instituting
+an income tax, and providing for direct
+election of U.S. senators. Because of their
+own aversion to mobilizing immigrant workers
+and low-income farmers, northern Republican
+elites looked away while southern
+Democratic elites pushed enactment of "Jim
+Crow" laws to restrict voting by blacks and
+disadvantaged whites. Voter participation
+rates plummeted in several southern states
+from well over half of the potential electorate
+in 1896 to less than one-quarter in the early
+twentieth century. In Texas the total number
+of presidential votes cast plunged from more
+than 540,000 in 1896 to 231,000 in 1904.</p>
+
+<p>For much of the next century Republicans
+continued to dominate the Central and
+Northern Plains and Democrats the Southern
+Plains. However, the Populist influence, reflecting
+voter dissatisfaction with dominant
+eastern political and economic interests, affected
+voters in both parties throughout the
+region over much of the twentieth century.
+Populist-oriented Democrats have been elected
+to major offices across the Central and
+Northern Plains, and populist-oriented Republicans
+have won elections in the Southern
+Plains. Many of these persons played major
+roles in the political history of the twentieth-century
+United States.</p>
+
+<p>Although Democrats in the South are generally
+more conservative than those elsewhere,
+many southern Democrats elected from the
+Plains states have been noted for their populist
+and progressive ideas. Their progressive backgrounds
+and ideas have helped several achieve
+national prominence. The regularity with
+which Democratic incumbents were reelected
+in the Southern Great Plains states tended
+to bestow advantages under the congressional
+seniority system. Among those who served as
+speaker of the U.S. House of Representatives
+were Texans John Nance Garner (1931–33),
+Sam Rayburn (1940–47, 1949–53, and 1955–
+61), and James Wright (1987–89), as well as
+Oklahoman Carl Albert (1971–77). On the
+Senate side, Democratic majority leaders have
+included Lyndon Baines Johnson of Texas
+(1955–61) and Thomas A. Daschle of South
+Dakota (from 2001–3). Johnson was minority
+leader from 1953 to 1955, as was Daschle from
+1995 to 2001 and again in 2003. Two other
+prominent Plains Democrats in the House
+of Representatives were George Mahon of
+Lubbock, Texas, who served fifteen years as
+chair of the House Appropriations Committee
+(1964–1979), and Marvin Jones of
+Amarillo, who was chair of the House Agriculture
+Committee in the 1930s and early
+1940s and played a critical role in the enactment
+of New Deal farm legislation.</p>
+
+<p>National legislative leadership roles proved
+to be stepping-stones for two of the Texas
+Democrats, Garner and Johnson. Garner was
+elected twice as vice president (1933–41) under
+Franklin Delano Roosevelt. Johnson was
+elected vice president on the Democratic ticket
+with John F. Kennedy of Massachusetts in 1960.
+Johnson then succeeded to the presidency in
+1963 following Kennedy's assassination in Dallas
+and was elected to the presidency in his
+own right in 1964. Other nationally prominent
+Plains state Democrats include U.S. Sen.
+George McGovern (1963–81) of South Dakota,
+who ran unsuccessfully as Democratic nominee
+for president in 1972, and U.S. Sen. Robert
+Kerrey (1989–2001) of Nebraska, who contested
+for the Democratic presidential nomination
+in 1992 and 1996. Hubert Humphrey,
+who represented Minnesota but was born and
+raised in South Dakota, served as vice president
+under Johnson from 1965 to 1969 and ran
+unsuccessfully as the Democratic nominee for
+president in 1968.</p>
+
+<p>The long-term pattern of Democratic dominance
+in the Southern Plains and Republican
+dominance in the Central and Northern Plains
+was never complete, and it was less apparent at
+the end of the twentieth century than it had
+been at the beginning. When the partisan affiliations
+of state governors are examined, it
+is found that eighty Democrats, seventy-three
+Republicans, and three Independents or Populists
+served as governor of a Great Plains state
+between 1900 and 1949. However, there was a
+fairly sharp geographical division. Among the
+three Southern Plains states of Texas, Oklahoma,
+and New Mexico, the gubernatorial
+split was thirty-eight Democrats and four Republicans.
+Among seven Plains states to the
+north, the gubernatorial split from 1900 to
+1949 was forty-two Democrats, sixty-nine Republicans,
+and three Independents or Populists.
+This pattern changed dramatically in the
+last half of the twentieth century. Again examining
+the partisan affiliations of governors, it
+can be noted that all twenty Texas governors
+elected between 1898 and 1978 were Democrats.
+From 1978 to 2001, however, Texas had
+four Republican and three Democratic governors.
+For all ten Great Plains states from 1950 to
+2000, the gubernatorial partisan division was
+fifty-one Democrats and fifty-nine Republicans.
+Among the three Southern Plains states
+of Texas, Oklahoma, and New Mexico, the
+numbers were twenty-three Democrats and
+fourteen Republicans, while among the remaining
+seven northern Plains states the numbers
+were twenty-eight Democrats and fortyfive
+Republicans.</p>
+
+<p>Clearly, the partisanship changes were much
+more significant in the Southern Plains than in
+the Central and Northern Plains. Among the
+latter states, Democrats held 37 percent of all
+governorships from 1900 to 1949, compared
+with 38 percent of all governorships from 1950
+to 2000. Among Southern Plains states, however,
+the Democratic proportion of all governorships
+fell from 90 percent during 1900 to
+1949, to 62 percent during 1950 to 2000.</p>
+
+<p>Similar patterns can be found while looking
+at U.S. congressional delegations from the region.
+In 1900 the Central and Northern Plains
+states elected three Democrats, thirteen Republicans,
+and three Populists to the U.S.
+House of Representatives, compared with
+thirteen Democrats and no Republicans from
+Southern Plains states. In 1950 the Central and
+Northern Plains states elected three Democrats
+and eighteen Republicans to the U.S.
+House, while the Southern Plains states elected
+twenty-nine Democrats and two Republicans.
+In 2000 the Central and Northern Plains
+states sent three Democrats and thirteen Republicans
+to the U.S. House, while Southern
+Plains states elected nineteen Democratic and
+twenty Republican U.S. representatives. Between
+1950 and 2000 the Democratic share of
+the Southern Plains delegation in the U.S.
+House of Representatives fell from more than
+90 percent to less than half.</p>
+
+<p>These data illustrate that Democrats have
+been a minority party for most of the twentieth
+century in the Central and Northern
+Plains, although they have won a fair share
+of elections and produced a number of eminent
+national leaders. In the Southern Plains
+the Democrats have lost their once-dominant
+position, and today the Democrats are less
+successful in presidential, gubernatorial, and
+congressional elections in the region than was
+the case in the past.</p>
+
+<closer>
+<signed>J. Clark Archer<lb/>
+University of Nebraska-Lincoln<lb/>
+Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Goldinger, Carolyn, ed. <title level="m">Presidential Elections since 1789</title>.
+Washington <hi rend="smallcaps">DC</hi>: Congressional Quarterly, 1991.</bibl> <bibl>Martis,
+Kenneth C. <title level="m">The Historical Atlas of Political Parties in the
+United States Congress, 1789–1989</title>. New York: Macmillan
+Publishing Company, 1989.</bibl> <bibl>Wetterau, Bruce. <title level="m">Congressional
+Quarterly's Desk Reference on the States</title>. Washington
+<hi rend="smallcaps">DC</hi>: Congressional Quarterly, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Audubon, John James (1785-1851)</title>
+<title level="m" type="sub"></title>
+<author>Daniel J. Philippon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Philippon, Daniel J.">Daniel J. Philippon</author>. <title level="a">"Audubon, John James (1785-1851)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">619</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AUDUBON, JOHN JAMES (1785-1851)</head>
+<figure n="egp.pe.005" rend="granted" type="noclick">
+<figDesc>John James Audubon</figDesc>
+</figure>
+
+<p>John James Audubon, the artist and naturalist,
+was born at Les Cayes, Santo Domingue
+(now Haiti), on April 26, 1785, the illegitimate
+son of a French sea captain and a French
+chambermaid. Audubon moved to Philadelphia
+when he was eighteen to manage his father's
+property. There he first developed his
+interest in birds and his career as a naturalist
+began. To this expertise he added painting after
+1810, and by the 1830s he was recognized as
+the foremost American naturalist.</p>
+
+<p>His encounter with the Great Plains came
+relatively late in his life, when he was fiftyeight.
+In fact, it was his last expedition. In 1843,
+Audubon embarked on what he called his
+"Great Western Journey," traveling by steamboat
+up the Missouri River from St. Louis to
+Fort Union, near what is now the Montana–
+North Dakota border. He took the trip to fulfill
+a lifelong dream to see the Great Plains and
+also to collect specimens and gather information
+about the mammals of the American West
+for <title level="m">The Viviparous Quadrupeds of North America</title>
+(1845–54), which he was preparing with
+John Bachman. Traveling with Audubon were
+his friend Edward Harris, an ornithologist;
+John G. Bell, a taxidermist; Isaac Sprague, an
+artist; and Louis M. Squires, who served as
+Audubon's secretary.</p>
+
+<p>The party left St. Louis on April 25 aboard
+the <hi rend="italic">Omega</hi>, a small steamer belonging to the
+American Fur Company, on which they were
+joined by more than a hundred hunters and
+trappers, also bound for Fort Union, the company's
+principal trading post. Throughout the
+trip, Audubon and Harris both kept regular
+journals and wrote fact-filled letters, which
+collectively provide a detailed record of their
+observations and activities. (Audubon's journal,
+lost for more than fifty years, was discovered
+in 1896 by two of his granddaughters,
+one of whom published it the following year.)
+As the boat made its way upriver, stopping to
+visit settlements and cut wood for fuel, Audubon
+drew pictures of the landscape and
+sketched the rabbits, squirrels, woodchucks,
+and other small animals and birds his party
+collected on their occasional hunting trips.
+Audubon also expressed disappointment at
+the Native Americans he encountered along
+the way, believing they fell short of the romantic
+descriptions and idealized paintings offered
+by George Catlin. On June 13, after fifty days and
+1,400 miles, the <hi rend="italic">Omega</hi> finally reached Fort
+Union. It then returned downriver, leaving Audubon
+and the others to explore the area around
+the fort, where they remained throughout the
+summer.</p>
+
+<p>During that time, Audubon observed hunters
+and trappers at work; he made an overnight
+trip up the Yellowstone River; he collected
+specimens of wolves, elk, antelope, deer,
+and bighorn sheep; and he noted the "immense
+numbers" of buffalo, which he saw in
+their natural habitat for the first time. He also
+mourned the senseless destruction of the buffalo,
+though that did not prevent his party
+from hunting these animals at every opportunity.
+At the end of two months, on August
+16, the expedition left Fort Union on a fortyfoot
+mackinaw and returned to St. Louis. "I
+have no less than 14 New Species of Birds,
+perhaps a few more," Audubon wrote to Bachman
+upon his return. "The variety of Quadrupeds
+is small in the Country we visited, and
+I fear that I have not more than 3 or 4 New
+ones." But, he added, "I have brought home
+good Sketches of Scenery, Drawings of flowers,
+and also the heads of Antilopes, Big horns,
+Wolves and Buffaloes."</p>
+
+<p>Audubon's health began to fail in the mid-
+1840s, but with the help of his sons and Bachman,
+he completed <title level="m">Quadrupeds</title>. Audubon
+died in New York on January 27, 1851.</p>
+
+<closer>
+<signed>Daniel J. Philippon<lb/>
+University of Minnesota, Twin Cities</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Audubon, Maria R., ed. <title level="m">Audubon and His Journals</title>. New
+York: Scribner's, 1897.</bibl> <bibl>McDermott, John Francis, ed. <title level="m">Audubon
+in the West</title>. Norman: University of Oklahoma
+Press, 1965.</bibl> <bibl>McDermott, John Francis, ed. <title level="m">Up the Missouri
+with Audubon: The Journal of Edward Harris</title>. Norman:
+University of Oklahoma Press, 1951.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

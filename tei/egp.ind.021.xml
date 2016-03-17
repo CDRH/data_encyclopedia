@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Foreign Investment</title>
+<title level="m" type="sub"></title>
+<author>Roger Riefler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Riefler, Roger">Roger Riefler</author>. <title level="a">"Foreign Investment."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">418-419</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FOREIGN INVESTMENT</head>
+
+<p>Foreign investment has long been an economic
+force in the Great Plains of Canada and
+the United States. In the 1870s and early 1880s
+English and particularly Scottish syndicates
+invested heavily in Plains ranching, only to
+lose much of their money when the bottom
+dropped out of the business in 1885–86. At the
+same time, English investors were buying
+huge tracts of land from the railroads in Kansas
+and reselling them to settlers for large
+profits. North of the forty-ninth parallel, British
+investors were even more influential. British
+urban real estate firms controlled much of
+the early development of Regina, Saskatoon,
+Winnipeg, and other cities in the Prairie Provinces,
+and British capital also flowed into the
+wheat industry and railroad construction.</p>
+
+<p>In the 1990s in the United States as a whole,
+foreign investment averaged $33.3 billion a
+year. In Canada, during the same period, annual
+foreign investment averaged just over $6
+billion. In both countries, such investment is
+concentrated in coastal states or provinces. For
+example, two-thirds of U.K. investment in
+Canada (a source that is second only to the
+United States) goes to Ontario; Alberta, with 8
+percent of total U.K. investment, leads other
+Prairie Provinces. In 1995, in the ten states
+wholly or partly in the Great Plains of the
+United States, there were 509,700 jobs in foreign
+affiliates. These jobs accounted for only 4
+percent of total private industry employment
+in the region, and no state reached the 4.8
+percent national average of jobs in foreign affiliates,
+though Texas was close. Between 1990
+and 1995, however, states in the Great Plains
+saw a 6 percent increase in such employment,
+outpacing the 4 percent national average. Colorado
+led the way, with a 28 percent increase,
+rather evenly divided between foreign investment.
+generated employment in manufacturing
+and nonmanufacturing. Oklahoma experienced
+the greatest decrease in this time
+period (a 24 percent decline in this type of
+employment), probably reflecting problems in
+the volatile energy sector.</p>
+
+<p>There are also significant intraregional variations
+in sources of foreign investment. The
+United States is by far the leading source in the
+Prairie Provinces. During the 1990s, for example,
+many of the leading U.S. food-processing
+firms, including Archer Daniels Midland,
+Cargill, and ConAgra, Ltd., made significant
+investments in Alberta. South of the forty-ninth
+parallel, Canada is the main source of
+foreign investment in South Dakota, Montana,
+and Kansas. The United Kingdom is an
+important source throughout the Plains region,
+but especially in Wyoming. Japan is important
+too, but proportionately less so than
+for the United States as a whole. France and
+Germany, on the other hand, have a proportionately
+greater presence on the Plains than
+they do in the Untied States as a whole.</p>
+
+<p>Foreign investors are drawn to the Great
+Plains for a variety of economic and political
+reasons, including a desire to expand their foreign
+market share, minimize production and
+transportation costs, take advantage of the
+availability of skilled labor, and profit from
+state or province development incentives. The
+positive effects for the Plains include increased
+competitiveness in the regional economy, the
+accumulation of capital and expertise, and, of
+course, the provision of jobs. Possible negative
+impacts involve overcapacity, especially in
+mature industries, and unfair competition
+due to foreign subsidies and state and province
+development initiatives.</p>
+
+<closer>
+<signed>Roger Riefler<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fahim-Nader, Mahnaz, and William J. Zeile. "Foreign Direct
+Investment in the United States." <title level="j">Survey of Current Business</title> 77 (1977): 42–69.</bibl> <bibl>Paterson, Donald G. <title level="m">British Direct Investment in Canada, 1890–1914</title>. Toronto: University
+of Toronto Press, 1976.</bibl> <bibl>Wilkins, Mira. <title level="m">The History of Foreign Investment in the United States to 1914</title>. Cambridge:
+Harvard University Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

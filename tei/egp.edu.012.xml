@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.edu.012 SYSTEM "egp.edu.012.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Chautauqua</title>
+<title level="m" type="sub"></title>
+<author>Daniel Lewis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lewis, Daniel">Daniel Lewis</author>. <title level="a">"Chautauqua."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">200-201</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHAUTAUQUA</head>
+
+<figure n="egp.edu.012" rend="granted">
+<figDesc>Chautauqua tent, Kearney, Nebraska, ca. 1890</figDesc>
+</figure>
+
+<p>Beginning in the late nineteenth century,
+first communities and then touring companies
+presented a combination of public humanities
+and entertainment programs that
+were labeled Chautauquas. The term originates
+from the educational seminars held first
+in 1874 at a site near Chautauqua Lake in
+southwestern New York State.</p>
+
+<p>The Chautauquas that appeared in the
+Great Plains borrowed the name but drew
+greater inspiration from the public lyceums
+that had spread from New England through
+much of urban America before the Civil War.
+Chautauqua organizers hoped to bring education
+and intellectual stimulation to their
+communities. Scholars, actors, speakers, and
+exhibits dominated the typical program. The
+Chautauquans presented plays, reenacted historic
+speeches, and offered lectures on topics
+of general interest. They shared the stage with
+politicians as well, who used Chautauquas to
+reach a wider public.</p>
+
+<p>The first Chautauquas were held during the
+summer months in the Great Plains after 1880
+and came about through the work of local
+community leaders. Often, many of the first
+community organizers had become familiar
+with the Chautauqua Literary and Scientific
+Circle (<hi rend="smallcaps">CLSC</hi>). The <hi rend="smallcaps">CLSC</hi>, which began in 1878
+and had more than 2.5 million members by
+1900, was a study program designed to bring
+educational opportunities and enlightenment
+to individuals who lacked the chance to gain
+an education through traditional avenues. At
+first the community-based Chautauquas copied
+the New York Chautauqua Institute. A
+combination of professionals and locals provided
+the talent. Community leaders organized
+financial support. Larger communities
+that could afford to hire more recognized per
+formers and presenters such as Carry Nation
+and William Jennings Bryan attracted
+large crowds.</p>
+
+<p>Attempts were made by different Chautauqua
+groups across wider regions to coordinate
+their organization, fund-raiding, and
+scheduling of program content. Disagreements
+between local promoters undermined
+these efforts. Private companies that offered
+packaged programs appeared after 1900. These
+companies coordinated the performers and
+the themes and then booked their Chautauquas
+in strings of communities. The standard
+Redpath Chautauqua, developed by the Redpath
+Lyceum Bureau in 1904, was one of the
+first to tour parts of the Great Plains. By 1919
+community organizations typically relied on
+one or more circuit Chautauqua companies to
+provide programming.</p>
+
+<p>The circuit Chautauquas provided a wider
+variety of presentations. However, competition
+from motion pictures and radio reduced
+popular support for Chautauquas. Improved
+transportation, in particular, the spread of automobiles,
+made it easier for consumers to
+seek out entertainment rather than wait for it
+to appear as part of a touring program. While
+a collection of communities maintained their
+Chautauquas into the 1930s, the Great Depression
+undermined what financial and popular
+support remained.</p>
+
+<p>A modern revival of the Chautauqua form,
+with scholars representing historical characters,
+began in North Dakota in 1974. In this
+incarnation, Chautauquas serve as a public humanities
+program. A consortium of humanities
+councils sponsors a touring Chautauqua in
+the Great Plains each summer. The content
+and the characters presented, organized
+around a central theme, change each year.</p>
+
+<closer>
+<signed>Daniel Lewis<lb/>
+California State Polytechnic-Pomona</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Case, Victoria, and Robert Ormand Case. <hi rend="italic">We Called It
+Culture: The Story of Chautauqua</hi>. Garden City <hi rend="smallcaps">NY</hi>: Doubleday
+and Co., 1948.</bibl> <bibl>Harrison, Harry P., as told to Karl
+Detzer. <hi rend="italic">Culture under Canvas: The Story of Tent Chautauqua</hi>.
+New York: Hastings House Publishers, 1958.</bibl> <bibl>Tapia,
+John E. <hi rend="italic">Circuit Chautauqua: From Rural Education to Popular
+Entertainment in Early Twentieth Century America</hi>.
+Jefferson <hi rend="smallcaps">NC</hi>: McFarland and Co., 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Peattie, Elia (1862-1935)</title>
+<title level="m" type="sub"></title>
+<author>Susanne K. George</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="George, Susanne K.">Susanne K. George</author>. <title level="a">"Peattie, Elia (1862-1935)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">334</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PEATTIE, ELIA (1862-1935)</head>
+
+<p>Elia Wilkinson Peattie was born in Kalamazoo,
+Michigan, on January 15, 1862, and later
+moved to Chicago with her parents. In 1883
+she married Robert Peattie, a Chicago newspaperman.
+Later, she and her husband and
+children moved to Omaha, where from 1889
+to 1896 she was an editorial writer and columnist
+for the <title level="j">Omaha World-Herald</title>. While in
+Omaha, Peattie participated in politics, especially
+with William Jennings Bryan; hobnobbed
+with Willa Cather and Hamlin Garland,
+among other authors; helped organize
+Women's Clubs across the state; and actively
+supported hospitals for unwed mothers, orphanages,
+relief for the poor and homeless,
+and day-care centers for Nebraska women. As
+one of the first western women to write editorial
+columns that addressed public issues,
+her outspoken and often irreverent remarks
+show a side of the frontier often overlooked.
+Not all pioneer women lived in sod houses
+and spent their days gathering buffalo chips
+for cooking. Many western pioneers, like Peattie,
+lived in fledgling villages and booming
+cities, and their influence impacted the course
+of history, too.</p>
+
+<p>Upon her return to Chicago, Peattie became
+the literary critic for the <title level="j">Chicago Tribune</title>,
+a member of the exclusive literary club
+Fortnightly, and one of the leaders of Chicago
+Women's Clubs. She influenced the taste of a
+wide-reading public until realists such as Theodore
+Dreiser, whom she labeled a "literary
+tomcat," rebelled against the prevailing romantics
+and Victorian sentimentalists. Peattie
+died on July 12, 1935, while visiting her grandchildren
+in Wallingford, Vermont.</p>
+
+<p>Throughout her life, Peattie penned hundreds
+of stories, novels, children's books,
+poems, essays, and book reviews. Torn between
+the ideals of the self-sacrificing "True
+Woman" of Victorian society and the emerging,
+independent "New Woman" of the early
+twentieth century, Peattie's life is representative
+of the struggles of late-nineteenth-century
+women authors to balance the demands of the
+home with their careers as writers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.035"><title level="j">Omaha World-Herald</title></ref>.</p>
+
+
+<p><ref target="http://plainshumanities.unl.edu/peattie/">Elia Peattie: An Uncommon Writer, An Uncommon Woman</ref> website.</p>
+
+<closer>
+<signed>Susanne K. George<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Falcone, Joan. <title level="m">The Bonds of Sisterhood in Chicago Women Writers: The Voice of Elia Wilkinson Peattie</title>. Normal: Illinois
+State University Press, 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

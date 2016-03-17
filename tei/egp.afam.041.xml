@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.041 SYSTEM "egp.afam.041.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tulsa Race Riot</title>
+<title level="m" type="sub"></title>
+<author>Larry O'Dell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+ 
+<sourceDesc>
+<bibl><author n="O'Dell, Larry">Larry O'Dell</author>. <title level="a">"Tulsa Race Riot."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">22-23</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TULSA RACE RIOT</head>
+
+<figure n="egp.afam.041" rend="granted">
+<figDesc>Burned ruins after race riot in Tulsa, Oklahoma, June 1, 1921</figDesc>
+</figure>
+
+<p>On the night of May 31, 1921, in one of
+the worst episodes in Oklahoma and American history, Tulsa exploded in violence that
+scarred the city forever. Although many details
+of the riot are shrouded in controversy,
+what is known is that about thirty-five blocks
+in the African American district were destroyed
+and at least thirty-nine people&#8211;and
+probably considerably more&#8211;lost their lives.
+The white mob torched the influential black
+business district known as "Deep Greenwood,"
+and all African Americans who did not
+flee or get killed were arrested. It took the arrival
+of the National Guard and martial law to
+bring order to the violence-torn city.</p>
+
+<p>The Jim Crow climate in Oklahoma and in
+much of the nation at the time set the tone for
+Tulsa's riot. Oklahoma had its share of lynchings
+and racial violence prior to 1921 and after,
+and the Ku Klux Klan was just gaining a
+foothold in the young state. Tulsa's African
+Americans, many of them returning World
+War I veterans, had a new sense of pride (as
+well as training), and numerous organizations,
+including Cyril Brigg's national group,
+the African Blood Brotherhood, preached
+self-reliance and the need for community defense.
+The black press in Oklahoma, and especially
+A. J. Smitherman's <title level="j">Tulsa Star</title>, also advocated
+protecting family and community.
+Smitherman had witnessed other racial conflicts
+prior to Tulsa's catastrophe. In one case
+in Okmulgee, Oklahoma, he saw a white mob
+back down from a group of armed blacks who
+were protecting their houses. This lesson, and
+also the failure of Oklahoma City authorities
+to stop a lynching of an African American less
+than a year before, and the lynching of a white
+person who was pulled out of the Tulsa jail in
+1920, increased the determination of Tulsa's
+black leaders not to let an African American
+lynching occur in their city.</p>
+
+<p>On May 30, 1921, Dick Rowland, an African
+American shoe-shiner, went to the Drexel
+Building to use the restroom. The closest "colored"
+restroom was located on the top floor of
+the building. Speculation after the riot suggested
+that Rowland tripped as he entered the
+elevator and grabbed the arm of the elevator
+operator, Sarah Page, who then screamed.
+Whether this is actually what happened is
+not fully known. It has also been suggested
+they had an ongoing relationship. The next
+morning Tulsa police arrested Rowland for attempted
+rape. The Tulsa Tribune printed an
+article titled, "Nab Negro for Attacking Girl
+in Elevator," and may have included an even
+more incendiary article in the editorial section,
+but all known Tribune copies are missing
+this entry. These news stories aroused both
+sections of the town.</p>
+
+<p>A large group of whites surrounded the
+courthouse and jail on the night of May 31.
+Armed African Americans twice went to the
+courthouse offering to help protect Rowland.
+Their second appearance sparked mayhem as
+a shot scattered the crowd. Skirmishes between
+blacks and whites occurred from the
+courthouse back to the African American
+neighborhoods. Whites broke into stores to
+get arms and ammunition, and many were
+sworn in as special deputies. Sporadic fighting
+lasted through the night. In the middle of the
+night Tulsa officials sent a telegram to Oklahoma
+City requesting help from the National
+Guard.</p>
+
+<p>At dawn the next morning, June 1, a whistle
+reportedly blew signaling the white invasion
+of North Tulsa. One controversy surrounding
+the riot has been the extent to which machine
+guns and airplanes were used during the battle
+for Greenwood. Both were present, and there
+is evidence that explosives were dropped from
+planes, though the planes seemed to have been
+used mainly for reconnaissance. The outnumbered
+African Americans tried to defend their
+homes, but the invaders descended, burning
+and looting. Among the African Americans
+killed was A. C. Jackson, a nationally renowned
+black surgeon. Others fled north out
+of the city, but many were arrested and detained
+at the convention center and later at a
+ballpark and the fairgrounds. The National
+Guard arrived at 9:15 that morning, and Gen.
+Charles Barrett declared martial law at 11:29.
+By this time the riot had nearly run its course.</p>
+
+<p>African Americans in Tulsa faced an uphill
+struggle after the riot. The city government
+enacted a fire-ordinance restriction to stop the
+rebuilding process. African American lawyers
+fought and won the fire-ordinance battle, but
+many North Tulsans were homeless through
+the winter and lived in tents and makeshift
+homes. Greenwood did rebuild and, some
+contend, became more prosperous than before
+1921, but no insurance claims were ever
+paid to the holders nor did the city pay restitution.
+Urban renewal later leveled North Tulsa
+a second time.</p>
+
+<p>In 1997 the Oklahoma legislature established
+a Race Riot Commission to study the
+violence of the 1921 race war. In 2001 the commission
+submitted an official report of its
+findings to the legislature and recommended
+reparations be paid to the survivors of Oklahoma's&#8211;
+and one of the nation's&#8211;worst civil
+disturbances.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: 
+<ref n="egp.ct.052">Tulsa, Oklahoma</ref>.</p>
+
+<closer>
+<signed>Larry O'Dell<lb/>
+Oklahoma Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ellsworth, Scott. <title level="m">Death in a Promised Land: The Tulsa Race
+Riot of 1921</title>. Baton Rouge: Louisiana State University Press,
+1982.</bibl> <bibl>Franklin, John Hope, and Scott Ellsworth, eds. <title level="m">The
+Tulsa Race Riot: A Scientific, Historical, and Legal Analysis.
+Tulsa</title>: A Report Submitted to the Tulsa Race Riot Commission,
+2000.</bibl> <bibl>Parrish, Mary E. Jones. <title level="m">Race Riot 1921,
+Events of the Tulsa Disaster</title>. Tulsa: Out on a Limb Publishing,
+1998.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

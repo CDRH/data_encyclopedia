@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.023 SYSTEM "egp.pg.023.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Federal Government, Canada</title>
+<title level="m" type="sub"></title>
+<author>Doreen Barrie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Barrie, Doreen">Doreen Barrie</author>. <title level="a">"Federal Government, Canada."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">663-664</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FEDERAL GOVERNMENT, CANADA</head>
+
+<figure n="egp.pg.023" rend="granted">
+<figDesc>Political cartoon, "Putting on the Screws"</figDesc>
+</figure>
+
+<p>Most of the area covered by Canada's three
+Prairie Provinces was purchased by the federal
+government from the Hudson's Bay Company
+in 1868. The Canadian Plains was a sparsely
+populated frontier, and the government was
+anxious to settle the region quickly and uniformly.
+The North-West Mounted Police force
+was established, and the government in Ottawa
+embarked on an aggressive campaign to
+populate the area. To achieve this goal, control
+over the land and natural resources of the
+western interior was retained by the federal
+government. In a sense, the three Prairie Provinces
+are "Children of Confederation" in that
+they had not existed as self-governing colonies
+prior to Canadian Confederation in 1867.
+Manitoba attained provincial status in 1870,
+but Saskatchewan and Alberta did not become
+provinces until 1905.</p>
+
+<p>The way in which the Prairie Provinces became
+part of Canada has given rise to the phenomenon
+of western alienation. This includes
+specific complaints about discriminatory
+treatment, as well as the pervasive feeling
+among its citizens that Manitoba, Saskatchewan,
+and Alberta are second-class provinces.
+They had to wait until 1930 to gain ownership
+of their land and natural resources. In the
+American Plains states and in the West more
+generally, federal ownership and control over
+large tracts of land created similar resentment.</p>
+
+<p>Settlers to the Prairies came in waves between
+the turn of the twentieth century and
+World War II. They came with high expectations
+fed by extravagant advertising campaigns
+launched by the federal government and the
+Canadian Pacific Railway. The Prairies were
+described as a veritable Garden of Eden. Many
+newcomers were defeated by the weather, the
+uncertainty of the grain trade, and difficulty in
+coaxing a crop out of virgin soil.</p>
+
+<p>Ottawa's policies on tariffs, its decisions on
+the railway, and its primary role in immigration
+and homesteading had a crucial impact
+on the evolution of the Prairie Provinces. Until
+the onset of World War II, these provinces
+were isolated from the rest of the country and
+united in their dependence on the wheat
+economy. A shared sense of grievance added
+to their cohesion: national policies favoring
+Central Canada, particularly in the early years,
+fueled the perception that the federal government
+was a remote, insensitive instrument of
+the manufacturing sector located at the center.
+There was some justification for these sentiments,
+since federal domination of the region
+in its formative years was unparalleled in the
+rest of the country.</p>
+
+<p>Common experiences led to a cross-fertilization
+of ideas on the agrarian frontier on
+both sides of the international boundary.
+They were part of the raw material from
+which populism and nonpartisan ideals were
+constructed. Ideas popularized by the Nonpartisan
+League, which originated in North
+Dakota, were picked up on the Canadian
+Plains. League candidates were unsuccessful in
+elections during World War I, but nonpartisan
+sentiments turned out to be more durable.
+Canada's political system proved more
+permeable to new political parties spawned by
+Prairie discontent; some survive to this day.</p>
+
+<p>More than a century after Canadian Confederation,
+an identity of interest no longer
+binds the Prairie Provinces. Their economies
+have diversified, and powerful provincial governments
+now articulate the interests and air
+the grievances of their citizens. However, it is
+still possible for provincial premiers to mobilize
+the population by fanning the flames of
+western alienation. For example, natural resource
+ownership remains a flashpoint in Alberta,
+which is home to the bulk of Canada's
+conventional petroleum resources. Any hint
+of federal intrusion into this industry is vigorously
+resisted. There has been minimal change
+in the division of powers. However, the importance
+of the powers conferred on the provinces
+has increased dramatically, while federal responsibilities
+have declined in importance.</p>
+
+<p>Hinterland status and the problem of being
+a relatively small population continue to frustrate
+citizens of the Prairies, to whom the federal
+government seems as remote as it was before
+technology compressed time and space.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.046">Petroleum, Canada</ref>.</p>
+
+<closer>
+<signed>Doreen Barrie<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Francis, R. Douglas, and Howard Palmer. <title level="m">The Prairie
+West: Historical Readings</title>. Edmonton: Pica Pica Press,
+1985.</bibl> <bibl>Lower, J. Arthur. <title level="m">Western Canada: An Outline History</title>.
+Vancouver: Douglas and McIntyre, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

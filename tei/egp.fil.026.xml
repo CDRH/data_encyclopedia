@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">The Grapes of Wrath</hi></title>
+<title level="m" type="sub"></title>
+<author>Jim Sanderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sanderson, Jim">Jim Sanderson</author>. <title level="a">"<hi rend="italic">The Grapes of Wrath</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">268</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">The Grapes of Wrath</hi></head>
+<figure n="egp.fil.026" rend="granted"  type="noclick">
+<figDesc>The Grapes of Wrath theatrical release poster</figDesc>
+</figure>     
+
+<p>While John Ford was filming <title>The Grapes of Wrath</title> in 1940, St. Louis citizens were dumping
+the controversial "communist" novel into
+the Mississippi. Darryl F. Zanuck, head of
+Twentieth Century Fox, acquired the rights to
+John Steinbeck's novel, appointed the most respected
+screenwriter of the time, Nunnally
+Johnson, to write the script, and then negotiated
+for what seemed to be the obvious director,
+John Ford. Henry Fonda coveted the role
+of Tom Joad so much that he bargained away
+his career to get the role. But with the Hays
+Commission criticizing any overt political
+statement and the novel's controversy, Zanuck
+was worried about his prize property. Ford
+took his production inside a sound stage so
+that no one could interfere. Gregg Toland,
+whose stylized black-and-white photography
+would contribute greatly not only to Ford's
+<title>The Long Voyage Home</title> (1940) but also to Orson
+Welles's <title>Citizen Kane</title> (1941), was Ford's
+cinematographer. Toland's work became part
+of Ford's translation of Steinbeck's naturalism
+and pessimism to the screen.</p>
+
+<p>In John Ford's films, one or two protagonists
+try to maintain their sometimes perverse
+individuality while helping some nuclear, professional,
+social, or makeshift family. Often
+the family or society may incorporate the individual
+into its mythology and thus guarantee
+cultural continuity. In John Steinbeck's
+novel, set in eastern Oklahoma during the
+Great Depression, family and individuality are
+crushed by the times. Ford's film doesn't cheat
+Steinbeck. It recognizes the times and Steinbeck's
+points (and even his tone), but it maintains
+Ford's romanticism (a romanticism that
+would dim with later films).</p>
+
+<p>In the film, Ford and Toland's compositions
+confine or squeeze the protagonist, Tom Joad,
+played by Henry Fonda at his iconic best. Ford
+and Fonda, both cognizant of the dark side of
+the American male hero, present Tom Joad, a
+returning convict, in danger of turning sociopathic
+if not even psychopathic. When Ma
+Joad (Jane Darwell) first sees him upon his
+return from prison, she asks, "Did they [the
+prison, the system] hurt you and make you
+mean, mad?" From the way that Fonda conducts
+himself, from Ford's composition, we
+see that Tom could turn mean or mad. But his
+madness is the key to his salvation and his
+transcendence.</p>
+
+<p>Casey, the preacher (John Carradine), becomes
+a stand-in for John the Baptist and
+anoints Tom Joad as the visionary. When
+Casey is killed, Tom, not yet fully aware of his
+new status, not fully past his psychopathic
+urges, kills a deputy. Later, fully aware of
+Casey's vision in his "I'll be there speech" to
+Ma, Tom becomes Emersonian: "Fella ain't got
+a soul, just a piece of the big soul. The big soul
+that belongs to everybody. I'll be all around in
+the dark." He walks into the dark and disappears,
+into the compositions that squeezed
+him. He may die, but he has learned something
+of a new consciousness, or maybe he has
+learned to forget his own consciousness in
+order to become a part of the flow of all life. His
+sacrifice makes society better. The only false
+note is the ending, Ma's "We're the People"
+speech that tries to turn the film into patriotic
+propaganda. Ford claims Zanuck attached the
+last scene; Johnson claimed that it was in his
+original script; Zanuck denied attaching it. In
+other words, no one claims it, for it smears this
+epic poem.</p>
+
+<p>Ford's Grapes of Wrath is not so much a
+portrayal of a particular American time and
+place as a dark, brooding, but ultimately optimistic
+and poetic vision of America. It shows
+the way one medium can adopt or adapt from
+another to produce not a hybrid, not a completely
+different animal, but a meditation and
+variation on the tone and theme of the original.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.044">Okies</ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.022">Dust Bowl</ref> / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.032">Route 66</ref>.</p>
+
+<closer>
+<signed>Jim Sanderson<lb/>
+Lamar University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gallagher, Tag. <title level="m">John Ford: The Man and His Films</title>. Berkeley:
+University of California Press, 1986.</bibl> <bibl>Place, J. A. <title level="m">The Non-Western Films of John Ford</title>. Secaucus <hi rend="smallcaps">NJ</hi>: Citadel
+Press, 1979.</bibl> <bibl>Sanderson, Jim. "American Romanticism in
+John Ford's The Grapes of Wrath: Horizontalness, Darkness,
+Christ, and F.D.R." <title level="j">Literature/Film Quarterly</title> 17
+(1989): 231–44.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

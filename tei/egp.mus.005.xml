@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Border Radio</title>
+<title level="m" type="sub"></title>
+<author>Akim D. Reinhardt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reinhardt, Akim D.">Akim D. Reinhardt</author>. <title level="a">"Border Radio."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">534</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-31</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BORDER RADIO</head>
+<figure n="egp.mus.005" rend="granted" type="noclick">
+<figDesc>XERA, one of the border blasters near Del Rio, Texas. (www.modestoradiomuseum.org) </figDesc>
+</figure>    
+
+<p>In 1931 Kansas-native "Doctor" J. R. Brinkley
+founded radio station <hi rend="smallcaps">XERA</hi> (later <hi rend="smallcaps">XERF</hi>)
+in Villa Acuna, Coahuila, Mexico, due south
+of San Angelo, Texas. It was the first border
+radio station, positioned just over the Rio
+Grande and aimed northward at the American
+audience.</p>
+
+<p>In Mexico, where wildcat station owners
+were unfettered by the Federal Communication
+Commission's regulations on wattage
+output, stations like <hi rend="smallcaps">XERA</hi> could transmit in
+excess of 500,000 watts. In the Great Plains,
+where the level topography of the land means
+that radio waves are usually obstructed only
+by the curvature of the earth, signals (particularly
+<hi rend="smallcaps">AM</hi> frequencies) can travel hundreds,
+sometimes thousands of miles before fading
+out. The result was a string of stations just
+across the Mexican border that garnered massive
+audiences.</p>
+
+<p>Border radio stations were huge moneymakers
+for station owners who sold programming
+time, fundamental evangelists, and a
+stunning array of entrepreneurs who used the
+airwaves to run mail-order businesses. On the
+artistic side, music ranged from country and
+gospel to <hi rend="italic">conjunto</hi> and rhythm and blues, and
+musicians like Bob Wills used border radio to
+widen their audiences. From 1938 to 1939 the
+Carter family actually lived in Mexico and
+broadcast live on border radio stations. The
+stations' massive radius of air coverage also
+allowed them to serve as a platform for numerous
+self-made celebrities. Flour salesman
+Wilbert Lee "Pappy" O'Daniel used border radio
+to become a western swing music impresario
+and later governor of Texas. A young
+disc jockey named Bobby Smith created the
+persona of Wolfman Jack in the mid-1960s on
+<hi rend="smallcaps">XERF</hi>, where he also served as station manager.
+He soon parlayed this into national success.</p>
+
+<p>A 1968 Mexico-U.S. treaty finally put a cap
+on border station wattage. However, nostalgia
+over these stations has been celebrated in song
+by the likes of zz Top ("Heard It on the <hi rend="smallcaps">X</hi>"),
+John Hiatt ("Pirate Radio"), and Dave Alvin
+("Border Radio").</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.006">Brinkley, John Richard</ref>.</p>
+
+<closer>
+<signed>Akim D. Reinhardt<lb/>
+Towson University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fowler, Gene, and Bill Crawford. <title level="m">Border Radio: Quacks, Yodelers, Pitchmen, and Other Amazing Broadcasters of the American Airwaves</title>. Austin: Texas Monthly Press, 1987.</bibl>
+<bibl>Jack, Wolfman, with Byron Laursen. <title level="m">Have Mercy! Confessions of the Original Rock 'n' Roll Animal</title>. New York:
+Warner Books, 1995.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

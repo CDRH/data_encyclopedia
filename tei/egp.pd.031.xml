@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pd.031 SYSTEM "egp.pd.031.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ku Klux Klan</title>
+<title level="m" type="sub"></title>
+<author>Michael W. Schuyler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schuyler, Michael W.">Michael W. Schuyler</author>. <title level="a">"Ku Klux Klan."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">715</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KU KLUX KLAN</head>
+
+<figure n="egp.pd.031" rend="granted">
+<figDesc>Ku Klux Klan, probably in Denver, Colorado, between 1921 and 1930</figDesc>
+</figure>
+
+<p>There are three separate and distinct periods
+of the Ku Klux Klan's history in the United
+States. The first Klan, founded at Pulaski, Tennessee,
+in 1865, did not have much of a presence
+in the Great Plains. Although it began as
+a local social club with secret rituals and costumes
+that usually featured flowing robes,
+pointed hats, and masks, the Klan spread
+quickly throughout the South with the promise
+that it would defend the Constitution and
+help the weak and oppressed. However, the
+Klan resorted to terror and extreme violence
+when blacks were given civil and voting rights.
+In 1877, when Reconstruction came to an end,
+the Klan officially disbanded.</p>
+
+<p>The second Klan, founded in 1915 by William
+Joseph Simmons at Stone Mountain, Georgia,
+had a greater impact in the Plains. Simmons
+emphasized that the Klan was a fraternal charitable
+organization that supported white supremacy.
+The Klan grew rapidly after 1919, when
+it launched a national campaign to attract members.
+It was especially strong in urban areas, and
+by the mid-1920s it was organized in every state.
+Nationally the Klan claimed 10 million members
+by 1924, but recent scholars estimate that
+the membership was closer to two million. It is
+estimated that between 1915 and 1944, Klan
+membership in the Plains states made up
+20 percent of the Klan's total membership.
+During this period, Klan membership was
+strongest in Texas (190,000) and Oklahoma
+(95,000), and declined northward through
+Colorado (45,000), Kansas (40,000), Nebraska
+(25,000), South Dakota (5,000), and North
+Dakota (3,000). The Klan was also strong in
+Alberta and Saskatchewan during the 1920s,
+drawing support for its anti-Catholic and anti-immigrant
+positions.</p>
+
+<p>The Klan grew rapidly between 1921 and
+1925 because it was able to exploit the fears
+and anxieties of post–World War I America.
+The Klan's promise to preserve traditional
+values and morals gave people a sense of
+power, fraternity, and security. Although the
+Klan still used antiblack rhetoric, especially in
+the Southern Plains, the Klan's primary message
+in the 1920s was that it stood for law and
+order, traditional morality, and most important,
+"100 percent Americanism." It was successful
+because it tailored its appeal in every
+community to respond to local issues and
+concerns. The Klan's appeal to "100 percent
+Americanism" allowed local Klans to target
+any group&#8211;blacks, Jews, radicals, immigrants,
+Mexicans, and especially Catholics.</p>
+
+<p>The Klan used moral suasion, political influence,
+social pressure, and violence to accomplish
+its objectives. In the Northern Plains
+the Klan was rarely involved in acts of violence,
+and, while it influenced some local elections,
+it had a negligible impact on the political process.
+In Texas and Oklahoma, however, the
+Klan was involved in widespread public whippings,
+tar and featherings, lynchings, and brutal
+homicides. In Texas and Oklahoma alone
+there were as many as 1,000 victims of Klan
+violence. In Dallas the Klan was credited with
+sixty-eight floggings in 1922; in Oklahoma
+there was near civil war in 1923 when Gov.
+John C. Walton declared marshal law in an
+effort to control Klan violence. In Texas, Oklahoma,
+and Kansas the Klan was a major political
+force, and many Klansmen were elected to
+local, state, and national offices.</p>
+
+<p>In Texas in the early 1920s the Klan controlled
+the lower house of the Texas legislature
+and elected Klansman Earl B. Mayfield to
+serve in the U.S. Senate. In 1924 in Kansas,
+William Allen White, the editor of the <title level="j">Emporia
+Gazette</title>, gained national attention when
+he ran for governor in an attempt to resist the
+Klan's efforts to control the Republican Party.</p>
+
+<p>Klan membership declined rapidly after
+1925. Escalating violence, organized opposition,
+and corruption within the Klan organization,
+as well as the conviction of one the
+Klan's most important leaders for rape and
+murder, robbed the Klan of its claim to moral
+leadership. By the end of the 1930s the Klan
+was increasingly viewed as un-American. In
+1944, when the government sued the Klan for
+back taxes, it disbanded.</p>
+
+<p>The Klan revived after World War II to
+resist the civil rights movement. Lacking a
+national organizational structure, the Klan
+quickly split into a number of small, violent
+factions. It was involved in numerous bombings
+and murders in the South, particularly
+during the 1960s, but the Klan's nationwide
+membership numbered only in the tens of
+thousands. The Klan's violent, un-American
+reputation limited its appeal in the Plains.
+Still, by the early 1990s Klanwatch, a project of
+the Southern Poverty Law Center, reported
+that although Klan membership nationally
+had fallen to only 5,000, violent hate crimes
+were rapidly increasing and that small Klan
+units were again active in Colorado, Nebraska,
+Kansas, Oklahoma, and Texas.</p>
+
+<closer>
+<signed>Michael W. Schuyler<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Chalmers, David. <title level="m">Hooded Americanism: The History of the
+Ku Klux Klan</title>. New York: New Viewpoints, 1981.</bibl> <bibl>Jackson,
+Kenneth T. <title level="m">The Ku Klux Klan in the City, 1915–1930</title>.
+New York: Oxford University Press, 1967.</bibl> <bibl>Lay, Shawn. <title level="m">The
+Invisible Empire in the West: Toward a New Appraisal of the
+Ku Klux Klan of the 1920s</title>. Chicago: University of Illinois
+Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

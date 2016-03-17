@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.034 SYSTEM "egp.arc.034.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Contemporary Architecture</title>
+<title level="m" type="sub"></title>
+<author>Carol Herselle Krinsky</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Krinsky, Carol Herselle">Carol Herselle Krinsky</author>. <title level="a">"Native American Contemporary Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">87-88</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN CONTEMPORARY ARCHITECTURE</head>
+
+<figure n="egp.arc.034" rend="granted">
+<figDesc>Oglala Lakota College, Piya Wiconi Building, Pine Ridge Reservation, South Dakota. Hodne-Stageberg, architects</figDesc>
+</figure>
+
+<p>Before the 1960s and after the demise of traditional
+architecture, little attention was paid
+to cultural relevance when designing housing
+and other structures on Indian reservations.
+Assimilative pressures, financial exigencies,
+and supposed efficiency led to reservation
+housing that was built to resemble housing for
+other groups, however different the cultural
+contexts. The standardized buildings also ignored
+differences in natural environments.
+Reservation cultural centers and urban social
+service centers, if built at all, were usually vernacular
+structures with little indication of the
+culture in question.</p>
+
+<p>In the late 1960s and early 1970s Native
+Americans and Canadian First Peoples began
+to consider ways in which their cultural expressions
+could help them overcome difficulties in their private and community lives.
+Language revival, religious renewal, and other
+recalled traditions were brought into service.
+Economic development grants made it possible
+to use the marketing of heritage to generate
+employment on reservations in need of
+jobs. Greater public awareness of past social
+injustices and a new emphasis on group identity
+rather than the "melting pot" ideology
+created a favorable background for efforts to
+make architecture, as the setting for life, more
+relevant to the traditions of Native American
+users. Not all Native American groups are
+creating specifically Native American modern
+architecture, but many are, and in increasing
+numbers.</p>
+
+<p>Cultural relevance can be suggested quickly
+by adding ornament to a standard building,
+for example. It can be achieved more substantially
+by reproducing or paraphrasing building
+types such as earth lodges and brush shelters
+that predated the arrival of European
+American settlers. Architects may use traditional
+building materials and may align their
+structures with the movements of the stars
+and other natural forces. Douglas Cardinal, a
+Canadian Métis, designs curvilinear forms for
+both Indigenous and immigrant clients that
+remind observers of the massive contours of
+bison or eroded rocks. Some clients and architects
+prefer to use symbolic forms, incorporating
+numerological patterns or the shapes
+of animals or medicine wheels, hoping that
+the values inherent in the symbols can be
+transferred to the users. Still others incorporate
+traditional patterns of use into the building
+plans, adding ceremonial rooms, central
+gathering areas, and meditation chambers to
+schools and hospitals. They may take into account
+customary desires to observe events in
+groups, standing, instead of in fixed rows
+of seats. They may also accommodate Native
+peoples' reticence when meeting strangers or
+the need for storage of crafts and hunted food.
+Some buildings have been designed by communal
+processes rather than by standard European
+American professional practices.</p>
+
+<p>Some tribes restrict culturally appropriate
+efforts to buildings erected for the direct benefit
+of all tribal members, including schools,
+clinics, tribal office buildings, cultural and religious
+structures, and urban social and service
+centers, while excluding casinos. Other
+tribes include windows, trees, and other
+plantings in casinos, suggesting links between
+Native Americans and nature and implying
+that a casino, the "new buffalo," benefits the
+tribe and is therefore respectable.</p>
+
+<p>In the past decade the United States Department
+of Housing and Urban Development has
+become more sensitive to the need for inexpensive
+housing that also supports customary
+patterns of Native American life. Multigenerational
+families and issues of courtesy
+and privacy are now taken into account. The
+department has sponsored or encouraged
+construction with natural materials and with
+centralized and other unconventional plans
+inspired by preference polls of prospective
+residents. Not all tribes take advantage of the
+department's initiatives, and the available
+funds cannot meet the urgent need for lowincome
+reservation housing units and the repair
+of existing ones.</p>
+
+<p>Museum buildings and tourist facilities are
+especially likely to embody aspects of Native
+American culture or tradition, because one
+major aim is to celebrate the distinctiveness of
+the historic cultures in question. Construction
+of tribal museums has been stimulated
+recently by the Native American Graves Protection
+and Repatriation Act of 1990, which
+provides for the return of artifacts and human
+remains to descendants of their original owners.
+There is no standard museum plan, so the
+sponsors can build innovative forms or reproduce
+older ones.</p>
+
+<p>Ceremonial buildings, by contrast, must
+adhere to certain physical patterns lest the ritual
+action be hindered. Other religious buildings
+too, such as the Native American Church
+at Wounded Knee, South Dakota, are usually
+traditional in form, though not always in materials.
+Glass walls or steel beams, for instance,
+may be used to enlarge such buildings, to
+economize, or to improve safety.</p>
+
+<p>One design problem is that many Plains
+people traditionally lived in portable and temporary
+structures that cannot easily be evoked
+by fixed buildings made of permanent materials.
+For this reason, Denby Deegan (Arikara-
+Sioux) and Dennis Sun Rhodes (Arapaho)
+have substituted symbolic forms such as
+the medicine wheel at Deegan's Four Winds
+School at the Fort Totten Reservation in North
+Dakota or Sun Rhodes's prairie-side facade
+(under Thomas Hodne's supervision) for the
+Piya Wiconi Building at Oglala Lakota College
+on the Pine Ridge Reservation in South Dakota.
+Peter Kommers used the morning star to
+generate a design for the Northern Cheyenne
+Heritage Center in Lame Deer, Montana. A
+design by Mark Hoistad for the Omaha interpretive
+center in Macy, Nebraska, includes
+totems evoking clan warriors and references to
+the cosmos reflected in a camp circle as well as
+a conical container for the sacred pole.</p>
+
+<p>Problems connected to culturally appropriate
+design include locating sensitive architects
+(there are still few Native Americans in the
+profession), securing funds, making decisions
+by consensus, and devising forms that reflect
+the cultures. Not all tribal members understand
+the symbolism in proposed designs, but
+most will respond favorably to buildings that
+honor age-old customs and revere traditional
+patterns of life.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: 
+<ref n="egp.ct.042">Reservation Towns</ref>.</p>
+
+<closer>
+<signed>Carol Herselle Krinsky<lb/>
+New York University<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>American Indian Council of Architects and Engineers.
+<title level="m">Our Home: A Design Guide for Indian Housing</title>. Washington
+<hi rend="smallcaps">DC</hi>: National Endowment for the Arts–Design Arts
+Program, 1994.</bibl> <bibl>Krinsky, Carol Herselle. <title level="m">Contemporary Native American Architecture: Cultural Regeneration and Creativity</title>. New York: Oxford University Press, 1996.</bibl>
+<bibl>Landecker, Heidi. "Designing for American Indians." <title level="m">Architecture</title>
+82 (1993): 93–101.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

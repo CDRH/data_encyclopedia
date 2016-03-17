@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispano Homeland</title>
+<title level="m" type="sub"></title>
+<author>Richard L. Nostrand</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nostrand, Richard L.">Richard L. Nostrand</author>. <title level="a">"Hispano Homeland."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">359-360</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HISPANO HOMELAND</head>
+
+<p>The term "Hispano" is sometimes used as a
+substitute for "Spanish American," a person
+who is part of the old and distinctive
+New Mexico-centered subculture. In colonial
+times Hispanos settled in the Spanish Borderlands
+far earlier and became far more numerous
+than their subcultural counterparts,
+Tejanos and Californios. When the United
+States took political control of the Southwest
+in the nineteenth century, Hispanos escaped
+the onslaught of Mexican immigrants who
+engulfed and almost completely absorbed the
+Tejanos and Californios. Today, subtle cultural
+differences stemming from earlier colonization
+and isolation set Hispanos apart from
+their Mexican-origin brethren. Also, Hispanos
+are far fewer numerically, with 400,000
+Hispanos in greater New Mexico compared to
+10 million Mexican-origin people elsewhere in
+the American Southwest. Significantly, these
+Hispanos represent America's only surviving
+Spanish colonial subculture.</p>
+
+<p>The creation of a Hispano homeland is the
+story of Hispano interaction with four other
+peoples. In 1598 Spaniards moved in with the
+Pueblo Indians who occupied the upper Rio
+Grande basin. The resentful Pueblos staged a
+successful revolt that sent the Spaniards south
+in 1680. But the Spanish soldier-settlers soon
+returned to transform the Pueblo Indian
+realm into a Hispano "stronghold" during the
+1700s. Meanwhile, nomad Indians, the second
+people, stifled Hispano attempts to expand
+beyond the Pueblo realm&#8211;until about 1790, a
+turning point in their pacification. After 1790
+Hispano sheepmen seeking new grazing lands
+began to spread east into the Great Plains in a
+spontaneous village-by-village movement that
+lasted until 1890. Territorial expansions into
+the Texas and Oklahoma Panhandles happened
+quickly in the 1860s and 1870s. Then
+Anglo-Americans, the third people, moving
+west with their cattle, blunted&#8211;indeed drove
+back&#8211;the Hispano <hi rend="italic">pastores</hi>. Anglos, who had
+been arriving in Hispano territory since 1821,
+continued to come in the twentieth century.
+Mexicans, the fourth people, also arrived from
+Mexico and the Southwest. By 1900 the Hispano
+homeland reached its greatest areal extent
+as it stretched over parts of five states and
+was the size of Utah. But the arrival of Anglos
+and Mexican-origin people especially drove
+down the Hispano percentage to only onefifth
+of the region's population.</p>
+
+<p>In the process of colonizing greater New
+Mexico, Hispanos, acting by themselves, created
+a special feeling for their milieu, their
+homeland. The highland environment that
+they had wrested from the Pueblos required
+some adjusting to. Their cultural heritage
+brought from Spain and New Spain made
+them well prepared to irrigate dryland New
+Mexico and to build with adobe brick when
+lacking timber. When lowland pastures dried
+up in summer, they drove sheep to higher elevations,
+a Spanish practice called transhumance.
+But adjusting to bitterly cold winter
+temperatures required the construction of
+livestock shelters in addition to corrals, and
+short growing seasons precluded planting
+anything but hardy vegetables and deciduous
+fruit trees. At the same time, Hispanos created
+a distinctive cultural landscape by building
+fortified villages for protection from nomadic
+Indian attack and by laying out long agricultural
+planting lots so that everyone had access
+to the irrigation ditch lifeline. Both processes&#8211;
+adjusting to a highland environment
+and stamping that environment with a unique
+cultural impress&#8211;became central in the Hispanos'
+bonding with place. Adding to this
+attachment to place came control of land
+through land-grant ownership. To this day
+Hispanos have an uncommonly strong concept
+of homeland among Americans.</p>
+
+<p>But the homeland that Hispanos so deeply
+love is by no means uniform. In 1900 three
+zones representing degrees of Hispano strength
+clearly existed. The inner half of the homeland
+constituted a stronghold where Hispanos represented
+a minimum of 90 percent of the
+population and where they had political clout
+but already had lost much economic control.
+A broken concentric ring beyond the stronghold
+constituted an "inland," suggesting accurately
+that Anglos had intruded here to reduce
+Hispano numbers to between 50 and
+90 percent. Anglos in this area shared political
+control with Hispanos and had pretty much
+taken over economically. The outer broken
+ring, called the "outland," represented areas
+to which economic opportunity had pulled
+Hispanos from the center. Hispanos had
+moved "out" to assume jobs as railroad workers,
+miners, ranch hands, shepherds, and laborers.
+In the outland, Hispanos owned little
+land, had virtually no political say and minimal
+social standing, and constituted a minority
+population of between 10 and 50 percent.</p>
+
+<p>Since 1900 the three morphological zones
+have all but disappeared, but their recent existence
+is useful when explaining the Great
+Plains segment of the Hispano homeland.
+Much of the Hispano homeland that now
+overlaps east into the Great Plains is yesterday's
+outland. Compared to the long occupation
+of their highland stronghold, Hispano
+settlement of the high, flat Plains is relatively
+recent. They did so either by spreading east in
+a lightly settled string of villages founded by
+sheepmen, who were later rolled back by Anglo
+cattlemen, or by being pulled into the
+Plains by Anglo economic opportunity. In
+both cases Hispanos came to represent a minority
+population that found itself disadvantaged
+economically, socially, and politically.
+After World War II the problem was compounded
+by the arrival of Mexican-origin
+people in urban centers like Roswell, Clovis,
+Pueblo, and Denver (which in 1980 were all
+homeland outliers except Pueblo). Thus, it
+seems appropriate to characterize the Hispano
+homeland where it overlaps the Great Plains
+as an expansion on the periphery of the highland
+core.</p>
+
+<closer>
+<signed>Richard L. Nostrand<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nostrand, Richard L. <title level="m">The Hispano Homeland</title>. Norman:
+University of Oklahoma Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

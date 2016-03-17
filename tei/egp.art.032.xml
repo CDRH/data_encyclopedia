@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.032 SYSTEM "egp.art.032.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hogue, Alexandre (1898-1994)</title>
+<title level="m" type="sub"></title>
+<author>Lea Rosson DeLong</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="DeLong, Rosson Lea">Lea Rosson DeLong</author>. <title level="a">"Hogue, Alexandre (1898-1994)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">119-120</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOGUE, ALEXANDRE (1898-1994)</head>
+
+<figure n="egp.art.032" rend="granted">
+<figDesc>Alexandre Hogue. American 1898–1994. Erosion No. 2. Mother Earth Laid Bare, 1936. Oil on canvas.</figDesc>
+</figure>
+
+<p>American artist Alexandre Hogue is known
+primarily for his paintings of the Dust Bowl of
+the 1930s. Hogue was one of the few painters
+of the period to acknowledge the conditions
+of the Southern Plains during the Great Depression,
+and his works are considered both
+accurate and provocative. His concern with
+the environment and with humans' relations
+with it endures as a major theme in his work.</p>
+
+<p>Born in Memphis, Missouri, on February
+22, 1898, Hogue grew up in Denton and Dallas.
+He worked briefly (1921-25) in New York
+as a graphic designer and then returned to
+Texas, where he established himself as an artist,
+teacher, and writer. His explorations of the
+landscape along with his interest in Native cultures
+and their attitudes toward nature formed
+an artistic credo that emphasized not only the
+beauty of the land but also the effects upon it
+of human activities.</p>
+
+<p>In his travels through the region he witnessed
+the development of the Dust Bowl, and
+in 1932 he began his series on the ecological disaster
+unfolding before him. <title>Dust Bowl</title> (1933,
+Smithsonian Museum of American Art),
+<title>Drouth Stricken Area</title> (1934, Dallas Museum
+of Fine Art), and <title>Drouth Survivors</title> (1936,
+destroyed in 1948, formerly in the Mus&#233;e National
+d'Art Modern, Paris) all show a landscape
+described by Hogue as a "lush grassland"
+transformed into a desertlike place
+scarcely able to sustain life of any kind. Tractors
+and dead cattle half-buried in sand dunes,
+an abandoned farm with its broken windmill
+and dust-filled water trough, and the eerie
+light of a dust-choked, sandy, and barren
+ranch&#8211;all these images created an apocalyptic
+iconography that Hogue used to convey the
+reality of the situation on the Plains as well as
+his condemnation of the farming and ranching
+practices that had created it. Unlike the
+photographers of the Farm Security Administration,
+who also documented Depression
+Era conditions, Hogue expressed little sympathy
+for the families forced off the land by the
+Dust Bowl (in fact, they do not appear in his
+work) but instead made it clear that he held
+humans accountable for their deliberate misuse
+of the land.</p>
+
+<p>Perhaps the grimmest and most accusatory
+painting is <title>Mother Earth Laid Bare</title> (1938, Philbrook
+Museum of Art Museum, Tulsa), in
+which overproduction of the land and disregard
+for the forces of nature are clearly presented
+as acts of desecration. In contrast to
+other painters of the period such as Grant
+Wood and Thomas Hart Benton, who generally
+treated their region as a place of hope,
+good values, and productivity, Hogue presents
+a sobering view of a land exhausted and
+ruined by the failure to acknowledge and respect
+nature. Later works from the 1950s on
+were less condemnatory but continued to express
+the artist's reverence for nature, even at
+times in an abstract style. His series of drawings,
+pastels, and paintings on the Big Bend
+landscape (c. 1960–c. 1990) especially demonstrate
+the persistence of this theme.</p>
+
+<p>In addition to his career as an artist, Hogue
+was an important teacher in the region, notably
+as head of the art department at the University
+of Tulsa (1945–68). During the 1930s he
+was a leader in one of the most active regional
+groups, known as the Dallas Nine, and was
+also a founder (1938) of the Lone Star Printmakers.
+Hogue died in Tulsa on July 22, 1994.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.022">Dust Bowl</ref>.</p>
+
+
+<closer>
+<signed>Lea Rosson DeLong<lb/>
+Des Moines, Iowa</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>DeLong, Lea Rosson. <title level="m">Nature's Forms/Nature's Forces: The Art of Alexandre Hogue</title>. Norman: University of Oklahoma
+Press; Tulsa: Philbrook Museum of Art, 1984.</bibl> <bibl>Hogue, Alexandre.
+"Progressive Texas." <title level="j">Art Digest</title> 10 (1936): 17–18.</bibl>
+<bibl>Stewart, Rick. <title level="j">Lone Star Regionalism: The Dallas Nine and Their Circle</title>. Dallas: Dallas Museum of Art, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

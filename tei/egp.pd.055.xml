@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.055">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">United Farmers of America</title>
+<title level="m" type="sub"></title>
+<author>Amy Nugent</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.055</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nugent, Amy">Amy Nugent</author>. <title level="a">"United Farmers of Alberta."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">725</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UNITED FARMERS OF AMERICA</head>
+
+<p>The United Farmers of Alberta (<hi rend="smallcaps">UFA</hi>) was established
+in 1909 as an amalgamation of the
+Alberta Farmers Association and the Alberta
+Society of Equity, the latter an offshoot of the
+American Society of Equity. The <hi rend="smallcaps">UFA</hi>'s primary
+aim was to ameliorate the vulnerable
+economic position of Alberta farmers. It protested
+the protective Canadian tariff on farm
+equipment, lobbied for the regulation of marketing
+practices at grain elevators, and called
+for an end to government-endorsed railway
+monopolies.</p>
+
+<p>In 1912 the ufa endorsed women's suffrage
+and encouraged farm women to become involved
+in the organization. In 1915 the United
+Farm Women of Alberta (<hi rend="smallcaps">UFWA</hi>) was formed,
+campaigning for women's suffrage (gained in
+1916), temperance, and rural health and education
+standards. Unlike women's auxiliaries
+in traditional Canadian political organizations,
+the <hi rend="smallcaps">UFWA</hi> did not mainly bake cookies
+and stuff envelopes. These women stood with
+their <hi rend="smallcaps">UFA</hi> men as economically disadvantaged
+farm workers, but they also used annual conventions
+and agrarian newsletters to raise
+their gender-specific concerns.</p>
+
+<p>Physically removed from the national center
+of power in Ottawa and disillusioned by
+the corrupt and seemingly undifferentiated
+national political parties, many in the ufa began
+to advocate direct political action. Henry
+Wise Wood, president of the organization
+from 1916 to 1931, was a native Missourian
+who had witnessed the failures of the Farmers
+Alliance and the Populist Party. He was therefore
+skeptical of direct political action by
+farmers. Nevertheless, he became convinced
+that direct involvement was needed, and he
+advocated a theory of group government or
+political representation based on occupation.</p>
+
+<p>In 1916 the Nonpartisan League, fresh from
+its political victories in North Dakota, entered
+Alberta to mobilize farmers into political action.
+Also in 1916 the <hi rend="smallcaps">UFA</hi> endorsed the Canadian
+Council of Agriculture's "Farmers' Platform,"
+which provided a clear statement of
+agrarian political goals. Resolved to political
+action, the ufa merged with the Nonpartisan
+League in 1919 and contested the 1921 Alberta
+election. The <hi rend="smallcaps">UFA</hi> ran only rural candidates,
+cooperating in some instances with urban labor
+candidates. It won the election and remained
+in office until 1935. Wood refused the
+premiership, which went instead to Herbert
+Greenfield (1921-25), then to John Brownlee
+(1925-34), and R. G. Reid (1934-35). Of particular
+interest, in 1921 Irene Parlby, former
+president of the <hi rend="smallcaps">UFWA</hi>, became the first woman
+cabinet minister in Alberta.</p>
+
+<p>Despite Wood's radical theories of group
+government, the <hi rend="smallcaps">UFA</hi> governed in a conventional,
+efficient manner, establishing wheat,
+dairy, poultry, and livestock pools and improving
+provincial health and education services.
+With the onset of the Great Depression,
+the <hi rend="smallcaps">UFA</hi> attempted to provide debt relief for
+farmers, but its solutions were ineffective and
+too orthodox for the Alberta electorate. In
+1935 Social Credit swept the <hi rend="smallcaps">UFA</hi> out of office,
+and the ufa then retreated from political activity.
+Today the <hi rend="smallcaps">UFA</hi> operates farm supply
+stores and petroleum outlets throughout Alberta,
+sponsors rural youth groups, and remains
+one of Canada's largest farmer-owned
+agricultural organizations.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.003">Alberta</ref>.</p>
+
+<closer>
+<signed>Amy Nugent<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Betke, Carl. "The United Farmers of Alberta, 1921–1935."
+In <title level="m">Riel to Reform: A History of Protest in Western Canada</title>,
+edited by George Melnyk. Saskatoon: Fifth House Publishers,
+1992.</bibl> <bibl>Morton, W. L. <title level="m">The Progressive Party in Canada</title>.
+Toronto: University of Toronto Press, 1950.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

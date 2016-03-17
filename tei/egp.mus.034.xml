@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Music</title>
+<title level="m" type="sub"></title>
+<author>J. Bryan Burton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Burton, J. Bryan">J. Bryan Burton</author>. <title level="a">"Native American Music."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">543-544</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN MUSIC</head>
+
+<p>Music lies at the heart of Indian culture. From
+birth to death, all occasions, sacred and secular,
+personal and tribal, in the life of the Plains
+Indian are inextricably intertwined with musical
+performances.</p>
+
+<p>Music serves numerous functions in traditional
+Indian culture, including religious ceremonies,
+healing ceremonies, work songs,
+game songs, courtship, storytelling, songs to
+bring success in hunting, agriculture, and war,
+and social songs and dances. As traditional
+culture has been influenced through contact
+with non-Indian cultures, the purposes and
+functions of music have been adapted so that
+music retains its meaningful role in cultural
+identity.</p>
+
+<p>The music of the Plains is the most familiar
+Native American music to non-Indian peoples,
+due in large part to its use in television
+and motion pictures (including the Academy
+Award–winning <title>Dances with Wolves</title>, which
+featured performances by the Porcupine Singers,
+a well-known Lakota musical group). The
+high, tense vocal style, the descending melodic
+pattern, the vocables (meaningful syllables
+without a direct English translation), and the
+rhythmic drumming of the Plains are immediately
+identifiable as "Indian music" throughout
+the world. Because of its familiarity, it is
+often erroneously used in entertainment venues
+to represent the musical practices of all
+Indians, regardless of tribal or cultural identity.
+A recent renaissance of interest in Native
+cultures has, in large part, corrected this misconception.</p>
+
+<p>The defining characteristics of Plains style
+music include a tense, tight, and rather strained
+vocal style; among Northern Plains tribes a
+high vocal range, among the tribes of the
+Southern Plains a medium range; "collapsible"
+melodic contour-melodies that begin high,
+drop drastically lower over the course of a
+song, and frequently end with repetitions of
+the tonic pitch; ululations produced by rapidly
+fluttering the tongue against the roof of the
+mouth; singing mostly in unison; and, normally,
+one large drum played by several musicians
+to accompany songs. Lyrics may be sung
+entirely in a tribal language, entirely in vocables,
+in English, or in any combination.</p>
+
+<p>Drums, the best-known type of Indian instrument,
+are made in many sizes and shapes
+and from diverse materials. Both small hand
+drums&#8211;twelve to eighteen inches in circumference
+and covered on one or both sides with
+a rawhide head and played by one person&#8211;
+and larger "powwow" drums&#8211;sometimes the
+size of a marching band bass drum and played
+simultaneously by several musicians&#8211;are
+commonly used among Plains tribes. In contemporary
+practice, the word "drum" refers
+not only as a noun to the instrument itself but
+also as a verb to the performers who play it
+and sing. Many tribes consider the drum to
+represent the heartbeat of Mother Earth and
+to offer a means of communication with the
+supernatural. Because of this significance,
+tribes often establish strict protocols for playing
+the drum.</p>
+
+<p>Rattles are the most ubiquitous type of instrument
+and display great inventiveness with
+natural materials. Modern Plains Indians have
+incorporated virtually every type of material
+imaginable into the construction of rattles:
+gourds, turtle shells, carved wood, deer
+hooves, animal horns, animal hide, and tree
+bark. Other percussive instruments include
+large dance bells attached to the arms or legs of
+dancers to provide an ambient accompaniment
+to dancing, rasps, and wooden sticks.</p>
+
+<p>Flutes and whistles are the primary melodic
+instruments among Plains Indians. Members
+of Coronado's sixteenth-century expedition
+into the Southern Plains provided the first
+documentation of flute music by non-Indian
+sources, while Lewis and Clark noted the use
+of flutes among Northern Plains peoples in
+the early nineteenth century. In pre-twentieth-century
+traditional practices, the flute was
+used primarily to perform courting songs,
+though some tribes used flutes and whistles
+in healing ceremonies. Flute performance
+among Plains tribes, however, had virtually
+disappeared by the early twentieth century.
+Kiowa musician Doc Tate Nevaquaya is credited
+with reviving the tradition of flute making
+and playing in the late 1940s and 1950s.
+Contemporary musicians, including Kevin
+Locke (Lakota), Joseph Fire Crow (Cheyenne),
+Tom Mauchahty Ware (Comanche-Kiowa),
+and Robert Tree Cody (Dakota-Maricopa),
+have expanded the role of the Indian flute far
+beyond its traditional role in courtship and
+healing to embrace social songs, dances, and
+popular songs. The sound of the Indian flute is
+now heard in motion picture scores and jazz
+and rock bands in addition to more traditional
+venues.</p>
+
+<p>Native American music continues to thrive
+and evolve. Contemporary musicians are exploring
+combinations of traditional and non-
+Indian musics to create new styles and genres
+that retain a distinctively Native American
+identity. Non-Indian popular music genres
+such as rock, country, and jazz have been successfully
+adapted into the modern Indian repertoire
+by artists such as Tom Bee (Lakota)
+performing with <hi rend="smallcaps">XIT</hi>, the first commercially
+successful all-Indian rock band, and Keith
+Secola (Anishinaabe) and the Wild Band
+of Indians. Indian musicians such as Buffy
+Sainte-Marie (Cree) and R. Carlos Nakai (Ute-
+Navajo) contribute to motion picture and television
+scores, and the orchestral and choral
+compositions of Oklahoma-born composerconductor
+Louis Ballard (Quapaw-Cherokee)
+mark the beginnings of Indian symphonic and
+chamber music. Pianist Paul La Roche (Lakota)
+combines traditional and New Age elements
+in his unique works for keyboard.</p>
+
+<p>Powwows and tribal fairs held throughout
+the Great Plains provide opportunities to experience
+all musical styles and genres of today's
+Plains Indians, including generationsold
+traditional songs and dances as well as
+contemporary popular music. Modern powwows
+and tribal fairs are celebrations of Native
+American culture and include displays of
+tribal arts and crafts, meals of traditional Native
+foods, and discussions of social and political
+issues in addition to the music and dance.
+They are as much community social events as
+dance performances. Music and dance include
+ceremonial performances restricted to initiated
+members of the tribe; competitive dancing
+featuring world-class performers of grass
+dances, fancy dances, jingle dress, and specialty
+dances; and the after-hours social dances
+referred to as "forty-nine" dances, the popular
+music and dance of younger tribal members.
+Among the larger Plains powwows and tribal
+fairs held annually are Red Earth Powwow,
+Oklahoma City, Oklahoma; Gathering of Nations,
+Albuquerque, New Mexico; Crow Fair,
+Crow Agency, Montana; and United Tribes
+Powwow, Bismarck, North Dakota. However,
+smaller local gatherings offer insights into Indian
+song and dance in a more intimate setting
+that allows more interaction among performers
+and audience members.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.091">Powwows</ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.012">Crow Fair</ref>.</p>
+
+<closer>
+<signed>J. Bryan Burton<lb/>
+West Chester University of Pennsylvania</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burton, J. Bryan. <title level="m">Moving within the Circle: Contemporary Native American Music and Dance</title>. Danbury <hi rend="smallcaps">CT</hi>: World
+Music Press, 1993.</bibl> <bibl>Heth, Charlotte, ed. <title level="m">Native American Dance: Ceremonies and Social Traditions</title>. Washington <hi rend="smallcaps">DC</hi>:
+Smithsonian Institution Press, 1992.</bibl> <bibl>Laubin, Reginald,
+and Gladys Laubin. <title level="m">Indian Dances of North America&#8211;
+Their Importance to Indian Life</title>. Norman: University of
+Oklahoma Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

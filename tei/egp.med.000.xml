@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.med.000 SYSTEM "egp.med.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Media</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+        
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>     
+            
+<div1 type="contents">
+
+<head>Media</head>
+
+<figure n="egp.med.000" rend="granted">
+<figDesc>Western Union Telegraph Office, Wichita, Kansas, ca. 1912</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.med.001">Media</ref></item>
+<item><ref n="egp.afam.003">African American Newspapers <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.med.003"><hi rend="italic">Argus Leader</hi> (Sioux Falls)</ref></item>
+<item><ref n="egp.med.004"><hi rend="italic">Billings Gazette</hi></ref></item>
+<item><ref n="egp.med.005"><hi rend="italic">Bismarck Tribune</hi></ref></item>
+<item><ref n="egp.med.006">Brinkley, John Richard</ref></item>
+<item><ref n="egp.med.007">Brokaw, Tom</ref></item>
+<item><ref n="egp.med.008"><hi rend="italic">Calgary Herald</hi></ref></item>
+<item><ref n="egp.med.009">Capper, Arthur</ref></item>
+<item><ref n="egp.med.010">Carson, Johnny</ref></item>
+<item><ref n="egp.med.011">Cavett, Dick</ref></item>
+<item><ref n="egp.med.012">Cronkite, Walter</ref></item>
+<item><ref n="egp.med.013"><hi rend="italic">Daily Oklahoman</hi></ref></item>
+<item><ref n="egp.med.014"><hi rend="italic">Dallas Morning News</hi></ref></item>
+<item><ref n="egp.med.015"><hi rend="italic">Denver Post</hi></ref></item>
+<item><ref n="egp.med.016"><hi rend="italic">Edmonton Journal</hi></ref></item>
+<item><ref n="egp.med.017">Edwards, Bob</ref></item>
+<item><ref n="egp.med.018"><hi rend="italic">Emporia Gazette</hi></ref></item>
+<item><ref n="egp.med.019"><hi rend="italic">Fort Worth Star-Telegram</hi></ref></item>
+<item><ref n="egp.med.020">Freeman, Legh</ref></item>
+<item><ref n="egp.pd.023">Garner, Elmer <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.med.022">Hall, Monte</ref></item>
+<item><ref n="egp.med.023">Huntley, Chet</ref></item>
+<item><ref n="egp.med.024">Immigrant Newspapers</ref></item>
+<item><ref n="egp.med.025"><hi rend="italic">Indian Country Today</hi></ref></item>
+<item><ref n="egp.med.026">Internet</ref></item>
+<item><ref n="egp.med.027"><hi rend="italic">Kansas City Star</hi></ref></item>
+<item><ref n="egp.med.028"><hi rend="italic">Leader-Post</hi> (Regina)</ref></item>
+<item><ref n="egp.med.029">Military Post Publications</ref></item>
+<item><ref n="egp.med.030">Moyers, Bill</ref></item>
+<item><ref n="egp.med.031">Native American Radio</ref></item>
+<item><ref n="egp.law.036">Nebraska Press Association v. Stuart</ref></item>
+<item><ref n="egp.med.033">Neuharth, Allen</ref></item>
+<item><ref n="egp.med.034">Nye, Bill</ref></item>
+<item><ref n="egp.med.035"><hi rend="italic">Omaha World-Herald</hi></ref></item>
+<item><ref n="egp.gen.027">Peattie, Elia</ref></item>
+<item><ref n="egp.med.036">Peffer, William Alfred</ref></item>
+<item><ref n="egp.med.037">Radio</ref></item>
+<item><ref n="egp.med.038">Rhodes, Richard</ref></item>
+<item><ref n="egp.med.039">Sevareid, Eric</ref></item>
+<item><ref n="egp.gen.035">Slaughter, Linda</ref></item>
+<item><ref n="egp.med.041">Small-Town Newspapers</ref></item>
+<item><ref n="egp.ha.043">Spanish-Language Press <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.med.043"><hi rend="italic">Star-Phoenix</hi> (Saskatoon)</ref></item>
+<item><ref n="egp.med.044">Storz, Todd</ref></item>
+<item><ref n="egp.med.045">Telegraph</ref></item>
+<item><ref n="egp.med.046">Television Shows</ref></item>
+<item><ref n="egp.med.047">Trillin, Calvin</ref></item>
+<item><ref n="egp.med.048"><hi rend="italic">Western Producer</hi></ref></item>
+<item><ref n="egp.med.049">White, William Allen</ref></item>
+<item><ref n="egp.med.050"><hi rend="italic">Winnipeg Free Press</hi></ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

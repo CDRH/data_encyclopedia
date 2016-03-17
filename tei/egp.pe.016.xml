@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Caprock Canyonlands</title>
+<title level="m" type="sub"></title>
+<author>Dan Flores</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Flores, Dan">Dan Flores</author>. <title level="a">"Caprock Canyonlands."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">623-624</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CAPROCK CANYONLANDS</head>
+
+<p>Encircling the perimeter of the 50,000-square-mile
+southern High Plains plateau given the
+name <hi rend="italic">El Llano Estacado</hi> by Spanish explorers is
+an area that belies the common perception of
+the Great Plains as a region of minimal topographic
+relief. Popularly called the Caprock
+Canyonlands, this is a brightly colored landscape
+of red badlands, juniper breaks, and
+sandstone canyons reaching a depth of 800
+feet. This canyon country began to form a million
+years ago when the westward-eroding Canadian,
+Red, Brazos, Colorado, and Pecos Rivers
+sliced into High Plains sediments washed
+down from the southern Rockies. By 100,000
+years ago the Canadian and Pecos had cut to
+the base of the mountains, creating the Llano
+Estacado plateau. The central trio of rivers,
+however, has yet to breach the Llano Estacado.
+It is their erosion into the plateau, a process
+that continually exposes the water-bearing
+gravels of the Ogallala Aquifer, that has formed
+the present canyon systems of the Red River
+(Palo Duro, Mulberry, Tule, and the Little Red,
+Los Lingos, and Quitaque Canyons), the Brazos
+(Blanco, Yellow House, and Double Mountain
+Fork Canyons), and the Colorado (Muchaque
+Canyon).</p>
+
+<p>As sources of water, timber, exposed geology,
+and often astonishing topography and
+coloring, the Caprock Canyonlands has played
+a critical role in human and natural history in
+the Great Plains. The draws feeding the canyonlands were centers of Clovis and Folsom
+cultures in the Great Plains, and the canyons
+themselves were famous rendezvous sites in
+the trade between Pueblo agriculturalists and
+Plains buffalo hunters. Coronado was the first
+European to describe them when he camped in
+Blanco Canyon in 1540. In the nineteenth century
+they served as the last sanctuary of the
+Comanches, Kiowas, and Southern Cheyennes,
+who were forced to reservations after the Battle
+of Palo Duro Canyon in 1874. Charles Goodnight
+proceeded to found his <hi rend="smallcaps">JA</hi> Ranch in Palo
+Duro in 1876. The canyons have largely remained
+in the hands of ranchers since.</p>
+
+<p>In the twentieth century the Caprock Canyonlands
+played new roles in human society.
+The artist Georgia O'Keeffe's initial Western
+inspiration, for example, came from her encounters
+with Palo Duro during World War I.
+Preserving as they do the best remaining wildlands
+on the Southern Plains, since the 1930s
+these surprising canyons have increasingly
+been designated as state parks, wildlife refuges,
+and nature preserves of various kinds.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ART</hi>: <ref n="egp.art.045">O'Keefe, Georgia</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.033">Palo Duro Canyon, Battle of</ref>.</p>
+
+<closer>
+<signed>Dan Flores<lb/>
+University of Montana</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Flores, Dan L., and Amy Gormley Winton. <title level="m">Canyon Visions:
+Photographs and Pastels of the Texas Plains</title>. Lubbock:
+Texas Tech University Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

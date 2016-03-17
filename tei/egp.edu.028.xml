@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.edu.028 SYSTEM "egp.edu.028.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Museums</title>
+<title level="m" type="sub"></title>
+<author>John E. Simmons</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Simmons, John E.">John E. Simmons</author>. <title level="a">"Museums."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">208-209</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MUSEUMS</head>
+
+<figure n="egp.edu.028" rend="granted">
+<figDesc>Royal Tyrrell Musuem, Drumheller, Alberta, July 1989</figDesc>
+</figure>
+
+<p>There are more than 1,000 museums in the
+Great Plains, and they tell many stories&#8211;how
+the region was formed, the history of its Indigenous
+inhabitants, the process of exploration
+and settlement by immigrants.</p>
+
+<p>The center of the continent is marked by
+the Geographical Center Historical Museum
+(Rugby, North Dakota), in the heart of the
+Great Plains. Some museums document the
+big changes in the region. The Royal Tyrrell
+Museum of Paleontology (Drumheller, Alberta)
+presents a vivid picture of evolution in
+the Great Plains, from bacteria to dinosaurs.
+The changes wrought by western agricultural
+practices are depicted in the Cattle Raisers
+Museum (Fort Worth, Texas), the Canadian
+National Historic Windmill Centre (Etzikom,
+Alberta), and the National Agricultural Center
+and Hall of Fame (Bonner Springs, Kansas).
+The Gem of the West Museum (Coaldale,
+Alberta) tells the interrelated story of irrigation
+and European settlement. Museums devoted
+to the settlers include trail sites, sod
+houses, historic buildings, pioneer villages,
+and shrines to cowboys and farmers. The
+Great Plains is dotted with historic forts and
+military museums, including the Fort Casper
+Museum (Casper, Wyoming), the Fort Concho
+National Historic Landmark (San Angelo,
+Texas), and the Little Bighorn Battlefield National
+Monument (Crow Agency, Montana).
+In Oberlin, Kansas, the Last Indian Raid Museum
+commemorates the last battle between
+settlers and Native Americans in the state
+(in 1878); the French Legation Museum (Austin,
+Texas) recalls Texas as a French colony.
+Cowboy museums include the National Cowboy
+Hall of Fame and Western Heritage Center
+(Oklahoma City, Oklahoma), the Boot
+Hill Museum (Dodge City, Kansas), and the
+Pro Rodeo Hall of Fame and Museum of
+the American Cowboy (Colorado Springs,
+Colorado).</p>
+
+<p>Museums devoted to the ethnic heritage of
+Great Plains inhabitants include El Museo Latino
+and the Great Plains Black Museum
+(Omaha, Nebraska), the National Hall of
+Fame for Famous American Indians (Anadarko,
+Oklahoma), and the Seminole Nation
+Museum (Wewoka, Oklahoma). The
+Trembowla Cross of Freedom, Inc., Museum
+(Dauphin, Manitoba) celebrates the first
+Ukrainian settlement in North America. The
+Calgary Chinese Cultural Centre and the Beth
+Tzedec Heritage Collection (a Jewish museum)
+are in Calgary, Alberta.</p>
+
+<p>Other museums interpret modern agents of
+change. Chevyland U.S.A. (Elm Creek, Nebraska)
+features a working collection of all
+Chevrolet models. The petroleum industry is
+the subject of the Norman #1 Museum in Neodesha,
+Kansas (site of the first commercial oil
+well west of the Mississippi) and the Iraan Museum
+(in Alley Oop Fantasy Land Park, Iraan,
+Texas). The rise of suburbia is detailed in the
+Johnson County Museum (Shawnee, Kansas).
+The museum's collection includes a fully furnished
+all-electric house from the 1950s, with
+reenactors portraying family members.</p>
+
+<p>Great Plains museums also record the
+changes in particular places that have shaped
+local history. There are hundreds of small museums and historic sites such as the Grant
+County Museum (Elgin, North Dakota) and
+the Rocky Ford Historical Museum (Rocky
+Ford, Colorado), often run entirely by volunteer
+labor. These institutions preserve local
+heritage. In all, about 77 percent of Great
+Plains museums are history museums, historic
+sites, and general museums devoted to
+one place or region. Some are comprehensive
+institutions with large-scale exhibitions, collections,
+archives, and conservation facilities
+such as the Kansas Museum of History (Topeka,
+Kansas), the Nebraska State Museum
+(Lincoln, Nebraska), and the Panhandle-
+Plains Historical Museum (Canyon, Texas).
+Most history museums are smaller, such as the
+Middle Border Museum of American Indian
+and Pioneer Life (Mitchell, South Dakota)
+and the Otoe County Museum of Memories
+(Syracuse, Nebraska). The Tsa Mo Ga Memorial
+Museum (Plains, Texas) receives only
+about thirty visitors a year.</p>
+
+<p>Several Great Plains museums are known
+worldwide as research institutions. Among
+these are the Natural History Museum and
+Biodiversity Research Center at the University
+of Kansas (Lawrence, Kansas), the Joslyn Art
+Museum (Omaha, Nebraska), and the Kimbell
+Art Museum (Fort Worth, Texas). About
+8 percent of Great Plains museums are art museums.
+Another 3 percent focus on natural
+history, 2 percent are devoted exclusively
+to Native Americans, and 4 percent are zoos
+or botanical gardens. Specialized museums
+(7 percent) include the World Figure Skating
+Museum and Hall of Fame (Colorado Springs,
+Colorado) and Big Well, a museum about the
+world's largest hand-dug well (Greensburg,
+Kansas). The Parade of Presidents Wax Museum
+is in Keystone, South Dakota.</p>
+
+<p>Although most museums are federal, state,
+or local nonprofit institutions, some are private
+tax-exempt corporations. These may
+be large—the Harold Warp Pioneer Village
+Foundation (Minden, Nebraska) numbers
+among its collections at least 350 cars, 50,000
+historical items, and a Norman Rockwell collection.
+Most are smaller and more modest in
+scope such as the Galloping Road Compound
+and Poker Alley at Harbor Ranch (Dripping
+Springs, Texas).</p>
+
+<p>The Great Plains has museums devoted to
+famous people. Two museums honor former
+president Dwight Eisenhower, the Eisenhower
+Birthplace State Historical Park (Denison,
+Texas) and the Dwight D. Eisenhower Library
+and Museum (Abilene, Kansas). Others include
+the Dalton Defenders Museum (Coffeyville,
+Kansas), the Buddy Holly Center (Lubbock,
+Texas), the Billy the Kid Museum (Fort
+Sumner, New Mexico), and the Jim Thorpe
+Home (Yale, Oklahoma). The Emmett Kelly
+Historical Museum is in Sedan, Kansas; the
+Will Rogers Memorial is in Claremore, Oklahoma;
+the Martin and Osa Johnson Safari
+Museum, Inc., is in Chanute, Kansas; and the
+O. Henry House and Museum is in Austin,
+Texas.</p>
+
+<p>The spirit of Willa Cather thrives in museums.
+Her childhood home (the Willa Cather
+State Historic Site) and other locations in Red
+Cloud, Nebraska, invoke her writings. The
+stories of her immigrant characters are told
+in diverse places such as the Museum of the
+American Historical Society of Germans from
+Russia (Lincoln, Nebraska) and the Wilber
+Museum (Wilber, Nebraska).</p>
+
+<p>Some Great Plains museums feature decidedly
+singular pursuits. These include the
+Enchanted World Doll Museum (Mitchell,
+South Dakota) and the National Museum
+of Woodcarving (Custer, South Dakota).
+Turner's Curling Museum (Weyburn, Saskatchewan)
+has a collection of 3,800 curling
+pins. The National Museum of Roller Skating
+(Lincoln, Nebraska) exhibits skates from 1819
+to the present.</p>
+
+<p>A few museums are monuments to American
+eccentricity, including the Garden of
+Eden, a house built from limestone logs surrounded
+by an allegorical sculpture garden
+(Lucas, Kansas). The Robert L. More Bird Egg
+Collection (Vernon, Texas) houses 10,000 bird
+eggs. The Great Plains is the birthplace of
+Kool-Aid, which is depicted in an exhibit in
+the Hastings Museum (Hastings, Nebraska).
+This is a big museum in a small community,
+with three floors of exhibits and an imax theater.
+The museum's founder is buried in the
+basement.</p>
+
+<p>Among the most specialized Great Plains
+museums are the Museum of Independent
+Telephony and the Greyhound Hall of Fame
+(both in Abilene, Kansas) as well as the Boys
+Town Hall of History (Boys Town, Nebraska).
+There is America's Shrine to Music Museum
+(Vermillion, South Dakota), the William A.
+Quayle Bible Collection at Baker University
+(Baldwin, Kansas), and the Strategic Air
+Command Museum (Ashland, Nebraska).
+The Soukup and Thomas International Balloon
+and Airship Museum is in Mitchell,
+South Dakota; the Appaloosa Horse Club Senior
+Citizens Museum and Archives can be
+found in Claresholm, Alberta.</p>
+
+<p>What all of these museums have in common
+is their commitment to study, preserve,
+and exhibit real things, be they hubcaps, projectile
+points, fossil sea urchins, or rubber
+horseshoes. A museum gives its audience a
+sense of place and purpose. Museums interpret
+the past to inform the future.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.038">Roadside Attractions</ref>.</p>
+
+<closer>
+<signed>John E. Simmons<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><hi rend="italic">The Official Museum Directory</hi>. 31st ed. Washington <hi rend="smallcaps">DC</hi>:
+American Association of Museums, 2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

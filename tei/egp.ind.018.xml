@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ethanol</title>
+<title level="m" type="sub"></title>
+<author>M. David Checkel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Checkel, M. David">M. David Checkel</author>. <title level="a">"Ethanol."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">416-417</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ETHANOL</head>
+
+<p>Ethyl alcohol (or ethanol, grain alcohol, or
+C<hi rend="subscript">2</hi>H<hi rend="subscript">5</hi>OH) is a colorless, sweet-smelling substance.
+Ethanol production in the form of intoxicating
+beverages was one of humankind's
+earliest industrial achievements. Beyond being
+the key ingredient in alcoholic drinks, ethanol
+is a solvent and has a growing role as a
+renewable-source fuel for motor vehicles.</p>
+
+<p>Ethanol can be made synthetically by catalytic
+reaction of ethylene (from natural gas)
+with steam. However, most ethanol is made by
+fermentation of plant material. In fermentation,
+single-celled yeast organisms consume
+simple sugars, excreting ethyl alcohol and carbon
+dioxide. Plants are composed of carbohydrates
+(compounds containing carbon, hydrogen,
+and oxygen), and the simple sugars (called
+monosaccharides) are building blocks for
+complex carbohydrates like starches, higher
+sugars, and cellulose. Fruits tend to be rich in
+sugar, and grains are rich in starch, while straw
+and wood are dominated by cellulose. Only the
+monosaccharide sugars are directly fermentable,
+so natural fermentation requires a sugarrich
+fruit (like grapes) for significant alcohol
+content. To make ethanol from other biomass
+sources, higher-order plant structures must be
+broken down to monosaccharides. Specialized
+enzymes or weak acids are used to break starch
+and cellulose into monosaccharides before fermentation.
+After fermentation, the resulting
+"beer" solution contains a small percentage of
+ethanol. Solids are filtered out for use as animal
+feed or fuel, and ethanol is separated from the
+remaining water by distillation and mole sieve
+techniques. Ethanol processes are well established
+for grain feed stocks, and research is
+improving ethanol yield and energy e.ciency.
+New processes and enzymes are being developed
+to enable commercial production from
+cellulosic materials such as grass, straw, and
+wood.</p>
+
+<p>Fuel ethanol is denatured by blending it
+with 5 percent gasoline or solvent to render it
+undrinkable. The denatured product is then
+blended with petroleum-based gasoline as a
+high-octane fuel component. American gasoline
+contains up to 10 percent ethanol, especially
+in winter months and in areas with serious
+air pollution. e85 (gasoline with 85
+percent ethanol) is used in specially adapted or
+"flex-fuel" vehicles. The 15 percent hydrocarbon
+content in e85 is tailored to optimize fuel
+volatility and inhibit corrosion.</p>
+
+<p>In 2000 American ethanol production was
+1.8 billion U.S. gallons with roughly equal
+amounts used for fuel and for all other purposes.
+About 7 percent was synthetic, and the
+rest was the result of fermentation. Of the fermentation
+ethanol, 90 percent used corn as a
+feedstock, with the dominant production in
+Corn Belt states (Illinois, Iowa, Nebraska, and
+Minnesota). Overall, the Great Plains states
+supplied 23 percent of American fermentation
+ethanol. Canadian ethanol production in 2000
+was in excess of 160 million U.S. gallons, with
+75 percent from Ontario corn and 5 percent
+from forest products. The remaining 29 percent
+came from wheat, the dominant grain
+crop in the Prairie Provinces. Raw grain is
+bulky and expensive to transport, so most ethanol
+production plants are located in areas of
+high grain production or along major transportation
+routes. In 2000 there were two ethanol
+production plants in the Prairie Provinces&#8211;
+at Lanigan, Saskatchewan, and Red
+Deer, Alberta&#8211;and nineteen such plants in the
+American Great Plains, with Nebraska, the
+leading state, with seven.</p>
+
+<p>Concerns over air pollution, petroleum
+supply, and greenhouse gas emissions are leading
+to increased production of biologically
+based ethanol. Currently, this is raising demand
+for grain, a major product of fertile
+lands in the Great Plains region. Future growth
+of the fuel market and commercialization of
+cellulose-based ethanol processes are expected
+to create a demand for cellulosic crops such as
+switch grass, straw, and poplar wood. These
+crops grow well on less fertile lands, so their
+production would provide an alternative industry
+in Plains areas currently dominated by
+livestock.</p>
+
+<closer>
+<signed>M. David Checkel<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

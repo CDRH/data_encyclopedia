@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Trails</title>
+<title level="m" type="sub"></title>
+<author>Donald J. Blakeslee</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Blakeslee, Donald J.">Donald J. Blakeslee</author>. <title level="a">"Indian Trails."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">803</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN TRAILS</head>
+
+<p>Plains Indians traveled long distances to hunt,
+trade, make war, and visit sacred places. To do
+so, they used trails such as the Great North
+Trail that ran south from Canada along the
+eastern front of the Rocky Mountains into
+New Mexico. A trail that crossed it on the
+north bank of the Arkansas River ran east to
+the vicinity of Kinsley, Kansas, then overland
+to cross the southern part of Missouri to the
+mouth of the Ohio River. These and many
+other trails created a web across the face of the
+Great Plains.</p>
+
+<p>The trails were designed to meet the needs
+of pedestrian travelers. The most important of
+these needs was water. People using pack dogs
+can only travel about ten miles per day, and
+the most heavily used trails had water holes
+spaced no farther apart than ten miles. Stream
+crossings and steep hills were avoided whenever
+possible; as a result, many trails ran along
+the divides between stream valleys. Although
+they were sinuous, these routes had the additional
+advantage of allowing the traveler to see
+long distances while passing by the headwater
+springs of numerous creeks.</p>
+
+<p>Trails converged at good fords across streams
+and at the rare groves of trees in the High Plains.
+In some instances, such as the ford across the
+Kansas River in the Flint Hills, the geologic stratum
+underlying the divide along which a trail
+ran created a rocky ford where the ridge was cut
+by a river. Groves provided shade, vegetable
+foods, fuel for shelter, and a variety of game
+animals to hunt. The "Big Timbers" of the Arkansas
+in Colorado, of the Smoky Hill River in
+western Kansas, and of the Republican River in
+southwestern Nebraska were some of the favored
+campgrounds.</p>
+
+<p>Operating in cultures that lacked systems of
+writing and mapmaking, Plains Indians took
+advantage of natural landmarks whenever
+possible. This was especially necessary because
+massive bison herds could erase in a single day
+pathways worn by decades of human travel.
+When natural landmarks were absent, stone
+or sod cairns were sometimes built. Cairns
+had varied functions. In some spots they
+marked the main course of a trail, in others
+they marked a good spring not visible from
+the trail itself, while in still other places they
+indicated the route to be used to regain the
+trail after a river crossing. Some cairns acted
+as shrines at which travelers added a stone as a
+prayer.</p>
+
+<p>Well-designed Indian trails had a pronounced
+effect on the early European American
+history of the Great Plains. Native guides
+led explorers along them, traders built their
+posts beside them, and battles were fought
+near them. Emigrant trails such as the Oregon
+and Santa Fe Trails developed from Indian
+trails, although wagon traffic sometimes necessitated
+modifications to the routes. The
+well-spaced water holes and gentle grades of
+many trails led to the use of some as cattle
+trails and railroad routes. Thus their effects
+continue to be felt today.</p>
+
+<closer>
+<signed>Donald J. Blakeslee<lb/>
+Wichita State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blakeslee, Donald J., and Robert Blasing. "Indian Trails in
+the Central Plains." <title level="j">Plains Anthropologist</title> 33–119 (1988):
+17–26.</bibl> <bibl>Mead, J. R. "Trails in Southern Kansas." <title level="j">Transactions
+of the Kansas State Historical Society</title> 5 (1896): 88–93.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

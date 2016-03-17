@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Garner, Elmer (1864-1944)</title>
+<title level="m" type="sub"></title>
+<author>Virgil W. Dean</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dean, Virgil W.">Virgil W. Dean</author>. <title level="a">"Garner, Elmer (1864-1944)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">711-712</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GARNER, ELMER (1864-1944)</head>
+
+<p>Born in Tama County, Iowa, on January 1, 1864,
+but raised near Downs in Osborne County,
+Kansas, Elmer J. Garner was an editor and
+publisher of the late nineteenth and early
+twentieth century who moved from Farmers
+Alliance advocacy in 1890 to the radical "old
+Christian right" of fellow Kansans Dr. John R.
+Brinkley and Rev. Gerald B. Winrod. Garner
+edited papers identified with the People's,
+Republican, and Democratic Parties, even
+though he claimed political independence. By
+some accounts his <title level="j">Farmers' Advance</title> (Almena,
+Norton County) was the first Populist newspaper
+in Kansas, but during the 1890s Garner's
+<title level="j">Logan Republican</title> also supported prohibitionists
+and free-silver Democrats such as William
+Jennings Bryan, as well as many Republican
+candidates. Despite his chameleonic politics,
+Garner consistently espoused prohibitionism,
+nativism, and isolationism; he also frequently
+employed anti-British, anti-Catholic, and
+anti-Semitic rhetoric in his advocacy of free
+silver and farm cooperatives and in his diatribes
+against the world financial conspiracy.</p>
+
+<p>After a stint in Oklahoma editing the <title level="j">Oklahoma
+State Register</title> (Guthrie) and the <title level="j">Cimarron
+Valley Clipper</title> (Coyle), Garner moved back
+to Kansas, eventually settling in Emporia,
+where he ran a print shop and in the mid-1920s
+a newspaper, the <title level="j">Kansas State Bugle</title>, that stood
+"one hundred percent for Protestant Americanism"
+and supported the activities of the Ku
+Klux Klan. Garner then moved to Wichita,
+where in 1930 he helped organize that city's
+"Brinkley for Governor Club" and launched
+<title level="j">Publicity</title>, a four-page weekly tabloid devoted
+to Dr. Brinkley and "Brinkleyism." In this, his
+final publishing venture, Garner championed
+the goat gland doctor's political career and
+"populist" platform: free textbooks for Kansas
+children; public ownership of natural resources
+and utilities, including transportation;
+support for strong farmers' cooperative and
+trade union movements; prevention of centralized
+control of banking, finance, and farming
+interests; elimination of war profits; and a
+mandatory referendum to precede any declaration
+of war. But he also supported much of
+the New Deal during the mid-1930s until President
+Franklin D. Roosevelt's emphasis shifted
+overseas. Editor Garner was virulent in his opposition
+to a third term and subsequently
+called for the impeachment of "Roosevelt and
+his Jewish Camarilla."</p>
+
+<p><title level="j">Publicity</title> softened its anti-Roosevelt message
+after Pearl Harbor, but it was too late. The
+justice department, through a federal grand
+jury, indicted Elmer J. Garner on sedition
+charges and eventually put him on trial in
+Washington <hi rend="smallcaps">DC</hi> with twenty-nine other defendants.
+They were said to have been a part of a
+nationwide conspiracy to subvert the country's
+armed forces. The "Great Sedition Trial,"
+or <title>United States v. McWilliams</title>, ended for the
+eighty-year-old Wichita editor on May 4, 1944,
+about two weeks after it began, when Garner
+died in a Washington boardinghouse.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.006">Brinkley, John Richard</ref>.</p>
+
+<closer>
+<signed>Virgil W. Dean<lb/>
+Kansas State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl> <title level="j">"Another Wichita Seditionist? Elmer J. Garner and the Radical Right's Opposition to World War II." </title> Kansas History 17 (1994): 50-64.</bibl> <bibl>Ribuffo, Leo P. <title level="m">The
+Old Christian Right: The Protestant Far Right from the
+Great Depression to the Cold War</title>. Philadelphia: Temple
+University Press, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

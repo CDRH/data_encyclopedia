@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Allen, Terry (b. 1943)</title>
+<title level="m" type="sub"></title>
+<author>Mo Neal</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Neal, Mo">Mo Neal</author>. <title level="a">"Allen, Terry (b. 1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">111</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALLEN, TERRY (b. 1943)</head>
+
+<p>Terry Allen, whose genres include musical and
+visual arts, theater, film scripts, radio, and various
+collaborations, may be a Renaissance
+man in the sense of being a revivalist. His
+works have roamed topics as diverse as a
+hitchhiking Jesus, political terrorists, West
+Texas hookers, wrecks of art trucks, and a
+twelve-year body of work, <title>Youth in Asia</title>, on
+the Vietnam War.</p>
+
+<p>Shortly after his birth on May 7, 1943, in
+Wichita, Kansas, Terry Allen's family moved
+to Lubbock, Texas. In the 1950s the Allen family's
+dance hall featured blues, country, and
+early rock 'n' roll and played a major role in
+shaping the teenage Allen as well as in desegregating
+Lubbock culture. Leaving Lubbock
+for Los Angeles, Allen earned a B.F.A. at
+Chouinard Art Institute in 1966. He continued
+creating visual arts while teaching at Chouinard
+and, through the 1970s, at California
+State University in Fresno. Allen now lives in
+Santa Fe, New Mexico.</p>
+
+<p>His recording career took off with the 1975
+<hi rend="smallcaps">LP</hi> <title>Juarez</title>, which included in its packaging
+six original lithographs. Allen has also produced
+albums, collaborating with Jo Harvey
+Allen, David Byrne, Joe Ely, Jimmie Dale
+Gilmore, Butch Hancock, Wayne Hancock,
+and others. His most recent album (1999) is
+titled <title>Salivation</title>.</p>
+
+<p>Throughout his career Allen has blended
+the visual and audio, forming works of irony
+and humor. He utilizes many mediums, from
+printmaking and painting to installation and
+public sculptural commissions. <title>Corporate Head</title>, for example, completed in 1991 for Citicorp
+Center in Los Angeles, realistically shows
+an attach&#233; case carrying a bronze businessman
+whose head is imbedded in a stone pier
+on the ground floor. The George Bush Intercontinental
+Airport in Houston houses Allen's
+3,600-square-foot sculpture installation
+<title>Countree Music</title>, which includes a music collaboration
+with Joe Ely and David Byrne. On
+the floor, continents surround Houston as the
+center of the world. A bronze-cast thirty-foot
+oak tree rises from the center, and from each
+continent an indigenous instrument plays as
+people walk over.</p>
+
+<p>Since 1966 Allen's art has been included in
+more than 50 one-person exhibitions and 150
+group shows, including the S&#227;o Paulo Biennial,
+and the Whitney Biennial. His awards
+include a Residency Fellowship from the Wexner
+Center for the Arts in 1992, a Guggenheim
+Fellowship in 1986, a Bessie Award in 1986,
+and National Endowment for the Arts Fellowships
+in 1970, 1978, and 1985.</p>
+
+<closer>
+<signed>Mo Neal<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

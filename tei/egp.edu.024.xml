@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lorentino, Dorothy Sunrise (b. 1912)</title>
+<title level="m" type="sub"></title>
+<author>Cora Z. Hedstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hedstrom, Cora Z.">Cora Z. Hedstrom</author>. <title level="a">"Lorentino, Dorothy Sunrise (b. 1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">206-207</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LORENTINO, DOROTHY SUNRISE (b. 1912)</head>
+
+<p>Dorothy Sunrise Lorentino opened the door
+for public school education for Native Americans
+and educated a nation. The extraordinary
+contributions to education of this Lawton,
+Oklahoma, native began with a battle. At
+the age of six she was denied access to the
+Cache Public Schools because of her heritage
+as a Comanche Indian. She and her parents
+made a twenty-mile train ride to Lawton,
+Oklahoma, where her father sued the school
+district for refusing to admit Native American
+children to public schools. Lorentino's father
+won the lawsuit in 1918. Prior to this ruling, all
+Native American children were required by
+law to attend only Bureau of Indian Affairs
+schools.</p>
+
+<p>Lorentino later graduated from the Indian
+boarding school at Chilocco and earned a
+bachelor's degree from Northeastern Oklahoma
+<hi rend="smallcaps">A&amp;M</hi> in Talequah in 1938 and a master's
+degree from the University of Oregon in 1947.
+Before retiring in 1972, Lorentino taught special
+education for thirty-four years on reservations
+in Arizona and New Mexico and later in
+the public schools of Salem and Tillamook,
+Oregon. Following her retirement, she continued
+teaching by substituting at public
+schools, and she taught the Comanche tribal
+language and songs to members of her tribe.</p>
+
+<p>Lorentino earned many awards throughout
+her career as a teacher. In 1997 she became the
+first Oklahoman and Native American to be
+inducted into the National Teachers Hall of
+Fame. Other honors include the National Indian
+Education Association's Elder of the Year,
+the Delta Kappa Gamma Society Lifetime
+Award, and Outstanding Woman of Comanche
+County. In 1996 Cache High School initiated
+the Dorothy Sunrise Lorentino Award to
+be presented annually to the Native American
+graduating senior who best exemplifies the
+qualities for which Lorentino stands.</p>
+
+<closer>
+<signed>Cora Z. Hedstrom<lb/>
+National Teachers Hall of Fame</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

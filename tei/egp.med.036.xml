@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Peffer, William Alfred (1831-1912)</title>
+<title level="m" type="sub"></title>
+<author>Peter H. Argersinger</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Argersinger, Peter H.">Peter H. Argersinger</author>. <title level="a">"Peffer, William Alfred (1831-1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">518-519</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PEFFER, WILLIAM ALFRED (1831-1912)</head>
+
+<p>William Alfred Peffer was a prominent newspaper
+editor who helped organize the People's
+Party and became the first Populist U.S. senator.
+Born in Cumberland County, Pennsylvania,
+on September 10, 1831, Peffer farmed and
+taught school in several states before settling
+in Fredonia, Kansas, in 1870. There he purchased
+a small newspaper that he renamed the
+<title level="j">Fredonia Journal</title>.</p>
+
+<p>A Republican, Peffer was elected a state senator
+in 1874 and a presidential elector in 1880,
+but he was more involved in journalism than
+politics. In 1875 he moved to Coffeyville, renamed
+his newspaper the <title level="j">Coffeyville Journal</title>,
+and became active in the Kansas Editors Association.
+In 1881, leaving a son to run the
+<title level="j">Coffeyville Journal</title>, Peffer moved to Topeka as
+editor of the <title level="j">Kansas Farmer</title>, the state's foremost
+farm journal and most widely circulated
+newspaper. He also became an associate editor
+for the <title level="j">Topeka Capital</title>, the state's leading Republican
+daily. But he followed a nonpartisan
+course in making the <title level="j">Kansas Farmer</title> an influential
+reform newspaper, advocating railroad
+regulation, financial reform, antimonopolism,
+and political democratization. He urged
+farmers to organize, and the Farmers Alliance
+made the <title level="j">Farmer</title> its official state paper.</p>
+
+<p>In 1890 Peffer's editorials and speeches
+helped the alliance launch the People's Party
+of Kansas, which defeated the Republicans
+and in 1891 elected him senator. Resigning
+from the <title level="j">Farmer</title>, he became the major shareholder
+of the <title level="j">Topeka Advocate</title>, the leading
+Populist newspaper, and organized and became
+the first president of the Kansas Reform
+Press Association. His books, <title level="m">The Way Out</title>
+(1890) and <title level="m">The Farmer's Side: His Troubles and Their Remedy</title> (1891), were fundamental Populist
+literature.</p>
+
+<p>Peffer chaired the 1891 Cincinnati conference
+that organized the national People's
+Party, and he became the principal advocate of
+Populist measures in Congress. He used his
+official salary to help start the <title level="j">National Watchman</title>
+as a Populist newspaper in Washington
+<hi rend="smallcaps">DC</hi>, and in 1895 he took control of the Advocate.
+He consistently promoted a radical and
+independent course for the Populist Party but
+gradually lost influence as it turned to a policy
+of fusion on the basis of free silver. He was not
+reelected in 1897 and shortly thereafter sold
+the <title level="j">Advocate</title>. He continued to write for newspapers
+and magazines on agricultural and
+economic topics until his death in Grenola,
+Kansas, on October 6, 1912.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.063">Populists (People's Party)</ref>.</p>
+
+<closer>
+<signed>Peter H. Argersinger<lb/>
+Southern Illinois University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Argersinger, Peter H. <title level="m">Populism and Politics: William Alfred Peffer and the People's Party</title>. Lexington: University Press of
+Kentucky, 1974.</bibl> <bibl>Peffer, William A. <title level="m">Populism, Its Rise and Fall</title>, edited by Peter H. Argersinger. Lawrence: University
+Press of Kansas, 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.065">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">The Wizard of Oz</hi></title>
+<title level="m" type="sub"></title>
+<author>Nancy Tystad Koupal</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.065</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Koupal, Nancy Tystad">Nancy Tystad Koupal</author>. <title level="a">"<hi rend="italic">The Wizard of Oz</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">280-281</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">THE WIZARD OF OZ</hi></head>
+<figure n="egp.fil.065" rend="granted" type="noclick">
+<figDesc>Screenshot from The Wizard of Oz (1939) </figDesc>
+</figure>    
+
+<p>Rated sixth on the American Film Institute's
+list of the country's 100 greatest movies, <title>The Wizard of Oz</title> has become a defining feature of
+American culture. From its sepia-toned opening
+shots of Kansas to its Technicolor fantasy
+world of Oz, the 1939 Metro-Goldwyn-Mayer
+production permeates the American imagination
+with lines such as "Toto, I've a feeling
+we're not in Kansas anymore" and songs such
+as "We're Off to See the Wizard." The Cowardly
+Lion (Bert Lahr), the Scarecrow (Ray
+Bolger), the Tin Man (Jack Haley), and Dorothy
+Gale (Judy Garland) sang and danced
+their way into America's collective imagination
+in a script adapted from L. Frank Baum's
+book, with lyrics by E. Y. "Yip" Harburg and a
+score by Harold Arlen. In the process, Kansas
+and the Great Plains came to epitomize the
+drab and ordinary, the foil against which Oz
+and other parts of America, especially urban
+areas, seem fantastic and magical.</p>
+
+<p>The Wizard of Oz opened in August 1939, a
+phenomenal year in movie history&#8211;<title>Gone with the Wind</title>, <title>Wuthering Heights</title>, <title>Stagecoach</title>,
+and <hi rend="italic">Mr. Smith Goes to Washington</hi> also premiered
+that year. Nonetheless, <title>The Wizard of Oz</title>, directed by Victor Fleming, captured
+Academy Awards for best original score and
+best song ("Over the Rainbow"). Judy Garland
+also received a juvenile Oscar for her performance
+as Dorothy. Because the film played
+to large audiences of children, who did not
+pay full rates, the production did not make
+money until it was leased to television in 1956.
+Running each year on cbs or <hi rend="smallcaps">NBC</hi>, the show
+became standard family viewing fare.</p>
+
+<p>Like the book before it, the film tells a
+uniquely American fairy tale, and in the new
+medium Americans related to it in greater
+numbers. At the same time, its audience
+broadened throughout the world, largely because,
+as author Salman Rushdie notes, the
+film actually improved on a good book, creating
+a work of art. An important aspect of this
+film transformation is the much larger role
+assigned to Kansas and its people. In Baum's
+book, only six pages in chapter 1 and under
+twenty lines in the final chapter are devoted to
+the sun-seared Great Plains. Only Auntie Em,
+Uncle Henry, Dorothy, and Toto appear. In
+contrast, the movie introduces three farmhands
+(played by Lahr, Bolger, and Haley), an
+itinerant salesman (Frank Morgan), and Miss
+Gulch (Margaret Hamilton). These characters
+mirror the most important characters in the
+Land of Oz. Introducing evil in the person of
+Miss Gulch and her counterpart, the Wicked
+Witch of the West, the film takes on an immediacy
+and drama not possible in the book. The
+Kansas sequence, shot in black and white and
+placed in a brown bath to mute the tones,
+emphasizes the stark difference between the
+reality of Kansas and the colorful fairyland of
+Oz.</p>
+
+<p>Whether in Baum's book or the mgm movie,
+the sharp contrast between Kansas and Oz has
+always been a defining feature, suggesting that
+Oz is something more than it seems&#8211;a metaphor
+for America. In 1900, when the book was
+first published, America's economy was depressed,
+and Baum's Oz can be interpreted as a
+parody of America under the influence of the
+Populist party, which had arisen at the turn of
+the century to champion farmers and laborers
+against corporate America. In 1939 the country
+was in the depths of the Great Depression, and
+some viewers suggest that <hi rend="smallcaps">MGM</hi>'s Oz might be a
+commentary on President Franklin D. Roosevelt's
+administration. In a 1981 interview in the
+<title level="j">Washington Post</title>, songwriter Yip Harburg,
+who had considerable creative freedom on the
+film, claimed that the Emerald City represented
+the New Deal. Regardless of specific
+interpretations, however, both book and
+movie have lent themselves to political allusion,
+being recast in each new era. In the 1970s
+political pundits likened President Richard
+Nixon to the bogus Wizard of Oz caught behind
+the curtain in the movie, while illustrator
+Barry Moser modeled his wood engravings for
+a 1986 edition of the book on members of the
+Ronald Reagan White House. First Lady Nancy
+Reagan was identifiable as the Wicked Witch of
+the West.</p>
+
+<p>No matter what the political interpretation,
+the 1939 film evokes a joyful, still innocent,
+can-do world in which each person already
+holds the solution to his or her own problems.
+In setting this up, however, <title level="j">The Wizard of Oz</title>
+also creates a no-can-do Kansas, a dull drabness
+in the heart of America, making it one of
+the most controversial film portrayals of the
+Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.003">Baum, Frank L.</ref> / <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.063">Populists (People's Party)</ref>.</p>
+
+<closer>
+<signed>Nancy Tystad Koupal<lb/>
+South Dakota State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Harmetz, Aljean. <title level="m">The Making of "The Wizard of Oz."</title> New
+York: Alfred A. Knopf, 1977.</bibl> <bibl>MacDonnell, Francis. "'The
+Emerald City Was the New Deal': E. Y. Harburg and <hi rend="italic">The
+Wonderful Wizard of Oz</hi>." <title level="j">Journal of American Culture</title> 13
+(1990): 71–76.</bibl> <bibl>Rushdie, Salman. <title level="m">The Wizard of Oz</title>. <hi rend="smallcaps">BFI</hi>
+Film Classics. London: <hi rend="smallcaps">BFI</hi> Publishing, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

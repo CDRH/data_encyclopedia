@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gretzky, Wayne (b. 1961)</title>
+<title level="m" type="sub"></title>
+<author>Lisa M. DeChano</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="DeChano, Lisa M.">Lisa M. DeChano</author>. <title level="a">"Gretzky, Wayne (b. 1961)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">775</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRETZKY, WAYNE (b. 1961)</head>
+ <figure n="egp.sr.024" rend="granted">
+<figDesc>Wayne Gretzky and teammates with the Stanley Cup</figDesc>
+</figure>     
+    
+<p>Wayne Gretzky was not born in the Great
+Plains, but his name will always be associated
+with Great Plains ice hockey. Gretzky, born on
+January 26, 1961, in Brantford, Ontario, is one
+of the greatest ice hockey players of all time.
+He started his professional career in the World
+Hockey Association (<hi rend="smallcaps">WHA</hi>) by playing for the
+Indianapolis Racers and Edmonton Oilers before
+moving in 1979 into the National Hockey
+League (<hi rend="smallcaps">NHL</hi>) with the Oilers, wearing number
+99. His nine seasons with the Oilers established
+him as arguably the greatest ever to play
+the game. While in Edmonton, Gretzky was
+awarded the Hart Trophy, given to the <hi rend="smallcaps">NHL</hi>'s
+most valuable player, every year from 1980 to
+1987 and again in 1989 as well as the Art Ross
+Trophy for the league's scoring leader eight
+times (1981–87, 1990–91, and 1994). During
+the 1981–82 season he scored the fastest fifty
+goals and 100 points in one season (thirtyeight
+games). He holds fourteen <hi rend="smallcaps">NHL</hi> career
+records and led the Oilers to five Stanley Cups.</p>
+
+<p>Gretzky became a hockey icon in Edmonton
+and developed similar followings playing
+for the Los Angeles Kings (1988–95), St. Louis
+Blues (1995–96), and New York Rangers (1996
+to his retirement in 1999). With his popularity
+among the fans and his numerous trophies,
+awards, and honors, it is easy to understand
+why Wayne Gretzky was named the top player
+of all time in 1998 by the <title level="j">Hockey News</title> and was
+inducted into the Hockey Hall of Fame in
+1999.</p>
+
+<closer>
+<signed>Lisa M. DeChano<lb/>
+Western Michigan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>National Hockey League. <title level="m">The Official Guide and Record
+Book, 1996-1997</title>. Chicago: Triumph Books, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

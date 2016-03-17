@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ranches</title>
+<title level="m" type="sub"></title>
+<author>Paul D. Travis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Travis, Paul D.">Paul D. Travis</author>. <title level="a">"Ranches."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">48-49</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RANCHES</head>
+
+<p>The day of the cattlemen, of trail drives and
+open range, lasted only about two decades,
+from 1866 to about 1887, in the Great Plains.
+The cattlemen then adjusted to the new era of
+fence laws, barbed wire, and quarantine laws
+by gaining control of vast areas of rangeland
+in the Texas Panhandle, the Nebraska Sandhills,
+eastern Wyoming, and other parts of the
+Plains, which, because of aridity and isolation,
+were not attractive to homesteaders. By manipulating
+land laws such as the Timber Culture
+Act (1873) and the Forest Lieu Act (1897),
+they were able to own the land along the water
+courses and lakes and, therefore, have undisturbed
+use of the intervening range. On the
+U.S. Plains, at least, ranchers sometimes used
+violence to maintain their operations; more
+often, however, they relied on the abilities of
+their ranch managers to adapt to the changing
+times, and some of the early enterprises continue
+to prosper.</p>
+
+<p>In the Texas Panhandle, the <hi rend="smallcaps">XIT</hi> ("ten counties
+in Texas") Ranch, run by a Chicago business
+coalition, eventually extended over more
+than three million acres and had a herd of
+more than 150,000 head, watched over by
+more than a hundred ranch hands. The huge
+spread was gradually sold to ranchers and
+farmers over the course of the first half of
+the twentieth century. The King Ranch in
+southeast Texas, founded by Richard King and
+Mifflin Kennedy, who later divided their holdings,
+covered one million acres in 1852. King's
+widow, Henrietta, operated the ranch after
+1885. Other large Texas ranches, founded
+in the decades after the Civil War, include the
+<hi rend="smallcaps">JA</hi>, the Pitchfork, and the 6666. The <hi rend="smallcaps">JA</hi> was
+founded by Charles Goodnight in 1877, with
+financial backing from Irishman John G.
+Adair (hence the name and brand). The <hi rend="smallcaps">JA</hi>
+encompassed 1.3 million acres in Palo Duro
+Canyon and grazed 100,000 cattle in the early
+1880s. It remains a working ranch today. So
+too do the Pitchfork and 6666 Ranches, which
+are both headquartered near Guthrie, Texas,
+and known for their quality cattle and American
+quarter horses.</p>
+
+<p>George Washington Miller and his sons'
+101 Ranch in northeastern Oklahoma, with
+110,000 acres, rodeos, and Wild West shows, is
+another famous Plains ranch. The 101 remained
+intact until surviving son Zach was
+obliged to sell at a bankruptcy auction in 1931.
+In northwestern Kansas, C. P. Dewey and his
+son Chauncey controlled 700,000 acres, about
+half of which they owned and the remainder
+they leased from private owners or the federal
+government. Other notable Central Plains
+ranches include the Colorado spread operated
+by John Iliff until his death in 1878 and the
+150,000-acre Spade Ranch in the Nebraska
+Sandhills. Iliff's methods reveal how ranchers
+in the United States controlled large amounts
+of territory in the nineteenth century. Iliff
+owned 105 scattered parcels of land, totaling
+only 15,588 acres, but by strategically locating
+his parcels along rivers and streams he was
+able to control a ranching territory of about
+6,000 square miles, extending from Greeley to
+the eastern border of Colorado.</p>
+
+<p>The Swan Land and Cattle Company, headquartered
+at Chugwater, Wyoming, which operated
+for more than seventy years and at its
+peak held as many as 110,000 head of cattle,
+serves as an example of the strong-arm techniques
+sometimes used by ranchers to control
+large amounts of land. In 1894 Alexander
+Swan hired noted gunman Tom Horn to kill
+rustlers and homesteaders, both of whom
+threatened Swan's large operation. Other cattlemen
+used equal or even greater violence,
+the best-known example being the infamous
+Johnson County War (1892) in north-central
+Wyoming, when vigilantes, hired by largescale
+ranchers who were members of the Wyoming
+Stock Growers Association, "invaded"
+Johnson County, searching out, and in two
+cases killing, small operators who were suspected
+of rustling. The Swan Land and Cattle
+Company has since been divided into
+smaller ranches, and its original buildings are
+in disrepair.</p>
+
+<p>The Matador Land and Cattle Company,
+founded by five Americans in northwest Texas
+along the Pease River in 1879, was taken over
+in 1882 by Scottish investors. Scottish ownership
+continued until the 1950s (with Murdo
+Mackenzie particularly influential), as the
+company acquired grazing lands throughout
+the Northern Great Plains and into Saskatchewan.
+The huge estate was divided into smaller
+holdings and sold after the 1950s.</p>
+
+<p>In the Prairie Provinces, adapted land laws
+and low population densities made ranching a
+more regulated enterprise than it was south of
+the forty-ninth parallel. Under the Land Act
+of 1881 ranchers could make twenty-one-year
+leases of up to 100,000 acres at one cent per
+acre, provided that the rancher kept one cow
+for every twenty acres of land. Alberta's Bar U
+Ranch, operated by George Lane, one of Canada's
+Big Four ranchers, served as the center of
+an empire that consisted not only of shortgrass
+ranches, but also farms, meatpacking
+factories, and flour mills. It was renowned for
+breeding cattle and Percheron horses. The Bar
+U Ranch, under new ownership, remains an
+active ranch more than 120 years after its
+founding.</p>
+
+<p>Today Great Plains ranchers drive the rough
+terrain of their spreads in air-conditioned
+four-wheel drive pickups or sport-utility vehicles.
+At holding pens and feeder yards
+eighteen-wheelers take on cattle then speed
+down interstates en route to distant markets
+or slaughterhouses. Ranchers watch price
+fluctuations and futures markets on television
+monitors linked to satellites. They express
+concern about new cattle afflictions, such as
+the dreaded mad cow disease. Membership in
+cattle associations and beef producer organizations
+is a necessity. Yet most carry the spirit
+and tradition of nineteenth-century ranches
+in their hearts, and ranching remains as much
+a way of life as a business.</p>
+
+<closer>
+<signed>Paul D. Travis<lb/>
+Texas Woman's University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dary, David. <title level="m">Cowboy Culture: A Saga of Five Centuries</title>.
+New York: Alfred A. Knopf, 1981.</bibl> <bibl>Jordan, Terry G. <title level="m">Trails to Texas: Southern Roots of Western Cattle Ranching</title>. Lincoln:
+University of Nebraska Press, 1981.</bibl> <bibl>Starrs, Paul F. <title level="m">Let the Cowboy Ride: Cattle Ranching in the American West</title>. Baltimore
+MD: Johns Hopkins University Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

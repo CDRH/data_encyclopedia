@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sam Sab&#225; Mission and Presidio</title>
+<title level="m" type="sub"></title>
+<author>Robert S. Weddle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Weddle, Robert S.">Robert S. Weddle</author>. <title level="a">"Sam Sab&#225; Mission and Presidio."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">366</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAN SAB&#193; MISSION AND PRESIDIO</head>
+
+<p>Franciscan missionaries and Spanish soldiers
+established Mission Santa Cruz de San Sab&#225;
+and Presidio de San Luis de las Amarillas
+on the San Saba River near present-day Menard,
+Texas, in 1757 to Christianize the eastern
+(Lipan) Apaches. Though failing to win
+Apache converts in significant numbers, the
+attempt brought the Spaniards into conflict
+with the Comanches and allied "northern
+tribes." Less than a year after its founding, on
+March 16, 1758, an estimated 2,000 Indians
+sacked and burned the log mission. The "protecting"
+presidio was powerless to intervene.
+The mission president, Fray Alonso Giraldo
+de Terreros, Fray Jos&#233; de Santiesteban, and at
+least six other mission occupants were slain.
+The mission was never rebuilt.</p>
+
+<p>The presidio commander, Col. Diego Ortiz
+Parrilla, led a 600-man expedition to punish
+the attacking Indians in 1759 but was repulsed
+at the fortified Taovaya (Wichita) village on
+the Red River. Nineteen Spaniards died and
+many others were wounded. His failure, added
+to the mission attack, emphasized the Native
+American's enhanced warfare capabilities,
+with Spanish horses and French firearms. Participants
+in the mission attack included not
+only Comanches of the Texas High Plains but
+also members of the Caddoan confederacies of
+eastern Texas and western Louisiana and the
+intervening Wichita groups.</p>
+
+<p>Ortiz Parrilla, going to Mexico to report,
+offered recommendations for dealing with the
+changes, but he was replaced as the commander.
+In his stead, Felipe de R&#225;bago y Ter&#225;n
+was sent to hold the post and maintain Spanish
+prestige. The presidio was temporarily
+abandoned in 1768 and closed for good in
+1770. The San Sab&#225; Mission episode signaled
+Spain's retreat from its northernmost Texas
+outpost and the reshaping of its entire northern
+defense system.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.040">San Sab&#225; Mission, Destruction of</ref>.</p>
+
+<closer>
+<signed>Robert S. Weddle<lb/>
+Bonham, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Weddle, Robert S. <title level="m">The San Sab&#225; Mission: Spanish Pivot in Texas</title>. Austin: University of Texas Press, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

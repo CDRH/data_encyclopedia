@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.law.053 SYSTEM "egp.law.053.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">White, Byron (1917-2002)</title>
+<title level="m" type="sub"></title>
+<author>Dennis J. Hutchinson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hutchinson, Dennis J.">Dennis J. Hutchinson</author>. <title level="a">"White, Byron (1917-2002)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">465</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WHITE, BYRON (1917-2002)</head>
+
+<figure n="egp.law.053" rend="granted">
+<figDesc>University of Colorado football star "The Whizzer" Byron White (right), between 1930 and 1940</figDesc>
+</figure>
+
+<p>Byron Raymond White was born on June 17,
+1917, in Fort Collins, Colorado, but grew up in
+the nearby sugar beet hamlet of Wellington.
+His father ran a lumberyard, and his mother
+was a homemaker. Both Byron and his older
+brother, Clayton S. (Sam), raised beets and
+did odd jobs from an early age to help support
+the family. A full-tuition scholarship took Byron
+White from this impoverished Plains
+background to the University of Colorado,
+where he became class president, all-American
+in football (second in the 1937 Heisman
+Trophy vote), and a Rhodes Scholar. (His
+brother had become a Rhodes Scholar four
+years earlier.) After a season as the highestpaid
+player in the National Football League,
+he went to Oxford, but war forced him to
+return stateside, where he attended Yale Law
+School. Following naval service in the South
+Pacific, he returned to Yale, led his class academically,
+and then clerked for the chief justice
+of the United States.</p>
+
+<p>In 1959 John F. Kennedy, whom White had
+met in England and in the navy, enticed him
+to help run his impending presidential campaign.
+After the election, Kennedy appointed
+White deputy attorney general, and White
+spent more than a year as the principal administrator
+of the Department of Justice, with
+special responsibility for staffing and judicial
+nominations. He personally went to Alabama
+in 1961 to oversee treatment of the Freedom
+Riders. When Justice Charles E. Whittaker of
+Kansas retired on disability in March 1962,
+Kennedy named White to the Court, the only
+Colorado native so honored. White spent
+three decades on the Court, where he earned a
+reputation for brilliance if not eloquence and
+for skepticism toward judicial intervention in
+social problems unless clearly guided by appropriate
+legislation. His best-known opinions
+were dissents involving criminal justice
+(<hi rend="italic">Miranda v. Arizona</hi>), abortion (<hi rend="italic">Roe v. Wade</hi>),
+and separation of powers (<hi rend="italic"><hi rend="smallcaps">INS</hi> v. Chadha</hi>).</p>
+
+<p>White retired form the Court in 1993 but
+continued to sit on lower federal courts and to
+serve the nation in a variety of capacities. He
+died in Denver, Colorado, of complications
+from pneumonia, on April 15, 2002.</p>
+
+<closer>
+<signed>Dennis J. Hutchinson<lb/>
+University of Chicago</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hutchinson, Dennis J. <title level="m">The Man Who Once Was Whizzer White</title>. New York: Free Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

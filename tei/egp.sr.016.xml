@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Edmonton Grads</title>
+<title level="m" type="sub"></title>
+<author>Ronald S. Lappage</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lappage, Ronald S.">Ronald S. Lappage</author>. <title level="a">"Edmonton Grads."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">771-772</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EDMONTON GRADS</head>
+
+<p>The Edmonton Commercial Graduates (Grads)
+dominated women's basketball in North America
+during the interwar years. Percy Page started
+the team in 1915 with students and graduates
+from Edmonton's McDougall Commercial
+High School, where he was a teacher, and only
+twice during the Grads' twenty-five years did
+girls who had not been at McDougall High play
+for the team.</p>
+
+<p>From 1915 until the team disbanded in 1940,
+when their practice area was taken over for
+military purposes, the Grads won 502 of 522
+games. At one point in their history they had a
+winning streak of 147 games, followed by a 78-game
+winning streak. They won their first Canadian
+title in 1922 and never surrendered it. In
+1923, against Cleveland, they won the first international
+series for the Underwood Trophy.
+They defended it successfully for seventeen
+years. The Grads competed in F&#233;d&#233;ration
+Sportive F&#233;minine Internationale (<hi rend="smallcaps">FSFI</hi>) championships
+held in the same cities as the men's
+Olympics on four occasions (1924, 1928, 1932,
+and 1936) and won the unofficial world championship each time, with twenty-seven consecutive
+victories.</p>
+
+<p>Everywhere the Grads played they drew
+large crowds, including the record attendance
+of 6,792 for an Underwood Trophy match
+against the Chicago Taylor-Trunks in Edmonton
+in 1930. However, the Grads did not forget
+their Prairie roots, and they staged basketball
+exhibitions in several small Alberta communities.
+Coach Page expected his Grads to behave
+"like ladies" both on and off the court,
+and his teams established a reputation for
+sportsmanship, dedication, and determination.
+Significantly, they demonstrated that
+they could play the more vigorous men's rules
+and yet retain their femininity. When asked
+about the Grads' secret of success, Page replied,
+"They were champions because they
+were whole-hearted, sport-loving girls in
+whom the spirit of the Prairie was born and
+bred."</p>
+
+<closer>
+<signed>Ronald S. Lappage<lb/>
+Lakehead University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fitness and Amateur Sport Canada. <title level="m">For the Record: Canada's
+Greatest Women Athletes</title>. Toronto: John Wiley and
+Sons Canada Ltd., 1981.</bibl> <bibl>Kidd, Bruce. <title level="m">The Struggle for Canadian
+Sport</title>. Toronto: University of Toronto Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

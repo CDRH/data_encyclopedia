@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">South Americans</title>
+<title level="m" type="sub"></title>
+<author>Roger P. Davis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Davis, Roger P.">Roger P. Davis</author>. <title level="a">"South Americans."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">367-368</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SOUTH AMERICANS</head>
+
+<p>Hispanics of South American origin, foreign
+born or of foreign stock, appear in census figures
+for the Great Plains from the late nineteenth
+century on, but their numbers take on
+significance only in the latter half of the twentieth
+century.</p>
+
+<p>In general, the South American population
+in North America has never been substantial.
+Canadian censuses do not distinguish ethnic
+categories prior to 1941, and following that
+date numbers of South Americans are consistently
+below 1 percent of Canada's total population.
+From 1890 through 1930 South Americans
+accounted for an average of only 3.6 percent
+of the entire Hispanic population of the
+United States. Census figures range from a low
+of 4,733 in 1900 to a high of 33,623 in 1930. Of
+this population during those years, fewer than
+1,000 ever settled in the Great Plains. As represented
+in the 1900 and 1930 census, South
+Americans on the Plains ranged from 279 to
+853 individuals. However, while the numbers
+are few, the geographic pattern they formed
+represented a template for the future. Of the
+ten states and three provinces of the Great
+Plains, Texas and Colorado consistently accounted
+for half, or nearly half, of the South
+American population, with Kansas and Oklahoma
+trading off as the third most popular
+destination. The population of New Mexico,
+while significantly Hispanic, was predominantly
+Mexican and attracted relatively few
+South Americans from 1890 to 1930.</p>
+
+<p>The presence of South Americans in the
+Great Plains increased markedly from 1960 to
+the present. For the United States as a whole,
+the number of South Americans increased
+from 89,000 to more than 1 million persons.
+For the Great Plains specifically, the relative
+share of the national total remained nearly
+constant at 5 to 6 percent, while numbers grew
+from just over 9,000 to nearly 53,000 persons.
+The most significant spatial aspect of this population
+growth is the continuation of the earlier
+pattern of settlement, but with an even
+greater concentration in Texas.</p>
+
+<p>As in the earlier census, Texas and Colorado
+account for the majority of the South Americans
+in the Plains. From 1960 through 1990
+they claimed from 63 percent to just over 85
+percent of the Plains total. Again, New Mexico,
+with only 2 to 4 percent of the Plains total
+during these decades, is not a significant location
+for South Americans. A new variant that
+has emerged in this time frame is the sharp
+increase in the concentration of South Americans
+in Texas. In 1960 Texas, Colorado, and
+Oklahoma combined claimed 75 percent of
+the South Americans in the Great Plains. By
+1990 Texas alone was home to more than 76
+percent of the total, and Texas and Colorado
+together represented over 90 percent of the
+Plains total.</p>
+
+<p>While actual numbers for some other Plains
+states increased&#8211;in Oklahoma from 1,098 to
+2,477; in Nebraska from 307 to 783; in New
+Mexico from 439 to 1,357; and in South Dakota
+from 94 to 217&#8211;their relative share of Plains
+South Americans fell as the Texas population
+surged from 4,374 to 40,521.</p>
+
+<p>What accounts for these geographic patterns
+is unclear, but statistics on education and
+occupation suggest some possible answers. Research
+on Hispanics in the United States by
+categories indicates that South Americans are
+much more likely to have a college degree or
+some education beyond high school than most
+other Hispanic groups. South Americans are
+also distinguished by their occupational profile:
+they are twice as likely to report employment
+in the managerial, professional, technical,
+administrative, and sales areas than other
+Hispanic groups. They are generally not associated with the service area categories of private
+household occupations or farming, or
+with other categories of general labor. The demographic
+data suggest that because Texas and
+Colorado represent expanding regional hubs
+of technology, education, and professional occupations,
+they offer the best prospects for
+South Americans in the Great Plains.</p>
+
+<closer>
+<signed>Roger P. Davis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Aponte, Robert, and Marcelo E. Siles. "Latinos in the
+Heartland: The Browning of the Midwest." <hi rend="smallcaps">JSRI</hi> Research
+Report no. 5. East Lansing <hi rend="smallcaps">MI</hi>: Julian Samora Research
+Institute, Michigan State University, 1994.</bibl> <bibl>Moreno, Susan
+E. "U.S. Latinos and Higher Education." <hi rend="smallcaps">IUPLR</hi> Briefing
+Papers, no. 1: 6. Austin <hi rend="smallcaps">TX</hi>: Inter-University Program for
+Latino Research, 1999.</bibl> <bibl>Pinal, Jorge del, et al. "We the
+Americans . . . Hispanics." Washington <hi rend="smallcaps">DC</hi>: U.S. Department
+of Commerce, Economics and Statistics Division,
+Bureau of the Census, September 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.wat.000 SYSTEM "egp.wat.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Water</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Water</head>
+
+<figure n="egp.wat.000" rend="granted">
+<figDesc>Flooding in Grand Forks, North Dakota, and East Grand Forks, Minnesota, 1997</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.wat.001">Water</ref></item>
+<item><ref n="egp.wat.002">Appropriation Doctrine</ref></item>
+<item><ref n="egp.wat.003">Bow River Irrigation Project</ref></item>
+<item><ref n="egp.ind.011">Center Pivots <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.wat.005">Cheyenne Bottoms</ref></item>
+<item><ref n="egp.wat.006">Colorado Doctrine</ref></item>
+<item><ref n="egp.wat.007">Doctrine of Equity</ref></item>
+<item><ref n="egp.wat.008">Drought</ref></item>
+<item><ref n="egp.wat.009">Floods</ref></item>
+<item><ref n="egp.wat.010">Gardiner Dam</ref></item>
+<item><ref n="egp.wat.011">Irrigation</ref></item>
+<item><ref n="egp.wat.012">Kettle Lakes</ref></item>
+<item><ref n="egp.wat.013">Lake Agassiz</ref></item>
+<item><ref n="egp.wat.014">Mead, Elwood</ref></item>
+<item><ref n="egp.wat.015">Mni Sose Intertribal Water Rights Coalition</ref></item>
+<item><ref n="egp.wat.016">Northwest Irrigation Act</ref></item>
+<item><ref n="egp.wat.017">Oahe Unit</ref></item>
+<item><ref n="egp.wat.018">Ogallala Aquifer</ref></item>
+<item><ref n="egp.wat.019">Pick-Sloan Plan</ref></item>
+<item><ref n="egp.wat.020">Platte River Whooping Crane Maintenance Trust</ref></item>
+<item><ref n="egp.wat.021">Playa Lakes</ref></item>
+<item><ref n="egp.tra.025">Portages <hi rend="italic">See</hi> <hi rend="smallcaps">Transportation</hi></ref></item>
+<item><ref n="egp.wat.023">Rainmaking</ref></item>
+<item><ref n="egp.wat.024"><hi rend="italic">Report on the Lands of the Arid Region</hi></ref></item>
+<item><ref n="egp.wat.025">Riparian Doctrine</ref></item>
+<item><ref n="egp.wat.026">River Compacts</ref></item>
+<item><ref n="egp.wat.027">Rivers</ref></item>
+<item><ref n="egp.ct.043">River Towns <hi rend="italic">See</hi> <hi rend="smallcaps">Cities and Towns</hi></ref></item>
+<item><ref n="egp.wat.029">Sandhills Lakes</ref></item>
+<item><ref n="egp.wat.030">Spanish Water Law</ref></item>
+<item><ref n="egp.wat.031">Stock Ponds</ref></item>
+<item><ref n="egp.wat.032">Transmountain Water Diversion Projects</ref></item>
+<item><ref n="egp.wat.033">Union Colony</ref></item>
+<item><ref n="egp.wat.034">U.S. Army Corps of Engineers</ref></item>
+<item><ref n="egp.wat.035">Water Law, Prairie Provinces</ref></item>
+<item><ref n="egp.wat.036">Water Quality</ref></item>
+<item><ref n="egp.wat.037">Water Towers</ref></item>
+<item><ref n="egp.tra.039">Water Transportation <hi rend="italic">See</hi> <hi rend="smallcaps">Transportation</hi></ref></item>
+<item><ref n="egp.wat.039">Wetlands</ref></item>
+<item><ref n="egp.wat.040">Wild and Scenic Rivers</ref></item>
+<item><ref n="egp.wat.041">Winters Doctrine</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

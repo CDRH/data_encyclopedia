@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mills, Billy (b. 1938)</title>
+<title level="m" type="sub"></title>
+<author>Adam R. Hornbuckle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hornbuckle, Adam R.">Adam R. Hornbuckle</author>. <title level="a">"Mills, Billy (b. 1938)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">779</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILLS, BILLY (b. 1938)</head>
+<figure n="egp.sr.037" rend="granted" type="noclick">
+<figDesc>"Billy Mills winning the 10,000m in the 1964 Olympics"</figDesc>
+</figure> 
+
+<p>Billy Mills, an Oglala Sioux, achieved one of
+the Olympic Games' most astonishing upsets
+by winning the gold medal in the 10,000 meters
+in Tokyo, Japan, in 1964. William Mervin
+Mills was born on June 30, 1938, on the Pine
+Ridge Reservation in South Dakota. He entered
+Haskell Institute, an Indian school in
+Lawrence, Kansas, after being orphaned at age
+twelve. Active in various sports, he discovered
+a penchant for distance running and, in 1957,
+obtained an athletic scholarship to the University
+of Kansas.</p>
+
+<p>Mills won several Big 8 Conference crosscountry
+and indoor and outdoor track titles
+before graduating from the University of
+Kansas in 1962. He joined the U.S. Marine
+Corps and, after a two-year break from competitive
+running, qualified for the 1964 U.S.
+Olympic team in the 10,000 meters and the
+marathon. A relative unknown in the 10,000
+meters, Mills outran favorites Ron Clarke of
+Australia and Mohamed Gammoudi of Tunisia
+in the final few meters, establishing an
+Olympic record of 28:24.4. He joined Louis
+Tewanima, another Native American who had
+won the silver medal in the 10,000 meters in
+1912, as the only Americans to garner medals
+in the event. Mills also won national Amateur
+Athletic Union (<hi rend="smallcaps">AAU</hi>) titles at three miles indoors
+and six miles outdoors in 1965.</p>
+
+<p>After retiring from running, Mills established
+insurance and public relations firms in
+California. From 1971 to 1974 he served as an
+assistant commissioner of Indian affairs in the
+Office of Recreation and Physical Fitness. In
+that role, Mills revived the National Track and
+Field Hall of Fame and the American Indian
+Athletic Hall of Fame. In 1980 he founded the
+Billy Mills Leadership Institute to improve social
+and economic conditions of Native Americans.
+The 1984 film, <title level="m">Running Brave</title>, depicted
+his rise to Olympic success.</p>
+
+<closer>
+<signed>Adam R. Hornbuckle<lb/>
+Alexandria, Virginia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mills, Billy. <title level="m">Wokini: A Lakota Journey to Happiness and Self
+Understanding</title>. New York: Crown, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

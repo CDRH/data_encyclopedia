@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.na.025 SYSTEM "egp.na.025.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dull Knife (ca. 1810-1883)</title>
+<title level="m" type="sub"></title>
+<author>Joe Starita</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Starita, Joe">Joe Starita</author>. <title level="a">"Dull Knife (ca. 1810-1883)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">572</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DULL KNIFE (ca. 1810-1883)</head>
+
+<figure n="egp.na.025" rend="granted">
+<figDesc>Dull Knife (Wo'he Hiv')</figDesc>
+</figure>
+
+<p>He was born in the rugged mountain country
+of Montana's Rosebud Valley at the beginning
+of the nineteenth century and died there near
+century's end. In between, the trajectory of his
+life encompassed the full sweep of Indian experience
+on the nineteenth century Northern
+Great Plains: warrior, chief, signatory to the
+Fort Laramie Treaty, statesman, reservation
+citizen, Cheyenne Outbreak leader, hunted
+quarry, starving survivor, tribal elder.</p>
+
+<p>To his people, the Northern Cheyennes, he
+was called <hi rend="italic">Wo'he Hiv'</hi>, or Morning Star. As
+a boy, it is said that he showed uncommon
+bravery and leadership. As a young man, he
+joined in raids against the Crows, Arikaras,
+Snakes, and Shoshones, earning a reputation
+for fierceness and courage. On December 21,
+1866, he and Lakota war chief Crazy Horse led
+a decoy party that helped wipe out Capt. William
+J. Fetterman and all eighty-one of his
+men. But not long afterward he began to believe
+war against the whites was hopeless. A
+gifted orator and skilled negotiator, he visited
+the forts, talked to the soldiers, and attended
+peace parleys, looking for a way out for his
+people.</p>
+
+<p>In 1868 he was among the chiefs who signed
+the Treaty of Fort Laramie, agreeing he would
+never again "sharpen his knife" against the
+whites. Dull Knife, as he was now known, kept
+his word. Col. George A. Woodward, commander
+of Fort Fetterman, recalled an 1871
+visit to the fort: "Of the three head-men of the
+Cheyennes, Dull Knife was, I think, greatly the
+superior. . . . His manner of speech was earnest
+and dignified, and his whole bearing was
+that of a leader with the cares of state."</p>
+
+<p>In June 1876, while others left for the Little
+Bighorn, Dull Knife stayed in his camp a few
+miles southwest of the battle. Exactly five
+months after the Custer fight, a surprise predawn
+army attack wiped out much of his village.
+On April 21, 1877, after a winter sharing
+meager supplies in Crazy Horse's camp, Dull
+Knife and 553 of his people surrendered at
+Fort Robinson, Nebraska.</p>
+
+<p>Five weeks later, Dull Knife and his Northern
+Cheyenne were forcibly marched to a reservation
+in Indian Territory. After a year enduring
+starvation, disease, death, and acute
+homesickness, Dull Knife and Little Wolf, another
+chief and the tribe's most capable warrior,
+decided to lead about 300 of their people
+north on a 1,000-mile freedom flight back to
+their Montana homeland. They left on September
+9, 1878. Six weeks and more than 500
+miles later&#8211;exhausted, hungry, cold, an estimated
+2,000 troops in pursuit&#8211;they had made
+it deep into the Sandhills of northwest Nebraska,
+where the chiefs made a decision: Little
+Wolf and the stronger ones would continue to
+Montana; Dull Knife and the weaker ones
+would look for Red Cloud's nearby camp.</p>
+
+<p>On October 23, the cavalry caught up with
+the weaker group, marching Dull Knife and
+148 prisoners on a twenty-eight-mile trek to
+Fort Robinson. The post commander, Capt.
+Henry Wessells, told Dull Knife and four sub-chiefs
+on January 3, 1879, that a decision had
+been made: the Northern Cheyenne must return
+immediately to their Indian Territory
+reservation. "I am here on my own ground,"
+Dull Knife replied, "and I will never go back.
+You may kill me here, but you cannot make
+me go back." On January 5, Wessells ordered
+all food and heating fuel withheld from the
+defiant Northern Cheyennes. Two days later,
+he cut off the water supply. Still, Dull Knife
+and his people refused to leave their barracks.</p>
+
+<p>Shortly before 10 <hi rend="smallcaps">P.M.</hi> on the evening of January
+9, with the temperature below zero and
+half a foot of snow on the ground, the Northern
+Cheyennes broke out of the barracks, fleeing
+for the protective bluffs across the White
+River. Skirmishes between the Northern Cheyennes
+and cavalry troops continued for two
+weeks. When the shooting ended on January
+23, thirty-nine Northern Cheyenne men and
+twenty-five women and children had been
+killed. Dull Knife was not among them. He and
+several family members eventually made it to
+the safety of Pine Ridge Agency about sixty
+miles away, surviving the last few nights by
+eating the soles of their moccasins.</p>
+
+<p>Later that year Dull Knife, then about seventy,
+was allowed to return to Montana. In
+November he rejoined Little Wolf, who&#8211;after
+a journey of seven months and more than
+1,000 miles&#8211;had made it safely back. Dull
+Knife died of natural causes in his Rosebud
+Valley homeland in 1883. About a year later, on
+March 26, 1884, the U.S. government officially
+set aside a tract of Montana land as the permanent
+home of the Northern Cheyennes.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.014">Crazy Horse</ref>.</p>
+
+<closer>
+<signed>Joe Starita<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Starita, Joe. <title level="m">The Dull Knifes of Pine Ridge: A Lakota Odyssey</title>.
+New York: Putnam, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

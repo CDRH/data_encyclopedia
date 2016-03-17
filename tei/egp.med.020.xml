@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Freeman, Legh (1842-1915)</title>
+<title level="m" type="sub"></title>
+<author>William E. Huntzicker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Huntzicker, William E.">William E. Huntzicker</author>. <title level="a">"Freeman, Legh (1842-1915)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">512-513</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FREEMAN, LEGH (1842-1915)</head>
+
+<p>Legh Freeman was born on December 4, 1842,
+in Culpeper, Virginia. During the Civil War he
+served as a telegraph operator in the Confederate
+army. He was captured in 1864 but later
+released after swearing allegiance to the Union
+and agreeing to serve in the American West. In
+April 1865 Freeman arrived at Fort Kearny,
+Nebraska, where troops were needed to guard
+the Oregon Trail. After being mustered out of
+the service late in 1865, Freeman acquired
+some old printing equipment and began editing
+and publishing the <title level="j">Kearney Herald</title>. He
+was joined in 1866 by his brother Frederick,
+and when the Union Pacific moved past Kearney
+that fall, the brothers packed up their
+equipment, renamed their paper the <title level="j">Frontier Index</title>, and moved to North Platte. Sometimes
+called the "press on wheels," the <title level="j">Frontier Index</title>
+then moved from one railroad construction
+camp to the next, including the future towns
+of North Platte, Nebraska; Julesburg, Colorado;
+Laramie, Wyoming; and Ogden, Utah.</p>
+
+<p>One study of Freeman's extant editorials
+found that 25 percent promoted town sites, 16
+percent discussed local nonpolitical affairs,
+15 percent local politics, 7 percent Indian issues,
+and 5 percent the newspaper itself. In
+his editorials he vociferously attacked Mormons,
+Chinese, Indians, politicians, opposition
+editors, construction-camp lawlessness,
+and President Ulysses S. Grant. On at least one
+occasion Freeman's biting editorials cost him
+his press and nearly his life. On November 20,
+1868, in Bear River City, Dakota Territory
+(soon to be Wyoming Territory), a mob of
+infuriated railroad workers destroyed Freeman's
+printing equipment and drove him out
+of town.</p>
+
+<p>Freeman never stayed in one place too long.
+Like the mountain men he emulated, the editor
+tried to stay ahead of advancing settlement.
+Freeman's brother Fred and later his
+wife, Ada, sometimes ran the paper while he
+traveled and sent home columns. Freeman
+stayed in the newspaper business long after
+the completion of the transcontinental railroad:
+he published newspapers in Utah, Montana,
+and Washington. He married three times
+and had four children. His later years were
+spent in Washington, where he published the
+<title level="j">Washington Farmer</title> and became involved in
+the populist movement. Representing himself
+as the "Red Horse Candidate," Freeman failed
+twice to obtain a senatorial seat and finished
+last in the 1914 North Yakima mayoral election.
+He died February 7, 1915, in North Yakima,
+Washington.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.027">"Hell on Wheels" Towns</ref>.</p>
+
+<closer>
+<signed>William E. Huntzicker<lb/>
+Bemidji State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Heuterman, Thomas H. <title level="m">Movable Type: Biography of Legh R. Freeman</title>. Ames: Iowa State University Press, 1979.</bibl> <bibl>Lent,
+John A. "The Press on Wheels: A History of the Frontier
+Index." <title level="j">Journal of the West</title> 10 (1971): 662–99.</bibl> <bibl>Wright, Elizabeth.
+<title level="m">Independence in All Things, Neutrality in Nothing: The Story of a Pioneer Journalist of the American West</title>. San
+Francisco: Miller Freeman Publications, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

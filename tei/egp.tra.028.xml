@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Railroads, United States</title>
+<title level="m" type="sub"></title>
+<author>Donald J. Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Donald J.">Donald J. Berg</author>. <title level="a">"Railroads, United States."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">807-808</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RAILROADS, UNITED STATES</head>
+
+<p>In the last third of the nineteenth century railroads
+transformed the Great Plains of North
+America from a sparsely populated, primarily
+Native American territory to the agricultural
+heartland of both the United States and
+Canada.</p>
+
+<p>The post–Civil War period saw the first extension
+of standard gage tracks across the
+American Great Plains with the construction
+of the Union Pacific Railroad, a vital component
+of the first transcontinental line, completed
+in May 1869. At that time the Plains
+were perceived as space to cross as expeditiously
+as possible, linking the East Coast with
+the Pacific Coast. The Plains terrain, gradually
+sloping west to east, and the broad, flat river
+valleys permitted relatively easy construction
+and rapid expansion of the rail network. Although
+extractive and exploitative economic
+activities had been previously conducted in
+the Great Plains (for example, fur trading,
+bison hunting, cattle ranching, and mining),
+the region was not extensively settled and developed
+by European Americans until the latter
+third of the nineteenth century, when railroads
+made possible the farmers' advance into
+the area. While railroads made farming expansion
+onto the Plains possible, high freight
+rates, caused in part by lack of concern for
+farmers' well-being but also by the high cost
+of shipping often empty cars to a sparsely
+populated region to be filled with agricultural
+products, led to protest movements, most notably
+the Grange and the Farmers Alliance,
+both of which were successful, to a degree, in
+achieving government regulation of railroads
+by the 1870s and 1880s.</p>
+
+<p>As an instrument of development, railroads
+transformed the Great Plains into an integrated
+part of both the United States and Canada
+by carrying passengers, including inbound
+immigrants, and by hauling agricultural products
+out and building materials in. After the
+Union Pacific, more than a dozen other railroads
+laid tracks across the Plains, including
+the Southern Pacific and the Northern Pacific.
+They began aggressively to articulate their networks
+in an effort to capture service territory.
+Although their progress was interrupted by
+financial panics and other temporary setbacks,
+the Great Plains had been laced together with
+ribbons of steel by the late nineteenth century.
+Later, similar development occurred in Canada. The first line to cross the Canadian Great
+Plains was the Canadian Pacific Railway, completed
+in 1885. Other railroad companies followed.
+Eventually the northern section of the
+Plains would have a rail pattern similar to that
+of its southern neighbor.</p>
+
+<p>Thus, a railroad landscape, as a feature of a
+larger cultural landscape, came into existence.
+As the agricultural settlement pattern became
+fixed upon the Great Plains railroad companies
+continued to build thousands of miles
+of secondary and branch lines on both sides of
+the international border. The zenith of Plains
+railroad development occurred in the early
+1920s, when approximately 42,000 miles of
+track crisscrossed the region.</p>
+
+<p>Railroads greatly influenced Great Plains
+urban patterns. Railroad officials located and
+founded the majority of the region's towns
+and cities. The distance between the towns
+was generally about eight to ten miles, which
+was considered a reasonable hauling distance
+for farm products, especially small grains. Elevator
+capacity of about 30,000 bushels necessitated
+a town for every one or two townships.
+Consequently, the semihumid eastern Great
+Plains developed a fairly dense urban settlement
+pattern (too dense, in fact, and many of
+the towns eventually failed). The railroads
+also platted out the towns, generally in a T
+form, with the Main Street perpendicular to
+the tracks and the elevator, lumberyard, and
+other shipping facilities on the other side.
+Areas west of the 100th meridian generally exhibited
+a more dispersed pattern, due to their
+unsuitability for traditional farming techniques.
+Other railroad sites were set up as locomotive
+watering and repair points, division
+o.ces, and bridging locations on major rivers.
+The only European American sites that
+preceded railroad towns in the Great Plains
+were riverboat ports, fur-trading posts, forts,
+mining camps, and prerailroad settlements
+within reach of the Missouri River in territorial
+Kansas, Nebraska, and Dakota.</p>
+
+<p>After World War II and especially since the
+1960s, three themes have characterized railroading
+in the Great Plains. The first is abandonment
+of unprofitable branch and secondary
+lines. Since the 1950s in excess of 8,000
+miles of track have been torn up, leaving many
+Plains towns without rail service (and bikers
+and hikers richly endowed with trails that cut
+diagonally across the otherwise right-angled
+grid of the Plains landscape). South Dakota,
+Kansas, Texas, Nebraska, and Oklahoma have
+each lost more than 1,000 miles of track; only
+Wyoming has gained, the result of expansion in
+the coal-rich Powder River Basin. Second, the
+number of rail carriers has declined through
+numerous consolidations and mergers. The
+Great Plains is crossed by only a handful of Class
+A (major carriers) railroads today. A number of
+regional and subregional freight lines (short
+lines) have emerged from the infrastructures of
+the defunct carriers, some of which are successful
+financially. State railroad authorities have
+purchased trackage in an effort to maintain vital
+services such as the delivery of coal to large-scale
+electric power generating stations. Third, some
+railroads operating in the region have transformed
+themselves into long-haul bulk carriers,
+with unit coal and grain trains that often consist
+of more than 100 railcars. Tonnage has been
+increasing as the Class A railroads continue to
+haul greater and greater amounts of raw materials
+that are either produced in the Great Plains
+(in the Wyoming coal fields, for example) or
+transported across them. Double tracks support
+several high-volume routes that cross the Central
+Great Plains, and single track in both the
+Northern and Southern Plains is used to capacity.
+Also, several Plains rail corridors function as
+"dry canals" for the transcontinental movement
+of trains hauling only ship container cargoes.</p>
+
+<p>The belief that the Great Plains was a barrier
+to be crossed in an east-west direction, coupled
+with separate national strategies to connect
+East with West, resulted in very little articulation
+of the U.S. and Canadian railroad
+networks across the international border.
+North-south connections were not well developed,
+especially on the U.S. side, although
+a plan was promoted before World War I to
+connect Winnipeg, Manitoba, to Galveston,
+Texas, via the eastern Plains. The only major
+connection, a Canadian Pacific Railway route,
+traces a diagonal line across the Northern
+Great Plains from Saskatchewan through Minnesota.
+Six passenger corridors traverse the
+Plains, operated today by the Amtrak (U.S.)
+and Via Rail (Canadian) systems. The passage
+is essentially east-west across the region with
+only one north-south line on the southeastern
+Plains periphery. Relatively little passenger
+tra.c is generated at Plains station stops, because
+few large cities are located along the respective
+routes.</p>
+
+<p>The efficiency and economics of bulk cargo
+movement as well as the lesser environmental
+impacts of railroads compared to trucks on
+roads and highways continue to promote the
+use of railroads. A distinctive Great Plains
+railroad geography manifests itself across the
+region in the general settlement fabric and in
+the spectacular coalescence of lines at major
+towns. Sounds of diesel locomotive horns and
+rushing freight trains moving from horizon to
+horizon will continue to reverberate across
+the Plains into the foreseeable future.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.038">Railroad Depots</ref> /
+<hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.050">T-Towns</ref> / <hi rend="smallcaps">PROTEST AND
+DISSENT</hi>: <ref n="egp.pd.019">Farmers Alliance</ref>; <ref n="egp.pd.025">Grange</ref>.</p>
+
+<closer>
+<signed>Donald J. Berg<lb/>
+South Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hudson, John C. <title level="m">Plains Country Towns</title>. Minneapolis:
+University of Minnesota Press, 1985.</bibl> <bibl>Kirby, Russell S.
+"Nineteenth-Century Patterns of Railroad Development
+on the Great Plains." <title level="j">Great Plains Quarterly</title> 3 (1983): 156–70.
+Vance, James E., Jr. <title level="m">The North American Railroad: Its
+Origin, Evolution, and Geography</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns
+Hopkins University Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

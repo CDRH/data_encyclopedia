@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Little Magazines</title>
+<title level="m" type="sub"></title>
+<author>Ladette Randolph</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Randolph, Ladette">Ladette Randolph</author>. <title level="a">"Little Magazines."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">483</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LITTLE MAGAZINES</head>
+
+<p>If the job of little magazines is to shape literary
+taste, the Great Plains states have helped shape
+such taste for the better part of a century.
+Some of the oldest and most venerable of the
+country's literary magazines are published in
+the Great Plains: <title level="j">Prairie Schooner</title> has been
+published continuously at the University of
+Nebraska since 1926, and <title level="j">North Dakota Quarterly</title>,
+which started in 1910 at Grand Forks as
+<title level="j">Quarterly Review</title>, ceased publication from
+1933 to 1955 and then began publication again
+under its new name. More recent nationally
+recognized university-based journals include
+<title level="j">South Dakota Review</title> (Vermillion, 1963), <title level="j">Nebraska
+Review</title> (Omaha, 1972), <title level="j">Cimarron Review</title>
+(Stillwater, Oklahoma, 1967), <title level="j">Denver Quarterly</title> (1966), <title level="j">Colorado Review</title> (Fort Collins,
+1956), <title level="j">Writers' Forum</title> (Colorado Springs,
+1974), <title level="j">The Texas Review</title> (Huntsville, 1980) and
+<title level="j">Puerto del Sol</title> (Las Cruces, New Mexico, 1960).</p>
+
+<p>Historically, critics have charged that university-
+sponsored magazines do not find truly
+new literary work because their institutions
+are interested primarily in establishing orthodox
+reputations, while the little magazine
+ought to be interested in the unorthodox. In
+any case, the Great Plains also hosts a number
+of literary journals independent of academia.
+The <title level="j">Bloomsbury Review</title> has been a highly successful
+Denver independent since 1980. The
+magazine's large subscriber base (65,000) and
+loyal advertisers keep it solvent. Robert Greer,
+founder and editor of Denver's <title level="j">High Plains Literary Review</title> since 1986, is a medical doctor
+who teaches in the University of Colorado's
+medical school and writes medical thrillers. He
+started the magazine to showcase work he felt
+was not being published in other journals. Volunteers,
+including editor Polly Swafford, are
+the reason <title level="j">Potpourri</title> (Prairie Village, Kansas,
+1989) claims it has been able to continue to
+publish. However, independent publishers
+also have problems with censorship, as Michael
+Hathaway, editor of the <title level="j">Chiron Review</title>
+(St. John, Kansas, 1982), discovered when he
+had to search for a new printer after the newspaper
+that printed the quarterly took offense at
+accepted material.</p>
+
+<p>The Canadian independents, most notably
+<title level="j">Prairie Fire</title> (Winnipeg, 1978) and <title level="j">Grain</title> (Regina,
+1973), are primarily funded by three
+sources: provincial writers guilds, the Canada
+Council for the Arts, and local arts councils,
+while <title level="j">Prairie Journal</title> (Calgary, 1983) is supported
+by a trust.</p>
+
+<p>Both university-sponsored and independent
+literary magazines located in the Great
+Plains have played a significant role in the formation
+of contemporary literary taste. The
+tradition promises to remain strong in the
+twenty-first century.</p>
+
+<closer>
+<signed>Ladette Randolph<lb/>
+University of Nebraska Press</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderson, Elliott, and Mary Kinzie, eds. <title level="m">The Little Magazine in America: A Modern Documentary History</title>. Yonkers
+<hi rend="smallcaps">NY</hi>: Pushcart Press, 1978.</bibl> <bibl>Council of Literary Magazines
+and Presses. <title level="m">Directory of Literary Magazines 1997–98</title>.
+Wakefield <hi rend="smallcaps">RI</hi>: Asphodel Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

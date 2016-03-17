@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ghost Dance</title>
+<title level="m" type="sub"></title>
+<author>Todd M. Kerstetter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerstetter, Todd M.">Todd M. Kerstetter</author>. <title level="a">"Ghost Dance."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">746</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GHOST DANCE</head>
+<figure n="egp.rel.023" rend="granted">
+<figDesc>"The Ghost Dance by the Ogallala Sioux at Pine Ridge-Drawn by Frederic Remington from sketches taken on the spot." (Harper's Weekly, December 6, 1890, p. 960-961)"</figDesc>
+</figure>
+
+<p>The Ghost Dance, a messianic Native American
+religious movement, originated in Nevada
+around 1870, faded, reemerged in its bestknown
+form in the winter of 1888–89, then
+spread rapidly through much of the Great
+Plains, where hundreds of adherents died in
+the 1890 Wounded Knee Massacre.</p>
+
+<p>In 1869 or 1870, Tävibo, a Northern Paiute
+and first Ghost Dance prophet, preached that
+white people would disappear from the earth
+and dead Indians would return to enjoy a utopian
+life. He also claimed to communicate with
+the dead and taught followers to perform a
+ceremonial circular dance that contributed to
+the movement earning the Ghost Dance label.
+The movement spread through Nevada and to
+parts of California and Oregon but subsided
+after the prophecies failed to materialize. Another
+Paiute prophet, Wovoka, revived the
+movement in 1889. Rumored to be Tävibo's
+son, and certainly influenced by his teachings,
+Wovoka experienced a vision of the Supreme
+Being in 1889, after which he preached peaceful
+coexistence and a strong work ethic and taught
+ceremonial songs and dances to resurrect dead
+Indians. According to the vision, if Indians
+followed these practices, they would be reunited
+with the dead and whites would disappear.
+Indians who had already subscribed to
+the first Ghost Dance tended to reject Wovoka's
+version, but the second Ghost Dance
+found acceptance among Plains tribes as far
+east as the Dakotas, Nebraska, Kansas, Oklahoma,
+and Texas.</p>
+
+<p>The Ghost Dance affected no group more
+than the Lakota Sioux bands who adopted it.
+Several Lakota bands sent emissaries to interview
+Wovoka about his teachings. They reported
+in early 1890 Wovoka's message that
+performing Ghost Dance ceremonies and
+songs would bring back dead Indians, return
+plentiful buffalo herds, and induce a natural
+disaster that would sweep away whites, thus
+restoring the Indian way of life that had existed
+prior to European contact. The Ghost Dance
+provided a hopeful message to all Indians, but
+it proved particularly enticing to Lakotas suffering
+poor conditions on reservations and to
+Lakota leaders such as Sitting Bull (Tantanka
+Iyotanka), who had resisted U.S. Indian policy.
+Lakota participants added vestments known
+as ghost shirts to the ceremonies and songs
+brought by the emissaries. They believed these
+white muslin shirts, decorated with a variety of
+symbols, protected them from danger, including
+bullets. The Lakotas' white neighbors and
+reservation officials viewed the movement as a
+threat to U.S. Indian policy and believed the
+Ghost Dance ceremonies and ghost shirts indicated
+that the Lakotas intended to start a war.
+Reservation officials called on the U.S. government
+to stop the dancing. The government
+dispatched the U.S. Army and called for the
+arrest of key leaders such as Sitting Bull and Big
+Foot (Si Tanka). Indian police killed Sitting
+Bull while arresting him. Two weeks later, on
+December 29, 1890, members of the Seventh
+Cavalry killed Big Foot and at least 145 of his
+followers (casualty estimates range to higher
+than 300) in the Wounded Knee Massacre, thus
+eliminating key leaders most opposed to the
+United States and its Indian policy. Many historians
+have pointed to Wounded Knee as the
+closing episode in the West's Indian wars.</p>
+
+<p>The Ghost Dance died out among the Lakotas
+after Wounded Knee, but it survived
+elsewhere in the Plains. A Dakota Sioux community
+in Canada, for instance, practiced the
+Ghost Dance into the 1960s. During the 1970s,
+Leonard Crow Dog, an Oglala Lakota holy
+man affiliated with the American Indian
+Movement, revived the Ghost Dance as part of
+the Red Power movement. To many, the Ghost
+Dance represented resistance to U.S. Indian
+policy and American culture and was a rallying
+point for preserving traditional Indian
+culture.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.109">Sitting Bull</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.005">American Indian Movement</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.056">Wounded Knee Massacre</ref>.</p>
+
+<closer>
+<signed>Todd M. Kerstetter<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hittman, Michael. <title level="m">Wovoka and the Ghost Dance</title>. Lincoln:
+University of Nebraska Press, 1997.</bibl> <bibl>Kehoe, Alice Beck. <title level="m">The
+Ghost Dance: Ethnohistory and Revitalization</title>. New York:
+Holt, Rinehart and Winston, 1989.</bibl> <bibl>Mooney, James. <title level="m">The
+Ghost-Dance Religion and the Sioux Outbreak of 1890</title>,
+Fourteenth Annual Report of the Bureau of American
+Ethnology, 1892-93, pt. 2. Washington <hi rend="smallcaps">DC</hi>: Government
+Printing Office, 1896.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

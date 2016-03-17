@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">African American Newspapers</title>
+<title level="m" type="sub"></title>
+<author>Charles A. Simmons</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Simmons, Charles A.">Charles A. Simmons</author>. <title level="a">"African American Newspapers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">7</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AFRICAN AMERICAN NEWSPAPERS</head>
+<figure n="egp.afam.003" rend="granted">
+<figDesc>Photograph of George W. Brown, "Kansas Pioneer and Editor of the Herald of Freedom, Lawrence." (img.kansasmemory.org)</figDesc>
+</figure>   
+
+<p>The first African American newspaper was founded in 1827 when <title level="j">Freedom's Journal</title> began publication in New York. Twenty-seven years later, the first African American newspaper appeared in the Great Plains when the <title level="j">Herald of Freedom</title> began on October 21, 1854, at Wakarusa, Kansas Territory. Unfortunately, editor G. W. Brown's venture had to overcome bad weather, supply shortages, and other strings of bad luck before he could publish his second issue. A scarcity of readers then added to his misfortunes.</p>
+
+<p>In fact, sufficient readers did not begin to arrive until 1877, heeding the call from Benjamin "Pap" Singleton, a former slave from Nashville, Tennessee, to come to Kansas. With continuing westward migration came the fighting spirit typical of the black press. It was displayed at Topeka in 1894 when the <title level="j">Kansas Blackman</title> began publication. Editor W. B. Driver said that his paper was published solely in the interest of "negroes," and he used his newspaper's name to encourage black financial support.</p>
+
+<p>Another African American newspaper, the <title level="j">State Ledger</title>, under the editorship of Fred Jeltz, had been trying for two years to convince black Kansans to reject racial boundaries and instead embrace the idea that all citizens are Americans. The <title level="j">Kansas Blackman</title>'s name and editorial policy contradicted those ideas, Jeltz argued, and thus should be eliminated from black society. Jeltz's attacks against that newspaper, the editor, and his philosophy became so relentless that the <title level="j">Kansas Blackman</title> folded within four months.</p>
+
+<p>The fighting spirit was nowhere stronger in the Great Plains than in Oklahoma, where in 1914 Roscoe Dunjee began the <title level="j">Black Dispatch</title>. When questioned about his newspaper's name, Dunjee said it was used to dignify a slur. Along with the name, however, was an editorial philosophy of a newspaper for all the people, equal rights for all, and opposition to the practice of favoring one race at the expense of another. Dunjee's goal was to right any wrongs he confronted, editorially attacking anyone, whether governor, commissioner, army, or navy, whose policies, he felt, infringed on civil rights. Dunjee was not hesitant to seek the truth and place the results before the public.</p>
+
+<p>When it came to finding the truth or writing editorials, Dunjee was known internationally. Even readers who might rejoice to see the <title level="j">Dispatch</title> run out of business admitted that you may not like what Dunjee had written, but you read every word, despite his disregard for brevity. Others agreed that what he wrote was sometimes so embarrassingly accurate that the glare of the misdeed was most distressful when seen in print.</p>
+
+<p>The black press did not spread throughout the Great Plains. It followed the path of the migration to Kansas, northwestern Texas, central Oklahoma, and eastern Nebraska. Black editors were few, but they were feisty and they hoisted the fighting flag wherever they migrated.</p>
+
+<p>Before the civil rights movement of the 1950s and 1960s, the traditional white press did not cover much news about African Americans, but many white editors and publishers eventually began to lure the best black reporters and editors to the large dailies. African American readers then shifted to the white press as its primary source for news.</p>
+
+<p>Once the black press no longer needed to function as a fighting press, it assumed a responsibility for reporting community news. More than 300 African American newspapers began publication after the civil rights movement. Of that number, nearly 200 still exist within thirty-six states and the District of Columbia, three of them functioning as dailies. Florida, with eighteen, has the largest number, followed by Illinois with twelve. Within the Great Plains, only two states still have African American newspapers&#8211;Oklahoma with four and Kansas with one.</p>
+
+<closer>
+<signed>Charles A. Simmons<lb/>
+University of Central Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Pride, Armistead S. "<title level="a">A Register and History of Negro Newspapers in the United States: 1827–1950</title>." Ph.D. diss., Northwestern University, 1950.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

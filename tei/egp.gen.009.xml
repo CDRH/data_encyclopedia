@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Colby, Clara (1846-1916)</title>
+<title level="m" type="sub"></title>
+<author>Laureen Riedesel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Riedesel, Laureen">Laureen Riedesel</author>. <title level="a">"Colby, Clara (1846-1916)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">327</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COLBY, CLARA (1846-1916)</head>
+
+<p>Clara Bewick Colby, Nebraska's most prominent
+suffragist, was a newspaper editor and
+lecturer whose personal commitment to equal
+rights resulted in a national career and an international
+reputation. Born in England on
+August 5, 1846, she emigrated to Wisconsin in
+1854. She entered the University of Wisconsin
+in 1865 and studied coursework previously offered
+only to men. Initially denied the right to
+graduate, she was subsequently recognized as
+the 1869 class valedictorian and hired as an
+instructor by the University of Wisconsin. She
+later left that position over a dispute concerning
+gender pay equity. In 1872 she married
+Leonard Wright Colby and moved to Beatrice,
+Nebraska. The couple adopted a three-yearold
+boy, Clarence, from an orphan train in
+1885. Leonard later (1891) returned from the
+Wounded Knee Massacre with a Sioux child
+named Zintkala Nuni (Lost Bird) and adopted
+her himself while Clara was away lecturing on
+suffrage issues. Clara and Leonard Colby were
+formally divorced in 1906.</p>
+
+<p>Colby strove to bring culture to her Plains
+hometown by establishing a public library and
+a community theater. In 1878 she invited suffragists
+Elizabeth Cady Stanton and Susan B.
+Anthony to lecture in Beatrice. She then began
+traveling as a national women's suffrage
+speaker. Colby was one of Elizabeth Cady Stanton's
+"girls" or "lieutenants." In 1881 she was
+one of the organizers of the Women's State
+Suffrage Association in Nebraska and served as
+its president from 1885 to 1898. In 1883 she
+became the editor and publisher of the <title level="j">Woman's Tribune</title>, a national suffrage newspaper she
+created to bring events and perspectives to
+readers in isolated locations. From 1886 to 1889
+the <title level="j">Woman's Tribune</title> was the official publication
+of the National Woman Suffrage Association.
+In 1888 the newspaper was published in a
+daily edition of 12,500 during the International
+Council of Women in Washington <hi rend="smallcaps">DC</hi>. This
+was the first time a daily paper for women had
+been edited and published by a woman. Considered
+by Susan B. Anthony to be the best
+writer of the women's movement, Colby was
+Anthony's first choice as a biographer. In 1889
+Colby received the first press correspondent's
+pass issued to a woman to cover the Spanish-
+American War. She was one of the members of
+the Revising Committee of the controversial
+Woman's Bible, published from 1895 to 1898. In
+1904 Colby moved to Oregon to continue suffrage
+work there. The <title level="j">Woman's Tribune</title> ceased
+publication in 1909, although Colby optimistically
+intended to continue when funds became
+available.</p>
+
+<p>In the last years of her life, Colby lectured in
+Britain and other European locations and
+served as a delegate to the International Moral
+Education Congress (London, 1908); International
+Women Suffrage Alliance (Amsterdam,
+1908); International Races Congress (London,
+1911); International Woman Suffrage Convention
+(Budapest, 1913); and the International
+Peace Conference (The Hague, 1913). Clara
+Bewick Colby died September 7, 1916, in Palo
+Alto, California, four years before the passage
+of the Nineteenth Amendment establishing
+women's suffrage as law.</p>
+
+<closer>
+<signed>Laureen Riedesel<lb/>
+Beatrice Public Library</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Olympia, ed. <title level="m">Democratic Ideals: A Memorial Sketch of Clara B. Colby</title>. Washington <hi rend="smallcaps">DC</hi>: Federal Suffrage
+Association, 1917.</bibl> <bibl>Colby, Clara Bewick. <title level="m">Papers</title>. State Historical
+Society of Wisconsin, Madison.</bibl> <bibl>Jerry, E. Claire.
+"Clara Bewick Colby and the Woman's Tribune, 1883-
+1909: The Free Lance Editor as Movement Leader." In <title level="m">A Voice of Their Own: The Woman Suffrage Press, 1840-1910</title>,
+edited by Martha M. Solomon. Tuscaloosa: University of
+Alabama Press, 1991, 110-28.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

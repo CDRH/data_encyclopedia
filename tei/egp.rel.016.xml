@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dispensationalism</title>
+<title level="m" type="sub"></title>
+<author>Rodney J. Decker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Decker, Rodney J.">Rodney J. Decker</author>. <title level="a">"Dispensationalism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">741</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DISPENSATIONALISM</head>
+
+<p>Among evangelical Christian churches in the
+Great Plains, dispensationalism is an influential
+hermeneutical system or framework intended
+to make sense of the vast and varied
+literature of the Bible. The system assumes the
+existence of a personal God who created the
+world and humankind; a historical, grammatical
+interpretation of the Bible (which describes
+both God's work and providential plan for human
+history); and a premillennial understanding
+of eschatology. Although the number of
+"dispensations," or historical periods, is sometimes
+thought to be the distinctive feature of
+dispensationalism, other hermeneutical systems
+(such as covenant theology) also describe
+biblical history in terms of such phases. The
+major periods include the patriarchal, Mosaic,
+church, millennial kingdom, and eternal kingdom.
+Dispensationalism relates these to one
+another as distinct outworkings of God's purposes.
+For example, God's purposes during
+the Mosaic dispensation are different from
+his purposes during the dispensation of the
+church. Likewise, the relevant entities are distinct:
+during the Mosaic dispensation people
+related to God through the nation of Israel and
+the covenants that God made with that nation.
+Following the death of Jesus Christ, however,
+God instituted a new entity, the church, as the
+vehicle through which he would accomplish
+his purposes for the present dispensation.</p>
+
+<p>Churches in the Plains that are best known
+for their dispensational approach to the Bible
+include the Berean Fellowship of Churches
+(centered in Nebraska), Independent Fundamental
+Churches of America (Kansas and Colorado),
+General Association of Regular Baptist
+Churches (Kansas, Nebraska, Colorado, Montana),
+Baptist Bible Fellowship (centered in
+Missouri), and World Baptist Fellowship
+(strongest in Texas). There has also been some
+dispensational influence in the mainline denominations,
+though it is not extensive. W. A.
+Criswell has been the best-known dispensationalist
+in Southern Baptist circles; Lewis
+Sperry Chafer and John F. Walvoord (both
+associated with Dallas Theological Seminary)
+were Presbyterian. The American Sunday
+School Union has also been influential in beginning
+Sunday schools in the Dakotas, Nebraska,
+and Colorado. The Rural Home Missionary
+Association, headquartered in Illinois,
+is active in ministry in the Plains states.</p>
+
+<p>Dispensational Bible colleges and institutes
+that are located in the Great Plains include the
+Rocky Mountain Bible Institute in Denver
+(now part of Colorado Christian University),
+Midwest Bible and Missionary Institute (Salina,
+Kansas, now part of Calvary Bible College
+and Seminary in Kansas City), Prairie
+Bible Institute (Three Hills, Alberta), Montana
+Bible Institute (Lewiston, Montana), and
+Frontier School of the Bible (LaGrange, Wyoming).
+The most significant dispensational influences
+on churches of the Great Plains have
+been Dallas Theological Seminary and Moody
+Bible Institute (Chicago), which have trained
+many of the pastors and teachers for ministry
+in these institutions.</p>
+
+<p>The two best-known popularizers of dispensationalism
+in the Plains have been C. I.
+Scofield and William Aberhart. Scofield was
+an attorney and politician from Kansas who,
+after ordination to the Congregational ministry
+in 1882, edited the dispensational Scofield
+Reference Bible. Aberhart was a Baptist radio
+preacher in Calgary who founded the Calgary
+Prophetic Bible Institute and headed Alberta's
+Social Credit government from 1935 until his
+death in 1943.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.002">Aberhart, William</ref>.</p>
+
+<closer>
+<signed>Rodney J. Decker<lb/>
+Baptist Bible Seminary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Marsden, George M. <title level="m">Fundamentalism and American Culture:
+The Shaping of Twentieth-Century Evangelicalism,
+1870–1925</title>. New York: Oxford University Press, 1980.</bibl>
+<bibl>Ryrie, Charles. <title level="m">Dispensationalism</title>. Chicago: Moody Press,
+1995.</bibl> <bibl>Sandeen, Earnest. <title level="m">The Roots of Fundamentalism:
+British and American Millenarianism, 1800–1930</title>. Chicago:
+University of Chicago Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

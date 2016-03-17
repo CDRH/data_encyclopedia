@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bluebonnets</title>
+<title level="m" type="sub"></title>
+<author>Zoe Merriman Kirpatrick</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kirpatrick, Zoe Merriman">Zoe Merriman Kirpatrick</author>. <title level="a">"Bluebonnets."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">623</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLUEBONNETS</head>
+<figure n="egp.pe.014" rend="granted">
+<figDesc>Bluebonnets (respecttexas.org)</figDesc>
+</figure>
+    
+<p>Bluebonnets are lupines that bring to mind
+visions of beauty and spectacular color. These
+wildflowers of the Legume family (Fabaceae,
+alternately Leguminosae), genus <hi rend="italic">Lupinus</hi>, are
+breathtaking in full bloom, covering prairies
+and hills with carpets of solid color ranging
+from blue-purple to deep blue, pale blue to
+creamy-white, or pink. There are close to a
+dozen species that grow within the Great
+Plains from Texas to Canada.</p>
+
+<p>Bluebonnets are winter annuals, or perennials,
+that form rosettes in the fall and flowers
+in the spring. The alternate leaves are palmately
+compound, bearing four to fifteen
+leaflets (usually five or seven). Pea-like flowers
+in terminal clusters have five uniformly colored
+petals consisting of two wing petals, two
+keel petals, and an erect banner petal bearing a
+central white spot, yellow in some species, that
+turns burgundy-red with age. Interestingly,
+the main pollinators of bluebonnets, bees and
+bumblebees, are drawn to the white spot in
+their nectar search and shun the red spot,
+which indicates nectar is no longer available.</p>
+
+<p>Emblematic of Texas, bluebonnet is the
+state flower, but arguments existed for seventy
+years as to which species should be the "official" one. In 1971, the legislature passed a law
+naming all the species of <hi rend="italic">Lupinus</hi> found within
+the state the official flower. The loveliest
+and most conspicuous one is <hi rend="italic">Lupinus</hi> texensis
+of central Texas.</p>
+
+<p>The genus name derives from the Latin
+<hi rend="italic">lupus</hi>, meaning "wolf." The five leaflets were
+thought to resemble wolflike tracks, and long
+ago these plants were blamed for robbing the
+soil of nutrients. Now we know that nodules
+on the roots contain nitrogen-fixing bacteria,
+<hi rend="italic">Rhizobium</hi> spp., that actually enrich the soil.</p>
+
+<closer>
+<signed>Zoe Merriman Kirkpatrick<lb/>
+Post, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kirkpatrick, Zoe Merriman. <title level="m">Wildflowers of the Western
+Plains</title>. Austin: University of Texas Press, 1992.</bibl> <bibl>McGregor,
+R. L., coordinator, and T. M. Barkley, ed. <title level="m">Atlas of the Flora
+of the Great Plains</title>. Ames: Iowa State University Press,
+1977.</bibl> <bibl>Shinners, L. H. "The Bluebonnets (Lupinus) of
+Texas." <title level="j">Field &amp; Laboratory</title> 21(1959): 149–53.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

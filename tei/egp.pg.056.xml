@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">New Mexico</title>
+<title level="m" type="sub"></title>
+<author>Jose Z. Garcia</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.056</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Garcia, Jose Z.">Jose Z. Garcia</author>. <title level="a">"New Mexico."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">680</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NEW MEXICO</head>
+
+<p>In 2000 New Mexico had a population of 1.8
+million, a per capita income of $19,936, one of
+the lowest in the nation (which in 1999 averaged
+$26,412), and a state government that
+spent around $6.5 billion, including transfers
+from the federal government of around $1.6
+billion. The state has one large city, Albuquerque,
+and a varied economy, including
+high technology, military complexes, agriculture,
+mining, and tourism. The population is
+varied and includes twenty-three Indian tribes,
+Hispanics with multigenerational roots, pioneer
+ranchers, migrant professionals, new retirees,
+artists, scientists, and tourism specialists.
+Geographically, analysts distinguish
+the Indian Northwest, Hispanic North, Little
+Texas (the Plains of New Mexico), Albuquerque,
+and the Southwest Borderlands, each with
+distinct political behaviors.</p>
+
+<p>At the time of the Spanish conquest, New
+Mexico was populated by small groups of Navajos
+and Apaches, and some 30,000 Pueblo
+Indians scattered in villages along the Rio
+Grande and west as far as Zuni and Acoma. In
+1598 Don Juan de Oñate led a group of settlers
+from Central Mexico to what is now Espanola,
+New Mexico, extending the Spanish Empire
+northward by several hundred miles. His successor,
+Pedro de Peralta, founded Santa Fe as a
+capital in 1610, and Franciscan missionaries
+began a lengthy period of conversion of Natives
+to Catholicism. In 1680 a revolt by Pueblo
+Indians forced colonists to retreat until control
+was regained in 1692. The area remained
+remote from Spanish rule, however, and under
+continuous threats from Apache, Navajo,
+Ute, and Comanche raiders during the eighteenth
+century.</p>
+
+<p>Isolated even more by the instability that
+followed Mexican independence from Spain in
+1821, New Mexicans began trading with Anglo-Americans through the Santa Fe Trail. After
+annexation of Texas in 1845, expansionists
+pressured President James K. Polk to harden
+his position in a dispute with Mexico over the
+western boundary. Negotiations failed and the
+United States declared war in May 1846. Gen.
+Stephen Kearny marched into New Mexico,
+ending Mexican control. U.S. troops invaded
+Mexico at Veracruz, and Mexico ceded California,
+Arizona, Nevada, Utah, Colorado, and
+New Mexico in 1848. In 1850 the Territory of
+New Mexico, including modern New Mexico,
+Arizona, and parts of Nevada and Colorado,
+was established, and the boundary with Texas
+set. The Gadsden Purchase of 1853 fixed the
+southern boundary, and in 1861 the creation
+of the Territory of Colorado established New
+Mexico's northern boundary. When Arizona
+was separated from New Mexico in 1863, New
+Mexico's present boundaries were stabilized.</p>
+
+<p>During the territorial period, Spanish-speaking
+New Mexicans lost much property in
+predatory land grabs led by unscrupulous
+agents with political connections. Indians resisting
+U.S. authority fared even worse. The
+Apaches' Mescalero lands were invaded by the
+U.S. Army in 1863, and the tribe was relocated.
+Col. Kit Carson attacked the Navajos' farmlands
+at Canyon de Chelly in 1864, forcing
+6,000 to surrender in the face of starvation.
+The Navajos were relocated 300 miles away for
+four years. When a constitution was written in
+1911, a year before statehood, Hispanics, who
+outnumbered Anglos, secured guarantees protecting
+language and citizenship. Although
+granted U.S. citizenship in 1924, Indians did
+not vote in state and national elections in New
+Mexico until the late 1940s, and even later in
+local elections. Hispanic and Indian incomes
+in New Mexico are still significantly lower than
+those of Anglos.</p>
+
+<p>In spite of these difficulties, following political
+reforms in the 1960s Indians and Hispanics
+in New Mexico integrated more easily
+into the state's political system. Comprising
+about 40 percent of the state's population,
+Hispanics are greatly overrepresented in the
+Democratic Party, which is dominant in most
+counties at the local level. In the legislature
+Hispanics have held most leadership positions
+since the early 1970s. Two recent governors
+were Hispanic. With only 11 percent of the
+state's population, Indians commonly elect
+legislators in districts with large Indian populations.
+Navajos also vote in elections for the
+Navajo Nation, headquartered in Arizona.</p>
+
+<p>Culturally, the Plains area of New Mexico
+(roughly the eastern third of the state) is the
+legacy of Anglo ranching and farming pioneers
+who settled about a hundred years ago.
+Some of the land was in the Permian Basin
+and was exploited for oil during the 1920s and
+1930s. This area is known as "Little Texas," a
+designation that summarizes a conservative
+political culture, a dwindling oil economy,
+and proximity to Texas. In-migration of Hispanics
+has recently begun to change the demographic
+composition and political culture
+of the region.</p>
+
+<p>New Mexico has a bicameral legislature, unsalaried,
+which alternates each year between
+thirty- and sixty-day sessions. The governor,
+whose powers are relatively weak, shares the
+executive branch with an elected treasurer, attorney
+general, auditor, secretary of state,
+commissioner of public lands, and public regulatory
+commission. In spite of its diverse population,
+New Mexico has voted for the winning
+presidential candidate in all elections since
+statehood except for 1976, when New Mexico
+voted slightly in favor of Gerald Ford's losing
+campaign, and 2000, when the state supported
+Vice President Al Gore. For national offices,
+including the U.S. Senate and House, the state
+is competitive between the two major parties,
+but for local offices most counties vote strongly
+Democrat.</p>
+
+<p>Twentieth-century notable political figures
+include Dennis Chavez, who led a mass migration
+of Hispanics from the Republican to
+the Democratic Party during the 1930s and
+went on to a distinguished senatorial career;
+Gov. Bruce King, who created a thirty-year
+Democratic governing coalition of ranchers,
+liberal urbanites, and Hispanics; Sen. Pete
+Domenici, a Republican who attracted broadbased
+support from Democrats after 1972; Jerry
+Apodaca, who reorganized state government
+efficiently in 1974 after becoming the
+first Hispanic governor elected in half a century;
+and Republican governor Gary Johnson,
+whose use of the veto became legendary in the
+late 1990s.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.026">Maxwell Land Grant</ref>.</p>
+
+<closer>
+<signed>Jose Z. Garcia<lb/>
+New Mexico State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Vigil, Maurilio E., Michael Olsen, and Roy Lujan. <title level="m">New
+Mexico Government and Politics</title>. Lanham <hi rend="smallcaps">MD</hi>: University
+Press of America, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Billings, Montana</title>
+<title level="m" type="sub"></title>
+<author>J. Michael McCormack</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McCormack, J. Michael">J. Michael McCormack</author>. <title level="a">"Bismarck, North Dakota."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">159-160</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BISMARCK, NORTH DAKOTA</head>
+
+<p>The capital of North Dakota and seat of Burleigh
+County, Bismarck is located in the southcentral
+part of the state on the eastern bank of
+the Missouri River. Its sister city, Mandan, is
+situated on the opposite western shore in Morton
+County. Though originally a rich agricultural
+center and regional river and railroad
+transportation hub, during the last quarter of
+the twentieth century Bismarck evolved into
+a diversified regional medical, governmental,
+industrial, and technological center.</p>
+
+<p>Bismarck was founded in 1873, the child of
+both Missouri River steamboat transportation
+and late-nineteenth-century Great Plains railroad
+expansion. Originally called The Crossing,
+the town was a strategically located port
+for steamboats, which carried upriver immigrants,
+and military supplies. In 1872 Camp
+Greeley (later Camp Hancock) was built by
+the military as a warehouse and supply depot
+for troops that were protecting the Northern
+Pacific Railroad survey crews. Indeed, the
+town was at one time named Edwinton after
+the railroad's first chief engineer, Edwin Johnson.
+However, the financially distressed railroad's
+need to attract German bond investors
+induced the railroad's board of directors in
+1873 to rename the city Bismarck in honor
+of Germany's "Iron Chancellor," Otto von
+Bismarck-Schönhausen.</p>
+
+<p>Bismarck was named the capital of Dakota
+Territory in 1883, and when Congress passed
+the 1889 Omnibus Bill, dividing the territory
+into North and South Dakota, the city became
+the capital of the new state. The city was officially
+incorporated in 1875, adopted the commission
+governing structure in 1913, and began
+operating under a home rule charter in 1986.</p>
+
+<p>Bismarck grew from a Dakota river town of
+1,200 in 1874 to a metropolitan center with a
+population of 55,532 in 2000. Much of the recent
+growth has centered around the city's development
+into a regional health center, with
+two major hospitals, allied and independent
+clinics, health-care services, and nursing and
+elder-care facilities. The next largest employers
+are federal, state, county, and city governments.
+Bismarck also functions as a wholesale
+and retail center, serving a trade area of a 100-
+mile radius with more than 170,000 customers.
+The city's growing technology and energy
+industries are other major employers.</p>
+
+<p>Bismarck has also become a regional education
+center, with a comprehensive two-year
+college, Bismarck State College, the Benedictine-
+founded University of Mary, and an intertribal
+United Tribes Technical College. In
+addition to these institutions, there are two
+colleges of nursing, a school of respiratory
+care and radiological technology, a university
+graduate center, and the Bismarck campus
+of the University of North Dakota School of
+Medicine.</p>
+
+<p>Long the center of state politics, Bismarck
+is home to the state's Heritage Center, the
+law library, the penitentiary, and the Bank
+of North Dakota. The bank, chartered in 1919
+to promote the state's agriculture, commerce,
+and industry, is the nation's only state-owned
+bank. Bismarck's most recent national accomplishment
+was being named an all-American
+city in 1997.</p>
+
+<p>Bismarck offers a wealth of cultural organizations
+and activities for its citizens, including
+an arts and galleries association, art
+schools, summer musical productions, amateur
+theater, a symphony orchestra, dance studios,
+men's and women's choruses, and a national
+tribal powwow. The city owns and
+manages 2,525 acres of park facilities, including
+forty-eight parks, thirty miles of recreational
+trails, and one of the nation's fifty Millennium
+Legacy Trails.</p>
+
+<p>Bismarck's historical connections with the
+Custer legacy center on its proximity to his
+command post at Fort Abraham Lincoln and
+its status as the port for the famous steamboat,
+the Far West, whose epic journey to transport
+the wounded from the Little Bighorn battlefield
+in 1876, a distance of 900 miles in fiftyfour
+hours, stands unrivaled in Missouri River
+steamboating history.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: 
+<ref n="egp.med.005"><hi rend="italic">Bismarck Tribune</hi></ref>.</p>
+
+<closer>
+<signed>J. Michael McCormack<lb/>
+Bismarck State College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bird, George F., and Edwin J. Taylor Jr. <title level="m">History of the City of Bismarck: The First 100 Years, 1872–1972</title>. Bismarck <hi rend="smallcaps">ND</hi>: Bismarck Centennial Association, 1972.</bibl> <bibl>Bismarck-Mandan
+North Dakota Community Profile. Bismarck: Bismarck-
+Mandan Area Chamber of Commerce, 2000.</bibl> <bibl>Robinson,
+Elwyn B. <title level="m">History of North Dakota</title>. Lincoln: University of
+Nebraska Press, 1966.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

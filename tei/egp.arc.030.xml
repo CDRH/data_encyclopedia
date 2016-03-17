@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kimball, Thomas Rogers (1862-1934)</title>
+<title level="m" type="sub"></title>
+<author>David L. Batie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Batie, David L.">David L. Batie</author>. <title level="a">"Kimball, Thomas Rogers (1862-1934)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">85</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KIMBALL, THOMAS ROGERS (1862-1934)</head>
+
+<p>For more than a century the buildings of
+Thomas Rogers Kimball have graced the landscape
+of Nebraska and surrounding states. His
+architecture has a refined character that reflects
+his highly developed training. Kimball
+was born in Linwood, Ohio, into an influential
+railroad family in 1862. In his early teens the
+family moved to Omaha, where he completed
+his high school education. His formal education
+in architecture began at the University of
+Nebraska (1878–80). He continued his studies
+at the Cowles School of Art in Boston (1883–
+84), at the Massachusetts Institute of Technology
+(1885–87), and finally with the artist Henri
+Harpignies in Paris (1887). Through this training
+Kimball learned to visualize structures in
+three dimensions, and he was able to design in
+many architectural styles.</p>
+
+<p>Over the course of forty-four years Kimball's
+buildings changed the skyline of Omaha.
+Major structures include the Omaha Public
+Library (1892), the Burlington Station (1896),
+the Omaha Country Club (1900), St. Cecilia's
+Cathedral (1905–59), Philomena's Church and
+School (1908), the Fontenelle Hotel (1913), and
+the Omaha World-Herald Building (1915).
+Outside of Omaha, Kimball designed many
+important government and commercial structures,
+including the Lincoln, Nebraska, Telephone
+Building (1894), the Dome Lake Club,
+Sheridan, Wyoming (1895), the Hall County
+Courthouse, Grand Island, Nebraska (1901),
+the Battle Mount Sanitarium, Hot Springs,
+South Dakota (1902), and the Second Church
+of Christ Scientist, Minneapolis, Minnesota
+(1928).</p>
+
+<p>Kimball achieved a national prominence.
+In 1896 he and his Boston partner, C. Howard
+Walker, were selected as the architects in chief
+of the 1898 Trans-Mississippi and International
+Exposition held in Omaha. In 1901 he
+was selected a fellow of the American Institute
+of Architects, and in 1909 he was appointed by
+President Theodore Roosevelt to the Commission
+of Fine Arts. Walker and Kimball
+were reunited in 1903 as members of the 1904
+St. Louis Louisiana Purchase Exposition Architectural
+Board, and they designed the Electricity
+Building for the exposition. Kimball
+served as president of the American Institute
+of Architects from 1918 to 1920.</p>
+
+<p>One of Kimball's major contributions to architecture
+was made behind the scenes in 1919,
+when he was asked to write the design program
+for the Nebraska State Capitol Commission.
+In this capacity he gave the architects full
+freedom and flexibility, ultimately resulting
+in Bertram Grosvenor Goodhue's magnificent
+structure.</p>
+
+<closer>
+<signed>David L. Batie<lb/>
+East Carolina University<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Haynes, James B. <title level="m">History of the Trans-Mississippi and International Exposition of 1898</title>. Omaha: Committee on History,
+1910.</bibl> <bibl>Thomas Rogers Kimball Collection, Nebraska
+State Historical Society, Lincoln.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

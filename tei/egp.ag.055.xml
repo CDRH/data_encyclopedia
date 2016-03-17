@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.055">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Range Management</title>
+<title level="m" type="sub"></title>
+<author>Walter H. Schacht</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.055</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schacht, Walter H.">Walter H. Schacht</author>. <title level="a">"Range Management."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">49</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RANGE MANAGEMENT</head>
+
+<p>Management of rangelands is based on ecological
+principles that ensure sustained health and
+productivity of range ecosystems. Rangeland is
+a noncultivated land type on which the native
+vegetation includes grasses, sedges, broadleaf
+herbaceous plants, and shrubs. It is the dominant
+land type in the Great Plains, comprising
+about 50 percent of the total land area. Livestock
+grazing has been the primary rangeland
+use in the Great Plains since the beginning of
+European American settlement, and range
+management has always been closely linked to
+the livestock industry. The livestock industry
+started in the Southern Plains in the 1700s and
+in the early 1870s moved into the Northern and
+Central Plains. By the mid-1990s, Great Plains
+rangeland supported about 40 to 50 percent of
+the beef cattle of the United States and about 75
+percent of Canada's. With proper range management
+for livestock production, the integrity
+of rangelands and the potential for other uses
+are not compromised. Great Plains rangelands
+are important for wildlife habitat, watershed
+protection, recreation, and preservation of genetic
+diversity. Management targeted toward
+such uses or values is critical on public lands,
+and ecotourism, wildlife viewing, and fee
+hunting are important sources of income for
+private landowners in many states.</p>
+
+<p>Most rangelands in the Great Plains are
+grasslands, although other range types, such
+as savannas, shrub lands, woodlands, and wetlands,
+are important regionally or locally.
+Great Plains grasslands include tallgrass prairie,
+mixed prairie, shortgrass prairie, and fescue
+prairie. Distribution of grassland types
+is largely related to gradients in annual precipitation
+from east to west (ten to forty
+inches) and, to a lesser extent, temperature
+gradients from north to south (68&#186;F to 85&#186;F in
+July). The tallgrass prairie once covered the
+eastern quarter of the Great Plains and was
+dominated by warm-season grasses, including
+big bluestem (<hi rend="italic">Andropogon gerardii</hi>), little
+bluestem (<hi rend="italic">Schizachyrium scoparium</hi>), and indiangrass
+(<hi rend="italic">Sorghastrum nutans</hi>). Today, most
+of the tallgrass prairie is cultivated for rowcrop
+production, except for the Flint Hills of
+Kansas, where the shallow soils have restricted
+cultivation. The mixed prairie occupies the
+central third of the Great Plains and is dominated
+by cool-season grasses in the north and
+warm-season grasses in the south. The mixed
+prairie is the most important range type for
+livestock production in the United States, although
+small grains are also grown on much
+of the area. The shortgrass prairie extends
+west from the mixed prairie to the Rocky
+Mountains and is recognized by its low stature
+and the dominance of two shortgrasses,
+buffalograss (<hi rend="italic">Buchloe dactyloides</hi>) and blue
+grama (<hi rend="italic">Bouteloua gracilis</hi>). Plant and animal
+production is limited by water availability.
+The fescue prairie is on the northern boundary
+of the mixed prairie in Canada and is extensively
+cultivated for crop production.</p>
+
+<p>Condition of rangelands is evaluated based
+on measures of ecosystem health and production
+(e.g., soil surface conditions and species
+composition). Range condition generally was
+low in the Great Plains by the early twentieth
+century because livestock mismanagement,
+cultivation and abandonment, and drought
+resulted in low plant cover, wind and water
+erosion, and proliferation of invasive and low
+quality plants. Aggressive management efforts
+by the private and public sectors have improved
+range condition significantly over the
+past sixty years. Only 6 percent of the rangeland
+in the Northern Great Plains is classified
+in poor condition, although 25 percent in the
+Southern Great Plains is in the poor category.</p>
+
+<p>Tools used to maintain or improve range
+condition include proper grazing management,
+prescribed burning, herbicide application,
+and reseeding. Proper stocking rate for
+the various range sites is the key to successful
+management of grazed rangelands. Development
+of grazing systems involving rotation of
+livestock through two or more pastures also
+plays an important role in maintaining or improving
+range condition. Rotational grazing
+provides forage plants with critical rest periods
+that allow for recovery after grazing. Fire,
+a natural component of most range ecosystems,
+is commonly used under prescribed
+conditions to control invasive plant species,
+such as junipers (<hi rend="italic">Juniperus spp.</hi>) and introduced
+bromegrasses (<hi rend="italic">Bromus spp.</hi>). Herbicides
+are an important alternative for control
+of many broadleaf herbaceous plants and such
+woody plants as honey mesquite (<hi rend="italic">Prosopis
+glandulosa</hi>) in the Southern Great Plains. Although
+expensive, reseeding native species
+may be an alternative for extremely depleted
+sites; however, risk of failure increases under
+drier conditions. Overall, range ecosystems
+such as the Nebraska Sandhills demonstrate
+that when management practices are properly
+applied, range ecosystems can be used for production
+purposes while sustaining ecological
+integrity.</p>
+
+<p><hi rend="italic">See Also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.030">Grasses</ref>.</p>
+
+<closer>
+<signed>Walter H. Schacht<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Holechek, Jerry L., Rex D. Pieper, and Carlton H. Herbel.
+<title level="m">Range Management: Principles and Practices</title>. Upper Saddle
+River <hi rend="smallcaps">NJ</hi>: Prentice Hall, 1998.</bibl> <bibl>Samson, Fred B., and
+Fritz L. Knopf, eds. <title level="m">Prairie Conservation</title>. Washington <hi rend="smallcaps">DC</hi>:
+Island Press, 1996.</bibl> <bibl>Vallentine, John F. <title level="m">Range Development and Improvements</title>. San Diego: Academic Press, Inc., 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">La Flesche, Susan (1865-1915)</title>
+<title level="m" type="sub"></title>
+<author>Valerie Sherer Mathes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mathes, Valerie Sherer">Valerie Sherer Mathes</author>. <title level="a">"La Flesche, Susan (1865-1915)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">581</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LA FLESCHE, SUSAN (1865-1915)</head>
+<figure n="egp.na.057" rend="granted" type="noclick">
+<figDesc>Photograph of Susan La Flesche Picotte</figDesc>
+</figure>
+
+<p>Physician and Indian reformer Susan La Flesche
+Picotte was born in June 1865, the youngest
+daughter of Joseph La Flesche, last traditional
+chief of the Omaha tribe. Joseph's commitment
+to education is reflected in her education. She
+attended the local Presbyterian mission school,
+the Omaha Agency Indian School, the Elizabeth
+Institute for Young Ladies in Elizabeth, New
+Jersey, and Hampton Normal and Agricultural
+Institute in Virginia, where she graduated
+in May 1886. Supported by the Connecticut
+Branch of the Women's National Indian Association,
+she attended the Woman's Medical
+College of Pennsylvania, graduating in March
+1889 at the head of her class. Following an
+internship at the Woman's Hospital in Philadelphia,
+she returned to her reservation to
+practice medicine.</p>
+
+<p>For the next four years, as government physician
+at the Omaha Agency Indian School,
+she dispensed medicine and encouraged tribal
+members to become Christian. Her religious
+dedication was rewarded years later, when in
+1905 she was appointed medical missionary by
+the Presbyterian Board of Home Missions.
+Working out of the Blackbird Hills Presbyterian
+Church, she read the Bible in the Omaha
+language and held church services.</p>
+
+<p>Ill health forced her resignation as government
+physician in 1893. She married Henry
+Picotte, a Sioux Indian from the Yankton
+Agency, and upon regaining her strength, resumed
+her medical practice in Bancroft and
+later in Walthill, Nebraska, among both Indians
+and whites. She lobbied for required
+medical inspection of schools, sanitary ice
+cream dishes and spoons, and free school
+drinking fountains; fought against tuberculosis
+and the common housefly; and campaigned
+against alcohol following the death of her
+hard-drinking husband. In addition, she organized
+the Thurston County Medical Association,
+served on Walthill's health board, chaired
+the State Health Committee of the Nebraska
+Federation of Women's Clubs, and organized a
+hospital for Walthill in 1913. She also helped
+organize a new church for Walthill, was active
+as president of the church missionary society,
+participated in a new chapter of the Eastern
+Star, and supported various community projects,
+lectures, and concerts.</p>
+
+<p>In 1909, when the government arbitrarily extended
+the trust period for protecting Omaha
+land an additional ten years, she was chosen
+unanimously by the tribe to head a delegation
+to Washington <hi rend="smallcaps">DC</hi>. The Omahas were subsequently
+declared competent to rent or lease their
+lands and handle their own monies.</p>
+
+<p>A product of the nineteenth-century reform
+movement and its assimilationist policy,
+she in turn helped her people prepare for
+the twentieth century. She died on September
+18, 1915, and was buried in the Bancroft cemetery.</p>
+
+<closer>
+<signed>Valerie Sherer Mathes<lb/>
+Sanoma, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mathes, Valerie Sherer. "Iron Eyes' Daughters: Susette and
+Susan La Flesche, Nineteenth-Century Indian Reformers."
+In <title level="m">By Grit and Grace: Eleven Women Who Shaped the American
+West</title>, edited by Glenda Riley and Richard Etulain.
+Golden <hi rend="smallcaps">CO</hi>: Fulcrum Press, 1997: 135–52.</bibl> <bibl>Mathes, Valerie
+Sherer. "Susan La Flesche Picotte, M.D.: Nineteenth-
+Century Physician and Reformer." <title level="j">Great Plains Quarterly</title>
+13 (1993): 172–86.</bibl> <bibl>Tong, Benson. <title level="m">Susan La Flesche Picotte,
+M.D.: Omaha Indian Leader and Reformer</title>. Norman: University
+of Oklahoma Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

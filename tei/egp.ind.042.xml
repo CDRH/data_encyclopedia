@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nuclear Waste Sites</title>
+<title level="m" type="sub"></title>
+<author>Diane A. Burton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Burton, Diane A.">Diane A. Burton</author>. <title level="a">"Nuclear Waste Sites."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">427-428</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NUCLEAR WASTE SITES</head>
+
+<p>The search for disposal sites for nuclear wastes
+in the United States has often turned to the
+Great Plains region; there have been no nuclear
+waste disposal siting efforts in the Canadian
+Great Plains. Nuclear waste is generated
+within the Great Plains by way of activities
+ranging from nuclear power generation to
+medical treatment. There are three nuclear
+power generating plants operating within the
+Great Plains: Cooper Nuclear Station and Fort
+Calhoun Station in Nebraska and Wolf Creek
+Generating Station in Kansas. Each of these
+serves as a storage location for spent nuclear
+fuel and low-level radioactive waste (<hi rend="smallcaps">LLRW</hi>).
+The Rocky Flats Nuclear Weapons Plant, located
+sixteen miles northwest of Denver, manufactured
+components for nuclear weapons
+until 1992 but is now scheduled for decommissioning,
+waste disposal, and environmental
+cleanup. Many of the universities in the
+Great Plains dispose of the llrw generated
+by their research activities at locations on
+campus.</p>
+
+<p>There are three main classifications for nuclear
+waste in the United States: high level, low
+level, and transuranic. The different waste
+forms are defined not only by the composition
+of the material making up the waste but
+also by the manner by which it is generated
+(commercial or defense) as well as by whether
+the federal or state government is responsible
+for regulating its disposal. High-level and
+transuranic wastes are defined by the specific
+composition of the wastes; low-level radioactive
+waste is defined by what it is not&#8211;high-level
+waste. Each of these wastes is regulated
+by different laws. Providing disposal capacity
+for high-level and transuranic wastes is a federal
+government responsibility; providing disposal
+capacity for low-level wastes is the responsibility
+of the state in which the wastes are
+generated. High-level and transuranic wastes
+require underground, deep-geologic disposal;
+disposal of low-level waste is allowed above
+ground and in shallow-burial trenches.</p>
+
+<p>The first government-sponsored nuclear
+waste disposal siting effort was in the Great
+Plains, conducted by the U.S. Atomic Energy
+Commission. Underground disposal of highlevel
+and transuranic wastes was investigated
+in the Lyons, Kansas, area in 1970. By 1972 it
+was determined that the salt mines of the
+Lyons area did not meet acceptable requirements
+for the isolation of the waste. Subsequently,
+an area east of Carlsbad, New Mexico,
+was identified for consideration in 1974. Dismayed
+by the slow progress in developing disposal
+capacity, Congress created the Waste
+Isolation Pilot Project (<hi rend="smallcaps">WIPP</hi>) in 1979, directing
+that a safe method for the disposal of
+wastes generated by defense facilities be developed.
+The <hi rend="smallcaps">WIPP</hi> continued to focus on salt
+formations near Carlsbad. Following eight
+years of studying the geology and hydrology
+of the area, construction of the wipp facility
+began in 1983; the underground construction
+was completed in 1989. In May 1998 the Environmental
+Protection Agency announced
+that the <hi rend="smallcaps">WIPP</hi> met all applicable federal nuclear
+waste disposal standards. The <hi rend="smallcaps">WIPP</hi> began
+receiving transuranic waste in March
+1999.</p>
+
+<p>Prior to 1980, <hi rend="smallcaps">LLRW</hi> disposal was primarily a
+market-driven business. In that year Congress
+mandated that the states were responsible for
+providing disposal capacity for <hi rend="smallcaps">LLRW</hi> generated
+within their borders. States were encouraged
+to band together and form compacts to
+address this mandate. In 1983 three states of
+the Great Plains&#8211;Nebraska, Kansas, and Oklahoma&#8211;
+joined with Louisiana and Arkansas
+to form the Central Interstate Low-Level
+Radioactive Waste Compact. The compact selected
+U.S. Ecology, Inc., to site, develop, and
+operate a disposal site for the member states.
+In December 1987 Nebraska was designated
+the host state for a disposal site. Approximately
+one year later, three 320-acre candidate
+sites in Nebraska were identified for detailed
+evaluation. These sites were in Boyd, Nemaha,
+and Nuckolls Counties. Following the designation
+of the candidate sites, U.S. Ecology discovered
+and acknowledged a problem with
+wetlands (over forty-six acres) on the Boyd
+County site. Nevertheless, in December 1989
+the Boyd County site was selected as the preferred
+site. An application to construct and
+operate a waste disposal site was filed in July
+1990 with the Nebraska Department of Environmental
+Quality (<hi rend="smallcaps">NDEQ</hi>). In January 1993
+the ndeq issued an intent to deny a license
+because the site did not meet regulatory requirements,
+the presence of wetlands being
+the primary reason. Six months later, in an
+effort to eliminate the wetland problem, U.S.
+Ecology submitted an amended application
+for a 110-acre parcel of the original site. Following
+extensive review and evaluation of that
+application and after public hearings, the
+ndeq in August 1998 again issued an intent to
+deny the license. By December 1998 a final
+denial was made because the proposed site
+lacked sufficient depth to the water table and
+groundwater discharged to the surface within
+the site. In 1999 Nebraska formally withdrew
+from the Central Interstate Low-Level Radioactive
+Waste Compact, a move that resulted in
+continued litigation. After twelve years and
+over $90 million spent, the effort to site, construct,
+and operate a low-level waste disposal
+site in Nebraska had not been successful.</p>
+
+<p>There has been organized opposition by
+citizens living in the areas surrounding all of
+the proposed nuclear waste disposal sites.
+Likewise, there has been organized local support
+for the various siting efforts.</p>
+
+<p>While no nuclear waste disposal sites were
+operating in the Great Plains at the end of 1998,
+the <hi rend="smallcaps">WIPP</hi> began operations in 1999. Additionally,
+there are continued efforts to establish
+low-level waste disposal sites. In 1993 Sequoyah
+Fuels Corporation of Oklahoma began seeking
+authorization to dispose of low-level wastes
+generated during the operation of its uranium
+conversion plant and its decommissioning at
+the Gore, Oklahoma, plant site. Waste Control
+Specialists of Texas, starting in 1995, has been
+pursuing authorization to include disposal of
+low-level wastes at a hazardous waste disposal
+site in Andrews County, Texas.</p>
+
+<closer>
+<signed>Diane A. Burton<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

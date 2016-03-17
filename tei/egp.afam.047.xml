@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">York (ca. 1770s–ca. 1815/1832)</title>
+<title level="m" type="sub"></title>
+<author>Jay H. Buckley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+ 
+<sourceDesc>
+<bibl><author n="Buckley, Jay H.">Jay H. Buckley</author>. <title level="a">"York (ca. 1770s–ca. 1815/1832)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">24</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">YORK (ca. 1770s–ca. 1815/1832)</head>
+<figure n="egp.afam.047" rend="granted" type="noclick">
+<figDesc>Statue depicting York during the Lewis and Clark expedition</figDesc>
+</figure>
+    
+    
+<p>Born into slavery in the 1770s, York achieved
+fame as the sole African American member of
+the Lewis and Clark expedition. Virginia plantation
+owner John Clark selected young York
+as his son William's body servant, a position
+of status and privilege, around 1784 when the
+Clark family moved to the Falls of the Ohio
+River (Louisville) where they established the
+Mulberry Hill plantation. William Clark inherited
+the Clark estate, including York, in
+1799. Meanwhile, York married a slave on a
+nearby plantation.</p>
+
+<p>From 1804 to 1806 York joined his master as
+a member of the Lewis and Clark expedition.
+Presumably, York was the first African American
+to travel through the Northern Plains. He
+enjoyed the same freedoms as the other men,
+which enabled him to make considerable contributions
+to the success of the expedition.
+York carried a rifle for hunting and protection,
+went on reconnaissance missions, and
+cast his vote on selecting a winter campsite
+near the Pacific Ocean.</p>
+
+<p>When the expedition returned, York did
+not want to go back to the confines of slavery,
+nor did he want to be separated from his family
+in Kentucky by moving with Clark to St.
+Louis. Clark considered selling York, but decided
+to discipline him through beating, confinement,
+hiring him out, and lending him to
+his family in Kentucky. Sometime after 1815,
+Clark either had a change of heart or simply
+relented to York's demands for freedom. Clark
+manumitted York, providing him with six
+horses and a wagon to operate a freighting
+service between Nashville, Tennessee, and
+Richmond, Kentucky. York struggled to survive,
+a free man in the slaveholding South,
+before presumably dying of cholera in Tennessee
+sometime between 1815 and 1832. The
+Lewis and Clark Bicentennial Commission
+plans to confer enlisted man status posthumously
+on York.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.025">Lewis and Clark</ref>.</p>
+
+<closer>
+<signed>Jay H. Buckley<lb/>
+Brigham Young University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Betts, Robert B. <title level="m">In Search of York: The Slave Who Went to
+the Pacific with Lewis and Clark</title>. Boulder: Colorado Associated
+University Press, 1985.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

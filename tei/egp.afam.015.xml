@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Coleman, Ornette (b. 1930)</title>
+<title level="m" type="sub"></title>
+<author>Chuck Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Chuck">Chuck Berg</author>. <title level="a">"Coleman, Ornette (b. 1930)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">13-14</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COLEMAN, ORNETTE (b. 1930)</head>
+<figure n="egp.afam.015" rend="granted">
+<figDesc>Ornette Coleman playing the saxophone</figDesc>
+</figure>     
+
+<p>Avant-garde saxophonist-composer Ornette
+Coleman, born in Fort Worth, Texas, on
+March 19, 1930, came to the attention of the
+jazz world in a 1959 groundbreaking engagement
+at the Five Spot Club in New York City.
+Although reflecting the southwest rhythm-and-
+blues tradition of his native Texas, Coleman's
+radical improvisational approach allowed
+him to shift his music's flow and density
+at will by dispensing with fixed harmonic patterns
+and structural forms. This approach was
+later formulated in his "harmolodic theory."
+Coleman's tumultuous improvisations, despite
+their irregular shapes and jagged lines,
+often possessed a haunting lyrical beauty as
+well as emotional directness.</p>
+
+<p>The saxophonist's unorthodox approach,
+emphasizing collective rather than solo improvisation,
+divided the jazz world. Detractors,
+including jazz giants Miles Davis and
+Charles Mingus, described his music as cacophony
+and called him a <hi rend="italic">poseur</hi>. Boosters,
+including Leonard Bernstein and Gunther
+Schuller, hailed him as a genius. His influential
+1959–60 group (with trumpeter Don
+Cherry, bassist Charlie Haden, and drummer
+Billy Higgins) was documented in two
+landmark 1959 albums, <title>The Shape of Jazz to
+Come and Change of the Century</title>. The aptly
+titled <title>Free Jazz</title> (1960), a thirty-seven-minute
+collective improvisation for double jazz
+quartet, was equally influential. In addition
+to alto saxophone, his primary instrument,
+Coleman has performed on violin and trumpet.
+Among his best-known compositions
+are "Lonely Woman," "Ramblin," and "Blues
+Connotation."</p>
+
+<p>Although his influence has ebbed, especially
+with the revival after 1980 of older jazz
+styles, Coleman has successfully employed his
+"harmolodic" approach in the electric-funk
+group, Prime Time. Still, Coleman's reputation
+rests on his status as a key innovator of
+1960s' "free jazz" with its freewheeling ensemble
+improvisations, open-ended plastic forms,
+and "dissonant" tonal clashes. Among Coleman's
+many honors is a MacArthur Foundation
+Fellowship.</p>
+
+<closer>
+<signed>Chuck Berg<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Litweiler, John. <title level="m">Ornette Coleman: A Harmolodic Life</title>. New
+York: William Morrow, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

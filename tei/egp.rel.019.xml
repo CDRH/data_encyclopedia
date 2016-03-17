@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.rel.019 SYSTEM "egp.rel.019.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Eastern Orthodox</title>
+<title level="m" type="sub"></title>
+<author>Eugene Clay</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Clay, Eugene">Eugene Clay</author>. <title level="a">"Eastern Orthodox."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">743-744</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EASTERN ORTHODOX</head>
+
+<figure n="egp.rel.019" rend="granted">
+<figDesc>Saint Michael's Ukrainian Orthodox Church, Gardenton, Manitoba built in 1935</figDesc>
+</figure>
+
+<p>Divided administratively into fifteen autocephalous
+(independent) territorial churches,
+Orthodox Christians claim to be the one holy
+Catholic and Apostolic Church founded by
+Christ. They hold to the "orthodox" (right-believing)
+canons, faith, and doctrines as defined
+by the seven ecumenical councils convoked
+in the Byzantine Empire from 325 to 787
+<hi rend="smallcaps">A.D.</hi> Characterized by their sacramental theology,
+hierarchical ecclesiology, iconodulism,
+and rich liturgical tradition, Orthodox Christians
+number approximately 250 million people and live primarily in Russia, eastern Europe,
+the Balkans, and the Middle East. There
+are about four million Orthodox Christians in
+North America.</p>
+
+<p>The Russian Orthodox Church established
+the first Orthodox mission in North American
+in 1794 and opened a missionary diocese
+in San Francisco in 1872. Over the next thirty
+years this diocese welcomed hundreds of
+thousands of Orthodox immigrants from the
+Balkans, and more widely from the Ottoman,
+Russian, and Austro-Hungarian Empires.
+Greeks, Slavs (Ukrainians, Russians, Belarusans,
+Macedonians, Montenegrins, Bulgarians),
+Romanians, and Arabs comprised the
+bulk of these Orthodox immigrants.</p>
+
+<p>In Canada most Orthodox immigrants became
+homesteaders in the Great Plains. Between
+1890 and 1914, thanks in part to a government
+policy that encouraged settlement in
+the western provinces, a quarter of a million
+Romanians and Ukrainians from Bukovina,
+Moldova, Galicia, and Banat moved to the Canadian
+Prairies. Ukrainians formed the first
+Orthodox parish in the Canadian Plains in
+1898; four years later the first Romanian parish
+opened in Regina. From these small beginnings,
+the number of Canadian Orthodox
+Christians has grown to 750,000.</p>
+
+<p>In the United States, by contrast, most Orthodox
+immigrants stayed in large cities in
+New York, Pennsylvania, and Illinois, where
+they worked in mines, factories, and shops.
+But by the 1890s increasing numbers of Orthodox
+workers were moving to the Great
+Plains and taking jobs in rail transport, meatpacking
+plants, steel mills, and mines. Slavic
+workers at the Globe smelting plant north of
+Denver founded the Holy Transfiguration
+Church in 1898; in 1903 and 1905, respectively,
+Slavic steelworkers in the Plains towns of
+Pueblo and Calhan, Colorado, opened their
+own parishes.</p>
+
+<p>After 1905 Greeks replaced Slavs as the largest
+Orthodox ethnic group. Between 1890 and
+1920 some 600,000 Greeks arrived in the
+United States and founded more than 140 parishes.
+Job opportunities attracted some of
+these Greeks to the Great Plains. In 1904, for
+example, a meatpacking strike in Omaha, Nebraska,
+led manufacturers there to seek out
+cheaper Greek workers. In 1908 they founded
+an Orthodox parish, Saint John the Baptist,
+that survived a vicious anti-Greek pogrom a
+year later. Between 1906 and 1909 Greeks also
+founded churches in Denver, Pueblo, and
+Kansas City.</p>
+
+<p>Smaller ethnic groups also formed Orthodox
+parishes in the U.S. Plains. In 1902 Lebanese
+Arabs founded the parish of Saint George
+in the cattle town of Kearney, Nebraska; sixteen
+years later Christian Arabs opened a
+church in Wichita, Kansas. Between 1904 and
+1920 Romanians created thirteen parishes in
+the Midwest.</p>
+
+<p>After the Russian Revolution, the Orthodox
+community split along ethnic and political
+lines. By 1930 Greeks, Ukrainians, Romanians,
+Arabs, Serbs, Bulgarians, and Albanians had
+established jurisdictions that were wholly independent
+of the original Russian Orthodox
+missionary diocese. Disputes over liturgical
+questions and the church's proper relationship
+to the Communist government exacerbated
+these ethnic splits; today there are more
+than thirty Orthodox jurisdictions in North
+America.</p>
+
+<p>A minority of the four million American and
+Canadian Orthodox Christians lives in the
+Great Plains today, but various Orthodox jurisdictions
+are working to increase that number.
+The Ukrainian Orthodox Church of Canada
+(<hi rend="smallcaps">UOCC</hi>) has 128,000 adherents in 290 parishes,
+most of which are located in the Prairie Provinces.
+The uocc also operates Saint Andrew's
+College in Winnipeg, Manitoba. Sixty of the
+600 parishes of the Orthodox Church of America
+(the name that the original Russian missionary
+diocese adopted in 1970) are in the
+Great Plains. The Greek Orthodox Archdiocese
+of America opened its Denver bishopric for the
+Great Plains in 1979 and is currently completing
+construction of a new diocesan center there.
+The Antiochian Orthodox Christian Archdiocese
+of North America, which is subordinate
+to the patriarch of Antioch in Syria, has
+moved beyond its Arab ethnic base by encouraging
+a "Western rite" similar to the Anglican
+prayer book of 1928. Several old, conservative
+Episcopalian churches have converted to Antiochian
+Orthodoxy; for example, in 1991 the
+archdiocese received Saint Marks of Denver,
+originally founded as an Anglican church in
+1895. Although only 20 of its 159 parishes are
+located in the Great Plains, the Antiochian
+Archdiocese in 1995 consecrated a chancery,
+overseen by auxiliary Bishop Basil (Essey), in
+Wichita, Kansas.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.051">Ukranian Architecture</ref> / <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.038">Ukrainians</ref>.</p>
+
+<closer>
+<signed>Eugene Clay<lb/>
+Arizona State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Martynowych, Orest. <title level="m">Ukrainians in Canada: The Formative
+Period, 1891–1924</title>. Edmonton: Canadian Institute
+of Ukrainian Studies Press, 1991.</bibl> <bibl>Moskos, Charles C. <title level="m">Greek
+Americans: Struggle and Success</title>. New Brunswick <hi rend="smallcaps">NJ</hi>: Transaction
+Publishers, 1989.</bibl> <bibl>Stokoe, Mark. <title level="m">Orthodox Christians
+in North America, 1794–1994</title>. Syosset <hi rend="smallcaps">NY</hi>: Orthodox Christian
+Publications Center, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

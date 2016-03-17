@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dude Ranching</title>
+<title level="m" type="sub"></title>
+<author>Lawrence R. Borne</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Borne, Lawrence R.">Lawrence R. Borne</author>. <title level="a">"Dude Ranching."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">771</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUDE RANCHING</head>
+
+<p>Dude ranching has long been an important
+part of recreation in the Great Plains. The first
+dude ranches were generally family-operated
+cattle ranches that diversified during hard
+economic times by offering services to travelers.
+Known as dudes, these people visited
+ranches to ride horses, fish, and take part in
+cattle ranch activities. Dude ranches first appeared
+in the late nineteenth century, and they
+continue to operate at the beginning of the
+twenty-first century.</p>
+
+<p>One of the early dude ranches was the Custer
+Trail Ranch, founded in 1879 by Howard,
+Willis, and Alden Eaton at Medora, Dakota
+Territory. The brothers were hosts to visitors in
+1882, and in the following year Howard Eaton
+led guests on the first of his many pack trips
+to Yellowstone Park. The primary interest for
+most dudes was horseback riding, but eventually
+they wanted to experience other outdoor
+adventures such as cattle drives, fishing trips,
+and visiting mountainous country and national
+parks. In order to satisfy their guests
+better, the Eaton brothers moved their operation
+in 1904 to the Bighorn Mountain area in
+Wyoming. Eatons' Ranch has operated there
+since that move. By the 1890s dude ranches had
+also developed in Colorado, Wyoming, and
+Montana.</p>
+
+<p>In 1926 railroad officials helped dude ranchers
+form the Dude Ranchers Association (<hi rend="smallcaps">DRA</hi>),
+an organization that continues to operate. The
+number of dude ranches reached its peak in the
+1930s, when it was estimated that there were
+more than 350 in the United States and 1 in
+Canada. Then the numbers declined, partly due
+to the Great Depression but also to changing
+habits of travelers and more varied tourist destinations.
+The <hi rend="smallcaps">DRA</hi> directory for 2000 lists 105
+member ranches in the United States and 3 in
+Canada. Most are located in Colorado, Wyoming,
+and Montana.</p>
+
+<closer>
+<signed>Lawrence R. Borne<lb/>
+Northern Kentucky University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Borne, Lawrence R. <title level="m">Dude Ranching: A Complete History</title>.
+Albuquerque: University of New Mexico Press, 1983.</bibl> <bibl>Rodnitzky,
+Jerome L. "Recapturing the West: The Dude Ranch
+in American Life." <title level="j">Arizona and the West</title> 10 (1968): 111–26.</bibl>
+<bibl>Roundy, Charles G. "The Origins and Early Development
+of Dude Ranching in Wyoming." <title level="j">Annals of Wyoming</title> 45
+(1973): 5–25.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

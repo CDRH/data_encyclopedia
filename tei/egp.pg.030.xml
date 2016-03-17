@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hogg, James (1851-1906)</title>
+<title level="m" type="sub"></title>
+<author>Gilbert M. Cuthbertson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cuthbertson, Gilbert M.">Gilbert M. Cuthbertson</author>. <title level="a">"Hogg, James (1851-1906)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">666-667</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOGG, JAMES (1851-1906)</head>
+
+<p>James Stephen Hogg, born near Rusk, Texas,
+on March 24, 1851, served Texas as attorney
+general from 1887 to 1890 and as governor
+from 1891 to 1895. Walter Prescott Webb described
+the "People's Governor" as having
+"the courage of leadership which is part of the
+Western tradition."</p>
+
+<p>Hogg's influence on the modernization of
+the Great Plains was a "rough wooing." Hogg,
+himself a small cattleman, favored the open
+range over fencing. Perhaps remembering his
+father's support for homestead exemption
+during the Texas Republic, Hogg supported
+protection of homesteads and public school
+lands. He recovered much acreage from the
+railroads that had been granted for switches
+and sidings, but he lost a disputed border area,
+Greer County, to Oklahoma. In the Scottish
+tradition of being "agin' the government," he
+opposed federal crop subsidies. His campaign
+slogan was "Enforce the law," whether in dealing
+with two-bit outlawry or corporate robbery.
+He dissolved the Texas Tra.c Association,
+a combination of railroads that sought to
+fix rates, and he established the Texas Railroad
+Commission for railroad regulation. Hogg's
+regulatory program reflected moderate progressivism.
+Symbolically, when the railways
+shunted Coxey's Army of unemployed protesters
+near Sierra Blanca, Texas, in 1894, Hogg
+ordered them transported across the state. Although
+politically based in East Texas, in 1892
+Hogg carried a number of Great Plains counties
+despite opposition from Populists and
+ranchers. Hogg's administration brought the
+maverick Plains, fit to be branded, into the
+twentieth century. Hogg died at Houston on
+March 3, 1906, and was buried in Austin.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.078"><hi rend="smallcaps">XIT</hi> Ranch</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.024">Goodnight, Charles</ref>.</p>
+
+<closer>
+<signed>Gilbert M. Cuthbertson<lb/>
+Rice University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cotner, Robert C. <title level="m">James Stephen Hogg: A Biography</title>. Austin:
+University of Texas Press, 1959.</bibl> <bibl>Cotner, Robert C., ed.
+<title level="m">Addresses and State Papers of James Stephen Hogg</title>. Austin:
+University of Texas Press, 1951.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">North Dakota Institute for Regional Studies</title>
+<title level="m" type="sub"></title>
+<author>Thomas J. Riley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Riley, Thomas J.">Thomas J. Riley</author>. <title level="a">"North Dakota Institute for Regional Studies."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">210</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORTH DAKOTA INSTITUTE FOR REGIONAL STUDIES</head>
+
+<p>Located in Fargo, the North Dakota Institute
+for Regional Studies was founded at
+North Dakota State University (<hi rend="smallcaps">NDSU</hi>) in 1950
+to stimulate and coordinate scholarship, research,
+and publications that foster understanding
+of regional life in the Northern
+Plains and Prairies and related regions of the
+world. In keeping with the land-grant university
+tradition, both knowledge and application
+are encouraged by institute programs.</p>
+
+<p>Collections, publications, outreach, and the
+Center for Social Research are the major activities
+supported by the institute. Institute research
+collections and archives related to the
+Plains experience are housed in the ndsu Library
+under the curation of library staff. The
+publications program, which includes monographs,
+occasional papers, and hardcover
+and paperback books related to Plains life,
+is housed in the College of Arts, Humanities
+and Social Sciences. Outreach activities include
+radio and television production, public
+programs, and oral history. The Center for
+Social Research conducts ethnographic and
+survey research in the rural and urban Plains.
+The institute codirectors are the director of the
+ndsu Library and the dean of the College
+of Arts, Humanities and Social Sciences. The
+institute houses a small publications endowment
+and the Gunlogson Fund for Plains
+research.</p>
+
+<p>The North Dakota Institute for Regional
+Studies is the oldest Plains studies center
+in the United States and houses the only
+university-based press in North Dakota. Recent
+publications include <hi rend="italic">Aristocrat of the West</hi>
+by Larry Wowoide (2000), <hi rend="italic">Unwanted Bread:
+The Challenge of Farming and Ranching</hi> by
+Sheldon Green and James Coomber (2000),
+and <hi rend="italic">Dakota Circle: Excursions on the True
+Plains</hi> by Tom Isern (2000).</p>
+
+<closer>
+<signed>Thomas J. Riley<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Claims Commission</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Indian Claims Commission."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">453</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN CLAIMS COMMISSION</head>
+
+<p>In 1946, after decades of periodic debate, the
+United States established the Indian Claims
+Commission to give Native Americans their
+"day in court." The commission operated until
+1978. Native American tribes and bands
+were given five years to register claims with the
+commission, claims relating to past injustices
+of federal Indian policy, including lands illegally
+taken, lands taken for "unconscionably
+low" compensation, and the government's
+misuse of Indian monies. Most Native American
+groups did register claims, and many
+claims were upheld, but ultimately there was
+little justice delivered in the process.</p>
+
+<p>The Indian Claims Commission, comprised
+of three (later four) judges appointed by the
+president, actually functioned as a court that
+heard arguments of two adversaries&#8211;the Native
+American claimants and the United States
+as defendant&#8211;and then passed judgment.
+Awards were monetary only; return of land
+was expressly excluded. In a typical claim involving
+land, the Native American claimants
+had first to prove title to that land, then show
+that the original compensation paid (generally
+during the nineteenth century) was significantly
+below its fair market value at the time of
+taking. The difference between the fair market
+value and the original compensation (minus
+lawyers' fees and other offsets) constituted the
+award. Once an award was accepted or a case
+dismissed, then that claim was dead forever.
+Despite platitudes about "belated justice," the
+United States primarily intended this to be a
+wiping clean of the slate of outstanding claims
+as a prelude to termination&#8211;the prevailing
+policy to eliminate tribes as a separate factor in
+American society.</p>
+
+<p>Altogether, by the deadline, 176 tribes and
+bands lodged 370 claims, which were separated
+into 617 dockets. Plains tribes were well represented.
+From the Lipan Apaches of southern
+Texas to the Blackfeet and Gros Ventres of
+northern Montana and from the Omahas of
+eastern Nebraska to the Crows of Wyoming,
+Plains Indians took their grievances to the
+commission.</p>
+
+<p>In all, eighteen Plains tribes and nations
+lodged claims. The largest award, $35,060,000
+for land primarily in West Texas, went to the
+Kiowas, Comanches, and Apaches in 1974.
+Other sizable awards included $15 million
+(1965) to the Cheyennes and Arapahos for
+lands in northeastern Colorado and adjacent
+Wyoming, Nebraska, and Kansas; and
+$10,242,984 to the Crows (1954) for their traditional
+homelands in Wyoming and Montana.
+The smallest award&#8211;$2,458&#8211;was made to the
+Poncas of Nebraska in 1965 for an accounting
+claim. In the most notorious case, involving
+the Lakotas' (Sioux) 1877 cession of the Black
+Hills, the Indian Claims Commission's award
+of $17.5 million (without interest) was appealed
+and eventually reached the Supreme
+Court, which ruled in 1980 that, because the
+taking was unconstitutional, not just inadequate,
+the Lakotas merited interest on the
+award from 1877 on. Their award, accumulating
+to more than $600 million by the late 1990s,
+sits unclaimed in the U.S. Treasury; the Lakotas
+want their sacred Black Hills back, not a monetary
+settlement.</p>
+
+<p>On close analysis, even sizable awards diminished
+to small payments when they were
+allocated to individual Native Americans.
+(Sometimes awards were put into tribal investments,
+but this was often contentious, because
+the tribal members who did not reside on reservations
+would not benefit from reservation
+development.) The Pawnees of central Nebraska,
+for example, were awarded $7,316,096
+in 1964, largely for lands that had been taken
+in the nineteenth century for unconscionably
+low compensation. Of this, the lawyers
+took $876,897 for fees and expenses, leaving
+$6,439,199. In March 1964 the tribal council
+voted to distribute the award (with a small
+amount of accrued interest) on a per capita
+basis to the 1,883 enrolled members of the
+tribe. Each Pawnee received about $3,530&#8211;no
+doubt a boon in (always) hard times, but
+hardly a redress of past injustices. The Omahas,
+the Pawnees' traditional neighbors, received
+even less ($750 for each tribal member)
+in their 1960 settlement, and each Yankton
+Sioux accepted $249 in 1960 as a reward for
+enduring ten years of litigation in their land
+claims case.</p>
+
+<p>The Indian Claims Commission, therefore,
+should be viewed more as a continuation of
+the past than a break from it. As in the nineteenth
+century, most Plains Indians (and Native
+Americans elsewhere in the country) felt
+obliged to accept the United States' definition
+of what constituted justice. At no stage of the
+litigation process before the Indian Claims
+Commission was the value that Plains Indians
+placed on their lands as homelands taken into
+account.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Indian Claims Commission. <title level="m">Final Report</title>. 96th Cong., 2<hi rend="smallcaps">ND</hi>
+sess., 1980, H. Doc. 96–383.</bibl> <bibl>Lieder, M., and J. Page. <title level="m">Wild Justice: The People of Geronimo vs. the United States</title>. New
+York: Random House, 1997.</bibl> <bibl>Sutton, I., ed. <title level="m">Irredeemable America: The Indians' Estate and Land Claims</title>. Albuquerque:
+University of New Mexico Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

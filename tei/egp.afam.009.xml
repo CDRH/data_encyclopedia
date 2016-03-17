@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.009 SYSTEM "egp.afam.009.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Black Regiments</title>
+<title level="m" type="sub"></title>
+<author>James N. Leiker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Leiker, James N.">James N. Leiker</author>. <title level="a">"Black Regiments."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">10-11</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLACK REGIMENTS</head>
+
+<figure n="egp.afam.009" rend="granted">
+<figDesc>Buffalo Soldiers of the 25th Infantry, some wearing buffalo robes, Fort Keogh, Montana, 1890</figDesc>
+</figure>
+
+<p>In recent years, military and African American
+historians have discovered a common interest
+in the black regiments that served in the
+American West. The term "buffalo soldier, a
+phrase originally employed by the Plains Indians
+to denote a black cavalryman, colloquially
+has come to describe all African Americans
+who served in the frontier army during
+the late nineteenth century. Impressed with
+the record of black troops in the Civil War,
+Congress in 1866 created six new regular army
+regiments, two cavalry and four infantry, that
+consisted entirely of African American men.
+After an 1869 consolidation, four black regiments,
+the Twenty-fourth and Twenty-fifth
+Infantries and the Ninth and Tenth Cavalries,
+comprised nearly 10 percent of the western
+army. Serving in racially segregated regiments,
+always under the command of white officers,
+black soldiers laid telegraph lines, protected
+railroad crews, escorted military prisoners,
+and performed numerous other tasks that
+made settlement of the Plains possible.</p>
+
+<p>Immediately following their arrival, black
+soldiers experienced trouble with white civilians.
+At Fort Hays, Kansas, for example, an
+ongoing feud with local townspeople culminated
+in the lynching of three black infantrymen
+in January 1869. Discrimination and violence
+plagued their service at places like Forts
+Larned and Leavenworth in Kansas and Fort
+Concho in Texas. Empowered by their roles
+as U.S. soldiers, African American servicemen
+often defied western communities' racial
+mores by patronizing saloons, brothels, and
+other "white" establishments, resulting in
+armed conflict. The military's relationship
+with civilian settlements generally had never
+been peaceful, and the presence of armed
+blacks only intensified the friction. As a result,
+commanders took special pains to station
+black companies in areas remote from white
+populations. The Twenty-fourth Infantry, for
+example, spent more than a decade stationed
+in West Texas and on the Mexican border,
+fighting Indian raiders and recalcitrant outlaw
+gangs. Indian Territory became another
+assignment for black regiments. There, troops
+enforced government policy on reservations
+and prevented encroachment from white
+ranchers and farmers. Despite concentrations
+in these areas, however, companies of buffalo
+soldiers were stationed throughout the Plains
+until the late 1880s. As agents of federal expansion,
+African American recruits, many of
+whom had only recently left slavery, were
+often responsible for dispossessing Native
+Americans and relocating them to reservations.
+Evident contradictions in this situation
+did not seem to deter them from performing
+official duties.</p>
+
+<p>Black troops did display considerable loyalty
+toward each other. Their desertion rates
+consistently were far below those of white
+troops, and their high reenlistments allowed
+them to benefit from the presence of many
+seasoned veterans in their regiments. For all
+the danger, prejudice, and sheer boredom that
+characterized their service, black soldiers developed
+strong bonds based on uniform and
+race, which made the frontier army one of the
+more attractive options available to African
+American males in the late nineteenth century.</p>
+
+<closer>
+<signed>James N. Leiker<lb/>
+Unviersity of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Billington, Monroe Lee. <title level="m">New Mexico's Buffalo Soldiers,
+1866-1900</title>. Niwot: University Press of Colorado, 1991.</bibl>
+<bibl>Leckie, William H. <title level="m">The Buffalo Soldiers: A Narrative of the
+Negro Cavalry in the West</title>. Norman: University of Oklahoma
+Press, 1967.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

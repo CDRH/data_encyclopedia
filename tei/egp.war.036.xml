@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Red Cloud (1821-1909)</title>
+<title level="m" type="sub"></title>
+<author>Robert W. Larson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Larson, Robert W.">Robert W. Larson</author>. <title level="a">"Red Cloud (1821-1909)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">834</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RED CLOUD (1821-1909)</head>
+<figure n="egp.war.036" rend="granted" type="noclick">
+<figDesc>Red Cloud (South Dakota State Historical Society)</figDesc>
+</figure>
+
+<p>Lakota Sioux chief Red Cloud, regarded by
+many historians as the most influential of the
+Native American leaders living in the Great
+Plains during the late nineteenth century, was
+born on Blue Water Creek in May 1821 in what
+is now Garden County, Nebraska. The creek, a
+tributary of the North Platte River, was located
+in a neutral hunting ground disputed by
+the Lakotas and their hated rivals, the Pawnees.
+Red Cloud's father, Lone Man, was a
+Brul&#233;, one of the seven Lakota, or western
+Sioux, tribes that migrated from the woodlands
+of Minnesota to the Northern Plains
+during the sixteenth and seventeenth centuries.
+His mother, Walks-as-She-Thinks, was
+an Oglala, another of the seven Lakota tribes.
+When Lone Man died of alcoholism, a sad
+result of the early commerce with white traders
+and trappers, Red Cloud, along with his
+brother and sister, went to live with his mother's
+people, who were then under the leadership
+of an Oglala chief named Smoke.</p>
+
+<p>In 1834, when the Oglalas, led by the domineering
+Sioux leader Bull Bear, were drawn
+southward to the North Platte River valley by
+the commercial possibilities of a trading post,
+which later became Fort Laramie, Red Cloud,
+a thirteen-year-old member of Smoke's band,
+joined this important migration. For more
+than two decades, Smoke's people frequently
+encamped near Fort Laramie, allowing Red
+Cloud to learn more about the ways of the
+whites than most tribal leaders in the Great
+Plains. Red Cloud also became a great warrior
+during these years, killing his first enemy in
+combat at the age of sixteen. As a result of his
+participation in battles with enemy tribes,
+such as the Crows, Pawnees, Utes, and Shoshones,
+Red Cloud allegedly earned eighty
+coups, a record never matched by any of his
+tribal rivals.</p>
+
+<p>Red Cloud became prominent in political
+affairs when he got involved in a bitter brawl in
+1841 that resulted in Bull Bear's death; in his
+autobiography he took personal credit for firing
+the fatal shot. He later gained the respect
+and fear of whites, with whom he had been on
+good terms, when he closed the Bozeman Trail
+through Wyoming to prospectors heading
+north to the Montana gold fields by engineering
+the decisive Fetterman Fight on December
+21, 1866. The aftermath of this battle and two
+others from the so-called Red Cloud's War was
+the Treaty of Fort Laramie in 1868. In this treaty
+the Lakotas were assigned an enormous reservation
+in Dakota Territory, and their hunting
+territory in Wyoming's buffalo-rich Powder
+River country was recognized as unceded. The
+Lakotas subsequently lost the Black Hills in
+1877, partly in retaliation for their victory in
+the Battle of the Little Bighorn, and had their
+reservation divided and drastically reduced in
+size in 1889.</p>
+
+<p>Red Cloud's influence in Lakota affairs,
+which was dominant for a quarter of a century,
+was diminished as a result of the Ghost Dance,
+the chief ceremony of an Indian religious
+movement Red Cloud eventually opposed, and
+one that ultimately led to the Wounded Knee
+Massacre on December 29, 1890. The venerable
+leader died on the Pine Ridge Reservation in
+South Dakota in 1909 at the age of eighty-eight.</p>
+
+<p>Although Red Cloud has been accused of cruelty
+in tribal warfare during his younger years
+and of stubbornness in his negotiations with
+federal authorities during his older years, his
+unwavering political and diplomatic leadership
+on behalf of his people cannot be ignored. Indeed,
+he demonstrated unusual dedication in
+his efforts to maintain those provisions in the
+Treaty of Fort Laramie that he insisted should be
+honored.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.107">Sioux</ref>; <ref n="egp.na.118">Treaties</ref> / <hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.023">Ghost Dance</ref>.</p>
+
+<closer>
+<signed>Robert W. Larson<lb/>
+Denver, Colorado</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Larson, Robert W. <title level="m">Red Cloud: Warrior-Statesman of the
+Lakota Sioux</title>. Norman: University of Oklahoma Press,
+1997.</bibl> <bibl>Paul, R. Eli, ed. <title level="m">Autobiography of Red Cloud: War
+Leader of the Oglalas</title>. Helena: Montana Historical Society
+Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hall of Fame Museums</title>
+<title level="m" type="sub"></title>
+<author>Victor J. Danilov</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Danilov, Victor J.">Victor J. Danilov</author>. <title level="a">"Hall of Fame Museums."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">775-776</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HALL OF FAME MUSEUMS</head>
+
+<p>There are almost forty major Halls of Fame in
+the Great Plains region, with the greatest
+number in Texas (nine), Oklahoma and Kansas
+(six each), and Colorado (five). There are
+three in the Plains region of Canada.</p>
+
+<p>Many of these Halls of Fame are museums,
+such as the National Softball Hall of Fame and
+Museum in Oklahoma City; the Pro Rodeo
+Hall of Fame and the Museum of the American
+Cowboy in Colorado Springs; the National
+Motorcycle Museum and Hall of Fame
+in Sturgis, South Dakota; and the Olympic
+Hall of Fame and Museum in Calgary, Alberta.
+Some of the Halls of Fame are museums
+by other names, such as the National Cowboy
+Hall of Fame and Western Heritage Museum
+in Oklahoma City; the National Agricultural
+Center and Hall of Fame in Bonner Springs,
+Kansas; and the wonderfully titled Gallery of
+Also Rans in Norton, Kansas.</p>
+
+<p>A number of Halls of Fame are only part of
+larger museums, including the Roller Skating
+Hall of Fame in the National Museum of Roller
+Skating in Lincoln, Nebraska; the International
+Space Hall of Fame in the Space Center
+in Alamogordo, New Mexico; the Petroleum
+Hall of Fame in the Permian Basin Petroleum
+Museum, Library, and Hall of Fame in Midland,
+Texas; and Canada's Aviation Hall of
+Fame in the Reynolds-Alberta Museum in
+Wetaskiwin, Alberta.</p>
+
+<p>Sometimes Halls of Fame are housed in
+other types of facilities. For example, the
+North Dakota Sports Hall of Fame is in the
+Jamestown Civic Center; the United States
+Racquetball Hall of Fame is in the United
+States Racquetball Association headquarters in
+Colorado Springs; the National Baseball Congress
+Hall of Fame is in Lawrence-Dumont
+Stadium in Wichita, Kansas; and the National
+Fish Culture Hall of Fame is in the D. C. Booth
+Historic Fish Hatchery in Spearfish, South
+Dakota.</p>
+
+<p>Halls of Fame take many forms. The National
+Hall of Fame for Famous American Indians
+in Anadarko, Oklahoma, is primarily an
+outdoor sculpture garden; the West Texas
+Walk of Fame is on a sidewalk outside the
+Lubbock Memorial Civic Center in Texas; and
+the Denver Broncos' Ring of Fame is displayed
+along the facade of Mile High Stadium. Hall of
+Fame facilities range from a few hundred feet,
+such as the 325-square-foot National Fish Culture
+Hall of Fame, to several hundred thousand
+feet, such as the 220,000-square-foot National
+Cowboy Hall of Fame and Western
+Heritage Museum in Oklahoma City.</p>
+
+<p>Most often, Halls of Fame are started by
+individuals or groups of people interested in
+the subject matter. They want to honor outstanding
+achievement, encourage the activity,
+and promote the area. Others are initiated by
+sports clubs, professional associations, or governmental
+bodies. Hall of fame inductees&#8211;which
+run from a handful to thousands&#8211;usually
+are honored with plaques, biographical
+information, photographs, and displays of
+memorabilia and artifacts. Some exhibits also
+make use of interactive displays and slide,
+film, and video presentations.</p>
+
+<p>Many Halls of Fame are visited by only a few
+thousand people a year, but some are extremely
+popular, attracting large crowds.
+These include the National Cowboy Hall of
+Fame and Western Heritage Museum, which
+has an annual attendance of 300,000, and the
+International Space Hall of Fame at the Space
+Center, which attracts about 200,000 visitors
+each year.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.028">Museums</ref>.</p>
+
+<closer>
+<signed>Victor J. Danilov<lb/>
+University of Colorado-Boulder</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Danilov, Victor J. <title level="m">Hall of Fame Museums: A Reference
+Guide</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

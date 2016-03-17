@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.048 SYSTEM "egp.ct.048.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sioux Falls, South Dakota</title>
+<title level="m" type="sub"></title>
+<author>Kermit L. Staggers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Staggers, Kermit L.">Kermit L. Staggers</author>. <title level="a">"Sioux Falls, South Dakota."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">184</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SIOUX FALLS, SOUTH DAKOTA</head>
+
+<figure n="egp.ct.048" rend="granted">
+<figDesc>Sioux Falls, South Dakota</figDesc>
+</figure>
+
+<p>Strategically located in southeastern South
+Dakota at the junction of Interstates 29 and
+90, the city of Sioux Falls is positioned for
+the future to take advantage of the expanding
+trading opportunities with Canada via I-29
+and the coast-to-coast trade between Boston
+and Seattle by way of I-90. The city takes its
+name from a series of falls on the Big Sioux
+River located north of the present downtown
+area.</p>
+
+<p>It is believed that Native Americans inhabited
+the falls area for at least 1,500 years before
+the arrival of European explorers. The first
+verified visit of non-Indians to the specific site
+was not by European explorers but by members
+of the U.S. Army led by Capt. Joseph Allen
+on September 12, 1844. Several years later,
+in 1856 and 1857, land speculators from Iowa
+and the territory of Minnesota arrived at the
+falls to lay out town sites. This early attempt
+at settlement proved premature because the
+Sioux Uprising of 1862 forced the abandonment
+of the area. Only with the building of
+Fort Dakota in 1865 did the settlers feel safe
+to return.</p>
+
+<p>The reestablishment of Sioux Falls did not
+lead to a dramatic increase in population, but
+it did result in the town becoming the county
+seat of the newly created Minnehaha County
+in 1868. Not until the first railroad arrived in
+Sioux Falls in June 1878 did the town's population
+begin to grow dramatically; by 1890 there
+were 10,177 inhabitants in the city. At the same
+time Sioux Falls earned the distinction of being
+the largest city in South Dakota, a title the
+city has since held; in 2000 the city's population
+was 124,000.</p>
+
+<p>The city's economy has always been intertwined
+with the agricultural economy of the
+region. In 1909 this relationship was made
+manifest when John Morrell and Company
+established a large meatpacking plant in Sioux
+Falls, and in 1917 the Sioux Falls Stockyards
+were created. With the reputation of having
+built Sioux Falls, the Morrell Company provided
+good-paying jobs and served as the major
+employer of the community for most of
+the twentieth century.</p>
+
+<p>Beginning in the 1980s, the dominance of
+the Morrell Company in the Sioux Falls economy
+began to fade as the city started a conscientious
+effort to diversify and expand its
+economy. In 1981 the New York City-based
+Citibank Corporation moved its credit card-
+processing center to Sioux Falls because of the
+city's favorable business climate and the passage
+of special banking legislation by the state
+legislature. Following the example of Citibank,
+other financial institutions soon followed.
+The 1980s also witnessed the expansion
+of the local hospitals, Sioux Valley and Avera
+McKennan, transforming Sioux Falls into a
+regional medical center. At the end of the decade,
+Hutchinson Technology, a computer
+technology company, arrived in Sioux Falls.</p>
+
+<p>The city gained national recognition for its
+economy and quality of life when Money magazine
+in 1992 declared Sioux Falls to be the
+number one community in the United States.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: 
+<ref n="egp.med.003">Argus Leader(Sioux Falls)</ref>. </p>
+</div1>
+
+<div1> <p/>
+
+<closer> 
+<signed>Kermit L. Staggers</signed>
+University of Sioux Falls</closer>
+</div1>
+
+<div1>
+<bibl>Fanebust, Wayne. <title level="m">Where the Big Sioux River Bends: A Newspaper Chronicle</title>. Sioux Falls, SD: Minnehaha County
+Historical Society, 1985.</bibl> <bibl>Olson, Gary D., and Erik D.
+Olson. <title level="m">Sioux Falls, South Dakota: A Pictorial History</title>. Virginia
+City, VA: Donning Company Publishers, 1985.</bibl> <bibl>Smith,
+Charles A. <title level="m">A Comprehensive History of Minnehaha County, South Dakota</title>. Mitchell, SD: Educator Supply Company,
+1949.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

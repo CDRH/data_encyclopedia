@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.068">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Swan, Alexander (1831-1905)</title>
+<title level="m" type="sub"></title>
+<author>Mark Elliott</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.068</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Elliott, Mark">Mark Elliott</author>. <title level="a">"Swan, Alexander (1831-1905)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">54</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SWAN, ALEXANDER (1831-1905)</head>
+
+<p>Alexander Hamilton Swan was born in 1831 in
+Greene County, Pennsylvania. He moved to
+Cheyenne, Wyoming, in 1873 and soon after,
+with other family members, established one
+of the largest cattle companies in the West,
+the Swan Brothers Cattle Company. Alexander,
+who managed the business, started
+with 3,000 head of cattle in 1873 on Chugwater
+Creek in southeastern Wyoming, where he established
+the Two Bar Ranch. By 1882 Swan's
+herd numbered 33,000 head. The next year he
+formed the Swan Land and Cattle Company
+and sold the corporation to Scottish investors
+for $2,550,825. As manager of the corporation,
+Swan organized four other cattle companies,
+including the Wyoming Hereford Ranch just
+east of Cheyenne. Swan was the first rancher
+to introduce purebred Herefords from England
+to the United States. Under Swan's management,
+the Swan Land and Cattle Company
+holdings expanded to more than one million
+acres and reportedly carried 110,000 head
+of cattle. Swan's influence stretched east as
+well where he was involved in the building
+of the massive Union Stockyards in Omaha,
+Nebraska.</p>
+
+<p>Swan was also active in politics. As a Republican
+he was elected in 1877 to the council
+in the fifth Wyoming legislative assembly, but
+he was defeated in 1880 when he ran as a delegate
+to Congress. His ranching success came
+to an abrupt end through a combination of
+overstocking, overgrazing, and the disastrous
+winter storms of 1886–87, which killed an estimated
+300,000 to 400,000 head of cattle in
+Wyoming. Swan filed for bankruptcy. His detractors
+accused him of inflating the head
+count of his herds and poor managerial practices.
+Swan was sued by his own corporation
+and replaced by John Clay, a harsh critic of
+Swan and his business operations. Swan left
+Cheyenne and died in obscurity in Ogden,
+Utah, in 1905.</p>
+
+<closer>
+<signed>Mark Elliott<lb/>
+Laramie County Community College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burroughs, John R. <title level="m">Guardian of the Grasslands</title>. Cheyenne:
+Pioneer Printing Stationery Co., 1971.</bibl> <bibl>Clay, John. <title level="m">My Life on the Range</title>. Norman: University of Oklahoma Press,
+1962.</bibl> <bibl>Woods, Lawrence M. <title level="m">Wyoming Biographies</title>. Worland
+<hi rend="smallcaps">WY</hi>: High Plains Publishing Co., 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

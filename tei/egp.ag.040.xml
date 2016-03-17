@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fertilized Acreage</title>
+<title level="m" type="sub"></title>
+<author>Jessica G. Davis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Davis, Jessica G.">Jessica G. Davis</author>. <title level="a">"Fertilized Acreage."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">45-46</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FERTILIZED ACREAGE</head>
+
+<p>Fertilizer use plays an essential role in maintaining
+the agricultural productivity of the
+Great Plains. Eliminating fertilizer in just one
+year would reduce corn yields by 40 percent
+and wheat yields by 10 percent. Fertilizer use
+in the region has increased dramatically in recent
+decades. From 1975 to 1995, nitrogen fertilizer
+(the most commonly used fertilizer on
+the Plains) use increased by more than 250
+percent, phosphorus fertilizer use by about
+50 percent, and potassium fertilizer use by
+more than 1,200 percent. The Canadian Prairie
+Provinces use about one-third of the total
+fertilizer applied in the Great Plains region.
+The most common forms of fertilizer used in
+the region are urea and anhydrous ammonia
+as nitrogen forms, monoammonium phosphate
+as phosphorus fertilizer, and muriate
+of potash as potassium fertilizer. Manure is
+also used as a fertilizer and soil amendment
+on cropland located near livestock production
+facilities.</p>
+
+<p>Fertilizer utilization practices change from
+north to south in the Great Plains. Farmers
+tend to apply more fertilizer prior to planting
+and to apply more fertilizer through irrigation
+systems in the southern part of the region. In
+the Northern Great Plains, more fertilizer is
+applied at planting or after planting, and applying
+the fertilizer in a concentrated band is
+more common (as opposed to a broadcast application).
+In addition, the use of phosphorus
+fertilizer declines in the Southern Plains,
+where it is more common for farmers to apply
+nitrogen fertilizer at rates that are below those
+recommended by agricultural laboratories
+and crop consultants. Geographically, areas
+where more than 90 percent of harvested
+cropland is fertilized include the Red River
+Valley of the North and adjacent eastern
+North Dakota and many counties in a belt
+stretching from central Nebraska through
+central Oklahoma.</p>
+
+<p>The type of crops grown has a significant
+impact on fertilizer use in the Great Plains.
+Farmers tend to apply higher rates of nitrogen
+fertilizer and use phosphorus and potassium
+more often in corn production than in winter
+wheat production. There is good reason for
+this: corn removes considerably higher levels
+of these nutrients from the soil than does
+wheat. Soil testing is recommended as a basis
+on which to make fertilizer decisions. Great
+Plains farmers tend to use soil testing more
+in cornfields (49 percent) than in winter
+wheat fields (18 percent). Since corn requires
+a higher investment and has higher potential
+for economic return, this makes good economic
+sense.</p>
+
+<p>Irrigation also has a significant impact on
+fertilizer use. Irrigated crops produce higher
+yields and remove more nutrients from the
+soil than dryland crops. Therefore, farmers
+tend to apply phosphorus fertilizer more
+often and apply greater amounts of nitrogen
+and potassium fertilizer to irrigated crops.
+Irrigated corn is soil-tested more commonly
+(84 percent) than dryland corn (29 percent).
+In general, more profitable crops are usually
+managed more intensely and fertilized more
+heavily.</p>
+
+<closer>
+<signed>Jessica G. Davis<lb/>
+Colorado State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Spotted Tail (1823-1881)</title>
+<title level="m" type="sub"></title>
+<author>Bruce E. Johansen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.111</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Johansen, Bruce E.">Bruce E. Johansen</author>. <title level="a">"Spotted Tail (1823-1881)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">605</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SPOTTED TAIL (1823-1881)</head>
+<figure n="egp.na.111" rend="granted">
+<figDesc>"Portrait of Brule Lakota Sioux Chief Spotted Tail, ca. 1880. Photograph by Charles Milton Bell (Denver Public Library Repository)</figDesc>
+</figure>
+
+<p>Spotted Tail (<hi rend="italic">Sinte Galeska</hi>), a major Brule
+Sioux leader in the Plains Indian wars, was
+born to a man named Chunka (Tangled Hair)
+and a mother named Walks With Pipe, probably
+along the White River of South Dakota.
+Known as Jumping Buffalo in his youth, Spotted
+Tail got his adult name from a striped raccoon
+pelt that was given to him by a trapper.</p>
+
+<p>In 1855 he was jailed at Fort Leavenworth in
+retaliation for the defeat of Lt. John Grattan's
+force the previous year by Brulés, though
+Spotted Tail had not been involved in the incident.
+Upon his release in 1856, he balanced
+Lakota nationalism with conciliation to the
+United States, as he was convinced of American
+military superiority. By 1866 he had refrained
+from hostilities against Americans,
+unlike his nephew Crazy Horse.</p>
+
+<p>Spotted Tail made several trips to Washington
+dc on behalf of his people in the 1860s
+and 1870s. During the most important visit, in
+1875, Spotted Tail was among the Sioux chiefs
+appointed by U.S. officials to negotiate the sale
+of the Black Hills following George Armstrong
+Custer's expedition there a year earlier.
+Spotted Tail, who was one of the few Sioux
+chiefs who understood the value to Americans
+of the gold in the hills, demanded that the
+government's offer of $6 million be declined,
+but under duress he eventually agreed to its
+sale.</p>
+
+<p>In the 1870s tension arose between Red
+Cloud and Spotted Tail after U.S. o.cials appointed
+Spotted Tail as chief of the Sioux at
+the Spotted Tail and Rosebud Agencies, eventually
+replacing Red Cloud. Throughout the
+1870s Spotted Tail was accused by Red Cloud
+of pocketing the proceeds from a sale of tribal
+land. Possibly as part of this dissension, Spotted
+Tail was shot to death on August 5, 1881, by
+Crow Dog, a Brul&#233; subchief with whom he
+had several disputes. Crow Dog's murder case
+provided the gist of the Supreme Court case
+<hi rend="italic">Ex Parte Crow Dog</hi> (1883), in which the defendant
+was eventually freed when the court
+ruled that the United States had no jurisdiction
+over the murder, which had occurred on
+Indian land.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.016"><hi rend="italic">Ex Parte Crow Dog</hi></ref> (Major Crimes Act) / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.014">Crazy Horse</ref>; <ref n="egp.war.036">Red Cloud</ref>.</p>
+
+<closer>
+<signed>Bruce E. Johansen</signed>
+University of Nebraska at Omaha</closer>
+</div1>
+
+<div1>
+<bibl>Hyde, George E. <title level="m">Spotted Tail's Folk</title>. Norman: University of
+Oklahoma Press, 1961.</bibl> <bibl>Schusky, Ernest Lester. <title level="m">The Forgotten
+Sioux</title>. Chicago: Nelson-Hall, 1975.</bibl> <bibl>Utley, Robert M.
+<title level="m">The Lance and the Shield: The Life and Times of Sitting
+Bull</title>. New York: Henry Holt, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

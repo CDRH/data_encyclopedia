@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.088">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Poncas</title>
+<title level="m" type="sub"></title>
+<author>Beth R. Ritter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.088</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ritter, Beth R.">Beth R. Ritter</author>. <title level="a">"Poncas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">593-594</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PONCAS</head>
+
+<p>Since their arrival in the Great Plains, the
+Ponca Tribe has always been small in numbers.
+Yet their history and experiences are representative
+of many of the major themes that have
+shaped the lives of the Native inhabitants of the
+region. According to the Poncas' oral history,
+their original homeland was in the Ohio River
+valley. For reasons now unknown, the Siouan
+Degiha speakers (Poncas, Omahas, Kanzas,
+Osages, and Quapaws) undertook a vast migration:
+as they followed the Ohio, Mississippi,
+and eventually the Missouri Rivers, one cognate
+tribe after another divided off until only
+the Poncas and Omahas remained together.
+The Poncas eventually separated from the
+Omahas and settled in the Niobrara River valley
+(in present-day northeastern Nebraska) by
+the early eighteenth century. As a consequence,
+the Poncas and Omahas speak mutually intelligible
+dialects and had similar political and social
+organization, including hereditary chiefs
+and patrilineal, exogamous clans.</p>
+
+<p>Settling into their new land, the Poncas jettisoned
+many of their Woodland adaptations in
+favor of the archetypal Plains Village Tradition
+of semipermanent earth lodge villages, maize
+horticulture, and communal bison hunting. In
+the nineteenth century, however, as a result of
+epidemic diseases, the Poncas periodically
+abandoned horticulture in favor of full-time
+nomadic bison hunting. Still, they never abandoned
+their homeland near the confluence of
+the Niobrara and Missouri Rivers, and they
+continued to return to their sacred sites, villages,
+and gardens on a regular basis.</p>
+
+<p>The typical seasonal round of the Poncas
+was organized around the horticultural calendar:
+planting gardens in the spring and harvesting
+in the fall, interspersed with communal
+bison hunts in the summer and winter
+seasons. Hunting and horticulture were supplemented
+by gathering wild plants and herbs
+for food and healing. The Poncas utilized a
+vast area of the Central Great Plains for trading,
+hunting, horse raiding, and visiting. In
+all, they claimed an area extending from the
+Missouri River on the east to the Black Hills
+and foothills of the Rocky Mountains to the
+west, and from the White River in the north to
+the Platte River in the south.</p>
+
+<p>Given their range, the Poncas had to learn
+to coexist with their more numerous and
+powerful neighbors, the Lakotas and the Pawnees.
+The Poncas forged a tenuous alliance
+with the Oglala Lakotas, occasionally hunting
+together and accompanying them on their
+horse raids against the Pawnees. From the
+Oglalas the Poncas learned the sacred Sun
+Dance, but they modified it to fit Ponca horticultural
+traditions by adding an emphasis on
+fertility and renewal, consistent with the goals
+of a horticultural tribe. The Poncas also practiced
+(and still practice) the sacred pipe religion
+and expressed a strong belief in their allpowerful
+creator, <hi rend="italic">Wakonda</hi>. The Poncas had a
+more troubled relationship with the Brul&#233;
+Lakotas, however, which would eventually
+contribute to their expulsion from their Niobrara
+homeland.</p>
+
+<p>The Poncas point with pride to the fact that
+they never engaged in armed conflict with the
+U.S. government. In all, they signed four treaties,
+including a treaty that ceded Aboriginal
+title to the majority of their land and established
+a reservation near Niobrara, Nebraska,
+in 1858. The Poncas tried earnestly to succeed
+in their transition to reservation-based farming.
+However, those efforts proved futile when
+the government ceded away title to the entire
+Ponca Reservation to the Sioux in the Treaty
+of Fort Laramie in 1868. Overnight, the Poncas
+found themselves trespassers on their own
+reservation. The Brule Lakotas, under Chief
+Spotted Tail, were relentless in their harassment
+of the Poncas and eventually weakened
+them to the point of desperation. Conditions
+were so grave by the 1870s that the Poncas
+considered a plan to abandon their homeland
+in favor of a new reservation in Indian Territory.
+After traveling to the proposed site in the
+winter of 1877, a delegation of Ponca chiefs
+declined the offer. However, the will of the
+chiefs was disregarded by the government,
+and the forced removal of the tribe commenced
+in the spring of 1877.</p>
+
+<p>This event, known as the Ponca Trail of
+Tears, was a disaster. Plagued by bad weather
+and inadequate preparations, the Poncas lost
+more than one-fifth (158 from 730) of their
+population within the first two years of removal.
+Dissatisfaction with their circumstances led to a desperate attempt by Chief
+Standing Bear to return to the Niobrara
+homeland to honor the dying wish of his son
+to be buried with his ancestors. On New Year's
+Day of 1879, Standing Bear led a small party of
+Poncas&#8211;mostly women and children&#8211;back
+to Nebraska. They were arrested, and a trial
+ensued in federal district court in Omaha, Nebraska.
+Judge Elmer Dundy declared that "an
+Indian is a person under the meaning of the
+law" and that the United States had no authority
+to return Standing Bear to Indian Territory.</p>
+
+<p>Standing Bear had won his case, but the
+victory was a hollow one for the Ponca Tribe.
+The majority of the Poncas, after spending
+more than two years settling into their new
+reservation in Indian Territory, opted to remain
+there. In 1881 the Ponca Tribe was officially
+dissolved and legally reconstituted as
+two separate entities: the Northern Ponca
+Tribe, residing on a portion of the old Ponca
+Reservation in northeastern Nebraska, and
+the Southern Ponca Tribe, with a reservation
+of 101,000 acres in north-central Oklahoma.</p>
+
+<p>The two Ponca tribes, still linked by family,
+cultural, and linguistic ties, have faced vastly
+different fates in the twentieth century. The
+Ponca Tribe of Oklahoma, organized in 1950, is
+headquartered in White Eagle, named after the
+Poncas' charismatic paramount chief at the
+time of removal. In 1996 the Southern Poncas
+listed 2,581 enrolled members, of whom more
+than half resided in Kay County, Oklahoma.
+The Southern Poncas' land base suffered as a
+consequence of allotment policy, and they
+eventually lost the vast majority of their land-holdings,
+including oil-rich lands, to non-
+Indian interests, particularly the "101 Ranch."
+The Southern Poncas have been active in the
+Native American Church, the revitalization of
+the <hi rend="italic">Heduska</hi>, or War Dance Society, and the
+Plains powwow tradition. The economy of the
+Ponca Tribe of Oklahoma is based on a successful
+bingo hall, smoke shops, and various
+tribal economic development initiatives.</p>
+
+<p>The Northern Ponca Tribe also struggled in
+the twentieth century with land loss and the
+out-migration of tribal members. The Northern
+Ponca Tribe was terminated in 1962, joining
+more than 100 tribes that lost their status
+as a result of federal termination policy. At the
+time of termination, only 442 Northern Poncas
+were listed on the tribal roll, and only 847
+of their original 27,000 acres remained. Tribal
+status was legally restored by Congress in 1990
+as a result of a prolonged tribal grassroots
+effort led by the nonprofit Northern Ponca
+Restoration Committee. The Ponca Tribe of
+Nebraska is currently headquartered in Niobrara,
+Nebraska, near their first reservation.
+The tribe, denied the opportunity to reestablish
+their reservation by Congress, delivers services
+to tribal members residing in fifteen designated
+counties in Nebraska, South Dakota,
+and Iowa. Enrollment exceeds 2,000. At the
+turn of the twenty-first century the tribe was
+engaged in a number of economic developments
+and cultural revitalization projects, including
+the reintroduction of bison on tribal
+trust lands near Niobrara and the establishment
+of the Ponca Health and Wellness Center
+in Omaha, Nebraska.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.053">Trial of Standing Bear</ref>.</p>
+
+<closer>
+<signed>Beth R. Ritter</signed>
+University of Nebraska at Omaha</closer>
+</div1>
+
+<div1>
+<bibl>Howard, James H. <hi rend="italic">The Ponca Tribe</hi>. Washington <hi rend="smallcaps">DC</hi>: Government
+Printing Office, 1995.</bibl> <bibl>Ritter, Beth R. "The Politics
+of Retribalization: The Northern Ponca Case." <hi rend="italic">Great
+Plains Research</hi> 4 (1994): 237-55.</bibl> <bibl>Wishart, David J. <title level="m">An Unspeakable
+Sadness: The Dispossession of the Nebraska Indians</title>.
+Lincoln: University of Nebraska Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

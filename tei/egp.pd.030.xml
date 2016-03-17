@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Junta de Iindignaci&#243;n</title>
+<title level="m" type="sub"></title>
+<author>Phillip B. Gonzales</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gonzales, Phillip B.">Phillip B. Gonzales</author>. <title level="a">"Junta de Iindignaci&#243;n."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">714-715</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JUNTA DE IINDIGNACI&#211;N</head>
+
+<p>While the native Hispanos formed the majority
+of the population throughout New Mexico's territorial
+period and into the early statehood years
+after 1912, they were nevertheless subject to the
+powerful forces of Americanization. As Anglo-American
+and foreign settlers prepared New
+Mexico for full incorporation into the United
+States, considerable ethnic conflict arose. Seeing
+many threats to their social and cultural interests,
+Hispanos responded with ethnic protest.
+By the turn of the twentieth century, a distinct
+tradition of Hispano collective resistance
+emerged. Some of the most significant Hispano
+protest took place within the vast region that the
+Spanish <hi rend="italic">pobladores</hi> (yeoman settlers) first called
+<hi rend="italic">las vegas grandes</hi> (the great meadows) and <hi rend="italic">el
+llano estacado</hi> (the Staked Plains), which extended
+from the Rockies onto the western fringe
+of the Great Plains. Anglo newcomers came
+upon Hispanos who were already settled in the
+Plains counties of San Miguel, Mora, Colfax,
+Union, and Guadalupe.</p>
+
+<p>A major form of protest innovated by Hispanos
+living in the Plains was <hi rend="italic">la junta de indignaci&#243;n</hi>
+(mass meeting of indignation). In the
+typical junta de indignaci&#243;n, a spontaneous
+demonstration was organized to deal with an
+issue suddenly affecting the Hispanos as an
+ethnic group. One of the biggest and most
+significant of such juntas took place in Las
+Vegas in 1901 in response to a Methodist missionary
+who disparaged in a local newspaper
+column the "pagan" religious customs of the
+Hispano folk. A crowd of 600 Hispanos rallied
+to refute the missionary's alleged "lies" and
+"calumnies." Typical of the Hispano junta de
+indignacion, a round of speakers denounced
+the offender in harsh and sarcastic terms. Also
+typical of this protest genre, the leaders appointed
+a committee and charged it with
+crafting resolutions to be published in the
+press calling for Anglos to cease their racial
+prejudices.</p>
+
+<p>Hispano ranchers in the Plains also applied
+la junta de indignacion in efforts to keep legal
+possession of communal lands. On the important
+Las Vegas Land Grant, for example, a
+"people's" movement, consisting of hastily
+convened meetings, formed in response to the
+actions of a group of elite townsmen who attempted
+to gain control of the grant. In this
+case, juntas de indignaci&#243;n intertwined with
+dramatic court cases and local elections.</p>
+
+<p>Statewide juntas also erupted in 1933 when
+a psychology professor at the University of
+New Mexico disseminated negative stereotypes
+of Hispanos in his racial attitude scale.
+Protests erupted in the two Plains communities
+of Springer and Taylor Springs in Colfax
+County. Both involved the rituals of indignant
+speakers and a petition calling on the governor to fire the professor whose "slanders" insulted
+the Hispano people.</p>
+
+<p>As a collective repertoire, la junta de indignaci&#243;n
+enabled Hispanos to forge a homeland
+ethnic identity. It served as a means for
+giving notice that they would not tolerate the
+denial of rights in the land that their ancestors
+had settled. The classic turn-of-thecentury
+junta de indignaci&#243;n went out of style
+in the mid-1930s as the Great Depression and
+the New Deal caused significant changes in
+New Mexico's structure of political and civic
+engagement.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.021">Hispano Homeland</ref>.</p>
+
+<closer>
+<signed>Phillip B. Gonzales<lb/>
+University of New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Arellano, Anselmo F. "People Versus Trustees: Protest Activity
+on the Las Vegas Land Grant." In <title level="m">Las Vegas Grandes
+on the Gallinas, 1835–1985</title>, edited by Anselmo F. Arellano
+and Juli&#225;n Josu&#233; Vigil. Las Vegas <hi rend="smallcaps">NM</hi>: Editorial Telera&#241;a,
+1985: 66–74.</bibl> <bibl>Gonzales, Phillip B. <title level="m">Forced Sacrifice as Ethnic
+Protest: The Hispano Cause in New Mexico and the Racial
+Attitude Confrontation of 1933</title>. New York: Peter Lang Publishing,
+2001.</bibl> <bibl>Gonzales, Phillip B. "La Junta de Indignaci&#243;n:
+Hispano Repertoire of Collective Protest in New
+Mexico, 1884–1933." <title level="j">Western Historical Quarterly</title> 31 (2000):
+161–86.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

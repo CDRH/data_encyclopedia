@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Packard, David (1912-1996)</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Packard, David (1912-1996)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">428-429</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PACKARD, DAVID (1912-1996)</head>
+
+<p>David Packard, along with his partner, William
+Hewlett, established the computer industry
+giant Hewlett-Packard. Packard was born
+on September 7, 1912, in Pueblo, Colorado. He
+attended Stanford University, where he earned
+varsity letters in football and basketball and
+graduated in 1934. After several months of
+graduate work at the University of Colorado,
+Packard took a job with General Electric in
+Schenectady, New York, in 1938. That year
+he married Lucile Salter of San Francisco,
+whom he had met at Stanford. He returned to
+Stanford and completed a master's degree in
+electrical engineering. In 1939 he and fellow
+graduate student William Hewlett founded
+Hewlett-Packard with a capital investment of
+$538. The company's first product was an electrical
+oscillator, a device for testing audio
+equipment. Early orders came from the Walt
+Disney studios.</p>
+
+<p>In 1947 the two inventors incorporated
+their business, with Packard named as president.
+Packard served as president until 1964,
+when he became chairman of the board and
+chief executive officer. He remained in this
+position from 1964 until 1969, then took leave
+to become deputy secretary of defense in the
+Nixon administration. He served there until
+1971. In 1972 he was reelected as chairman of
+Hewlett-Packard, a position he held until his
+retirement in 1993. He remained active in the
+business until his death.</p>
+
+<p>In addition to its products, which include
+measurement and computational devices used
+in industry, business, engineering, science,
+medicine, and education, Hewlett-Packard is
+known for its innovative management style,
+known as the "<hi rend="smallcaps">HP</hi> way," which is designed to
+maintain high productivity and employee loyalty.
+The <hi rend="smallcaps">HP</hi> way includes catastrophic medical
+coverage, flexible work hours, open offices, decentralized
+decision making, management by
+objective, employee profit sharing, and discount
+stock purchases.</p>
+
+<p>Packard was active in business, government,
+and philanthropy. He was a trustee of Stanford
+University from 1954 to 1969, a member of the
+Trilateral Commission from 1973 to 1981, and a
+member of the White House Science Council
+and the National Academy of Engineering. He
+cofounded the American Electronics Association.
+From 1975 to 1983 he sat on the U.S.-USSR
+Trade and Economic Council's committee on
+science and technology, and he was director of
+the National Fish and Wildlife Foundation
+from 1985 until 1987. He also served on the
+President's Council of Advisors on Science and
+Technology from 1990 until 1992. Through the
+David and Lucile Packard Foundation, which
+was established in 1964, he and his wife donated
+more than $400 million to various
+charities, community organizations, education,
+health care, conservation, science, and
+the arts. In addition to the work of the foundation,
+Packard personally donated hundreds of
+millions more, including $300 million to Stanford
+University. David Packard, a pioneer in
+the computer industry, died on March 26,
+1996, at Stanford University Hospital.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Packard, David. <title level="m">The <hi rend="smallcaps">HP</hi> Way: How Bill Hewlett and I Built Our Company</title>, edited by David Kirby and Karen Lewis.
+New York: HarperBusiness, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

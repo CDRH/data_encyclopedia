@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roadrunners</title>
+<title level="m" type="sub"></title>
+<author>Geoffrey R. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Geoffrey R.">Geoffrey R. Smith</author>. <title level="a">"Roadrunners."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">638</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROADRUNNERS</head>
+
+<p>The roadrunner (<hi rend="italic">Geococcyx californianus</hi>) is
+primarily a ground-dwelling member of the
+cuckoo family that inhabits the southern extremes
+of the Great Plains region. The range
+of the roadrunner extends across the southwestern
+United States and into central Mexico.
+The northern perimeter extends through the
+Texas Panhandle and Oklahoma into southern
+Kansas and west into southeastern Colorado.
+Habitat preference varies widely within this
+region but includes both desert conditions in
+the south to grasslands in the north.</p>
+
+<p>The adult roadrunner has a total body
+length of about twenty-four inches and is designed
+for speed. With its zygodactyl feet,
+characterized by two toes forward and two
+toes back, the roadrunner is an e.cient predator
+on many species of insects and most
+small reptiles, including the rattlesnake. Both
+male and female have buff-colored undersides
+with a mixture of black, bronze, and buff
+feathers on the breast. Both sexes possess a
+crest on top of the head.</p>
+
+<p>Nesting habits of the roadrunner are consistent
+throughout the Plains. Courtship begins
+in the early spring with nests being constructed
+in shrubs and small trees at heights of
+from three to about fifteen feet. Nests are shallow
+and from eighteen to twenty inches in
+diameter. The first clutch of eggs (from a total
+of two or three) is laid in late April to early
+May. The incubation period lasts about eighteen
+days, with both parents sharing all nesting
+chores. Juveniles leave the nest at about
+fourteen days of age and remain secluded in
+underbrush for an additional eight to ten
+days. Parenting chores by adults continue during
+this period. Upon emergence after the tenday
+seclusion period the juveniles are prepared
+to fend for themselves.</p>
+
+<closer>
+<signed>Wyman Meinzer<lb/>
+Benjamin, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bent, Arthur Cleveland. <title level="m">Life Histories of North American
+Cuckoos, Goatsuckers, Hummingbirds, and Their Allies</title>.
+New York: Dover Publications, 1948.</bibl> <bibl>Meinzer, Wyman. <title level="m">The
+Roadrunner</title>. Lubbock: Texas Tech University Press, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

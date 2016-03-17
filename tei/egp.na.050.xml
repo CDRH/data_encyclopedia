@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Territory</title>
+<title level="m" type="sub"></title>
+<author>Brad A. Bays</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bays, Brad A.">Brad A. Bays</author>. <title level="a">"Indian Territory."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">578-579</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN TERRITORY</head>
+<figure n="egp.na.050" rend="granted">
+<figDesc>Map of Oklahoma and Indian Territories</figDesc>
+</figure>
+
+<p>All of Oklahoma was referred to as "Indian
+Territory" until 1890, when Congress partitioned
+Oklahoma Territory and made "Indian
+Territory" the formal name for the Five Civilized
+Tribes' domain. Indian Territory's relevance
+to the Great Plains thus spans from the
+1820s, when the United States cleared title
+through treaty cessions by the Quapaws (1818)
+and Osages (1825) and designated the area as
+"Indian Country," to the Oklahoma land runs,
+beginning in 1889.</p>
+
+<p>The area had long been permanently or seasonally
+occupied by Great Plains peoples, notably
+the Wichitas, Kiowas, and Plains Apaches.
+Comanche, Cheyenne, Arapaho, and
+Pawnee bison hunters also knew it well in the
+1820s, as did hunters from the east, including
+bands of Cherokees, who came to the Arkansas
+and Red River areas decades before their
+nation was forcibly relocated there. The treaties
+that forced the Five Tribes to remove from
+their eastern homelands in the 1830s gave
+them roughly equivalent areas in Indian Territory,
+overlapping the eastern margin of the
+Great Plains.</p>
+
+<p>The Five Tribes' three ribbons of Great
+Plains land included the Cherokee Outlet in
+the north, a strip between this and the Canadian
+River shared by the Creek and Seminole
+Nations, and a wide expanse between the Canadian
+and North Fork of the Red River owned
+by the Choctaws and Chickasaws (Texas began
+west of the North Fork). The Five Tribes' settlements
+clung to the safe, humid, accessible, alluvial
+valleys to the east, which left the Kiowas
+and Comanches to command their western
+lands.</p>
+
+<p>Beginning in the 1850s western Indian Territory
+became a dumping ground for dispossessed
+Plains Indians. When the Chickasaws
+and Choctaws separated in 1855, they leased
+the western third of their domain to the
+United States to resettle Texas Indians. After
+the Civil War the Five Tribes were forced to
+cede their western lands to make room for
+new reservations. The eastern third of the
+Cherokee, Creek, and Seminole holdings was
+parceled among a diverse set of Native American
+refugees, creating a cluster of small,
+poverty-stricken reservations. The western
+lands of the Seminoles, Choctaws, and Chickasaws
+became reservations for the Cheyennes
+and Arapahos, Comanches, and Kiowas and
+Apaches, following their brutal suppression
+by the army in the 1860s and 1870s, which also
+coincided with the era of the cattle drives
+through the area.</p>
+
+<p>By the 1880s reservation farming was largely
+unsuccessful, since the most rational land
+use for land-rich, capital-poor Indians was to
+lease land to white cattlemen. For quite different
+reasons, farmers and humanitarian reformers
+agreed that the communal land tenure
+on reservations had to end. In 1887 Congress
+passed the General Allotment (Dawes) Act,
+which required tribal members to select 160
+acres of land for their own use, although title
+would be held for a period of years by the
+government. The acreage that remained was
+then opened to white settlement. The reservations
+of western Indian Territory were allotted
+in the late 1880s and early 1890s. This was immediately
+followed by land runs and lotteries
+that brought tens of thousands of white families
+to the region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.061">Oklahoma</ref>.</p>
+
+<closer>
+<signed>Brad A. Bays<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Debo, Angie. <title level="m">And Still the Waters Run: The Betrayal of the
+Five Civilized Tribes</title>. Princeton <hi rend="smallcaps">NJ</hi>: Princeton University
+Press, 1940.</bibl> <bibl>Gibson, Arrell Morgan. <title level="m">Oklahoma: A History
+of Five Centuries</title>. Norman: University of Oklahoma Press,
+1981.</bibl> <bibl>Morris, John W., Charles R. Goins, and Edwin C.
+McReynolds. <title level="m">Historical Atlas of Oklahoma</title>. Norman: University
+of Oklahoma Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

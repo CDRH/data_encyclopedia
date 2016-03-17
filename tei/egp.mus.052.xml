@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wills, Bob (1905-1975)</title>
+<title level="m" type="sub"></title>
+<author>Charles R. Townsend</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Townsend, Charles R.">Charles R. Townsend</author>. <title level="a">"Wills, Bob (1905-1975)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">551-552</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WILLS, BOB (1905-1975)</head>
+<figure n="egp.mus.052" rend="granted" type="noclick">
+<figDesc>Bob Wills</figDesc>
+</figure>      
+    
+
+<p>James Robert Wills was born in the "black
+belt" of East Texas near the town of Kosse on
+March 6, 1905. He grew up in a musical family
+of fiddle players and in an area famous for
+African American music that produced Scott
+Joplin, Victoria Spivey, and Blind Lemon
+Jefferson. From his family he learned to play
+frontier fiddle music, which had been part of
+frontier cultural life from the East Coast to
+West Texas. From the African Americans he
+learned blues and jazz. By the time Wills
+played his first dance as a fiddler at a ranch in
+West Texas at the age of ten, he had already
+begun to add blues and jazz idioms to traditional
+fiddle music. This combination was
+eventually called western swing and became
+one of the most distinctive sounds in all of
+American music. There was hardly an American
+musical expression that could not be
+heard at one time or another in Wills' music:
+ragtime, New Orleans jazz, blues, rhythm and
+blues, rock, country, and big band swing.
+Wills blended it all into a swinging dance music
+that remained popular for seventy-five
+years.</p>
+
+<p>Wills performed his music for years at
+country and ranch dances in West Texas before introducing it to the general public on
+radio stations in Fort Worth. He organized the
+Light Crust Doughboys, broadcast over the
+Texas Quality Network in 1933, and soon revolutionized
+music in Texas. His greatest success
+was with his band the Texas Playboys in Tulsa,
+Oklahoma, between 1934 and 1942. During
+those years he added brass, woodwinds, and
+drums and developed a band that by 1940
+numbered eighteen members. The band could
+play anything from a fiddle breakdown to a
+George Gershwin composition and give it a
+swinging rhythm and solid beat. His recordings
+sold in the hundreds of thousands and his
+"San Antonio Rose" in the millions. Wills began
+making movies in Hollywood in 1940, and
+when he was discharged from the army in 1943
+he moved the Texas Playboys to California.
+There he was more successful, at least financially,
+than at any time in his career. Huge
+crowds at his dances and big-selling records
+made him one of the highest paid bandleaders
+in America.</p>
+
+<p>After the war, Wills gave up most of the
+brass and reeds in his band and used more
+fiddles, guitars, steel guitars, and mandolins.
+This emphasis on strings helped him maintain
+his popularity even after the age of the big
+bands was over, and he influenced the two
+musical forces that were destined to dominate
+American music down to the present, rock
+and roll and country and western. Western
+swing had a marked impression on early rockabillies
+such as Bill Haley and the Comets,
+Buddy Holly and the Crickets, and Elvis Presley.
+Wills's greatest influence, however, was on
+country and western. The Country Music Association
+gave him its highest honor in 1968,
+naming Wills to the Country Music Hall of
+Fame. In 1999 Bob Wills was inducted into the
+Rock and Roll Hall of Fame in the category of
+"early influences."</p>
+
+<p>What was it that gave Wills's music such
+lasting appeal? His music and style had many
+good qualities, but mainly, his music made
+people happy. Bob Wills practiced what President
+Franklin D. Roosevelt had advocated
+early in the Great Depression&#8211;that the right
+kind of music could help us sing and whistle
+our way out of hard times or at least live better
+with them. In this sense, Bob Wills and His
+Texas Playboys were more than entertainers,
+they were therapists. They played a practical
+role in American life during the Great Depression
+and later during World War II.</p>
+
+<p>When Bob Wills died in Dallas on May 13,
+1975, he left the world a much richer place. His
+compositions like "Faded Love," "Maiden's
+Prayer," and "San Antonio Rose" are part of
+the repertoire of country and pop artists and
+Americana itself. He helped bridge the gap
+between black and white musical cultures
+when he began combining them as a boy. Out
+of that came Bob Wills's richest legacy, his
+own musical style, the happy lilting rhythms
+and moving beat of western swing.</p>
+
+<closer>
+<signed>Charles R. Townsend<lb/>
+West Texas A&amp;M University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Sheldon, Ruth. <title level="m">Hubbin' It: The Life of Bob Wills</title>. Tulsa:
+Privately published, 1938.</bibl> <bibl>Townsend, Charles R. <title level="m">San Antonio Rose: The Life and Music of Bob Wills</title>. Urbana: University
+of Illinois Press, 1976.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

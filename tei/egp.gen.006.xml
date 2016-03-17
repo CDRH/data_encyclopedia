@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.gen.006 SYSTEM "egp.gen.006.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Calamity Jane (1856-1903)</title>
+<title level="m" type="sub"></title>
+<author>James D. McLaird</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McLaird, James D.">James D. McLaird</author>. <title level="a">"Calamity Jane (1856-1903)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">325-326</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CALAMITY JANE (1856-1903)</head>
+
+<figure n="egp.gen.006" rend="granted">
+<figDesc>Calamity Jane</figDesc>
+</figure>
+
+<p>Martha Canary (Calamity Jane), the famous
+frontierswoman, was born in 1856 in the vicinity
+of Princeton, Missouri, the eldest daughter
+of Robert and Charlotte Canary. In 1864 the
+Canary family joined the gold rush to Montana.
+Martha's parents died in the West a few
+years later, and Martha was reported alone in
+the 1869 census of Piedmont, Wyoming. She
+evidently became a prostitute, traveling between
+the bustling new Union Pacific Railroad
+towns and Wyoming's military posts. At some
+point she gained her famous nickname, "Calamity
+Jane," probably based on her propensity
+for raising a ruckus or because of her calamitous
+origins. The first published notice
+of Martha bearing her famous nickname appeared
+in 1875, when in the capacity of camp
+follower she accompanied the "Jenney expedition"
+from Fort Laramie to the Black Hills of
+Dakota Territory.</p>
+
+<p>Martha's local notoriety increased in 1876
+when, again as camp follower, she accompanied
+Gen. George Crook's command against
+the Sioux; for the remainder of her life, Martha
+claimed to have scouted for Crook. Shortly
+afterward she joined James Butler "Wild Bill"
+Hickok's wagon train headed for the Black
+Hills. Though their acquaintance lasted only a
+few weeks before Hickok was murdered in
+Deadwood on August 2, 1876, the names of
+Calamity Jane and Wild Bill Hickok would be
+joined in folklore.</p>
+
+<p>Martha gained national prominence in 1877
+after Horatio N. Maguire penned a colorful
+account of her in his promotional booklet <title level="m">The Black Hills and American Wonderland</title>. His description
+was appropriated by dime-novelist
+Edward Wheeler for his new "Deadwood
+Dick" series, instantly transforming "Calamity
+Jane" into a nationally known heroine.</p>
+
+<p>Her life was less glamorous than the dimenovel
+descriptions allowed. She worked as a
+dance-hall girl, waitress, and laundress, living
+with a series of male companions she identified
+as husbands. Following early experiences,
+she migrated to newly constructed railroad
+towns, mining camps, and military posts. She
+followed the Northern Pacific Railroad as it
+built westward through Montana in the early
+1880s, then migrated to the Wyoming region
+as railroad extensions were built into interior
+regions. For several years she was the companion
+of William Steers, a physically abusive railroad
+brakeman. They were legally married
+several months after the birth of their daughter,
+Jessie, in 1887.</p>
+
+<p>In 1895 Calamity Jane made a celebrated return
+to Deadwood, selling photographs of
+herself in frontier costume. Publicity led to a
+contract to tour eastern cities with Kohl and
+Middleton's dime museums in 1896. Her
+somewhat fictionalized autobiography, <title level="m">Life and Adventures of Calamity Jane, By Herself</title>,
+was published during this tour for sale to audiences.
+Afterward Martha returned to Montana,
+making a subsistence living from sales
+of her autobiography and photographs and
+from performing menial labor. A generous
+woman, she attended people in illness and
+shared her meager proceeds; an alcoholic, she
+never held lasting jobs nor accumulated property
+or wealth.</p>
+
+<p>Exhibiting increasing signs of serious illness,
+Martha once again received national
+publicity in 1901 when author Josephine Brake
+offered her the opportunity to live with her in
+New York. Upon her arrival there, Calamity
+Jane was exhibited with Colonel Frederic T.
+Cummins's "Indian Congress" at the Pan-
+American Exposition in Buffalo. Unhappy
+and feeling used, Martha returned to Montana,
+where her drunken celebrations made
+her less and less welcome. In December 1902
+she departed for the Black Hills, where she
+died in Terry, near Deadwood, on August 1,
+1903. She was buried in the vicinity of Hickok.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: 
+<ref n="egp.ii.018">Deadwood, South Dakota</ref>; <ref n="egp.ii.034">Hickok, Wild Bill</ref>.</p>
+
+<closer>
+<signed>James D. McLaird<lb/>
+Dakota Wesleyan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Etulain, Richard W. "Calamity Jane: Independent Woman
+of the Wild West." In <title level="m">By Grit and Grace: Eleven Women Who Shaped the American West</title>, edited by Glenda Riley
+and Richard W. Etulain. Golden <hi rend="smallcaps">CO</hi>: Fulcrum Publishing,
+1997: 72–92.</bibl> <bibl>Jennewein, J. Leonard. <title level="m">Calamity Jane of the Western Trails</title>. Huron <hi rend="smallcaps">SD</hi>: Dakota Books, 1953.</bibl> <bibl>Sollid,
+Roberta Beed. <title level="m">Calamity Jane: A Study in Historical Criticism</title>.
+Helena: Montana Historical Society, 1995.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

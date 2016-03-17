@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kogawa, Joy Nozomi (b. 1935)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Kogawa, Joy Nozomi (b. 1935)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">145</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KOGAWA, JOY NOZOMI (b. 1935)</head>
+
+<p>The Japanese Canadian writer and activist Joy
+Kogawa is best known for her novel <title level="m">Obasan</title>
+(1981), which was based on her own experiences
+as a captive in a Canadian internment
+camp during World War II. The book won
+<hi rend="italic">Books in Canada</hi> First Novel Award and Canadian
+Authors Association Book of the Year
+Award.</p>
+
+<p>Kogawa was born in Vancouver on June 6,
+1935, a second-generation Japanese Canadian
+(<hi rend="italic">nisei</hi>). During World War II she and her family,
+together with more than 20,000 other Japanese
+Canadians, were shipped to detention
+camps in the interior of the country. Kogawa
+was sent first to Slocan, British Columbia,
+then to Coaldale, Alberta. In <title level="m">Obasan</title>, the
+adult Naomi, as an activist seeking justice for
+the victims of internment, reconstructs what
+had happened to her as a child as she scrutinizes
+the records that document this dark period
+of Canadian history.</p>
+
+<p>Kogawa studied education at the Universities
+of Alberta (1954) and Saskatchewan
+(1968) and taught elementary school in Coaldale
+for a year. Her first book of poetry, <title level="m">The Splintered Moon</title>, was published in 1967. She
+subsequently published three other collections
+of poetry. She has written three other
+novels since <title level="m">Obasan</title>, two of which also feature
+Naomi. Like her main character, Kogawa has
+campaigned tirelessly for the rights of Japanese
+Canadians, so much so that in a 1988
+interview she expressed concern that her writing
+would be overwhelmed by her political
+commitment. Her most recent novel, <title level="m">The Rain Ascends</title> (1995), moved away from the
+previous autobiographical character of her
+fiction to tackle an equally charged subject
+matter: the abuse of children by clergymen.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Williamson, Janice. <title level="m">Sounding Differences: Conversations with Seventeen Canadian Women Writers</title>. Toronto: University
+of Toronto Press, 1993: 148-59.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

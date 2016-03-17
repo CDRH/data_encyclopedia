@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">O'Keefe, Georgia (1887-1986)</title>
+<title level="m" type="sub"></title>
+<author>Ellen Bradbury</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bradbury, Ellen">Ellen Bradbury</author>. <title level="a">"O'Keefe, Georgia (1887-1986)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">125-126</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">O'KEEFE, GEORGIA (1887-1986)</head>
+
+<p>Born in Sun Prairie, Wisconsin, in 1887, Georgia
+O'Keefe was the second child of Francis
+O'Keefe and Ida Totto O'Keefe. Perched
+on the prairie, Sun Prairie was a typical nineteenth-
+century farming community. O'Keefe
+lived on her family dairy farm until she was
+twelve, when she went away to school, first
+to Chatham Academy in Virginia and then to
+the Chicago Art Institute in 1905 and the
+New York Art Students League in 1907. The
+O'Keefe family fortunes declined, and in 1915
+she was forced to leave school in New York and
+take a teaching job in Columbia, South Carolina.
+While she was there, O'Keefe revised her
+work, using simple abstract forms and a limited
+palate. Her goal was to express emotion or
+emotional states using abstraction.</p>
+
+<p>O'Keefe's first experience of the Great
+Plains came in 1912, when she took a position
+as an art educator in the Amarillo public
+schools. After less than a year she left after
+battling with the state education commission
+over textbooks. But her love for the land had
+been established. In 1916 O'Keefe moved to
+Canyon, Texas, and became the head of (and
+the only faculty member in) the art department
+at West Texas State Normal School. She
+disliked the small town, but she was inspired
+by the wide horizons and the overarching sky.
+The openness of the space changed her work,
+and she began to paint the infinite variations
+of light coming onto the Plains, especially
+at sunrise and sunset. The clouds of
+dust that arose from the herds of cattle being
+herded through town gave her new sources of
+abstract shapes.</p>
+
+<p>The imagery of these paintings in Texas
+ranged between realistic and abstract forms
+with allusions to the land. She produced them
+on whatever paper was available as she wandered
+the land, inspired by the power and
+beauty of the Plains. North Texas, she would
+write in 1919, was the only place she really felt
+at home.</p>
+
+<p>O'Keefe's mature style was fully developed
+when she moved back to New York in the
+summer of 1918. In 1924 she married Alfred
+Stieglitz, the influential photographer and
+owner of Gallery 291. Critics at the time discussed
+O'Keefe's work in terms of feminine
+forms, but many of the allusions were to landforms.
+Other critics pointed to evidence of
+Orientalism and Art Nouveau, the dominant
+art movements of her youth, and to the influence
+of her most important teacher, Arthur
+Wesley Dow, whose dictum, that all things
+must be done beautifully, stayed with her all
+her life. All these influences are important, but
+landscape, especially the Plains landscape, was
+vital to her art.</p>
+
+<p>After 1929 O'Keefe began spending her
+summers in New Mexico, eventually (in 1949)
+buying property in the village of Abiquiu,
+near Santa Fe. Her love of the land is evident
+in the New Mexico paintings, in which, once
+again, landforms are dominant. After her
+death on March 6, 1986, O'Keefe's estate
+formed the basis of the Georgia O'Keefe
+Foundation. In 1997 the Georgia O'Keefe Museum,
+dedicated solely to O'Keefe's legacy,
+opened in Santa Fe. She is one of a few women
+artists in the world to be so honored.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: 
+<ref n="egp.pe.016">Caprock Canyonlands</ref>.</p>
+
+<closer>
+<signed>Ellen Bradbury<lb/>
+Santa Fe, New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Giboire, C. Lovingly, <title level="m">Georgia: The Complete Correspondence of Georgia O'Keeffe and Anita Pollitzer</title>. New York:
+Simon and Schuster, 1990.</bibl> <bibl>O'Keefe, Georgia. <title level="m">Canyon Suite</title>. New York: George Braziller, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

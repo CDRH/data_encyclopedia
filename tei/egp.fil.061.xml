@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.061">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Splendor in the Grass</hi></title>
+<title level="m" type="sub"></title>
+<author>John C. Tibbetts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.061</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tibbetts, John C.">John C. Tibbetts</author>. <title level="a">"<hi rend="italic">Splendor in the Grass</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">279</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">SPLENDOR IN THE GRASS</hi></head>
+<figure n="egp.fil.061" rend="granted" type="noclick">
+<figDesc>Splendor in the Grass DVD Cover</figDesc>
+</figure>     
+
+<p>Based on an original screenplay by Kansas
+playwright William Inge, <title>Splendor in the Grass</title>
+(1961) reflects Inge's concerns with the problems
+and frustrations of small-town life in the
+Midwest. Determined to shake off his frustrations
+over his first failure on Broadway, <title>A Loss of Roses</title> (1959), Inge went to Hollywood to
+prepare <title>Splendor</title> for Elia Kazan, who had directed
+Inge's <title>Dark at the Top of the Stairs</title> for
+the stage two years before. Characteristically,
+the setting is a small Kansas town in the late
+1920s (obviously Inge's hometown of Independence,
+Kansas) where two ill-fated young
+lovers, Bud Stamper and Deanie Loomis,
+struggle against the sexual inhibitions and
+materialistic priorities of their parents. As a
+result of their enforced separation, Bud goes
+to Yale and marries someone else, and Deanie
+goes insane and is confined to a mental hospital
+after a suicide attempt. At the end, both are
+forced to accept what has happened and find
+consolation in poet William Wordsworth's
+words, "We will grieve not, rather find /
+Strength in what remains behind."</p>
+
+<p>Although Kazan was anxious to capture the
+look of Kansas, most of the film was shot on
+Long Island and Staten Island and in Poughkeepsie
+and the Filmways Studio in New York
+City. The role of Deanie was played by a young
+Natalie Wood, already an established actress.
+Bud's oppressive oil-rich father was played by
+Pat Hingle. Warren Beatty, a newcomer from
+the cast of the failed <title>A Loss of Roses</title>, appeared
+as Bud, and Inge appeared in a cameo role as
+the Reverend Whiteman. Ironically, the film's
+theme of the dangers of prudery and hypocrisy
+led to the excision by the Production Code
+censors of several scenes thought to be too
+sexually explicit. Despite some critical cavils
+(Dwight Macdonald scornfully suggested the
+film was essentially "an Andy Hardy story with
+glands"), the film opened to sensational box
+office returns and earned Inge an Academy
+Award for his screenplay.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.030">Inge, William</ref>.</p>
+
+<closer>
+<signed>John C. Tibbetts<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ciment, Michel. <title level="m">Kazan on Kazan</title>. New York: Viking Press,
+1974. Inge, William. "A Level Land." In <title level="m">What Kansas Means to Me</title>, edited by Thomas Fox Averill. Lawrence:
+University Press of Kansas, 1991: 153–59.</bibl> <bibl>Voss, Ralph. <title level="m">A Life of William Inge</title>. Lawrence: University Press of Kansas,
+1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

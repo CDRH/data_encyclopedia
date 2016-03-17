@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Otero, Miguel Antonio (1829-1882)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Otero, Miguel Antonio (1829-1882)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">363</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OTERO, MIGUEL ANTONIO (1829-1882)</head>
+
+<p>Businessman, banker, politician, and railroad
+promoter, Miguel Antonio Otero was born in
+Valenica, New Mexico (then a province of the
+Mexican Republic), on June 21, 1829. Otero
+was educated in private schools in Missouri,
+attended St. Louis University, and graduated
+from Pingree College in Fishkill, New York.
+He taught briefly at Pingree before returning
+to Missouri, where he studied law under Governor
+Trusten Polk. After being admitted to
+the bar in 1851, Otero returned to New Mexico
+(by then a U.S. territory) to practice law. He
+quickly became involved in territorial politics:
+he served in the territorial legislature, briefly
+held the position of territorial district attorney,
+and was elected New Mexico's delegate
+to Congress in 1855 (he held that position until
+1861). While serving in Congress Otero married
+Mary Josephine Blackwood of Charleston,
+South Carolina; the Oteros had four children
+(son Miguel Antonio Jr. was New Mexico
+Territory's first Hispanic American governor).</p>
+
+<p>Otero focused on a variety of business ventures
+after leaving Congress. In 1867 he opened
+a mercantile business in Westport Landing,
+Missouri, and as the railroad moved west
+across Kansas he relocated to Leavenworth,
+Fort Harker, and Hays City. Otero also became
+active in railroad promotion. He worked for
+the Atchison, Topeka, and Santa Fe Railroad
+during the 1870s and he helped organize the
+New Mexico and Southern Pacific Railroad,
+which built through New Mexico. At Raton
+Pass in December 1878, Otero drove the ceremonial
+spike into the first rail laid in New
+Mexico. By the late 1870s Otero was living in
+Las Vegas, New Mexico, and was engaged in
+mining, banking, health resorts, and a telephone
+company. He founded and was the first
+president of the San Miguel National Bank.
+Otero died of pneumonia at age fifty-two on
+May 30, 1882, in Las Vegas.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Otero, Miguel Antonio Jr. <title level="m">Otero: An Autobiographical Trilogy</title>.
+New York: Arno Press, 1974.</bibl> <bibl>Vigil, Maurilio E. "Miguel
+Antonio Otero." In <title level="m">Los Patrones: Profiles of Hispanic Political Leaders in New Mexico History</title>, edited by Maurilio E.
+Vigil. Washington <hi rend="smallcaps">DC</hi>: University Press of America, 1980:
+45–48.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

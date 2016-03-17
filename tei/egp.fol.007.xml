@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fol.007 SYSTEM "egp.fol.007.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cowboy Crafts</title>
+<title level="m" type="sub"></title>
+<author>Timothy H. Evans</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Evans, Timothy H.">Timothy H. Evans</author>. <title level="a">"Cowboy Crafts."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">293-294</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COWBOY CRAFTS</head>
+
+<figure n="egp.fol.007" rend="granted">
+<figDesc>Saddlemaker John King of King's Saddlery, Sheridan, Wyoming</figDesc>
+</figure>
+
+<p>"Cowboy crafts" refers to a group of traditional
+crafts associated with cowboys and
+ranchers. Historically, the tools of the cowboy&#8211;
+saddles, bridles, bits, quirts, chaps,
+boots, hats, branding irons, and other objects&#8211;
+were handmade by cowboys, saddlemakers,
+or specialized craftsmen working out
+of saddle shops. Many still are, although massproduced
+goods now dominate the lower price
+ranges.</p>
+
+<p>Most cowboy crafts have roots in the <hi rend="italic">vaquero</hi>
+traditions that emerged in Mexico in the
+sixteenth century as adaptations of Spanish
+and Moorish horse culture. As American imperialism
+brought northern Mexico into the
+United States in the 1840s, much of the occupational
+lore of vaqueros was adopted by
+American ranchers. This included techniques
+for handling horses, cattle and sheep, the construction
+and layout of ranches, and occupational
+folk speech, as well as cowboy crafts.
+As the ranching industry spread north from
+Texas and the Southwest during the nineteenth
+century, all of these traditions spread
+with it. Most of them continue in altered and
+localized forms to the present day.</p>
+
+<p>Although many of the simpler crafts (and
+repairs) are carried out by cowboys in their
+spare time, the center of cowboy crafts has
+always been the saddle shop. Large saddle
+shops existed in Mexico by the sixteenth century,
+employing many saddle- and harness
+makers, leather carvers, apprentices, and specialists
+in related crafts such as silver engraving.
+All saddles and other products produced
+in a shop bore its stamp, no matter who actually
+did the work. This atelier system still exists
+in large saddle shops throughout Mexico, the
+United States, and Canada. In addition, cowboys
+and others sell crafts to the shop or work
+on consignment.</p>
+
+<p>The western stock saddle is the predominant
+saddle type in the Great Plains and
+throughout the West. Much larger and heavier
+than the English saddle, it is a specialized piece
+of occupational equipment, meant for extended
+periods of heavy riding and for cattle
+herding and roping. Its origins can be traced
+to the Mexican vaquero saddle of the 1700s.
+It has large skirts, a deep seat, and a horn
+for roping. It is a complicated and timeconsuming
+object to put together, consisting
+of sixty or more parts and requiring dozens of
+specialized tools.</p>
+
+<p>By the mid- to late nineteenth century, the
+western stock saddle had developed regional
+variations throughout the American West,
+most notably in Texas, California, and the
+Great Basin. Texas saddles were larger and
+heavier than other western saddles: skirts were
+large, heavy, square, and lined with sheepskin,
+and riggings (the assemblage of hardware,
+straps, and cinches that holds the saddle on
+the back of the horse) were doubled, having
+both front and rear cinches. With the settlement
+of the Northern Plains, a distinct variant
+developed that resembled Texas saddles but
+with a lower and sturdier horn, a higher seat,
+and a projecting rim on the cantle known as a
+Cheyenne roll. In the twentieth century, regional
+variations in saddle form became less
+important, while many specialized forms of
+rodeo and show saddles developed.</p>
+
+<p>The decoration of leather has always been
+integral to the saddlemaker's craft. This includes
+the carving and stamping of leather, as
+well as the use of engraved silver and other
+minor aspects such as lacing and quilting.
+Great Plains saddles have generally relied less
+on silver and more on leather carving than
+saddles from farther west. Leatherwork patterns
+vary from basketwork and other geometric
+designs to intricately carved flowers,
+wildlife, or scenes of rodeos and ranch life.
+Fancy carved saddles for use by wealthy
+ranchers or in parades go back to the seventeenth
+century, but in the twentieth century
+became more abundant, commissioned for
+Hollywood stars or as rodeo trophies. Since
+the 1950s, Sheridan, Wyoming, and other centers
+of the craft have specialized in highly decorated
+"art" saddles and produce a variety
+of intricately carved leather items, such as
+briefcases and photo albums. At the same
+time, many saddlemakers continue to produce
+less-expensive custom saddles for working
+cowboys.</p>
+
+<p>After saddles, bits and spurs are the most
+prestigious cowboy craft. Like saddles, they are
+generally made by specialists. Also like saddles,
+their roots lie in eighteenth-century Mexico,
+and variations developed as they diffused in
+the nineteenth century into the American
+West. In general, bits and spurs in the Great
+Plains were simpler and less decorated than
+those farther west. Modern bit and spur makers,
+like saddlemakers, compete with factory
+goods but continue to thrive, producing highly
+polished and elaborately engraved silverplated
+art objects, as well as undecorated bits
+and spurs for everyday use.</p>
+
+<p>Although some other cowboy crafts are
+made by specialists&#8211;for example, hats and
+boots&#8211;many others are made by cowboys in
+their spare time or are produced as a sideline
+by full-time crafters. These include bridles,
+belts, billfolds, and other smaller leather
+items, often carved; soft leather items such as
+chaps and leather vests; twisted ropes; ropes,
+horse tack, and decorative items made from
+twisted rawhide; and items made from dyed
+horsehair that has been braided, twisted, or
+hitched into ropes, bridles, hatbands, and
+jewelry.</p>
+
+<p>One of the most notable developments in
+late-twentieth-century cowboy crafts was the
+emergence of art and collectors' markets. Saddles,
+spurs, and other items from prestigious
+older saddle shops such as Myres of Texas,
+Collins of Nebraska, and Meanea of Wyoming
+command huge prices and are proudly displayed
+in museums and private collections;
+the same is true of well-known contemporary
+shops such as King's Saddlery of Wyoming.
+Along with "western" paintings, beaded moccasins
+and silver mounted rifles, they are part
+of a regional art market, a "taste culture" that
+characterizes many museums, galleries, and
+private art collections of the Great Plains and,
+more generally, the West.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.015">Cowboy Culture</ref>.</p>
+
+<closer>
+<signed>Timothy H. Evans<lb/>
+Western Kentucky University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dary, David. <title level="m">Cowboy Culture: A Saga of Five Centuries</title>.
+New York: Alfred A. Knopf, Inc. 1981.</bibl> <bibl>Evans, Timothy H.
+<title level="m">King of the Western Saddle: The Sheridan Saddle and the Art of Don King</title>. Jackson: University Press of Mississippi,
+1998.</bibl> <bibl>Rice, Lee M., and Glenn R. Vernam. <title level="m">They Saddled the West</title>. Centreville <hi rend="smallcaps">MD</hi>: Cornell Maritime Press, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

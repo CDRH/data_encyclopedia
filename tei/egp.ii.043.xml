@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mount Rushmore National Monument</title>
+<title level="m" type="sub"></title>
+<author>Sheila R. Aaker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.043</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Aaker, Sheila R.">Sheila R. Aaker</author>. <title level="a">"Mount Rushmore National Monument."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">393</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MOUNT RUSHMORE NATIONAL MEMORIAL</head>
+
+<p><placeName rend="monument" key="mon.mrnm" reg="Mount Rushmore National Memorial">Mount Rushmore National Memorial</placeName>, or, as its sculptor, <persName reg="Borglum, Gutzon">Gutzon Borglum</persName>, referred to it, the Shrine of Democracy, was the brainchild of <persName reg="Robinson, Doane">Doane Robinson</persName>, <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName>'s poet laureate and superintendent of the <orgName rend="nonprofit" key="non.sdshs" reg="South Dakota State Historical Society">State Historical Society</orgName>. The year was 1923. <persName reg="Robinson, Doane">Robinson</persName>'s idea was to carve notable western figures on the granite stone spires called the Needles, which rise along one of the highways through the <geogName rend="region" reg="Black Hills">Black Hills</geogName>. He approached U.S. senator <persName reg="Norbeck, Peter">Peter Norbeck</persName> with the concept. <persName reg="Robinson, Doane">Robinson</persName> believed that <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> needed to diversify its economy that at the time was based on mining, which experienced periods of boom and bust, and agriculture, which was suffering. He felt that larger-than-life stone sculptures would draw tourists to the <geogName rend="region" reg="Black Hills">Black Hills</geogName>. <persName reg="Norbeck, Peter">Norbeck</persName> had met <persName reg="Borglum, Gutzon">Gutzon Borglum</persName> in 1916 at the Republican National Convention and liked him personally. In the early 1920s <persName reg="Norbeck, Gutzon">Norbeck</persName> had been present when <persName reg="Borglum, Gutzon">Borglum</persName> made his pitch to <orgName rend="government" key="gov.usa.con" reg="Congress">Congress</orgName> for financial support for <placeName rend="mounument" key="mon.sm" reg="Stone Mountain">Stone Mountain</placeName> in <placeName rend="state" key="ga" reg="Georgia">Georgia</placeName>, a Confederate memorial. At that time, <persName reg="Borglum, Gutzon">Borglum</persName> was highly respected for the numerous works of art he had already produced. <persName reg="Norbeck, Peter">Senator Norbeck</persName> felt <persName reg="Borglum, Gutzon">Borglum</persName> was audacious enough and talented enough to take on the challenge of carving huge figures in granite.</p>
+
+<p><persName reg="Robinson, Doane">Robinson</persName> and <persName reg="Norbeck, Peter">Norbeck</persName> began a letterwriting campaign to convince <persName reg="Borglum, Gutzon">Borglum</persName> to come to <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> and take on the project. When <persName reg="Borglum, Gutzon">Borglum</persName> visited <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName>, he immediately felt that the project should be national in scope and proposed carving larger figures than had ever been carved before and carving them on the side of a mountain. <persName reg="Borglum, Gutzon">Borglum</persName> convinced <persName reg="Norbeck, Peter">Norbeck</persName> that the sculptures should be of significant presidents. In a letter to the senator, <persName reg="Borglum, Gutzon">Borglum</persName> explained his choices: <persName reg="Washington, George">Washington</persName> and <persName reg="Lincoln, Abraham">Lincoln</persName>, "founder" and "savior," respectively; <persName reg="Jefferson, Thomas">Jefferson</persName>, the "first great expansionist"; and <persName reg="Roosevelt, Theodore">Roosevelt</persName>, who had "completed commercial control by securing the <geogName rend="canal" reg="Panama Canal">Panama Canal</geogName>."</p>
+
+<p>The concept was agreed upon, and a site near the isolated mining town of <placeName rend="settlement" key="sd.key" reg="Keystone, South Dakota">Keystone</placeName> was chosen. The formal dedication was held on August 10, 1927, with <persName reg="Coolidge, Calvin">President Calvin Coolidge</persName> in attendance, and carving commenced that year, when <persName reg="Borglum, Gutzon">Borglum</persName> was sixty years old. Work continued until early 1941, when <persName reg="Borglum, Gutzon">Borglum</persName> died. His son, <persName reg="Borglum, Lincoln">Lincoln</persName>, oversaw some finishing work on the mountain, but that work was stopped at the end of October, when the impending war required the conservation of resources.</p>
+
+<p><persName reg="Borglum, Gutzon">Borglum</persName> had intended to carve more of the presidents' figures and also to carve a vault in the canyon wall behind <placeName rend="monument" key="mon.mrnm" reg="Mount Rushmore National Memorial">Mount Rushmore</placeName>. However, after his death the memorial was not completed according to <persName reg="Borglum, Gutzon">Borglum</persName>'s original design. Fortunately, <persName reg="Borglum, Gutzon">Borglum</persName> himself was able to finish the lifelike features of the four presidents.</p>
+
+<p>Each year, more than 2.5 million visitors gaze up at the faces of the Shrine of Democracy. They stand in awe of its magnificence and in appreciation for its remarkable sculptor, <persName reg="Borglum, Gutzon">Gutzon Borglum</persName>, and his truly American image, <placeName rend="monument" key="mon.mrnm" reg="Mount Rushmore National Memorial">Mount Rushmore National Memorial</placeName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.038">Roadside Attractions</ref> / <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.057">Norbeck, Peter</ref>.</p>
+
+
+<p><ref target="http://www.nps.gov/moru/index.htm">Mount Rushmore National Momument</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Sheila R. Aaker<lb/>
+Black Hills State University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Shaff, Howard, and Audrey K. Shaff. <title level="m">Six Wars at a Time</title>. Darien <hi rend="smallcaps">CT</hi>: Permelia Publishing, 1985.</bibl> <bibl>Smith, Rex A. <title level="m">The Carving of Mount Rushmore</title>. New York: Abbeville Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kano, Father Hiram Hisanori (1889-1986)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Kano, Father Hiram Hisanori (1889-1986)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">144-145</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KANO, FATHER HIRAM HISANORI (1889-1986)</head>
+
+<p>Hiram Hisanori Kano was born into a Japanese
+noble family on January 30, 1889. His
+warlord father was the governor of the province
+of Kagoshima and a member of the Japanese
+parliament. As the second son in the
+family, young Kano was not required to follow
+his father's career. Instead, he chose to study
+agriculture at the Imperial University in Tokyo,
+where he graduated with a bachelor of
+science degree in 1916. Kano eventually found
+his way to the Great Plains after William Jennings
+Bryan, a family friend, convinced his
+father that he could receive a better agricultural
+education in the United States. With a
+handwritten note from Bryan in his pocket,
+Kano journeyed to Lincoln, Nebraska, where
+in 1918 he earned a master's degree in agricultural
+economics at the University of Nebraska.</p>
+
+<p>In 1919 Kano married Ai "Ivy" Nagai in
+Seattle; the couple had two children. He put
+his agricultural education to good use when
+he bought a 300-acre farm near Litchfield, Nebraska.
+Kano became active in the Japanese
+Americanization Society, teaching English
+and working as an intermediary or translator
+for immigrants. In 1921 Kano and Rev. George
+Allen Beecher, the Episcopal bishop for western
+Nebraska, successfully defeated a bill introduced
+in the Nebraska legislature that
+would have barred Japanese residents from
+owning property and serving as legal guardians
+of their children. During the 1920s Kano
+became active in the Episcopal Church, working
+with Japanese living in the Platte River
+valley. He was ordained a deacon in 1928 and
+became a priest in 1936.</p>
+
+<p>Kano's life took a dramatic turn on December
+7, 1941, when the Japanese attacked Pearl
+Harbor. After conducting services in North
+Platte, Nebraska, that Sunday morning, he was
+arrested by local police and interrogated by
+federal agents. Because of his family ties to the
+Japanese government and his position as a
+leader of Japanese immigrants in the Great
+Plains, federal authorities deemed Kano a
+threat to national security and sent him to
+an internment camp. While being held away
+from his family, Kano taught English classes
+to fellow internees. In 1944 he was released and
+allowed to move his family to Nashota, Wisconsin,
+where he entered a seminary, earning
+another master's degree in 1946. Returning to
+Nebraska, Kano worked as an Episcopal missionary
+among Nebraska's Japanese residents
+until his retirement in 1957. After leaving the
+priesthood, Kano moved to Fort Collins, Colorado,
+where he and his wife bought a small
+farm. Kano died on October 24, 1988.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kano, Hiram Hisanori. <title level="m">A History of the Japanese in Nebraska</title>.
+Lincoln: Nebraska Committee for the Humanities,
+1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

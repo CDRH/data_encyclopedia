@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Erdrich, Louise (b. 1954)</title>
+<title level="m" type="sub"></title>
+<author>Philip R. Coleman-Hull</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Coleman-Hall, Philip R.">Philip R. Coleman-Hall</author>. <title level="a">"Erdrich, Louise (b. 1954)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">478</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ERDRICH, LOUISE (b. 1954)</head>
+<figure n="egp.lt.018" rend="granted" type="noclick">
+<figDesc>Louise Erdrich</figDesc>
+</figure>  
+
+<p>Since 1984, when she published the collection
+of poems <title level="m">Jacklight</title>, Louise Erdrich has stood
+out as one of the more captivating and original
+voices not only in Native American literary
+circles but also in contemporary American literature
+generally. Erdrich's popular and critical
+success stems from her ability to craft
+evocative narratives that draw heavily on oral
+storytelling traditions and other aspects of
+Native American culture.</p>
+
+<p>Born in Little Falls, Minnesota, in 1954, and
+raised in Wahpeton, North Dakota, Erdrich is
+a member of the Turtle Mountain Band of the
+Anishinabe (Chippewas), but she also has
+German-immigrant roots. She has drawn on
+these two traditions in her fiction while examining
+the challenges of coming to terms with
+mixed ancestry and celebrating the vitality
+of Chippewa history, culture, tradition, and
+community in the face of European American
+intrusion. Drawing on storytelling traditions
+of the Chippewas, Erdrich repeatedly constructs
+fictions that employ multiple narrators,
+including a dog in <title level="m">The Antelope Wife</title>
+(1998), and span several generations, producing
+what one writer has called a "layered"
+point of view. But if her narrative style appears
+nonlinear and disjointed to the reader, what
+readily emerges is Erdrich's strong sense of
+place. These stylistic and thematic features
+have prompted critics and reviewers to compare
+Erdrich's North Dakota landscape to Nobel
+Prize–winning author William Faulkner's
+Yoknapatawpha County, especially as they
+emerge in her well-known tetralogy (<title level="m">Love Medicine</title>, 1984; <title level="m">The Beet Queen</title>, 1986; <title level="m">Tracks</title>,
+1988; <title level="m">The Bingo Palace</title>, 1995; and <title level="m">The Antelope Wife</title>, 1998), which focuses on three Chippewa
+families and others on and around the reservation.
+Erdrich does not shy away from difficult
+issues such as alcoholism and broken
+families that confront Native communities;
+however, by infusing her tales with humor,
+folklore, and spirituality, Erdrich treats her
+subjects with both compassion and sensitivity.</p>
+
+<closer>
+<signed>Philip R. Coleman-Hull<lb/>
+Bethany College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruchac, Joseph. <title level="m">Survival This Way: Interviews with American Indian Poets</title>. Tucson: University of Arizona Press,
+1987.</bibl> <bibl>Smith, Jeanne Rosier. <title level="m">Writing Tricksters: Mythic Gambols in American Ethnic Literature</title>. Berkeley: University
+of California Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

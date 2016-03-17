@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Remington, Frederic (1861-1909)</title>
+<title level="m" type="sub"></title>
+<author>Phillip Drennon Thomas</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thomas, Phillip Drennon">Phillip Drennon Thomas</author>. <title level="a">"Remington, Frederic (1861-1909)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">396</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">REMINGTON, FREDERIC (1861-1909)</head>
+<figure n="egp.ii.050" rend="granted" type="noclick">
+<figDesc>Photograph of sculptor Frederic Remington, circa 1909</figDesc>
+</figure>
+
+<p>Although <persName reg="Remington, Frederic">Frederic Remington</persName> was the most prolific of all the artists who sought to portray the rapidly changing nature of the peoples and lands west of the <geogName rend="river" reg="Mississippi River">Mississippi River</geogName> in the latter half of the nineteenth century, his talents were not limited to the more than 2,500 paintings, drawings, and illustrations he produced in the last two decades of his life. He also authored a play, eight books, and numerous magazine articles and sculpted twenty-four major bronzes.</p>
+
+<p>Born in <placeName rend="settlement" key="ny.can" reg="Canton, New York">Canton, New York</placeName>, on October 4, 1861, <persName reg="Remington, Frederic">Remington</persName> remained throughout his life an easterner, and with the exception of his limited and abortive attempt to raise sheep in <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> from March 1883 to May 1884, he never lived in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. Nevertheless, he became one of the great image makers of the nation's western experience and shaped the manner and vision by which eastern audiences thought about the <geogName rend="region" reg="Great Plains">Great Plains</geogName>.</p>
+
+<p>After desultory experiences in eastern military schools, <persName reg="Remington, Frederic">Remington</persName> enrolled at <orgName rend="school" key="sch.yal" reg="Yale University">Yale University</orgName> in 1878 to study art. Energetic and robust at five feet nine inches and weighing almost 200 pounds, <persName reg="Remington, Frederic">Remington</persName> gained more distinction on <persName reg="Camp, Walter">Walter Camp</persName>'s 1879 football team than he did for his artistic studies. With the death of his father in 1880, <persName reg="Remington, Frederic">Remington</persName> ended his university studies. Upon receiving his inheritance at the age of twenty-one, he invested this $10,000 in a sheep ranch on the fringes of the <geogName rend="region" reg="Flint Hills">Flint Hills</geogName> in <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>. When this venture failed, he returned to <placeName rend="settlement" key="ny.can" reg="Canton, New York">Canton</placeName>, married <persName reg="Caten, Eva">Eva Caten</persName>, took the balance of his inheritance, and became a partner in a <placeName rend="settlement" key="mo.kc" reg="Kansas City, Missouri">Kansas City</placeName> saloon. When success again eluded him, and with no discernible future before him as a rancher or saloon keeper, <persName reg="Remington, Frederic">Remington</persName> committed himself to becoming an artist.</p>
+
+<p>Within five years, <persName reg="Remington, Frederic">Remington</persName> was one of the nation's leading illustrators. His drawings and illustrations appeared regularly in <hi rend="italic">Harper's Weekly</hi>, <hi rend="italic">Harper's Monthly</hi>, <hi rend="italic">Outing</hi>, <hi rend="italic">Century Magazine</hi>, <hi rend="italic">Scribner's</hi>, and other major magazines. He also became one of the leading book illustrators of the era, with illustrations in <persName reg="Custer, Elizabeth B.">Elizabeth B. Custer</persName>'s <hi rend="italic">Tenting on the Plains</hi> (1887), <persName reg="Roosevelt, Theodore">Theodore Roosevelt</persName>'s <hi rend="italic">Ranch Life and the Hunting Trail</hi> (1888), <persName reg="Janvier, Thomas">Thomas Janvier</persName>'s <hi rend="italic">The Aztec Treasure House</hi> (1890), and <persName reg="Longfellow, Henry Wadsworth">Henry Wadsworth Longfellow</persName>'s <hi rend="italic">Song of Hiawatha</hi> (1890). Seeking to avoid being identified just as an illustrator, he began to work in both oils and watercolors with the hope that he would be recognized as an artist.</p>
+
+<p>In 1889 his dynamic <hi rend="italic">Dash for the Timber</hi> was exhibited at the <orgName rend="association" key="assoc.nad" reg="National Academy of Design">National Academy for Design</orgName>, and the popular and critical reception of this work began to give him the artistic recognition he sought. In this same year his <hi rend="italic">Lull in the Fight</hi> won a silver medal at the Paris Universal Exposition. Increasingly, his paintings depicted a <geogName rend="region" reg="The West">West</geogName> that was past. Frequently focusing upon the role of the cavalry in subduing the land and its Native inhabitants, <persName reg="Remington, Frederic">Remington</persName> portrayed a <geogName rend="region" reg="The West">West</geogName> that was wild and antithetical to approaching industrialized civilization. What he admired in <geogName rend="region" reg="The West">the West</geogName> were mounted warriors, men on horseback. In the emerging tradition of western art, his paintings were both romantic and narrative. They sought to capture a time past and to commemorate it for the present and future. Determined to distance himself from his reputation as an illustrator and always willing to experiment artistically, in 1895 he began to work in bronze. In 1902 his dynamic <hi rend="italic">Coming through the Rye</hi> demonstrated his growing mastery of this medium.</p>
+
+<p><persName reg="Remington, Frederic">Remington</persName> died on December 26, 1909, near <placeName rend="settlement" key="ct.rid" reg="Ridgefield, Connecticut">Ridgefield, Connecticut</placeName>, following complications from an appendectomy.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Philip Drennon Thomas<lb/>
+Wichita State University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Nemerov, Alexander. <title level="m">Frederic Remington and Turn-of-the-Century America</title>. New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1995.</bibl> <bibl>Samuels, Peggy, and Harold Samuels, eds. <title level="m">The Collected Writings of Frederic Remington</title>. Garden City <hi rend="smallcaps">NY</hi>: Doubleday, 1979.</bibl> <bibl>Vorphal, Ben Merchant. <title level="m">Frederic Remington and the West: With the Eye of the Mind</title>. Austin: University of Texas Press, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

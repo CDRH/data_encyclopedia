@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stock Ponds</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Stock Ponds."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">863</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STOCK PONDS</head>
+
+<p>Stock ponds, generally small and sometimes
+transitory, are nevertheless the most ubiquitous
+source of water in the Great Plains.
+They occur from Texas to Alberta, wherever
+there is free-ranging livestock and su.cient
+surface water or available groundwater. Frequency
+of occurrence varies also with soil
+type: there are fewer ponds on permeable
+soils, such as loess, than on clay soils, which
+hold the water at the surface. On the Southern
+Plains they are known as tanks.</p>
+
+<p>There are two types of stock ponds: the embankment
+pond, which dams a stream or periodic
+runoff channel, and the excavated pond,
+where a hole is dug to intersect the water table.
+The latter&#8211;common on floodplains and in
+other areas, such as the Nebraska Sandhills,
+where the water table is high&#8211;is more dependable
+because groundwater fluctuates less than
+surface runoff. Since the nineteenth century,
+farmers have constructed their own ponds
+using basic farm equipment; now larger projects
+may necessitate heavy excavating equipment,
+and subsidies are available through various
+conservation programs.</p>
+
+<p>Critics argue that the ponds contribute to
+the depletion of river flow by impounding
+runoff. In the balance, however, advantages
+outweigh any disadvantages. The ponds are a
+good source of livestock water, allowing wellwatered
+cattle to range widely across pastures.
+They are often stocked with fish for recreational
+purposes, and they are points of attraction
+for wildfowl, which breed there. And
+aesthetically, the muddy stock pond, ringed by
+attendant cattle, is a defining Plains scene.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

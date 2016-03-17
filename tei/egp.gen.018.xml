@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.gen.018 SYSTEM "egp.gen.018.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hind, Cora (1861-1942)</title>
+<title level="m" type="sub"></title>
+<author>Janice Dickin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dickin, Janice">Janice Dickin</author>. <title level="a">"Hind, Cora (1861-1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">330-331</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HIND, CORA (1861-1942)</head>
+
+<figure n="egp.gen.018" rend="granted">
+<figDesc>Cora Hind</figDesc>
+</figure>
+
+<p>Ella Cora Hind was a pioneer in breaking gender
+barriers and a lifelong advocate for women's rights. She was appointed by J. W. Dafoe
+as agricultural editor of the Manitoba Free
+Press (later <title level="j">Winnipeg Free Press</title>) in 1901,
+twenty years after she was first refused work
+there on gender grounds.</p>
+
+<p>Hind was born in Toronto on September 18,
+1861. Orphaned in early childhood, she and
+her two older brothers grew up on their
+grandfather's mixed farm near Orillia, Ontario.
+As her grandfather's favorite, Hind
+learned about agriculture firsthand. Cora was
+raised by her Aunt Alice, who moved to Winnipeg
+with Cora in 1882. They lived together
+until Alice's death in 1908. During Cora's first
+three decades in Winnipeg, Alice was truly her
+partner, bringing in an income as a dressmaker,
+managing Hind's business in her absence,
+and doing research for Cora's freelance
+articles.</p>
+
+<p>Cora trained herself to use the new office
+innovation, the typewriter, and became a
+clerk for a firm of influential lawyers. In 1893
+she set up her own office, acting as public secretary
+to, among others, a number of farming
+organizations. Her big break came in 1898
+when she traveled west to report for banking
+and business interests on the effects of a late
+crop. Her distinguished career in journalism
+culminated in a tour around the world (1935.
+37) to report on farming, published as <title level="m">Seeing for Myself</title> (1937). Her accurate estimates of
+crop yields were legendary on both sides of
+the U.S.-Canadian border.</p>
+
+<p>Hind was granted an honorary doctorate
+by the University of Manitoba in 1935. When
+she died in Winnipeg on October 6, 1942,
+trading at the Winnipeg Grain Exchange was
+halted for two minutes in her honor.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.050"><title level="j">Winnipeg Free Press</title></ref>.</p>
+
+<closer>
+<signed>Janice Dickin<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hacker, Carlotta. <title level="m">E. Cora Hind</title>. Don Mills <hi rend="smallcaps">ON</hi>: Fitzhenry
+and Whiteside, 1979.</bibl> <bibl>Haig, Kenneth M. Brave Harvest: The
+Life Story of E. Cora Hind. Toronto: Thomas Allen Ltd.,
+1945.</bibl> <bibl>Hind, E. Cora. Seeing for Myself: Agricultural Conditions
+around the World. Toronto: Macmillan Publishing
+Company, 1937.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

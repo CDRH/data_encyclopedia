@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN"
+ "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.049 SYSTEM "egp.sr.049.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Shoulders, Jim (b. 1928)</title>
+<title level="m" type="sub"></title>
+<author>Richard C. Rattenbury</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rattenbury, Richard C.">Richard C. Rattenbury</author>. <title level="a">"Shoulders, Jim (b. 1928)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">786</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SHOULDERS, JIM (b. 1928)</head>
+
+<figure n="egp.sr.049" rend="granted">
+<figDesc>Jim Shoudlers rides an unknown bareback bronc at the Capitol Hill Night Rodeo in Oklahoma City, Oklahoma, 1950.</figDesc>
+</figure>
+
+<p>Perhaps the finest rough stock contestant ever
+to compete in professional rodeo, Jim Shoulders
+was born on May 13, 1928, in Tulsa, Oklahoma.
+Familiar with ranch stock from childhood,
+he entered his first rodeo competition
+in 1943 at Oiltown, Oklahoma, winning the
+evidently inspiring sum of $1,800.</p>
+
+<p>Shoulders dominated rodeo throughout the
+1950s, capturing an unequaled sixteen championship titles against other greats like Casey
+Tibbs and Harry Tompkins. His strength,
+coolness, and flamboyant spurring style won
+him five all-around champion cowboy titles
+(1949, 1956–59), an unprecedented seven bullriding
+titles (1951, 1954–59), and four bareback
+bronc–riding titles (1950, 1956–58). This cumulative
+record has been challenged but never
+duplicated.</p>
+
+<p>A professional in business as well as sport,
+Jim Shoulders has done much to promote the
+future of rodeo. In addition to media promotion
+as a member of the Miller Lite All-Stars,
+he has worked in the rodeo production business
+and maintained fine contract bucking
+stock, including the famed "weather" bulls Cyclone,
+Hurricane, Twister, and Tornado, who
+was ridden only once in six seasons. Shoulders
+also opened the first rough stock training
+school (1961–89) for aspiring rodeo contestants
+at his ranch in Henryetta, Oklahoma.</p>
+
+<p>Renowned in his chosen field, Jim Shoulders
+was among the first to be inducted into
+the National Cowboy and Western Heritage
+Museum's Rodeo Hall of Fame in 1955. Other
+honors include induction into the Pro Rodeo
+Hall of Fame in 1979 and the Oklahoma
+Sports Hall of Fame in 1989.</p>
+
+<closer>
+<signed>Richard C. Rattenbury<lb/>
+National Cowboy and Western Heritage Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fredriksson, Kristine. <title level="m">American Rodeo: From Buffalo Bill
+to Big Business</title>. College Station: Texas A&amp;M University
+Press, 1985.</bibl> <bibl>Porter, Willard H. <title level="m">Who's Who in Rodeo</title>. Oklahoma
+City: Powder River Book Company, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

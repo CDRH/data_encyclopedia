@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Long, Stephen H. (1784-1864)</title>
+<title level="m" type="sub"></title>
+<author>Roger L. Nichols</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nichols, Roger L.">Roger L. Nichols</author>. <title level="a">"Long, Stephen H. (1784-1864)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">831</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LONG, STEPHEN H. (1784-1864)</head>
+
+<p>Stephen Harriman Long, army engineer and
+explorer, helped foster the idea that the Great
+Plains was the Great American Desert. Son of
+Moses and Lucy Long, he was born on December
+10, 1784, at Hopkinton, New Hampshire.
+In 1809 he graduated from Dartmouth
+College, and for the next five years he taught
+school and worked as a surveyor. Near the end
+of the War of 1812, Long became a second lieutenant
+in the Army Corps of Engineers. He
+remained an army officer for nearly fifty years.</p>
+
+<p>Long hoped to become the next important
+western explorer after Lewis and Clark, and in
+1818 he received orders to organize and lead a
+scientific expedition west. That year he designed
+a steamboat, the Western Engineer, to
+carry the scientists up the Missouri River, but it
+proved unable to navigate that river successfully.
+In 1820 Long led a small party of scientists
+and soldiers west to the Rocky Mountains.
+They examined the land, streams, animals,
+plants, and minerals along the way. At the
+Rockies they turned south, searching for the
+headwaters of the Red River without success.
+After nearly starving in the Plains, they returned
+to Fort Smith, Arkansas, late in the
+summer.</p>
+
+<p>The explorers brought back specimens of
+plants and animals, as well as new geographic
+information about the Central Plains. Their
+report and maps clearly labeled the region as
+desert. When taken with similar comments
+from Zebulon Pike, Long's descriptions persuaded
+many that the Plains was unfit for agriculture.
+After this, his duties shifted to planning
+railroads and clearing obstructions out
+of some of America's larger rivers. His army
+career ended in 1863, and he died the next year
+at Alton, Illinois, on September 4.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.032">Great American Desert</ref>.</p>
+
+<closer>
+<signed>Roger L. Nichols<lb/>
+University of Arizona</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nichols, Roger L., and Patrick L. Haley. <title level="m">Stephen Long and
+American Frontier Exploration</title>. Newark: University of Delaware
+Press, 1980.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

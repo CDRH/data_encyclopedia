@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gender</title>
+<title level="m" type="sub"></title>
+<author>Deborah Fink</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fink, Deborah">Deborah Fink</author>. <title level="a">"Gender."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">319-323</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GENDER</head>
+
+<epigraph><p><hi rend="italic">Practically this whole study has been devoted
+to the men. . . . The Great Plains in the early
+period was strictly a man's country&#8211;more of
+a man's country than any other portion of the
+frontier. Men loved the Plains. . . . But what
+of the women?</hi>&#8212;Walter Prescott Webb, <title level="m">The Great Plains</title> (1931: 505)</p></epigraph>
+
+<p>"I was tricked!" cries the Nebraska woman. "I
+read 504 pages of The Great Plains, the classic
+work on my environment, trusting that I was
+gaining insight into my own experience, only
+to find on page 505 that practically the whole
+thing applied specifically to men and not to
+women. I want my time back!"</p>
+
+<p>While there remain scholars inclined to dismiss
+the gravity of the woman's protest, increasing
+numbers have granted its validity.
+They have made a variety of responses to the
+neglect of women and the representation of
+the male experience as normative in canonical
+writings about the Great Plains. The diverse
+answers to the complaint have formed a body
+of scholarship dealing with the problem of the
+inclusion or exclusion of women in texts
+about the Plains and with the relationship between
+women and men.</p>
+
+<p>One response has been that women were
+indeed included in the processes described
+in <title level="m">The Great Plains</title>. Webb just didn't understand
+that women were present throughout as
+homesteaders, as fighters, as men's equals.
+Some who would make this response ask that
+the woman substitute inclusive language in
+Webb's writing and try to understand that
+"man" in English is used in a generic way to
+include both men and women. Webb overlooked
+women and we need only write them
+in. The broad contours of the text stand; the
+inclusion of women merely strengthens it and
+makes it more comprehensive.</p>
+
+<p>Others would find nearly as much fault
+with this response as with the exclusion of
+women in Webb's account. Their answer to
+the woman's complaint would affirm it and
+underscore the difference between men's and
+women's lives in the Plains and hence the critical
+necessity of a thoroughgoing consideration
+of women. From this corner would
+come the observation that Plains men and
+women have been different in terms of legal
+rights, family roles, economic resources, political
+power, and cultural expectations. Surely
+this would produce different experiences for
+men and women in the Great Plains. What
+needs to be done, they contend, is to study
+cultural constructions of maleness and femaleness
+and the effects they have had on the
+institutions of the Plains. Did the Great Plains
+shape a sense of maleness and femaleness distinct
+from that of other regions? How did diverse
+racial and ethnic groups in the Plains
+define maleness and femaleness? From this
+perspective, the canon must be radically revised
+so that women are included.</p>
+
+<p>In the past twenty-five years, probing into
+various dimensions of gender has provided
+intriguing openings for scholars. The study of
+gender, of cultural constructions of maleness
+and femaleness, has mainly grown out of the
+study of women. This scholarship has also
+contributed to an understanding of racial and
+ethnic diversity in the Great Plains, although
+much remains to be done in theorizing the
+intersection of gender and race.</p>
+
+<div2>
+<head type="sub">Life of a Woman Homesteader</head>
+
+<p>In the spring of 1876, eighteen-year-old Luna
+Kellie packed up her five-month-old baby,
+Willie, bade her husband, J. T., a sad farewell,
+and left St. Louis on a train for central Nebraska,
+where she would prepare for the family's
+homesteading and wait for J. T. Luna's
+father had already been lured to a Nebraska
+homestead through railroad advertising, and
+he would help to settle the couple. Since both
+he and J. T. had been railroad workers, they
+had the advantage of cheap passage to Grand
+Island, which was the stopping-off point for
+their homesteading. Luna spent the summer
+with her father and siblings. In November, after
+completing a final season of railroad work,
+J. T. joined them.</p>
+
+<p>February of 1877 found Luna, J. T., and Willie&#8211;
+young, inexperienced, but at least together&#811;
+striking out on their own Nebraska
+homestead a few miles from that of Luna's
+father. They had less than $400 with which to
+outfit their 160-acre government grant. After
+digging a shelter out of the side of a hill, they
+dipped into their cash reserve to buy boards to
+complete the house, since they could get no
+sod at that time of year. They also bought a
+new stove and a few food staples. To begin
+farming they purchased fifteen steers, a milk
+cow, and a plow. J. T. traded his watch for an
+old wagon. With these basics, they began farm
+life.</p>
+
+<p>Their first reversal of fortune came when a
+sudden blizzard struck in the night just as they
+had begun to savor the Nebraska spring and to
+think about putting their cattle out on the
+buffalo grass. Hearing the wind, J. T. bolted up
+in fear of losing the cattle. He and Luna ran
+out into the night and rounded up all but one
+of the cattle and drove them into their tiny
+house. Again and again they chased the last
+one, but each time they got him closer to the
+house he ran in the opposite direction. Finally,
+cold and exhausted, they let him go and returned
+to bed, where J. T., Luna, and Willie
+warmed themselves as the cattle pressed in on
+them. Although J. T. made repeated trips into
+the blizzard to get the wild steer, he finally
+gave it up. The three Kellies spent the next day
+huddled in bed and ate boiled oatmeal with
+no milk while the cattle occupied most of the
+room in the house.</p>
+
+<p>Through the summer of 1877 the Kellies
+worked themselves nearly to death. They had
+no money at all. A neighbor saved them from
+starvation by giving J. T. a sack of flour as early
+pay for harvest work. Luna had a second baby
+that year. This baby and the one born the following
+year died early, undoubtedly because
+overwork and lack of food had dried Luna's
+milk. Luna survived these deaths, she survived
+her terror of the rattlesnakes that lurked in the
+fields around the house, and she survived her
+despondency at being unable to send her
+grandmother a birthday greeting because she
+did not have three cents to buy a stamp. Luna
+and J. T. pressed on, they had more babies in
+the following years, and their crops came in as
+they established themselves and learned farming
+skills. By the 1880s their farm was producing
+abundantly and their family was steadily
+increasing in number.</p>
+
+<p>However, defeat came when their farming
+operation failed and they lost their homestead,
+not through acts of God or their own failings,
+but because they could not turn a profit on
+their successful production. And here the railroad
+was to blame. Why? It seemed to be the
+price gouging inflicted by the railroad. The
+railroad made money by bringing settlers to
+Nebraska, by shipping farming tools and supplies
+west, and by carrying grain to market.
+Railroad rates were not standardized, and the
+companies tended to charge higher rates per
+mile for short, local runs that served small
+communities than for long runs. Where competition
+existed, typically in cities, rates were
+lower than in rural areas. While the railroads
+extracted high fares from farmers, they offered
+free passes to politicians and controlled local
+and state politics through their patronage. The
+railroad, it seemed, fattened itself on the Kellies'
+labor, returning only misery to them. Of
+the railroad Luna wrote, "[T]he minute you
+crossed the Missouri River your fate both soul
+and body was in their hands. . . . [T]hey robbed
+us of all we produced."</p>
+
+<p>Losing the homestead and moving to another
+farm to begin again, Luna's rage exploded
+into political action as she joined the
+Farmers Alliance. She became secretary of the
+Nebraska Farmers Alliance, and from her
+farm home she published an Alliance paper
+that attacked the railroads and the middlemen
+that profited from the exploitation of farmers.
+In a rousing speech delivered to the Nebraska
+Farmers Alliance in 1894, she declared, "[T]he
+people now know that they have the constitutional
+right to take the railroads under right of
+eminent domain and run them at cost in the
+interest of <hi rend="italic">all the people</hi>." Later, her hopes for
+the Alliance and for the populist movement,
+like her earlier hope of farming prosperity,
+died a painful death, a disillusion readers can
+follow through her experience of trying to
+hold the principles of the farm movement
+above the egos of its Nebraska leadership,
+which was male.</p>
+
+<p>Luna's loss of her two babies, the poverty
+that constricted her spirit, her sadness at her
+beloved J. T.'s repeated failures, the vulnerability
+to exploitation by external forces, and her
+resilience must be recognized as a piece of the
+Plains experience. Contrary to Webb, the
+Plains was a woman's country as well as a
+man's country. Without women such as Luna
+Kellie, European Americans could not have
+claimed the Plains.</p>
+</div2>
+
+<div2>
+<head type="sub">Putting Women into the Plains Picture</head>
+
+<p>Publication of the stories of Luna Kellie and
+other Plains women grew out of the 1970s explosion
+of studies on women that accompanied the revitalization of the feminist movement.
+Scholars in many disciplines began
+to notice that women were absent, or only
+peripherally present, in standard works by
+such accepted authorities as Webb. The first
+work on Plains women was compensatory,
+much of it having to do with European
+American women in farming. Two articles by
+Mary W. M. Hargreaves in <title level="j">Agricultural History</title>,
+"Homesteading and Homemaking on
+the Plains: A Review" (1973) and "Women in
+the Agricultural Settlement of the Northern
+Plains" (1976), set the path for further research.
+These articles placed women in the
+history of Plains farming, underscored the
+significance of women's contribution to European
+American settlement, and pointed to the
+particular hardships that Plains life imposed
+on women.</p>
+
+<p>A further step in this compensatory scholarship
+was more systematic and focused on
+the exhuming of texts and records of Plains
+women. Most of the political, military, and
+commercial records available from the early
+European American settlement of the Plains
+are male-centered. Focusing on women meant
+bringing forward a different set of sources:
+diaries, letters, church and club records, wills,
+deeds, court records, local newspapers, advertisements
+and personal columns in magazines
+and journals, and oral histories.</p>
+
+<p>Scholars seeking to put women into accounts
+of the Plains have found them almost
+everywhere they have looked. For example,
+women figured in the fur trade, which writers
+have typically represented in terms of rugged
+men and growth of capital. Women of the Native
+Plains nations did some trapping, and
+they processed skins for trade. In <title level="m">Many Tender Ties: Women in Fur-Trade Society, 1670–1870</title>,
+Sylvia Van Kirk (1980) describes early European
+traders' practice of taking Native wives,
+who stabilized ties with Native nations, served
+as guides and interpreters, provided moccasins
+and snowshoes, which eased travel on
+the Northern Plains, supplied pemmican and
+other local foods, and helped make canoes.
+Women, as well as men, shaped the dynamics
+of the fur trade.</p>
+
+<p>In the United States the Homestead Act of
+1862 allowed single women as well as men to
+homestead. Studies of women homesteaders
+include <title level="m">Bachelor Bess: The Homesteading Letters of Elizabeth Corey, 1909–1919</title> (1990), edited
+by Philip L. Gerber, <title level="m">The Land of the Burnt Thigh</title> by Edith Eudora Kohl (1938), and Elaine
+Lindgren's article "Ethnic Women Homesteading
+on the Plains of North Dakota" (1989).
+In Canada, single or married women were not
+allowed to homestead (although widows and
+divorced or unwed mothers could). Still,
+women's participation was central to most
+family farming operations. Single Canadian
+women might purchase and operate farms. In
+<title level="m">Wheat and Women</title> (1914), Georgina Binnie-
+Clark, an Englishwoman with enough resources
+to buy a Canadian farm and hire most
+of the labor, wrote about her adventures and
+gave advice on the economics of running
+a farm in the years immediately preceding
+World War I. In addition to their economic
+contributions, Plains women were active in
+political struggles&#8211;including populist, suffrage,
+and temperance movements&#8211;in both
+Canada and the United States.</p>
+
+<p>Binnie-Clark wrote that "they realized that
+what men had done for themselves in agricultural
+pursuits on the prairie, women could
+also do for themselves." Like men, women
+were daring and adventurous; they worked
+hard to claim the land; they could own property
+and engage in commerce; and they were
+as capable of effective political participation as
+men. Adding women has filled out the picture
+of the Plains.</p>
+
+<p>But did men and women inhabit different
+parts of that picture? Following the lead of
+historian Joan Kelly, who concluded that the
+existing periodization of European history was
+not valid from the perspective of women,
+Plains researchers asked if the accepted historical
+movements and markers were what in reality
+moved and marked women's lives. Do we
+really know that homesteading or populism
+had the same appeal for the majority of women
+as for men? What was it that drove women?
+Elinore Pruitt Stewart's <title level="m">Letters of a Woman Homesteader</title> (1914) reveals the importance she
+placed on human interaction; she shows little
+concern for politics or empire building. Yet the
+early-twentieth-century writings of Albertan
+Nellie McClung, collected in <title level="m">Our Nell</title> (1979),
+indicate that her personal leanings placed her
+in the woman-centered political struggles of
+suffrage, temperance, and women's economic
+rights. Perhaps the gap between the personal
+and the political was not as wide for women as
+for men.</p>
+</div2>
+
+<div2>
+<head type="sub">From Women to Gender</head>
+
+<p>Are women persons? In 1927, eleven years after
+western Canadian women had won full suffrage
+rights, the Supreme Court of Canada
+was called upon to decide the issue of women's
+personhood. The question itself is remarkable;
+the answer, "no," is astonishing. The issue
+had arisen through the activism of Nellie
+McClung and other women in the Prairie
+Provinces who had refused to stay on their
+side of the line drawn between the world of
+men and that of women.</p>
+
+<p>The case began in 1916 when Alice Jamieson
+of Calgary and Emily Murphy of Edmonton
+were appointed police magistrates, the first
+women in the British Empire to receive such
+appointments. On Murphy's first day in court
+a defense lawyer challenged her authority on
+the grounds that by law she was not a person.
+Although the challenge was dismissed, the
+point was well taken. Under British common
+law, women were persons in "matters of pains
+and penalties" but not in "matters of rights
+and privileges."</p>
+
+<p>The issue lay dormant for several years,
+then resurfaced in the 1920s when a group of
+Alberta women wanted the law set right. Their
+strategy was to advocate a Senate appointment
+for Murphy. Since the law stipulated that only
+a "fit and qualified person" was eligible for
+such an appointment, the question of whether
+a woman was a person would have to be settled.
+Any five citizens could request an interpretation.
+Murphy, McClung, suffrage leader
+Louise McKinney, legal scholar Henrietta
+Muir Edwards, and provincial cabinet minister
+Irene Parlby joined to request a ruling
+on whether or not women were persons. Although
+four out of five Supreme Court justices
+joined in the opinion that they were not
+persons, the women were accustomed to opposition
+and they forged ahead by appealing
+to the Privy Council in London, which at that
+time had the authority to override Canadian
+decisions.</p>
+
+<p>In 1929 the women prevailed in the Privy
+Council and became persons under British
+common law and hence under Canadian law.
+It had been a long road to arrive at what
+would seem to be square one. From the vantage
+of the twenty-first century, the question
+seems patently ridiculous, as it did to the five
+Alberta women at the time. Many men saw it
+with different eyes. The women were moving
+toward gender equality before the law. The
+question of men's and women's legal equality
+went beyond the rearrangement of women's
+affairs and into a redefinition of what it meant
+to be a man as well. If being a person was not
+coterminous with being a man, then the legal
+definition of "man" was also being revised. It
+was a question of gender delineation, and this
+mattered to both men and women at a deeply
+personal level.</p>
+
+<p>Two principles are tied up in the recent
+scholarship using the term "gender." First is
+the assumption that definitions of maleness
+and femaleness are culturally defined rather
+than biologically given. Without denying that
+men and women are in some ways different,
+these studies point to the similarities between
+men and women, which are considerable, and
+view the construction of gender as a suppression
+of natural similarities rather than an
+elaboration of natural differences. Both men
+and women cry, but European American constructions
+of gender suppressed the crying of
+men and accentuated that of women, thereby
+creating a cultural difference where no biological
+difference existed. Canadian women who
+sought to join men in their identities as persons
+were asking that the accepted understanding
+of "person" be recognized as a cultural
+artifact and therefore subject to reasoned
+modification. Second, as can be inferred in
+the Canadian judges' opposition to women
+being persons, gender has to do with both
+maleness and femaleness and with the constructions
+arising out of the relations between
+maleness and femaleness.</p>
+
+<p>While often such questions emerge in esoteric
+points that seem far removed from the
+reality of most people's lives, they are embedded
+in basic social and economic structures.
+Farming in European American culture is
+generally associated with males: Asked to
+draw a picture of a farmer, most European
+Americans will automatically draw a man.
+The potential for being a farmer helps to
+shape male identity for European Americans,
+and the correlate dissociation of women with
+farming shapes female identity. This dual classification
+gives rise to the particular configuration
+of the family farm. We appreciate the
+cultural contingency of this arrangement by
+observing that, in Native American nations
+that cultivated corn, women had the major
+farming roles. Asked to draw a picture of a
+farmer, a Native American would have drawn
+a woman. What it meant to be a man or
+woman in these societies was not the same as
+what it meant to European Americans, and
+this difference was further reflected in religion,
+art, and ethical norms.</p>
+
+<p>Drawing on Henry Nash Smith's <title level="m">Virgin Land: The American West as Symbol and Myth</title>
+(1950), Annette Kolodny has underlined the
+extent to which the westward movement
+across North America was gendered. In <title level="m">The Lay of the Land: Metaphor as Experience and History in American Life and Letters</title> (1975) and
+<title level="m">The Land Before Her: Fantasy and Experience of the American Frontiers, 1630–1860</title> (1984),
+Kolodny explores gender in myths and symbols
+of land. At first, men saw the land as maternal
+and nurturing; later the dominant metaphor
+changed from the land as Mother to
+the land as Mistress, a place to be explored
+and conquered for its material treasures. For
+women, the dominant metaphor of the new
+land was the garden, a social setting to be cultivated
+and adapted for human needs. Kolodny's
+analysis resonates through writing about the
+Plains. Various Plains writers, among them
+Meridel LeSueur, have used the metaphor of
+the plowed land as the flesh of a woman and
+the conquering of this virgin land as a triumph
+of masculinity.</p>
+
+<p>A study of a Kansas farming county extended
+the significance of gender beyond
+symbol and metaphor and into the economic
+and political shaping of Plains life. In "Structure
+of Agriculture and Women's Culture in
+the Great Plains" (1988), Cornelia Butler Flora
+and Jan L. Flora contrasted farming patterns
+in three ethnic groups: German, Volga German,
+and American-born (or Yankees). These
+ethnic groups formed different complexes of
+gender relations, which affected fertility, labor,
+and resource allocation. The willingness
+of the two foreign-born groups to allow their
+daughters to take domestic service work, thus
+augmenting farm income, and the unwillingness
+of the American-born families to do
+so greatly affected success rates. The Volga
+Germans had the most staying power on the
+land, followed by the Germans, with the
+American-born a distant third. Thus, the
+evolving ethnic character of the farming community
+came to derive more from German
+and Volga German traits than from those of
+the Yankee farmers. Such studies of gender
+reveal complexities in the agricultural economy
+that were not apparent when only men's
+production was considered.</p>
+</div2>
+
+<div2>
+<head type="sub">Gender and Interregional Differences</head>
+
+<p>Gender and Interregional Differences
+Not only did cultural configurations of gender
+modify the cultural landscape of the Plains,
+but geographic and economic conditions associated
+with the Great Plains in turn reconfigured
+gender. For the last 200 years the Great
+Plains has seen constant migration and readjustment,
+and studies of gender reflect this
+continuing change as well as significant continuities
+with external traditions. People entered
+the Great Plains from different directions
+and with different cultural baggage,
+including gender. In what ways did the Plains
+rearrange this baggage and in what ways did
+the constructions that people brought rearrange
+the cultures of the Great Plains? Some
+scholars, including Mary Neth in <title level="m">Preserving the Family Farm: Women, Community and the Foundations of Agribusiness in the Midwest, 1900-1940</title> (1995) and Katherine Jellison in <title level="m">Entitled to Power: Farm Women and Technology, 1913-1963</title> (1993), minimize the specificity of
+the Plains experience of gender and emphasize
+instead the continuities between European
+American patterns in the Midwest and
+Great Plains. By contrast, Dorothy Schwieder
+and Deborah Fink in their article "Plains
+Women: Rural Life in the 1930s" (1988) and
+<title level="m">Fink in Agrarian Women: Wives and Mothers in Rural Nebraska, 1880-1940</title> (1992) argue that
+gender patterns were reworked in the Great
+Plains. Rather than emphasizing the continuity
+arising from shared cultural roots and
+common federal policy, Schwieder and Fink
+point to the sparse population and the greater
+sacrifices required of Plains women and relate
+this to a reconfiguration of gender. Glenda
+Riley's <title level="m">The Female Frontier: A Comparative View of Women on the Prairie and the Plains</title>
+(1988) draws out contrasts but considers that
+in fundamental ways the tasks facing the
+women in the Midwest and Great Plains were
+similar. Further comparative work will deepen
+the understanding of whether and to what
+extent the Plains experience altered the gender
+identities of its people.</p>
+
+<p>If the Plains environment did have an effect
+on gender relations, what was that effect?
+Scholars disagree. On one hand is the view
+that for European American settlers the move
+into the open spaces removed restricting conventions
+and social controls and opened the
+way for more egalitarian relationships between
+men and women. Writing of British
+women in <title level="m">A Flannel Shirt and Liberty: British Emigrant Gentlewomen in the Canadian West, 1880-1914</title> (1982), Susan Jackel found the birth
+of a feminist consciousness and a collective
+identity among British women migrants to
+the Prairies of Canada. Katherine Harris, in
+"Sex Roles and Work Patterns among Homesteading
+Families in Northeastern Colorado,
+1873-1920" (1984), also presents a case for
+greater egalitarianism: with homesteading
+came a muting of gender-role distinctions,
+shared decision making between husbands
+and wives, and the accrual of greater power to
+women because of their acknowledged economic
+centrality.</p>
+
+<p>In various articles, including "Every Husband's
+Right: Sex Roles in Mari Sandoz's <title level="m">Old Jules</title>" (1983), Melody Graulich makes a contrary
+argument: with the loosening of social
+restraints in the West, women were more vulnerable
+to men's brutality. <title level="m">Old Jules</title> (1935), the
+story of Sandoz's parents' homesteading and
+marriage in western Nebraska, may be read as
+a study in gender relations, and not a happy
+one. Fink's <title level="m">Agrarian Women</title> represents another
+entry in the case against the salutary
+effects of the Plains for male-female relations.
+The controversy is complicated by the methodological
+difficulties in assessing the intimacy
+of marriages. No one denies that there
+were good marriages as well as oppressive
+ones in the Plains, just as there have been in
+every social setting. The question remains of
+the effects of the Plains environment on them,
+and it is a messy and possibly imprudent question.
+Notwithstanding the enormous problems,
+including ethical ones, the subject has
+been broached and has not been laid to rest.</p>
+
+<p><title level="m">A Harvest Yet to Reap</title> (1976), a collection of
+early-twentieth-century writings by Canadian
+Prairie women, describes shifts in the cultural
+definitions of women as migrants crossed into
+the Great Plains. Life in the Great Plains at the
+time of settlement placed its inhabitants under
+specific constraints. Drawing on studies of
+Canadian farming and on Marxist theory,
+Max Hedley's 1981 article "Relations of Production
+of the 'Family Farm'" theorizes that,
+through relations of production, the domination
+of capital in Canadian farming penetrated
+and marked internal family relations,
+including those between husbands and wives.
+As Hedley points out, the idea of the family
+farm implied collective ownership; the vocabulary
+of kinship evoked obligations to the
+farm operation that in an ideal kinship setting
+would have been reciprocal. However, the demands
+of a capitalist economic system dictated
+the subordination of kinship obligations
+to the imperatives of the cash economy. What
+a woman wanted and deserved from a marriage
+partnership became subordinate to the
+banker's demands on a farmer. <title level="m">"Other" Voices: Historical Essays on Saskatchewan Women</title>, edited
+by David De Brou and Aileen Moffatt
+(1995), complicates this analysis by pointing
+out the ethnic diversity present in Saskatchewan
+alone, and hence the diversity of gender
+constructions arising from migration to the
+Plains.</p>
+</div2>
+
+<div2>
+<head type="sub">Plains Towns</head>
+
+<p>The Great Plains south of the forty-ninth parallel
+is as rural as any region of the United
+States, and except for the major cities of Calgary,
+Edmonton, and Winnipeg the Prairie
+Provinces of Canada are also largely rural. The
+rural ethos has colored all of the institutions
+in the region. But cities, with their colleges,
+universities, museums, libraries, orchestras,
+and opera houses, have also been integral to
+Plains culture. Women have done much of the
+building of these institutions and have found
+employment and influence through them.
+These institutions have also been points of articulation
+with the world beyond the Plains.
+For some women, such as Willa Cather, they
+have provided routes of departure. Women in
+the small towns dotted across the map were
+instrumental in bringing and maintaining
+churches, which also served as connections to
+European and European American cultures to
+the east and were transmitters of gender
+norms as well. June O. Underwood's article
+"Civilizing Kansas: Women's Organizations,
+1880–1920" (1984/85) surveys the ways in
+which Kansas women worked for the reforms
+associated with the Progressive Era. These included
+establishing homes for indigent and
+helpless persons; lobbying for better conditions
+in county homes and other institutions;
+working for a broad range of health
+concerns, including clean water, better nutrition,
+and more accessible medical care;
+promoting municipal improvements such as
+parks, restrooms, and sidewalks; fighting for
+prohibition; and working for child labor and
+truancy laws.</p>
+
+<p>Women's suffrage was a burning issue
+throughout the United States and Canada in
+the late nineteenth and early twentieth centuries.
+The Plains protest movements of the
+time advocated women's suffrage, although
+the depth of commitment has been questioned.
+From one point of view the Great
+Plains, removed from the entrenched prejudices
+of the East, represented a fertile field for
+the establishment of equal voting rights. As a
+territory in 1869 Wyoming became the first
+government to grant women equal voting
+rights, and it became a state in 1890 with this
+voting legislation intact. In Canada, women
+voted first in the Prairie Provinces and British
+Columbia. Whether this can be attributed to
+frontier democracy, however, has been questioned.
+Julie Roy Jeffrey, in <title level="m">Frontier Women: The Trans-Mississippi West, 1840-1880</title> (1979),
+wrote that when men of the western territories
+granted women the vote their motivations
+involved more conservative expediency than
+altruistic commitment to democracy. In Wyoming,
+legislators concerned about the sparse
+and transient population believed that granting
+the vote to women would attract attention
+to the territory and draw women to establish
+domesticity and stability on the frontier. The
+fragility of women's rights in Wyoming was
+evident in 1870 when women lost their right to
+serve on juries. Women serving on a grand
+jury had upset male politicians by indicting
+Laramie saloons for doing business on Sunday;
+the men shut the women down instead of
+the saloons. It was 1950 before women regained
+the right to serve on Wyoming juries.
+Whatever men's motivations for cultivating
+the appearance of women's equal rights, the
+gain with suffrage was real, and it happened
+first in the Great Plains.</p>
+
+<p>In contrast to the image of the Plains town
+as a setting for the noble causes for which
+women worked, there has been no shortage of
+criticism of the Plains town for its crushing of
+female spirits. Willa Cather's fiction, including
+<title level="m">My Ántonia</title> (1918) and <title level="m">A Lost Lady</title> (1923),
+may be read as a gender critique of Plains
+towns, as may the life of Cather herself in her
+Nebraska years, which is analyzed in <title level="m">Willa Cather: The Emerging Voice</title> by Sharon O'Brien
+(1987). Sinclair Lewis's novel <title level="m">Main Street</title>
+(1920) stands as a classic depiction of suffocating
+conformity imposed on women by smalltown
+society. Although Gopher Prairie, the
+setting of Main Street, is in Minnesota, Lewis
+wrote that Gopher Prairie was every small
+town west of the Mississippi. While the subject
+matter of these disquieting works is unmistakably
+gendered, they do not picture men
+as evil agents and women as victims; often it is
+women rather than men who appear as the
+enforcers of the deadly social norms.</p>
+</div2>
+
+<div2>
+<head type="sub">Race and Ethnicity</head>
+
+<p>Just as gender study has tended to focus on
+women, considerations of race in the Plains
+have tended to be about Native Americans,
+African Americans, and Hispanic Americans
+rather than European Americans. Moreover,
+like the studies of European Americans, the
+studies of these groups have tended to be
+about men. Anthropologist Robert Lowie's Indians
+of the <title level="m">Great Plains</title> (1954), for example,
+has indexed entries for women in a work otherwise
+given over to men. Similarly, the Pulitzer
+Prize–winning novel of Kiowa writer N.
+Scott Momaday, <title level="m">House Made of Dawn</title> (1966),
+is unself-consciously male centered.</p>
+
+<p>Researchers have disrupted the conventions
+of discourse about race, declaring that race
+exists as a cultural construct rather than as
+biological fact. While race remains a political
+and analytical category, its essential significance
+is as a particular form of ethnicity.
+Moreover, scholars have found gender and racial
+constructions to be intimately related.
+The proclaimed goal of making the Plains safe
+for European American women justified the
+isolation of Plains Indians as well as the restrictions
+on activities of European American
+women. Yet, as pointed out by Joan Jensen in
+her publication of Mary Jemison's captivity
+account (1981) and Glenda Riley in her book
+<title level="m">Women and Indians on the Frontier, 1825–1915</title>
+(1984), European American women's actual
+experiences of contact with Indians seldom
+matched what they had been led to expect.
+Riley believed that women were more likely
+than men to revise their views of Indians
+based on what happened to them personally
+after they reached the Plains. On the other
+hand, Van Kirk's study of the Canadian fur
+trade indicates that in this setting British
+women were more prejudiced against persons
+of the original nations than were British men.</p>
+
+<p>While not specifically addressing the Plains,
+Joan Jensen has pointed to the significance of
+women's farming as a base of economic power
+in nations of the southwestern and northeastern
+United States. Balancing the image of
+the male warrior and buffalo hunter that has
+dominated popular representations of Native
+Americans, Jensen has brought out the economic
+importance of women as food producers
+and processors. Contrary to early European
+American scholarship, which viewed
+the considerable labor inputs of Native American
+women as evidence of their debased social
+position, anthropologists such as Alice
+Fletcher, Francis La Flesche, and Gene Weltfish,
+who studied Plains nations, interpreted
+women's labor as a sign of their economic and
+social centrality. <title level="m">The Hidden Half</title>, edited by
+Patricia Albers and Beatrice Medicine (1983),
+shows Plains Indian women from diverse societies
+to have been major food providers,
+controllers of assets, decision makers, and
+central to the political and spiritual functioning
+of their societies. Although Plains nations
+were culturally diverse, women usually did
+most of the perennial labor&#8211;including building
+lodges and tipis, farming, processing
+hides, and rearing young children.</p>
+
+<p>Native American women writers have provided
+intimate studies of the world of Plains
+men and women from the original nations.
+Ella Cara Deloria's novel <title level="m">Waterlily</title>, written
+in the 1940s and published in 1988, offers a
+Lakota woman's understanding of women's life
+among her people in the 1840s and 1850s. <title level="m">Waterlily</title>
+depicts a past in which women occupied
+a valued and powerful place, notwithstanding
+the male dominance of the warrior society.
+Mary Crow Dog's <title level="m">Lakota Woman</title> (1991), which
+is about recent political struggles, represents
+another powerful study of gender from the
+perspective of a Plains woman. The fiction of
+Louise Erdrich explores twentieth-century adjustments
+made by Chippewa peoples who had
+been displaced to the Plains from their homes
+in the Eastern Woodlands.</p>
+
+<p>In addition to the revisions and scholarship
+critiquing the conventional wisdom about the
+lives of Native American women of the Great
+Plains, recent scholarship has dislodged the
+authority of early observers who pictured the
+Plains Indian man as a lazy dandy. As David J.
+Wishart (1995) finds, these early observers
+failed to understand that men's work took
+place away from the village. Men's activities
+were raiding, hunting, defending, trading,
+and diplomacy. The skewed demographics
+observed in the nineteenth century, when in
+many Plains tribes more than two-thirds of
+the adults were women, are testimony to the
+physical risk inherent in men's roles. Further,
+Wishart believes that European American observers
+also misinterpreted polygyny. Rather
+than a debasement of women, it was a practical
+response to the relative shortage of men.</p>
+
+<p>Modern Plains Indians recount a history in
+which women commanded a great deal of respect;
+they attribute degradation of Native
+American women to the postcontact introduction
+of alcohol and loss of the traditional
+economic and spiritual nexus. One of the
+most unpardonable sins of a modern Lakota is
+to fail to show respect to a senior Lakota
+woman, thereby acceding to European American
+norms rather than Lakota order.</p>
+
+<p>Yet the widespread belief in a kinder, more
+respectful precontact past may reflect modern
+cultural politics as well as Indian history. Notwithstanding
+the tendency to attribute gender
+violence to European influence, reliable historical
+accounts reveal that Plains Indian
+women faced violence and death when they
+violated sexual or familial norms. For both
+men and women, secure status in the traditional
+societies appears to have rested on the
+degree to which they fulfilled moral expectations
+associated with their respective genders.</p>
+
+<p>Although African American men and women
+settled in the Great Plains, many of the
+details of their lives are unexplored. Glenda
+Riley, who made a brave attempt to include
+accounts of African Americans in <title level="m">The Female Frontier</title>, came up with little information. The
+largest concentration of black settlers was in
+Kansas, but small numbers of African Americans
+settled in other areas of the Plains as well.
+Race mattered in the Plains and shaped a distinct
+Plains experience for these settlers as
+compared to European Americans; nevertheless,
+African Americans were faced with problems
+of survival similar to those confronting
+European Americans. Perhaps the experience
+of gender for black persons in the Plains was
+similar to that of European Americans, although
+available anecdotes provide insufficient basis for firm conclusions.</p>
+
+<p>Similarly on the list of gender studies that
+have not yet emerged are the early experiences
+of Hispanic Americans and Asian Americans
+in the Plains. With so much intriguing work
+done on gender in these populations in other
+locations, it is hard to believe that there is
+nothing to be uncovered that would reveal
+what the Plains has meant for them both historically
+and in the present.</p>
+</div2>
+
+<div2>
+<head type="sub">Gender and Masculinity</head>
+
+<p>Gender doesn't mean women. A burgeoning
+body of scholarship has appeared to address
+the significance of gender in the understanding
+of male activities as well. Unfortunately,
+little of this has been about the Plains, although
+there have been some beginnings.
+Kolodny's <title level="m">Lay of the Land</title> ferrets out male imagery
+in the conquest of western lands. Elizabeth
+Atwood Lawrence's <title level="m">Rodeo: An Anthropologist Looks at the Wild and the Tame</title> (1982)
+opens the subject of the significance of maleness
+for cowboys, and Garrison Keillor's radio
+program, "Prairie Home Companion," includes
+an intriguing sequence of gender satire
+on the lives of the cowboys, which are forever
+being complicated by the addition of women
+and social responsibility. Much remains to be
+explored. The significance of the maleness of
+the soldier/warrior in European American
+and Native American cultures must have
+reached into other social domains and colored
+gender relations more generally for both.
+These studies are sorely needed before we can
+reach a balanced understanding of the significance
+of gender in the Plains.</p>
+</div2>
+
+<div2>
+<head type="sub">Conclusion</head>
+
+<p>Few questions of gender in the Great Plains
+have been put to rest. They are being revisited
+in ongoing investigations, and debates are
+wide-ranging. As with much other scholarship
+on gender, the Plains research is multidisciplinary.
+In 1984 a conference in Las Cruces,
+New Mexico, entitled "Rural Women in Historical
+Perspective," provided a forum for academics
+and activists engaged in work on rural
+women. It drew heavily from the discipline of
+history, but the scope was broad enough to
+include anthropologists, sociologists, literary
+analysts, economists, extension personnel,
+rural activists, and farm women. The continuing
+development and evolution of the conference
+has provided a network for theorists,
+many of them isolated, addressing questions
+of gender in the Great Plains. Now, unlike in
+Webb's day, anyone who writes accounts of
+the Great Plains and ignores women can expect
+to get called on it. Beyond that, there is
+little consensus.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ASIAN AMERICANS</hi>: 
+<ref n="egp.asam.012">Female Employment Act</ref> / <hi rend="smallcaps">EDUCATION</hi>: 
+<ref n="egp.edu.040">Women in Higher Education</ref> / <hi rend="smallcaps">FOLKWAYS</hi>: 
+<ref n="egp.fol.037">Quilting</ref> / <hi rend="smallcaps">LITERARY
+TRADITIONS</hi>: <ref n="egp.lt.009">Cather, Willa</ref>; <ref n="egp.lt.018">Erdrich, Louise</ref>;
+<ref n="egp.lt.078">Webb, Walter Prescott</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>:
+<ref n="egp.pd.051">Temperance Movement</ref>.</p>
+</div2>
+
+<closer>
+<signed>Deborah Fink<lb/>
+Ames, Iowa</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Albers, Patricia, and Beatrice Medicine, eds. <title level="m">The Hidden Half: Studies of Plains Indian Women</title>. Washington <hi rend="smallcaps">DC</hi>:
+University Press of America, 1983.</bibl> <bibl>Binnie-Clark, Georgina.
+<title level="m">Wheat and Women</title>. Toronto: University of Toronto Press,
+1979.</bibl> <bibl>Corey, Elizabeth. <title level="m">Bachelor Bess: The Homesteading Letters of Elizabeth Corey, 1909-1919</title>, edited by Philip L. Gerber.
+Iowa City: University of Iowa Press, 1990.</bibl> <bibl>De Brou, David,
+and Aileen Moffatt, eds. <title level="m">"Other" Voices: Historical Essays on Saskatchewan Women</title>. Regina: University of Regina, Canadian
+Plains Research Center, 1995.</bibl> <bibl>Fink, Deborah. <title level="m">Agrarian Women: Wives and Mothers in Rural Nebraska, 1880-1940</title>.
+Chapel Hill: University of North Carolina Press, 1992.</bibl>
+<bibl>Flora, Cornelia Butler, and Jan L. Flora. "Structure of Agriculture
+and Women's Culture in the Great Plains." <title level="j">Great Plains Quarterly</title> 8 (1988): 195-205.</bibl> <bibl>Graulich, Melody.
+"Every Husband's Right: Sex Roles in Mari Sandoz's Old
+Jules." <title level="j">Western American Literature</title> 18 (1983): 3-20.</bibl> <bibl>Hallett,
+Mary, and Marilyn Davis. <title level="m">Firing the Heather: The Life and Times of Nellie McClung</title>. Saskatoon: Fifth House, 1993.</bibl>
+<bibl>Hargreaves, Mary W. M. "Homesteading and Homemaking
+on the Plains: A Review." <title level="j">Agricultural History</title> 47 (1973):
+156-63.</bibl> <bibl>Hargreaves, Mary W. M. "Women in the Agricultural
+Settlement of the Northern Plains." <title level="j">Agricultural History</title>
+50 (1976): 179-89.</bibl> <bibl>Harris, Katherine. "Sex Roles and
+Work Patterns among Homesteading Families in Northeastern
+Colorado, 1873-1920." <title level="j">Frontiers</title> 7 (1984): 43-49.</bibl>
+<bibl>Jackel, Susan. <title level="m">A Flannel Shirt and Liberty: British Emigrant Gentlewomen in the Canadian West, 1880-1914</title>. Vancouver:
+University of British Columbia Press, 1982.</bibl> <bibl>Jeffrey, Julie
+Roy. <title level="m">Frontier Women: The Trans-Mississippi West, 1840</title>.
+1880. New York: Hill and Wang, 1979.</bibl> <bibl>Jellison, Katherine.
+<title level="m">Entitled to Power: Farm Women and Technology, 1913-1963</title>.
+Chapel Hill: University of North Carolina Press, 1993.</bibl>
+<bibl>Jensen, Joan M. <title level="m">With These Hands: Women Working on the Land</title>. Old Westbury <hi rend="smallcaps">NY</hi>: Feminist Press, 1981.</bibl> <bibl>Kellie, Luna.
+<title level="m">A Prairie Populist: The Memoirs of Luna Kellie</title>, edited by
+Jane Taylor Nelsen. Iowa City: University of Iowa Press,
+1992.</bibl> <bibl>Kohl, Edith Eudora. <title level="m">The Land of the Burnt Thigh</title>. St.
+Paul: Minnesota Historical Society Press, 1986.</bibl> <bibl>Kohl, Seena
+B. <title level="m">Working Together: Women and Family in Southwestern Saskatchewan</title>. Toronto: Holt, Rinehart and Winston of
+Canada, 1976.</bibl> <bibl>Kolodny, Annette. <title level="m">The Land before Her: Fantasy and Experience of the American Frontiers, 1630-1860</title>.
+Chapel Hill: University of North Carolina Press, 1984.</bibl>
+<bibl>Kolodny, Annette. <title level="m">The Lay of the Land: Metaphor as Experience and History in American Life and Letters</title>. Chapel Hill:
+University of North Carolina Press, 1975.</bibl> <bibl>Lawrence, Elizabeth
+Atwood. <title level="m">Rodeo: An Anthropologist Looks at the Wild and the Tame</title>. Knoxville: University of Tennessee Press,
+1982.</bibl> <bibl>Lindgren, H. Elaine. "Ethnic Women Homesteading
+on the Plains of North Dakota." <title level="j">Great Plains Quarterly</title> 9
+(1989): 157-73.</bibl> <bibl>Neth, Mary. <title level="m">Preserving the Family Farm: Women, Community and the Foundations of Agribusiness in the Midwest, 1900-1940</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns Hopkins
+University Press, 1995.</bibl> <bibl>O'Brien, Sharon. <title level="m">Willa Cather: The Emerging Voice</title>. New York: Oxford University Press, 1987.</bibl>
+<bibl>Rasmussen, Linda, Lorna Rasmussen, Candace Savage,
+and Anne Wheeler. <title level="m">A Harvest Yet to Reap: A History of Prairie Women</title>. Lincoln: University of Nebraska Press,
+1976.</bibl> <bibl>Riley, Glenda. <title level="m">The Female Frontier: A Comparative View of Women on the Prairie and the Plains</title>. Lawrence:
+University Press of Kansas, 1988.</bibl> <bibl>Riley, Glenda. <title level="m">Women and Indians on the Frontier, 1825-1915</title>. Albuquerque: University
+of New Mexico Press, 1984.</bibl> <bibl>Riley, Glenda. "Women on the
+Great Plains: Recent Developments in Research." <title level="j">Great Plains Quarterly</title> 5 (1985): 81-92.</bibl> <bibl>Savage, Candace. <title level="m">Our Nell: A Scrapbook Biography of Nellie L. McClung</title>. Saskatoon:
+Western Producer Prairie Books, 1979.</bibl> <bibl>Schwieder, Dorothy,
+and Deborah Fink. "Plains Women: Rural Life in the
+1930s." <title level="j">Great Plains Quarterly</title> 8 (1988): 79-88.</bibl> <bibl>Stewart,
+Elinore Pruitt. <title level="m">Letters of a Woman Homesteader</title>. Boston:
+Houghton Mifflin Company, 1914.</bibl> <bibl>Underwood, June O.
+"Civilizing Kansas: Women's Organizations, 1880-1920."
+<title level="j">Kansas History</title> 7 (1984/85): 291-306.</bibl> <bibl>Van Kirk, Sylvia.
+<title level="m">Many Tender Ties: Women in Fur-Trade Society, 1670-1870</title>.
+Norman: University of Oklahoma Press, 1980.</bibl> <bibl>Webb, Walter
+P. <title level="m">The Great Plains</title>. Boston: Ginn and Company, 1931.</bibl>
+<bibl>Wishart, David. "The Roles and Status of Men and Women
+in Nineteenth-Century Omaha and Pawnee Societies:
+Postmodernist Uncertainties and Empirical Evidence."
+<title level="j">American Indian Quarterly</title> 24 (1995): 509-18.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

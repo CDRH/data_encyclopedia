@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Green Corn Rebellion</title>
+<title level="m" type="sub"></title>
+<author>Nigel Anthony Sellars</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sellars, Nigel Anthony">Nigel Anthony Sellars</author>. <title level="a">"Green Corn Rebellion."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">713</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GREEN CORN REBELLION</head>
+
+<p>This short-lived tenant farmers' revolt broke
+out in three counties along Oklahoma's South
+Canadian River in August 1917. Ostensibly an
+uprising against World War I and the Conscription
+Act, the Green Corn Rebellion actually
+emerged from a series of long-standing
+grievances tenant farmers held against local
+landowners, businessmen, and state and local
+authorities, especially over the increasing consolidation
+of agricultural land by a few wealthy
+landholders. At the time of the rebellion, more
+than half of Oklahoma's farmers were tenants,
+many of whom had been forced into that condition
+by rampant land speculation and outright
+fraud.</p>
+
+<p>In the early years of the twentieth century,
+large numbers of tenants and small farmers
+sought help from the state's Socialist Party and
+its affiliated organizations, such as the Renters
+Union. While the Socialists called for expanding
+the public domain, enacting a graduated
+land tax, and creating a cooperative marketing
+system, some tenants grew frustrated with the
+political process and turned to night riding or
+to direct action techniques borrowed from the
+Industrial Workers of the World (<hi rend="smallcaps">IWW</hi>). But
+the <hi rend="smallcaps">IWW</hi> itself rejected the tenant farmers because
+the union recruited only wageworkers.</p>
+
+<p>The tenants instead joined another organization,
+the Working Class Union (<hi rend="smallcaps">WCU</hi>),
+based in Van Buren, Arkansas. The <hi rend="smallcaps">WCU</hi> locals
+in Oklahoma soon claimed 35,000 members, a
+questionable number. wcu membership rose
+with the collapse of cotton prices at the start
+of World War I, then grew again with opposition
+to a 1915 cattle-dipping campaign intended
+to check the spread of Texas fever.
+Charging that the chemicals used in the treatment
+harmed livestock, wcu members dynamited
+dipping vats and destroyed the property
+of local officials. But the organization became
+inactive after cotton prices rose in 1916.</p>
+
+<p>The <hi rend="smallcaps">WCU</hi> revived in 1917 after American entry
+into World War I. Both opposition to the
+war and the old grievances simmered throughout
+the summer of 1917. In early August hundreds
+of men gathered at the Sasakwa, Oklahoma,
+farm of John Spears, an aging Socialist,
+to plan a march on Washington to end the war.
+They intended to live on barbecued beef and
+roasted green corn, the latter giving the rebellion
+its name. On August 3 rebels started
+burning bridges and cutting telegraph lines,
+but hastily organized posses soon halted the
+rebellion. Three men were killed and more
+than 400 others were arrested. Of those, 150
+were convicted and received federal prison
+terms of up to ten years.</p>
+
+<p>In the wake of the rebellion, the state Socialist
+Party disbanded. State and federal authorities
+used the uprising as a means to suppress
+the <hi rend="smallcaps">IWW</hi>, which had taken no part in the
+rebellion.</p>
+
+<closer>
+<signed>Nigel Anthony Sellars<lb/>
+Christopher Newport University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burbank, Garin. <title level="m">When Farmers Voted Red: The Gospel of
+Socialism in the Oklahoma Countryside, 1910–1924</title>. Westport
+<hi rend="smallcaps">CT</hi>: Greenwood Press, 1976.</bibl> <bibl>Green, James R.
+<title level="m">Grass-Roots Socialism: Radical Movements in the Southwest,
+1895–1943</title>. Baton Rouge: Louisiana State University Press,
+1978.</bibl> <bibl>Sellars, Nigel Anthony. <title level="m">Oil, Wheat, and Wobblies:
+The Industrial Workers of the World in Oklahoma, 1905–1930</title>.
+Norman: University of Oklahoma Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

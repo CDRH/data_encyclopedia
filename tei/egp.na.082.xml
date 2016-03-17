@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.082">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pawnees</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.082</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Pawnees."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">590-591</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PAWNEES</head>
+
+<p>Unlike many Plains Indians, who moved into
+the area relatively recently, the Pawnees are
+longtime residents of the Great Plains. Linguistic
+and archeological evidence indicates
+that the Pawnees, specifically the Skiri band,
+have roots in central Nebraska extending back
+at least as far as the sixteenth century, and
+perhaps even further to the Upper Republican
+peoples who occupied villages along the Republican
+and Loup Rivers from 1100 <hi rend="smallcaps">A.D.</hi>
+to 1400 <hi rend="smallcaps">A.D.</hi> This stock was subsequently
+reinforced by recurrent migrations of other
+Caddoan-speaking bands from the Southern
+Great Plains during the seventeenth and eighteenth
+centuries. The Pawnees' own traditions
+speak of an origin in the southwestern United
+States, then a slow migration north, leaving
+their relatives, the Wichitas, on the Southern
+Plains. Linguistic analysis suggests that this
+split occurred in the first few centuries <hi rend="smallcaps">A.D.</hi></p>
+
+<p>By 1800 the Pawnee were a loose confederation
+of four bands&#8211;the Skiris (Loups), Chauis
+(Grands), Kitkahahkis (Republicans), and
+Pitahawiratas (Tappages). Their combined
+population, according to Lewis and Clark, was
+6,850. The Skiris lived in a large village (twenty
+to forty acres in extent) on a terrace of the
+Loup River near present-day Palmer, Nebraska;
+the Chauis occupied two villages on
+the south side of the Platte River near Bellwood
+and Linwood; and the Kitkahahkis lived
+to the south on the Republican River between
+Red Cloud and Guide Rock. By 1811, under
+pressure from the Kanzas, the Kitkahahkis
+moved north to the Loup. The location of the
+Pitahawirata village, if indeed it was separate
+from the Chaui sites, is unknown.</p>
+
+<p>Each band was largely independent of the
+others, with its own chiefs, priests, and ceremonies.
+The Skiris, especially, maintained
+an independent stance from the other three
+bands. The identity of each band was encapsulated
+in their village bundles, the bison hide
+packs which contained sacred icons and which
+represented the peoples' original charter with
+the gods. Every step in the year's cycle of activities
+was sanctified by the bundles.</p>
+
+<p>The traditional annual cycle of the Pawnees
+began in April when the first thunder from the
+south announced that it was time to clear the
+fields for cultivation. Corn, beans, squash, and
+sunflowers were planted by the women along
+the river floodplains. In late June, when the
+crops were well established, the Pawnees left
+for their summer bison hunt. They returned to
+the villages in late August and harvested and
+stored their crops. In early November they
+again abandoned their villages for the bison
+range, where they remained until March,
+hunting and camping on the upper reaches of
+the Republican, Smokey Hill, Solomon, and
+Platte Rivers. The bison hunts not only provided
+meat and most of the Indians' raw materials
+but also allowed the Pawnees and their
+horses (of which there were 6,000 in 1806) to
+spread their subsistence base over an extensive
+area. This annual cycle was a successful adaptation
+to the transitional environment of the
+Great Plains, and in most years the Pawnees
+produced a food surplus and flourished as the
+dominant power in the Central Plains.</p>
+
+<p>In the nineteenth century the traditional
+lifestyle of the Pawnees was seriously disrupted
+by war and disease. Their population
+in 1800 was already only a fraction of the
+15,000 or 20,000 people the villages had sustained
+in previous years. Smallpox struck in
+1798, then again in 1830–31, taking at least half
+the population in one winter. After each epidemic,
+the Pawnees partly recovered, but after
+1831 diseases struck with increased frequency
+and the population went on a downward spiral
+that was reversed only after 1906.</p>
+
+<p>Also, after 1831 the Pawnee found themselves
+caught in a vise, pressed by the Lakotas
+from the north and by the expanding American
+frontier to the east. From that time until
+their departure from Nebraska in 1876, they
+lived under the shadow of attack. Hunts and
+harvests were disrupted, food supplies became
+more precarious, and death rates soared. In
+the 1840s, mounting tra.c along the Oregon
+Trail led to the depletion of timber and grass,
+and the bison were driven west beyond the
+forks of the Platte. By 1854, when Nebraska
+Territory was opened to settlers, the Pawnees
+were a beleaguered people.</p>
+
+<p>Traditionally, the territory occupied and
+claimed by the Pawnees reached from the Niobrara
+to the Arkansas and Cimarron Rivers.
+The southern part of this territory was sold to
+the United States in 1833, and subsequent cessions
+left the Pawnees with only a small reservation,
+later Nance County, Nebraska, on the
+Loup River. There, between 1857 and 1876, their
+population dropped to fewer than 2,000 people,
+and settlers increasingly hemmed in their
+lives. In the early 1870s a series of disasters,
+including a massacre by the Lakotas in southwestern
+Nebraska in 1873 and the destruction
+of the crops by drought and grasshoppers, persuaded
+the Pawnees to relinquish their reservation
+and take up residency near the Wichitas in
+Indian Territory.</p>
+
+<p>The migration south and subsequent problems
+of adjusting to the new homeland resulted
+in further population decline, the nadir being
+reached in 1906 when only 650 Pawnees remained.
+In 1892 the Pawnees accepted individual
+allotments, and the remainder of their
+reservation was sold to settlers. The Pawnees
+were given $30,000 a year for this land. Many of
+their traditions were forgotten, and ceremonies
+lapsed. Their culture was resilient, however, and
+their rich traditions were preserved in the early
+twentieth century by James Murie, a member of
+the Skiri band. In 1936 the Pawnees gained tribal
+government recognition under the Oklahoma
+Indian Welfare Act. Their identity was further
+reinforced by lengthy and successful claims-case
+litigation before the Indian Claims Commission
+from 1946 to 1962. The Pawnees were eventually
+awarded $7,316,096 for lands in Nebraska and
+Oklahoma that had been taken from them for
+an "unconscionably" low payment in the nineteenth
+century.</p>
+
+<p>In the late twentieth century the Pawnee
+population numbered nearly 2,400, most of
+whom lived around the headquarters of the
+tribal council in Pawnee, Oklahoma. The tribe
+owned 726 acres, and another 19,399 acres was
+allotted to individuals. Unemployment stood
+at 25 percent. The Pawnees are governed by a
+council consisting of a president, vice president,
+and five council members.</p>
+
+<closer>
+<signed>David J. Wishart</signed>
+University of Nebraska-Lincoln</closer>
+</div1>
+
+<div1>
+<bibl>Blaine, Martha Royce. <title level="m">Pawnee Passage: 1870–1875</title>. Norman:
+University of Oklahoma Press, 1990.</bibl> <bibl>Weltfish, Gene.
+<title level="m">The Lost Universe: Pawnee Life and Culture</title>. Lincoln: University
+of Nebraska Press, 1977.</bibl> <bibl>Wishart, David J. <title level="m">An Unspeakable
+Sadness: The Dispossession of the Nebraska Indians</title>.
+Lincoln: University of Nebraska Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lincoln Highways</title>
+<title level="m" type="sub"></title>
+<author>Carol Ahlgren</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ahlgren, Carol">Carol Ahlgren</author>. <title level="a">"Lincoln Highway."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">803-804</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LINCOLN HIGHWAY</head>
+
+<p>The Lincoln Highway, one of the United
+States' major historic east–west routes, crosses
+the Great Plains states of Nebraska and Wyoming.
+Referred to as the nation's first transcontinental
+highway, it originated in 1912
+when automobile manufacturers and businessmen
+formed the Lincoln Highway Association
+in Detroit. The highway was intended
+to be a paved, toll-free memorial to Abraham
+Lincoln that would offer the most direct route
+from New York to San Francisco. In 1913 the
+route was designated along existing roads
+through twelve states: New York, New Jersey,
+Pennsylvania, Ohio, Indiana, Illinois,
+Iowa, Nebraska, Wyoming, Utah, Nevada, and
+California.</p>
+
+<p>The Lincoln Highway entered Nebraska at
+Omaha and followed section line roads through
+small towns in the historic transportation corridor
+of the Platte River valley. The highway
+closely paralleled the Union Pacific main line,
+nineteenth-century immigrant trails, and a portion
+of the Pony Express route. The route of the
+Lincoln Highway evolved as segments were
+straightened and improved. In some places it is
+still possible to find one or more versions of the
+highway as gravel section line roads, brick
+streets, and abandoned roadbed along the
+Union Pacific tracks.</p>
+
+<p>From 1913 until it disbanded in 1928, the
+Lincoln Highway Association mounted a national
+publicity campaign to raise funds to
+mark and improve the route. A network of
+state and local boosters, or "counsels," was established
+to aid in these efforts. In addition to
+publishing a series of guidebooks that provided
+maps and described road conditions,
+the association encouraged towns and cities
+along the route to rename appropriate streets
+as "Lincoln Way." Kearney, Nebraska, for example,
+renamed the route through the city on
+Central Avenue as Lincoln Way. Although the
+name has since reverted in Kearney, the route
+through downtown Cheyenne, Wyoming, is
+still known as Lincoln Way.</p>
+
+<p>Another promotional effort of the Lincoln
+Highway Association was the sponsorship of
+"seedling miles." These demonstration road
+segments varied in length from one to several
+miles and were constructed with portland cement
+using funds supplied by the Lincoln
+Highway Association and local organizations.
+Seedling miles were constructed in Ohio, Illinois,
+Indiana, Iowa, and Nebraska. The program
+was implemented between 1915 and 1917.
+When seedling miles were constructed at Fremont,
+Grand Island, and Kearney, the concrete
+road segments represented some of the
+only pavement along hundreds of miles of the
+Lincoln Highway from Nebraska west.</p>
+
+<p>By the late 1920s, when the federal highway
+numbering system went into effect, the work of
+the Lincoln Highway Association was largely
+finished. Through the years, federal and state
+funds had aided in the improvement of the
+route. Before it disbanded, the Lincoln Highway
+Association lobbied to have the Lincoln
+Highway's new designation as U.S. Route 30
+apply to the entire transcontinental route. Instead,
+U.S. Route 30 diverged from the Lincoln
+Highway in western Wyoming to continue
+north and east to Portland, Oregon. Meanwhile,
+the Lincoln Highway became a series of
+federal and regional routes through western
+Wyoming, Nevada, and Utah, terminating at
+Lincoln Park in San Francisco.</p>
+
+<closer>
+<signed>Carol Ahlgren<lb/>
+National Park Service</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ahlgren, Carol, and David Anthone. "The Lincoln Highway
+in Nebraska: The Pioneer Trail of the Automotive
+Age." <title level="j">Nebraska History</title> 73 (1992): 173-79.</bibl> <bibl>Hokanson,
+Drake. <title level="m">The Lincoln Highway: Main Street across America</title>.
+Iowa City: University of Iowa Press, 1988.</bibl> <bibl>Lincoln Highway
+Association. <title level="m">The Complete Official Road Guide of the
+Lincoln Highway</title>. Tucson <hi rend="smallcaps">AZ</hi>: Patrice Press, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

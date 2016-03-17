@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tree Planting and Climate Change</title>
+<title level="m" type="sub"></title>
+<author>M. Jean Ferrill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.056</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ferrill, M. Jean">M. Jean Ferrill</author>. <title level="a">"Tree Planting and Climate Change."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">398</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">TREE PLANTING AND CLIMATE CHANGE</head>
+
+<p>One method proposed for conquering the arid frontier in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> was tree planting. Settlers brought with them plant-climate theories whose origins ultimately can be traced to ancient <placeName rend="country" key="gr" reg="Greece">Greece</placeName>. A belief in trees having a modifying effect on dry lands had become widespread in <geogName rend="continent" reg="Europe">Europe</geogName> by the time of <persName reg="Columbus, Christopher">Columbus</persName>. When European American farmers faced the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, some optimistically believed that tree planting would turn the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> into a garden.</p>
+
+<p>Supportive arguments appeared in writings of travelers such as <persName reg="Olmsted, Frederick">Frederick Olmsted</persName> and <persName reg="Hayden, Ferdinand">Ferdinand Hayden</persName> as early as the 1850s. It was during the 1870–90 period, however, that the myth of using trees to influence the climate and over a period of years increase the rainfall and improve conditions for agriculture received the most attention. Some influential sponsors of this theory were members of the newly created <orgName rend="government" key="gov.us.usfs" reg="United States Forest Service">U.S. Forest Service</orgName>. The first three chiefs, <persName reg="Hough, F. B.">F. B. Hough</persName>, <persName reg="Egleston, N. H.">N. H. Egleston</persName>, and <persName reg="Fernow, B. E.">B. E. Fernow</persName>, all authored articles endorsing the benefits of tree planting. <persName reg="Fernow, B. E.">Fernow</persName> proposed that nature, if left to itself, would forest almost the entire world. Support came from the dean of the Industrial College, <persName reg="Bessey, Charles E.">Charles E. Bessey</persName>, and Agricultural College professor <persName reg="Culbertson, Harvey">Harvey Culbertson</persName> at the <orgName rend="school" key="sch.unl" reg="University of Nebraska-Lincoln">University of Nebraska</orgName>. <persName reg="Bessey, Charles E.">Bessey</persName> told the <orgName rend="government" key="gov.ne.nsba" reg="Nebraska State Board of Agriculture">Nebraska State Board of Agriculture</orgName> in 1886 that the <geogName rend="region" reg="Great Plains">Plains</geogName> were dry because they were treeless and advocated tree planting to change this condition. To prove his point, <persName reg="Bessey, Charles E.">Bessey</persName>, with the aid of <persName reg="Fernow, B. E.">Fernow</persName>, planted the only U.S. man-made national forest (Halsey) in the <geogName rend="region" reg="Sandhills">Sandhills</geogName> of <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName>, a forest, it might be added, that has hardly thrived.</p>
+
+<p>State governments recognized the need to encourage tree planting both to attract immigrants and to replace the trees that had been cut by the railroads and military. In 1873 the federal government officially encouraged tree planting with the Timber Culture Act, which required a settler to plant trees on (initially) forty acres of a quarter section in order to secure patent to the land. Introduced by <persName reg="Hitchcock, Phineas W.">Nebraska senator Phineas W. Hitchcock</persName>, the bill carried the argument that growth of timber would not only provide wood but also influence the climate.</p>
+
+<p>New settlers, including <persName reg="Harrison, C. S.">Rev. C. S. Harrison</persName>, upheld the tree-planting theory. <persName reg="Harrison, C. S.">Reverend Harrison</persName> founded the town of <placeName rend="settlement" key="ne.arb" reg="Arborville, Nebraska">Arborville, Nebraska</placeName>, in 1871 and established a tree nursery. He wrote in 1873 that the "desert" would soon be forested to the base of the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountains</geogName>. <persName reg="Morton, J. Sterling">J. Sterling Morton</persName>, <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName>'s secretary of agriculture, continued the crusade of tree planting by launching Arbor Day in 1872. As a result, <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName> was known as the <placeName rend="state" key="ne" reg="Nebraska">Tree Planting State</placeName> long before it became the <placeName rend="state" key="ne" reg="Nebraska">Cornhusker State</placeName>. Railroads also supported the benefits of tree planting in order to promote their land sales to prospective settlers.</p>
+
+<p>Tree planting in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> continued to be supported by many individuals and groups even after the droughts of the 1890s dispelled notions of an improved climate linked to tree planting. Claims, however, became more realistic. It was recognized that trees could have a positive effect on microscale climate, and the beneficial qualities of shelterbelts and windbreaks on the <geogName rend="region" reg="Great Plains">Plains</geogName> have continued to be emphasized.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.050">Morton, J. Sterling</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">M. Jean Ferrill<lb/>
+Northern Michigan University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Bessey, C. "<title level="a">The Grasses and Forage Plants of Nebraska</title>." In <title level="m">Annual Report of the Nebraska State Board of Agriculture, 1886</title>. Lincoln: Nebraska State Journal: 208–9.</bibl> <bibl>Elliott, R. S. "<title level="a">Climate of Kansas</title>." In <title level="m">Annual Report of the Board of Regents of the Smithsonian Institution for 1870</title>. Washington <hi rend="smallcaps">DC</hi>: 472–74.</bibl> <bibl>Fernow, B. E. "<title level="a">Forest Planting on the Plains</title>." In <title level="m">Annual Report of the Nebraska State Board of Agriculture, 1890</title>. Lincoln: Nebraska State Journal: 140.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

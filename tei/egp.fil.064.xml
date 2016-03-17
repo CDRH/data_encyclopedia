@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.064">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Westerns</title>
+<title level="m" type="sub"></title>
+<author>John L. Simons</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.064</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Simons, John L.">John L. Simons</author>. <title level="a">"Westerns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">279-280</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WESTERNS</head>
+<figure n="egp.fil.064" rend="granted" type="noclick">
+<figDesc>Book cover for the novel The Plainsman featuring information about the film version (1936)starring Gary Cooper</figDesc>
+</figure>      
+
+<p>Plains Westerns typically center on two key
+elements, historical and geographical, each of
+which assumes importance by virtue of the
+specific character of the Plains experience.</p>
+
+<p>One of the representative traits of Western
+films involving or located within the Great
+Plains is their pronounced obsession with actual
+historical events and historical characters.
+This may be so because in the Western film
+dialectic between East and West, the Plains
+form a sort of Middle Landscape, mixing history
+and myth, between the more historically
+mapped East and more exotically romanticized
+and mythologized West. Real historical
+events and persons occur much more often in
+Plains Westerns, which helps to explain why
+John Ford's silent film epic of the building of
+the transcontinental railroad, <title>The Iron Horse</title>
+(1924), is filled with so many historical events
+and characters, many more than any other of
+his more "western" Westerns. The history, of
+course, has often been radically altered for
+narrative, dramatic, and ideological reasons.
+While it is unusual to find the Civil War, Abraham
+Lincoln, westward expansion, Wild Bill
+Hickok, Buffalo Bill, Calamity Jane, the Plains
+Indian Wars, and Gen. George Armstrong
+Custer (though most of them appeared together
+in <title>The Iron Horse</title>) all cobbled together
+as they are in Cecil B. De Mille's wildly improbable,
+spectacularly inaccurate, actionfilled
+<title>The Plainsman</title> (1936), nevertheless,
+many other Plains films are also based, if ever
+so loosely, on actual historical events and
+characters primarily because the Plains Western
+mixes myth and history more readily than
+does the Far West Western.</p>
+
+<p>Key Plains historical events include the great
+pioneer migration after the Civil War (<title>The Covered Wagon</title>, 1923; <title>How the West Was Won</title>,
+1962); the blazing of the great cattle trails (<title>Red River</title>, 1946; <title>Abilene Town</title>, 1951); the brief career
+of the Pony Express, an especially popular
+topic for very early Westerns made by <title>Great Train Robbery</title> (1903) director Edwin S. Porter
+and stars Bronco Billy Anderson and Tom Mix;
+the founding of cattle towns (<title>Dodge City</title>, 1939;
+<title>Wichita</title>, 1955; and many others); the advent of
+railroads (<title>Iron Horse</title>, 1924; <title>Dodge City</title> and
+<title>Union Pacific</title>, both 1939) and the telegraph
+(<title>Western Union</title>, 1941); numerous wars with
+the Plains Indians, the greatest of which and
+the most prescient and sympathetic to Native
+Americans is Kevin Costner's <title>Dances with Wolves</title> (1990); the Missouri-Kansas border
+wars (<title>Dark Command</title>, 1940; <title>The Outlaw Josey Wales</title>, 1976); and historical figures such as Kit
+Carson, William Clark Quantrill, John Brown,
+Jesse and Frank James, the Dalton Gang, Wyatt
+Earp, Bat Masterson, Sitting Bull, Crazy Horse,
+and many more, all of whom appear in numerous
+films. Propelled by the mythic and historical
+provenance of Manifest Destiny and the
+more literal promise of vast new lands for exploration
+and settlement, the Great Plains
+hovered in a special zone of the imagination
+between myth and history, fact and fantasy,
+with each feeding the other in rich, energizing,
+though at times blatantly jingoistic and racist
+ways.</p>
+
+<p>As is virtually the case with all Westerns,
+landscape figures prominently in nearly every
+film, from the very early settler epic, <title>The Covered Wagon</title>, through the more racially, culturally,
+and ecologically sophisticated <title>Dances with Wolves</title> and the more gender-conscious
+<title>Westward the Women</title> (1951), <title>The Ballad of Little Jo</title> (1993), and <title>Unforgiven</title> (1991). Almost no
+Westerns have been actually shot on location
+in the Central Plains, though more recently
+Montana, Wyoming, and the Canadian Prairies
+have been used as locations for filming
+Westerns. Nevertheless, numerous films are
+able to convey through cinematography and
+editing a feeling for the oceanic vastness of the
+Plains, the winds, the droughts, the sudden
+storms, the vast buffalo herds, and the Native
+Americans so that a sense of the Plains' dwarfing
+presence offers a kind of historical and
+political, moral and spiritual landscape out of
+which the narratives of the Plains experience
+emerge. <title>How the West Was Won</title> (1962) is a
+hodgepodge of many Westerns, but its sense
+of visual space, enhanced by the Cinerama
+process (note especially Henry Hathaway's
+section on "The Prairie"), still makes it worth
+looking at if not listening to. The same is true,
+although the stories are much more interesting,
+in the depiction of the Southern and
+Northern Plains, respectively, in Terrence
+Malick's sumptuously photographed <title>Days of Heaven</title> (1978) and in Michael Cimino's saga of
+the Wyoming Johnson County War, <title>Heaven's Gate</title> (1980).</p>
+
+<p>From the approving heavenly choirs that
+herald a wagon train's sinuously curved journey
+across the vast Central Plains at the beginning
+of Howard Hawks's epic <title>Red River</title> (1946)
+to the journey of a soul broken by war, violence,
+and personal tragedy in Clint Eastwood's
+masterly <title>The Outlaw Josey Wales</title>, the
+best directors merge landscape, story, and
+character in a unified whole. The story of Josey
+Wales, which begins in catastrophe, ends in a
+vision of cosmic and comic harmony in nature
+and in society, closer in kind to a Shakespearean
+romance than to a traditional Western.
+Throughout this remarkable pilgrim's progress
+the landscape continues to underscore the
+imperatives of both plot and character.</p>
+
+<p>Since all Westerns are about versions and
+visions of history, no Western can be understood,
+then, outside of its doubled historical
+focus on both the remembered and interpreted
+past and the self-interpreting present.
+Thus the more "triumphalist" 1930s and 1940s
+studio Westerns of Cecil B. De Mille (<title>The Plainsman</title>, <title>Union Pacific</title>) and Raoul Walsh
+(<title>The Big Trail</title>, 1931; <title>They Died with Their Boots On</title>, 1941), Howard Hawks (<hi rend="italic">Red River</hi>),
+and Michael Curtiz (<title>Santa Fe Trail</title>, 1940;
+<title>Dodge City</title>) are placed in sharp relief with
+films more critical, more conflicted and paradoxically
+puzzling, of the settling of the West
+such as Fred Zinnemann's <title>High Noon</title> (1952),
+John Ford's <title>The Searchers</title> (1956), filmed in
+Ford's mythical signature landscape, Monument
+Valley, but really a story of the arduous
+post–Civil War settling of Texas, and Arthur
+Penn's <title>Little Big Man</title> (1970).</p>
+
+<p>No film presents a more stark contrast with
+the lush, lyrical beauty of the epic, mythically
+charged story of the embodiment of Manifest
+Destiny, epitomized by <title>Red River</title>, than the
+radically revisionist <title>High Noon</title>, a parched
+and sparse view of the almost unrepresented
+Plains. The most deliberately <title>plain</title> of the
+Plains Westerns, <title>High Noon</title> presents a landscape
+not seen in many other films, a vision of
+the end of an era, closer in spirit to a contemporary
+film about the death of the Old West,
+Peter Bogdanovich's <title>The Last Picture Show</title>
+(1971), than to the more optimistic tradition of
+the American Western. <title>High Noon</title> offers a
+troubling account of the Plains West in the
+aftermath of its vitalizing frontier settlement.
+Topographically, the film's central irony turns
+on the etiolated city streets of "civilized" (all
+too civilized) Hadleyville, themselves metamorphosing
+into a terrifying spatial void, as
+threatening as the Plains themselves. The town
+that Marshal Will Kane (Gary Cooper) has
+tamed and to which he has brought law and
+order now questions his leadership and turns
+its back on him in this misanthropic Western.
+We have come a long way from John Wayne's
+mythical larger-than-life Tom Dunson in Red
+River, a man who revels in the wild, vitalizing
+spaces he inhabits, who sees only more and
+more land in which to "grow good beef for
+hungry Americans." Will Kane looks outside of
+Hadleyville&#8211;and inside&#8211;and sees nothing
+but nothingness. His Plains America no longer
+affords a Turneresque vision of the creative
+fusion of wilderness and society at the edge of
+the frontier, for in this film each cancels out the
+other.</p>
+
+<p>The great majority of Plains Westerns, of
+course, celebrate an expanding, optimistic
+America, a land of perpetual plenty. But if the
+Western mirrors American history, and it
+does, then the Plains Western proffers the
+same pleasures and discontents we contemplate
+as we simultaneously look backward and
+forward at the history of our country through
+the already passed, always present, prism of
+the Western film.</p>
+
+<closer>
+<signed>John L. Simons<lb/>
+Colorado College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Buscombe, Edward, ed. <title level="m">The <hi rend="smallcaps">BFI</hi> <hi rend="italic">Companion to the Western</hi></title>.
+New York: DaCapo, 1988.</bibl> <bibl>Slotkin, Richard. <title level="m">Gunfighter Nation: The Myth of the Frontier in 20th Century America</title>.
+New York: Atheneum, 1992.</bibl> <bibl>Smith, Henry Nash. <title level="m">Virgin Land: The American West as Symbol and Myth</title>. Cambridge:
+Harvard University Press, 1950.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

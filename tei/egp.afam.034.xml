@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.034 SYSTEM "egp.afam.034.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Parks, Gordon (b. 1912)</title>
+<title level="m" type="sub"></title>
+<author>Orville D. Menard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerstetter, Todd M.">Todd M. Kerstetter</author>. <title level="a">"Parks, Gordon (b. 1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">19-20</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PARKS, GORDON (b. 1912)</head>
+
+<figure n="egp.afam.034" rend="granted">
+<figDesc>Gordon Parks, in the director's chair</figDesc>
+</figure>
+
+<p>Gordon Parks overcame barriers of race and
+poverty to become a noted photographer,
+writer, filmmaker, composer, and painter. He
+was born on November 30, 1912, and grew up
+the youngest of fifteen children in a poor farm
+family in Fort Scott, Kansas. During his midteens
+his mother's death led him to leave
+Kansas to live with relatives in St. Paul, Minnesota.
+He stayed there briefly before entering
+a nomadic phase during which he traveled
+through much of the United States and later
+the world. Parks played piano in brothels,
+learned to play the trumpet, and began composing
+music while trying to finish high
+school. A stint singing and composing for a
+band took him to New York City. When the
+band's demise left him stranded and penniless,
+he joined the Civilian Conservation
+Corps in 1933. He later worked as a waiter on
+the North Coast Limited, a luxury train that
+ran from Chicago to Seattle.</p>
+
+<p>In 1938, within a year of buying his first
+camera at a pawnshop, Parks had his first photographic
+exhibit in an Eastman Kodak store
+in Minneapolis. He quickly developed his
+photographic skills through incessant work,
+including shooting events at Chicago's South
+Side Community Art Center, fashion spreads
+for department stores, portraits of wealthy
+families, and photo essays about poverty on
+Chicago's South Side. His work documenting
+poverty earned Parks a Julius Rosenwald fellowship,
+which he used to train with Roy
+Emerson Stryker at the Farm Security Administration
+(<hi rend="smallcaps">FSA</hi>) in Washington <hi rend="smallcaps">DC</hi>. After Parks
+left the <hi rend="smallcaps">FSA</hi> he moved to Harlem and freelanced
+for <title level="j">Glamour</title> and <title level="j">Vogue</title>. He joined <title level="j">Life</title>
+in 1948 and contributed to the magazine for
+more than twenty years. Parks launched his
+publishing career in 1947 with <title level="j">Flash Photography</title>,
+an instruction manual. He later wrote a
+novel, <title level="m">The Learning Tree</title> (1963), about growing
+up as an African American in rural Kansas,
+various books of poetry and photographs, and
+two memoirs, <title level="m">A Choice of Weapons</title> (1966) and
+<title level="m">Voices in the Mirror: An Autobiography</title> (1990).</p>
+
+<p>Parks began consulting in the film industry
+during the 1950s and became the first black
+director of a major motion picture when he
+brought <title level="m">The Learning Tree</title> to the screen in
+1969 for Warner Brothers&#8211;Seven Arts. He
+continued directing with <title>Shaft</title> (1971), <title>Shaft's Big Score</title> (1972), <title>Super Cops</title> (1974), <title>Leadbelly</title>
+(1976), and <title>The Odyssey of Solomon Northrup</title>
+(1983), among others. In addition to directing,
+Parks wrote the screenplay and musical score
+for <title level="m">The Learning Tree</title> and wrote the score for
+<title>Shaft's Big Score</title>. He also composed a piano
+concerto and the music and libretto for Martin,
+a five-act ballet tribute to Martin Luther
+King Jr. In recent years Parks has moved to
+abstract color photography, using paint and
+computer technology to alter his photos.</p>
+
+
+<closer>
+<signed>Todd M. Kerstetter<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Parks, Gordon. <title level="m">A Choice of Weapons</title>. New York: Harper
+and Row, 1966.</bibl> <bibl>Parks, Gordon. <title level="m">Half Past Autumn: A Retrospective</title>.
+Boston: Bullfinch Press, 1997.</bibl> <bibl>Parks, Gordon.
+<title level="m">Voices in the Mirror: An Autobiography</title>. New York: Doubleday,
+1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

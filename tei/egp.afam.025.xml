@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">King Curtis (1934–1971)</title>
+<title level="m" type="sub"></title>
+<author>Christopher Steinke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Steinke, Christopher">Christopher Steinke</author>. <title level="a">"King Curtis (1934–1971)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">16</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KING CURTIS (1934-1971)</head>
+<figure n="egp.afam.025" rend="granted" type="noclick">
+<figDesc>Saxophonist King Curtis</figDesc>
+</figure>    
+
+<p>Saxophonist King Curtis was born Curtis
+Ousley in Fort Worth, Texas, on February 7,
+1934. He spent his formative years surrounded
+by Texas blues and swing, mainstream jazz,
+and gospel music. After high school he followed
+in the footsteps of Illinois Jacquet, the
+Houston-born innovator of the saxophone
+style known as "honking," to join vibraphonist
+Lionel Hampton's jazz band in California.
+He finally settled in New York in 1952.</p>
+
+<p>In New York, King Curtis shaped his stylistic
+influences into a fusion of jazz and the popular
+"honking and shouting" of the rhythm-andblues
+(<hi rend="smallcaps">R</hi>&amp;<hi rend="smallcaps">B</hi>) tenor saxophone. He recorded a
+small number of mainstream jazz albums and
+in 1958 led his own jazz group. In the 1960s
+he was a prominent innovator of "soul jazz,"
+which combined his early Texas influences of
+gospel, blues, and jazz. His first major solo
+success came with "Soul Twist," which reached
+the top of the R&amp;B billboard charts in 1962; five
+years later he had another hit with "Memphis
+Soul Stew." Unlike his <hi rend="smallcaps">R</hi>&amp;<hi rend="smallcaps">B</hi> contemporaries,
+he developed a sound on the saxophone that
+could be as subtle as it was raucous.</p>
+
+<p>King Curtis also garnered recognition as an
+<hi rend="smallcaps">R</hi>&amp;<hi rend="smallcaps">B</hi> and soul studio-musician, becoming Atlantic
+Records' house tenor-saxophonist and
+bandleader for Aretha Franklin. His career
+came to an abrupt end in 1971 when he was
+murdered in front of his Manhattan home.</p>
+
+
+<closer>
+<signed>Christopher Steinke<lb/>
+Harvard University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gillett, Charlie. <title level="m">The Sound of the City</title>. London: Souvenir
+Press, 1983.</bibl> <bibl>Shaw, Arnold. <title level="m">Honkers and Shouters: The
+Golden Years of Rhythm and Blues</title>. New York: Macmillan
+Publishing Company, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

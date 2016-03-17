@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Custer, George Armstrong (1839&#8211;1876)</title>
+<title level="m" type="sub"></title>
+<author>Brian W. Dippie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dippie, Brian W.">Brian W. Dippie</author>. <title level="a">"Custer, George Armstrong (1839-1876)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">382&#8211;383</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CUSTER, GEORGE ARMSTRONG (1839-1876)</head>
+<figure n="egp.ii.017" rend="granted">
+<figDesc>Brevet Major General George Armstrong Custer, U. S. Army, 1865</figDesc>
+</figure>
+
+<p><persName reg="Custer, George Armstrong">George Armstrong Custer</persName>, born in <placeName rend="settlement" key="oh.nr" reg="New Rumley, Ohio">New Rumley, Ohio</placeName>, in 1839, rose to fame as the "boy general" of the Civil War and achieved immortality by perishing with his entire command at the hands of <orgName rend="tribe" key="tri.lak" reg="Lakota">Lakota</orgName> and <orgName rend="tribe" key="tri.che" reg="Cheyenne">Cheyenne</orgName> Indians on the <geogName rend="river" reg="Little Bighorn River">Little Bighorn River</geogName> in 1876. He graduated from <placeName rend="settlement" key="ny.wp" reg="West Point, New York">West Point</placeName> at the bottom of his class in 1861 but proved himself a fearless fighting soldier in the Civil War. By the age of twenty-three he was a brigadier general of volunteers in the cavalry corps. In a self-designed uniform sparkling with gold, his long blond hair flying out behind him, <persName reg="Custer, George Armstrong">Custer</persName> was the stuff of legend; by the age of twenty-five he was commanding a division. When the war ended he reverted to his regular army rank of captain, and while he would never regain the lofty rank of major general, he was promoted to lieutenant colonel in the newly formed <orgName rend="military" key="mil.sc" reg="Seventh Cavalry">Seventh Cavalry</orgName> in 1866. After a fruitless campaign against the Southern Plains tribes over the summer of 1867 that culminated in a court-martial and suspension from duty for eleven months, <persName reg="Custer, George Armstrong">Custer</persName> established himself as an Indian fighter on November 27, 1868, with a controversial victory on the <geogName rend="river" reg="Washita River">Washita River</geogName>, <placeName rend="territory" key="ter.ind" reg="Indian Territory">Indian Territory</placeName>, during which the <orgName rend="military" key="mil.sc" reg="Seventh Cavalry">Seventh Cavalry</orgName> destroyed a <orgName rend="tribe" key="tri.che" reg="Cheyenne">Cheyenne</orgName> village, killing 103 men, women, and children.</p>
+
+<p>Following a stint of Reconstruction duty in <placeName rend="state" key="ky" reg="Kentucky">Kentucky</placeName>, <persName reg="Custer, George Armstrong">Custer</persName> accompanied his regiment to <placeName rend="territory" key="ter.dak" reg="Dakota Territory">Dakota Territory</placeName> in 1873. He led it in the field that summer on the Yellowstone Expedition, designed to clear the way for the construction of the <orgName rend="railroad" key="rail.npr" reg="Northern Pacific Railroad">Northern Pacific Railroad</orgName> through Sioux country, and the following year on an exploratory probe deep into the <geogName rend="region" reg="Black Hills">Black Hills</geogName> that turned up gold in paying quantities and created intense pressure on lands ceded to the <orgName rend="tribe" key="tri.lak" reg="Lakota">Lakotas</orgName> by treaty in 1868. The fallout, the Sioux Expedition of 1876, had as its objective the confinement of "hostile" <orgName rend="tribe" key="tri.lak" reg="Lakota">Lakotas</orgName> on their reservation. Three military columns took the field, the <orgName rend="military" key="mil.sc" reg="Seventh Cavalry">Seventh</orgName> riding with the Dakota Column under <persName reg="Terry, Alfred">Gen. Alfred Terry</persName>. On June 22 <persName reg="Terry, Alfred">Terry</persName> sent <persName reg="Custer, George Armstrong">Custer</persName> ahead with 600 men of the <orgName rend="military" key="mil.sc" reg="Seventh Cavalry">Seventh Cavalry</orgName> and a contingent of scouts. On the morning of June 25, in sight of an enormous Indian camp on the <geogName rend="river" reg="Little Bighorn River">Little Bighorn River</geogName>, <persName reg="Custer, George Armstrong">Custer</persName> divided his regiment into four battalions and led the five companies under his direct command&#8211;211 men&#8211;to total annihilation.</p>
+
+<p><persName reg="Custer, George Armstrong">Custer</persName>'s Last Stand became an enduring myth, and <persName reg="Custer, George Armstrong">Custer</persName> himself has represented everything from fearless self-sacrifice (the martyred hero) to reckless incompetence (the egocentric fool). In 1877 <persName reg="Custer, George Armstrong">Custer</persName>'s remains were reburied at <placeName rend="settlement" key="ny.wp" reg="West Point, New York">West Point</placeName>, where a monument marks his final resting place, though those still fascinated by his fabled Last Stand make their pilgrimage to the <placeName rend="monument" key="mon.lbbnm" reg="Little Bighorn Battlefield National Monument">Little Bighorn Battlefield National Monument</placeName> in <geogName rend="region" reg="Southeastern Montana">southeastern Montana</geogName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.015">Custer Films</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.025">Little Bighorn, Battle of the</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Brian W. Dippie<lb/>
+University of Virginia</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Dippie, Brian W. <title level="m">Custer's Last Stand: The Anatomy of an American Myth</title>. Lincoln: University of Nebraska Press, 1994.</bibl> <bibl>Hutton, Paul Andrew, ed. <title level="m">The Custer Reader</title>. Lincoln: University of Nebraska Press, 1992.</bibl> <bibl>Utley, Robert M. <title level="m">Cavalier in Buckskin: George Armstrong Custer and the Western Military Frontier</title>. Norman: University of Oklahoma Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

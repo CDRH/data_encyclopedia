@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Red River Carts</title>
+<title level="m" type="sub"></title>
+<author>Pekka H&#228;m&#228;l&#228;inen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="H&#228;m&#228;l&#228;inen, Pekka">Pekka H&#228;m&#228;l&#228;inen</author>. <title level="a">"Red River Carts."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">810</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RED RIVER CARTS</head>
+
+<p>Developed in the Prairie Provinces in the
+nineteenth century by the M&#233;tis, the Red River
+cart was a small, two-wheeled wooden rig
+drawn by oxen or horses. It had two long
+shafts attached to an axle and could be strapped
+to a single draft animal. The shafts supported
+a platform with wooden rails on two
+sides. The cart was well designed for Plains
+travel. Constructed entirely of wood and tied
+together with leather, it could be easily manufactured
+in the Red River country, where
+oaks and poplars thrived in river valleys, bison
+were abundant, but metal goods were scarce.
+Large, spoked wheels made the carts easy to
+draw through the tall grasses, rugged terrain,
+and shallow streams of the Prairie Provinces.
+Thanks to their simple design, the carts could
+be easily repaired when long journeys across
+the Plains took their toll.</p>
+
+<p>The Metis initially designed the Red River
+cart for carrying hides, dried meat, and tallow
+from their semiannual bison hunts on the
+Plains. Each cart could carry as much as 1,000
+pounds&#8211;the hides, meat, and grease of five or
+six buffalo. By the late nineteenth century, the
+Prairie Provinces were crisscrossed by Metis
+cart roads, the most important of which was
+the Carlton Trail from Fort Garry, the supply
+depot of the Red River settlement, to Fort
+Carlton on the Saskatchewan River. Each year,
+several hundred carts trundled back and forth
+along the road, filling the air with their distinctive
+ear-piercing screech, caused by the
+rubbing of wooden wheels against wooden
+axles. At first, the Metis sold most of their
+bison products to the fur trade posts in the
+Red River country, but in the 1850s they began
+to organize cart brigades to present-day St.
+Paul, Minnesota. Primarily a long-distance
+transport device, the Red River cart was replaced
+in the late nineteenth century by the
+steamboat and railway.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.063">M&#233;tis</ref>.</p>
+
+<closer>
+<signed>Pekka H&#228;m&#228;l&#228;inen<lb/>
+Texas A&amp;M University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

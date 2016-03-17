@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Literary Criticism</title>
+<title level="m" type="sub"></title>
+<author>Robert Thacker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thacker, Robert">Robert Thacker</author>. <title level="a">"Literary Criticism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">482-483</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LITERARY CRITICISM</head>
+
+<p>The predominant critical response to Great
+Plains writing has been, to paraphrase Henry
+Kreisel, the effect of the landscape upon
+the European American imagination. In the
+United States, the 1920s saw the publication
+of two studies&#8211;Dorothy Dondore's <title level="m">The Prairie and the Making of Middle America</title> (1926)
+and Lucy Lockwood Hazard's <title level="m">The Frontier in American Literature</title> (1927)&#8211;that identified
+texts and used them to trace a regional imaginative
+history derived from Frederick Jackson
+Turner's frontier thesis. Similar work was
+done (though with little reference to the frontier
+theory) in Canada by Edward McCourt,
+whose <title level="m">The Canadian West in Fiction</title> (1949; revised,
+1970) laid the basis for the two major
+Canadian studies, Laurence Ricou's <title level="m">Vertical Man/Horizontal World</title> (1973) and Dick Harrison's
+<title level="m">Unnamed Country</title> (1977). Both are nationalist
+studies that largely ignore material
+from south of the forty-ninth parallel, and
+both argue the primacy of the Prairie landscape
+in informing and shaping a distinctly
+Canadian point of view, one derived from
+imaginative interaction with the land itself
+over time.</p>
+
+<p>Written partially as a response to them,
+Robert Thacker's <title level="m">The Great Prairie Fact and Literary Imagination</title> (1989) is an analysis of the
+European and European American aesthetic
+and literary response to the Great Plains landscape
+from Cabeza de Vaca during the 1530s to
+Sharon Butala during the 1980s. His conclusion,
+following Cather in <title level="m">O Pioneers!</title> is that
+"the great fact" is "the land itself." Central to all
+three post-1970 studies is Wallace Stegner's
+<title level="m">Wolf Willow</title> (1962), a volume that has achieved
+classic status in Canada owing to its Saskatchewan
+setting. Beyond these central studies,
+other recent critical works either adopt individual
+themes or assert a new critical perspective.
+Carol Fairbanks's <title level="m">Prairie Women</title> (1986) is
+an instance of the former, as is Steven Olson's
+<title level="m">The Prairie in Nineteenth-Century American Poetry</title> (1994). Arnold E. Davidson's <title level="m">Coyote Country</title> (1994) advances a Canadian exceptionalist
+argument informed by postmodern
+theory in a treatment of a group of writers
+succeeding those offered by Ricou, Harrison,
+and Thacker. Similarly, and despite an attempt
+to treat Canadian writers along with American
+ones, Diane Dufva Quantic offers an American
+exceptionalist argument in <title level="m">The Nature of the Place</title> (1995). So too does Joni L. Kinsey in <title level="m">Plain Pictures</title> (1996). Kinsey analyzes painted and
+photographed images in a way that attests to
+the ongoing pull of the Great Plains landscape
+upon the imagination.</p>
+
+<closer>
+<signed>Robert Thacker<lb/>
+St. Lawrence University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Harrison, Dick. <title level="m">Unnamed Country: The Struggle for a Canadian Prairie Fiction</title>. Edmonton: University of Alberta
+Press, 1977.</bibl> <bibl>Ricou, Laurence. <title level="m">Vertical Man/Horizontal World: Man and Landscape in Canadian Prairie Fiction</title>.
+Vancouver: University of British Columbia Press, 1973.</bibl>
+<bibl>Thacker, Robert. <title level="m">The Great Prairie Fact and Literary Imagination</title>.
+Albuquerque: University of New Mexico Press,
+1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

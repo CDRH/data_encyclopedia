@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nebraska</title>
+<title level="m" type="sub"></title>
+<author>Robert Sittig</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sittig, Robert">Robert Sittig</author>. <title level="a">"Nebraska."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">678</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NEBRASKA</head>
+
+<p>The politics and government of Nebraska have
+been inextricably linked to national events and
+developments. Statehood was achieved on
+March 1, 1867, after a decade of political tumult.
+The major factor influencing the extended
+debate over statehood was the heightening
+slavery issue. Once the Civil War settled
+the slavery argument, Nebraska moved from
+territorial status, which it had gained with the
+Louisiana Purchase in 1803, to full statehood,
+and its governance became primarily a state
+matter.</p>
+
+<p>The original constitution, which had been
+hastily drafted and adopted in 1866, proved
+inadequate for the state, and it was replaced in
+1875 with a more relevant document. This revision
+proved satisfactory until events late in the
+century, such as rapid population growth fueled
+by immigration and widespread economic
+deprivation in the agrarian sector,
+strained the political system, and another major
+constitutional update was approved in
+1920. Finally, numerous piecemeal amendments
+proposed by the legislature and the populace,
+as well as two constitutional revision
+commissions in the 1970s and 1990s, have kept
+the structure and powers of state government
+in step with changing political conditions.</p>
+
+<p>The most distinguishing aspect of Nebraska's
+governmental structure is the nonpartisan,
+single-chamber legislature, adopted in
+1934 via a popularly initiated constitutional
+amendment. Its legacy stems from the progressive
+and populist movements, which succeeded
+in adopting numerous major policy innovations
+around the turn of the twentieth
+century. The unicameral campaign lagged until
+it was taken up by U.S. senator George W.
+Norris. Norris also logged an unmatched Nebraska
+record of political achievement in the
+national capitol, which included the legal recognition
+of labor unions, rural electrification,
+and regional riverbed development. The unicameral
+legislature system, although widely
+accepted in Nebraska and generally lauded by
+political reformers, has not been adoptable in
+the many states that have reviewed it recently.
+The nonpartisan feature is less popular, but
+numerous constitutional amendment attempts
+to abolish it and revert to a partisan
+arrangement have fallen short.</p>
+
+<p>Nebraska's executive and judicial branches
+currently reflect political reform trends evident
+throughout state government. The governor's
+office was very restricted prior to the
+1920 constitutional changes that lifted the ban
+on the creation of additional executive agencies,
+and since the 1950s additional budgetary,
+appointive, and veto powers have been implemented.
+The effect of these changes has allowed
+the governor to contend for leadership
+in setting state policy. The major areas of judicial
+improvement involve the selection of
+judges through a three-stage state system of
+peer nomination, governor appointment, and
+voter retention, plus a centralization for administrative
+purposes of all state and local
+courts under the chief justice of the state supreme
+court. Both of these changes came in
+the 1970s. A major structural change to the
+Nebraska courts occurred in 1991 after a constitutional
+amendment was adopted that authorized
+creation of an appeals court.</p>
+
+<p>Nebraska's political culture instills in its citizenry
+a mixed set of goals and expectations.
+Normally the populace abides by a conservatism
+that sustains long periods of public support
+for existing political institutions, procedures,
+and officialdoms. The calm is altered,
+however, by occasional interruptions fueled
+by deteriorating economic conditions, especially
+in the farm sector. This accounts for the
+long electoral sway the Republican Party has
+enjoyed in the state's history, but there have
+been intervals of Democratic preponderance,
+most notably in the 1910s, 1930s, and again in
+the 1970s and 1980s. Nebraskans espouse their
+party membership (or lack thereof ) at voter
+registration time, and in 1998 the tally found
+the Republicans well ahead with 49 percent,
+Democrats with 37 percent, and Independents
+with 14 percent of the registered voters.</p>
+
+<p>The state's population base has been nearly
+flat for the past half-century and it currently
+numbers about 1,711,000; this ranks it thirty-seventh
+most populous among the states. Nebraska
+was rapidly populated by immigrants
+after the Civil War and was sustained by economic
+largess until the Great Depression.
+Since then, the combined effect of plentiful
+underground water resources for the agricultural
+sector and beneficial tax incentives
+proffered by state and city governments for
+businesses making capital investments has resulted
+in a slightly upward movement in both
+population and economic growth.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.036">Nebraska State Capitol</ref>.</p>
+
+<closer>
+<signed>Robert Sittig<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Breckenridge, Adam C. <title level="m">One House for Two: Nebraska's
+Unicameral Legislature</title>. Washington <hi rend="smallcaps">DC</hi>: Public Affairs
+Press, 1957.</bibl> <bibl>Miewald, Robert D., ed. <title level="m">Nebraska Government
+and Politics</title>. Lincoln: University of Nebraska Press, 1984.</bibl>
+<bibl>Pedersen, James F., and Kenneth D. Wald. <title level="m">Shall the People
+Rule? A History of the Democratic Party in Nebraska Politics,
+1854-1972</title>. Lincoln <hi rend="smallcaps">NE</hi>: J. North, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

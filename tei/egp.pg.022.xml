@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fall, Albert (1861-1944)</title>
+<title level="m" type="sub"></title>
+<author>Robert D. Parmet</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Parmet, Robert D.">Robert D. Parmet</author>. <title level="a">"Fall, Albert (1861-1944)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">663</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FALL, ALBERT (1861-1944)</head>
+
+<p>Albert Bacon Fall served as a U.S. senator
+from New Mexico and as secretary of the interior
+under President Warren G. Harding. He
+was born on November 26, 1861, in Frankfort,
+Kentucky. The Civil War reduced his family to
+poverty, and Fall was largely self-educated. As
+a young adult, he moved to Texas, where he
+drove cattle, cooked for cowboys, and sold
+real estate, insurance, and groceries. In 1883 he
+moved to Mexico and worked there at a mining
+job before finally settling, in 1887, on a
+ranch near Las Cruces, New Mexico. There he
+practiced law and entered politics as a Democrat.
+He served as the territory's attorney general,
+in both houses of its legislature, and on
+its supreme court. In 1912 he served as a delegate
+to the New Mexico constitutional convention.
+Though a resident of New Mexico,
+Fall established strong connections with industrial
+concerns in El Paso, Texas, and invested
+in mines in northern Mexico. He believed
+strongly in free enterprise, maintaining
+that natural resources should be exploited by
+private firms.</p>
+
+<p>Fall admired President Theodore Roosevelt
+and consequently aligned himself with the Republican
+Party. In 1912, when New Mexico became
+a state, he was elected, as a Republican,
+to serve in the U.S. Senate. There he made
+close relationships, notably with Warren G.
+Harding of Ohio, who, like Fall, was an enthusiastic
+poker player.</p>
+
+<p>After Harding was elected president in 1920,
+he chose Fall as his secretary of the interior.
+Under Fall's influence, in 1921 Harding and
+Secretary of the Navy Edwin Denby transferred
+authority over naval oil reserves at Teapot
+Dome, Wyoming, and Elk Hills, California,
+from the navy to the Interior Department,
+which then leased them to oilmen Harry F.
+Sinclair and Edward Doheny (the latter a
+friend of Fall's from his early mining days).</p>
+
+<p>In 1923 Fall resigned and returned to his
+ranch in New Mexico. The next year a Senate
+investigation disclosed that he had received
+gifts of cash, bonds, and livestock from Sinclair
+and Doheny. The courts later canceled
+the leases, and Fall was convicted of accepting
+a $100,000 bribe from Doheny. He was the
+first cabinet member convicted of a felony
+committed while in office, and he served nine
+and a half months in a Santa Fe prison. Broken
+financially and physically, he died in poverty,
+on November 30, 1944, in El Paso, Texas.</p>
+
+<closer>
+<signed>Robert D. Parmet<lb/>
+York College of the City University of New York</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bates, J. Leonard. <title level="m">The Origins of Teapot Dome: Progressives,
+Parties, and Petroleum, 1909–1921</title>. Urbana: University of
+Illinois Press, 1963.</bibl> <bibl>Stratton, David H. "New Mexico Machiavellian?
+The Story of Albert B. Fall." <title level="j">Montana</title> 7 (1957):
+2–14.</bibl> <bibl>Stratton, David H., ed. <title level="m">The Memoirs of Albert B. Fall</title>.
+El Paso: Texas Western Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

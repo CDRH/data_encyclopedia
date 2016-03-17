@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.061">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wild West Shows</title>
+<title level="m" type="sub"></title>
+<author>S. Matthew DeSpain</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.061</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Despain, S. Matthew">S. Matthew DeSpain</author>. <title level="a">"Wild West Shows."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">399&#8211;400</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">WILD WEST SHOWS</head>
+<figure n="egp.ii.061" rend="granted">
+<figDesc>"On the stagecoach, the most original vehicle in history"</figDesc>
+</figure>
+
+<p>Wild West shows, including <persName reg="Cody, William F.">Buffalo Bill</persName>'s <hi rend="italic">Wild West</hi>, <persName reg="Lillie, Gordon William (Pawnee Bill)">Pawnee Bill</persName>'s <hi rend="italic">Historical Wild West</hi>, Buckskin Bill's <hi rend="italic">Realistic Wild West</hi>, and the Miller brothers' 101 <hi rend="italic">Wild West Show</hi>, were outdoor spectacles of western pageantry that came out of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> during the last decades of the nineteenth and first decades of the twentieth centuries. The showmen who created these extravaganzas made <geogName rend="region" reg="Great Plains">Great Plains</geogName> imagery their stock-in-trade. They paraded figures like the frontier scout, the Plains Indian warrior, and the cowboy hero, touted them as "real" or "authentic," and made them central to popular views about the <geogName rend="region" reg="American West">American West</geogName> at home and abroad. Their success stemmed from Americans' nostalgia about the passing of the frontier. The shows blended myth and reality in a simplified and patriotic fashion that reinforced popular notions about the nation's Manifest Destiny, identity, and gender roles: they were scripted dramatizations about the "winning of <geogName rend="region" reg="The West">the West</geogName>."</p>
+
+<p>The character that best symbolized the winning of <geogName rend="region" reg="The West">the West</geogName> in Wild West shows was the frontier scout. The scout had been a standard hero of dime novels, but he became an even greater heroic icon through the Wild West shows. Showmen like <persName reg="Cody, William F.">William F. "Buffalo Bill" Cody</persName>, <persName reg="Lillie, Gordon William (Pawnee Bill)">Gordon W. "Pawnee Bill" Lillie</persName>, <persName reg="Carver, William F.">Dr. William F. Carver</persName>, and similar self-promoters re-created themselves as scouts. They dressed in buckskins, were portrayed as sure and quick with wit and weapons, and assumed a rough-and-tumble facade that idealized westward expansion. They represented the triumph of the forces of good and of civilization, and they were held up to spectators as models of proper American manhood. Conquest of Native Americans was central to such an image, and <persName reg="Cody, William F.">Cody</persName> particularly identified himself this way, even (ironically, given the latter's fate) by associating his image with <persName reg="Custer, George Armstrong">George Armstrong Custer</persName>.</p>
+
+<p>Plains Indians were vital to the success of Wild West shows and were prominent in their advertisements and in the shows. Advertisements for <persName reg="Cody, William F.">Cody</persName>'s show enticed crowds to come see the "horde of war-painted <orgName rend="tribe" key="tri.ara" reg="Arapaho">Arapahos</orgName>, <orgName rend="trbie" key="tri.che" reg="Cheyenne">Cheyenne</orgName>, and <orgName rend="tribe" key="tri.sio" reg="Sioux">Sioux</orgName> Indians," while <persName reg="Lillie, Gordon William (Pawnee Bill)">Lillie</persName> employed <orgName rend="tribe" key="tri.osa" reg="Osage">Osages</orgName>, <orgName rend="tribe" key="tri.paw" reg="Pawnee">Pawnees</orgName>, and <orgName rend="tribe" key="tri.kio" reg="Kiowa">Kiowas</orgName> in his show. Wild West shows depicted Plains Indian life as the antithesis to "civilized" life. They portrayed Native Americans as savages from a wild land but with a martial spirit that made them worthy adversaries, and so famous warriors became popular figures to include in show casts. <persName reg="Geronimo">Geronimo</persName> joined <persName reg="Lillie, Gordon William (Pawnee Bill)">Pawnee Bill</persName>'s show and was advertised as "The Worst Indian That Ever Lived," and <persName reg="Cody, William F.">Cody</persName>'s hiring of <persName reg="Sitting Bull">Sitting Bull</persName> in 1885 led to the <orgName rend="tribe" key="tri.sio" reg="Sioux">Sioux</orgName> being the most prized Plains Indians in Wild West shows. Always, the role of Native Americans was to attack whites and to be conquered. Many of the great set programs of the Wild West shows&#8211;"The Burning of Trapper Tom's Cabin," "The Fight at Wounded Knee," "Capture of the Deadwood Mail Coach," and "The Battle of the Little Big Horn"&#8211;featured Plains Indian attacks. These programs demonstrated to viewers that the fight for <geogName rend="region" reg="The West">the West</geogName> was complete, that force had been necessary, and that victory was certain.</p>
+
+<p>The cowboy hero, perhaps the most recognized icon of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, had his beginnings with the Wild West shows. Indeed, before <persName reg="Cody, William F.">William F. Cody</persName> presented <persName reg="Taylor, William Levi (Buck)">William Levi "Buck" Taylor</persName> to audiences, there was no popular cowboy hero. <persName reg="Cody, William F.">Cody</persName> and other Wild West showmen made the cowboy a saleable figure. Gradually, cowboys elbowed aside Native Americans and scouts as the major attractions at the shows, especially during the early twentieth century. Cowboys and cowboy skills became central to a myriad of Wild West shows, including the Millers' 101 Ranch show, with its rodeolike performances. It was on the Millers' show that Bill Pickett captivated onlookers with his sanguine art of "bulldogging" and easterner <persName reg="Mix, Tom">Tom Mix</persName> learned the cowboy-entertainer skills that he later transferred to silent Western movies.</p>
+
+<p>The heyday of the Wild West shows ended in 1913, when <persName reg="Cody, William F.">Cody</persName> and <persName reg="Lillie, Gordon William (Pawnee Bill)">Lillie</persName> dissolved their merged Two Bills show, though Wild West shows continued through the 1930s in combination with rodeos and circuses. Financial problems and the cinema's growing popularity contributed to the shows' demise. Still, before film took over as the vehicle of western imagery, millions of people experienced the "reality" of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> at various Wild West shows. The Wild West shows moved western life from the realm of history into mythology and popular culture and shaped ideas and images of <placeName rend="country" key="usa" reg="United States of America">America</placeName>'s frontier past that persist today.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">S. Matthew DeSpain<lb/>
+University of Oklahoma</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Moses, L. G. <title level="m">Wild West Shows and the Image of American Indians, 1883-1933</title>. Albuquerque: University of New Mexico Press, 1996.</bibl> <bibl>Reddin, Paul. <title level="m">Wild West Shows</title>. Urbana: University of Illinois Press, 1999.</bibl> <bibl>White, Richard. "<title level="a">Frederick Jackson Turner and Buffalo Bill</title>." In <title level="m">The Frontier in American Culture</title>, edited by James R. Grossman. Berkeley: University of California Press, 1994: 7-65.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

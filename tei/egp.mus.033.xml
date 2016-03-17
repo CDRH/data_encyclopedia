@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">National Music Museum</title>
+<title level="m" type="sub"></title>
+<author>Andr&#233; P. Larson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Larson, Andr&#233; P.">Andr&#233; P. Larson</author>. <title level="a">"National Music Museum."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">543</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIONAL MUSIC MUSEUM</head>
+<figure n="egp.mus.033" rend="granted">
+<figDesc>National Music Museum, Vermillion, South Dakota</figDesc>
+</figure>     
+
+<p>The National Music Museum is one of the great
+museums of its kind in the world. Housed in a
+carefully restored Carnegie library building on
+the campus of the University of South Dakota in
+Vermillion, the museum's ever-growing collections
+of more than 7,000 American, European,
+and non-Western instruments are the most inclusive
+in the world, rivaled only by similar
+museums in Berlin, Paris, Oxford, Rome, and
+Vienna. Included are many of the earliest, best-preserved,
+and historically most important
+musical instruments known to survive, along
+with an extensive library of rare books and
+archival materials.</p>
+
+<p>The museum serves the people of the Great
+Plains and the nation as an international center
+for collecting and conserving musical instruments
+of all cultures and bringing people
+together to study, enjoy, and understand our
+diverse musical heritage.</p>
+
+<p>It has a special responsibility to preserve
+musical instruments that were either imported
+to or built in the United States, with
+emphasis on the musical traditions of the
+Northern Great Plains. The museum's American
+musical instrument manufacturers archives
+has no rival. Complete band libraries
+from small towns in the region are preserved,
+along with many unique resources such as the
+handwritten manuscripts of the music composed
+by General Custer's bandmaster, Felix
+Vinatieri (1834–91); the compositions of one
+of the region's first serious female composers,
+Marjorie Eastwood Dudley (1891–1961); and
+the musical arrangements of Stan Fritts (1910–
+69) and the Korn Kobblers.</p>
+
+<p>Museum facilities also include a specialized
+library, state-of-the-art conservation laboratory,
+and extensive study and storage areas.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.028">Museums</ref>.</p>
+
+<closer>
+<signed>Andr&#233; P. Larson<lb/>
+University of South Dakota</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

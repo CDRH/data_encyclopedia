@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Adams, Robert (b. 1937)</title>
+<title level="m" type="sub"></title>
+<author>Gary Huibregtse</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Huibregtse, Gary">Gary Huibregtse</author>. <title level="a">"Adams, Robert (b. 1937)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">110-111</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ADAMS, ROBERT (b. 1937)</head>
+
+<p>For more than thirty years Robert Adams has
+made photographs that describe the beauty of
+the land as well as the inexorable impact of
+human activity upon it. His earlier photographs,
+as seen in the monographs <title level="m">Denver: A Photographic Survey of the Metropolitan Area</title>
+(1977) and <title level="m">From the Missouri West</title> (1980), have
+been described as bleak and forlorn. They address
+the manifestations of unchecked growth:
+tract housing, strip malls, storage buildings,
+construction sites, and scarred land. Later
+work, as found in <title level="m">Perfect Times, Perfect Places</title>
+(1988) and <title level="m">Listening to the River</title> (1994), is perhaps
+more celebratory of the space and vistas
+of the High Plains, with attention given to
+the unifying element that graces all his work:
+the enduring beauty and revelatory quality of
+light.</p>
+
+<p>Born in Orange, New Jersey, on May 8, 1937,
+Robert Adams moved with his family to Colorado
+in 1952. He lived in the Denver area until
+leaving for college in California, where he
+eventually earned a doctorate in English.
+Adams returned to Colorado in 1962 to accept
+a teaching position at Colorado College in
+Colorado Springs. Dismayed by the increasing
+destruction of familiar territory, he began
+photographing as a way to express both
+outrage and hope. He was sufficiently encouraged
+by the support of John Szarkowski at the
+Museum of Modern Art and increasing acceptance
+of his work to leave the teaching profession
+and devote his energies to his photographic
+endeavors. His work has been widely
+exhibited and was included in <title>New Topographics: Photographs of a Man-Altered Landscape</title>,
+a major exhibition held at the George
+Eastman House in 1975. With twenty-two
+publications of writing and imagery, Robert
+Adams continues to be a major influence in
+contemporary photography as well as on our
+thinking toward the land we occupy.</p>
+
+<closer>
+<signed>Gary Huibregtse<lb/>
+Colorado State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Adams, Robert. <title level="m">To Make It Home: Photographs of the American West</title>. New York: Aperture, 1989.</bibl> <bibl>Adams, Robert.
+<title level="m">What We Bought: The New World</title>. Hanover, Germany:
+Spectrum-Internationaler Pries f&#252;r Fotografie der Stiftung
+Niedersachsen, 1995.</bibl> <bibl>Green, Jonathan. <title level="m">American Photography</title>.
+New York: Harry N. Abrams, 1995.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

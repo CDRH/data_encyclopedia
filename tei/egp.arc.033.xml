@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Literary Architecture</title>
+<title level="m" type="sub"></title>
+<author>Diane Dufva Quantic</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Quantic, Diane Dufva">Diane Dufva Quantic</author>. <title level="a">"Literary Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">87</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LITERARY ARCHITECTURE</head>
+
+<p>The term <hi rend="italic">literary architecture</hi> can be defined
+in a number of ways. Three definitions can
+serve as points of reference on a continuum.
+The first definition focuses on architecture&#8211;
+structural design&#8211;in Great Plains literature.
+The structures that people live in are frequently
+a concern, especially in stories of the
+first European settlers. The dugouts and sod
+houses originate out of necessity, not preference.
+The settlers' wives especially resist living
+in the ground itself. Their reluctance springs
+not only from the inconveniences associated
+with setting up housekeeping in dark, leaking,
+bug-infested structures but, more important,
+from their cultural antipathy to living like
+burrowing animals and thereby becoming
+beastlike, uncivilized. O. E. R&#246;lvaag's novel <title level="m">Giants in the Earth</title> (1927) is a classic example of
+this aspect of literary architecture. As Per
+Hansa pursues his grandiose dreams of a
+prairie kingdom, his wife, Beret, equates their
+sod house on the open prairie with cultural
+isolation and psychological erasure.</p>
+
+<p>A second definition refers to works in
+which the design and building of a house form
+a central theme. In some instances, the conflict
+centers on the woman's dream of the
+amenities realized in a clean, fashionable
+frame house, while the man focuses on the
+acquisition of land and the equipment necessary
+to realize financial security. Ironically,
+once the family's homestead is established and
+the fine house is built, the structure often becomes
+a symbol not of fulfillment but of entrapment
+or pride, as in Frederick Manfred's
+novel <title level="m">This Is the Year</title> (1947). The grand house
+begins to crumble as soon as it is completed, a
+reminder of European Americans' misplaced
+confidence in their ability to control natural
+forces in the Great Plains. In other novels, the
+house becomes a trap or a garrison that not
+only protects the characters from the threatening
+landscape but also isolates them from
+social contact with the developing community,
+as in Martha Ostenso's <title level="m">Wild Geese</title> (1925).
+In some instances, the fortresslike structure
+provides a site for predation and greed, as
+in Mari Sandoz's novel <title level="m">Slogum House</title> (1937).
+This theme of enclosure is reworked by authors
+such as Wright Morris in <title level="m">The Home Place</title> (1948) and <title level="m">The World in the Attic</title> (1949)
+and by Larry Woiwode in <title level="m">Beyond the Bedroom Wall</title> (1975).</p>
+
+<p>A third definition focuses on the literary
+structure of Great Plains works themselves.
+Most Great Plains writers are aware of the
+complex relationship between the geography
+of place and the social structures that people
+create around themselves and in their communities.
+Although there are many variations,
+the conflicts&#8211;and characters' reactions to
+them&#8211;fall into some familiar patterns. The
+most common conflict juxtaposes a character
+who focuses on the land's promise of abundance
+or wealth against another's insistence
+on the primacy of societal values: home, family,
+community. Because Great Plains literary
+works are about a place that seems spare, the
+style of Great Plains fiction is also deceptively
+plain, but, like the intricate roots of prairie
+grasses, this plain style is often the result of the
+deliberate planning of a literary work's structure.
+Willa Cather codified this definition
+of literary architecture in her essay "The Novel
+D&#233;meubl&#233;" (1922). In the "unfurnished"
+novel, Cather declared, the artist's aim is not
+to re-create a realistic world but to select material
+and present it by a "suggestion rather
+than by enumeration." A work of art should
+enable the reader to "feel what is on the page"
+without having it specifically named. In Great
+Plains literature, the focus on the elemental
+struggle to survive and the parallel need for
+personal fulfillment within a community has
+created a body of carefully designed works.
+Cather's own novels are perhaps the best illustration
+of this third definition of literary
+architecture. Her deceptively simple stories
+reveal, upon examination, layers of "felt" but
+unarticulated realities. Other authors, most
+notably Wright Morris, have recast this unfurnished
+style in the postmodern age, relying on
+the reader's knowledge of the region's apparently
+simple surface and its underlying complexities
+as well as the Great Plains literary
+tradition to provide the framework for an appreciation
+of the region's literary architecture.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: 
+<hi rend="italic"><ref n="egp.ea.013"><title level="m">Giants in the Earth</title></ref></hi>.</p>
+
+<closer>
+<signed>Diana Dufva Quantic<lb/>
+Wichita State University<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lutwack, Leonard. <title level="m">The Role of Place in Literature</title>. Syracuse
+<hi rend="smallcaps">NY</hi>: Syracuse University Press, 1984.</bibl> <bibl>Quantic, Diane Dufva.
+<title level="m">The Nature of the Place: A Study of Great Plains Fiction</title>.
+Lincoln: University of Nebraska Press, 1995.</bibl> <bibl>Thacker, Robert. <title level="m">The Great Prairie Fact and Literary Imagination</title>. Albuquerque: University of New Mexico Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

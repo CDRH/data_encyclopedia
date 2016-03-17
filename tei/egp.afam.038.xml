@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Scott Family</title>
+<title level="m" type="sub"></title>
+<author>Cheryl Brown Henderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henderson, Cheryl Brown">Cheryl Brown Henderson</author>. <title level="a">"Scott Family."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">21</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SCOTT FAMILY</head>
+
+<p>The Scott family of Topeka, Kansas, has earned
+a special place in the legal culture of the Great
+Plains. Three generations of attorneys have
+come from their ranks, and among their
+achievements is their successful effort to secure
+the educational equality of all American
+children.</p>
+
+<p>Elisha Scott Sr. (1890&#8211;1963) was born in
+Memphis, Tennessee, the youngest of thirteen
+children. Eventually, the Scott family made
+their way to Topeka, settling on Lane Street in
+West Topeka. His mother was employed as a
+domestic worker and his father sold coal by
+the bushel and herded cattle. Elisha Scott's life
+was shaped not only by his hard-working parents
+but also through the efforts of a local,
+well-respected minister, the Rev. Charles Sheldon.
+Reverend Sheldon replaced Scott's worn
+clothing and made sure he had a few dollars in
+his pocket, but his crucial act of generosity
+came when he paid Scott's tuition at the Kansas
+Technical Institute, an all&#8211;African American
+vocational school. In 1916 Scott graduated
+from Washburn College with a degree in law.
+He was the only African American in his graduating
+class and only the third African American
+to graduate from Washburn Law School.</p>
+
+<p>Scott went on to become one of Topeka's
+most prominent attorneys. His courtroom
+flair gained him national exposure. It was not
+uncommon for his mail to be addressed simply
+as "Colored Lawyer, Topeka." Scott was
+known for taking cases that seemed impossible
+to win. He used every legal maneuver
+available to secure an acquittal. His financial
+breakthrough came in the mid-1920s when he
+successfully represented a group of African
+American and Native American clients from
+Oklahoma and Texas who had been driven off
+their land. As it turned out, the land was rich
+in oil.</p>
+
+<p>Scott and his wife, Esther, had three sons,
+John, Charles Sr., and Elisha Jr., who would
+grow up to join their father in the family law
+firm. John J. Scott (1919–1984) received his
+formal education at Topeka High School and
+the University of Kansas. After graduation,
+John followed in his father's footsteps and in
+1942 entered the law school at Washburn University.
+He completed only two years before he
+was called for active duty in World War II. In
+1946 Scott returned to Washburn University
+to complete his law degree. He graduated on
+June 8, 1947, and joined the family law firm.
+Charles Scott Sr. (1921–1989) also attended
+Topeka Public Schools and graduated from
+Topeka High School. In 1940 he began pursuing
+a career in law by enrolling at Washburn,
+only to be interrupted by World War II. During
+the war he was assigned to the all-black
+Second Calvary Division and served in southern
+France. Charles Scott and his father enjoyed
+an especially close relationship, especially
+during wartime. In 1946, after the war,
+Charles Scott reenrolled in Washburn University
+and acquired his law degree in 1948. From
+there he joined the family firm.</p>
+
+<p>During his initial years in private practice,
+Charles Scott Sr. and his father were successful
+in securing the racial integration of elementary
+schools in South Park, Johnson County,
+Kansas. Later, Charles and John represented
+plaintiffs in several cases that sought to allow
+blacks access to swimming pools, theaters,
+and restaurants in Topeka. In 1951 Charles and
+John Scott were among the attorneys who represented
+the naacp in filing their landmark
+case, <title>Brown v. The Board of Education of Topeka</title>.
+Although the case was unsuccessful in
+district court, it was won on appeal in a unanimous
+decision by the U.S. Supreme Court on
+May 17, 1954, and the principle of racially diverse
+learning environments was established.</p>
+
+<p>Only in their early thirties, Charles and
+John had gained national attention as a result
+of the <title>Brown</title> case. They probably could have
+practiced law anywhere. Charles chose to stay
+in Topeka to pursue civil and human rights
+issues, while John relocated to Washington
+dc, where he took a position in the Department
+of the Interior as assistant solicitor.</p>
+
+<p>Charles Scott Jr. (b. 1948) also followed in
+the footsteps of his father. In 1979 Charles,
+an attorney in private practice in Kansas City,
+Kansas, together with two local Topeka attorneys
+and representatives of the American Civil
+Liberties Union (<hi rend="smallcaps">ACLU</hi>), petitioned the federal
+court to reopen the original <title>Brown</title> case. Their
+purpose was to determine if Topeka Public
+Schools had ever in fact complied with the
+Supreme Court's ruling of 1954. The petition
+to reopen was in direct response to a schooldistrict
+policy allowing enrollment based on
+parental choice rather than neighborhood
+boundaries. As a result, Topeka schools were
+once again placed under legal scrutiny. In 1992
+they were ordered by the federal court to develop
+a plan to remedy all vestiges of school
+segregation. The solution included constructing
+three magnet schools, one of which is
+named for the Scott attorneys.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: 
+    <ref n="egp.law.011"><hi rend="italic">Brown v. The Board of Education of Topeka</hi></ref>.</p>
+
+<closer>
+<signed>Cheryl Brown Henderson<lb/>
+Brown Foundation for Educational Equity, Excellence and Research</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

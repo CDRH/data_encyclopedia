@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Meridian Highway</title>
+<title level="m" type="sub"></title>
+<author>Carol Ahlgren</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ahlgren, Carol">Carol Ahlgren</author>. <title level="a">"Meridian Highway."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">804</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MERIDIAN HIGHWAY</head>
+
+<p>The Meridian Highway, now U.S. Route 81, is a
+major north–south route that transects the
+Great Plains from Canada to Mexico. The highway
+follows the land division grid of the Great
+Plains from Winnipeg, Manitoba, through
+North Dakota, South Dakota, Nebraska, Kansas,
+Oklahoma, and Texas to Mexico, parallel to
+the sixth principal meridian. Established in
+1911–12, it was originally known as the Meridian
+Road. Later renamed the Meridian Highway,
+it has been called North America's first
+international automotive highway.</p>
+
+<p>The Meridian Highway evolved primarily as a
+farm-to-market road, important to the rural
+areas, small towns, and cities through which it
+passed. The original route followed section line
+roads, running perpendicular to historic east–west
+transportation corridors. Reflecting its creation
+from existing farm-to-market rural roads,
+the original highway passed through each
+county seat along its route. In 1911 the Meridian
+Road Association was formed to mark,
+map, and promote the highway; in 1919 it became
+the Meridian Highway Association. Similar
+to contemporaneous good roads organizations,
+the Meridian Highway Association
+consisted of representatives from the states,
+counties, and cities along the route. The Meridian
+Highway promoters, however, perhaps
+in recognition of its divergence from more established
+routes, emphasized the absence of
+mountain passes and proclaimed that motorists
+could travel from Canada to Mexico without
+shifting gears. The association sold memberships
+and instituted widely publicized
+tours. When the association was a year old, in
+1912, an automobile caravan was organized to
+travel the route south to Mexico, an event that
+was irregularly repeated in subsequent years.</p>
+
+<p>As a north–south route that cut through
+the heart of the Great Plains, the Meridian
+Highway was relatively unrestricted by geographic
+barriers. The highway's few major
+river crossings, therefore, were of tremendous
+importance. A significant evolution of the
+route into a modern highway was the completion
+of the Meridian Highway Bridge in 1924
+at the Missouri River between Yankton, South
+Dakota, and Nebraska.</p>
+
+<p>Like other early named highways, the Meridian
+changed from its inception with road
+improvements that included abandonment of
+the route through urban areas and the establishment
+of improved two- or four-lane sections.
+In recent years, the Meridian Highway
+Association was reestablished as the U.S. 81
+Association. Its goals include promotional activities
+to provide economic benefit for states
+and communities along the route. The association,
+however, is less concerned with preservation
+of the original route and instead
+hopes to transform U.S. 81 into a major four-lane
+north–south highway.</p>
+
+<closer>
+<signed>Carol Ahlgren<lb/>
+National Park Service</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Francis L. Long Papers, Record Group 2171, Nebraska
+State Historical Society, Lincoln <hi rend="smallcaps">NE</hi>.</bibl> <bibl><title level="m">Yankton Daily Press
+and Dakotan</title>, Meridian Highway Bridge Souvenir Edition,
+Oct. 10–11, 1924.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

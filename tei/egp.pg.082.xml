@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.082">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Texas Republic</title>
+<title level="m" type="sub"></title>
+<author>Gilbert M. Cuthbertson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.082</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cuthbertson, Gilbert M.">Gilbert M. Cuthbertson</author>. <title level="a">"Texas Republic."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">691</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEXAS REPUBLIC</head>
+
+<p>The Great Plains was in politics before politics
+was in the Great Plains. The Llano Estacado
+and the <hi rend="italic">tierras lejas</hi> (distant lands) of early
+maps caused controversy during the Texas Republic,
+the period of Texas's independent government
+that lasted from its revolution against
+Mexico in 1836 to its annexation by the United
+States in 1845. Even later, some areas in the
+Texas Plains prided themselves on only having
+been crossed by Coronado, Comanches, or
+Lipan Apaches before 1870. The power to ward
+"hostiles" of the frontier still survives in Texas's
+constitution.</p>
+
+<p>Comanche raids, including the kidnapping
+of Cynthia Ann Parker in 1836 and Matilda
+Lockhart in 1838, necessitated the protection
+of the western frontier during the Texas Republic
+and the establishment of "ranging
+companies" under Capt. John C. Hays. This
+organization began the development of the
+law enforcement officers known as the Texas
+Rangers. One of the most significant episodes
+of frontier violence was the Council
+House Fight at San Antonio of March 19, 1840.
+Representatives of the Comanche delegation
+were arrested for failing to return all of their
+captives.</p>
+
+<p>President of the Texas Republic Mirabeau
+Lamar viewed the Great Plains as part of Texas's
+"manifest destiny." Imperial Texas extended
+at least to Santa Fe. Lamar's Santa Fe
+expedition in 1841 was arrested by Mexican
+governor Manuel Armijo near Tucumcari on
+October 5. A retaliatory expedition, led by
+Jacob Snively in 1843, was halted by Capt.
+Philip St. George Cooke of the U.S. Army. Part
+of the Texas annexation settlement required
+reparations of $10 million for the seizure of
+the Snively expedition. The expedition's arrest
+was made on the Arkansas River in an area
+Texas claimed as its territory.</p>
+
+<p>During the Texas Republic only a few small
+forts were established west of San Antonio and
+the Balcones Escarpment. Defense of the trade
+routes against marauders and protection of
+settlements west of Lamar's new capital at Austin
+became major priorities after annexation.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.047">Texas Rangers</ref>.</p>
+
+<closer>
+<signed>Gilbert M. Cuthbertson<lb/>
+Rice University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fehrenbach, T. R. <title level="m">Lone Star</title>. New York: Macmillan Publishing
+Company, 1968.</bibl> <bibl>Webb, Walter Prescott. <title level="m">The Texas
+Rangers</title>. Austin: University of Texas Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

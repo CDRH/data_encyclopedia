@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.095">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Repatriation</title>
+<title level="m" type="sub"></title>
+<author>Larry J. Zimmerman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.095</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zimmerman, Larry J.">Larry J. Zimmerman</author>. <title level="a">"Repatriation."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">596-597</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">REPATRIATION</head>
+
+<p>Since the 1970s Native Americans have sought
+the repatriation of their ancestors' skeletal remains,
+burial goods, and sacred objects from
+museums and laboratories. Part of a worldwide
+Indigenous movement, Native Americans
+contend that these institutions acquired
+and retained the remains and objects in violation
+of the rights of the dead, the tribe, and
+the sacred. In response, some scholars maintain
+that the remains provide an important
+scientific and educational resource and that
+treatment of the materials has been respectful.</p>
+
+<p>The entire repatriation movement may
+have started on the fringe of the Great Plains
+in 1971. An Ihanktonwan (Yankton Sioux)
+woman, Maria Pearson, protested the differential
+treatment of Native American remains
+buried at the edge of a non-Indian, pioneer
+cemetery near Glenwood, Iowa, that
+was to be relocated for highway construction.
+While the non-Indian remains were immediately
+reburied, the Native remains were
+taken to the state archeologist's office for
+study. A court order, Governor Robert Ray's
+intervention, and substantial media coverage
+eventually allowed the remains to be reburied.</p>
+
+<p>The case prompted attention by the American
+Indian Movement (<hi rend="smallcaps">AIM</hi>) and the International
+Indian Treaty Council, which took action
+against archeologists and their excavations in
+several locations. Digs in Minnesota and Iowa
+were disrupted by aim members. However,
+other pressing matters, such as the takeover at
+Alcatraz and Wounded Knee, had turned the
+attention of aim elsewhere.</p>
+
+<p>In 1978 the discovery of the massacred remains
+of nearly 500 individuals from the prehistoric
+Crow Creek Village along the Missouri
+River in South Dakota drew international attention
+when archeologists and the Army
+Corps of Engineers–Omaha District agreed to
+rebury the remains after study. After the remains
+were reburied in 1981, many archeologists
+and human osteologists were critical
+of the agreement, contending that new techniques
+would have allowed substantially more
+information to be gleaned from the remains if
+they had been curated for eventual restudy.</p>
+
+<p>In 1982 the International Indian Treaty Council
+again turned its attention to repatriation.
+One of its members, Jan Hammil, determined
+that organizations, with the Smithsonian Institution
+as the primary example, should be
+pressured to return remains for reburial. She
+also pressured the Society for American Archaeology,
+the primary organization of professional
+archeologists in the United States, not to pass a
+resolution against repatriation. This struggle
+continued until passage of major federal repatriation
+laws in 1989 and 1990.</p>
+
+<p>During this time, several states debated or
+enacted laws dealing with repatriation. The
+most controversial case in the Plains involved
+the Pawnees' efforts to seek the return of skeletons
+and grave goods curated in the Nebraska
+State Historical Society (<hi rend="smallcaps">NSHS</hi>). In 1988 Lawrence
+Goodfox Jr. of the Pawnee Tribe of Oklahoma
+issued several requests to the <hi rend="smallcaps">NSHS</hi> for
+the repatriation of remains and burial offerings
+long held by the society. <hi rend="smallcaps">NSHS</hi> executive
+director James Hanson refused to respond to
+the tribe's request, and a long, nationally visible
+battle ensued. The Pawnees joined forces
+with other Nebraska tribes and the Native
+American Rights Fund to seek legislative relief
+that would force the <hi rend="smallcaps">NSHS</hi> to repatriate the
+remains. In 1989 the coalition eventually saw
+passage in the Nebraska legislature of the Unmarked
+Human Burial Sites and Skeletal Remains
+Protection Act (<hi rend="smallcaps">LB</hi>-340). The law required
+Nebraska public museums to return all
+tribally identifiable skeletal remains and burial
+offerings to tribes that requested them for reburial.</p>
+
+<p>Reburial opponents, led by the <hi rend="smallcaps">NSHS</hi>, campaigned
+to derail the legislation. Even after
+enactment, the <hi rend="smallcaps">NSHS</hi> opposed return of remains
+from the more distant past, in which
+determining tribal affiliation is often difficult.
+Eventually, agreements between tribes and the
+<hi rend="smallcaps">NSHS</hi> allowed the return of many more remains
+than had been originally sought.</p>
+
+<p>While the Pawnees' campaign was going on,
+the Omahas were working with Harvard University's
+Peabody Museum to seek the return of
+<hi rend="italic">Umon'hon'ti</hi>, their sacred pole. In 1888, under
+pressure to abandon their beliefs and accept
+Christianity, the Omaha tribe had turned
+Umon'hon'ti and other sacred objects, including
+the ceremonial war pipes and the sacred
+shell, over to ethnographer Alice Fletcher for
+safekeeping. Fletcher transferred them to the
+Peabody Museum. After an extraordinary
+effort on the part of the Omahas to reclaim
+their objects, the Peabody returned the pole
+in 1989 and has since returned other sacred
+objects.</p>
+
+<p>In 1989 the World Archaeological Congress
+met at the University of South Dakota for a
+forum entitled "Archeological Ethics and the
+Treatment of the Dead." Archeologists and Indigenous
+people from twenty countries and
+twenty-seven Native American nations debated
+the repatriation issue, eventually passing
+the Vermillion Accord. This accord influenced
+the passage of several provincial laws in
+Canada and ethics codes for both the World
+Archaeological Congress and the Australian
+Archaeological Association.</p>
+
+<p>In 1989 and 1990, after lengthy negotiations
+between the Native American Rights Fund,
+the National Congress of American Indians,
+the Society for American Archaeology, and
+other interested parties, the U.S. Congress
+passed two important federal laws. Targeting
+the Smithsonian, the National Museum of the
+American Indian Act (Public Law 101-185) required
+that the Smithsonian inventory its collection
+of skeletal remains so that tribes could
+claim them for repatriation. The Smithsonian
+has since returned human remains to Plains
+tribes, including the Pawnees, Cheyennes, and
+Wahpeton Sioux. In 1990 the Native American
+Graves Protection and Repatriation Act (Public
+Law 101-601) extended the earlier law to all
+federal agencies or institutions with any level
+of federal involvement. The act requires return
+of human remains, grave goods, and
+items of cultural patrimony. It also demands
+consultation with tribes and requires that a
+broader range of information, such as oral
+tradition, be considered when documenting
+cultural a.liation of remains. After several
+years of drafting operative regulations, the law
+has generally worked, although details remain
+to be worked out. Demonstrations of cultural
+affiliation have proved contentious for remains
+from the distant past, and another key
+issue is the treatment of remains found on
+private land.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.035">Native American Rights Fund</ref>
+/ <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.005">American Indian Movement</ref>.</p>
+
+<closer>
+<signed>Larry J. Zimmerman</signed>
+University of Iowa</closer>
+</div1>
+
+<div1>
+<bibl>Echo-Hawk, Walter, ed. Special Edition: Repatriation of
+American Indian Remains. <title level="j">American Indian Culture and
+Research Journal</title> 16 (1992).</bibl> <bibl>Echo-Hawk, Walter, and Roger
+Echo-Hawk. <title level="m">Battlefields and Burial Grounds: The Indian
+Struggle to Protect Ancestral Graves in the United States</title>.
+Minneapolis: Lerner Publications Company, 1994.</bibl> <bibl>Ridington,
+Robin, and Dennis Hastings. <title level="m">Blessing for a Long Time:
+The Sacred Pole of the Omaha Tribe</title>. Lincoln: University of
+Nebraska Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

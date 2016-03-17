@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Western Trail</title>
+<title level="m" type="sub"></title>
+<author>William E. Lass</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lass, William E.">William E. Lass</author>. <title level="a">"Western Trail"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">814</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WESTERN TRAIL</head>
+
+<p>The Western Trail was the long cattle trail that
+succeeded the Chisholm Trail. The boom in
+driving Texas longhorns to Kansas railheads
+started soon after the Civil War. By 1867 Abilene,
+at the end of the Chisholm Trail (sometimes
+called the Eastern Trail), was the main
+cattle market. Abilene boomed for five years,
+but farmer hostility to cattle drives and west-ward-advancing
+railroads led Chisholm Trail
+herders to shift to Newton, Wichita, and Ellsworth,
+which soon succumbed to further railroad
+advances. These circumstances coincided
+with the Atchison, Topeka and Santa Fe
+Railroad's 1872 arrival in Dodge City.</p>
+
+<p>As the new cattle market, Dodge City initially
+received its longhorns over a branch of
+the Chisholm Trail. But Texas drivers soon
+laid out the Western Trail, thereby saving
+themselves 150 miles. The new route, which
+experienced its first boom year in 1875, ran
+from near San Antonio northward by Fort
+Gri.n and then by way of a Red River crossing
+on the northern edge of present-day Wilbarger
+County and through the western part
+of Indian Territory. North of Dodge City the
+trail was extended to Ogallala, Nebraska, on
+the Union Pacific Railroad. The heyday of the
+Western Trail was 1875 to 1884. The trail north
+from Ogallala was first run to the Black Hills.
+By the early 1880s, when the Northern Pacific
+Railroad was being extended into the Yellowstone
+River valley, the Black Hills portion of
+the Western Trail was continued to the Fort
+Buford area in present-day western North Dakota,
+and another branch was opened from
+Ogallala to Miles City, Montana Territory, by
+way of Cheyenne.</p>
+
+<p>After the mid-1880s the Western Trail was
+not important. Its cattle business had been
+ruined by a combination of an outbreak of
+Texas fever, rapid advances of the farming
+frontier into grazing land during a wet cycle,
+and railroad land sales to incoming farmers.</p>
+
+<closer>
+<signed>William E. Lass<lb/>
+Mankato State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hunter, J. Marvin, comp. and ed. <title level="m">The Trail Drivers of
+Texas</title>. New York: Argosy-Antiquarian, 1963.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

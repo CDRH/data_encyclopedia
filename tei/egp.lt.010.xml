@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Children's Literature</title>
+<title level="m" type="sub"></title>
+<author>Susanne George</author>
+<author>Susan Naramore Maher</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="George, Susanne">Susanne George</author> and <author n="Maher, Susan Naramore">Susan Naramore Maher</author>. <title level="a">"Children's Literature."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">476</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHILDREN'S LITERATURE</head>
+
+<p>The most realistic children's literature about
+the Plains during the settlement period and
+into the 1920s can be found in family periodicals.
+Popular magazines such as <title level="j">St. Nicholas</title>
+and weekly newspapers like the <title level="j">Youth's Companion</title>
+highlighted the sense of adventure to
+be discovered on the Plains frontier as well as
+the uniqueness of the various Native American
+cultures.</p>
+
+<p>Although these periodicals published works
+by well-known writers of the era, a large percentage
+of the stories were by lesser-known
+writers such as Kate M. Cleary, Elia Peattie, and
+William R. Lighton, who wrote fiction about
+Nebraska; Charles Askins, John R. Spears, Elizabeth
+Grinnell, and G. W. Ogden, who set their
+stories in Kansas and Oklahoma; L. Frank
+Baum and Franklin Welles Calkins, whose stories
+depict Wyoming and the Dakotas; and Canadian
+writers Nellie McClung and Edward
+McTavish, whose tales center on Manitoba,
+and Rev. Charles W. Gordon (aka Ralph Connor),
+whose best-selling fiction represents life
+in Saskatchewan. Many authors contributed
+only one story, usually based on personal accounts
+of Plains life. Serials were especially
+popular, like <title level="m">The Little Squatters</title> by Hamlin
+Garland, <title level="m">The Boy Settlers</title> by Noah Brooks, and
+<title level="m">A Banker's Judgment</title> by Marianne Gauss.</p>
+
+<p>The typical pattern in the stories of Plains
+settlement is of an initiation, beginning with a
+physical and emotional separation as the children
+withdraw into an unknown and often
+hostile environment. The innocent pioneer
+versus the complex frontier forms the conflict.
+Although the stories about boys reaching
+manhood have various plots and settings, the
+boys' tasks are mainly physical tests. Stereotypically,
+the girls achieve a moral rather than
+physical triumph.</p>
+
+<p>Though strongly informed by this earlier
+tradition, children's literature of the Plains
+published since the 1930s has all but eclipsed
+these periodical writers. In 1932 Laura Ingalls
+Wilder, with the help of her daughter, Rose
+Wilder Lane, published <title level="m">Little House in the Big Woods</title>, commencing a family saga now
+known collectively as the Little House books.
+The genius of Wilder's vision is its blending of
+adventure and domestic realism, its positing
+of a feisty, tomboy heroine, Laura, against the
+ameliorating influence of her gentle sister,
+Mary, and her firm-handed mother, Caroline.
+Along the way, readers receive moral lessons,
+learn songs, poems, and recipes, and gain an
+understanding of schooling, farming, and
+town building on the Plains during the late
+nineteenth century. Wilder's series provided
+a narrative pattern for many other children's
+writers of the Plains, including Carol Ryrie
+Brink (<title level="m">Caddie Woodlawn</title> and <title level="m">Magical Melons</title>),
+Lois Lenski (<title level="m">Prairie School</title>), Barbara Smucker
+(<title level="m">Days of Terror</title>), Patricia MacLachlan (<title level="m">Sarah Plain and Tall</title>), Pam Conrad (<title level="m">Prairie Songs</title>,
+<title level="m">Prairie Visions</title>, and <title level="m">My Daniel</title>), Laurie Lawlor
+(the Addie series), Celia Barker Lottridge
+(<title level="m">Ticket to Curlew</title>), Kathryn Lasky (<title level="m">The Bone Wars</title>), Cecil Freeman Beeler (<title level="m">The Girl in the Well</title>), and Charlene Joy Talbot (<title level="m">An Orphan for Nebraska</title>). Adventure writers like Texan Fred
+Gipson (<title level="m">Old Yeller</title>) continue the tradition of
+the male initiation story, yet even Gipson's classic
+novel centers its dramatic plot around the
+stability of home and a strong mother figure.</p>
+
+<p>Though the history of settlement preoccupies
+children's writers of the Plains, a number
+of other significant genres emerged in the
+twentieth century. In particular, this literature
+has attempted to provide a more accurate and
+humane depiction of Plains tribes than found
+in many settlement novels. Native and non-
+Native writers alike have worked to replace
+stereotypes and misrepresentations of Native
+American life with truthful, unedited retellings
+of oral tales and balanced portraits of life
+in biographies and fiction. Mari Sandoz (<title level="m">The Horsecatcher</title>, <title level="m">The Story Catcher</title>), Virginia
+Driving Hawk Sneve (<title level="m">Betrayed</title>, <title level="m">When Thunders Speak</title>), Maria Campbell (<title level="m">People of the Buffalo</title>), and Paul Goble (<title level="m">The Girl Who Loved Wild Horses</title>) have added immeasurably to
+children's appreciation of Native American/
+First Nations history, oral storytelling, and art.</p>
+
+<p>Some Plains children's writers focus on
+contemporary life with all its attendant problems
+and challenges. In 1967 Oklahoma writer
+S. E. Hinton changed the course of contemporary
+young adult literature with her gritty first
+novel, <title level="m">The Outsiders</title>. Ivy Ruckman's bestselling
+<title level="m">Night of the Twisters</title> re-creates modern
+Grand Island, Nebraska, during the hours of a
+natural disaster. To this day, literary realism
+defines children's literature of the Plains. Even
+the Oz stories of the great fantasist L. Frank
+Baum bear the imprint of realism. However,
+Native American writers for children are now
+adding the fabric of vision, myth, and legend
+to this tradition of realism, countering European
+American myths of settlement and creating
+new narrative patterns inspired by oral
+storytelling.</p>
+
+<closer>
+<signed>Susanne George<lb/>
+University of Nebraska at Kearney<lb/>
+Susan Naramore Maher<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ha.015 SYSTEM "egp.ha.015.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gonzales, Corky (b. 1928)</title>
+<title level="m" type="sub"></title>
+<author>Linda Van Ingen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ingen, Linda Van">Linda Van Ingen</author>. <title level="a">"Gonzales, Corky (b. 1928)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">356-357</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GONZALES, CORKY (b. 1928)</head>
+
+<figure n="egp.ha.015" rend="granted">
+<figDesc>Corky Gonzales (under banner) speaks at war protest in front of the capitol, Denver, Colorado, 1970.</figDesc>
+</figure>
+
+<p>Rodolfo "Corky" Gonzales is best known for
+his contribution to the Chicano movement.
+Born in Denver, Colorado, on June 18, 1928,
+Gonzales became one the most dynamic and
+influential leaders of the Mexican American
+struggle for self-determination and cultural
+pride in the 1960s and 1970s.</p>
+
+<p>The son of a migrant father from Chihuahua,
+Mexico, Gonzales grew up in a Denver
+barrio amid poverty, discrimination, and hard
+work. His mother died when he was two years
+old, leaving Gonzales, the youngest child, in
+the care of his father and seven siblings. Nicknamed
+"Corky" at a young age by one of his
+older brothers, Gonzales spent much of his
+youth working alongside family members in
+the sugar beet and potato fields of northern
+and southern Colorado.</p>
+
+<p>Gonzales attended numerous public schools
+in the Denver area. In 1944, at age sixteen, he
+graduated from Denver's Manual High School.
+Gonzales completed one term at the University
+of Denver but found the costs of further attendance
+prohibitive. Nevertheless, he pursued
+knowledge, learning not only from his experiences
+and the many people he met but also
+from reading the likes of Federico García
+Lorca, Pablo Neruda, John Steinbeck, and Ernest
+Hemingway. Gonzales's intellectual and
+creative capacity is evident in his many writings—
+hundreds of speeches, letters, and editorials,
+two plays, and many poems. His widely
+read poem, "I Am Joaqu&#237;n," first published in
+1967, has become one of the major pieces of
+Chicano literature. Revealing the cultural and
+spiritual conflicts in the Chicano identity, the
+poem inspired Chicano pride and activism.</p>
+
+<p>Gonzales developed a strong, charismatic
+presence early in life. He drew crowds as an
+amateur boxer and became one of the best
+fighters of the time. He won the National Amateur
+Athletic Union Bantamweight Championship
+in 1947, and until 1955 fought professionally
+in featherweight divisions, with
+seventy-five wins, nine losses, and one draw.
+In 1988 Gonzales was inducted into the Colorado
+Sports Hall of Fame, the first Latino to be
+so honored.</p>
+
+<p>Gonzales's first foray into politics centered
+around the Democratic Party. He campaigned
+for Quigg Newton for Denver mayor in 1947,
+and as a district captain in Denver County he
+organized Latino support for the Democratic
+Party in the 1950s. In 1960 he led the Colorado
+"Viva Kennedy" campaign. Gonzales himself
+ran unsuccessfully for office, including a bid
+for Denver City Council in 1955, the Colorado
+House of Representatives in 1964, and mayor
+of Denver in 1967. In 1965 he was appointed
+director of Denver's War on Poverty.</p>
+
+<p>Increasingly frustrated by partisan wrangling,
+Gonzales publicly resigned from the
+Democratic Party in 1967. He had begun to
+shift his focus to the Crusade for Justice, which
+he and other community activists founded in
+1966. A grassroots, human-rights cultural center
+located in Denver, the Crusade for Justice
+became an important site for Chicano activism.
+Gonzales represented the organization
+throughout the nation, as he gave speeches,
+conducted forums, and otherwise inspired
+and organized Chicanos to action. Under his
+leadership, the Crusade for Justice hosted
+three annual National Chicano Youth Liberation
+conferences. More than 1,500 Chicano
+youths attended the first conference in 1969.
+They produced goals for the Chicano movement
+and introduced the concept of Aztl&#225;n in
+the document <hi rend="italic">Espiritual de Aztl&#225;n</hi>. Gonzales
+purposely focused on the younger generation
+of Mexican Americans, finding them receptive
+to his major themes of Chicano nationalism,
+self-determination, and cultural and historical
+pride.</p>
+
+<p>In 1970 Gonzales formed the Colorado La
+Raza Unida Party, a third-party political organization
+dedicated to the goals of the Chicano
+movement. At the party's first national convention
+in El Paso, Texas, in 1972, Gonzales
+vied unsuccessfully against Texas La Raza
+leader Jos&#233; Angel Guti&#233;rrez for the national
+chairmanship. At issue in the campaign was
+Gonzales's emphasis on ethnic nationalism
+against Guti&#233;rrez's political pragmatism.</p>
+
+<p>While becoming a significant public leader
+of the Chicano movement, Gonzales remained
+dedicated to his family in Colorado. In 2001 he
+celebrated more than fifty years of marriage to
+his wife, Geri Romero de Gonzales, with his
+eight children, eighteen grandchildren, and
+many great-grandchildren. Although slowed
+by a serious automobile accident in 1988 and
+heart surgery in 1989, Gonzales remains active
+and is working on his autobiography.</p>
+
+<closer>
+<signed>Linda Van Ingen<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gonzales, Rodolfo "Corky." <title level="m">Message to Aztl&#225;n: Selected Writings of Rodolfo "Corky" Gonzales</title>. Houston: Arte P&#250;blico
+Press, 2001.</bibl> <bibl>Mar&#237;n, Christine. <title level="m">A Spokesman of the Mexican American Movement: Rodolfo "Corky" Gonzales and the Fight for Chicano Liberation, 1966–1972</title>. San Francisco:
+<hi rend="smallcaps">R</hi> and <hi rend="smallcaps">E</hi> Research Associates, 1977.</bibl> <bibl>Vigil, Ernesto V.
+<title level="m">The Crusade for Justice: Chicano Militancy and the Government's War on Dissent</title>. Madison: University of Wisconsin
+Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

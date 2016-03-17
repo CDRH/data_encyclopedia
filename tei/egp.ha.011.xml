@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">de Baca, Fabiola Cabeza (1898-1933)</title>
+<title level="m" type="sub"></title>
+<author>Bewcky Jo McShane</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McShane, Becky Jo">Becky Jo McShane</author>. <title level="a">"de Baca, Fabiola Cabeza (1898-1933)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">355</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DE BACA, FABIOLA CABEZA (1898-1933)</head>
+
+<p>Fabiola Cabeza de Baca was born on the de
+Baca family land grant on the Llano Estacado
+in northeastern New Mexico on May 16, 1898.
+When she was four years old, de Baca's mother
+died and her paternal grandmother, a traditional
+Hispana of the <hi rend="italic">patr&#237;n</hi> (elite) class,
+became her primary caregiver. She grew up
+speaking Spanish, English, and two Pueblo
+dialects&#8211;Tewa and Tiwa&#8211;fluently.</p>
+
+<p>In 1921 de Baca received a degree in pedagogy
+from New Mexico Normal University
+and taught in the New Mexico public school
+system for several years. In 1929 she received a
+degree in home economics from New Mexico
+State University in Las Cruces. From 1929 to
+1959 she worked as a home demonstration
+agent for the New Mexico State Extension Service,
+serving the Hispanic and Pueblo villages
+of northern New Mexico. There she founded
+clubs for women and children, taught nutrition,
+and organized marketing of craft products.
+In 1939 de Baca married Carlos Gilbert,
+an insurance agent.</p>
+
+<p>Throughout her career as a practicing home
+economist, de Baca wrote several books and
+articles about folkways and culinary traditions
+among Hispanos. Her 1939 book <title level="m">Historic Cookery</title>, based on observations in New Mexico
+village kitchens, eventually sold more than
+100,000 copies. All of her writing furthered her
+cause of preserving Hispanic traditions and
+correcting American history, which she felt either
+neglected New Mexican Hispanos or misrepresented
+them.</p>
+
+<p>In 1954 she published We Fed Them Cactus,
+her most autobiographical narrative and the
+book for which she is best known. The title
+refers to an incident that marked the end of an
+era for New Mexican Hispanos. Because of
+social, economic, and natural conditions&#8211;
+drought and the influx of American ranchers
+and homesteaders in the Plains in the late
+nineteenth century&#8211;her family was forced to
+feed cactus to their cattle. This tragedy calls
+attention to the communal bonds of Hispanic
+tradition and encourages Hispanos to remember
+a better way of life. Ultimately, <title level="m">We Fed Them Cactus</title> imagines an egalitarian society
+in which all Hispanos, from <hi rend="italic">empleado</hi> (laborer)
+to <hi rend="italic">patr&#237;n</hi>, live in cultural harmony.
+Fabiola Cabeza de Baca died in 1993, after
+spending her final years in a home for the
+elderly in Albuquerque.</p>
+
+<closer>
+<signed>Becky Jo McShane<lb/>
+Salt Lake City, Utah</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>de Baca (Gilbert), Fabiola Cabeza. <title level="m">Historic Cookery</title>. 1939.</bibl>
+<bibl>Reprint, Las Vegas <hi rend="smallcaps">NM</hi>: La Galeria de los Artesanos, 1970.</bibl>
+<bibl>de Baca, Fabiola Cabeza. <title level="m">We Fed Them Cactus</title>. Albuquerque:
+University of New Mexico Press, 1954.</bibl> <bibl>Poythress,
+Stephanie. "Fabiola Cabeza de Baca Gilbert." In <title level="m">Notable Hispanic American Women</title>, edited by Diane Telgen and
+Jim Kamp. Detroit: Gale Research, Inc. 1993: 178–79.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

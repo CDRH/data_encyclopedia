@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cochran, Eddie (1938-1960)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Cochran, Eddie (1938-1960)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">535</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COCHRAN, EDDIE (1938-1960)</head>
+<figure n="egp.mus.009" rend="granted">
+<figDesc>Musician Eddie Cochran </figDesc>
+</figure>     
+
+<p>Eddie Cochran, the pioneering rock and roll
+songwriter, singer, and guitarist with the
+James Dean good looks, was a product of a
+Plains background, even though his place of
+birth remains disputed. Some rock references
+maintain that he was born in Oklahoma City;
+others have him coming into the world in Albert
+Lea, Minnesota. The date, October 3,
+1938, is not in dispute, nor is the fact that his
+parents moved from Oklahoma City to Albert
+Lea at some point during the 1930s. Cochran
+himself claimed Oklahoma City as his hometown,
+and the country and western music that
+his parents absorbed in Oklahoma was a formative
+influence on the young musician.</p>
+
+<p>By the time the family moved on to California
+in 1953, Eddie Cochran had become an
+accomplished guitarist. He started his career as
+backup guitarist to hillbilly singer Hank Cochran
+(not related), but his big break came when
+he teamed up with songwriter Jerry Capehart
+and obtained a recording contract with Liberty.
+The hits started coming in 1957, and he
+soared into prominence in 1958 with "Summertime
+Blues," that raucous outburst of teenage
+frustration and rebelliousness. More hits
+followed, including "C'mon Everybody" and
+"Somethin' Else," and Cochran seemed positioned
+to move up alongside Elvis Presley as a
+superstar when, in 1960, he embarked on a
+tour of Britain with his friend Gene Vincent.
+The tour was a great success; both artists were
+already superstars in Britain. Cochran played
+his last concert at the Bristol Hippodrome on
+April 16. The following day, Easter Sunday,
+on the way to Heathrow Airport, their car
+crashed into a lamppost, killing Cochran and
+badly injuring Vincent.</p>
+
+<p>Eddie Cochran, despite his early death, had
+a lasting impact on rock music. Many artists,
+including the Sex Pistols and, most famously,
+the Who, have recorded his songs. He was inducted
+into the Rock and Roll Hall of Fame in
+1987.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

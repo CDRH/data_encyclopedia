@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Petro-Canada</title>
+<title level="m" type="sub"></title>
+<author>Barry Ferguson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ferguson, Barry">Barry Ferguson</author>. <title level="a">"Petro-Canada."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">429</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PETRO-CANADA</head>
+
+<p>Petro-Canada is an integrated petroleum corporation
+based in Calgary, Alberta. It combines
+"upstream" oil and gas exploration and
+refining with a "downstream" national chain
+of service stations. Petro-Canada is the second
+largest petroleum company in Canada and the
+largest Canadian-owned operation.</p>
+
+<p>Petro-Canada, founded in 1975 as a petroleum
+exploration company, was owned by the
+federal government. During the 1970s and
+early 1980s, the world was preoccupied by the
+issues of oil and gas scarcity and cost, and
+Canada was divided by debates about the effects
+of foreign ownership as well as by federal-provincial
+disputes over petroleum taxation
+and export regulations. As a result, and unlike
+many "crown corporations" created by federal
+and provincial governments in strategic industries
+in twentieth-century Canada, Petro-
+Canada was less a conventional state enterprise
+than an instrument of specific national policy
+in two key ways. First, Petro-Canada was capitalized
+by the federal treasury through direct
+cash transfers rather than by bond issues. The
+company acquired a number of Canadian subsidiaries
+of international oil firms, including
+Atlantic Richfield in 1976, Pacific Petroleum
+in 1979, Petrofina in 1981, and British Petroleum
+in 1983. Second, when the government of
+Canada created a new National Energy Programme
+(<hi rend="smallcaps">NEP</hi>) in 1980, a statist reaction to the
+energy crisis, the nep granted Petro-Canada
+the federal share of oil and gas prospects on all
+federal crown land, including Arctic and Atlantic
+offshore prospects as well as a share of
+Syncrude Canada's northern Alberta bituminous
+sands synthetic oil.</p>
+
+<p>The federal election of 1984 saw a change of
+government and national energy policy. The
+new policies of fiscal restraint, free trade, and
+privatization reoriented Petro-Canada to a
+more conventional petroleum company. In
+1991 it issued common shares, creating private
+ownership in about 20 percent of the company.
+In 1995 a larger issue of shares reduced the
+federal government stake to below 20 percent.
+The company acquired other firms, including
+Gulf Canada's service stations in 1985 and the
+Amerada Hess holdings in 1995. Petro-Canada
+is the operator of the large Hibernia oil field,
+which became the first producing field in the
+Atlantic offshore in 1997, and is currently developing
+other offshore fields as well as a new
+bituminous sands project.</p>
+
+<closer>
+<signed>Barry Ferguson<lb/>
+University of Manitoba</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fossum, John E. <title level="m">Oil, the State, and Federalism: The Rise and Demise of Petro-Canada as a Statist Impulse</title>. Toronto:
+University of Toronto Press, 1997.</bibl> <bibl>Foster, Peter. <title level="m">Self-Serve: How Petro-Canada Pumped Canada Dry</title>. Toronto: Macfarlane,
+Walter and Ross, 1992.</bibl> <bibl>Petro-Canada, Annual Reports,
+1976–2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

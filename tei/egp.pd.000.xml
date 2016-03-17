@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pd.000 SYSTEM "egp.pd.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Protest and Dissent</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Protest and Dissent</head>
+
+<figure n="egp.pd.000" rend="granted">
+<figDesc>Meeting at Victoria Park, Winnipeg, Manitoba, June 13, 1919</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.pd.001">Protest and Dissent</ref></item>
+<item><ref n="egp.pd.002">Aberhart, William</ref></item>
+<item><ref n="egp.pd.003">Amazon Army</ref></item>
+<item><ref n="egp.pd.004">American Agriculture Movement</ref></item>
+<item><ref n="egp.pd.005">American Indian Movement</ref></item>
+<item><ref n="egp.pd.006">Ameringer, Oscar</ref></item>
+<item><ref n="egp.pd.007"><hi rend="italic">Appeal to Reason</hi></ref></item>
+<item><ref n="egp.gen.003">Barnard, Kate <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.pd.009">Bloor, Ella R.</ref></item>
+<item><ref n="egp.rel.007">Branch Davidians <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.pd.011">Browder, Earl</ref></item>
+<item><ref n="egp.pd.012">Brown, John</ref></item>
+<item><ref n="egp.pd.013">Cannon, James Patrick</ref></item>
+<item><ref n="egp.gen.009">Colby, Clara</ref></item>
+<item><ref n="egp.pd.015">Cowboy Strike of 1883</ref></item>
+<item><ref n="egp.asam.011">Denver's Anti-Chinese Riot <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.pd.017">Doctors' Strike</ref></item>
+<item><ref n="egp.pd.018">Estevan Strike</ref></item>
+<item><ref n="egp.pd.019">Farmers Alliance</ref></item>
+<item><ref n="egp.pd.020">Farmers Holiday Association</ref></item>
+<item><ref n="egp.pd.021">Finley, Ira</ref></item>
+<item><ref n="egp.pd.022">Freemen</ref></item>
+<item><ref n="egp.pd.023">Garner, Elmer</ref></item>
+<item><ref n="egp.pd.024">Grain Growers Associations</ref></item>
+<item><ref n="egp.pd.025">Grange</ref></item>
+<item><ref n="egp.pd.026">Green Corn Rebellion</ref></item>
+<item><ref n="egp.pd.027">Haire, Robert</ref></item>
+<item><ref n="egp.pd.028">Harper, Elijah</ref></item>
+<item><ref n="egp.pd.029">Industrial Workers of the World</ref></item>
+<item><ref n="egp.pd.030">Junta de Indignacion</ref></item>
+<item><ref n="egp.pd.031">Ku Klux Klan</ref></item>
+<item><ref n="egp.pd.032">Lease, Mary Elizabeth</ref></item>
+<item><ref n="egp.pd.033">Malcolm X</ref></item>
+<item><ref n="egp.pd.034">Martinson, Harry</ref></item>
+<item><ref n="egp.pd.035">McGrath, Tom</ref></item>
+<item><ref n="egp.pd.036">Nation, Carry</ref></item>
+<item><ref n="egp.pd.037">National Congress of American Indians</ref></item>
+<item><ref n="egp.pd.038">National Farmers Union</ref></item>
+<item><ref n="egp.pd.039">Nonpartisan League</ref></item>
+<item><ref n="egp.pd.040">O'Hare, Kate Richards</ref></item>
+<item><ref n="egp.pd.041">Oklahoma City Bombing</ref></item>
+<item><ref n="egp.afam.032">Omaha Race Riot <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.pd.043">On-to-Ottawa Trek</ref></item>
+<item><ref n="egp.pd.044">Partridge, Edward A.</ref></item>
+<item><ref n="egp.pd.045">Posse Comitatus</ref></item>
+<item><ref n="egp.pd.046">Reed, Myron</ref></item>
+<item><ref n="egp.pd.047">Riel, Louis</ref></item>
+<item><ref n="egp.pd.048"><hi rend="italic">Silkwood v. Kerr-McGee Corporation</hi></ref></item>
+<item><ref n="egp.pd.049">Strong, Anna Louise</ref></item>
+<item><ref n="egp.gen.037">Suffrage Movement <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.pd.051">Temperance Movement</ref></item>
+<item><ref n="egp.pd.052">Townley, Arthur C.</ref></item>
+<item><ref n="egp.pd.053">Trial of Standing Bear</ref></item>
+<item><ref n="egp.afam.041">Tulsa Race Riot <hi rend="italic">See</hi ><hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.pd.055">United Farmers of Alberta</ref></item>
+<item><ref n="egp.pd.056">United Farmers of Canada, Saskatchewan Section</ref></item>
+<item><ref n="egp.pd.057">Winnipeg General Strike</ref></item>
+<item><ref n="egp.pd.058">Winrod, Gerald</ref></item>
+<item><ref n="egp.pd.059">Women of All Red Nations</ref></item>
+<item><ref n="egp.pd.060">Wood, Henry Wise</ref></item>
+<item><ref n="egp.pd.061">Woodsworth, James Shaver</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

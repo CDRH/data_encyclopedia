@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.001.01 SYSTEM "egp.ag.001.01.jpg" NDATA jpeg>
+<!ENTITY egp.ag.001.02 SYSTEM "egp.ag.001.02.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agriculture</title>
+<title level="m" type="sub"></title>
+<author>John C. Hudson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hudson, John C.">John C. Hudson</author>. <title level="a">"Agriculture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">27-32</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AGRICULTURE</head>
+
+<p>The Great Plains is an agricultural factory
+of immense proportions. Between the yellow
+canola fields of Canada's Parkland Belt and the
+sheep and goat country of Texas's Edwards
+Plateau, more than 2,000 miles to the south,
+lie a succession of agricultural regions that
+collectively produce dozens of food and fiber
+products. The most important Great Plains
+crop is wheat. Although the United States
+and Canada together produce slightly less
+wheat than China (the world's leading wheat
+grower), the two North American countries
+account for more than half of the world's
+wheat exports. Barley, canola, corn, cotton,
+sorghum, and soybeans grown in the Great
+Plains also reach markets around the world.</p>
+
+<p>Agriculture has long been the life force of
+the Great Plains economy. Although manufacturing
+employs more people than agriculture
+in some parts of the Great Plains today,
+many urban industries rely on the region's
+farms and ranches for the raw materials they
+process. One has to look back several thousand
+years, to a time when plains inhabitants
+were mainly nomadic hunters, to find an era
+when agriculture did not figure prominently
+in the region's pattern of human occupation.
+Some Native North American groups depended
+on agriculture as much as the European
+Americans who displaced them.</p>
+</div1>
+
+<div1>
+<head type="sub">Native American Agriculture</head>
+
+<p>Cultivation of domesticated plants was a relatively
+late innovation in the Great Plains compared
+to the southeastern and southwestern
+regions of North America. By A.D. 850, semisedentary
+horticultural villages dotted the
+banks of the Missouri River and its tributaries
+as far north as the Knife River in present-day
+North Dakota on the Northern Plains. These
+settlements were a result of migration and diffusion
+from the Mississippian cultural complex
+to the east. However, agriculture in the
+Great Plains has always been a risky business
+threatened by drought, grasshoppers, and early
+frosts. For that reason early farmers did not
+depend entirely on the produce of their gardens;
+rather, they hunted bison and other
+game and supplemented their diets with meat
+and diverse wild plants.</p>
+
+<p>Villages were located on the bluffs and terraces
+overlooking the gardens, which were
+carved into the fertile floodplains below.
+Maize was the most important food crop produced,
+but gardens also included a wide variety
+of beans and squash. Some of the earliest
+domesticates on the Plains were amaranth,
+chenopods, and sunflowers. Tobacco, central
+to ritual life in many tribes, was a highly valued
+crop and trade item as well. The annual
+cycle of village life revolved around the planting,
+hoeing, harvesting, and processing of
+their crops. The architecture, implements,
+and other technologies associated with this
+early agricultural lifestyle in the Great Plains
+were remarkably uniform: semisubterranean
+earth lodge villages, bison scapula hoes, and
+ceramic pots used to cook corn and beans.</p>
+
+<p>One of the secrets of the longevity of this
+lifestyle among Native groups was the sophisticated
+risk-management strategies employed
+by the farmers, who were mostly women. Archaeological
+and ethnographic records reveal
+careful development of a wide variety of
+maize, beans, and squash, specifically selected
+to produce under different conditions. The
+Mandans, for example, planted at least thirteen
+varieties of corn at the time of contact
+with European Americans. In addition, their
+gardens were widely dispersed geographically
+and were intercropped. For example, beans
+were planted among the corn because beans
+returned essential nitrogen to soils depleted by
+corn production.</p>
+
+<p>The first harvest of the season was the green
+corn harvest, which typically began in mid-August. The green corn was roasted or boiled,
+shelled using clam shells, and spread out to
+dry in the sun. Corn was used sparingly when
+other foods were available. The dried corn
+was usually boiled with beans, squash, or
+dried meat. Occasionally, it was processed
+with mortar and pestle to make cornmeal.
+Particularly good ears were chosen carefully
+and saved as seed corn for the following year's
+gardens.</p>
+
+<p>The major harvest of the season was the
+ripe corn harvest in late September and October.
+The corn was husked, and fifty or more
+brightly colored ears were braided together
+and hung on drying scaffolds in the villages.
+After the corn was dried, it was stored either
+in parfleches or in the numerous bell-shaped
+cache pits located under the floors of the earth
+lodges. The cache pits could hold twenty to
+thirty bushels of corn, beans, sunflower seeds,
+dried pumpkins, or squash. Yields varied from
+year to year and from region to region, but
+most fields produced an average of twenty
+bushels per acre. A good harvest encouraged
+mutually beneficial trading with the bisonhunting
+nomads of the Plains.</p>
+</div1>
+
+<div1>
+<head type="sub">Early Commercial Agriculture</head>
+
+<p>Some crops perform better in one environment
+than in another. This obvious fact was
+learned early in the European American settlement
+of the Great Plains, and it has been
+relearned in various ways since. Not only is
+the Plains region too dry on average for the
+production of a number of crops, but it also
+receives a highly variable amount of moisture
+from year to year. Thus, even crops that do not
+demand significant amounts of moisture may
+wither in certain years when moisture is insufficient.
+Corn became the staple crop of European
+Americans who learned how to cultivate
+it from the Native peoples along the Atlantic
+seaboard. As migrants moved westward into
+the Great Plains after 1854, they brought with
+them familiar "American" practices such as
+raising livestock, which also required that they
+produce a corn crop for feed.</p>
+
+<p>Corn and wheat became the most important
+crops of the Plains, just as they had been
+in the more humid eastern states. The importance
+of hogs in the Middle West was paralleled
+by beef cattle in the Great Plains, and
+cattle typically were fattened for market on
+corn just like hogs. Wheat was not grown for
+consumption by farm animals, but rather as a
+cash crop that would bring the farmer a sure
+return at the market. Farming practices introduced
+to the Great Plains by settlers coming
+from the East thus involved no radical changes
+in established patterns.</p>
+
+<p>When new lands that had never been cultivated
+were put into crops by homesteading
+farmers, it was necessary to "break" the land
+with a large plow that was capable of turning
+over the thick prairie sod. Breaking the
+land was demanding work that required many
+teams of draft animals. Broken land often was
+planted with sod corn, which tolerated weeds.
+After a few years of cultivation, however, the
+land surface was easily worked with smaller
+farm implements, and a variety of food crops
+including wheat, flax, and corn could be
+planted.</p>
+
+<p>Several traditions of wheat culture were
+brought to the Great Plains. Early settlers from
+Minnesota, Ontario, Wisconsin, and places
+farther east brought spring wheat to the
+Northern Great Plains and the Canadian Prairies,
+where it was (and still is) the most common
+variety grown. It is planted in the spring
+as soon as fields are dry enough to work and
+harvested in the fall before the weather turns
+cold. In Canada, Marquis wheat, a hard northern
+spring variety, became the preferred crop.</p>
+
+<p>In the Central Great Plains the original
+bread-grain crop was soft winter wheat, which
+was brought to Kansas by migrants from
+Pennsylvania, Ohio, and Missouri. Winter
+wheat is sown in the fall, allowed to overwinter
+in the ground, and then resumes its growth the
+following spring. It is typically harvested in the
+early or midsummer months.</p>
+
+<p>A third type of wheat, Turkey Red wheat,
+was brought to central Kansas in the early
+1870s by German Mennonites who had recently
+immigrated from southern Russia. This
+was a hard winter wheat that produced a superior
+bread grain, like the hard spring wheats
+of the north. Turkey Red wheat eventually became
+the favored variety in the Central and
+Southern Great Plains.</p>
+
+<p>The first cattle to graze the pastures of
+the Great Plains were the mixed breeds that
+were brought to the Americas by the Spanish.
+These mixed-blood (or <hi rend="italic">criollo</hi>) cattle were
+a unique breed from the West Indies that
+had evolved as the result of crossbreeding. Of
+the <hi rend="italic">criollo</hi> cattle, the best-known were the
+semiwild Texas longhorns. Beginning in the
+1860s longhorns were rounded up in Texas for
+trail drives north to railheads in cities such
+as Abilene and Dodge City, Kansas, and then
+shipped east.</p>
+
+<p>Although the longhorn's story forms a colorful
+chapter in the history of the Great
+Plains, they were not economically important
+after the 1880s. Cattle and sheep breeds introduced
+from England and Scotland were the
+foundation stock of most herds from the middle
+of the nineteenth century onward. Sheep
+grazing was especially well suited to the shortgrass
+prairies of Wyoming, Montana, and Alberta.
+Cattle breeds, such as the Aberdeen Angus and Hereford ("whiteface"), were brought
+to the Great Plains by cattlemen who in the
+early years of settlement sought to establish
+large herds on millions of grazing acres. The
+ranching style they introduced was implemented
+over much of the western shortgrass
+Plains, especially in the Dakotas, Wyoming,
+and Alberta.</p>
+
+<p>Many of the early sheep ranchers and cattle
+barons were from Scotland and Ireland where
+pastures were far better suited to grazing animals
+than to raising crops. Thus the Scots and
+Irish continued a long-established tradition
+by focusing on livestock rather than crop production
+on the Plains. It was settlers from England,
+Germany, and the agricultural lands
+of central and eastern Europe who brought a
+knowledge of crop farming with them, and it
+was they who introduced most of the varieties
+of wheat to the Great Plains. They continued
+the tradition of agriculture they had practiced
+in Europe.</p>
+</div1>
+
+<div1>
+<head type="sub">Droughts</head>
+
+<p>Livestock grazing is less affected by drought
+than is crop farming, but it was farming that
+inspired the large number of settlers to come
+to the Great Plains during the second half of
+the nineteenth century. The region's agricultural
+history has frequently involved attempts
+to cope with droughts. Unpredictable dry
+years can lead to a series of crop failures and,
+eventually, the failure of settlement itself.</p>
+
+<p>Early farmers on the Plains had poor
+weather records to guide them in choosing the
+best crops to plant. They selected the crops
+with which they had success elsewhere, but
+their previous farming experience was not always
+a reliable guide. For example, in the 1870s
+and 1880s farmers in Kansas debated whether
+to plant winter wheat or corn as their primary
+crop. Wheat was harvested early in the season,
+before summer droughts did their worst damage.
+Corn was subject to summer drought but
+was less affected by spring freezes because
+it was planted later, after the ground was
+warm. As a result, the best wheat crops frequently
+came during years when corn suffered.
+Droughts in the 1890s heralded a period
+of decline in the number of acres devoted to
+corn production in the Great Plains; the trend
+was not reversed until irrigation became more
+common in the 1960s.</p>
+
+<p>The most drought-resistant crops often
+have been the ones that have triumphed in the
+Great Plains. Sorghum (or milo) was introduced
+on the Plains because it produces grain
+under the same drought conditions that cause
+corn to wither. Sorghum became a major
+source of cattle feed in the Southern Great
+Plains after seed companies introduced it in
+an improved, hybrid form in Texas and Oklahoma
+in the 1950s. Most varieties of wheat
+and barley are fairly drought tolerant; consequently
+these crops are grown in the drier,
+western plains. Corn, soybeans, cotton, and
+sugar beets demand a great deal of moisture.
+These crops are always irrigated when grown
+in the drier, western parts of the region but are
+grown frequently on the eastern Plains, where
+irrigation is not a necessity.</p>
+
+<p>The causes of prolonged drought are not
+well understood. Wet and dry years often
+come in series that span several seasons. Persistent
+droughts occurred during the 1890s
+and 1930s and in response both of those decades
+witnessed an abrupt outward-migration
+of people from the Plains. The most serious
+problems developed in southwestern Kansas,
+eastern Colorado, and the Oklahoma and
+Texas Panhandles, an area that became known
+as the Dust Bowl in the 1930s because the combination
+of drought, overcultivation, and excessive
+grazing had removed so much of the
+plant cover that soil surfaces became completely
+open to wind erosion.</p>
+
+<p>Attempts to make rain by cloud seeding
+were once seen as a means to combat drought,
+but today the more common approach is
+to use irrigation where possible. If water
+resources are lacking, however, drought still
+represents a major hazard to Great Plains
+agriculture.</p>
+</div1>
+
+<figure n="egp.ag.001.01" rend="granted">
+<figDesc>The importance of Great Plains agriculture</figDesc>
+</figure>
+
+<div1>
+<head type="sub">Agricultural Technology</head>
+
+<p>Although the agriculture undertaken by European
+American settlers involved little more
+than the simple transfer of familiar practices
+and cultures from one environment to another,
+the special needs of farming in the
+Plains soon became evident. New strategies
+evolved to cope with the environment from
+the 1860s onward.</p>
+
+<p>Some innovations included new types of
+farm implements. The self-scouring steel plow
+was an invention demanded by the prairie because
+the thick, black sod was too difficult to
+turn with the smaller, cast-iron plows farmers
+were accustomed to using. Steel plows were
+invented in the Middle West just prior to the
+European American settlement of the Great
+Plains. The invention of barbed wire in the
+1870s also took place outside the Great Plains,
+but it similarly had an impact on the Plains
+region because it made it possible to fence
+millions of acres quickly and cheaply in areas
+where timber or hedges for fencing were unavailable.</p>
+
+<p>Other innovations involved new systems for
+managing water resources. Windmills made it
+possible to pump water at remote locations,
+and thereby to control the grazing patterns
+of large herds of cattle. The introduction of
+steam threshing engines in the 1890s required
+that a supply of fuel be available, but in the
+Great Plains the firewood commonly found in
+other regions was lacking. Coal was also often
+unavailable. The solution was to build strawburning
+steam engines that consumed the
+wheat straw, the principal by-product of
+threshing.</p>
+
+<p>Still more specific innovations in crop
+farming were made in the late nineteenth and
+early twentieth centuries. Known under the
+general heading of dry farming, these methods
+involved a scientific approach to conserving
+soil moisture in areas where, by then,
+it was known that precipitation was often inadequate.
+Included under the practices of
+dry farming is the custom of "alternate fallow"&#8211;
+leaving strips of land unused between
+cultivated strips, or alternating fields and fallow
+from year to year so that two years of
+moisture are available for a single year's crop
+demand. Cultivating to control moisturerobbing
+weeds also proved beneficial. Deep
+plowing, subsurface compaction, and a variety
+of other methods were similarly introduced
+to combat the negative effects of inadequate
+moisture.</p>
+
+<p>Dry farming is, in some respects, a passive
+technology in terms of environmental adaptation.
+Irrigation, however, is a much more direct
+approach to overcoming environmental
+limits. Irrigation was not widespread in the
+Great Plains before the middle of the twentieth
+century. What little irrigation there
+was had to be located on gently sloping river
+floodplains where water, diverted from a river
+channel upstream, could flow across fields
+and eventually drain back into the main channel
+farther downstream. In the United States,
+the federal government's policies related to
+land and reclamation encouraged the construction
+of dams and diversion projects on
+smaller streams; in Canada, the Canadian Pacific
+Railway promoted large river diversions
+for irrigation in the early twentieth century.
+But prior to the 1960s irrigation was limited
+by the availability of streamside locations&#8211;
+the only place irrigation was feasible so long
+as dams, canals, and lateral channels were the
+only means for distributing water.</p>
+
+<p>New technology provided an economical
+means for expanding irrigation after 1960.
+Deep wells were drilled and powerful electric
+pumps brought groundwater up to the surface.
+The wells fed surface sprinkler systems
+that moved across fields automatically. With
+sprinkler irrigation, it became possible to raise
+almost any feed grain. Once irrigation was in
+place, corn, the most valuable grain on which
+to fatten livestock, began to replace the more
+drought-resistant grain sorghums, although
+sorghum itself quickly became an irrigated
+crop as well.</p>
+
+<p>As a result of these developments it became
+possible for Great Plains farmers to fatten
+larger numbers of cattle with locally produced
+feed grains. The typical pattern of shipping
+young cattle from the Plains to midwestern
+feedlots went into decline as more and more
+cattle were born, raised, fed, and slaughtered
+within the Great Plains itself. The result was a
+westward pull on the beef packing industry.
+About half of the major beef packing companies
+in the United States relocated to the
+Great Plains during the 1970s and 1980s.</p>
+
+<p>In the 1930s farmers began to implement a
+variety of techniques to control soil erosion.
+Contour plowing was an early technique that
+prevented gullying on steeper slopes. Even
+seemingly small innovations helped, such
+as the now-common practice of leaving crop
+residues on fields after harvest to combat
+blowing soil conditions. Windbreaks, whether
+planted as rows of trees in shelterbelts or as
+strips of perennial grasses along narrow paths
+within fields, also curtail wind erosion. In
+the Great Plains today farmers no longer plow
+their fields annually. Rather, they disturb the
+soil as little as possible from year to year
+by working it with smaller cultivating implements
+and controlling weeds with chemicals.</p>
+</div1>
+
+<div1>
+<head type="sub">Contemporary Agricultural Problems</head>
+
+<p>The public's concern with environmental issues
+in recent years has led many to question
+the nature of some common farm practices in
+the Great Plains. Nitrification of groundwater
+supplies is one such example. Nitrification results
+from the continued application of nitrogen
+fertilizers that are used to increase yields
+of crops such as corn. With increased amounts
+of fertilizers, pesticides, and herbicides in
+the environment, some groundwater supplies
+have become contaminated, especially in areas
+where irrigation is in heavy use, such as the
+Platte River Valley of Nebraska.</p>
+
+<p>Animal manure was once spread over croplands
+to increase soil fertility on the farms
+where livestock were penned for feeding.
+Large, modern Great Plains feedlots produce
+far more animal wastes than local fields can
+use, and this has created a serious problem in
+waste disposal. Water pollution problems have
+multiplied as a result of large feedlots and the
+heavy use of chemical fertilizers.</p>
+
+<p>Agricultural scientists have urged a return
+to crop rotation practices, whereby a fixed sequence
+of crops is grown on the same field
+over a series of years. Some crops, such as
+alfalfa, are planted to replenish soil fertility;
+others such as corn, are planted for feed; and
+still others, such as rye, are planted as a means
+to "rest" the land between years of more
+nutrient-demanding crops. But crop rotation
+is uncommon on irrigated fields in the Central
+Great Plains, most of which are used to
+produce corn every year. It is also uncommon
+in dryland wheat farming in the Prairie Provinces
+of Canada.</p>
+
+<p>Irrigated land is expensive, so a higher return
+per acre is generally expected. The introduction
+of less intensive means of production
+is often resisted in areas that rely on irrigation.
+If too much irrigation water is diverted from
+streams, or if groundwater levels are lowered
+to the point that subsurface streams cannot
+feed ponds, streams, and rivers, then surface
+wetlands will dry up and wildlife numbers will
+decline.</p>
+
+<p>One of the most difficult problems of Great
+Plains agriculture has actually been its very
+success. Since the 1930s national policies have
+been enacted to regulate overabundant crops
+that would depress the market and drive the
+price down to a level below farmers' costs of
+production. Both the Canadian and the U.S.
+governments have experimented with ways to
+increase grain exports overseas as one means
+of coping with oversupplies at home. Other
+government programs, such as the Soil Bank,
+enacted in the United States in 1957, have
+focused more on the conservation of land resources.
+Under the Soil Bank, and the Conservation
+Reserve Program that succeeded it,
+marginal land, such as that most susceptible to
+erosion, has been taken out of production by
+paying farmers not to cultivate it.</p>
+</div1>
+
+<div1>
+<head type="sub">Agricultural Regions of the Great Plains</head>
+
+<figure n="egp.ag.001.02" rend="granted">
+<figDesc>Agricultural regions of the Great Plains</figDesc>
+</figure>
+
+<p>Great Plains agriculture varies throughout the
+region according to the nature of the physical
+environment, the demand for farm products,
+and the crop and livestock preferences of local
+ranchers and farmers. There are eleven major agricultural regions within the Great Plains. From north to south they are the (I) Parkland Belt, (II) Canadian Prairies, (III) Northern Spring Wheat Region, (IV) Unglaciated Missouri Plateau, (V) Sandhills, (VI) Eastern Feed Grains and Livestock Region, (VII) Winter Wheat Region, (VIII) Irrigated High Plains, (IX) Upland Cotton Region, (X) Irrigated Valleys, and (XI) Rangelands. Within these eleven
+regions are numerous subregions that have
+special defining characteristics as well.</p>
+
+<p>The Parkland Belt (<hi rend="smallcaps">I</hi>) is the northern limit
+of prairie vegetation and, except for the outlier
+of the Peace River wheat country, is the northern
+limit of successful agriculture in North
+America. The term "parkland" suggests the
+open nature of the landscape, which consists
+of expanses of tall grass dotted with groves of
+aspen and spruce trees. Soils of the Parkland
+Belt are known as Luvisols in the Canadian
+system of soil nomenclature. Luvisols are fertile
+soils associated with broadleaf forests. Although
+the Parkland's growing season is quite
+short, the region normally receives more precipitation
+than does the Canadian Prairie region
+which forms the Parkland's southern
+limit. Many portions of the Parkland were settled
+ahead of the adjacent Canadian Prairie for
+this reason, although the earliest settlements
+were made along the line of the Canadian Pacific
+Railway. European settlers (of whom the
+Ukrainians are the best known) and the Métis
+people from Manitoba established agriculture
+in the Parkland zone at the end of the
+nineteenth and beginning of the twentieth
+centuries.</p>
+
+<p>Canola, not wheat, is the crop favored to
+advance the agricultural frontier northward in
+Canada because it produces well in a short
+season of long summer days. The oilseed produces
+valuable forage and its seedpod yields
+a highly unsaturated cooking oil. Canola, as
+well as sunflower oil, is gaining great popularity
+around the world, and Canada exports
+large quantities of both to the United States,
+Europe, and Asia.</p>
+
+<p>The Canadian Prairies agricultural region
+(II) consists of the large, triangular-shaped zone of grain production bounded roughly by Calgary, Edmonton, Saskatoon, Winnipeg, and the boundary with the United States (the
+forty-ninth parallel). Hard, red spring wheat
+is the most important crop here, followed by
+barley, canola, oats, and a variety of other
+small grains. Canadian Prairie wheat was traditionally
+hauled by rail through Winnipeg
+(the region's major wheat marketing and trading
+center) to the Lake Superior port of
+Thunder Bay (formerly, Port Arthur and Fort
+William), loaded aboard ship, and sent to
+Liverpool or to other European markets. Today
+much of the wheat from the Prairie Provinces
+moves westward to ocean ports in British
+Columbia for shipment to Asia. Despite being
+the world's largest wheat producer, China consumes
+more than it can grow and greatly depends
+on wheat from Canada to make up the
+difference.</p>
+
+<p>Chernozemic soils&#8211;deep, dark-colored,
+and high in nutrients&#8211;are an important basis
+for the wheat crop of the Prairie Provinces.
+About one-half of Canada's total agricultural
+land in the Prairie Provinces consists of chernozemic
+soils. It is the same type of soil that
+is found in the principal wheat-raising areas
+of the Ukraine, an area that is climatically
+similar to the southern portions of the Prairie
+Provinces.</p>
+
+<p>The Canadian Prairie region was less wooded
+than the Parkland to the north, and the Canadian
+Pacific Railway, linking the coasts after
+its completion in 1885, channeled settlement
+away from the Prairie and into the Parkland
+Belt. The Prairie region had received unfavorable
+comment in an early survey conducted by
+John Palliser and Henry Hind between 1857
+and 1860. Much of the prairie was described
+by Palliser as "sterile with scanty pasturage."
+The innermost portion of the Prairie region,
+which thereby became known as Palliser's Triangle,
+received little European settlement until
+the first two decades of the twentieth century.
+The European immigrants immediately began
+producing wheat, and by 1930, Palliser's Triangle
+was a significant wheat-growing region.
+Today Canada's Prairie Provinces export
+quantities of wheat not only to Europe and
+Asia, but also to the United States. The North
+American Free Trade Agreement (<hi rend="smallcaps">NAFTA</hi>) has
+made it possible for the lowest cost producers
+to capture markets on either side of the fortyninth
+parallel.</p>
+
+<p>The Northern Spring Wheat region (III) of
+the United States is physically similar to the
+Canadian Prairies. Spring wheat is the major
+crop of North Dakota and much of Montana.
+Barley, durum, flax, sunflowers, oats, and
+other small grains are also produced.</p>
+
+<p>U.S. breweries depend on the barley grown
+in Montana and North Dakota just as U.S.
+pasta manufacturers rely on the durum grown
+in North Dakota's Durum Triangle in the central
+and northeastern part of the state. The
+Red River Valley of the North, along the
+Minnesota–North Dakota border, also produces
+wheat, but it is best known for its crops
+of sugar beets and potatoes that grow on the
+almost perfectly flat surface that once formed
+the bed of glacial Lake Agassiz. Fargo, Grand
+Forks, Minot, and Great Falls are the major
+cities of the region; however Minneapolis has
+long functioned as the control point of the
+Northern Spring Wheat farming system. In
+the nineteenth century super-sized farm units
+known as "bonanza farms" were established
+in the Red River Valley of the North, where
+wheat monoculture was practiced on a large
+scale.</p>
+
+<p>The glaciated portion of the Missouri Plateau,
+with its fertile soils and smooth topography,
+is part of the Northern Spring Wheat region.
+The broad platform of sedimentary rock
+formation stretches hundreds of miles east
+of the Rocky Mountains across the steppes
+(grasslands) of Montana, Wyoming, and the
+Dakotas. It is an eastward-sloping surface
+of low relief that is covered, especially in
+its northern sections, with a mantle of glacial
+materials from which the deep, black, grainproducing
+soils were formed. In the U.S. system
+of soil nomenclature these soils are known
+as Borolls (a type of Mollisol), the equivalent
+of the chernozemic soils of Canada and the
+Ukraine. Borolls provide an adequate supply
+of nutrients for a variety of small grains
+throughout the growing season.</p>
+
+<p>Montana's Wheat Triangle, an area of particularly
+productive grain crops bounded by
+the cities of Shelby, Havre, and Great Falls, lies
+at the edge of the glaciated Missouri Plateau
+and the Northern Spring Wheat region. It was
+one of the last portions of the Great Plains to
+be settled, chiefly between 1910 and 1920. Like
+the grain exports of the Canadian Prairies to
+the north, most of Montana's wheat and barley
+exports are directed toward Asia.</p>
+
+<p>The Unglaciated Missouri Plateau (IV), in
+contrast, is primarily a region of livestock
+grazing. It has only limited areas suitable for
+crop farming, and within these areas dry
+farming is standard. The unglaciated plateau's
+soils are of several types, but nearly all of them
+are inferior to those that have developed on
+the glaciated Missouri Plateau. The unglaciated
+area's slopes are also steeper and more
+easily eroded. North and South Dakota's badlands
+are part of the Unglaciated Missouri
+Plateau. Here, along the White River in South
+Dakota and the Little Missouri River in North
+Dakota, steep, easily eroded slopes preclude
+agriculture, except in the broader valleys and
+on the grass-covered tablelands where grazing
+is possible.</p>
+
+<p>The present course of the Missouri River
+roughly marks the eastern limit of glaciated
+topography. In South Dakota the portion of
+the state west of the glacial border is known as
+West River country and in North Dakota it
+is referred to as the Missouri Slope. In both
+states there is a markedly lower population
+density on the unglaciated portions of the
+Missouri Plateau, corresponding to a ranching
+rather than farming economy. Much of
+the Unglaciated Missouri Plateau was part
+of the Great Sioux Reservation until it was
+broken into six separate reservations in 1888.
+The relinquished Native American lands were
+opened to European American settlement.
+Early homesteaders tried to raise crops on the
+inferior West River and Missouri Slope soils,
+but most of the area proved to be submarginal
+for grain production.</p>
+
+<p>A similar history of agricultural failure
+is found in the Jordan Country (Garfield
+County) of Montana, a largely unpopulated
+stretch of rough rangeland that lies on the divide
+between the Missouri and Yellowstone
+Rivers north of Miles City. Attempts to raise
+wheat in the Jordan Country, as in the West
+River of South Dakota, were unsuccessful, and
+the lands reverted to cattle and sheep range by
+the 1950s. This was one of America's last agricultural
+frontiers, one that had only a brief
+"season of hope" before hard environmental
+realities were understood.</p>
+
+<p>Some parts of the Unglaciated Missouri
+Plateau have better soils and are suitable for
+dry-farmed grain crops. One of these districts
+is the Judith Basin, a highland wheat- and
+barley-growing region between Billings and
+Great Falls that was settled during the decade
+centered on World War I.</p>
+
+<p>The Sandhills (V) is a 20-million-acre region
+of grass-covered sand dunes in northcentral
+Nebraska that is devoted almost entirely
+to livestock grazing. Agricultural settlers
+came to the Sandhills during the so-called
+Kinkaid Era after 1904 when enlarged homesteads
+(640 acres) were granted in the sandy
+hill country. But wherever the land was broken
+for planting, wind erosion soon deflated
+the ground surface and new sand dunes began
+to accumulate along fence lines. Cattle ranching,
+which had traditionally been the major
+land use, was quickly reestablished.</p>
+
+<p>Today, the Sandhills region has some of the
+largest cattle ranches in the United States.
+Typical ranches are tens of thousands of acres
+in size. The only crop of significance is hay,
+baled from meadows&#8211;where it grows wild&#8211;
+that surround the region's many east-flowing
+streams or surface lakes, formed where the
+water table intersects the surface. Sandhills
+cattle ranching has the look of the open range,
+even though most of the land is fenced and
+privately owned. A mark of the sparse population
+in this area is that signposts are to ranches
+more often than to towns.</p>
+
+<p>The Eastern Feed Grains and Livestock region
+(VI) covers much of the eastern margins
+of the Central Great Plains. It consists of several
+important subregions, but throughout it
+has a mixed farming system that emphasizes
+both crop and livestock production.</p>
+
+<p>From eastern South Dakota, across eastern
+Nebraska, and south across Kansas to Oklahoma
+and Texas, a version of Corn Belt agriculture
+dominates the landscape. Beef cattle
+feeding, hog raising, and corn, soybean, and
+sorghum production are the backbone of the
+farm economy. While irrigation is found in a
+few areas within this region, the climate is
+not dry enough to require irrigation in most
+years. For that reason, paradoxically, agriculture
+here remains vulnerable to drought, but
+its mixed nature means that farmers have the
+means to ride out some bad years because
+their operations are comparatively diversified.</p>
+
+<p>In Kansas this region is bordered on the
+west by the Flint Hills where crop agriculture
+is largely confined to valley bottoms while
+livestock grazing occupies the uplands. Upland
+soils are relatively thin and unsuited for
+cultivation. For many years young cattle from
+the dry, western ranges of the Great Plains
+have been shipped to the Flint Hills for pasturing
+on grass before being grain-fed for market.
+Flint Hills pastures are burned regularly
+to increase the nutritive value of grasses for
+livestock.</p>
+
+<p>In Kansas this region is bordered on the
+west by the Flint Hills where crop agriculture
+is largely confined to valley bottoms while
+livestock grazing occupies the uplands. Upland
+soils are relatively thin and unsuited for
+cultivation. For many years young cattle from
+the dry, western ranges of the Great Plains
+have been shipped to the Flint Hills for pasturing
+on grass before being grain-fed for market.
+Flint Hills pastures are burned regularly
+to increase the nutritive value of grasses for
+livestock.</p>
+
+<p>German Mennonites from southern Russia
+introduced (probably unknowingly rather
+than deliberately) most of the strains of hard
+winter wheat to this area in the late 1870s.
+Kansas, which had previously been known
+as a corn state, soon became a major wheat
+producer. Winter wheat production is concentrated
+between Wichita and Dodge City,
+Kansas, near Enid, Oklahoma, and north of
+Amarillo, Texas, but large wheat fields are
+ubiquitous from central Kansas to eastern
+Colorado.</p>
+
+<p>As a crop, wheat is not as profitable as feed
+grains like corn or sorghum. For this reason,
+and because it requires less water to produce,
+it is rarely economical to irrigate wheat. So
+where irrigation water is unavailable in the
+Central Great Plains, wheat farming remains
+the best option. In most respects soils of the
+spring and winter wheat region are quite similar
+and are associated with grassland vegetation.
+Ustolls, a warm and dry variation of the
+fertile Mollisol, are the typical soils of the winter
+wheat region.</p>
+
+<p>Because large acreages mean a sparse rural
+population, many wheat farmers in the High
+Plains prefer to live in town rather than on
+their farms. "Suitcase farmers" or "sidewalk
+farmers," as such absentee operators are
+known, live on their farms only a few weeks
+each season when work needs to be done. Suitcase
+farming is especially characteristic of the
+drier, high-drought-risk winter wheat areas of
+eastern Colorado and western Kansas.</p>
+
+<p>Also a producer of feed grains and livestock,
+the Irrigated High Plains (VIII) is the
+newest agricultural region of the Great Plains.
+It is here that irrigated grain crops are raised
+to supply local beef feedlots. Sprinkler irrigation
+fed by deep-well pumps offers the means
+to produce feed grains in a climate that, by
+itself, could not sustain crops like corn more
+than one year in five on average. Central
+to southwestern Nebraska, western Kansas,
+eastern Colorado, and the panhandles of
+Oklahoma and Texas&#8211;all areas that had been
+marginal even for wheat in some years&#8211;
+experienced an intensification of agriculture
+with the introduction of sprinkler irrigation
+in the 1960s. Much of the nation's beef industry
+is now concentrated in this region.</p>
+
+<p>The Upland Cotton Region of the Southern
+Plains (IX) consists of several separate areas of
+cotton culture in Texas and Oklahoma. Shortstaple
+upland cotton, the variety used for
+making coarser cotton goods such as denim, is
+grown both under irrigation and with dry-farming
+techniques. Migrants from the southeastern
+cotton districts of the United States
+brought cotton farming to Texas and Oklahoma
+early in the twentieth century.</p>
+
+<p>The Texas High Plains has a long enough
+growing season for cotton, but its precipitation
+is insufficient to produce a crop in many
+years. Especially after the Dust Bowl years,
+and as pump irrigation was introduced, both
+cotton and grain sorghum became irrigated
+crops in this region. Plowed ground is especially
+prone to soil erosion here, and soil conservation
+measures, such as surface corrugation
+to reduce wind speed at the ground, are a
+common sight. Despite these problems, the
+Texas Panhandle remains the single largest
+concentration of cotton acreage in the United
+States. Farmers began diversifying in the 1970s
+with the development of viticulture.</p>
+
+<p>Irrigated Valleys (X) comprise a discontinuous
+but distinctive agricultural region within
+the Great Plains. Unlike the Irrigated High
+Plains, where pump irrigation feeds sprinklers
+supplying water to feedgrain crops, the traditional
+irrigated valleys of the Great Plains still
+rely on ditch irrigation and produce a variety
+of food and feed crops. Sugar beets are grown
+in these older, valley-based irrigation districts.
+While technically a food crop (from which
+ordinary table sugar is refined), sugar beet
+tops and waste also provide livestock feed.
+Sugar beets are produced in nearly all of the
+irrigation districts of the Great Plains and are
+grown unirrigated in the Red River Valley of
+North Dakota and Minnesota.</p>
+
+<p>Crosscutting the Unglaciated Missouri Plateau
+in Montana is the Yellowstone River Valley,
+which, in its downstream portions, is a
+corridor of irrigated agriculture dominated
+by sugar beets and alfalfa. The Yellowstone
+River has remained undammed, but smaller
+dams constructed across numerous Yellowstone
+tributaries channel water to streamside
+fields. Irrigation provides its greatest benefit
+to hot regions where water evaporates quickly,
+however, and thus the Yellowstone irrigation
+district has few counterparts located this far
+north in latitude.</p>
+
+<p>The most productive of the Great Plains irrigated
+corridors is the Platte River Valley of
+Nebraska, Wyoming, and Colorado. Downstream
+from the city of North Platte, where
+the South Platte and North Platte Rivers join,
+ditch irrigation is practiced within a region
+where pump irrigation is also available. Nebraska's
+irrigated Platte River Valley is one
+of the most productive feedgrain regions
+of North America. Corn and sorghum crops
+grown here are sold to local feedlots or are
+exported from ports on the Pacific Coast.</p>
+
+<p>The North Platte River Valley extends irrigated
+agriculture into eastern Wyoming. The
+most intensive irrigation district of the North
+Platte River Valley is the Scottsbluff Lowland
+near Scottsbluff and Gering, Nebraska,
+where sugar beets and feedgrains are the principal
+crops. Irrigation in the South Platte
+River Valley is now functionally part of a
+much larger scheme. Completed in the 1950s
+the Colorado–Big Thompson project captures
+water from the upper tributaries of the
+Colorado River, sends it through a tunnel in
+the Front Range of the Rocky Mountains, and
+distributes it to farms in the Colorado Piedmont.
+The South Platte River thus became the
+principal drainage outlet for the irrigated Colorado
+Piedmont.</p>
+
+<p>The irrigated Piedmont is Colorado's most
+important agricultural region. Irrigated crops
+grown near Greeley and Fort Morgan, Colorado,
+include onions, pinto beans, sugar beets,
+corn, and alfalfa. Feedgrains and sugar beets
+grown in the Piedmont are the basis for its
+cattle feeding industry. Feedlots near Greeley
+are often cited as the world's largest.</p>
+
+<p>Smaller in area, but also productive, is
+the Arkansas River Valley irrigation district
+that stretches downstream from Colorado
+into western Kansas. Grain sorghum, sugar
+beets, onions, and cantaloupe are the principal
+crops of this region. Water diverted from
+the Arkansas River is the principal source of
+irrigation, although underground wells supply
+additional water as well.</p>
+
+<p>Rangelands (XI) are found throughout the
+Great Plains, primarily wherever rough, steep,
+stony, or broken land predominates. Areas
+with low mountains or rugged terrain include
+the Cypress Hills in Alberta and Saskatchewan
+and most of the Unglaciated Missouri Plateau.
+Other areas, such as the Great Divide Basin of
+Wyoming, are poorly drained and experience
+high evaporation rates producing saline residues
+in soils and making the ground surface
+unsuited for raising crops even with irrigation.
+Cattle and sheep grazing are the only
+forms of agricultural activity associated with
+these areas. Much of the land remains in the
+public domain.</p>
+
+<p>South of Colorado Springs, the Piedmont
+lowland disappears at the eastern margin of
+the Front Range and is replaced by rangelands
+of comparatively high elevation. Across New
+Mexico and into Texas, the western limit of
+the Great Plains consists of dry, broken land
+suitable only for grazing. Upstream tributaries
+of the Canadian, Cimarron, Red, and Pecos
+Rivers are, in places, incised hundreds of feet
+into the High Plains rock formations.</p>
+
+<p>South of the Pecos River in Texas is a large
+limestone plateau, underlain by springs and
+caverns, which is unsuitable for crop farming
+but excellent for grazing. This is the Edwards
+Plateau (sometimes designated as the Edwards
+and Stockton Plateau). Soils are thin and the
+vegetation cover has a subtropical, savannalike
+appearance. The largest concentration of
+sheep and goats in the United States is found
+here. The Edwards Plateau is also the world's
+leading center for the breeding of Angora
+goats.</p>
+
+<p>Despite the nearly ubiquitous importance
+of grain crops in the Great Plains, variations
+in the physical environment and the timing
+and nature of human settlement activities
+have created an ever-changing mosaic of agricultural
+land use that today stretches from Alberta
+to Texas. Some crops, such as corn, are
+of native origin although they are grown today
+on a vastly increased scale of production. Others,
+such as sorghum and soybeans, have exotic
+origins. Sorghums are native to Africa,
+while soybeans originated in China. Great
+Plains livestock herds are based on cattle and
+sheep breeding efforts that trace back to England,
+Scotland, and Ireland. And Great Plains
+farm families have ethnic roots that extend to
+many parts of Europe.</p>
+
+<p>In this region were brought together, by
+various groups of people at various times,
+the successful ingredients of food and fiber
+production that now provide a basis for the
+United States' and Canada's great agricultural
+abundance. The two countries' favorable balance
+of trade in foodstuffs helps earn foreign
+exchange that makes it possible to import
+other goods from around the world. As a
+world supplier, the Great Plains ships agricultural
+products in all directions&#8211;south to the
+Gulf of Mexico, west to the Pacific Ocean
+ports, east via the Great Lakes to the Atlantic,
+and even north through Hudson Bay. The region's
+strategic importance will likely continue
+well into the future. Agriculture, the
+Great Plains' most important industry, will
+continue to provide the basis for its economic
+growth.</p>
+
+<p><hi rend="italic">See</hi> also <hi rend="smallcaps">IMAGES AND ICONS</hi>: 
+<ref n="egp.ii.059">West River Country</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.020">Feedlots</ref>; 
+<ref n="egp.ind.032">International Trade</ref>; <ref n="egp.ind.038">Meatpacking</ref> / 
+<hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.046">Palliser's Triangle</ref>; <ref n="egp.pe.053">Sandhills</ref>; <ref n="egp.pe.057">Soils</ref> / <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.011">Irrigation</ref>.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>John C. Hudson</signed>
+Northwestern University</closer>
+</div1>
+
+<div1>
+<bibl>Drache, Hiram. <title level="m">The Day of the Bonanza: A History of
+Bonanza Farming in the Red River Valley of the North</title>.
+Fargo: North Dakota Institute for Regional Studies, 1964.</bibl>
+<bibl>Foth, Henry D., and John W. Schafer. <title level="m">Soil Geography and
+Land Use</title>. New York: John Wiley, 1980.</bibl> <bibl>Green, Donald E.
+<title level="m">Land of the Underground Rain: Irrigation on the Texas High
+Plains, 1910-1970</title>. Austin: University of Texas Press, 1973.</bibl>
+<bibl>Hargreaves, Mary W. <title level="m">Dry Farming in the Northern Great
+Plains, 1900-1925</title>. Cambridge: Harvard University Press,
+1957.</bibl> <bibl>Hewes, Leslie. <title level="m">The Suitcase Farming Frontier: A
+Study in the Historical Geography of the Central Great
+Plains</title>. Lincoln: University of Nebraska Press, 1973.</bibl> <bibl>Hudson,
+John C. <title level="m">Making the Corn Belt: A Geographical History
+of Middle-Western Agriculture</title>. Bloomington: Indiana
+University Press, 1994.</bibl> <bibl>Jordan, Terry G. <title level="m">North American
+Cattle Ranching Frontiers: Origins, Diffusion, and Differentiation</title>.
+Albuquerque: University of New Mexico Press,
+1993.</bibl> <bibl>Kraenzel, Carl F. <title level="m">The Great Plains in Transition</title>. Norman:
+University of Oklahoma Press, 1957.</bibl> <bibl>Mackintosh, W.
+A. <title level="m">Prairie Settlement: The Geographical Setting</title>. Toronto:
+Macmillan, 1934.</bibl> <bibl>Malin, James C. <title level="m">Winter Wheat in the
+Golden Belt of Kansas</title>. Lawrence: University Press of Kansas,
+1944.</bibl> <bibl>Nelson, Paula M. <title level="m">The Prairie Winnows Out Its
+Own: The West River Country of South Dakota in the Years
+of Depression and Dust</title>. Iowa City: University of Iowa
+Press, 1995.</bibl> <bibl>Shannon, Fred A. <title level="m">The Farmer's Last Frontier:
+Agriculture, 1860-1897</title>. New York: Harper, 1968.</bibl> <bibl>Sherow,
+James Earl. <title level="m">Watering the Valley: Development along the
+High Plains Arkansas River, 1870-1950</title>. Lawrence: University
+Press of Kansas, 1999.</bibl> <bibl>Webb, Walter P. <title level="m">The Great
+Plains</title>. New York: Ginn &amp; Co., 1931.</bibl> <bibl>Worster, Donald E.
+<title level="m">Dust Bowl: The Southern Plains in the 1930s</title>. New York:
+Oxford University Press, 1979.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

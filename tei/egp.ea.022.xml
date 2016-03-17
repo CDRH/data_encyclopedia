@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ea.022 SYSTEM "egp.ea.022.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jews</title>
+<title level="m" type="sub"></title>
+<author>Oliver B. Pollak</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pollak, Oliver B.">Oliver B. Pollak</author>. <title level="a">"Jews."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">238-239</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JEWS</head>
+
+<figure n="egp.ea.022" rend="granted">
+<figDesc>Purim parade, Denver, Colorado, March 23, 1973</figDesc>
+</figure>
+
+<p>Anti-Semitism and lack of economic opportunities
+caused about 1.25 million Jews to leave
+Europe for North America between 1880 and
+1914. Jewish immigration to the Great Plains
+during these years was either kin-based or
+promoted by agencies such as the Hebrew Immigrant
+Aid Society and the Industrial Removal
+Office. Additional influxes followed
+World War II, with smaller numbers arriving
+from the Soviet Union after 1975 and from
+Russia after 1989. Jewish settlement in the
+Great Plains, with notable exceptions, has
+been urban. Routes of access for most Jewish
+immigrants were east to west across both Canada
+and the United States, and for smaller
+numbers, north from the port of Galveston,
+Texas.</p>
+
+<p>Early Jews on the Plains were peddlers serving
+Native Americans and homesteaders.
+Most Jews subsequently settled in small towns,
+where they established retail dry goods stores,
+clothing and grocery stores, wholesale houses,
+and, along the rail lines, scrap metal operations.
+They gradually gravitated to larger cities
+with better Jewish communal infrastructures.
+The minimum critical mass necessary to
+maintain substantial Jewish communal organizations
+appears to be about 1,000 Jews. Second
+and third generations gravitated toward
+law, teaching, and medicine, and later into the
+corporate world.</p>
+
+<p>Plains cities with significant Jewish populations
+include Winnipeg, Manitoba; Calgary,
+Alberta; Regina, Saskatchewan; Billings, Montana;
+Omaha and Lincoln, Nebraska; Wichita,
+Kansas; Oklahoma City, Oklahoma; and Amarillo
+and Fort Worth, Texas. Still, the Jewish
+presence in the Great Plains has never been
+more than 2 percent of the general population,
+and it is much less than this in rural areas.
+Ninety-six percent of Manitoba's Jews, for example,
+live in Winnipeg.</p>
+
+<p>As settlement increased, Jewish organizations
+proliferated in Plains cities. These included
+welfare organizations, houses of worship,
+free loan societies, and, in the larger
+cities, Jewish community centers. Local organizations
+had regional, national, and international
+connections. The Anti-Defamation
+League, Workmen's Circle, and the World
+Zionist Organization, women's groups like
+Hadassah, National Council of Jewish Women,
+and synagogue sisterhoods, and men's groups
+like B'nai B'rith linked Plains Jews through
+education, activism, and philanthropy to New
+York, Palestine, and Israel. Reform Temples
+were linked to Cincinnati; Conservative, Orthodox,
+Reconstructionist, and Lubavitch
+were linked to New York. To ameliorate isolation
+Jewish youth and adults were encouraged
+through these organizations to meet coreligionists
+in Kansas City, Chicago, and New
+York. Jews in smaller towns maintained contacts
+with rabbis, synagogues, and family and
+friends in the closest urban area.</p>
+
+<p>Although rural Jewish populations were
+never large, as part of the "back-to-the-land
+movement" of the 1880s, Jews took up farming
+on homesteads with start-up loans from agencies
+such as Cincinnati's Hebrew Union Agricultural
+Society, Chicago's Jewish Agriculturalists'
+Aid Society of America, and the Jewish
+Agricultural and Industrial Aid Society. In
+Canada the government offered incentives, including
+exemption from military service, to
+attract Jewish homesteaders. New Jerusalem,
+founded in 1882 in Saskatchewan, was one of
+the earliest Plains Jewish settlements. In North
+Dakota the first settlements were around
+Painted Woods and Devils Lake. After 1900
+Burleigh County in central North Dakota became
+the focus of Jewish settlements. By 1910,
+the peak year, North Dakota had 250 Jewish
+homesteads with 1,200 individuals. Other
+Plains settlements were at Touro, Leeser, Beersheba,
+Lasker, Gilead, Montefiore, and Hebron
+in Kansas, and at Cotopaxi, Colorado.
+However, no more than 10 percent of the Jewish
+families stayed on the farms for ten years;
+at the most 2 percent passed ownership to a
+second generation. Lack of money and experience
+was a problem, and many sold their
+homesteads when they received titles after the
+five-year residency and used the money to set
+up businesses in Plains towns, or else they left
+the region altogether. Often only a Jewish
+cemetery survives as a reminder of the Jewish
+homesteading movement. More enduring and
+successful were individual entrepreneurs like
+southern Wyoming sheep farmer Isadore Bolten
+and the Wolf family who ranched in Albion,
+Nebraska, for more than seventy-five
+years.</p>
+
+<p>In the cities, Jews participated widely in
+politics and intellectual life. Jewish politics in
+Winnipeg had a radical cast. In American politics
+Jews served as mayors, members of the
+House of Representative and Senate, and justices
+on state supreme courts. Tillie Olsen, one
+of the most significant Jewish writers, lived
+in Omaha, Nebraska, in the 1920s. In the latter
+part of the twentieth century, centers
+for Jewish studies were established in several
+Plains universities, deriving much of their financial
+support from prominent Jewish philanthropists.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.053">Olsen, Tillie</ref> / 
+<hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.030">Judaism</ref>.</p>
+
+<closer>
+<signed>Oliver B. Pollak<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Libo, Kenneth, and Irving Howe. <title level="m">We Lived There Too: In Their Own Words and Pictures—Pioneer Jews and the Westward Movement of America, 1630–1930</title>. New York: St. Martin's
+Press, 1984.</bibl> <bibl>Rikoon, S. Sanford. "The Jewish Agriculturalists'
+Aid Society of America: Philanthropy, Ethnicity,
+and Agriculture in the Heartland." <title level="j">Agricultural History</title>
+72 (1998): 1–32.</bibl> <bibl>Schulte, Janet E. "Proving Up and Moving
+Up: Jewish Homesteading Activity in North Dakota,
+1900–1920." <title level="j">Great Plains Quarterly</title> 10 (1990): 228–44.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

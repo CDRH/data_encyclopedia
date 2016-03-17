@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.005 SYSTEM "egp.fil.005.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Autry, Gene (1907-1998)</title>
+<title level="m" type="sub"></title>
+<author>Kevin Mulroy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mulroy, Kevin">Kevin Mulroy</author>. <title level="a">"Autry, Gene (1907-1998)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">259-260</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AUTRY, GENE (1907-1998)</head>
+
+<figure n="egp.fil.005" rend="granted">
+<figDesc>Gene Autry and Champion, ca. 1947</figDesc>
+</figure>
+
+<p>Gene Autry's career spanned some sixty years
+in the entertainment industry, encompassing
+radio, recordings, motion pictures, television,
+rodeo, and live performances. He also became
+a broadcast executive and major league baseball
+team owner. He is the only entertainer to
+have five stars on Hollywood's Walk of Fame.
+In his ability to transcend media and in the
+sheer scope of his output, Autry is unsurpassed
+as a popular image maker of the American
+West.</p>
+
+<p>Born in Tioga, Texas, on September 29,
+1907, Orvon Gene Autry spent most of his
+boyhood north of the Red River in Ravia, Oklahoma.
+He bought his first guitar for $8 at the
+age of twelve and began to sing in local drugstores
+and nightspots. By the late 1920s he was
+working as a telegrapher for the Frisco railroad
+and moving from town to town in Oklahoma.
+While he was singing and playing in the
+Chelsea office one night, he was discovered by
+the great cowboy humorist, Will Rogers. Rogers
+advised the young Autry to try radio, and
+the rest is history.</p>
+
+<p>Autry began his radio career in 1928 with
+station <hi rend="smallcaps">KVOO</hi> in Tulsa as "Oklahoma's Yodeling
+Cowboy" and made his first recordings a year
+later. His first hit came in 1931 with <title>That Silver-Haired Daddy of Mine</title>, the first record ever certified
+gold for having sold more than a million
+copies. Autry made his film debut as a dude
+ranch cowboy singer in the 1934 Ken Maynard
+film <title>In Old Santa Fe</title>. In 1935 he made his
+first starring appearance in the science fiction
+Western serial <title>The Phantom Empire</title>. Autry's
+hugely successful movie formula combined
+Hollywood elements with his Plains upbringing:
+a mixture of flashy image and downhome
+sense. Other important ingredients were
+his singing; his trusty horse, Champion; and
+his faithful comic sidekick, Smiley Burnette
+(played by Pat Buttram). The combination
+proved irresistible to Depression-ridden audiences.
+By 1937 Autry was "America's Favorite
+Cowboy," voted the number one Western star
+by the theater exhibitors of America. He remained
+in first or second place among cowboy
+stars in terms of box office draw until he retired
+from motion pictures in 1953.</p>
+
+<p>The successful Hollywood singing cowboy
+did not forget his roots. Many of his films,
+with titles such as <title>Red River Valley</title> (1936),
+<title>Yodelin' Kid from Pine Ridge</title> (1937), <title>Blue Montana Skies</title> (1939), and <hi rend="italic">Sunset in Wyoming</hi>
+(1941), were set on the Plains. The effect
+of his upbringing on his creative output can
+also be seen in the frequent references to the
+Southern Plains in Autry's songs. He surrounded
+himself with Oklahomans: Bev Barnett,
+his publicity director; the Marvin brothers
+(Frankie and Johnny) and Jimmy Long,
+collaborators on many of his songs; and
+Jimmy Wakely and Johnny Bond, who played
+with Autry for years, all hailed from the
+Sooner State. His first wife, Ina Mae Spivey,
+Long's niece, whom Autry married in 1932 and
+who played a large part in his success until her
+death in 1980, came from Duncan.</p>
+
+<p>In 1941 Autry purchased a 1,360-acre spread
+in the foothills of the Arbuckle Mountains,
+just west of Berwyn, Oklahoma, as the headquarters
+and winter home for his traveling
+rodeo. He named it the Flying A Ranch and
+Rodeo. Soon after, Berwyn changed its name
+to Gene Autry. The small Oklahoma town
+maintains a museum devoted to the man it
+honors. Autry also toured the Plains states
+extensively with his rodeo in the 1940s and
+1950s, usually appearing in small towns before
+packed audiences.</p>
+
+<p>In total, Autry appeared in 93 feature films
+and made 635 recordings, more than 300 of
+which he wrote or cowrote. His best-known
+movies were based on his hit records, including
+<title>South of the Border</title> (1939), <title>Back in the Saddle</title>
+(1941), and <title>Strawberry Roan</title> (1948). His
+recordings have sold more than 60 million
+copies and brought him more than a dozen
+gold records. Autry's beloved Christmas and
+children's records, <title>Here Comes Santa Claus</title>
+(1947) and <title>Peter Cottontail</title> (1950), went platinum
+(for more than two million copies sold),
+while <title>Rudolph the Red-Nosed Reindeer</title> (1949)
+remains the second best selling single of all
+time (behind only Bing Crosby's <title>White Christmas</title>),
+with sales totaling more than 30 million.</p>
+
+<p>In addition to his movie and recording success,
+Autry's <title>Melody Ranch</title> was heard weekly
+over the CBS Radio Network between 1940
+and 1956. During World War II Autry enlisted
+for service on the air during a broadcast of
+the show. Sgt. Gene Autry served his country
+as a flight officer with the Air Transport Command.
+From 1943 until 1945 he flew large cargo
+planes in the China-Burma-India theater.
+When the war ended, Autry was assigned to
+Special Services and toured with a uso troupe
+in the South Pacific before resuming his
+movie career in 1946.</p>
+
+<p>Realizing that the days of the B-Western
+were numbered, in 1950 Autry became one of
+the first major film stars to move into television.
+For the next five years he produced and
+starred in ninety-one episodes of <title>The Gene Autry Show</title> as well as producing such popular
+television series as <title>Annie Oakley</title>, <title>The Range Rider</title>, <title>Buffalo Bill Jr.</title>, and <title>The Adventures of Champion</title>. In the late 1980s Autry and his former
+movie sidekick, Pat Buttram, hosted
+ninety-three episodes of the <title>Melody Ranch Theatre</title> show, spotlighting the telecasting of
+his old Republic and Columbia movies.</p>
+
+<p>In 1961 Autry's great love of baseball
+prompted him to purchase the American
+League's California Angels (renamed the Anaheim
+Angels in 1996). He held the title of vice
+president of the American League until his
+death. Among the many hundreds of honors
+this son of the Plains received were induction
+into the Country Music Hall of Fame, the Nashville
+Songwriters' Hall of Fame, the National
+Cowboy Hall of Fame, and the National Association
+of Broadcasters Hall of Fame. He also
+was honored by his songwriting peers with a
+lifetime achievement award from the American
+Society of Composers, Authors and Publishers.</p>
+
+<p>A long-cherished dream came true with the
+opening in Los Angeles in November 1988 of
+the Gene Autry Western Heritage Museum
+(renamed the Autry Museum of Western
+Heritage in 1995). Autry stated: "It has always
+been my intention to build a museum which
+would exhibit and interpret the heritage of the
+West, and show how it has influenced America
+and the world." The Autry Museum is now
+acclaimed as one of the foremost museums of
+the American West, with important collections
+of art, artifacts, and documents, drawing
+millions of visitors from around the world.
+Jackie Autry, whom he married in 1981, serves
+as chairman of its board of directors.</p>
+
+<p>Autry's extraordinary life ended at his
+home in Los Angeles on October 2, 1998 after
+a long illness. He was ninety-one years old.</p>
+
+<closer>
+<signed>Kevin Mulroy<lb/>
+University of Southern California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gene Autry Collection, Autry Museum of Western Heritage,
+Los Angeles.</bibl> <bibl>Autry, Gene, with Mickey Herskowitz.
+<title level="m">Back in the Saddle Again</title>. Garden City <hi rend="smallcaps">NY</hi>: Doubleday,
+1978.</bibl> <bibl>Rothel, David. <title level="m">The Gene Autry Book</title>. Madison <hi rend="smallcaps">NC</hi>:
+Empire Publishing Company, 1988.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

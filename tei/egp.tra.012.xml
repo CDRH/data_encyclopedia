@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Electric Interurban Railways</title>
+<title level="m" type="sub"></title>
+<author>Alan H. Grey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gery, Alan H.">Alan H. Grey</author>. <title level="a">"Electric Interurban Railways."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">801</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ELECTRIC INTERURBAN RAILWAYS</head>
+
+<p>Twenty electric interurban railways operated
+during the early twentieth century in the
+Great Plains. Most were built in the early
+1900s, with commuters generating most of the
+revenue. The light-rail interurbans used self-propelled
+trolley cars resembling standard
+streetcars. Unfortunately for the largely local
+owners, almost all interurbans fell victim to a
+combination of the Great Depression and the
+rise of the automobile.</p>
+
+<p>Half of the Great Plains interurban companies
+and almost half of the 1,000 miles of
+track were on the eastern edge of the Great
+Plains in the Dallas and Kansas City, Missouri,
+areas. Dallas had 350 miles of tracks, most of
+them belonging to the Texas Electric Railroad,
+which stretched north to Denison and south
+to Waco. Kansas City had four short interurban
+railways extending to Lawrence, Leavenworth,
+and suburban Olathe and Zarah.</p>
+
+<p>The interurbans were a series of unconnected
+parts. Only four were built in the vast
+area of Nebraska, South Dakota, North Dakota,
+and the Prairie Provinces. In Manitoba, a
+road connected Winnipeg to beach resorts on
+Lake Winnipeg. South Dakota had the four-mile-long
+Deadwood Central, and Omaha had
+two glorified streetcar lines. Half a dozen other
+interurbans ran in Kansas and Oklahoma:
+small systems connected Pittsburg, Kansas,
+with Joplin, Missouri, and the seventy-seven-mile-long
+Union Electric Railway thrust south
+from Parsons, Kansas, to Nowata, Oklahoma.
+At the advent of interurbans, steam railroads
+already ran through just about all of the important
+urban centers, so no pressing need
+existed for an interurban network. Few of the
+region's interurbans came close to achieving
+the inexpensive, frequent, and fast service
+promised by their promoters.</p>
+
+<closer>
+<signed>Lawrence H. Larsen<lb/>
+University of Missouri-Kansas City</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hilton, George W., and John F. Due. <title level="m">The Electric Interurban
+Railways in America</title>. Stanford <hi rend="smallcaps">CA</hi>: Stanford University
+Press, 1960.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

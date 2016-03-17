@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tallchief, Maria (b. 1925)</title>
+<title level="m" type="sub"></title>
+<author>Lili Cockerille Livingston</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Livingston, Lili Cockerille">Lili Cockerille Livingston</author>. <title level="a">"Tallchief, Maria (b. 1925)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">130</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TALLCHIEF, MARIA (b. 1925)</head>
+
+<p>Born in Fairfax, Oklahoma, on January 24,
+1925, Elizabeth Marie Tall Chief became the
+first American classical dancer to earn international
+acclaim as a prima ballerina. Her parents,
+Alexander Joseph Tall Chief and Ruth
+Parker, had acquired their wealth from Osage
+oil money, and from her early years Elizabeth
+Marie was schooled in music and dance. In
+1930 Ruth moved the family to Hollywood,
+California, specifically to advance the music
+and dance careers of Elizabeth Marie and her
+younger sister Marjorie. Elizabeth Marie's talents
+as a pianist and dancer blossomed, and by
+her senior year at Beverly Hills High School
+she had chosen ballet for her career.</p>
+
+<p>Elizabeth Marie joined the Ballet Russe de
+Monte Carlo in 1942 and gained soloist status
+in 1943, the same year she changed her name
+to Maria Tallchief. Following her 1946 marriage
+to George Balanchine, the Russian-born
+choreographer acclaimed as the father of
+American ballet, Tallchief became the first
+American featured as a guest artist with the
+Paris Opera Ballet. She joined Balanchine's
+Ballet Society in 1947 and contributed to the
+company's development into the New York
+City Ballet the following year. Tallchief was
+featured in twenty-two major works created
+by Balanchine and is recognized as the prototype
+for what is known today as the "Balanchine
+ballerina." During her career with the
+New York City Ballet, which ended in 1965, she
+appeared as guest artist with companies such
+as the American Ballet Theatre during its 1958
+Russian tour and the Royal Danish Ballet. In
+addition to honors bestowed on her by the
+Osage Nation, the state of Oklahoma, and the
+dance world, Tallchief was named Indian of
+the Year in 1963. She received the Capezio
+Award in 1965, a Kennedy Center Honors in
+1996, and a National Arts Award in 1999.</p>
+
+
+<closer>
+<signed>Lili Cockerille Livingston<lb/>
+Tulsa, Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Livingston, Lili Cockerille. <title level="m">American Indian Ballerinas</title>.
+Norman: University of Oklahoma Press, 1997.</bibl> <bibl>Reynolds,
+Nancy. <title level="m">Repertory in Review: 40 Years of the New York City Ballet</title>. New York: Dial Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

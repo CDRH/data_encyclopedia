@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Television Shows</title>
+<title level="m" type="sub"></title>
+<author>Larry Walklin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Walklin, Larry">Larry Walklin</author>. <title level="a">"Television Shows."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">523</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TELEVISION SHOWS</head>
+<figure n="egp.med.046" rend="granted" type="noclick">
+<figDesc>DVD Cover for Gunsmoke, Season 1</figDesc>
+</figure>       
+
+<p>The Great Plains became an important component
+of television programming soon after
+the medium became successful on a national
+level. Programs included documentaries as
+well as traditional entertainment.</p>
+
+<p>Noncommercial educational (later called
+public) broadcasting led the way with a series
+entitled <title>Great Plains Trilogy</title>. The thirty-nine
+half-hour programs were produced in the
+1950s by Jack McBride of <hi rend="smallcaps">KUON-TV</hi> at the University
+of Nebraska. The first thirteen programs
+dealt with the paleontology of the region.
+The second set of thirteen programs
+considered archaeology. The third group emphasized
+Great Plains history. The Ford Foundation
+provided the funding, and the series
+was broadcast on educational/public television
+stations.</p>
+
+<p>In commercial broadcasting many popular
+programs about life on the American frontier
+did not indicate specific locations. Others that
+might be related to the Great Plains such as
+<title>Little House on the Prairie</title> were actually filmed
+in other areas. <title>Dallas</title>, the highest-rated commercial
+network program of the early 1980s,
+included episodes about the Texas Plains even
+though the city is peripheral to the region.</p>
+
+<p>One of the best known of the series clearly
+identified with the Great Plains was Gunsmoke
+(<hi rend="smallcaps">CBS</hi>, 1955-75), which starred James Arness as
+U.S. marshal Matt Dillon. <title>Gunsmoke</title>, which
+continued to enjoy success as a syndicated off-
+network rerun, was set in Dodge City, Kansas,
+in the 1870s and 1880s. The show's twenty
+years on the network included thirty-minute
+as well as sixty-minute versions. Amanda
+Blake (Kitty), Milburn Stone (Doc), Dennis
+Weaver (Chester), and Burt Reynolds (Quint)
+were key characters in this depiction of life in
+a western Kansas cattle town.</p>
+
+<p>Several other westerns were specifically set
+in the Plains. <title>The Dakotas</title> (<hi rend="smallcaps">ABC</hi>, 1963) included
+Larry Ward, Chad Everett, and Jack
+Elam as U.S. marshals. <title>The Cowboys</title> (<hi rend="smallcaps">ABC</hi>,
+1974) featured a cattle drive from a New Mexico
+ranch to Dodge City, Kansas, with a trail
+crew consisting of eleven nine- to fifteen-year-old
+children. <title>The Cisco Kid</title> (syndicated, 1951),
+based on the O. Henry character and probably
+the first television series to be filmed in color,
+involved a Robin Hood hero (played by Duncan
+Renaldo) and his partner, Pancho (Leo
+Carillo), in New Mexico during the 1890s.
+<title>Buckskin</title> (<hi rend="smallcaps">NBC</hi>, 1958 and 1965) cast Sallie Brophie
+as a widow hotel owner in 1880s Montana.
+Tommy Nolan played her son Jody who,
+seated on corral fence, plays his harmonica
+and narrates each story. <title>Branded</title> (<hi rend="smallcaps">NBC</hi>, 1965)
+placed Chuck Conners in southeastern Wyoming
+in the 1870s as a former soldier trying to
+clear his name. <title>Alias Smith and Jones</title> (<hi rend="smallcaps">ABC</hi>,
+1971–73) followed two bank robbers who, after
+ending criminal careers, are promised pardons
+if they prove themselves worthy for
+twelve months in Kansas during the 1890s. A
+comedy Western, <title>F Troop</title> (<hi rend="smallcaps">ABC</hi>, 1965–67), featured
+Forrest Tucker, Larry Storch, and Ken
+Berry in the Union army in 1866 in Kansas.</p>
+
+<p>Some programs were not located in identifiable
+states or towns but depicted the region
+more generally. One example, <title>How the West Was Won</title> (<hi rend="smallcaps">ABC</hi>, 1977), a three-part miniseries
+about a Virginia family homesteading in the
+Great Plains, brought former <title>Gunsmoke</title> star
+James Arness back to the region with costars
+Eva Marie Saint and Bruce Boxleitner. Another
+example, <title>Wagon Train</title> (<hi rend="smallcaps">NBC</hi>, <hi rend="smallcaps">ABC</hi>, 1957.
+65), followed a wagon master (Ward Bond until
+his death in 1960, when he was replaced by
+John McIntire) who led pioneers from a starting
+point at St. Joseph, Missouri, across the
+Plains to final destinations in the Far West.
+The eight-hour miniseries <title>Lonesome Dove</title>
+(<hi rend="smallcaps">CBS</hi>, 1989) offered solid performances by
+Robert Duvall, Tommy Lee Jones, and Anjelica
+Huston during a cattle drive from Lonesome
+Dove, Texas, to Montana. <title>Return to Lonesome Dove</title> (<hi rend="smallcaps">CBS</hi>, 1993) continued the
+story with Barbara Hershey and William Peterson
+as the stars.</p>
+
+<p>A different type of series, <title>Route 66</title> (<hi rend="smallcaps">CBS</hi>,
+1960-64), followed the adventures of two young
+men, played by Martin Milner and George Maharis,
+as they drove a white Chevrolet Corvette
+through the Great Plains and points west on that
+famous highway. The series benefited from successful
+recordings of the theme song, which was
+written by Nelson Riddle.</p>
+
+<p>Television programming tends to follow
+audience trends. Much of the emphasis in the
+Great Plains followed the interest in Westerns
+during the early years of the medium. When
+the Western declined in popularity, the Great
+Plains tended to fade from the screen. But as
+specialized locations returned to popularity,
+programming such as the <title>Lonesome Dove</title>
+miniseries and documentaries on the Oregon
+Trail, Lewis and Clark, and Native Americans
+have brought the focus back to the region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.019">Dodge City, Kansas</ref> / <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.080">The Western</ref> / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.032">Route 66</ref>.</p>
+
+<closer>
+<signed>Larry Walklin<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Phillips, Louis, and Burham Holmes. <title level="m"><hi rend="smallcaps">TV</hi> Almanac</title>. New
+York: Macmillan Publishing Company, 1994.</bibl> <bibl>Terrace, Vincent.
+<title level="m">Complete Encyclopedia of Television Programs</title>. New
+York: Barnes, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

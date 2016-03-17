@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">ASSEMBLIES OF GOD</title>
+<title level="m" type="sub"></title>
+<author>Gene Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brown, Gene">Gene Brown</author>. <title level="a">"Assemblies of God."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">735-736</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ASSEMBLIES OF GOD</head>
+
+<p>The Assemblies of God, headquartered in
+Springfield, Missouri, was founded in April
+1914, when 300 ministers and delegates assembled in Hot Springs, Arkansas, and sought a
+way to accredit ministers, commission and
+support missionaries, select a common biblical
+name, and establish a Bible training school.
+The convention lasted ten days and was characterized
+by passionate preaching, heated debate,
+fervent prayer, and an unusual unity that
+produced an agreement to form a "cooperative"
+fellowship of churches that would not
+be an organization but an "organism" empowered
+and directed by the Holy Spirit. The
+result of this meeting was called the General
+Council of the Assemblies of God.</p>
+
+<p>After Hot Springs, successful evangelistic
+campaigns were conducted in brush arbors,
+tents, town halls, and any other place where
+people could gather and seek God. Meetings
+were characterized by shouting, unusual physical
+manifestations, and testimonies of divine
+healing. Preaching was centered on four cardinal
+doctrines that included salvation by grace
+through faith, divine healing as part of Christ's
+atonement, the baptism in the Holy Spirit initially
+evidenced by speaking in tongues, and
+the imminent return of Jesus Christ to earth.
+Early Assemblies of God ministers called it the
+full gospel, and it swept through the High
+Plains like a prairie fire.</p>
+
+<p>By 1922 the Assemblies of God had established
+regional district councils in North
+Texas, West Texas, Oklahoma, Kansas, Nebraska,
+South Dakota, and North Dakota, all
+part of annual district councils that supervised
+a growing number of churches. By 1925
+the Pentecostal Assemblies of Canada had
+formed its own organization and begun a prolonged
+period of growth that is still expanding
+under the leadership of its present general superintendent,
+James McKnight.</p>
+
+<p>The Assemblies of God has flourished
+among the independent and highly individualistic
+communities of the Great Plains. Two of
+the largest districts of the Assemblies of God
+are in the Great Plains. In all, more than 1,700
+churches and 190,000 members throughout
+the Plains make up 10 percent of its total
+church membership. Outstanding leaders in
+the Assemblies of God, such as Bert Webb,
+Bartlett Petersen, Stanley Berg, G. Raymond
+Carlson, A. G. Ward, A. H. Argue, E. R. Foster,
+Hugh Cadwalder, A. A. Wilson, and the present
+general treasurer of the Assemblies of God,
+James K. Bridges, have all labored in Great
+Plains districts.</p>
+
+<closer>
+<signed>Gene Brown<lb/>
+Waxahachie, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burgess, Stanley M., and Gary B. McGee, eds. "Pentecostal
+Assemblies of Canada." In <title level="m">Dictionary of Pentecostal and
+Charismatic Movements</title>. Grand Rapids <hi rend="smallcaps">MI</hi>: Zondervan
+Publishing House, 1988: 695–99.</bibl> <bibl>Carlson, G. Raymond.
+"When Pentecost Came to the Upper Midwest." <title level="j">Assemblies
+of God Heritage</title> 4 (1984): 3–7.</bibl> <bibl>Menzies, William W.
+<title level="m">Anointed to Serve</title>. Springfield <hi rend="smallcaps">MO</hi>: Gospel Publishing
+House, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

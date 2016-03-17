@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mantle, Mickey (1931-1995)</title>
+<title level="m" type="sub"></title>
+<author>Kent M. Krause</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Krause, Kent">Kent Krause</author>. <title level="a">"Mantle, Mickey (1931-1995)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">778</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MANTLE, MICKEY (1931-1995)</head>
+<figure n="egp.sr.035" rend="granted" type="noclick">
+<figDesc>"New York Yankees centerfielder and Hall of Famer Mickey Mantle about 1953" (Photograph by Bowman Gum)</figDesc>
+</figure> 
+
+<p>One of the most recognized names in baseball
+history, Mickey Mantle starred for the New
+York Yankees in the 1950s and 1960s. Born in
+Spavinaw, Oklahoma, on October 20, 1931, he
+later moved with his family to nearby Commerce.
+Mantle's father, a lead and zinc miner,
+spent countless hours developing his son's
+baseball talent. While growing up, Mantle
+played on numerous local sandlot and youth
+teams. He graduated from Commerce High
+School in 1949 and was signed by the Yankees
+to play for their Class D minor-league team in
+Independence, Kansas. In 1950 he played in
+Joplin, Missouri, for a Class C team, and in the
+off-season he returned to Oklahoma to work
+with his father in the mines.</p>
+
+<p>After an impressive spring training in 1951,
+Mantle was promoted by New York to the major
+leagues. Over the next eighteen seasons the
+"Commerce Comet" established himself as
+the greatest switch-hitter in the game's history.
+Among his numerous achievements, Mantle
+led the league in home runs four times and
+won three most valuable player awards and
+one Triple Crown. Elected to the National
+Baseball Hall of Fame in his first year of eligibility,
+he finished his career with a .298 batting
+average and 536 home runs. Mantle's impressive
+statistics could have been even better had
+he not been plagued by numerous injuries.
+Following his retirement, Mantle's legend
+grew, and he was still a hero to millions in the
+1990s. After decades of heavy drinking, he required
+a liver transplant in June 1995 and died
+on August 13 of the same year.</p>
+
+<closer>
+<signed>Kent M. Krause<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Borst, William A. "Mantle, Mickey Charles." In <title level="m">A Biographical
+Dictionary of American Sports: Baseball</title>, edited
+by David L. Porter. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 1987.</bibl>
+<bibl>Falkner, David. <title level="m">The Last Hero: The Life of Mickey Mantle</title>.
+New York: Simon and Schuster, 1995.</bibl> <bibl>Mantle, Mickey,
+with Herb Glick. <title level="m">The Mick</title>. Garden City <hi rend="smallcaps">NY</hi>: Doubleday,
+1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

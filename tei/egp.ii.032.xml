@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Great American Desert</title>
+<title level="m" type="sub"></title>
+<author>Martyn J. Bowden</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bowden, Martyn J.">Martyn J. Bowden</author>. <title level="a">"Great American Desert."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">389</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GREAT AMERICAN DESERT</head>
+
+<p><persName reg="James, Edwin">Edwin James</persName>, chronicler of <persName reg="Long, Stephen">Stephen Long</persName>'s 1820 expedition, formed the image of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> (the Plains as a region unfit for American settlement), and geographies published in <geogName rend="region" reg="New England">New England</geogName> from 1820 to 1835 perpetuated the myth. Elite New Englanders wanted to end westward expansion and its concomitants: new states, senators, and congressmen and thus a diminution of <geogName rend="region" reg="New England">New England</geogName>'s political power. The wish was father to the Federalist myth of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> in the <geogName rend="region" reg="New England">New England</geogName> mind. In the remainder of the <geogName rend="region" reg="East">East</geogName>, beyond <geogName rend="region" reg="New England">New England</geogName> and its extensions, the desert, viewed as lying farther and farther west and increasingly narrow against the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountain</geogName> front from 1845 onward, was only one of a pool of myths about the <geogName rend="region" reg="Great Plains">Great Plains</geogName> that included the pastoral region and the garden. During the middle third of the century, even among the elite in the <geogName rend="region" reg="South">South</geogName> and the interior and especially on the frontier and on the eastern margins of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, the desert notion did not exist. The Mormons were the exception: from 1855 to the present, the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> had become an invented tradition for a majority of their literate public. The Mormon crossing of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, relatively easy and uneventful, was transformed by Mormon leaders in the pulpit into a neo-Mosaic traverse of their American Sinai, the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> east of the <geogName rend="mountains" reg="Rocky Mountains">Rockies</geogName>, which, among a number of traditions, proved the Mormons to be God's chosen people, the Latter-day Saints, and their leaders to be inspired by God.</p>
+
+<p>In the <geogName rend="region" reg="Great Plains">Plains</geogName> region, ignorance of the desert myth changed twenty years into the settlement process as boosters and writers for the railroads and state chambers of commerce published hundreds of pamphlets and books promoting the <geogName rend="region" reg="Great Plains">Plains</geogName>. The pamphlet writers, many of whom had been educated in the <geogName rend="region" reg="Northeast">Northeast</geogName> during the 1840s and 1850s, found it easy to contend that the agricultural frontier now existed 100 miles or so into the <geogName rend="region" reg="Great Plains of Nebraska">Plains of Nebraska</geogName> and <geogName rend="region" reg="Great Plains of Kansas">Kansas</geogName>, which had been labeled the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> during the writers' youth. The perceived agent of change in the <geogName rend="region" reg="Great Plains">Plains</geogName> was increased rainfall, caused either by plowing the soil or by tree planting, or a corollary of Manifest Destiny, or a reward from a benevolent God. In the escalation of <geogName rend="region" reg="Great Plains">Plains</geogName> promotion, the boosters referred to the "conquest" of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> and challenged the prospective migrant to go west and further the change. The boosters, local county historians, and <geogName rend="region" reg="Great Plains">Plains</geogName> newspaper editors of the period from 1870 to 1900 erased the memory of the land actually encountered by the pioneers.</p>
+
+<p>After 1880 <geogName rend="region" reg="Great Plains">Plains</geogName> pioneers, predominantly midwesterners who had encountered no <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> in their texts in the 1850s and 1860s, conveniently adopted the eastern boosters' textbook desert in their reminiscences recorded for state historical societies and for publishers of county histories. They talked themselves into believing that they had either conquered or disproved the existence of the desert. In effect, they initiated the process of the reinvention of the tradition of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> by claiming to have conquered it. The romantic <geogName rend="region" reg="Great Plains">Plains</geogName> historians from 1885 to 1910 drew on these pioneer recollections without knowing of the selfglorification embedded within them, completed the reinvention of the desert tradition, and propagated it.</p>
+
+<p>In <hi rend="italic">The Great Plains</hi> (1931), <persName reg="Webb, Walter Prescott">Walter Prescott Webb</persName> recapitulated the boosters' rediscovery of the desert in the 1870s; the only difference between <persName reg="Webb, Walter Prescott">Webb</persName>'s discovery and that of his booster predecessors was that he found in the 1920s references to the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> in three school geographies from 1840 and 1850. Based upon these, he built a factitious superstructure: the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> idea did exist in the American mind from 1820 to 1870, was at its most popular in the 1850s, and halted the American frontier. American historians who wrote the school and college textbooks followed <persName reg="Webb, Walter Prescott">Webb</persName>'s interpretation of the desert myth. The paradox exists, therefore, that during the period from 1820 to 1870, when <persName reg="Webb, Walter Prescott">Webb</persName> and his followers claimed that a <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> existed in the American mind, practically nobody, excepting the Mormons after 1855 and a well-educated minority in the <geogName rend="region" reg="Northeast">Northeast</geogName> before 1855, believed in the existence of a desert west of the Missouri. The only period during which a belief in either a real or an imaginary <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> region ever existed consensually in the American mind, and then only among the high-school- and college-educated, was from 1920 to 1970</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.026">Long, Stephen H.</ref>; <ref n="egp.war.035">Pike, Zebulon</ref></p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Martyn J. Bowden<lb/>
+Clark University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Bowden, Martyn J. "<title level="a">The Great American Desert and the American Frontier, 1800-1882: Popular Images of the Plains</title>." In <title level="m">Anonymous Americans: Explorations in Nineteenth-Century Social History</title>, edited by Tamara K. Hareven. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall, 1971: 48-79.</bibl> <bibl>Bowden, Martyn J. "<title level="a">The Great American Desert in the American Mind: The Historiography of a Geographical Notion</title>." In <title level="m">Geographies of the Mind: Essays in Historical Geosophy in Honor of John Kirtland Wright</title>, edited by David Lowenthal and Martyn J. Bowden. New York: Oxford University Press, 1976: 119-47.</bibl> <bibl>Lewis, G. Malcolm. "<title level="a">Regional Ideas and Reality in the Cis-Rocky Mountain West</title>." <title level="j">Transactions, Institute of British Geographers</title> 38 (1966): 135-50.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

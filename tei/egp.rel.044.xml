@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sanapia (1895-1984)</title>
+<title level="m" type="sub"></title>
+<author>Akim D. Reinhardt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reinhardt, Akim D.">Akim D. Reinhardt</author>. <title level="a">"Sanapia (1895-1984)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">756-757</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANAPIA (1895-1984)</head>
+
+<p>Sanapia (Memory Woman), the last known
+Comanche Eagle Doctor, was born at Fort Sill,
+Oklahoma, in the spring of 1895. She was one
+of the most powerful Native women in the
+Plains during the middle decades of the twentieth
+century. Her father was a converted
+Christian and her mother was a traditional
+Comanche-Arapaho. Sanapia's mother, maternal
+uncle, and maternal grandmother were
+Eagle Doctors, and her grandmother reared
+the girl in traditional Comanche ways.</p>
+
+<p>From ages seven to thirteen Sanapia was
+educated at the Cache Creek Mission School
+in southern Oklahoma. Thereafter, she began
+training with her mother. She was reluctant at
+first, but her uncle had cured her of influenza
+as a child and had made her promise to pursue
+training as an Eagle Doctor when she was
+older. He named her Memory Woman to remind
+her of her pledge. Training included
+learning herbal medicine, healing skills (including
+sucking), and eagle power. Tradition,
+however, stipulated that she could not begin
+practicing until after menopause.</p>
+
+<p>Sanapia was married three times, the first
+time, briefly, at the age of seventeen. When her
+second husband (with whom she had two
+children) died in the 1930s, Sanapia's grief led
+her to a period of drinking, gambling, and
+depression. In 1945 she healed a child at her
+sister's behest, and subsequently she assumed
+her role as an Eagle Doctor. She eventually
+incorporated elements of the Native American
+Church and Christianity into her traditional
+teachings.</p>
+
+<p>By the 1960s she was the last surviving Comanche
+Eagle Doctor with maximum powers.
+Concerned that she would not be able to pass
+on her powers before dying, she allowed anthropologist
+David E. Jones to write an account
+of her life and her healing powers. They
+produced a book in 1972, which she hoped
+would serve as a training manual for the future
+generations.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.020">Comanches</ref>.</p>
+
+<closer>
+<signed>Akim D. Reinhardt<lb/>
+Towson University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jones, David E. <title level="m">Sanapia, Comanche Medicine Woman</title>.
+New York: Holt, Rinehart and Winston, 1972.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

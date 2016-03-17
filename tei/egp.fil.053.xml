@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Oklahoma!</hi></title>
+<title level="m" type="sub"></title>
+<author>Stefanie Decker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Decker, Stefanie">Stefanie Decker</author>. <title level="a">"<hi rend="italic">Oklahoma!</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">276</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">OKLAHOMA!</hi></head>
+<figure n="egp.fil.053" rend="granted" type="noclick">
+<figDesc>Oklahoma! (1955) film poster</figDesc>
+</figure>    
+
+<p><title>Oklahoma!</title> (directed by Fred Zinneman) was
+one of the most popular films of the 1950s.
+The musical, written by Richard Rodgers and
+Oscar Hammerstein, was based on Lynn
+Riggs's Broadway play, <title>Green Grow the Lilacs</title>.
+The musical was adapted into a movie in 1955.</p>
+
+<p>The story takes place in Indian Territory
+(later Oklahoma) during the early 1900s and
+concerns the rivalry between a cowboy, Curly,
+and a ranch hand, Jud Frye, for the love of an
+Oklahoma farm girl, Laurie Williams. While
+the 1943 Broadway musical was a success for
+Rodgers and Hammerstein, the film version,
+starring Shirley Jones (Laurie), Gordon Mac-
+Rae (Curly), and Rod Steiger (Jud Frye), made
+<title>Oklahoma!</title> an overnight sensation. The film
+version also included performances by Gloria
+Grahame, Eddie Albert, and Charlotte Greenwood.
+Revolutionary for its time, the musical
+incorporated plot, music, and dance, with
+choreography by Agnes De Mille. The score of
+<title>Oklahoma!</title> also proved highly popular, including
+songs such as "Oh, What a Beautiful
+Mornin'," "The Surrey with the Fringe on
+Top," "I Can't Say No," and "People Will Say
+We're in Love." The title song, "Oklahoma,"
+became the official state song. Although the
+musical presented an idealized story of life on
+the Plains frontier, the film version was actually
+shot in Arizona. The film won Academy
+Awards for best score, best editing, and best
+sound as well as nominations for best film and
+cinematography. In 1955 the New York Film
+Critics Circle named <title>Oklahoma!</title> the year's
+best film.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: 
+<ref n="egp.lt.065">Riggs, Rollie Lynn</ref>.</p>
+
+<closer>
+<signed>Stefanie Decker<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bronner, Edwin. <title level="m">The Encyclopedia of the American Theater, 1900–1975</title>. New York: A. S. Barnes, 1980.</bibl> <bibl>Lynch,
+Richard Chigley. <title level="m">Musicals!: A Directory of Musical Properties Available for Production</title>. Chicago: American Library
+Association, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

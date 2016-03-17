@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sheridan, Philip (1831-1888)</title>
+<title level="m" type="sub"></title>
+<author>Gary Trogdon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Trogdon, Gary">Gary Trogdon</author>. <title level="a">"Sheridan, Philip (1831-1888)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">836</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SHERIDAN, PHILIP (1831-1888)</head>
+<figure n="egp.war.042" rend="granted" type="noclick">
+<figDesc>Portrait photograph of Philip Sheridan</figDesc>
+</figure> 
+
+<p>Philip Henry Sheridan, five feet five inches tall
+and unimpressive looking, was commander of
+the Military Division of the Missouri during
+controversial stages of Native American conflict
+with post–Civil War westward expansion.
+Sheridan was born on March 6, 1831, in (probably)
+Albany, New York, and grew up in Ohio.
+A rather undistinguished student, Sheridan
+graduated from the U.S. Military Academy at
+West Point in 1853 and served in Texas and the
+Pacific Northwest. He rose to the rank of major
+general by serving with distinction during
+the Civil War as commander of the Army of
+the Potomac's cavalry division. After the Civil
+War, Sheridan performed short stints in
+Reconstruction-era Texas and Louisiana before
+going to Fort Leavenworth, Kansas, in the
+spring of 1868. He was given command of the
+Military Division of the Missouri in 1869 and
+promoted to lieutenant general. In 1875 he
+would marry Irene Rucker, his quartermaster's
+daughter, and together they had four
+children.</p>
+
+<p>Too few soldiers, many with less than desirable
+attitudes and character, too many forts to
+garrison, and too large an area to defend were
+just some of the problems confronted by the
+careful and deliberative commander. Directed
+by the "epeace policy" of the politicians, eastern
+philanthropists, and social reformers, Sheridan
+soon developed his strategy. He had two
+main principles for dealing with Native Americans,
+for whom he showed little sympathy. The
+first was to place all Indians on well-guarded
+reservations and have the U.S. government
+feed and clothe them. The second was to capture
+and punish any Indians found off their
+reservation. To institute this policy, Sheridan
+ordered a new type of warfare against Native
+Americans.winter campaigning. His offensive
+efforts, typified by Lt. Col. George Armstrong
+Custer's winter battle at the Washita
+River against the Cheyennes (November 17,
+1868), proved successful. Columns of lightly
+supplied cavalry troops converged on the Indians
+in winter quarters, where they were immobile
+because of women, children, and weakened
+ponies.</p>
+
+<p>Sheridan campaigned widely in the Plains
+in the 1870s, against the Lakotas in the Sioux
+War and against the Comanches, Kiowas,
+Southern Cheyennes, and Southern Arapahos
+in the Red River War. He was promoted to
+general in chief of the army in 1883 and general
+of the army in 1888. That same year, on
+August 5, he fell victim to a fatal heart attack at
+Nonquitt, Massachusetts.</p>
+
+<closer>
+<signed>Gary Trogdon<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hutton, Paul. <title level="m">Phil Sheridan and His Army</title>. Lincoln: University
+of Nebraska Press, 1985.</bibl> <bibl>Morris, Roy, Jr. <title level="m">Sheridan:
+The Life and Wars of General Phil Sheridan</title>. New York:
+Crown Publishers, Inc., 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

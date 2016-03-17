@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Birdsell, Sandra (b. 1942)</title>
+<title level="m" type="sub"></title>
+<author>Douglas Reimer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reimer, Douglas">Douglas Reimer</author>. <title level="a">"Birdsell, Sandra (b. 1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">474-475</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BIRDSELL, SANDRA (b. 1942)</head>
+
+<p>Sandra Birdsell, who was born in the small
+town of Hamiota, Manitoba, on April 22, 1942,
+is the author of two novels, three volumes of
+short fiction, one collection of short stories,
+and a children's book. She has also written
+scripts for television. Her <title level="m">Agassiz Stories</title> was
+chosen by Macleans as one of the ten best
+books of 1987, and her short story "Falling in
+Love" received the National Magazine Award
+in 1984.</p>
+
+<p>Most of her adult fiction, essentially realist
+in style, is set in the fictional southern Manitoba
+town of Agassiz. Her stories typically concern
+the encounter of young women either
+with men who don't deserve them or with unimaginative
+old people (grandparents, neighbors,
+accidental acquaintances) who have
+grown weary of life. Birdsell writes a marvelous
+short story: "Night Travelers," "Ladies of the
+House," and "The Two-Headed Calf" all share
+that irresistibility common to excellent writing.
+"Night Travelers," for instance, tells of
+a mixed Mennonite-Metis marriage that has
+gone wrong. Various members of the family
+gradually come to know of the wife's infidelity.
+Birdsell's novels excel at introducing conflicts
+that the reader longs to see resolved. Middleaged,
+eccentric Minnie Pullman starts off <title level="m">The Missing Child</title> (1989) with a vision she has while
+floating naked down the Red River at night
+that the world is about to experience a second
+Noah's flood. Young Amy, early in <title level="m">The Chrome Suite</title> (1995), is marked for life by a ruffian's
+kick in the stomach. She manages to blame
+all the subsequent sufferings and disappointments
+in her life on this youthful tragedy and
+the chronic pain beneath her ribs. Birdsell's
+<title level="m">The Town that Floated Away</title> (1997) charms
+us with the adventures of an irrepressible orphan,
+Virginia Potts, who faces an ethical dilemma
+she almost does not solve. Like much of
+her adult fiction, this story makes use of the
+theme or symbol of a catastrophic, worldchanging
+flood.</p>
+
+<closer>
+<signed>Douglas Reimer<lb/>
+University of Manitoba</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.rel.018 SYSTEM "egp.rel.018.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Doukhobors</title>
+<title level="m" type="sub"></title>
+<author>John W. Friesen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Friesen, John W.">John W. Friesen</author>. <title level="a">"Doukobors."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">742-743</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOUKOBORS</head>
+
+<figure n="egp.rel.018" rend="granted">
+<figDesc>Ruins of a Doukhobor prayer home near Kamsack, Saskatchewan (above), Doukhobor prayer home in Saskatoon, Saskatchewan (below)</figDesc>
+</figure>
+
+<p>Originating in seventeenth-century southern
+Russia, the Doukhobors (Spirit Wrestlers)
+were one of nearly 200 sects to break away
+from the Russian Orthodox Church. The
+Doukhobors renounced all human institutions,
+including church and government, and
+became pacifists.</p>
+
+<p>Persecution in Russia and generous immigration
+policies framed by Clifford Sifton,
+Canada's minister of the interior, lured a constituent
+of 7,500 Doukhobors to Canada in
+1899. The Canadian government agreed to
+their two stated requirements: that they be exempt
+from military service and that they
+be permitted to settle in solid blocks. They
+soon established fifty-seven successful farming
+communes in east-central Saskatchewan.
+Sifton wanted experienced farmers to settle
+the Great Plains, and the Doukhobors certainly
+qualified. For generations they had
+tilled the soil, and Leo Tolstoy called them
+"the best farmers in Russia."</p>
+
+<p>In 1902, without warning, the Canadian
+government insisted that the Doukhobors individually
+register their settlement lands by
+swearing allegiance to the Crown, something
+the Doukhobor conscience would not allow.
+Reaction to the demand caused a three-way
+split among the Doukhobors. One group,
+composed of 236 families, complied and became
+known as Independent Doukhobors.
+They continue to farm in east-central Saskatchewan
+around the towns of Blaine Lake,
+Canora, and Kamsack. Another more zealous
+faction, known as the Sons of Freedom, determined
+to embarrass the government with a
+protest march, but the cold October weather
+drove them back home. The main group (the
+Community Doukhobors) sent for their leader
+from Russia, Peter the Lordly Verigin, and he
+led them to British Columbia, where previously
+owned lands were purchased that did
+not require the dreaded oath of allegiance.</p>
+
+<p>The Doukhobor contribution to Plains agriculture
+cannot easily be exaggerated. By 1903
+the community owned sixteen steam engines,
+eleven threshing machines, six flour mills, and
+five sawmills. They had amassed 600 horses,
+400 oxen, and 865 cows. Just prior to their
+migration to British Columbia, they managed
+258,880 acres of farmland, of which 49,429
+acres had been seeded. The land was cultivated
+the hard way, with oxen, and sometimes
+even by hand. Although challenged by harsh
+winds, unpredictable water supplies, and the
+occasional prairie fire, the Doukhobors prevailed.</p>
+
+<p>The fate of the British Columbia Doukhobors
+(the Christian Community of Universal
+Brotherhood, or CCUB) bordered on the
+tragic. Peter Verigin was killed on October 24,
+1924, when the train he was riding from Castlegar
+to Grand Forks, British Columbia, was
+hit by an explosion. In 1938, partially in fear
+of such a large utopian experiment, involving
+some 10,000 people with property worth $6
+million, the Canadian government initiated
+a surprise foreclosure on the community.
+Doukhobor lands and properties were seized
+and sold at prices well below cost, and the
+ccub was liquidated.</p>
+
+<p>Eager to keep their vision alive, the Doukhobors
+formed the Union of Spiritual Communities
+in Christ (<hi rend="smallcaps">USCC</hi>), which continues to
+sponsor a number of local and national events
+related to Doukhobor history, spirituality, and
+culture.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.074">Sifton, Clifford</ref>.</p>
+
+<closer>
+<signed>John W. Friesen<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Friesen, John W., and Michael M. Verigin. <title level="m">The Community
+Doukhobors: A People in Transition</title>. Ottawa: Borealis
+Press, 1996.</bibl> <bibl>Tarasoff, Koozma J. <title level="m">Plakun Trava: The
+Doukhobors</title>. Grand Forks, British Columbia: Mir Publication
+Society, 1982.</bibl> <bibl>Woodcock, George, and Ivan Avakumovic.
+<title level="m">The Doukhobors</title>. Toronto: McClelland and Stewart
+Ltd., 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

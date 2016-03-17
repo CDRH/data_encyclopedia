@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.gen.000 SYSTEM "egp.gen.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gender</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Gender</head>
+
+<figure n="egp.gen.000" rend="granted">
+<figDesc>Patsy Rodgers Henderson, the first Calgary Stampede Queen, 1946</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.gen.001">Gender</ref></item>
+<item><ref n="egp.gen.002"><hi rend="italic">Albert v. Albert</hi></ref></item>
+<item><ref n="egp.gen.003">Barnard, Kate</ref></item>
+<item><ref n="egp.gen.004"><hi rend="italic">Berdache</hi></ref></item>
+<item><ref n="egp.gen.005">Binnie-Clark, Georgina</ref></item>
+<item><ref n="egp.gen.006">Calamity Jane</ref></item>
+<item><ref n="egp.gen.007">Captivity Narratives</ref></item>
+<item><ref n="egp.gen.008">Cleary, Kate M.</ref></item>
+<item><ref n="egp.gen.009">Colby, Clara</ref></item>
+<item><ref n="egp.gen.010">Diggs, Annie</ref></item>
+<item><ref n="egp.gen.011">Earhart, Amelia</ref></item>
+<item><ref n="egp.gen.012">Eastman, Elaine Goodale</ref></item>
+<item><ref n="egp.gen.013">Field Matrons</ref></item>
+<item><ref n="egp.gen.014">Gay and Lesbian Life</ref></item>
+<item><ref n="egp.gen.015">Gender and Sense of Place</ref></item>
+<item><ref n="egp.gen.016">Gendered Space</ref></item>
+<item><ref n="egp.gen.017">Hayes, Kate Simpson</ref></item>
+<item><ref n="egp.gen.018">Hind, Cora</ref></item>
+<item><ref n="egp.gen.019">Hired Girls</ref></item>
+<item><ref n="egp.gen.020">Hooker, Evelyn</ref></item>
+<item><ref n="egp.ii.041">Mad Pioneer Women <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.gen.022">Mail-Order Brides</ref></item>
+<item><ref n="egp.gen.023">McClung, Nellie</ref></item>
+<item><ref n="egp.fol.028">Mock Weddings <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.gen.025">Murphy, Emily Ferguson</ref></item>
+<item><ref n="egp.gen.026">Native American Gender Roles</ref></item>
+<item><ref n="egp.gen.027">Peattie, Elia</ref></item>
+<item><ref n="egp.gen.028">Persons Case</ref></item>
+<item><ref n="egp.gen.029">Quilting Circles</ref></item>
+<item><ref n="egp.gen.030">Rodeo Queens</ref></item>
+<item><ref n="egp.gen.031">Sacagawea</ref></item>
+<item><ref n="egp.gen.032">Salter, Susanna</ref></item>
+<item><ref n="egp.gen.033">Saskatchewan Women Grain Growers</ref></item>
+<item><ref n="egp.fol.040">Shivarees <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.gen.035">Slaughter, Linda</ref></item>
+<item><ref n="egp.gen.036">Stewart, Elinore Pruitt</ref></item>
+<item><ref n="egp.gen.037">Suffrage Movement</ref></item>
+<item><ref n="egp.gen.038">United Farm Women of Alberta</ref></item>
+<item><ref n="egp.gen.039">Victorian Women Travelers</ref></item>
+<item><ref n="egp.gen.040">Women Homesteaders</ref></item>
+<item><ref n="egp.gen.041">Women in Agriculture</ref></item>
+<item><ref n="egp.edu.040">Women in Higher Education <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.gen.043">Women in Fur Trade</ref></item>
+<item><ref n="egp.pd.059">Women of All Red Nations</ref></item>
+<item><ref n="egp.gen.045">Women Warriors</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

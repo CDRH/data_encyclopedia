@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.067 SYSTEM "egp.pg.067.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.067">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rankin, Jeannette (1880-1973)</title>
+<title level="m" type="sub"></title>
+<author>Forest L. Grieves</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.067</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grieves, Forest L.">Forest L. Grieves</author>. <title level="a">"Rankin, Jeannette (1880-1973)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">685</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RANKIN, JEANNETTE (1880-1973)</head>
+
+<figure n="egp.pg.067" rend="granted">
+<figDesc>Jeannette Rankin</figDesc>
+</figure>
+
+<p>Jeannette Rankin, the first woman elected to
+the U.S. Congress (1916), was born on a ranch
+near Missoula, Montana Territory, on June 11,
+1880. She was the eldest of seven children of
+Olive Pickering Rankin and John Rankin, who
+was successful in the ranching and lumbering
+business. Her early development and subsequent
+career were no doubt influenced by the
+relative remoteness of Montana, the freedom
+and challenges of frontier life, and the harsh
+environmental demands, all of which required
+a strong and independent character.</p>
+
+<p>Following graduation from the University
+of Montana with a bachelor of science degree
+in biology in 1902, she worked for a time as
+a country schoolteacher and as a part-time
+seamstress. In 1908 she left Montana to study
+at the New York School of Philanthropy (now
+the Columbia University School of Social
+Work), and after a brief stint as a social worker
+in Montana and Washington, she entered the
+University of Washington in 1909. She became
+active in the successful state campaign for
+women's suffrage in 1910, which energized her
+and helped define her subsequent career, focusing
+on suffrage and then incorporating
+pacifist issues.</p>
+
+<p>The approval by Montana of female suffrage
+in 1914 set the stage for her own campaign for
+one of Montana's at-large seats in the U.S.
+House of Representatives as a progressive Republican.
+Her previous work for suffrage in
+Montana gave her contacts, organizational
+skills, public speaking ability, and a knowledge
+of Montana voters that served her well. In her
+campaign she traveled the vastness of the state
+by train and automobile (which she drove herself) to speak to groups as disparate as mountain
+miners, Plains farmers, and women's
+groups. She spoke on street corners, in lumber
+camps, union halls, and kitchens. Her brother,
+Wellington, who became a highly successful
+lawyer and prominent Republican in Montana,
+managed her successful campaign.</p>
+
+<p>Jeannette Rankin served two terms in Congress&#8211;separated by twenty years&#8211;where she
+worked hard for reform legislation ranging
+from women's issues to various problems of
+specific concern to western states. She was defined
+as a pacifist when her congressional
+terms (1917-19 and 1941-43) coincided with
+the outbreak of the two World Wars, and she
+was the only member of Congress to vote
+against U.S. entry into both of them. Whereas
+she received considerable support for her
+stance in 1917, she was accorded very little support
+in the different atmosphere of 1941. Failing
+to win reelection each time, she devoted
+her efforts to active involvement in various
+pacifist organizations and to world travels.</p>
+
+<p>She returned briefly to public life in 1968, as
+part of a women's coalition called the Jeannette
+Rankin Brigade, to march on Washington
+in protest of the Vietnam War. Even as she
+passed the age of ninety, she continued to give
+interviews and speeches opposing the Vietnam
+War and supporting women's rights. In
+1971 the National Organization of Women
+named her as the first member of the Susan B.
+Anthony Hall of Fame, acclaiming her contribution
+to the cause of women's rights. But her
+health was deteriorating, and she died in Carmel,
+California, on May 18, 1973.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.037">Suffrage Movement</ref>.</p>
+
+<closer>
+<signed>Forest L. Grieves<lb/>
+University of Montana</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Giles, Kevin S. <title level="m">Flight of the Dove: The Story of Jeannette
+Rankin</title>. Beaverton <hi rend="smallcaps">OR</hi>: Touchstone Press, 1980.</bibl> <bibl>Josephson,
+Hannah. <title level="m">Jeannette Rankin: First Lady in Congress&#8211;A Biography</title>.
+Indianapolis: Bobbs-Merrill Company, Inc., 1974.</bibl>
+<bibl>Richey, Elinor. <title level="m">Eminent Women of the West: Jeannette
+Rankin, Woman of Commitment</title>. Berkeley: Howell-North
+Books, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

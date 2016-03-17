@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Polka Music</title>
+<title level="m" type="sub"></title>
+<author>Richard March</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="March, Richard">Richard March</author>. <title level="a">"Polka Music."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">546</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POLKA MUSIC</head>
+
+<p>The polka, a couples dance in duple time, was
+popular in much of Europe during the second
+half of the nineteenth century. Since many immigrants
+from Europe settled in the Great
+Plains during that period, they brought an affinity
+for the polka dance and the associated
+music with them as part of their cultural legacy.
+Germans and Czechs, in particular, have
+tended to be the most active in perpetuating
+the polka tradition in the Great Plains, but
+Poles, Swedes, Danes, Norwegians, Finns, Italians,
+Slovenians, Croatians, and other European
+Americans also identify the polka as part
+of their ethnic heritage.</p>
+
+<p>The nineteenth-century polka craze also
+entered Mexico from Europe, and Mexican
+musicians in Texas interacted with musical
+German, Polish, and Czech immigrants there
+to shape the polka style of the Tex-Mex <hi rend="italic">conjuntos</hi>
+(bands). During the twentieth century
+Mexican Americans migrated to many areas
+of the Great Plains, bringing the conjunto
+style of polka music and dancing with them.</p>
+
+<p>Polka musicians in the Great Plains play in
+several distinctive styles. The names of the
+most influential styles refer to ethnic groups&#8211;
+Czech or "Bohemian," German or "Dutchman,"
+Polish, Mexican, and Slovenian. There
+is a core constituency of dancers and players
+from the particular ethnic group in each of the
+polka "scenes"; however, people from a variety
+of other ethnic backgrounds participate as
+well. Mutual influences are common in the
+music and dancing.</p>
+
+<p>In rural areas, Czechs and Germans have
+been the most active. There are important
+concentrations of Czech bands in eastern Nebraska
+and central Texas. Both the Czech
+and German polka styles tend to emphasize
+brass and reed instruments in interaction with
+an accordion or concertina. The Dutchman
+style of German American music, originally
+from southern Minnesota, has also been influential
+in the Great Plains. Broadcasts of the
+Whoopee John Orchestra over Minneapolis's
+clear channel station wcco were avidly followed
+on the Plains, and the well-known
+Dutchman bands toured westward from Minnesota.
+Thus German bands from the Dakotas
+to Kansas often use the Chemnitzer type of
+concertina played by Whoopee John. The
+Czech bands, on the other hand, tend to utilize
+the diatonic button box accordion or
+modern piano keyboard accordion. The German
+bands strive for a smoother blended
+brass and reed sound, while the Czech bands
+opt for an incisive brassy or reedy tone from
+the wind instruments.</p>
+
+<p>Germans from Russia have developed Dutch
+Hop, a polka style unique to the Great Plains
+and played mainly in western Nebraska and
+eastern Colorado. The hammer dulcimer is an
+important instrument in Dutch Hop, and the
+trombone provides the bass line rather than the
+tuba of the Dutchman and Czech bands.</p>
+
+<p>Polish- and Slovenian-style polka bands are
+strongest in urban centers like Omaha and
+Kansas City, although on the western Plains
+there are also Slovenian bands in mining and
+mill towns. Polish bands are influenced by
+Chicago Polish musicians like Lil' Wally and
+Eddie Blazonczyk. They use the Chemnitzer
+concertina interacting with brass and reeds
+played in a raucous and polyphonic style.
+Slovenian bands foreground the accordion accompanied
+by tenor or plectrum banjo. Slovenian
+and Polish bands avoid the tuba, using a
+string bass, bass guitar, or recently a Midi bass
+synthesizer played by the accordion player
+with his or her left hand.</p>
+
+<closer>
+<signed>Richard March<lb/>
+Wisconsin Arts Board</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Greene, Victor. <title level="m">A Passion for Polka</title>. Berkeley: University of
+California Press, 1992.</bibl> <bibl>Keil, Charles, Angeliki V. Keil, and
+Dick Blau. <title level="m">Polka Happiness</title>. Philadelphia: Temple University
+Press, 1992.</bibl> <bibl>Leary, James P., and Richard March. <title level="m">Down Home Dairyland: A Listener's Guide</title>. Madison: University
+of Wisconsin–Extension, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

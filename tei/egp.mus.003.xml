@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Axton, Hoyt (1938-1999)</title>
+<title level="m" type="sub"></title>
+<author>Bill Markwick</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Markwick, Bill">Bill Markwick</author>. <title level="a">"Axton, Hoyt (1938-1999)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">533</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-31</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AXTON, HOYT (1938-1999)</head>
+<figure n="egp.mus.003" rend="granted">
+<figDesc>Hoyt Axton playing guitar</figDesc>
+</figure>      
+
+<p>Singer, songwriter, guitarist, and actor Hoyt
+Axton was born on March 25, 1938, in the
+small town of Duncan in southwestern Oklahoma.
+He was the son of Mae Boren Axton
+(1915–97), who cowrote the 1956 Elvis Presley
+hit song "Heartbreak Hotel." A football scholarship
+led to Oklahoma University, though he
+left in the late 1950s to join the navy.</p>
+
+<p>Axton began writing and performing on his
+own in West Coast music clubs during the
+burgeoning folk music revival of the late 1950s
+and early 1960s. While he built up a loyal following
+on the folk club circuit, he remained
+relatively unknown until his song "Greenback
+Dollar" was recorded by the Kingston Trio in
+1962; it led to a recording contract with Horizon
+Records and albums such as <title>Balladeer</title>
+(1962), <title>Thunder 'n' Lightning</title> (1963), and <title>Saturday's Child</title> (1963).</p>
+
+<p>The popular rock band Steppenwolf recorded
+Axton's song "The Pusher" in 1964; it
+rose to the top levels of the pop charts and was
+eventually included in the sound track of the
+1969 film <title>Easy Rider</title>. In the mid-1960s Axton
+became interested in acting and performed in
+the television series <title>Bonanza</title>, <title>Bionic Woman</title>,
+and <title>McCloud</title>. His later motion picture roles
+included parts in <title>Black Stallion</title> (1979), <title>E.T.</title>
+(1983), and <title>Gremlins</title> (1984). He was also a guest
+on many television talk and variety shows.</p>
+
+<p>The rock band Three Dog Night recorded
+Axton's "Joy to the World" and "Never Been
+to Spain" in 1971 and took him on tour as
+an opening act. Concert tours of the United
+States, Europe, and Asia followed, along with
+the recording of many more albums. His songs
+have also been recorded by Waylon Jennings,
+Glen Campbell, John Denver, and Ringo Starr.
+Hoyt Axton died on October 26, 1999, at his
+home in Victor, Montana.</p>
+
+<closer>
+<signed>Bill Markwick<lb/>
+Toronto, Ontario</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clarke, Donald. <title level="m">The Penguin Encyclopedia of Popular Music</title>.
+London: Viking Books, 1989.</bibl> <bibl>Stambler, Irwin, and
+Landon Grelun. <title level="m">The Encyclopedia of Folk, Country &amp; Western
+Music</title>. New York: St. Martin's Press, 1984.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

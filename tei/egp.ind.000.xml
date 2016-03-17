@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ind.000 SYSTEM "egp.ind.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Industry</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+
+
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Industry</head>
+
+<figure n="egp.ind.000" rend="granted">
+<figDesc>Anna Anderson #1, 1905.</figDesc>
+</figure>
+
+<list>
+<item><ref n="egp.ind.001">Industry</ref></item>
+<item><ref n="egp.ind.002">Aerospace</ref></item>
+<item><ref n="egp.ind.003">Agribusiness</ref></item>
+<item><ref n="egp.ind.004">Agricultural Commodity Markets</ref></item>
+<item><ref n="egp.ind.005">American Fur Company</ref></item>
+<item><ref n="egp.ind.006">Automotive</ref></item>
+<item><ref n="egp.ind.007">Banking</ref></item>
+<item><ref n="egp.ind.008">Biotechnology</ref></item>
+<item><ref n="egp.ind.009">Buffett, Warren</ref></item>
+<item><ref n="egp.ind.010">Canadian Pacific Railway</ref></item>
+<item><ref n="egp.ind.011">Center Pivots</ref></item>
+<item><ref n="egp.ind.012">Chouteau, Pierre, Jr.</ref></item>
+<item><ref n="egp.ind.013">Clark, Jim</ref></item>
+<item><ref n="egp.ind.014">Coal</ref></item>
+<item><ref n="egp.ind.015">Coleman, William</ref></item>
+<item><ref n="egp.ind.016">ConAgra Foods</ref></item>
+<item><ref n="egp.ind.017">Cotton Industry</ref></item>
+<item><ref n="egp.ind.018">Ethanol</ref></item>
+<item><ref n="egp.ind.019">Farm Implements</ref></item>
+<item><ref n="egp.ind.020">Feedlots</ref></item>
+<item><ref n="egp.ind.021">Foreign Investment</ref></item>
+<item><ref n="egp.ind.022">Fur Trade</ref></item>
+<item><ref n="egp.ind.023">Gateway, Inc.</ref></item>
+<item><ref n="egp.ind.024">Goodnight, Charles</ref></item>
+<item><ref n="egp.ind.025">Grain Processing</ref></item>
+<item><ref n="egp.ind.026">Hallmark Cards, Inc.</ref></item>
+<item><ref n="egp.ind.027">Headbolt Heater</ref></item>
+<item><ref n="egp.ind.028">Homestake Mine</ref></item>
+<item><ref n="egp.ind.029">Hudson's Bay Company</ref></item>
+<item><ref n="egp.pd.029">Industrial Workers of the World <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ind.031">Insurance</ref></item>
+<item><ref n="egp.ind.032">International Trade</ref></item>
+<item><ref n="egp.ind.033">Justin, H. J., and Sons</ref></item>
+<item><ref n="egp.ind.034">Karcher, John</ref></item>
+<item><ref n="egp.ind.035">Kool-Aid</ref></item>
+<item><ref n="egp.ind.036">Lumberyards</ref></item>
+<item><ref n="egp.ind.037">McKenzie, Kenneth</ref></item>
+<item><ref n="egp.ind.038">Meatpacking</ref></item>
+<item><ref n="egp.ind.039">Melroe Bobcat</ref></item>
+<item><ref n="egp.ha.029">Missouri Company <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.ind.041"><hi rend="smallcaps">NAFTA</hi></ref></item>
+<item><ref n="egp.ind.042">Nuclear Waste Sites</ref></item>
+<item><ref n="egp.ind.043">Oilseeds</ref></item>
+<item><ref n="egp.ind.044">Packard, David</ref></item>
+<item><ref n="egp.ind.045">Petro-Canada</ref></item>
+<item><ref n="egp.ind.046">Petroleum, Canada</ref></item>
+<item><ref n="egp.ind.047">Petroleum, United States</ref></item>
+<item><ref n="egp.ind.048">Phillips Petroleum</ref></item>
+<item><ref n="egp.ind.049">Pizza Hut</ref></item>
+<item><ref n="egp.ind.050">Post, C. W.</ref></item>
+<item><ref n="egp.ind.051">Potash</ref></item>
+<item><ref n="egp.ind.052">Potash Corporation of Saskatchewan</ref></item>
+<item><ref n="egp.ind.053">Small-Town Industrialization</ref></item>
+<item><ref n="egp.ind.054">Sprint</ref></item>
+<item><ref n="egp.ind.055">Sugar Beet Processing</ref></item>
+<item><ref n="egp.ind.056">Swather</ref></item>
+<item><ref n="egp.ind.057">Telus</ref></item>
+<item><ref n="egp.ind.058">Tourism</ref></item>
+<item><ref n="egp.ind.059">Uranium Mining</ref></item>
+<item><ref n="egp.ind.060">Weather Industry</ref></item>
+<item><ref n="egp.ind.061">Wind Energy</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

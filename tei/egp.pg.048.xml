@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Monroney, Mike (1902-1980)</title>
+<title level="m" type="sub"></title>
+<author>Von Russell Creel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Creel, Von Russell">Von Russell Creel</author>. <title level="a">"Monroney, Mike (1902-1980)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">675</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MONRONEY, MIKE (1902-1980)</head>
+
+<p>Almer Stillwell "Mike" Monroney was born in
+Oklahoma City on March 2, 1902. He graduated
+from the University of Oklahoma in 1924
+with a degree in journalism and a Phi Beta
+Kappa key. He worked first as a journalist for
+the <title level="j">Oklahoma News</title>, then in 1929 took over
+management of his father's business, the oldest
+furniture company in Oklahoma. In 1932
+Monroney married Mary Ellen Mellon.</p>
+
+<p>Monroney's first venture into politics as a
+candidate came in 1937 when he ran unsuccessfully
+in a special election for congressman
+from Oklahoma's Fifth District. Running
+again in 1938, Democrat Monroney won the
+seat. Monroney's twelve years of service in the
+U.S. House of Representatives spanned the
+end of the New Deal and World War II, and
+the beginning of the cold war and the Korean
+War. Monroney was a strong supporter of
+wartime wage and price controls and public
+housing. His most lasting contribution, however,
+was the Legislative Reorganization Act of
+1946, the first and only major overhaul of congressional
+machinery in the twentieth century.</p>
+
+<p>In 1950 Monroney was elected to the U.S.
+Senate, where he authored the legislation establishing
+the Federal Aviation Administration.
+He also authored the bill establishing the
+International Development Association to
+make low-interest loans to underdeveloped
+nations. He was reelected in 1956 and 1962.</p>
+
+<p>Monroney came to the Senate during the
+height of Sen. Joseph McCarthy's controversial
+hearings on subversive activities, and he
+played a major role in the censuring of the
+Wisconsin senator. On more than one occasion,
+Monroney and McCarthy clashed on the
+Senate floor. A strong supporter of Adlai Stevenson's
+presidential bids, Monroney came
+close to being named to the ticket with Stevenson
+in 1952. In 1960 he headed the effort to
+draft Stevenson for a third presidential nomination.
+Monroney was defeated in 1968 in his
+bid for a fourth term. He died on February 13,
+1980.</p>
+
+<closer>
+<signed>Von Russell Creel<lb/>
+Oklahoma City University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Creel, Von Russell, and Bob Burke. <title level="m">Mike Monroney: Oklahoma
+Liberal</title>. Oklahoma City: University of Central Oklahoma
+and Oklahoma Heritage Association, 1997.</bibl> <bibl>Fried,
+Richard. <title level="m">Men against McCarthy</title>. New York: Columbia
+University Press, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sweat Lodge</title>
+<title level="m" type="sub"></title>
+<author>Raymond A. Bucko</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bucko, Raymond A.">Raymond A. Bucko</author>. <title level="a">"Sweat Lodge."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">758</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SWEAT LODGE</head>
+
+<p>The sweat lodge is a contemporary religious
+ritual of ancient origin used by Native Americans
+throughout the Great Plains. Eastern Indian
+groups removed to the Plains by the U.S.
+government also engage in ceremonial sweating.
+Groups like the Cherokees and Chickasaws
+originally utilized permanent, domeshaped
+log houses with subterranean floors
+that were also used for sleeping in winter. This
+entry will focus on the original Plains groups,
+among whom the ceremony takes place in a
+small, circular domed structure constructed of
+pliable saplings (often willow) with a single
+entrance facing a specific cardinal direction.
+The frame of this impermanent structure is
+tightly covered, formerly with skins but today
+with blankets, tarps, and sometimes sheet plastic.
+A pit is dug in the lodge to receive stones
+that are heated in a fire outside the lodge. This
+fireplace and frequently a mounded altar constructed
+of earth excavated from the interior
+pit are aligned with the entrance of the lodge.</p>
+
+<p>The ceremony consists in entering the lodge,
+filling the pit with hot stones that are reverenced
+as ancient and spiritual in nature, pouring water
+on the hot rocks, praying, singing, speaking
+from one's heart, closing and opening the door a
+set number of times, and emerging from the
+lodge. Important elements in the ceremony that
+vary in emphasis from group to group are communication
+with the spiritual realm, moral
+and/or physical purification, the humbling of
+oneself, healing of self and/or others through
+the physical and/or spiritual agency of the
+sweat, and voluntary suffering to achieve a specific
+need or to fulfill a pledge for requests already
+granted.</p>
+
+<p>Variations in the ceremony and structure of
+the lodge are accounted for by three factors:
+historic era, cultural group, and specific ritual
+leader. Nevertheless, there is remarkable consistency
+in the core ritual and structure across
+time and among different Plains groups. Variations
+include the incorporation of a prayer
+pipe and a variety of symbolic objects such as
+a buffalo skull placed on the altar outside of
+the sweat lodge; the erection of a pole on
+which to tie offerings; the use of switches
+made of sage, willow, cherry, buffalo tail, or
+horse hair; song accompaniment with a drum
+and/or rattle; the sacred use of plants such as
+sage, cedar, or pine needles; the pouring of
+herbal infusions on the rocks; drinking water
+between rounds and sometimes pouring it on
+oneself; spiritual supplication through crying;
+spiritual talks, particularly by the leader and
+sometimes other participants; joking when
+the door is open; and bathing in a cold stream
+at the conclusion of the ceremony.</p>
+
+<p>The sweat lodge can be a ceremony in itself
+but is also used in preparation for other ceremonies
+such as the Sun Dance, sacred bundle
+ceremonies, vision quests, and sometimes Native
+American Church meetings. Among some
+tribes, men and women sweat together, while
+in others they are segregated. There are ritual
+restrictions for women in menses.</p>
+
+<p>The ritual is widely used for marking significant
+life events, consoling and encouraging,
+protecting the group from misfortune
+such as disease, succeeding in battle and hunting,
+predicting future events, and averting future
+disaster. Many traditional stories of the
+revival of the dead through the agency of the
+sweat lodge attest to the great power of this
+ceremony.</p>
+
+<p>The ceremony has markedly increased in
+practice since the beginning of the twentieth
+century, not only by Indian people on the reservations
+but more recently in urban areas,
+correctional facilities, veterans groups, and
+substance abuse treatment facilities. The spiritual
+strengthening and social conviviality inherent
+in the sweat serve to unite family members,
+Indians from different tribes, and non-Indians,
+although the proper place and role of
+outsiders in the sweat lodge and in Indian ritual
+in general are controversial.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.035">Native American Traditional Architecture</ref>.</p>
+
+<closer>
+<signed>Raymond A. Bucko<lb/>
+Le Moyne College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruchac, Joseph. <title level="m">The Native American Sweat Lodge: History
+and Legends</title>. Freedom <hi rend="smallcaps">CA</hi>: Crossing Press, 1993.</bibl>
+<bibl>Bucko, Raymond A., S.J. <title level="m">The Lakota Ritual of the Sweat
+Lodge: History and Contemporary Practice</title>. Lincoln: University
+of Nebraska Press, 1998.</bibl> <bibl>Vecsey, Christopher. "The
+Genesis of Phillip Deere's Sweat Lodge." In <title level="m">Imagine Ourselves
+Richly: Mythic Narratives of North American Indians</title>,
+edited by Christopher Vecsey. New York: Crossroad, 1988:
+206–32.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Beery, Wallace (1885-1949)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Beery, Wallace (1885-1949)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">260</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BEERY, WALLACE (1885-1949)</head>
+<figure n="egp.fil.006" rend="granted" type="noclick">
+<figDesc>Wallace Fitzgerald Beery</figDesc>
+</figure>       
+
+<p>Wallace Beery, the burly actor who made his
+name in films playing a lovable slob, was born
+in Kansas City, Missouri, on April 1, 1885. He
+started in show business in 1901 as an elephant
+trainer, rising to become elephant manager at
+Ringling Bros. by 1904. Beery played in roadshow
+musicals and Kansas City theater until
+1913, when he began acting in Essanay film
+comedies. His career in the movies began in
+drag, playing Sweedie, a Swedish maid.</p>
+
+<p>In 1920s silent films Beery mixed rugged
+parts such as that of the menacing Magua in
+<title>The Last of the Mohicans</title> (1920) with comedies
+before developing what became his characteristic
+role&#8211;the scoundrel with a heart of
+gold&#8211;in <title>Beggars of Life</title> (1928). The advent of
+sound opened up new horizons for his acting,
+and he made his best films and became a major
+star in the 1930s. He was nominated for an
+Oscar for his convict role in <title>The Big House</title>
+(1930), and he shared (with Frederic March) a
+best actor award for his performance with
+child actor Jackie Cooper in <title>The Champ</title>
+(1931). The role for which he is probably best
+remembered, however, is pirate Long John Silver
+in <title>Treasure Island</title> (1934).</p>
+
+<p>Beery continued making at least one film a
+year during the 1940s. His last (and 252nd) film
+was <title>Big Jack</title>, which was released in 1949, the
+year he died (on April 15) in Beverly Hills,
+California. Beery was married to actress Gloria
+Swanson from 1916 to 1918, and his brother
+(Noah Sr.) and nephew (Noah Jr.) were also
+actors.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gallagher, John A. "Beery, Wallace." In <title level="m">International Dictionary of Films and Filmmakers</title>, edited by Nicholas
+Thomas. Detroit: St. James Press, 1992: 3: 87–90.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

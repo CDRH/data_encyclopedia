@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Land-Grant Universities</title>
+<title level="m" type="sub"></title>
+<author>Andrea G. Radke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Radke, Andrea G.">Andrea G. Radke</author>. <title level="a">"Land-Grant Universities."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">204-205</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LAND-GRANT UNIVERSITIES</head>
+
+<p>The Morrill Act, signed into law by Abraham
+Lincoln on July 2, 1862, set aside public lands
+for the establishment of land-grant universities.
+The act came from a movement favoring
+practical scientific and industrial education
+for American working classes. Led by
+Congressman Justin Morrill of Vermont, the
+land-grant idea emerged as a reaction against
+the classical curriculum that dominated traditional
+institutions. Sparked by advancements
+in science prior to 1850, reformers sought a
+system that could build upon the resourcefulness
+of industrial classes. Morrill, himself the
+son of a blacksmith, believed in better educational
+opportunities for the children of artisans,
+farmers, and laborers. He believed that
+a true democracy meant educating everyone,
+not just those who sought careers in law, politics,
+and the ministry. Morrill was also influenced
+by a crisis of declining agricultural
+productivity on American farms. He learned
+about the advances in scientific agriculture in
+Europe and believed that similar practices
+could be applied in the United States, especially
+as it expanded westward into new agricultural
+areas. The Morrill Act was passed the
+same year as the Homestead Act, thus further
+encouraging agricultural development in the
+Great Plains.</p>
+
+<p>President James Buchanan had vetoed Morrill's
+first land-grant bill in 1857 on the grounds
+that higher education should be left to the
+states. Morrill was also hindered by southerners'
+skepticism of the expansion of federal
+powers and the bill's perceived favoritism toward
+northern states and territories. After the
+Civil War began, Morrill introduced the bill
+again in 1861 to a more receptive, northern
+Congress. Morrill set aside for every state the
+sale of 30,000 acres for each representative and
+senator to endow and support land-grant universities.
+The act allowed for teaching a classical
+curriculum, but the emphasis was on agriculture,
+mechanical arts (engineering), and
+military tactics. Ironically, western states that
+later benefited from the Morrill Act were some
+of its loudest detractors in the beginning.
+Westerners feared that all of the public lands
+would be taken from their states. Kansas senator
+James Lane offered an amendment that
+limited the land claimed in any one state to
+one million acres. With that amendment, the
+bill was passed.</p>
+
+<p>During the Civil War, only two states, Iowa
+in 1862 and Kansas in 1863, passed land-grant
+resolutions. Not until after 1865 could most
+states refocus their attention on higher education.
+Kansas was the first Plains state to take
+on the conditions of the Morrill Act, with the
+Kansas State Agricultural College (Manhattan),
+founded in 1863. Nebraska was next,
+with the University of Nebraska (Lincoln),
+founded in 1869. Other Plains states and territories
+followed, with Texas A&amp;M University
+(College Station) in 1876; Colorado State University
+(Fort Collins) in 1879; South Dakota
+State University (Brookings) in 1881; the University
+of Wyoming (Laramie) in 1887; North
+Dakota State University (Fargo) in 1890; and
+Oklahoma State University (Stillwater) in
+1890. Since the land-grant universities were
+founded to be the agriculture and mechanical
+schools, some states established separate state
+universities with an emphasis on liberal arts.
+Kansas, Oklahoma, and South Dakota, for example,
+each established two universities, one
+land-grant and one state university. Nebraska
+and Wyoming combined both the land-grant
+purpose and liberal arts into one consolidated
+university.</p>
+
+<p>The land-grant curriculum focused on
+practical, scientific education. Besides mechanical
+arts, the curriculum could include
+agriculture, pharmacology, and, for women,
+domestic economy. Military training was
+also required of male students, and many of
+those soldiers and officers later served in the
+Spanish-American War and both world wars.
+In the Great Plains, institutions focused on
+agricultural studies, which included efficient
+crop production, animal science, dairying,
+and plant biology. In the twentieth century,
+agriculture science expanded to include genetics,
+hybridization, fertilizer production,
+and veterinary medicine. Women were included
+in the land-grant mission through domestic
+or home economics programs, because
+efficient farms also needed educated farm
+wives.</p>
+
+<p>Land-grant universities were progressive
+not only in their approach to practical education
+but also because they admitted women
+and people of color; all students received free
+tuition and subsidized rail travel. These institutions
+struggled financially and academically
+before 1900, and some critics claimed
+that young people never returned to farm
+work after attending college, thus defeating
+the very purpose of the land-grant mission.
+Even if that was the case, land-grant institutions
+continued to reach out to rural, agricultural
+populations. In 1887 Congress passed the
+Hatch Act to stimulate research in agriculture
+science through the creation of experiment
+stations at which students and professors
+could apply new knowledge toward efficient
+farm production. Students even lived and
+worked on model farms that allowed them to
+use their classroom education in a working
+and productive farm setting. The Hatch Act
+expanded the role of land-grant universities
+through research contributions to agricultural
+science that continue to this day.</p>
+
+<p>In 1890 the second Morrill Act was passed,
+providing additional land-grant endowments.
+States that made distinctions of race in admissions
+could not receive the funds, so the act
+allowed for the creation of separate land-grant
+universities for blacks. The founding of many
+all-black colleges after 1890 included two in
+the Great Plains: Prairie View <hi rend="smallcaps">a&amp;m</hi> University
+in Texas and Langston University in Oklahoma.
+All other Plains land-grant institutions
+continued to admit black students. It was not
+until 1994 that Congress passed the Equity
+in Educational Land-Grant Status Act, which
+created land-grant colleges for Native American
+populations. Plains states benefited most
+from this, with a majority of Indian landgrant
+colleges located in South Dakota (four),
+North Dakota (five), Montana (seven), Nebraska
+(one), and Kansas (one).</p>
+
+<p>The desire to extend land-grant education
+to a broader population led to the creation of
+the Cooperative Extension Service as part of
+the Smith-Lever Act of 1914. Because practical
+education was still unavailable to many, cooperative
+extension sought to disseminate information
+to a wider population, especially in
+agriculture, home economics, and rural energy.
+Extension programs especially benefited
+Plains states, with their large geographic areas
+and scattered rural populations. Today, extension
+programs continue to take education to
+distant farm areas.</p>
+
+<p>In the twentieth century, land-grant universities
+expanded their missions beyond the agricultural
+scope of the nineteenth century. Not
+strictly agriculture and mechanics schools
+anymore, land-grant universities also developed
+arts, humanities, and social science programs.
+Graduate programs were established
+in most departments on land-grant campuses.
+Further, land-grant universities endeavored to
+carry on in their purpose of providing public,
+democratic, and practical education to
+a larger population. Broad admissions standards,
+low tuition costs, cooperative extension
+programs, and agricultural experiment stations
+are some of the methods used by landgrant
+institutions to make education widely
+available to many in the Great Plains.</p>
+
+<closer>
+<signed>Andrea G. Radke<lb/>
+Brigham Young University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cross, Coy F. <hi rend="italic">Justin Smith Morrill: Father of the Land-
+Grant Colleges</hi>. East Lansing: Michigan State University
+Press, 1999.</bibl> <bibl>National Association of State Universities
+and Land-Grant Colleges. <hi rend="italic">The Land-Grant Tradition</hi>.
+Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1995.</bibl> <bibl>Nevins,
+Allan. <hi rend="italic">The Origins of the Land-Grant Colleges and
+State Universities</hi>. Washington <hi rend="smallcaps">DC</hi>: Civil War Centennial
+Commission, 1962.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

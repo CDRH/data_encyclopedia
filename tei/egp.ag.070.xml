@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.070">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Swine</title>
+<title level="m" type="sub"></title>
+<author>William G. Luce</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.070</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Luce, William G.">William G. Luce</author>. <title level="a">"Swine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">54-55</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SWINE</head>
+
+<p>Great Plains states account for approximately
+16 percent of U.S. swine production, with Nebraska,
+Oklahoma, and Kansas in the top ten
+producing states. Nebraska leads other Plains
+states, but Oklahoma has seen the fastest increase
+in production in recent years. In Canada,
+the Prairie Provinces contribute almost
+40 percent to national swine production.</p>
+
+<p>Massive restructuring and technological
+changes are taking place in the swine industry
+in both countries. Production has moved indoors
+to large confinement units with improved management, breeding, and nutrition
+practices that have allowed more e.cient production.
+This restructuring has resulted in
+much larger hog operations but on fewer
+farms in the Great Plains.</p>
+
+<p>In the United States, there has been a tremendous
+increase in corporate hog farms,
+or private farms raising hogs on contract
+for swine companies. These changes have
+been particularly marked in Texas, Oklahoma,
+Kansas, and Colorado. In Oklahoma, swine
+companies own approximately 90 percent of
+the hog population. By contrast, in Nebraska
+most of the swine production is still dominated
+by individual farmers, though this is
+now changing.</p>
+
+<p>Traditionally, hog production on the Plains
+was based in diversified family farms, which
+often used home-raised grain, primarily corn
+or sorghum grain, for feed. These operations
+were usually "farrow-to-finish." The sows
+were bred and farrowed and the pigs fed to
+market weight, currently 240 to 280 pounds.
+Today many of the new swine facilities have
+three sites. At one site, sows, usually 600
+or more, are bred and farrowed. The pigs
+are weaned at two to three weeks of age and
+moved to another site called a nursery, where
+they live in environmentally controlled housing
+and are fed specially prepared starter diets
+until they are nine to ten weeks of age and
+weigh approximately 50 pounds. The third site
+consists of buildings where the pigs are fed out
+to market weight. The three-site production
+facilities break up the disease cycle and allow
+more specialized management and more efficient use of labor.</p>
+
+<p>The future of the swine industry looks
+promising in the Great Plains, but it will continue
+to consolidate on fewer farms with more
+intensive management systems. Corporate or
+contract hog production will probably increase,
+although the largest independent hog
+operations will still be able to compete. Future
+expansion will be slowed down or prevented
+in some areas by opposition from localities
+and environmental groups. Stricter local and
+federal environmental regulations are also
+being implemented.</p>
+
+<closer>
+<signed>William G. Luce<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Canadian Pork Council. <hi rend="italic">Statistics Canada</hi>, Ottawa, 1997.</bibl>
+<bibl>U.S. Department of Agriculture. <hi rend="italic">Hog and Pig Report</hi>.
+Washington <hi rend="smallcaps">DC</hi>, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">L'Amour, Louis (1908-1988)</title>
+<title level="m" type="sub"></title>
+<author>James A. Janke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Janke, James A.">James A. Janke</author>. <title level="a">"L'Amour, Louis (1908-1988)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">481</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">L'AMOUR, LOUIS (1908-1988)</head>
+<figure n="egp.lt.033" rend="granted" type="noclick">
+<figDesc>Westerns writer Louis L'Amour</figDesc>
+</figure>
+
+<p>Louis L'Amour was an extraordinarily successful
+writer of Western fiction. He wrote
+more than 100 novels, of which there are more
+than 225 million copies in print. Dozens of his
+books were made into movies.</p>
+
+<p>He was born Louis Dearborn LaMoore in
+Jamestown, North Dakota, on March 22, 1908.
+His father was a veterinarian who loved horses
+and athletics; his mother loved to read, write
+poetry, and tell stories. Louis grew up tough
+and with a voracious appetite for reading.
+When the family moved to the Southwest in
+1923, Louis quit school. He spent the next two
+decades going through a string of knockabout
+jobs, from Texas cattle skinner to deckhand on
+ocean freighters and finally to World War II
+tank officer.</p>
+
+<p>His adventures around the world gave
+L'Amour an appreciation for the sweep of human
+history that influenced all his writings.
+Starting in 1946 he concentrated on writing
+and published his first Western novel in 1950.
+Eventually, his output rose to three books a
+year. L'Amour was a dedicated researcher. His
+novels were known for their authenticity and
+accuracy, frequent tidbits of advice, and embedded
+historical lectures on the American
+West. However, he was foremost a master storyteller
+and had a superb gift for describing
+settings, locales, and the past. His actionpacked
+plots and heroic characters provided
+exciting entertainment for millions of deeply
+satisfied readers, who lovingly ignored the literary
+flaws of a writer who claimed never to
+have revised any of his work. L'Amour died on
+June 10, 1988, in Los Angeles, leaving outlines
+of more than fifty novels he had not gotten
+around to writing.</p>
+
+<closer>
+<signed>James A. Janke<lb/>
+Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gale, Robert L. <title level="m">Louis L'Amour</title>. Boston: Twayne, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

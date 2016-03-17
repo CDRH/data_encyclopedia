@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cannon, James Patrick (1890-1974)</title>
+<title level="m" type="sub"></title>
+<author>James G. Ryan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ryan, James G.">James G. Ryan</author>. <title level="a">"Cannon, James Patrick (1890-1974)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">708</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CANNON, JAMES PATRICK (1890-1974)</head>
+
+<p>Ranking Communist Party (<hi rend="smallcaps">CPUSA</hi>) figure,
+American Trotskyist movement founder, and
+longtime Socialist Workers Party leader, James
+Cannon was born in Rosedale, Kansas, on February
+11, 1890. Poverty radicalized his immigrant
+father, John, a laborer in a foundry. John
+introduced the young James to Irish nationalism,
+the Knights of Labor, populism, and finally
+the Socialist Party. James displayed a deep
+and lifelong anger at capitalism and the injustices
+it spawned. He left high school to organize
+for the Industrial Workers of the World.
+Soon he joined the Socialist Party and rose
+rapidly among its left wing. Cannon had taken
+a path that would make him an acquaintance
+of nearly all the era's celebrated radicals.</p>
+
+<p>After Earl Browder's imprisonment during
+World War I, Cannon edited <title level="j">Workers World</title>,
+the organ of the Socialist Party in Kansas. In
+1919 the party expelled its left wing, and Cannon
+became prominent in the nascent Communist
+underground. He held important St.
+Louis and Cleveland posts, then transferred to
+New York City in 1921. There he helped head
+the Workers Party, a legal organization, after
+the "Red Scare" subsided and V. I. Lenin
+shifted toward nonrevolutionary tactics. Between
+1922 and 1928 Cannon served on the
+Communist International's presidium and
+headed International Labor Defense, a leftist
+legal support group. He also backed William Z.
+Foster's faction of what had become the <hi rend="smallcaps">CPUSA</hi>.</p>
+
+<p>Cannon's life took a dramatic turn in 1928
+while he was in the Soviet Union. In Moscow,
+Leon Trotsky offered compelling criticism of
+Joseph Stalin and the Soviet Union's direction.
+Cannon returned to the United States carrying
+Trotsky's writings. That October, Cannon and
+100 followers were driven from the cpusa.
+They called themselves the Communist League
+of America (Left Opposition), began publishing
+a newspaper, <title level="j">The Militant</title>, and later a magazine,
+<title level="j">New International</title>. From that time on,
+Cannon would consider Trotsky the custodian
+of authentic Bolshevik values. The League
+helped lead a sensational Minneapolis Teamster
+strike, fused with A. J. Muste's followers,
+and in 1936 entered the Socialist Party. The
+Trotskyists were expelled the following year,
+and Cannon founded the Socialist Workers
+Party in 1938. By 1939 the movement had 1,000
+American members and a following in labor
+and intellectual circles.</p>
+
+<p>Success brought schism during the early
+months of World War II. Socialist Workers
+Party figures Max Shachtman and James
+Burnham argued that the Stalinists constituted
+a new bureaucratic class in the Soviet
+Union. Cannon, like Trotsky, considered the
+Soviet Union's nationalized economy worth
+defending, despite Stalin's dictatorship. In
+early 1940 Shachtman's faction became the
+Workers Party. In 1941 federal authorities used
+the Smith Act to imprison Cannon and seventeen
+other Socialist Workers Party figures and
+Minneapolis Teamsters. Supposedly their organizations
+had advocated the violent overthrow
+of the U.S. government; actually they
+opposed American foreign policy. Cannon
+served thirteen months at Sandstone Penitentiary.
+During the McCarthy era, a public that
+drew few distinctions among radicals persecuted
+the Socialist Workers Party and Communist
+Party alike.</p>
+
+<p>Cannon retired in 1953 but lived to see the
+"New Left" of the 1960s and 1970s. He died on
+August 21, 1974, believing that Vietnam War resisters,
+African Americans, Hispanics, women,
+youth, and gays were taking a permanent step
+toward socialism in the United States.</p>
+
+<closer>
+<signed>James G. Ryan<lb/>
+Texas A&amp;M University at Galveston</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cannon, James Patrick. Papers. Wisconsin State Historical
+Society, Madison <hi rend="smallcaps">WI</hi>.</bibl> <bibl>Wald, Alan. "James P. Cannon." In
+<title level="m">Biographical Dictionary of the American Left</title>, edited by
+Bernard K. Johnpoll and Harvey Klehr. Westport <hi rend="smallcaps">CT</hi>:
+Greenwood Press, 1986: 62–65.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

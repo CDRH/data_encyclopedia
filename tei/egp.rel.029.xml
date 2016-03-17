@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jones, Harold (1909-2002)</title>
+<title level="m" type="sub"></title>
+<author>Mary E. Cochran</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cochran, Mary E.">Mary E. Cochran</author>. <title level="a">"Jones, Harold (1909-2002)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">749</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JONES, HAROLD (1909-2002)</head>
+
+<p>Harold Stephen Jones, a Santee Sioux, was the
+first Native American to be elected bishop of
+any major denomination. Born in Mitchell,
+South Dakota, on December 14, 1909, Jones
+was raised by his grandparents, the Reverend
+William Holmes, an early Indian Episcopal
+priest, and his wife, Rebecca, a Caucasian.
+This dual heritage fostered his eventual ability
+to serve successfully in a racially conflicted
+church and society.</p>
+
+<p>Jones's childhood was spent in Niobrara,
+Nebraska, and Wakpala, South Dakota, where
+his grandfather served mission churches. His
+grandfather died while Jones was in his teens.
+Then came a struggle with discrimination and
+poverty as he helped support his grandmother
+and continued his education. He graduated
+from Northern State College in 1935 and received
+a licentiate in theology from Seabury-Western
+Theological Seminary, Evanston, Illinois,
+in 1938. He married Blossom Steele, a
+Lakota, in December of 1938, a week after his
+ordination as deacon.</p>
+
+<p>Beginning with Messiah Chapel in Wounded
+Knee, Jones was assigned in rapid succession to
+four small chapels on the Pine Ridge Reservation.
+There was never adequate compensation,
+which led to mounting debts on top of unpaid
+college loans. Three children were born into the
+Jones family, with only the daughter, Norma,
+surviving. Moves to the Cheyenne River Reservation
+in 1947 and back to Pine Ridge in 1952
+brought added responsibilities but no financial
+relief. That finally came when he was called in
+1956 to serve a white congregation in Wahpeton,
+North Dakota.</p>
+
+<p>In 1968 the national Episcopal Church
+called him to take over the Navajo mission
+field in Arizona, where he had to adapt to a
+different language and culture. While there he
+was elected suffragan (assistant) bishop of
+South Dakota and was consecrated in a great
+multiracial service in Sioux Falls on January
+11, 1972. His ministry as bishop was severely
+limited by a stroke after less than a year of
+service to both white and Indian congregations,
+and he had to take an early retirement in
+1976. Subsequently, the Rt. Rev. Harold Jones
+lived with his daughter in Chandler, Arizona,
+and died there on November 12, 2002.</p>
+
+<closer>
+<signed>Mary E. Cochran<lb/>
+Tacoma, Washington</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderson, Owannah. <title level="m">Four Hundred Years: Anglican/Episcopal
+Mission among American Indians</title>. Cincinnati: Forward
+Movement Publications, 1997.</bibl> <bibl>Cochran, Mary E.
+<title level="m">Dakota Cross-Bearer: The Life and World of a Native American
+Bishop</title>. Lincoln: University of Nebraska Press, 2000.</bibl>
+<bibl>Sneve, Virginia Driving Hawk. <title level="m">That They May Have Life:
+The Episcopal Church in South Dakota</title>. New York: Seabury
+Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

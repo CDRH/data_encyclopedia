@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.med.037 SYSTEM "egp.med.037.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Radio</title>
+<title level="m" type="sub"></title>
+<author>Michael Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brown, Michael">Michael Brown</author>. <title level="a">"Radio."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">519-520</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RADIO</head>
+
+<figure n="egp.med.037" rend="granted">
+<figDesc>Listening to the radio, Aberdeen, South Dakota, November 1940</figDesc>
+</figure>
+
+<p>Radio was most significant in the social life
+and economic development of the Great
+Plains from the early 1920s through the 1960s.
+An article in <title level="j">Radio World</title> in September 1922
+identified thirty-two radio stations operating
+in Kansas and Nebraska. The rest of the Great
+Plains shared another twenty radio stations,
+the majority located on the perimeter of the
+region.</p>
+
+<p>There was a great deal of enthusiasm about
+the arrival of radio. When <hi rend="smallcaps">KDYS</hi> in Great Falls,
+Montana, went on the air in 1922 nearly 800
+people crowded around a single radio at a local
+store to hear the first broadcast. The broadcast
+was cut short by a mechanical failure, and the
+radio station went off the air the following
+year, but the event signified the popularity of
+radio.</p>
+
+<p>The region's residents eagerly welcomed radio
+because it reduced boredom and isolation
+and helped them feel connected with the rest
+of the country. Rural communities listened to
+the same news and entertainment programs
+heard by the rest of the nation. Rural families
+in the Great Plains, like other families in
+America, would gather around the radio to
+listen to their favorite evening programs. <hi rend="smallcaps">NBC</hi>
+was heard over <hi rend="smallcaps">KFYR</hi> in Bismarck and <hi rend="smallcaps">KOA</hi> in
+Denver. In Omaha, <hi rend="smallcaps">KOIL</hi> aired the <hi rend="smallcaps">NBC</hi> Basic
+Blue Network, while wow aired <hi rend="smallcaps">NBC</hi> Basic
+Red. <hi rend="smallcaps">CBS</hi> was heard over <hi rend="smallcaps">KLZ</hi> in Denver, <hi rend="smallcaps">WNAX</hi>
+in Yankton, and <hi rend="smallcaps">WIBW</hi> in Topeka. <hi rend="smallcaps">WBAP</hi> in
+Fort Worth aired <hi rend="smallcaps">NBC</hi> programming but also
+carried the Texas Network.</p>
+
+<p>Regional and local radio stations offered a
+variety of programs that targeted local audiences.
+Religious services were broadcast for
+people who could not leave the farm for Sunday
+services. Educational programs were
+broadcast from stations such as <hi rend="smallcaps">KOOW</hi> of the
+Oklahoma College for Women in Chickasha,
+Oklahoma, and <hi rend="smallcaps">KFJM</hi> from the University of
+North Dakota in Grand Forks. The U.S. Department
+of Agriculture (<hi rend="smallcaps">USDA</hi>) recognized
+the important benefits of radio and sponsored
+a number of programs that provided radio
+stations in rural areas with up-to-date agricultural
+and household information. The <hi rend="smallcaps">USDA</hi>
+programming provided a cost-effective way
+for small local stations to fill their schedule.
+Women were a particularly important market
+because radio provided companionship during
+routine daily chores. Home economists
+working for the <hi rend="smallcaps">USDA</hi>, the Rural Electrification
+Administration (<hi rend="smallcaps">REA</hi>), and other groups
+provided a variety of radio programs that targeted
+women in rural locations.</p>
+
+<p>A radio was generally inexpensive to own
+and operate, and in most cases the purchase
+of a single radio provided years of service.
+Battery-powered radios were a common appliance
+in rural homes, and the battery from
+the family automobile was a useful way to
+power the radio. The automobile was parked
+on an incline before the battery was removed
+so the car could be rolled to a start if the power
+of the battery had been drained by an evening
+of listening to the radio. Most rural listeners
+developed recharging systems to maintain the
+battery's power. The arrival of <hi rend="smallcaps">REA</hi> power during
+the late 1930s through the early 1950s allowed
+rural residents to switch to <hi rend="smallcaps">AC</hi>-powered
+radios. <hi rend="smallcaps">REA</hi> reports indicate that the <hi rend="smallcaps">AC</hi> radio
+was the most frequently purchased household
+electrical appliance of new <hi rend="smallcaps">REA</hi> electrical users.</p>
+
+<p>In addition to its popularity as a form of
+entertainment, radio brought significant economic
+benefits to the Great Plains. Two informational
+benefits of radio were critical to the
+economic lives of Great Plains residents. First,
+the accuracy and availability of weather reports
+improved. Residents were alerted about
+approaching violent weather in their immediate
+area. Weather changes were more accurately
+tracked as local forecasting improved.
+This was especially important when deciding
+a planting or harvesting schedule or when to
+gather or release livestock. The second major
+informational benefit of radio was the availability
+of up-to-date market reports. As early
+as 1922, <hi rend="smallcaps">KFKA</hi> in Greeley, Colorado, regularly
+provided information about livestock prices
+in Denver. Radio provided rural communities
+and residents access to accurate and timely
+trade information. Decisions about when to
+buy and sell products and commodities were
+based on the latest market information from
+Chicago, Denver, Fort Worth, Kansas City,
+and other regional trade centers. Radio gave
+Great Plains residents a greater sense of freedom
+and control over their economic lives.</p>
+
+<p>Radio also provided local businesses with
+an advertising medium that could reach into
+remote areas of their communities and expand
+their markets. Seed, tires, batteries, and
+other important farm goods were advertised
+over the radio, as were household items and
+clothing. For example, the Gurney Seed and
+Nursery Company of Yankton, South Dakota,
+purchased <hi rend="smallcaps">WNAX</hi> radio for $2,000 in 1927 and
+developed a strong local clientele and mailorder
+business by advertising a wide variety of
+goods over the radio. The company developed
+and sponsored some of the most popular music
+programs in the state and was one of the
+first stations to feature Great Plains musicians
+such as the Lawrence Welk Band.</p>
+
+<p>Radio delivered entertainment, companionship,
+education, religion, weather reports,
+market reports, and a wide variety of informational programs that made life in the Great
+Plains easier and more enjoyable. Radio allowed
+the residents of the Great Plains their
+first opportunity to feel as though they were in
+tune with the rest of the nation. The arrival of
+television in the 1950s and 1960s and the continued
+development of advanced media delivery
+systems eventually diminished radio's importance
+in the region.</p>
+
+<closer>
+<signed>Michael Brown<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barnouw, Erik. <title level="m">A History of Broadcasting in the United States</title>. New York: Oxford University Press, 1966.</bibl> <bibl>Smulyan,
+Susan. <title level="m">Selling Radio</title>. Washington <hi rend="smallcaps">DC</hi>: Smithsonian Institution
+Press, 1994.</bibl> <bibl>Wik, Reynold. "The Radio in Rural America
+in the 1920s." <title level="j">Agricultural History</title> 55 (1981): 339–50.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

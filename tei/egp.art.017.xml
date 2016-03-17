@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dunn, Harvey (1884-1952)</title>
+<title level="m" type="sub"></title>
+<author>John E. Miller</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Miller, John E.">John E. Miller</author>. <title level="a">"Dunn, Harvey (1884-1952)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">115</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUNN, HARVEY (1884-1952)</head>
+
+<p>Harvey Thomas Dunn gained a high reputation
+during his lifetime as a magazine illustrator,
+war artist, and art teacher, but his longterm
+significance became apparent only after
+his death, as appreciation grew for the prairie
+scenes he had painted during the last three
+decades of his career. Donated to South Dakota
+State College in 1950, two years before his
+death, these evocative oil paintings might earlier
+have gained him recognition along with
+Thomas Hart Benton, Grant Wood, and John
+Steuart Curry as a leading regionalist artist
+had the art world been more aware of them.</p>
+
+<p>Harvey Dunn was born on March 8, 1884,
+on a rural homestead near Manchester in eastern
+Dakota Territory, the son of William
+Thomas Dunn and Bersha Dow Dunn, who
+had moved there from Wisconsin. Uninterested
+in farming and fascinated with drawing,
+he obtained his first art training in the preparatory
+department at South Dakota Agricultural
+College in Brookings before going on
+for further instruction at the Chicago Art Institute
+and from the famous illustrator Howard
+Pyle in Wilmington, Delaware.</p>
+
+<p>After opening his own studio near that of
+his former teacher, Dunn became immediately
+successful as a magazine illustrator for
+<title level="j">Scribner's</title>, <title level="j">Harper's</title>, the <title level="j">Saturday Evening Post</title>,
+and other publications. He was in great demand
+from advertising agencies as well. The
+drawings and paintings he executed as one of
+eight official artists assigned to the American
+Expeditionary Force in France during World
+War I are among our most important documents
+of that conflict.</p>
+
+<p>After the war, magazine illustrating held
+less appeal for Dunn, and he devoted increasing
+amounts of time to teaching (his
+students included Dean Cornwell and John
+Steuart Curry) and painting prairie scenes of
+the area in which he had grown up. Dunn died
+of cancer at his Tenafly, New Jersey, home on
+October 29, 1952. In later years Dunn's paintings
+were frequently used in books and articles
+as illustrations depicting life on the Plains
+around the turn of the century.</p>
+
+<closer>
+<signed>John E. Miller<lb/>
+South Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Howell, Edgar M. "Harvey Dunn: The Searching Artist
+Who Came Home to His First Horizon." <title level="j">Montana</title> 16
+(1966): 41–56.</bibl> <bibl>Karolevitz, Robert F. <title level="j">Where Your Heart Is: The Story of Harvey Dunn, Artist</title>. Aberdeen <hi rend="smallcaps">SD</hi>: North
+Plains Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

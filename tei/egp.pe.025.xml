@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fire Ecology</title>
+<title level="m" type="sub"></title>
+<author>Thomas B. Bragg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bragg, Thomas B.">Thomas B. Bragg</author>. <title level="a">"Fire Ecology."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">627-628</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FIRE ECOLOGY</head>
+
+<p>Historically, fire was a ubiquitous component
+of the Great Plains environment, interacting
+with other components, such as bison whose
+grazing patterns resulted in uneven fuel distribution
+and therefore in diverse fire effects.
+The frequency of historic fires varied throughout
+the Great Plains, from every two to three
+years in the eastern tallgrass prairies, to three
+to four years in the Nebraska Sandhills, six to
+twenty-five years in mesic-to-xeric northern
+mixed-grass prairies, and five to ten years in
+the western shortgrass prairies and desert
+grasslands.</p>
+
+<p>Fire effects vary with frequency, season-ofoccurrence,
+and location. Generally repeated
+fires in any season affect diversity by favoring
+grasses over forbs. Dormant-season fires remove
+litter and thus may both encourage undesirable
+plants, such as smooth brome (<hi rend="italic">Bromus
+inermis</hi>), sweet clover (<hi rend="italic">Melilotus</hi> spp.),
+and Kentucky bluegrass (<hi rend="italic">Poa pratensis</hi>), and
+expose soil to surface erosion. However, dormant-
+season fires have less of an effect on
+ground-nesting birds and invertebrates. Latespring
+fires, the season of most eastern grassland
+prescribed burning, favor the dominant,
+warm-season species such as big bluestem (<hi rend="italic">Andropogon
+gerardii</hi>) over cool-season species
+like Kentucky bluegrass, but they often have a
+major impact on the invertebrate community.
+Summer (growing-season) fires, which historically
+occurred most frequently but were smallest
+in size, reduce plant diversity by favoring
+grasses over forbs. These fires are less likely to
+affect invertebrates or ground-nesting birds and
+are most successful in top-killing woody plants
+that invade and degrade unburned prairies.</p>
+
+<p>Individual species, however, do not all respond
+similarly to fire. Thus maintaining a
+diverse fire regime, interactive with other
+ecosystem-level components such as grazing,
+is essential to the long-term, ecological diversity
+and dynamics of Great Plains grasslands.</p>
+
+<closer>
+<signed>Thomas B. Bragg<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bragg, Thomas B. "Climate, Soils and Fire: The Physical
+Environment of North American Grasslands." In <title level="m">The
+Changing Prairie</title>, edited by Kathleen H. Keeler and Anthony
+Joern. Oxford: Oxford University Press, 1995: 49–
+81.</bibl> <bibl>Bragg, Thomas B., and Lloyd C. Hulbert. "Woody
+Plant Invasion of Unburned Kansas Bluestem Prairie."
+<title level="j">Journal of Range Management</title> 29 (1976): 19–24.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

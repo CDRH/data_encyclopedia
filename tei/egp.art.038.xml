@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jefferys, Charles W. (1869–1951)</title>
+<title level="m" type="sub"></title>
+<author>Norman A. Geske</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hepburn, Suzanne">Suzanne Hepburn</author>. <title level="a">"Jefferys, Charles W. (1869–1951)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">122</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JEFFERYS, CHARLES W. (1869–1951)</head>
+
+<p>Born in Rochester, England, on August 25,
+1869, Charles William Jefferys immigrated
+with his family to Philadelphia in 1875. He
+moved to Canada in 1878 and settled in Toronto
+three years later. He took evening classes
+at the Ontario School of Art and Design (now
+known as the Ontario College of Art and Design),
+had a five-year apprenticeship with
+the Toronto Lithographic Company, and received
+art lessons from accomplished Canadian
+painter George A. Reid. Under the instruction
+of C. M. Manly of the newly formed
+Toronto Art Students League, which he joined
+in 1888, Jefferys gained fundamentals and
+sound practices that were the foundation of
+his work throughout his life. He became Canada's
+earliest and most influential historical
+illustrator and muralist.</p>
+
+<p>When Jefferys first journeyed to the Prairie
+Provinces, the vastness and simple beauty of
+the landscape shattered his stifling commitment
+to detail, a commitment engendered by
+his career as a reportage illustrator and spare
+time spent capturing the rugged yet intricate
+details of the Ontario landscape. Jefferys's first
+Prairie visit marked the beginning of a prolific
+and creative episode in his artistic life.</p>
+
+<p>During the early 1900s Jefferys journeyed
+across Canada as an official illustrator for numerous
+Canadian magazines, playing a key
+role in recording the development of the West.
+When he first arrived in the southern regions
+of Saskatchewan and Alberta Jefferys was awestruck
+by the wide-open spaces and expansive
+skies. The subtle but complex palette of prairie
+colors offered artistic opportunities that
+rivaled other rocky outcroppings of the Canadian
+Shield.</p>
+
+<p>His first Prairie painting, <title>Afternoon in the Wheat Fields</title> (1906), was completed during
+a visit to Portage-La-Prairie in northwestern
+Winnipeg, Manitoba. This work inspired his
+first large oil painting, entitled <title>Wheat Stacks on the Prairie</title> (1907), and both are examples of
+his exploration of this newly discovered and
+rich palette. Also from this period and in this
+vein are <title>Western Sunlight (Last Mountain Lake)</title> and <title>A Storm on the Prairie (Allegro Maestoso)</title>, both from 1911. The latter two oils
+mark the artist's maturation in this subject
+matter.</p>
+
+<p>A pioneer in Canadian landscape painting,
+Jefferys inspired the Group of Seven and their
+followers through his support of native Canadian
+subject matter. He died in Toronto on
+October 8, 1951.</p>
+
+
+<closer>
+<signed>Suzanne Hepburn<lb/>
+Trianon Gallery</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Craig. <title level="m">The Illustrated History of Canada</title>. Toronto:
+Key Porter Books, 1997.</bibl> <bibl>Reid, Dennis. <title level="m">A Concise History of Canadian Painting</title>. Toronto: Oxford University Press,
+1973.</bibl> <bibl>Stacey, Robert H. <title level="m">C. W. Jefferys</title>. Ottawa: National
+Gallery/National Museums of Canada, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

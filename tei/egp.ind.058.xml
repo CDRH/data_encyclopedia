@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tourism</title>
+<title level="m" type="sub"></title>
+<author>Karen J. De Bres</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="De Bres, Karen J.">Karen J. De Bres</author>. <title level="a">"Tourism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">435-436</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TOURISM</head>
+
+<p>As most travelers in the Great Plains are en
+route to other places, tourism in the region
+tends to focus upon transit tourism rather
+than upon destination tourism. And since the
+modern "tourist gaze" rarely appreciates the
+beauty of the Plains landscape, marketable
+tourist attractions tend to be man-made, emphasizing
+culture and heritage. The Plains
+states contain much of the nation's western
+heritage and numerous Native American sites.
+All the Plains states now celebrate their Native
+American heritages, especially the state of
+Oklahoma. Some tourist sites such as Mount
+Rushmore National Memorial in South Dakota's
+Black Hills and the Little Bighorn Battlefield
+National Monument in Montana are
+associated with the struggle for ownership
+and identity between Native Americans and
+the wider American culture. A more traditional
+version of the region's settlement history
+has been and continues to be celebrated
+and marketed as the principal resource of the
+Plains tourism industry.</p>
+
+<p>Most of the advertising and state funding
+for Plains tourism is focused on the frontier
+and early European American settlement period,
+which lasted from the 1850s into the beginning
+of the twentieth century. In Nebraska
+and Kansas, for example, important pioneer
+trails such as the Oregon Trail and the Santa
+Fe Trail are well marked, and former cattle
+towns are often important tourist destinations.
+Dodge City, Abilene, and Wichita all
+contain replicas of the "Front Streets" of the
+1870s. Wichita's replica, which includes several
+original buildings, is the most complete and
+accurate.</p>
+
+<p>State funding for Plains tourism is often
+tied to western heritage promotion. In Kansas,
+for example, when the state legislature first
+approved $25,000 for tourist promotions in
+1953, the funds were specifically set aside to
+celebrate the state's "western heritage." This
+policy continues, as exemplified by the 1990s
+Kansas State Historic Sites Master Plan, which
+is organized under the title "Kansas: Where
+the West Begins."</p>
+
+<p>Plains tourism is of particular economic
+importance to towns and cities located along
+major transit routes. Billboards advertising
+the attractions of towns, sometimes hundreds
+of miles away, attempt to persuade the motorist
+to stop and spend the night. From south to
+north the major routes are <hi rend="smallcaps">I</hi>-10 and <hi rend="smallcaps">I</hi>-20 in
+Texas, <hi rend="smallcaps">I</hi>-35 and <hi rend="smallcaps">I</hi>-44 in Oklahoma, <hi rend="smallcaps">I</hi>-70 in
+Kansas, <hi rend="smallcaps">I</hi>-80 in Nebraska, and <hi rend="smallcaps">I</hi>-90 in South
+Dakota. Cities that particularly benefit from
+such motorists include Amarillo, Abilene, Big
+Spring, and Odessa, Texas; Tulsa and Oklahoma
+City, Oklahoma; Goodland, Colby, Russell,
+and Salina, Kansas; North Platte, Kearney,
+and Grand Island, Nebraska; and Sioux Falls
+and Mitchell, South Dakota. Williston, Grand
+Forks, and Minot are also stopover towns in
+North Dakota. Given the region's propensity
+for sudden snowstorms in the winter and for
+tornados and thunderstorms in the summer,
+many of these cities also benefit from the presence
+of visitors forced to seek shelter unexpectedly.</p>
+
+<p>Other Plains cities that benefit from tourism
+are those located on the edge of the region
+that often host major conferences. These cities
+include Fort Worth, Kansas City, Denver, and
+Calgary. In 1998 alone, for example, Calgary
+hosted 136 conventions, bringing more than
+495,000 visitors to the city.</p>
+
+<p>Two other common features of the Great
+Plains attract local tourists rather than a mix
+of visitors from within and without the region.
+Local tourists especially enjoy the reservoirs
+and lakes constructed by the U.S. Army
+Corps of Engineers from the 1950s through
+the 1970s. They are also the major participants
+in the many small-scale festivals and rodeos as
+well as the larger state fairs held annually
+throughout the region.</p>
+
+<p>Great Plains tourism in Texas focuses on
+the Alamo and the nearby River Walk (Paseo
+del Rio) in San Antonio. Tourism at the Alamo
+is centered almost entirely on a traditional
+American interpretation of the wellknown
+battle and siege. Less contentious is
+Lyndon B. Johnson National Historic Park, located
+near Johnson City. The Dallas–Fort
+Worth area is home to the Amon G. Carter
+Museum, an important repository of American
+western art, as well as Six Flags over Texas,
+the primary theme park of a major chain. Annual
+festivals, rodeos, and celebrations take
+place in a number of cities and towns, with the
+German towns of New Braunfels (which has
+built a water park to attract more tourists) and
+Fredericksburg as examples.</p>
+
+<p>In Oklahoma, many of the tourist attractions
+feature the state's frontier heritage. Examples
+include the National Cowboy Hall of
+Fame and Western Heritage Center in Oklahoma
+City. Indian City, U.S.A., contains seven
+restored Indian villages and is but one example
+of a major policy shift in Oklahoma's tourism,
+which aims to celebrate rather than downplay
+the state's extensive Native American heritage.
+Critics still complain of tourist "commodification"
+and stereotyping of Native American history.
+The Chickasaw National Recreation Area,
+the first national park in the state, contains
+springs, lakes, and streams. Local festivals include
+the American Indian Exposition at Anadarko,
+Will Rogers Days at Claremore, and the
+Cherokee National Holiday in Tahlequah.</p>
+
+<p>As the boyhood home of a popular American
+president, Abilene, Kansas, benefits from
+the Eisenhower library, museum, home, and
+chapel. Fort Leavenworth and Fort Riley both
+have museums dedicated to frontier army life.
+The dinosaur museum in Hayes has been
+moved from its campus location to a more
+convenient and larger site next to Interstate
+70. Despite some local opposition, a large
+ranch house and its attendant acres of prairie
+have been preserved for posterity in Chase
+County. Kansas festivals include Wah-Shun-
+Gah Days in Council Grove, Dodge City Days
+in Dodge City, and Beef Empire Days in Garden
+City.</p>
+
+<p>Tourism in Nebraska is also often focused
+on its frontier heritage, with the Harold Warp
+pioneer village at Minden as one extraordinary
+example. As in Kansas, nineteenthcentury
+collectors found dinosaur bones in
+the state. Some of the fossils not shipped back
+east are on display in Royal. Omaha, the state's
+largest city, contains, among other tourist attractions,
+the Henry Doorly Zoo, the Joslyn
+Art Museum, the Durham Western Heritage
+Museum, and the renovated Old Market. Nebraska
+draws tourists to its spectacular annual
+bird migrations, especially those of the sandhill
+crane. Annual festivals include the Oregon
+Trail Days in Gering and Arbor Day in Nebraska
+City.</p>
+
+<p>Most of South Dakota's tourist attractions,
+unlike those in other states fully in this region,
+are natural rather than cultural features. They
+include the Badlands National Park, Wind
+Cave National Park, and the Black Hills. The
+Black Hills is a tourist destination in its own
+right. Mount Rushmore National Memorial
+depicts the huge carved granite faces of Presidents
+Washington, Jefferson, Lincoln, and
+Theodore Roosevelt. As a partial response to
+criticism about the use of this site, a monument
+to Crazy Horse is being created nearby.
+Festivals in South Dakota include Gold Discovery
+Days in Custer, the Corn Palace Festival
+in Mitchell, and the Sturgis Motorcycle
+Rally.</p>
+
+<p>North Dakota's tourist attractions tend to
+be located near its major population centers.
+Theodore Roosevelt National Park is well
+known for its badlands and diverse animal life.
+As in most Great Plains states, there are several
+restored nineteenth-century forts and Native
+American villages, notably those at Lincoln
+State Park and at Fargo. Festivals include
+Roughriders Days in Dickinson, Norsk Hostfest
+in Minot, and Bonanza Days in Wahpeton.</p>
+
+<p>New Mexico, Colorado, Wyoming, and
+Montana draw tourists mainly to their western,
+mountainous portions, but their eastern
+plains also have much to offer to tourists, particularly
+if they want to get off the beaten path.
+Carlsbad Caverns in southeastern New Mexico
+is both a national park and a world heritage
+site; its spectacular caves attracted 469,303 visitors
+in 2000. Nestled in the lee of the Rocky
+Mountains, Colorado Springs has been a tourist
+center since the 1870s. North again into eastern
+Wyoming, the traveler's eye is struck by Devils
+Tower, the volcanic intrusion that abruptly rises
+1,267 feet above the Belle Fourche River. A sacred
+site to the Kiowas and Comanches, Devils
+Tower also attracts rock climbers, 4,000 of
+whom made their way to the top in 1998. In
+eastern Montana, natural features such as the
+badlands of Makoshika State Park and historical
+sites such as the restored Fort Union have
+much to offer as tourist destinations. One site,
+Pompey's Pillar, just east of Billings, bears an
+important latter-day graffiti: William Clark's
+signature, the only on-site physical evidence of
+the Lewis and Clark Expedition.</p>
+
+<p>North of the forty-ninth parallel, the same
+generalization holds true: tourists are attracted
+to physical settings that, while they may lack
+the splendor of the mountains, still present
+drama and beauty, to historical sites, and to the
+cultural offerings of the cities. The Cypress
+Hills Interprovincial Park, for example, standing
+600 meters above the plains of southwestern
+Saskatchewan, is an alpine environment
+of great biotic diversity. Throughout the
+Prairie Provinces, the rich multicultural heritage
+finds expression in diverse landscapes
+and cultural celebrations: at Batoche, in westcentral
+Saskatchewan, for example, Metis culture
+is reinvigorated each summer with traditional
+dancing, fiddling, and jigging. The single
+most important tourist destination in the
+Prairie Provinces, however, is Calgary, which
+in 1998 drew more than 4.2 million people who
+spent more than $629 million Canadian.</p>
+
+<p>Tourism may not be what the Great Plains
+is known for, yet the attractions are many, and
+the economic influence is great. Indeed, in
+Nebraska, for example, tourism ranks only
+behind agriculture and manufacturing as a
+source of state income.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.029">National Cowboy Hall of Fame and Western Heritage Center</ref> / <hi rend="smallcaps">PHYSICAL
+ENVIRONMENT</hi>: <ref n="egp.pe.017">Carlsbad Caverns</ref> / <hi rend="smallcaps">SPORTS
+AND RECREATION</hi>: <ref n="egp.sr.040">National Parks</ref>; <ref n="egp.sr.053">Sturgis Motorcycle Rally</ref>.</p>
+
+<closer>
+<signed>Karen J. De Bres<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>De Bres, Karen J. "Cowtowns or Cathedral Precincts? Two
+Models for Contemporary Urban Tourism." <title level="j">Area</title> 26
+(1994): 57–67.</bibl> <bibl>De Bres, Karen J. "Defining Vernacular
+Tourism: The View from Kansas." <title level="j">Annals of Tourism Research</title>
+4 (1996): 945–54.</bibl> <bibl>Jakle, John A. <title level="m">The Tourist: Travel in Twentieth-Century North America</title>. Lincoln: University of
+Nebraska Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

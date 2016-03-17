@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agricultural Commodity Markets</title>
+<title level="m" type="sub"></title>
+<author>Dale G. Anderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Anderson, Dale G.">Dale G. Anderson</author>. <title level="a">"Agricultural Commodity Markets."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">409-410</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AGRICULTURAL COMMODITY MARKETS</head>
+
+<p>The Great Plains states and provinces are major
+producers of basic agricultural commodities, including grain, oilseeds, cotton, hay,
+sugar beets, and livestock. Because the end
+products into which they are made are critical
+in meeting basic human needs and because
+they comprise a relatively small part of total
+consumer expenditures, the prices of agricultural
+commodities are highly responsive to
+changes in supply and demand, with resulting
+volatility of regional producer incomes. Owing
+to vagaries of Plains weather, susceptibility
+of living plants and animals to assorted pests,
+and highly competitive conditions in the production
+of most of these commodities, supplies
+can vary widely from year to year and
+over longer periods. As foreign markets have
+become a major outlet for many of the products,
+demand too has become much more
+variable. A phase-out of U.S. government supply
+controls and price supports has brought
+further price and income variability.</p>
+
+<p>The raw products of agriculture are heavy
+and bulky relative to their value, and their
+Plains production locales are far from major
+centers of national and world demand. Because
+production is seasonal in the face of
+ongoing needs, large inventories must be carried
+from one harvest to the next, and because
+they are products of biological origin, agricultural
+commodities are highly perishable.
+Transportation, storage, and processing are
+therefore challenging and costly.</p>
+
+<p>In the 1950s and early 1960s, most grain
+moving off American farms went first to country
+elevators; from there, usually by rail and in
+single-car lots, to much larger subterminal or
+terminal elevators; and, finally, by rail or river
+barge, to processors. Feed grains often bypassed
+the system, moving directly from producers
+to local feeders, and much of the grain
+was used by producers themselves. Farms have
+since become larger and more specialized and
+country elevators fewer and much larger.
+Long-haul grain shipments now move by rail
+directly from train-loading country elevators
+to ports of export or to domestic processing
+and feed-deficit areas. Short-haul traffic formerly
+moving by rail now goes mainly by
+truck. These changes have been prompted by a
+number of factors: economies of elevator scale;
+rail innovations such as unit trains, "jumbo"
+covered hopper cars, automated car-control
+systems, and suspension of transit billing privileges;
+abandonment of railroad branch-line
+trackage; expanded port facilities; larger oceangoing
+vessels; construction of the U.S. interstate
+highway system beginning in 1956; opening of
+the St. Lawrence Seaway in 1957; federal deregulation
+of both rail and trucking industries
+in 1980; and growth in foreign demand.</p>
+
+<p>Wheat milling was once done in and near
+sources of production, much of it in urban
+centers such as Kansas City and Minneapolis.
+Trainload shipments in specialized hopper
+cars have since made it cheaper to ship wheat
+than milled products, leading mills to relocate
+to areas of flour demand. Milling has also become
+more concentrated; the largest four
+firms had 70 percent of U.S. capacity in 1992.
+Grain marketing firms have integrated forward
+into flour milling in both the United
+States and Canada, the largest three Canadian
+firms having 75 percent of that country's capacity
+at latest count. Canadian millers, unlike
+those in the United States, are often integrated
+forward into baking as well. Feed grains were
+formerly milled in small production-oriented
+facilities. Today, mills are much larger and
+fewer in number. Most are located in areas of
+feed grain production and local livestock feed
+demand, but some are situated in more distant
+centers of poultry production in the
+southeastern United States.</p>
+
+<p>U.S. grain prices were formerly determined
+largely in cash markets in places such as Minneapolis,
+Chicago, Kansas City, and Omaha.
+Now, cash markets are nearly extinct, and
+price bids at country elevators are based on
+futures markets in Chicago, Minneapolis, and
+Winnipeg. Prices for grain moving into ultimate
+domestic and foreign markets are determined
+largely by telephoned bids and offers
+for future deliveries. In Canada, the Canadian
+Wheat Board has sole marketing authority
+over barley and wheat, and producer prices
+for exported grain vary each year only by
+transportation differentials. The Winnipeg
+Commodity Exchange has open-market trading
+of canola, feed barley, feed wheat, and feed
+oats. The Canada.United States Trade Agreement
+(<hi rend="smallcaps">CUSTA</hi>) and the North American Free
+Trade Agreement (<hi rend="smallcaps">NAFTA</hi>) have reduced government
+interference in markets on both sides
+of the border, making the two markets more
+integrated. Rail shipping rates for agricultural
+products were traditionally subsidized by the
+Canadian government under the Crow's Nest
+Pass Agreement, by which the government
+funded rail-line construction in return for a
+ceiling on shipping rates, giving Canadian
+grain shippers favored access to Pacific Rim
+markets. The ceilings are now being removed,
+with resulting diversion of much Canadian
+wheat across the border to American railroads.
+Canadian rail system efficiency lags
+behind that in the United States, and grain
+moves through country elevators of smaller
+size and load-out capacities than those south
+of the forty-ninth parallel.</p>
+
+<p>Innovations in transportation, especially
+refrigerated railcars, and a gradual westward
+shift of livestock and feed grains production
+prompted a westward migration of U.S. livestock
+markets and slaughter. Chicago, once
+the nation's largest livestock marketing center,
+was superseded in the 1950s by Omaha. Peripheral
+Plains-oriented markets prospered in
+Sioux City, Kansas City, Fort Worth, and elsewhere.
+More recently, urban markets and
+packing houses have given way to slaughter
+and processing in smaller, rural Plains communities.
+Direct packer purchases of cattle
+from producers have supplanted the auction
+and terminal markets of the past. Packers now
+disassemble carcasses into "boxed beef" cuts
+for shipment by refrigerated trucks to retail
+markets, leaving bone and other waste behind
+for manufacture into feed and fertilizer. Meatpacking
+and meat-processing plants and firms
+have grown sharply in size while shrinking in
+number; by the 1990s, the four largest packing
+firms had 82 percent of U.S. beef slaughter and
+80 percent of boxed beef production.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.007">Agricultural Price Supports</ref>; <ref n="egp.ag.075">Wheat</ref>.</p>
+
+<closer>
+<signed>Dale G. Anderson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderson, Dale G. <title level="m">Transporting Nebraska Grain and Oilseeds: Changing Markets in a Changing World Economy</title>.
+Report no. 177. University of Nebraska Department of
+Agricultural Economics, Lincoln, 1998.</bibl> <bibl>Cramer, Gail L.,
+and Eric J. Wailes. <title level="m">Grain Marketing</title>. Boulder <hi rend="smallcaps">CO</hi>: Westview
+Press, 1993.</bibl> <bibl>Larson, Donald W., Paul W. Gallagher, and
+Reynold P. Dahl, eds. <title level="m">Structural Change and Performance of the U.S. Grain Marketing System</title>. Champaign <hi rend="smallcaps">IL</hi>: Prestige
+Printing, 1998.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

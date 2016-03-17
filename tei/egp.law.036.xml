@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Nebraska Press Association v. Stuart</hi></title>
+<title level="m" type="sub"></title>
+<author>James W. Hewitt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hewitt, James W.">James W. Hewitt</author>. <title level="a">"<hi rend="italic">Nebraska Press Association v. Stuart</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">459</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">NEBRASKA PRESS ASSOCIATION V. STUART</hi></head>
+
+<p>The potential conflict between society's First
+Amendment right to a free press and a criminal
+defendant's Sixth Amendment right to a
+fair trial was addressed by the U.S. Supreme
+Court in the landmark decision of <hi rend="italic">Nebraska
+Press Association v. Stuart</hi>. The grisly case began
+on the evening of October 18, 1975, when
+Erwin Simants walked into the home of Henry
+Kellie, just outside the village of Sutherland,
+Nebraska, carrying a rifle. Once inside, Simants
+brutally raped and then murdered Kellie's
+ten-year-old granddaughter. Later, when other
+members of the Kellie family arrived home,
+they found Simants waiting for them. After
+killing both Henry and his wife, their son, and
+two other grandchildren, Simants, an unemployed
+alcoholic, calmly visited both of Sutherland's
+two bars and then spent the rest of the
+night outside the Kellie house.</p>
+
+<p>The next morning, Simants was quickly arrested
+and charged with six counts of firstdegree
+murder. Just as quickly, television and
+newspaper articles describing the horrific
+events began to appear. Even before the bodies
+were removed from the Kellie home, news
+agencies from around the country had focused
+on Sutherland, reporting the multiple homicide.
+Such widespread media coverage caused
+concern that public disclosure of highly prejudicial
+information revealed in Simants's preliminary
+pretrial hearing would taint potential
+jurors and prevent a fair trial. As a result,
+Lincoln County District Judge Hugh Stuart
+granted the prosecuting attorney's request to
+gag the press. He strictly prohibited the media
+from publishing reports of confessions and
+other details that strongly implicated Simants.</p>
+
+<p>The press complied with Stuart's order but
+appealed to the Nebraska Supreme Court,
+claiming the order violated the press's constitutional
+right to report information disclosed
+in open court. The media contended that the
+First Amendment right to a free press necessarily
+included the right to cover events both
+in and outside of the courtroom and that this
+ability was essential to prevent judicial abuse
+of authority. In contrast, Stuart's counsel argued
+that Simants could not receive a fair trial
+without the restrictions. Allowing the press to
+publish extremely prejudicial information, his
+defense asserted, would bias potential jurors
+and preclude their ability to base their decision
+solely on evidence received in court.
+Prior exposure to the case through the media,
+it was argued, would make it impossible to
+find an impartial jury as guaranteed by the
+Sixth Amendment.</p>
+
+<p>The Nebraska Supreme Court, after modifying
+Stuart's order, affirmed it. Eventually,
+the suit was brought before the U.S. Supreme
+Court, which reversed the decision, holding
+that the order did impermissibly restrict free
+press. The Court acknowledged that prior restraints
+may be necessary in certain rare circumstances,
+but the court went on to explain
+that the presumption against the use of prior
+restraints can only be overcome by showing
+that less restrictive alternatives cannot sufficiently protect a defendant's rights. <hi rend="italic">Nebraska
+Press</hi> is often characterized as the most significant
+First Amendment ruling emanating from
+Nebraska, and it essentially closed the question
+of prior restraints in criminal law. As a
+result, the media enjoy nearly complete discretion
+over what and when to publish concerning
+judicial proceedings.</p>
+
+<closer>
+<signed>James W. Hewitt<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Larson, Milton R. "Free Press v. Fair Trial in Nebraska: A
+Position Paper." <title level="j">Nebraska Law Review</title> 55 (1976): 543–71.</bibl>
+<bibl>Younger, Eric C. "The Sheppard Mandate Today: A Trial
+Judge's Perspective." <title level="j">Nebraska Law Review</title> 56 (1977): 1–22.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.001.01 SYSTEM "egp.arc.001.01.jpg" NDATA jpeg>
+<!ENTITY egp.arc.001.02 SYSTEM "egp.arc.001.02.jpg" NDATA jpeg>
+<!ENTITY egp.arc.001.03 SYSTEM "egp.arc.001.03.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Architecture</title>
+<title level="m" type="sub"></title>
+<author>David Murphy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Murphy, David">David Murphy</author>. <title level="a">"Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">61-67</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ARCHITECTURE</head>
+
+<p>In what sense can we speak about an architecture
+of the Great Plains? Such a narrative
+would necessarily derive from essential
+characteristics of the whole place&#8211;flora and
+fauna, climate and weather, geology, topography,
+and horizon&#8211;and would address building
+with compelling reference to this ground.
+Alternatively, we might speak of architecture
+on the Plains, using spatial location as our primary
+criterion. Either approach might work,
+but this essay will follow the former, first because
+the region is defined, in good part, by
+properties of the natural place, and second
+because architecture, at root, creates cultural
+places <hi rend="italic">within</hi> natural place.</p>
+
+<p>Acknowledging natural place as the ground
+for architecture changes the perspective on
+our view of building. Congruence between
+these "two" places can be discerned by thinking
+of both in terms of form and structure or,
+metaphorically, as mind and body. Though it
+is not possible to conclude an entirely homogeneous
+interpretation of building from
+the diverse constructions on the Plains, this
+approach forces us at least to think about architecture
+and place in other than humancentered
+terms. This perspective reveals an incongruence
+between the two aspects of place
+that was present from the very beginning of
+European American entry to the Plains. This
+story is at variance with those we have heard
+before.</p>
+
+<div2>
+<head type="sub">Ancient Place</head>
+
+<p>Original peoples evolved within an architecture
+of place. Because the Plains region includes
+many places and peoples, a diverse realization
+of architecture occurred. This resulted
+in part from materials variability, in part from
+prevailing climatic conditions, and in part
+from evolving cultural preferences.</p>
+
+<p>A defining characteristic of all prehistoric
+architecture in the region was the use of construction
+materials taken directly from the
+place. Grasses played important roles, particularly
+in the tallgrass areas, where they were
+utilized for thatching, matting, and underlay
+and as wattling for clay-daubed walls. The
+most spectacular use was the historic Wichita
+lodge of the Southern Plains, though pole-and-
+grass huts may also have found early use
+in widely scattered Central Plains locations.</p>
+
+<p>Similarly, grassland soils played a role in
+most of the more substantial constructions.
+Partially excavated interiors were characteristic
+of many permanent lodges. Some early
+square and rectangular houses utilized wall
+systems of closely spaced posts that were wattled
+and daubed with clay. Clays were also
+used in the southwestern Plains to plaster
+floors, make wall bricks, and raise puddled
+walls. Highly consolidated soils or sedimentary
+rocks were utilized principally along the
+High Plains of the western part of the region.
+Caves formed by the erosional undercutting
+of streams were home to early big-game hunters
+along the northwestern Plains from 5,000
+to 10,000 years ago. Later cave sites have been
+located all across the western margins of the
+region. Stone masonry dwellings were built in
+the rugged canyon lands and escarpments of
+the southwestern Plains. The use of soils culminated
+in the earth lodge.</p>
+
+<p>Plains fauna also provided raw materials for
+construction. Bison skins were used from historic
+times back into the more distant past,
+perhaps as many as 5,000 years ago on the
+plains of southern Alberta. The historic tipi is
+the evolved descendant of a long line of skin
+lodges.</p>
+
+<p>The extensive repertoire of walling material
+contrasted with a limitation in roof structure.
+A scarcity of forested areas limited the location,
+size, and duration of permanent settlements.
+Temporary campsites and smaller
+lodges built of poles with mat, grass, bark, or
+skin coverings could utilize woods such as
+willow in more widely scattered locations. But
+substantial lodges needed large trees for posts,
+beams, and rafters; permanent villages were
+therefore built near major wooded streams
+and rivers.</p>
+
+<p>The formal aspects of this early architecture
+are more difficult to determine than its structure.
+Evidence gleaned from archaeological
+investigation is difficult to interpret, especially
+in projecting three-dimensional forms from
+two-dimensional remains. Nevertheless, two
+distinct patterns, one of circular forms and
+the other of rectilinear forms, can be broadly
+discerned.</p>
+
+<p>The oldest remains are found along the
+western High Plains, where ubiquitous rock
+circles mark the base of what were circular
+lodges. Rocks were used to secure the covering
+of the lodge to the ground or perhaps to stabilize
+the poles of the structure. Ancestral in
+design to the historic era tipi, these structures
+are oldest and most numerous on the Alberta
+Plains and become more widely scattered and
+presumably later to the south. The more recent
+circles mark larger lodges than earlier
+ones&#8211;the adoption of the horse by nomadic
+peoples increased the size of lodge that could
+be transported.</p>
+
+<p>The oldest remains are found along the
+western High Plains, where ubiquitous rock
+circles mark the base of what were circular
+lodges. Rocks were used to secure the covering
+of the lodge to the ground or perhaps to stabilize
+the poles of the structure. Ancestral in
+design to the historic era tipi, these structures
+are oldest and most numerous on the Alberta
+Plains and become more widely scattered and
+presumably later to the south. The more recent
+circles mark larger lodges than earlier
+ones—the adoption of the horse by nomadic
+peoples increased the size of lodge that could
+be transported.</p>
+
+<p>Among the oldest of the rectangular-pattern
+houses were those constructed at the beginning
+of the second millennium of the current
+era along the middle Missouri River of contemporary
+North and South Dakota. These
+semisubterranean houses had floors one or
+more meters below the surface, with entrance
+through the southerly end of the house via a
+long, covered ramp. A slightly raised platform
+usually occupied the entrance end and sometimes
+extended along the sides. The hearth was
+along the long axis. Structurally, these houses
+appear to have been gable-roofed buildings,
+supported by ridgepoles and side walls built of
+closely spaced posts.</p>
+
+<p>Entirely different rectangular houses have
+been unearthed in the southwestern Plains.
+Dating from nearly the same time, one built in
+the upper Washita River drainage contained
+a central hearth and two central posts. This
+plan is similar to lower Arkansas valley Caddoan
+houses of the mid.thirteenth through
+mid.fourteenth centuries. Closely spaced
+posts around the perimeter indicate wall lines
+and narrow, protruding entrance passages.
+The roof was likely hipped and thatched,
+while walls appear to have been closed with
+wattling.</p>
+
+<p>More ubiquitous was a square, four-post
+lodge that appeared throughout the Central
+and Southern Plains from the tenth through
+the fifteenth centuries and that came to be
+adopted along the middle Missouri River
+somewhat later. Built with considerable variation
+in size and detail, this house type appears
+to be an enlarged version of the two-post rectangular
+house, constructed with a hipped
+or pyramidal roof. The nearly square plan
+typically had rounded corners with walls of
+closely spaced posts that undoubtedly were
+wattled and daubed. On the western portions
+of the Central Plains they were built on or
+near the surface, while to the east they were
+semisubterranean.</p>
+
+<p>Initially, square houses were not oriented to
+any particular direction, but over time the
+four posts came to be set at the semicardinal
+points. As the structure was reoriented, the
+entrance vestibule was typically built facing
+east. The commodious interiors utilized a variety
+of features, such as benches and screens,
+to divide the space into different compartments.
+Square-lodge villages were typically located
+on the first or second terraces of rivers
+and streams, while the village pattern, regardless
+of size, tended to organically follow the
+terrain of the terrace. Fortifications were rare
+except in the middle Missouri region of the
+Northern Plains, and there they protected
+only a portion of the extended village.</p>
+
+<p>Perhaps the most distinctive adaptation of
+the four-post square house occurred along the
+southwest margins of the Plains in the upper
+Canadian drainage of what is now the Panhandle
+of Texas. Particularly interesting are
+villages in the Antelope Creek basin, where
+the house was oriented to the cardinal directions
+and had a very low, east-facing entrance
+passage. The house floor incorporated raised
+benches with storage bins. Another raised
+platform, either protruding into the house
+or occupying a projecting extension of the
+west wall, was often found opposite the door.
+Hearths were centrally located.</p>
+
+<p>Construction technology further distinguishes
+these houses. Walls were built of puddled
+clay or clay bricks alternating with horizontal
+stone slabs. Occasionally, vertical posts
+were used to stabilize the clay walls. Most interesting
+was the use of various forms of rock
+foundations and footings: single or double
+rows of vertical stone slabs set into the
+ground, the latter with rubble fill, comprised
+the most unusual system.</p>
+
+<figure n="egp.arc.001.01" rend="granted">
+<figDesc>Sioux tipis, Fort Buford, Dakota Territory, May 1881</figDesc>
+</figure>
+
+<p>Village patterns were also distinct. In several,
+lodges were built contiguously into large
+communal blocks that seem to have been a
+function of choice and not of site limitation.
+Room configuration was complex. Circular
+rooms served as antechambers to one
+square house in each block, possibly indicating
+some kind of communal function.</p>
+
+<p>Other multichamber complexes were built
+farther to the northwest along the upper
+reaches of the Canadian and Arkansas drainages
+and to the east along Ladder Creek, a
+tributary of the Smoky Hill River (in contemporary
+New Mexico, Colorado, and Kansas,
+respectively). The latter, a pueblo-like construction,
+dates to after the Pueblo Revolt of
+1620. Known as El Cuartelejo, it was associated
+with the Plains Apache.</p>
+
+<p>Even as the house-pattern preference of the
+Plains villages coalesced around the four-post
+square lodge, a shift toward a circular plan had
+already begun. Four-post circular lodges, presumably
+walled with wattle and daub like their
+square counterparts, were occasionally found
+as minority forms within some square-house
+villages. Examples from about <hi rend="smallcaps">A.D.</hi> 1000 to
+1400 appeared along the Salt Creek drainage
+of the Smoky Hill River in what is now western
+Kansas and along Muddy Creek in the
+South Loup River system of present-day Nebraska.
+Other early circular lodges existed to
+the south of the High Plains rock-circle clusters
+in the rugged Apishapa Canyon of the
+upper Arkansas River in present-day southeastern
+Colorado. Dating from the latter half
+of the thirteenth century, these were singleand
+multichamber dwellings constructed of
+upright stone slabs. They varied in size from
+postless and single-post to four-post structures;
+the latter seems to anticipate four-post
+circular earth lodges.</p>
+
+<p>The circular earth lodge itself apparently
+appeared after 1450 and was common until the
+European American invasion. This house type
+was adopted by virtually all the semisedentary
+communities from the Central Plains northward.
+It was like earlier square lodges in the
+utilization of the four interior posts, the central
+hearth, the extending entrance vestibule,
+and the system of roof rafters. Aside from its
+plan, major distinctions from its predecessors
+occur in the perimeter structural system and
+the earthen covering. In structure, vertical wall
+members were replaced with a post-and-beam
+system, and roof rafters rested on the beam
+rather than on a wall plate. Wall members
+were leaners that rested against the perimeter
+beam. The space beneath these leaners, to the
+outside of the posts, was used for a variety of
+purposes, including sleeping platforms, storage,
+and altars.</p>
+
+<p>Other lodge types of the protohistoric period
+adopted the circular form as well. Hunting
+camp lodges along the middle Missouri of
+Pawnee earth lodge, ca. 1871
+the Northern Plains were built with four center
+posts whose beams supported leaners that
+peaked like a tipi and marked a circle on the
+ground. Central Plains Apaches built seasonal
+lodges that made the circular motif more explicit.
+There the imprint of the leaners was
+mirrored in the internal structure, where typically
+five and sometimes six interior posts
+were set in a circle around the hearth. The
+entrance was less an appendage than a protuberance
+of the curvilinear form.</p>
+
+<p>On the Southern Plains another circular
+lodge emerged that became a Plains house
+type of importance equal to the earth lodge.
+Known primarily from historic Wichita structures,
+the thatched or grass lodge utilized
+wall-roof poles set firmly into the ground,
+bent across an internal post-and-beam system,
+and tied together at the peak. Light horizontal
+stringers were tied to these "rafters" to
+strengthen the frame and provide support for
+bundled grass thatch. Another set of stringers
+was applied over the thatch to help secure it to
+the frame. Older grass lodges in the Red River
+valley along the Texas-Oklahoma border apparently
+were built upon a four-post plan. The
+evolved Wichita house, however, utilized a circular,
+multipost system that retained some of
+the significance of the old four-post lodge in
+the designation of principal posts for the four
+directions.</p>
+
+<figure n="egp.arc.001.02" rend="granted">
+<figDesc>Pawnee earth lodge, ca. 1871</figDesc>
+</figure>
+
+<p>A similar evolution occurred with the earth
+lodge into the historic period, at least among
+some tribes. Protohistoric Pawnee villages in
+the lower Loup River valley of present-day Nebraska
+were composed of four-post circular
+lodges, while historic Pawnee lodges utilized
+from six to eight or twelve interior posts set in
+a circle. This was also the case with historic
+Omaha lodges. Thus, while four-post circular
+lodges continued to be built on the Northern
+Plains, in the Central and Southern Plains
+four-post structures gave way to multipost circular
+structural systems that reflected the circle
+described by the external walls.</p>
+
+<p>While the full meaning of this evolution
+cannot be known, some significant patterns
+can be discerned. Three principal architectural
+forms share the multipost&#8211;or multipole&#8211;
+circular configuration. All three utilized
+exterior surfaces that were, in essence, angular
+projections that began the vaulting over of the
+dwelling from the plane of the earth. Neither
+wall nor roof in the Western sense, these surfaces
+formed a continuous vaulting of the
+dwelling that projected upward from a circle
+inscribed on the earth. The whole material
+body of the Plains was also reflected in these
+forms: soil, the geological and biological basis
+for the life of the place, was reflected in the
+earth lodge; grass, the principal flora of the
+Great Plains, was reflected in the thatched
+lodge; and bison, the principal faunal life of
+this place, was reflected in the skin lodge.</p>
+
+<p>In a real sense, the mind of original Plains
+peoples converged with the body of the place
+and evolved a climactic Great Plains architecture.
+The shapes and cycles of things were
+echoed in the evolved architecture. The vast
+expanses of the Plains are defined by the circular
+horizon, and from the horizon vaults
+the still more vast sky. Within this expanse
+the rhythmic cycles of the cosmos&#8211;of the
+earth, moon, sun, and stars&#8211;are plainly evident.
+Here the great circle of the terrestrial
+world, the horizon, marked the boundary of
+place. Native peoples reflected the shape of the
+place in forms that mirrored the place. Cycles
+and the place were celebrated in material
+form&#8211;from lodges to medicine wheels and
+from great camp circles to contemporary
+dance arbors.</p>
+</div2>
+
+<div2>
+<head type="sub">Disembodiment</head>
+
+<p>Further evolution of Native architecture was
+eclipsed by the rapid conquest of the Plains by
+European Americans, who defined the place
+from a distance. Disembodied, abstract concepts&#8211;
+following the Cartesian lead&#8211;took
+power and control over the ancient evolved
+body of the place, and anthropocentric priorities
+began to rift the place to pieces, first in
+mind, then in body.</p>
+
+<p>The Great Plains was objectified on desks in
+Washington and Ottawa, fueled by concepts of
+property and reports from scientific and military
+expeditions. New territories were defined
+by imaginary lines such as those drawn in abstract
+space using the global grid. This grid
+became part of the "architectural" transformation
+of the Plains; its extension via government
+surveys imposed a uniform Cartesian
+net over the whole of the "flat" and "empty"
+land. Ultimately, the cultural expression of
+these lines effected the complete transformation
+of place, with property lines determining
+the limits of thought.</p>
+
+<p>Three institutions&#8211;the fur trade, the military,
+and the railroad&#8211;cleared the way for European
+American resettlement and the final
+phases of disembodiment. Though the early
+architectural presence of these institutions
+gave an appearance of being in place due to
+their use of local materials, their architectures
+quickly evolved into modern facilities of extraction
+in keeping with their institutional intent.
+Their mature architectural forms rereflected
+the power their enterprises had over
+the body of the place.</p>
+
+<p>Fur traders, here to strip the Plains of its
+fur- and skin-bearing animals, were the first
+to make permanent constructions. Early Missouri
+River posts were typically built of horizontal
+logs cut from the forested valley. Fontenelle's
+post at Bellevue (1822), in present-day
+Nebraska, consisted of individual buildings
+set around a loose, partially fenced courtyard.
+Its otherwise benign appearance was belied by
+the size of its warehouses. Later constructions
+such as those at Fort Union at the mouth of
+the Yellowstone (established in 1828) were formally
+designed, fully stockaded compounds.
+The head trader's house there is an early example
+of the elite colonial designs that quickly
+made their way onto the Plains.</p>
+
+<p>Other fortified compounds were built, beginning
+in the 1830s, as new centers of extraction
+were established on the western High
+Plains. Wood was not abundant there, so clay
+technologies adopted from Hispanic sources
+were utilized. From Bent's Fort on the Arkansas
+northward to Fort John on the North
+Platte, the spread of southwestern construction
+techniques was made possible by an
+abundance of clays and a liberal use of Latino
+labor. Built as variations on the Spanish presidio,
+the adobe forts embodied corporate
+power with controlled, hierarchical plans that
+only looked premodern because of their old
+structural systems.</p>
+
+<p>The second wave of corporate technology
+was associated with U.S. military campaigns.
+Pursuit of the nomadic western tribes for the
+security needs of traveling European Americans
+led to the initial establishment of numerous
+temporary posts. Selective adoption
+of premodern techniques facilitated construction
+where the preferred materials were rare
+or nonexistent: adobe masonry and panel-wall
+log construction are just two examples.
+Seldom were these valued for permanent installations.
+Lumber was imported as soon as
+possible, and by the turn of the twentieth century
+brick veneers were used extensively to
+lend an aura of permanence and substance to
+the most important posts.</p>
+
+<p>Unlike the compounds of the fur traders,
+military architecture on the Plains was rarely
+fortified; industrial weapons technologies obviated
+this need. Drawn from Anglo-American
+architectural traditions, forts were orderly collections
+of individual buildings, hierarchically
+arranged and properly attired. Commanding
+officers' quarters were patterned after the hierarchical
+central-passage houses of eastern merchants.
+Though often scaled back to one and a
+half stories in height, their symmetrical facades
+and front galleries symbolically reinforced
+the government's role of establishing
+control over the region.</p>
+
+<p>and character of the resettlement. Extensions
+into "unsettled" country allowed them to establish
+stops, to plat and own towns, and to
+control the towns' development. Rail towns
+were laid out following a small repertoire of
+plans, all focusing on the depot as the central
+place. Control of these geometric plats allowed
+railroads to shape the character of
+towns by deciding which lots were sold for
+what purposes and in what order. Business
+districts were created in immediate proximity
+to the depot, while churches and residential
+lots were pushed to the periphery.</p>
+
+<p>The depot was the most intentionally symbolic
+structure. Plains railroads adopted standard
+plans that allowed for a variety of selections
+depending upon the position of the
+community within the economic structure of
+the corporation. Noteworthy among Plains
+designs was the residential depot, which provided
+housing for agents in locales that were
+not yet developed. The most common of these
+had living space on the second floor above
+passenger waiting rooms and agent offices.</p>
+
+<p>Standard plans gave way to custom designs
+in communities that established themselves as
+significant economic entities. Elite designs
+created symbolic images for both the community
+and the corporation. This became problematic
+after World War II, when passenger
+service declined or ceased altogether. Corporations
+often quickly removed passenger stations,
+so that today the sight of a depot is rare
+and rarer still in its original location. Given
+the depots' prominent siting, their removal
+has often left significant gaps in the urban
+landscape.</p>
+
+<p>An even greater impact of rail technology
+was in the movement of people and goods.
+This contribution to the disembodiment of
+original place facilitated the commodification
+of agriculture, with its widespread replacement
+of native flora and fauna. In addition
+to stockyards and trackside corrals, the most
+permanent and symbolic of the structures of
+disembodiment was the grain elevator. The
+early stacked-lumber elevators have largely
+disappeared except, perhaps, in more remote
+regions of the Northern Plains and Prairie
+Provinces. Victims of truck transport and corporate
+consolidation, the wooden structures
+were replaced with larger facilities built of reinforced
+concrete. The most substantial of
+these are in gateway cities along the fringes of
+the region. As the largest and most monumental
+constructions in the region, they symbolize
+the region's modern role as grain supplier
+to the world.</p>
+
+<p>Another architectural result of this activity
+was the emergence of sod-wall construction.
+Utilized over vast areas of the central and
+northern farming Plains, it flourished with increasing
+European American settlement in the
+1870s and followed wherever the prairies were
+broken. Its success as a building technology
+relied upon the manufacture of the steel plows
+needed to cut the tough prairie-grass roots; its
+demise rested upon Anglocentric notions of
+"proper" dwelling construction, the proliferation
+of industrial building technologies, and
+the destruction of the native prairies.</p>
+</div2>
+
+<div2>
+<head type="sub">Replacement</head>
+
+<p>The rest of the architectural story is dominated
+by the importation of building materials
+and abstract architectural ideas. The materials
+needed to accommodate Anglo-American
+ways of building did not exist in quantity in
+the Plains, so the new architectural body
+turned its back on the region. The story is one
+of replacement.</p>
+
+<p>The existing place didn't feel like a potential
+home to European Americans, who had
+mostly been a people of the forest, first in Europe
+and then in America. On the Plains
+everything was strange and seemingly empty;
+as one early traveler put it, a single tree would
+have been enough to relieve the pain of loneliness
+and desolation. That tree would also
+have provided the preferred building material
+of the newcomer, and so wood, in the form
+of imported lumber, became critical to the
+replacement.</p>
+
+<p>Though some wood was processed locally
+in river towns, regional riparian stands of timber,
+following the decimation wreaked by
+overland travelers, the army, the railroads, and
+the telegraph, were insu.cient to meet anything
+but rudimentary local needs. Exogenous
+lumber was first supplied by steamboat, and
+some precut houses were imported during the
+first years of settlement. But it was the completion
+of the transcontinental railroads that
+started the massive importation of lumber
+into the Plains. The resettlement was built
+from the body of the upper midwestern and
+southern forests, and the trackside lumberyard
+became another symbol of European
+American resettlement.</p>
+
+<p>Prior to the o.cial opening of the Plains,
+the evolution of American wooden building
+had begun to standardize around light frame
+construction with nail joinery. Locally, however,
+framing initially followed diverse patterns.
+Heavy braced frames continued to be
+built for a time by easterners and some Germans,
+but increasingly these were superseded
+by modern light wooden frames. Idiosyncratic
+hybrid framing was not uncommon, but
+eventually the technology settled on more or
+less standard balloon and western platform
+frames.</p>
+
+<p>The thought behind the replacement was as
+out of place as the lumber, and this was reflected
+in the forms the replacement took as
+well. In the more heavily settled sections of
+the region the superimposed spatial grid influenced
+the character of the new landscape
+from the beginning. Roads, fields, fences,
+lanes, farms, schools, churches, and towns all
+became subsets of the grid. Terrain and waterways
+no longer ordered culture or formed
+place; section roads and property lines did.
+In the farming countryside checkerboard
+fields planted in straight monocultural rows
+drilled the modern mechanistic order into the
+land itself. The place became changed at ever
+deeper levels.</p>
+
+<p>Architectural form followed from the same
+mind that overlaid the landscape with the abstract
+grid. Though this modern, abstract
+mind held sway over the Plains, some communities
+initially embraced a wider variety of
+attitudes. Architecturally, before the final triumph
+of national modernism a more diverse
+presence established heterogeneous places
+throughout the region.</p>
+</div2>
+
+<div2>
+<head type="sub">Diversity</head>
+
+<p>For a time the Great Plains was inhabited by
+an international community&#8211;a historically
+contingent, multicultural presence of quite
+different and sometimes opposing belief systems.
+Their initial constructions represented a
+wide array of responses to the challenge of
+making place. Foreign immigrants often built
+in old ways that were familiar and comfortable.
+The transference of old forms was restricted
+by the extent a material was available
+to build in the traditional way. If it was not,
+or if one were instead attempting to conform
+to emerging national standards, then the old
+form was either abandoned for a new one
+built of lumber or it was modified to accommodate
+the new material.</p>
+
+<p>When we think in regional architectural
+terms, we naturally look to the materials that
+form the body of the place, and here, due to
+notoriety, the sod wall comes first to mind. Its
+utilization across a broad expanse of the farming
+Plains, irrespective of culture, made the
+sod-wall dwelling a true regional vernacular of
+the replacement. The nature of the material's
+association with disembodiment, however,
+precluded its utility beyond the first or second
+generation of houses. Constructions of baled
+biomass (hay and straw), perhaps the only regional
+architectural invention, might have
+provided a sustainable counterpart to sod,
+though it appeared too late and in areas too
+sparsely settled to have had an immediate impact.
+Its recent resurgence is another matter.</p>
+
+<p>Less popular than sod but still widespread
+were various clay-wall technologies. Unfired
+clay found use in brick masonry, puddledclay,
+and rammed-earth constructions; its
+many iterations were known by diverse terms,
+depending upon the culture that utilized the
+technique. The clay technologies were primarily
+culture-bound, and while they were
+preadapted to the Plains environment, their
+adoption by others appears to have been only
+idiosyncratic. Black Sea Germans, Czechs,
+Poles, Ukrainians, and Hispanics were among
+the dominant builders in clay.</p>
+
+<p>Diversity was also a theme in the utilization
+of other native materials. Variation in the
+type, quantity, and quality of stone led vernacular
+and elite masons to a remarkable variety
+of construction in surprisingly widespread
+locales, virtually everywhere su.cient veins of
+good-quality rock were found near the surface.
+Where quantity and quality supported
+commercial quarrying, elite buildings were
+constructed. High-quality architectural work
+can be found everywhere stone was used, but
+probably nowhere in such concentrations as
+in the Sioux Quartzite areas of southeastern
+South Dakota or the Flint Hills of eastern
+Kansas, where sophisticated dressed ashlar
+work was common.</p>
+
+<p>Perhaps most surprising for the "treeless"
+Plains was the extent of log construction during
+the early settlement period. Diversity arose
+from the multicultural background of builders
+and the mixed flora of the region. Most
+of the log-timbering methods known to have
+been brought to America, as well as those that
+evolved on the continent, were utilized on the
+Plains.</p>
+
+<p>Two factors influenced the use of native
+material: the first in which the "pioneer" was
+forced as a matter of necessity and a second in
+which settlers chose native material as a matter
+of preference. The former was spatiotemporally
+restricted to the ever-shifting line
+of resettlement. Few surviving constructions
+were built from strict necessity, and most
+of what remains derived from cultural preference.
+These were built predominantly by Germans,
+German Russians, Poles, Czechs, Finns,
+Hispanics, and Ukrainians.</p>
+
+<p>Cultural diversity was also reflected in architectural
+form, especially among rural folk
+and the more conservative immigrants and
+during the first, second, and sometimes third
+generations of dwelling construction. Usually
+the diversity was the result of the direct transplantation
+of Old World forms.</p>
+
+<p>Though dwelling types were all within a familiar
+western mold, the constructions of
+foreign-born settlers were often noticeably
+distinct from those of the native-born. Many
+early dwellings were built along ancient plans
+that accommodated preferred ways of living.
+Most of these modest dwellings were characterized
+by the presence of principal rooms&#8211;
+called halls in the English American tradition&#8211;
+and open plans that allowed direct
+entry into these rooms, preserving old, intimate
+relationships between the house and the
+land. The most prominent of the traditional
+builders were the Germans, German Russians
+(both Black Sea and Volga), Czechs, Poles,
+Ukrainians, and Danes. Their old plans were
+modified, with rare exception, by the adoption
+of American cast-iron stoves for heating
+and cooking. The abandonment of old-style
+hearths, stoves, and ovens did change the interior
+character of dwellings and often necessitated
+modifications to traditional foodways.
+Some built larger, more modern Old World
+dwellings, while others such as the Volga Germans
+and Danes chose from American house
+types that closely resembled familiar European
+forms.</p>
+
+<p>Though some Anglo-Americans initially
+built traditional houses (usually a hall-andchamber
+house), most erected modernized
+plans that abandoned halls in favor of kitchens
+and parlors. Other principal features of
+this modernization, whatever the kind of
+house, included the use of multiple thresholds
+and the accommodation of bedrooms and
+dining rooms&#8211;all reflective of the increasing
+dwelling size and room specialization characteristic
+of modern society's movement toward
+privacy, individuality, and separation from
+the land. Most of the early modern houses
+were variations on popular Georgian planning
+and formal symmetry. Later settlers
+adopted house types derived from rapidly
+changing national architectural fashion. The
+specific sequences of both the foreign- and
+native-born developments varied depending
+upon where and when initial settlement took
+place.</p>
+</div2>
+
+<div2>
+<head type="sub">National Modernity</head>
+
+<p>In the main, however, the architectural story
+of the Great Plains after European American
+immigration was about an architecture that
+just happened to be built on the Plains. In the
+broad sweep it was not substantially different
+from that developed anywhere else in the
+United States. There is no reason to retell that
+story here using local examples. It is, however,
+important to at least acknowledge the surge of
+national modernity as it played out on the
+Plains.</p>
+
+<p>Easterners wasted little time in setting forth
+the national parameters within which this
+new place was to be defined; lumber was first,
+and the architectural pattern book was second.
+Mass-produced pattern books made the
+transference of formal architectural ideas out
+of place possible. Designs no longer needed
+to respond to locale; rather, they became abstractions
+that could be built on any "site,"
+anywhere. Pattern books by eastern and British
+architects had already been a means for
+expressing and disseminating elite architectural
+ideas before initial resettlement began.
+Stylish houses could be and were built soon
+after the various territories were opened.</p>
+
+<p>By the turn of the twentieth century, books
+by architects such as Chicagoan William Radford
+were produced for more popular consumption.
+Mail-order catalogs were likewise
+published by retailers like Sears and Montgomery
+Ward, offering not only designs but
+also precut materials ready for shipment.
+Soon local builders and lumberyards produced
+catalogs depicting their own repertoire
+of house designs. These were increasingly
+built in tracts of similar or identical dwellings.</p>
+
+<p>National and "progressive" trends in farm
+building design were also perpetuated through
+the state and national agricultural journals
+that proliferated from the late nineteenth century.
+Following trends established earlier in
+architectural publications, they offered advice
+on lifestyle as well as technical information on
+buildings. Land-grant universities published
+technical leaflets with designs for essential
+farm and ranch building needs. The impact of
+these was substantial, and from around 1900
+onward the agricultural landscape became architecturally
+more homogenized.</p>
+
+<p>As the demand for architectural and engineering
+services increased, especially in the
+cities, more architects from the East migrated
+west. Some were trained under the apprenticeship
+system, while others, both native- and
+foreign-born, had also received academic
+training. Custom buildings of increasing
+structural competence and design sophistication
+were soon raised on the Plains, beginning
+in the boom years of the 1880s. By the next
+century academic training was virtually the
+norm. Education was provided by leading
+schools in the East, technical universities in
+Europe, and the Ecole des Beaux-arts in Paris.
+Some Beaux-arts-trained architects such as
+Thomas Kimball of Omaha were native sons
+who returned home after completing their
+schooling to contribute to the development of
+the region.</p>
+
+<p>Local apprenticeship systems produced an
+extensive lineage of architectural practice that
+became the foundation for the licensed practitioners
+of the twentieth century. By midcentury
+several state land-grant and provincial
+universities had established architecture
+schools. Some local architectural firms have
+become national and even international concerns,
+made possible by the ideological trends
+of modernity and a globalizing economy.</p>
+
+<p>Great Plains architectural output from the
+beginning of the replacement replicated abstract,
+national, and modern trends. Essential
+influences emanated from eastern cities, then
+from Chicago, then from the Pacific Coast,
+and finally from avant-garde Europe. Plains
+architects creatively adapted national and international
+design ideology to local problems,
+especially in the cities and for elite clients.
+Most moved freely from style to style (a legacy,
+first promoted by pattern books, of reductionism
+applied to architecture that divorced
+the design of a facade from the function and
+structure of the building) and have done so in
+every era to the present. Architects were often
+imported from cities like Chicago, Minneapolis,
+Kansas City, St. Louis, and New York for
+the most prestigious commissions.</p>
+
+<p>While society's attitudes toward the modern
+were national, there was no tendency toward
+a national style following European
+American entry to the region. The national
+classical revivals of the first half of the nineteenth
+century were on the wane when resettlement
+commenced, and what followed was a
+rapid succession of stylistic gyrations. The
+first to proliferate on the Plains was the Queen
+Anne; it was a style with national extent, but it
+lacked national meaning. On the Plains the
+ethno-English associations of the style were
+vague; its popularity was more related to a
+booming economy, ideas of modern "progress,"
+and incipient suburbanization&#8211;all concepts
+that had national overtones of their
+own. Otherwise, architectural style changed
+like the prairie winds with the fickle tastes of
+consumer capitalism.</p>
+
+<p>Excellent products of these multifarious national
+and international trends dot the landscape,
+interspersed with delightful local and
+popular versions. But anything that might be
+suggestive of a distinct architectural character
+in the region was more the result of historical
+contingency. Boom periods&#8211;via the sheer
+quantity of construction&#8211;established an initial
+character to rural and urban landscapes
+that was distinct from older areas, east or west.
+These remain present in most locales that
+peaked economically before the current era.
+Communities that experienced continued
+growth typically replaced the replacements
+and now are tending to resemble the "anywhere"
+landscapes so emblematic of our time.
+In this kind of setting, individual monuments
+serve as symbols of place.</p>
+</div2>
+
+<div2>
+<head type="sub">Differentiation</head>
+
+<p>Two forms of architectural differentiation appeared
+during the first part of the twentieth
+century. The first sought explicit ethnocultural
+meanings. Designs generated by some
+foreign immigrants as they emerged from the
+background of settlement and forged a greater
+cultural presence on the land created distinctive
+local environments. Their architectural
+differentiation was more pronounced in a
+host environment dominated by revivals intended
+in part&#8211;via adoption of very selective
+European and American sources&#8211;to create
+the solidification of cultural hegemony.
+The second was intended to be a resistance to
+modernity, an attempt to reground architecture
+in nature and place through a revival of
+vernacular design, craft tradition, and, if not
+indigenous materials, at least the use of natural
+materials.</p>
+
+<p>Ethnic architectural emergence by some
+groups appears less culture bound than the
+result of individual or community tastes and
+idiosyncrasies; these groups tended to assimilate
+quickly, with a concomitant architectural
+melding into the host landscape. Among
+them, however, Swedes did participate in an
+Academic form (a self-consciously learned
+and sophisticated approach to the revisioning
+of earlier styles) of what has been dubbed
+"National Romanticism" via the Augustana
+Synod architect Olof Z. Cervin of Rock Island,
+Illinois. His picturesque churches drew inspiration
+from national revivals then current
+in the Nordic countries. The most explicit of
+his work was the yellow brick, stepped-gable
+campus of the Bethphage Mission in Kearney
+County, Nebraska. Danes also drew inspiration
+from the revivals in their homeland,
+though in a more provincial mode. This was
+evident in picturesque designs for folk schools
+such as at Nysted in Nebraska, but a more
+ubiquitous if less obvious ethnic presence was
+provided especially by Grundtvigian Danish
+churches, gymnasia, and other community
+buildings whose interiors were richly walled
+and ceiled in wood. This harking back to a
+distant forested past&#8211;and recalling wooden
+seafaring vessels&#8211;represents a distinct architectural
+expression on the Plains.</p>
+
+<p>Also provincial but more a part of an Old
+World cultural continuum than a revival was
+the adoption of simplified baroque designs
+for the community buildings of freethinking
+Czechs. This "rustic" baroque was part of a
+nearly three-century extension of the European
+style. The latest Plains example was the
+1921 Kollár Hall near Dubois, Nebraska. The
+later Orthodox churches of Ukrainian settlers
+in the Prairie Provinces were also continuations
+of traditions that had been perpetuated
+earlier in pioneer church buildings. The free
+expressions of Alberta architect Father Philip
+Ruh stand out, such as his Ukrainian Catholic
+Church of the Immaculate Conception of 1930
+at Cooks Creek, Manitoba. In it Ruh retained
+the multipart articulated massing of traditional
+churches topped with domes (though
+not onion domes) but departed from tradition
+in his Germanic decorative embellishment.</p>
+
+<p>More Academic in origin and related to
+the immigration of trained architects was
+the appearance of two German American national
+styles. Designs based upon the German
+Gothic were unobtrusive in the American
+context. Major examples of this <hi rend="italic">Spitzbogenstil</hi>,
+or pointed-arch style, were built in German
+settlements throughout the region: Sioux Falls
+architect Joseph Schwarz's Holy Family Catholic
+Church (1903–6) in Mitchell, South Dakota,
+and J. P. Guth's St. Johns German Evangelical
+Lutheran Church of 1902 near Lyons,
+Nebraska, are representative of two common
+variations. The second, the Rundbogenstil, or
+round-arch style, was more than an ecclesiastical
+style. Breweries and other commercial
+and public buildings in German-dominated
+places were often constructed in this popular
+style. Frederick W. Paroth's St. Elizabeth Catholic
+Church at Auraria, Colorado (1898), Anton
+Dohman's St. Mary's Abbey Church at
+Richardton, North Dakota (1905–9), and
+Omaha's Anheuser Busch Beer Depot (1887)
+are exemplary of a very large repertoire of
+such designs.</p>
+
+<p>The impetus toward national styles
+throughout Europe in the nineteenth century
+grew from emerging nation-state identity, an
+issue many immigrants brought with them.
+But the impulse applied equally to the dominant
+culture in the United States. By the
+turn of the twentieth century, a Georgian
+Colonial Revival coalesced that had national
+overtones among the native-born. Domestically,
+the style, reinforced in part by xenophobia,
+segued into various English Period
+house styles around World War I, then expanded
+to include period house choices from
+the western Europe of the old immigration.</p>
+
+<p>Multiplicity was the rule for the nondomestic
+architecture of the first half of the twentieth
+century as well, but it was really a focus on
+taste and massive scale associated with the Academic
+trend in architecture that characterized
+American national romanticism of this
+period. Styles were chosen based upon oftenvague
+notions of association&#8211;sometimes institutional,
+sometimes personal. Thus it could
+happen that an Academic skyscraper adorned
+in the Gothic Revival&#8211;a sort of "cathedral of
+commerce"&#8211;could appear a few blocks from a
+new Gothic Revival church, with no apparent
+contradiction in meaning. Whatever the associations,
+they may never have been known to
+the community at large. Such was probably the
+case with the appearance of the Romanesque
+Revival for many Catholic churches of this period.
+Derived from the Italian mode, the style
+flowed from Vatican influences within the religious
+hierarchy. To outsiders, taste and substance
+were probably the primary indicative
+aspects of Academic national romanticism.
+Though lacking in substance, this taste was
+promoted through a series of national expositions,
+including the Trans-Mississippi and International
+Exposition of 1898 in Omaha.</p>
+
+<p>Another impulse of the trend toward associational
+design was a return to American regional
+culture. The lack of a prior European
+American presence on the Plains, however,
+was problematic. There was no regional style
+here to revive. One solution to this deficit was
+the use of imagination. Coronado's trek into
+the Southern Plains provided su.cient impetus
+for Omahans Thomas Rogers Kimball and
+Archbishop Richard Scannell to conjure the
+Spanish Colonial Revival as a style appropriate
+to the Central Plains. Kimball's St. Cecilia's
+Cathedral in Omaha of 1905.59 initiated an
+identity with the American Southwest before
+Goodhue's national popularization of the
+style at the 1915 Panama-California Exposition
+in San Diego. Spanish influences were more
+prominent on the Southern Plains, where the
+baroque also found expression in a variety
+of eclectic designs such as the city hall and
+auditorium of 1927 in Wichita Falls, Texas, by
+Lang &amp; Witchell in association with Voelcker
+&amp; Dixon.</p>
+
+<p>The restrained mission style was more popular,
+again particularly on the Southern Plains,
+where it was adopted by the Southern Pacific
+and Santa Fe Railroads as part of their corporate
+identities. The Santa Fe station at Great
+Bend, Kansas, is perhaps exemplary. Kansas
+City architect Louis Curtiss's more inventive
+reprisals of southwestern forms such as his
+1907 depot and hotel at Syracuse, Kansas, and
+the 1909–11 Lubbock, Texas, depot are probably
+high points of this kind of regional identity.
+As remote as these associations seem today,
+they do appear more grounded, at least in
+the South, than the more imaginary associations
+drawn directly from the Mediterranean
+such as the 1918 Broadmoor Hotel in Colorado
+Springs.</p>
+
+<p>The various forms of romanticism held
+sway side by side with the California Craftsman
+styles that were popularized in the Plains
+in the Bungalow movement of the 1910s and
+1920s. Craftsman houses were unlike the period
+revivals in that they lacked cultural roots
+in the American scene. They were similar to
+them, however, in a favoring of craftsmanship
+and vernacular design as well as a philosophical
+intent to reground buildings in nature.
+The import of both movements from the East
+and West Coasts, however, merely continued
+the trend of building out of place. Neither
+style's attempts to build with indigenous materials
+were very successful. With rare exceptions,
+these buildings were little more than
+philosophical statements lacking connection
+to the Plains.</p>
+
+<p>During this period indigenous materials
+were used almost exclusively in recreational
+architecture such as the river rock constructions
+at the Medicine Park Resort in southwestern
+Oklahoma, the earthen shelters of
+Emiel Christensen's private retreat, PaWiTo,
+along the Platte River in Nebraska, and the
+occasional public works project. Exceptions,
+however rare, can always be noted. A shortlived
+river rock vernacular developed on the
+Plains near Medicine Park, Oklahoma, and
+here and there distinctive porches appeared
+on bungalows throughout the region; those
+built with glacial erratics are probably the
+most spectacular.</p>
+
+<p>One Chicago influence was related to the
+Craftsman style in a general way. It was felt
+in the Plains to an extent in Prairie-style adaptations
+that borrowed superficial motifs for
+application to otherwise derivative Colonial
+and catalog forms. The style probably had the
+closest theoretical a.nity to what might have
+been a Plains architecture but was fully realized
+by only a smattering of buildings. This, in
+spite of the fact that the Plains boasted examples
+of both Frank Lloyd Wright's earlier and
+later Prairie houses: the Sutton house of 1905
+in McCook, Nebraska, and the Allen house of
+1915 in Wichita, Kansas. Fundamental Prairiestyle
+forms&#8211;such as low, horizontal, hiproofed
+houses&#8211;reappeared after World War II
+with the popularization of suburban ranch-style
+houses. But these were principally unrelated
+to the earlier movement and had their
+genesis on the Pacific Coast.</p>
+
+<p>Beyond these halting movements, an impetus
+toward regional differentiation simply
+never materialized, other than through individual
+efforts. The ephemeral Corn Palace at
+Mitchell, South Dakota, and the Texas Spring
+Palace at Fort Worth are two unconventional
+examples. Both were built to celebrate a kind
+of cyclical architectural stylishness with their
+annually changing facades of modern products
+derived from the body of the Plains; at
+Mitchell, however, the motifs are applied to a
+building designed following Moorish sources.
+More permanent regional motifs appear in
+places with varying degrees of appropriateness
+and success. The cowboys and Indians at the
+Frontier Hotel in Cheyenne (1936) and the architectural
+inscriptions utilized on the Natrona
+County Courthouse in Casper, Wyoming,
+are examples. The cowboy and Indian
+had appeared earlier as incised sculpture on
+the frontispiece of the Panhandle-Plains Historical
+Society Museum of 1932 at Canyon,
+Texas. Architect E. F. Rittenberry also incorporated
+the sculpted head of a longhorn steer
+and a gridwork of local cattle brands surrounding
+the entrance.</p>
+
+<figure n="egp.arc.001.03" rend="granted">
+<figDesc>Nebraska State Capitol</figDesc>
+</figure>
+
+<p>Perhaps no effort surpassed that of architect
+Bertram Goodhue for the Nebraska State Capitol.
+It was not regional in style but was an
+effort to generate monumental form that was
+responsive to the Plains landscape. Though
+much about its design and embellishment was
+anticipated by the local elite, it came to Goodhue
+alone to conceive of the broad horizontal
+base and landmark tower in terms that were
+modern and more explicitly symbolic of place.
+Goodhue's genius needed an equal in local visionary
+Hartley Burr Alexander to develop the
+thematic elaboration of the building. His plan
+for the murals, mosaics, exterior sculpture,
+and inscriptions was broadly historical, occasionally
+transcendental, and firmly rooted in
+the ethnocentric milieu. Themes associated
+with place were prominent.</p>
+
+<p>However one might criticize the Canyon
+and Lincoln buildings today (or even the one
+at Mitchell), they provide occasions for looking
+back at place, at least toward cultural
+place. All three are expressions of regional
+identity that are still locally revered. But the
+thinking behind their expression was as fleet
+ing as a late summer thunderstorm. Modern
+thinking never really looked back at place
+again. (I. M. Pei's National Center for Atmospheric
+Research at Boulder may be an exception
+of a different sort.)</p>
+</div2>
+
+<div2>
+<head type="sub">Hypermodernity</head>
+
+<p>Both the Canyon and Lincoln buildings were
+reflective of an emerging modern style. In
+spite of its initial theoretical concern with
+"space," even European modernism in the
+Plains ultimately continued to promote a progressive
+and reductive architectural style. This
+cause has been taken up with even more seriousness
+by so-called postmodern (really
+hypermodern) developments, in which now,
+quite literally, decorated facades and the seeking
+of new forms have again become principal
+architectural problems.</p>
+
+<p>Other aspects of modernism's focused reductionism
+have different consequences. We
+can look to a further loss of the sense of body
+in place that might have been anticipated by
+one of the region's most noted modernists,
+Norman, Oklahoma's Bruce Goff. The philosophical
+and psychological split of mind from
+body that has informed this essay and that rift
+site from place could be exaggerated by Goff's
+free expressions, which seem to have been
+made possible only by the prior abstract detachment
+of site from place. He further pursued
+architecture as a container split apart
+from the outside, a container in which the
+appearance of nature, if it were allowed at all,
+would be thoroughly domesticated and constrained
+from the inside.</p>
+
+<p>This latter aspect of Goff's production raises
+issues concerning a hypermodern extension of
+the replacement. Of what we can say is left of
+spontaneous Great Plains place (topography
+and atmosphere), neither seems destined to
+survive our assault. Suburbanization's sprawling
+consumption of land increasingly results
+in the massive replacement of terrain and topsoil.
+Topography is forced into the flat linear
+conditions of abstract space and the engineer's
+drawing board and then is sometimes mechanically
+reintroduced to add "character" to
+the new, designed landscape.</p>
+
+<p>Concerning atmosphere, the replacement
+further affects human embodiment in place.
+The main vehicle for this effort is air conditioning,
+a technology that, no matter how desirable
+under acute health-related conditions,
+conflicts with atmospheric place beyond the
+effects of consumption and pollution. Hypermodern
+promotion of air conditioning, designed
+within a very narrow and absolute
+"comfort zone," serves to further human disembodiment
+through a more anesthetized
+disengagement from place than ever before.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.014">Corn Palace</ref> /
+<hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.022">Fur Trade</ref>, <ref n="egp.ind.036">Lumberyards</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.080">Paleo-Indians</ref>, <ref n="egp.na.082">Pawnees</ref>, <ref n="egp.na.102">Sacred Geography</ref>, <ref n="egp.na.127">Wichitas</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.017">Frontier Forts</ref>.</p>
+
+<closer>
+<signed>David Murphy<lb/>
+Nebraska State Historical Society</signed>
+</closer>
+</div2>
+</div1>
+
+<div1>
+<bibl>Boddy, Trevor, ed. "Special Issue on Prairie Architecture."
+<title level="j">Prairie Forum</title> 5, no. 2 (1980).</bibl> <bibl>Erpestad, David, and David
+Wood. <title level="j">Building South Dakota: A Historical Survey of the State's Architecture to 1945</title>. Pierre: South Dakota State Historical
+Society Press, 1997.</bibl> <bibl>Henderson, Arn, Frank Parman,
+and Dortha Henderson. <title level="j">Architecture in Oklahoma: Landmark and Vernacular</title>. Norman <hi rend="smallcaps">OK</hi>: Point Rivers
+Press, 1978.</bibl> <bibl>Henry, Jay C. <hi rend="italic">Architecture in Texas, 1895–1945</hi>.
+Austin: University of Texas Press, 1993.</bibl> <bibl>"Historic Places:
+The National Register for Nebraska." <title level="j">Nebraska History</title> 70,
+no. 1 (1989).</bibl> <bibl>Nabokov, Peter, and Robert Easton. <title level="j">Native American Architecture</title>. New York: Oxford University
+Press, 1989: 122–73.</bibl> <bibl>Noel, Thomas J. <title level="j">The Buildings of Colorado</title>.
+New York: Oxford University Press, 1997.</bibl> <bibl>Sachs,
+David H., and George Ehrlich. <title level="j">Guide to Kansas Architecture</title>.
+Lawrence: University Press of Kansas, 1996.</bibl> <bibl>Starr,
+Eileen F. <title level="j">Architecture in the Cowboy State, 1849–1940: A Guide</title>. Glendo <hi rend="smallcaps">WY</hi>: High Plains Press, 1992.</bibl> <bibl>Upton, Dell,
+ed. <title level="j">America's Architectural Roots: Ethnic Groups That Built America</title>. Building Watchers Series. Washington <hi rend="smallcaps">DC</hi>: Preservation
+Press, 1986: 100–165.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Water Transportation</title>
+<title level="m" type="sub"></title>
+<author>Norman Henderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henderson, Norman">Norman Henderson</author>. <title level="a">"Water Transportation"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">813</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WATER TRANSPORTATION</head>
+
+<p>People have always used Plains rivers for transport,
+but it has never been easy. The nature of
+the Plains and its rivers conspires against water
+transport, and many are the explorers and entrepreneurs
+who set out in boats and ended up
+on foot or horseback. In the eyes of many,
+horses and trains came to be seen as the "natural"
+ways to travel the Plains. In 1931 the historian
+Walter Prescott Webb went so far as to
+suggest that since the Lewis and Clark Expedition
+traveled so much by water, resorting to
+land travel only when forced to, the expedition
+experienced little of the "Plains proper" and
+was therefore not really a Plains venture. Yet a
+river view of the Plains, although to the modern
+mind somewhat unusual, is as legitimate
+as an overlander’s perspective.</p>
+
+<p>Native Americans were the first to travel
+Plains rivers. They used the bullboat, a roughly
+circular, framed, tublike craft. Made from bent
+willow branches and buffalo skins sewn with
+sinews, the bullboat is light enough for one
+person to carry slung over the shoulders. Although
+ingeniously simple technology, the
+bullboat has serious limitations. When wet,
+the skins rot quickly, so a boat might last only
+a few days. Bullboats are also difficult to
+steer and impossible to paddle upstream. Bullboats
+were primarily useful to cross rivers like
+the Missouri or for extended one-way trips
+downstream.</p>
+
+<p>European explorers and traders introduced
+the birch-bark canoe to the Plains, a craft indigenous
+to the northeastern North American
+woodlands. The newcomers experienced
+roughly a century and a half of frustration
+trying to push out onto the Plains with this
+"foreign" technology. Birchbark canoes require
+almost daily repair, but on the Plains
+there were no birch trees for bark, nor pine
+trees for pitch, nor spruce trees for gum.</p>
+
+<p>The rivers themselves work against canoe
+travel too. Plains rivers tend to meander, slowing
+progress. They are typically shallow and
+full of shifting sand and mud bars that ground
+the traveler's craft, and they conceal snags that
+pierce the hull. Northern Plains rivers in particular
+have highly seasonal flows and are shut
+down by ice in winter. Unlike those in boreal
+North America, water linkages between Plains
+watersheds are usually nonexistent, which
+means that the traveler in any case must develop
+some overland transport alternative for
+travel between river systems. The experiences
+of explorers like Pierre Gaultier de Varennes,
+sieur de La Vérendrye, who abandoned his canoes
+on the Assiniboine River in 1738, Zebulon
+Pike, who exchanged his boat for horses
+along the Osage River in 1806, Stephen Long,
+who ascended the Platte River in 1820 by land,
+and Henry Hind, who abandoned his canoes
+on the Qu'Appelle River in 1858, are illustrative
+of the limitations of canoes in the Plains.</p>
+
+<p>Alongside continuing canoe traffic, timber
+small craft, both flat-bottomed and keeled,
+were employed on Plains rivers by fur traders,
+travelers, and explorers. These were sturdier
+than canoes, but the flat-bottomed boats were
+only effective going downstream, while keelboats
+were often grounded. Both types were
+variously rowed, poled, or even sailed, depending
+on conditions. It was common, too,
+for keelboats to be hauled upstream by men or
+pack animals.</p>
+
+<p>In the nineteenth century steamboats inherited
+all the Plains river navigation problems of
+small boats and were also vulnerable to high
+winds. Steamboats were active in both the Canadian
+and American Plains but were most
+important on the Missouri River. In 1832
+a steam-driven side-wheeler reached Fort
+Union at the junction of the Yellowstone and
+the Missouri. From then on steamers regularly
+rode the high spring waters at least as far
+as Fort Union and, when conditions allowed
+it, continued on farther, with shallow-draft
+steamers reaching as far as Fort Benton in 1859.</p>
+
+<p>These steamers gave the American Fur
+Trading Company an advantage over its rivals,
+particularly the Hudson's Bay Company to the
+north, in the contested Plains borderlands between
+the Missouri and South Saskatchewan
+Rivers. In fact, steam and small boat transport,
+di.cult as they were, are at the root of the
+division of the Plains between America and
+Canada. Although the international boundary
+appears quite unrelated to natural features, the
+forty-ninth parallel roughly divides the Plains
+into Hudson Bay and Gulf of Mexico watersheds
+and reflects the division of fur trader
+influence between the British operating out of
+Hudson Bay and the American traders operating
+from the Mississippi watershed.</p>
+
+<p>From the 1860s onward railroads began to
+cut into Plains steamer cargoes, putting an
+end to most commercial tra.c by 1890. After
+World War I the U.S. federal government took
+a renewed interest in inland waterways, and
+there was a slow increase in traffic. There are
+now two significant routes, both completed in
+the 1970s, maintained for river freight between
+the Mississippi River and the eastern Plains.
+The Missouri is kept navigable as far upstream
+as Sioux City, while the Arkansas-Verdigris
+project maintains a nine-foot channel as far as
+Catoosa, near Tulsa. Modern commercial traffic
+primarily consists of boat-barges. Typically,
+several flat-bottomed barges carrying
+bulk goods are tied together in a "tow" and
+pushed by a diesel-driven towboat.</p>
+
+<p>Lacking the axis of the Mississippi to work
+from, there has been no rebirth of commercial
+water traffic on the Canadian Plains. Given the
+high cost of waterway construction and maintenance
+and modern environmental concerns,
+it seems unlikely there will be expansion of the
+limited U.S. Plains routes either.</p>
+
+<p>The most important modern cargoes of the
+typical Plains river flow by below the surface&#8211;agricultural
+runoff and urban effluent. Ecologist
+James Malin was correct to emphasize that
+the natural state of Plains rivers was muddy
+and brown, but modern farming, especially
+cultivation, increases soil runoff, while Plains
+cities contribute effluent to natural flows. The
+resulting sediment load is carried by Plains
+currents until it is dropped in dam reservoirs
+or in slow-moving rivers like the Mississippi.
+This transport is not costless, for infilling reservoirs
+lose their e.ciency, dredging to maintain
+navigability is expensive, and sedimentladen
+water is difficult or impossible to use for
+many domestic and industrial purposes. Many
+of these costs fall on people downstream of the
+Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.027">Rivers</ref>.</p>
+
+<closer>
+<signed>Norman Henderson<lb/>
+University of East Anglia, England</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Henderson, Norman S. "The Canoe as Failure on the Canadian
+Plains." <title level="j">Great Plains Research</title> 6 (1996): 3–23.</bibl>
+<bibl>Hunter, Louis C. <title level="m">Steamboats on the Western Rivers: An
+Economic and Technological History</title>. New York: Dover,
+1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

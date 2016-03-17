@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Langer, William (1886-1959)</title>
+<title level="m" type="sub"></title>
+<author>Theodore B. Pedeliski</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pedeliski, Theodore B.">Theodore B. Pedeliski</author>. <title level="a">"Langer, William (1886-1959)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">671</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LANGER, WILLIAM (1886-1959)</head>
+
+<p>William Langer, governor and senator from
+North Dakota, was one of the most colorful
+political personalities to come out of the Great
+Plains. Langer was born in Everest, Dakota
+Territory, on September 30, 1886. He studied
+law at the University of North Dakota and
+established a practice in Mandan, North Dakota,
+in 1916. In 1918 Langer was tapped to be
+the Nonpartisan League (<hi rend="smallcaps">NPL</hi>) candidate for
+attorney general. He broke with the npl and
+ran for governor in 1920 as a Republican coalition
+candidate but was defeated. In 1932 he
+was championed as an npl candidate for governor.
+Elected, he ordered moratoriums on
+home and farm foreclosures and a grain embargo
+on export of the state's wheat (the latter
+was ruled unconstitutional). In 1934 he was
+convicted of conspiracy to defraud the United
+States by arranging for kickbacks to the npl
+from state employees on federally funded
+projects and removed from office. His conviction
+was overturned on appeal, and in 1936 he
+again ran successfully for governor. He was
+elected U.S. senator in 1940 and served until
+1959. During his tenure as senator he was a
+champion of farm programs, rural electrification,
+health research, and improvements in
+social security. He was a humanitarian liberal
+ahead of his time, supporting an equal rights
+amendment, maternity leave legislation, and
+the vote for eighteen-year-olds. He was a
+champion of Native Americans, World War II
+refugees, and a strong advocate of civil rights
+legislation. To much of the Senate he was an
+eccentric who tilted at windmills, as exemplified
+by his filibuster to deny Earl Warren appointment
+to the Supreme Court and his vicious
+attacks on Winston Churchill.</p>
+
+<p>In his runs for office, Langer often changed
+factional allegiance or ran as an independent.
+Langer had no equal in the art of personal
+politics: he knew tens of thousands of constituents,
+dealt with their problems, and made
+them part of his machine. In particular, he
+was a master in mobilizing the German and
+German Russian voters of the state, who were
+critical to his victories, especially in three-way
+races. Langer died from heart disease in Washington
+<hi rend="smallcaps">DC</hi> on November 8, 1959.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.039">Nonpartisan League</ref>.</p>
+
+<closer>
+<signed>Theodore B. Pedeliski<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Geelan, Agnes. <title level="m">The Dakota Maverick: The Political Life of
+William Langer</title>. Bismarck: Prairie House, 1983.</bibl> <bibl>Pedeliski,
+Theodore B. "The German-Russian Ethnic Factor in William
+Langer's Campaigns, 1914–1940." <title level="j">North Dakota History</title>
+64 (1997): 2–20.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

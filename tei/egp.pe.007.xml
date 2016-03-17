@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Badlands</title>
+<title level="m" type="sub"></title>
+<author>Richard G. Reider</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reider, Richard G.">Richard G. Reider</author>. <title level="a">"Badlands."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">619-620</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BADLANDS</head>
+<figure n="egp.pe.007" rend="granted">
+<figDesc>"View of Badlands National Park"</figDesc>
+</figure>
+
+<p>Badlands are a form of intense gullying that
+results from a combination of four factors: clayrich
+material, such as shale, that inhibits water
+penetration; limited vegetation to impede runoff
+of precipitation; rainfall concentrated in
+scattered, intense showers; and downcutting of
+the drainage system. The four factors cause an
+intricate, fine-textured drainage network that is
+characterized by many V- shaped, straight-sided
+gullies divided by knifelike ridges.</p>
+
+<p>Principal badland areas in the Great Plains
+are at Badlands National Park in southwestern
+South Dakota, Theodore Roosevelt National
+Park in western North Dakota, and Dinosaur
+Provincial Park in southern Alberta. Shales of
+the White River Group (Oligocene), including
+the Chadron and Brule Formations, form the
+badlands in South Dakota and northwestern
+Nebraska. Shales of the Fort Union Formation
+(Paleocene) form them in North Dakota and
+eastern Montana, and Cretaceous shales shape
+the badlands in Alberta. Other, more isolated
+areas of badlands occur in the Great Plains,
+typically where impermeable shales outcrop
+at the land surface and are subject to the conditions
+named above. Generally, badlands are
+common along the Little Missouri and Cheyenne
+Rivers in the Dakotas and along the
+White River north of Pine Ridge, as at Toadstool
+State Park in northwestern Nebraska and
+at Badlands National Park.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.040">National Parks</ref>.</p>
+
+<closer>
+<signed>Richard G. Reider<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bloom, A. L. <title level="m">Geomorphology, a Systematic Analysis of Late
+Cenozoic Landforms</title>. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall,
+1998.</bibl> <bibl>Fenneman, Nevin V. <title level="m">Physiography of Western United
+States</title>. New York: McGraw-Hill Book Company, 1931.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

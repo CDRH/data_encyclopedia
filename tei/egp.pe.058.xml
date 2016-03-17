@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Soil Survey</title>
+<title level="m" type="sub"></title>
+<author>David Lewis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lewis, David">David Lewis</author>. <title level="a">"Soil Surveys."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">640</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SOIL SURVEYS</head>
+
+<p>A soil survey shows the kinds of soil that exist
+in a given region and their exact location on a
+map of the landscape. Names are assigned to
+soils at these locations in accordance with
+properties they do or do not possess. Over
+time all soil surveys monitor changes in the
+soils as they are altered through agriculture
+and other types of land use. The surveys also
+help to predict the success of any use to which
+the land is put. If used to their potential, soil
+surveys indicate how long the soil can sustain
+current practices.</p>
+
+<p>Names are assigned to soils through development
+and application of a system of classification.
+Soil surveys in the United States have
+been developed using several classification
+schemes, with the first being merely a map of
+the surficial geologic deposits. C. F. Marbut's
+classification system was put into use in the
+early part of the twentieth century. This system
+was replaced by one devised by C. Kellogg in
+1938 that remained in use until 1975, when the
+current classification system became the standard
+for soil surveys in the United States. In
+Canada surveys began later and were initially
+patterned on the U.S. system. In 1960 a comprehensive
+soil classification system was developed
+by Canadian soil scientists to support an
+expanded soil survey program throughout the
+agricultural areas of the country. This system
+was adjusted several times to best fit the soil
+properties that the ongoing survey discovered.
+In many ways, it is now like that used in Great
+Britain.</p>
+
+<p>The earliest soil maps were made using topographic
+or plane table maps as base maps.
+Air photos became the base maps on which
+soil boundaries were placed in the 1930s. They
+came into use following the placement of the
+soil survey within the Natural Resources Conservation
+Service of the U.S. Department of
+Agriculture. The Canadian Plains began their
+surveys about the time air photos came into
+common use. A new generation of soil maps
+from these photos combined with more recent
+ones were completed for the Canadian
+Plains in the early 1990s.</p>
+
+<p>Canadian surveys have followed much the
+same trends, especially since the early 1960s.
+In both countries, surveys now use new technologies
+in remote sensing, global positioning,
+and base maps made from digital images.
+These maps will become a component of
+complete geographic information systems
+being developed in the Great Plains.</p>
+
+<closer>
+<signed>David Lewis<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ableiter, K. J. "Soil Classification in the United States." <title level="j">Soil
+Science</title> 67 (1949): 183-91.</bibl> <bibl>U.S. Department of Agriculture.
+Soil Survey Staff. <title level="m">Soil Taxonomy: A Comprehensive System</title>.
+Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

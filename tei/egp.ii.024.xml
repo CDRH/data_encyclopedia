@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Flyover Country</title>
+<title level="m" type="sub"></title>
+<author>David Roberson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Roberson, David">David Roberson</author>. <title level="a">"Flyover Country."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">386</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FLYOVER COUNTRY</head>
+
+<p>"<geogName rend="region" reg="Flyover Country">Flyover country</geogName>" is a popular epithet that dismisses the American interior as a region to be passed over or through on the way to someplace else. Thought to be a dominant preconception held by coastal urbanites, the term, or related imagery, is prevalent in contemporary <geogName rend="region" reg="Great Plains">Great Plains</geogName> writing, where it is used to represent the neglect and ignorance of the region by outsiders. <geogName rend="region" reg="Flyover Country">Flyover country</geogName> captures the views of a coastal elite who see the <geogName rend="region" reg="Great Plains">Great Plains</geogName> as a vast, boring, featureless expanse of land in between, a place to be passed over as quickly as possible on the way to the mountains or coasts.</p>
+
+<p>Such sentiment has deep roots in American society. A defining characteristic of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> throughout history has been the mythic role it has played as a transit region from at least the time of the <placeName rend="trail" key="tra.ore" reg="Oregon Trail">Oregon Trail</placeName> in the 1840s. A high proportion of transit on the <geogName rend="region" reg="Great Plains">Plains</geogName> has always moved through rather than to the region, and the <geogName rend="region" reg="Great Plains">Plains</geogName> have long been considered an obstacle to travel. <geogName rend="region" reg="Flyover Country">Flyover country</geogName> can be interpreted as a jet-age manifestation of this characteristic and belief. While the flyover image may be the creation of outsiders, the term is more commonly used by <geogName rend="region" reg="Great Plains">Plains</geogName> residents and sympathetic writers to characterize the negative preconceptions of the <geogName rend="region" reg="Great Plains">Plains</geogName> and to defend regional interests.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">David Roberson<lb/>
+University of Oklahoma</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Shortridge, James R. "<title level="a">The Expectations of Others: Struggles toward a Sense of Place in the Northern Plains</title>." In <title level="m">Many Wests</title>, edited by David M. Wrobel and Michael C. Steiner. Lawrence: University Press of Kansas, 1997: 114–36.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

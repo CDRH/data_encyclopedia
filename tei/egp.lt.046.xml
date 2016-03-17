@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mitchell, W. O. (1914-1998)</title>
+<title level="m" type="sub"></title>
+<author>Dick Harrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harrison, Dick">Dick Harrison</author>. <title level="a">"Mitchell, W. O. (1914-1998)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">485</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MITCHELL, W. O. (1914-1998)</head>
+
+<p>William Ormond Mitchell was the most loved
+of Canadian authors, his fiction and drama
+spanning the worlds of popular entertainment
+and literary art. Born on March 13, 1914, in
+Weyburn, Saskatchewan, to Ormond and
+Margaret McMurray Mitchell, he grew up on
+the Prairies and attended the Universities of
+Manitoba and Alberta. His first and most celebrated
+novel, <title level="m">Who Has Seen the Wind</title> (1947),
+launched a distinguished literary career, during
+which he wrote drama for radio, screen,
+stage, and television as well as short stories
+and nine more novels, including the critically
+acclaimed <title level="m">The Vanishing Point</title> (1973) and <title level="m">How I Spent My Summer Holidays</title> (1981). Mitchell
+also became a mentor to younger authors as
+writer in residence at several universities and
+was awarded the Order of Canada and other
+honors before his death in Calgary on February
+25, 1998.</p>
+
+<p>Mitchell's broadest popularity grew from
+his <title level="m">Jake and the Kid</title> radio series, a humorous
+look at Prairie life that ran for more than 300
+episodes, and from his public performances in
+the tradition of Charles Dickens, Mark Twain,
+and Stephen Leacock. As a humorist, Mitchell
+claimed literary descent particularly from
+Twain. Mitchell's greatest critical success is
+<title level="m">Who Has Seen the Wind</title>, the story of a Prairie
+boy's search for meaning that has become a
+Canadian classic.</p>
+
+<p>Mitchell was, in one respect, a victim of his
+own success. His lyric evocation of a child's
+world of innocence is so compelling that
+readers can be distracted from his enduring
+themes of the fall from innocence and the
+problems of human mortality. On the other
+hand, Mitchell's popularity enabled him to
+create for all Canadians an ancestral home on
+the Prairies.</p>
+
+<closer>
+<signed>Dick Harrison<lb/>
+Sechelt, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Harrison, Dick. "W. O. Mitchell (1914–)." In <title level="m">Canadian Writers and Their Works</title>, Fiction series, edited by Robert
+Lecker, Jack David, and Ellen Quigley. Toronto: <hi rend="smallcaps">ECW</hi> Press,
+1991: 4: 141–208.</bibl> <bibl>Latham, Sheila, and David Latham, eds.
+<title level="m">The Art of W. O. Mitchell</title>. Toronto: University of Toronto
+Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

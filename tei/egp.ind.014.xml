@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Coal</title>
+<title level="m" type="sub"></title>
+<author>Marvin Bryan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Daly, Daniel J.">Daniel J. Daly</author>. <title level="a">"Coal."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">414-415</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COAL</head>
+
+<table rows="11" cols="7">
+<head type="sub">Profile of the Coal-Producing Regions in the Great Plains for 1997</head>
+<row><cell role="desc">State/Province</cell><cell role="desc">Major coal-producing region</cell><cell role="desc">Number of mines</cell><cell role="desc">Production millions of tons</cell><cell role="desc">Total employment</cell><cell role="desc">Reverse base millions of tons</cell><cell role="desc">Exports percentage</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">West Interor</cell><cell role="data">3</cell><cell role="data">0.36</cell><cell role="data">67</cell><cell role="data">976</cell><cell role="data">0</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">Fort Union North Central Powder River</cell><cell role="data">8</cell><cell role="data">41.00</cell><cell role="data">708</cell><cell role="data">48,815</cell><cell role="data">75</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">Raton Mesa</cell><cell role="data">1</cell><cell role="data">1.25</cell><cell role="data">40</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">Fort Union</cell><cell role="data">6</cell><cell role="data">29.58</cell><cell role="data">657</cell><cell role="data">9,470</cell><cell role="data">0</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">Powder River Bighorn</cell><cell role="data">20</cell><cell role="data">20</cell><cell role="data">266.58</cell><cell role="data">2,777</cell><cell role="data">25,971</cell><cell role="data">90</cell></row>
+<row><cell role="desc">U.S. total</cell><cell role="data"></cell><cell role="data">38</cell><cell role="data">388.76</cell><cell role="data">4,249</cell><cell role="data">85,232</cell><cell role="data"></cell></row>
+<row><cell role="desc">Alberta</cell><cell role="data">Great Plains</cell><cell role="data">6</cell><cell role="data">23.47</cell><cell role="data">2,525</cell><cell role="data">9,367</cell><cell role="data">25</cell></row>
+<row><cell role="desc">Saskatchewan</cell><cell role="data">Fort Union</cell><cell role="data">4</cell><cell role="data">13.00</cell><cell role="data">513</cell><cell role="data">3,070</cell><cell role="data">0</cell></row>
+<row><cell role="desc">Canadian total</cell><cell role="data"></cell><cell role="data">10</cell><cell role="data">36.47</cell><cell role="data">3,038</cell><cell role="data">12,437</cell><cell role="data"></cell></row>
+<row><cell role="desc">Canadian total</cell><cell role="data"></cell><cell role="data">10</cell><cell role="data">36.47</cell><cell role="data">3,038</cell><cell role="data">12,437</cell><cell role="data"></cell></row>
+<row><cell role="desc">Total</cell><cell role="data"></cell><cell role="data">48</cell><cell role="data">375.23</cell><cell role="data">7,287</cell><cell role="data">97,669</cell><cell role="data"></cell></row>
+</table>
+
+<p>The Great Plains' coal resources occur in nine
+major regions, but the bulk of resources and
+production occurs in the five coal regions of
+the Northern Great Plains and Prairie Provinces.
+These five regions, which contain lowrank
+subbituminous and lignite coals of late
+Cretaceous to early Tertiary age, are the Great
+Plains Coal Region of Alberta; the Fort Union
+Coal Region of western North Dakota, eastern
+Montana, southern Saskatchewan, and southwestern
+Manitoba; the North Central Coal
+Region of north-central Montana; and the
+Powder River and Big Horn Coal Regions of
+northern Wyoming and southeastern Montana.
+Major coal deposits in the Southern and
+Central Plains include the high-sulfur bituminous
+coals of eastern Kansas (the Western
+Interior Coal Region) and north-central
+Texas (the Southwestern Coal Region), the
+low-sulfur bituminous coking coal of northeastern
+New Mexico and southeastern Colorado
+(the Raton Mesa Coal Region), and the
+subbituminous coals in the Denver Coal Region
+of northeastern Colorado and southeastern
+Wyoming.</p>
+
+<p>Coal has provided a local source of fuel for
+Great Plains farms, ranches, towns, railroads,
+and industries from early European American
+settlement into the modern era. By the end of
+World War II, production in the Plains had
+peaked at just a few percent of the more than
+600 million tons mined in the United States
+and Canada. Production bottomed out in the
+late 1950s and early 1960s, reflecting increasing
+displacement of coal by oil and gas. Beginning
+in the late 1960s, however, a growing demand
+for electrical power, concerns over oil and natural
+gas supply, and the demand for coals low
+in sulfur and ash to meet government emissions
+standards initiated a period of explosive
+growth in the coal industry. Much of this
+growth occurred in the Northern Plains and
+Prairie Provinces in the form of more than
+twenty new mines, several with adjacent power
+plants.</p>
+
+<p>Area mining, a type of surface mining used
+where coal seams are relatively horizontal and
+the surface terrain is nearly level, accounts for
+nearly all mining in the Great Plains. Area
+mining utilizes draglines to remove overburden,
+and the coal is then removed using
+power shovels and loaders. As each strip of
+overburden is removed, it is deposited as a
+spoil ridge in the area from which coal has
+already been excavated. Individual dragline
+cuts may be 100 to 200 feet wide and extend
+for thousands of feet. Several square miles
+may be excavated over the life of a mine.</p>
+
+<p>Land productivity and water availability
+and quality are particularly significant issues
+in the semiarid range and farmlands of the
+Northern Great Plains, and mining companies
+are required to reclaim mined land. To
+ensure land productivity in mined areas, top-soil
+and subsoil are removed by scrapers and
+stockpiled prior to mining. Following mining,
+the spoil ridges are shaped in a manner reflecting
+the premining topography, the soil is
+replaced, and the sites are revegetated. The
+recontoured spoil density, initially about 25
+percent greater than the original material, decreases
+over time to about 20 percent of the
+original material. Differential subsidence,
+with the potential for ponding, salinization,
+and disrupted cultivation, can be addressed in
+large part through materials placement and
+grading practices.</p>
+
+<p>In the premining landscape, reducing conditions
+prevail at depths greater than thirty
+feet, but excavation brings these materials into
+contact with oxygen. As a result, recharge
+through spoil banks and newly reclaimed areas
+produces groundwater characterized by elevated
+concentrations of dissolved solids, elevated
+concentrations of sodium and sulfate,
+and increased alkalinity. In most areas, carbonates
+and hydroxides provide a high natural
+buffering capacity that precludes significant
+acid mine drainage. Surface and groundwater
+quality improves with time, but the disruption
+of groundwater flow resulting from the removal
+of the coal and the aquifers in the overburden
+cannot be fully remedied within the
+mined area.</p>
+
+<p>In 1997 Great Plains coal production stood
+at 375 million tons from forty-eight mines, accounting
+for nearly 33 percent of the combined
+U.S.-Canadian output. The 337 million tons
+produced from the thirty-four mines in Wyoming,
+North Dakota, and Montana accounted
+for 78 percent of U.S. low-rank production, 31
+percent of total U.S. production, and nearly 90
+percent of total Great Plains production. The
+36.5 million tons from the ten mines in the
+Prairie Provinces accounted for 42 percent of
+total Canadian production and 10 percent of
+total Great Plains production. New Mexico
+and Kansas contribute the remaining 1.6 million
+tons, or 0.4 percent, of Plains production.
+Mines in Montana and Wyoming are producing
+at only three-quarters of capacity. Most of
+the subbituminous coal mined in Wyoming
+and Montana is shipped out of state for use in
+coal-fired power plants. In contrast, the lignite
+of North Dakota and Saskatchewan is mainly
+utilized by mine-mouth power facilities.</p>
+
+<p>In the Great Plains, 99 percent of coal production
+is from surface mines. The 85 billion
+tons in demonstrated surface-minable reserves
+in the Northern Plains states of the
+United States, including the 19 billion.ton reserve
+of the Wyodak seam in the Powder River
+Coal Region, are su.cient to last for nearly
+250 years at current production levels and represent
+nearly half of the demonstrated surface
+mine reserves of the United States. Employment
+at Plains surface mines stood at approximately
+7,200 workers in 1997. Productivity
+levels (tons of coal per miner per hour) for
+surface mines in 1997 in Wyoming (35.4),
+Montana (23.6), and North Dakota (17.8) were
+well above the U.S. surface mine average of
+9.5, reflecting economies of scale and relatively
+low overburden to coal thickness ratios. Coal
+severance taxes are levied in all states with
+Plains-based coal production.</p>
+
+<p>The Powder River Coal Region of northeastern
+Wyoming and southwestern Montana
+contains North America's thickest and most
+extensive low-sulfur coal seams, including the
+seventy-foot-thick Wyodak seam, and the region's
+269 million–ton production accounts
+for 70 percent of Plains production and 23
+percent of combined U.S.-Canadian production.
+Most of the coal is transported out of
+state, with over half going to just six states in
+1997 (Texas, Missouri, Illinois, Oklahoma,
+Wisconsin, and Iowa). Most Powder River region
+coal is produced from federal lands.</p>
+
+<p>Great Plains coal resources have also figured
+in unconventional types of coal-based
+energy and commodities. Since 1983 lignite
+from the Beulah-Zap seam in the Fort Union
+Coal Region has been the feedstock for the
+large-scale production of substitute natural
+gas at the Great Plains Coal Gasification Plant
+near Beulah, North Dakota. The Powder River
+and Raton Mesa Coal Regions are significant
+areas of coalbed methane exploration and development.
+Between 1972 and 1988, a variety of
+federal and private entities conducted field
+tests in Wyoming, including tests at two sites
+in the Powder River Coal Region, designed to
+evaluate the technical and environmental feasibility
+of underground coal gasification in
+low-rank coals. Weathered low-rank coal,
+known as Leonardite, has been used as an additive
+in drilling fluids and as a soil amendment.
+Coal combustion by-products such as
+fly ash and bottom ash have been used for
+concrete, engineered fills, aggregate, soil stabilization,
+and ceramics.</p>
+
+<closer>
+<signed>Daniel J. Daly<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Energy Information Administration. <title level="m">Coal Industry Annual 1997: U.S. Department of Energy</title>. Energy Information
+Administration, December 1998.</bibl> <bibl><title level="m">Keystone Coal Industry Manual</title>. Chicago: Intertec Publishing Company, 1998.</bibl>
+<bibl>Wood, G. H., Jr., and W. V. Bour. <title level="m">Coal Map of North America</title>. Washington <hi rend="smallcaps">DC</hi>: U.S. Geological Survey, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ind.033 SYSTEM "egp.ind.033.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Justin, H. J., and Sons</title>
+<title level="m" type="sub"></title>
+<author>Jane Pattie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pattie, Jane">Jane Pattie</author>. <title level="a">"Justin, H. J., and Sons."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">424</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JUSTIN, H. J., AND SONS</head>
+
+<figure n="egp.ind.033" rend="granted">
+<figDesc>Joe and Annie Justin devised the first self-measuring kits for mail-order cowboy boots, 1907.</figDesc>
+</figure>
+
+<p>More than a century ago, "Big Daddy" Joe
+Justin never dreamed his boots would become
+the "Standard of the West." He just knew he
+did not want to be a cigar maker like his father.
+Spanish Fort, Texas, south of Red River
+Crossing on the Chisholm Trail, was a bustling
+town in 1879 when twenty-year-old H. J. "Joe"
+Justin arrived from Lafayette, Indiana, with
+five dollars in his pocket. He began repairing
+boots. With a thirty-five-dollar grubstake, he
+soon opened a small shop and made boots for
+the trail hands. Justin married Annie Allen of
+Hood County, Texas, in 1886, and the couple's
+first son, John, was born in Spanish Fort.</p>
+
+<p>When an east–west railroad was built eighteen
+miles south, Spanish Fort's businessmen
+moved to the tracks in 1889 and established
+Nocona. In 1894 Joe and Annie devised a self-measuring
+kit for ordering boots by mail, and
+cowboys across the West soon wore Justin
+boots. The Justin family grew to three boys
+and four girls. Annie and the children all
+worked in the boot shop alongside Joe.</p>
+
+<p>The two oldest boys, John and Earl, became
+partners in 1908 with their father in H. J. Justin
+and Sons. John and Earl supervised ten
+to twelve men in the shop, and Joe traveled
+around the country with boot samples. In 1911
+the company did $180,000 in boot business in
+twenty-six states, Canada, Mexico, and Cuba.</p>
+
+<p>Joe Justin's health began to fail in 1916,
+and he turned the company over to his sons,
+John, Earl, and Avis. When Joe Justin died in
+1918, his boots were already a legend of the
+American West. In 1925 Justin's sons moved
+their growing company to larger quarters in
+Fort Worth, where better shipping facilities
+and a ready workforce were available. Their
+sister, Enid Justin, chose to remain in the old
+shop and continue production as Nocona
+Boot Company.</p>
+
+<p>Justin boots continued to grow in popularity,
+with new styles, stitching, leathers,
+and lightweight boots&#8211;the "Western Gypsy"
+line&#8211;designed especially for women. In 1950
+John Justin Jr., Joe's grandson, was named vice
+president and general manager. He soon took
+full control of the company. By 1952 company
+sales topped $1 million for the first time. His
+innovative ideas on designs, production, and
+marketing led to H. J. Justin and Sons' continued
+growth. By 1954 the company was shipping
+100,000 pairs of boots a week.</p>
+
+<p>John Justin Sr. worked at the plant until
+his death in 1959. John Jr. bought the remaining
+family-owned shares in the company in
+1967 and became sole owner. Two years later,
+Justin became chief executive officer of Justin
+Industries, Inc., a diversified holding company,
+with the boot company as one of its four
+subsidiaries.</p>
+
+<p>Justin Boot Company celebrated its 100th
+anniversary in 1981, the same year that Justin
+Industries bought Nocona Boot Company
+from eighty-year-old Enid Justin. In 1990 Justin
+Industries added another major competitor
+to its fold&#8211;Tony Lama Boot Company of
+El Paso, Texas.</p>
+
+<p>John S. Justin Jr. retired as <hi rend="smallcaps">CEO</hi> of Justin
+Industries in 1999. For the first time in 120
+years, the reins of management of the boot
+company passed to the hands of someone
+other than a member of Joe Justin's family.</p>
+
+<closer>
+<signed>Jane Pattie<lb/>
+Aledo, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>H. J. Justin and Sons, Archives, Justin Industries, Inc., Fort
+Worth <hi rend="smallcaps">TX</hi>.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

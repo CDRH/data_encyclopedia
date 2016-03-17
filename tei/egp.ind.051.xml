@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Potash</title>
+<title level="m" type="sub"></title>
+<author>Grant D. Jackson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jackson, Grant D.">Grant D. Jackson</author>. <title level="a">"Potash."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">433</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POTASH</head>
+
+<p>Potash refers to compounds containing the element
+potassium such as potassium chloride,
+potassium sulfate, potassium-magnesium sulfate,
+potassium nitrate, and mixed sodiumpotassium
+nitrate. The word "potash" comes
+from an early settler term, "pot-ashes," referring
+to potassium salts obtained by burning
+wood in pots. It is called potassium oxide in
+the ceramics industry.</p>
+
+<p>Potassium is the seventh most abundant element
+of the earth's crust and is found in all
+plants and animals and in soils, rocks, minerals,
+oceans, rivers, and lakes. Potassium is
+essential for plant and animal growth; consequently,
+95 percent of potash production is
+used as fertilizer or plant food. The remaining
+5 percent of potash production is consumed
+by the chemical industry for a variety of products
+such as glass, ceramics, soaps and detergents,
+explosives, dyes, medicines, and alkaline
+batteries.</p>
+
+<p>Potash is usually mined from underground
+bedded salt deposits. Shafts are sunk, and the
+ore is dug out or pumped to the surface
+through solution mining. Canada leads the
+world in both production and reserves. The
+bulk of Canada's potash production (about 9.3
+million tons in 1997) and reserves are located
+in the Great Plains. The potash industry is
+focused in Saskatchewan, because there the
+ore deposits are thick and relatively close to
+the earth's surface; similar but more expensive
+to mine ore deposits occur in Alberta, Manitoba,
+North Dakota, and Montana. Currently,
+about ten mines produce potash in
+Saskatchewan. Most of the output is exported:
+about 55 percent to the United States and
+about 40 percent overseas via Vancouver. The
+United States is a much smaller potash producer
+(about 1.6 million tons in 1997), but
+again, the Great Plains is the leading region.
+About 80 percent of U.S. production comes
+from the Carlsbad area of New Mexico.</p>
+
+<closer>
+<signed>Grant D. Jackson<lb/>
+Montana State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">The 2000–2005 Outlook for Potash, Soda, and Boratic Minerals in North America and the Caribbean</title>. <hi rend="smallcaps">CD-ROM</hi>, Icon
+Group International, 2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

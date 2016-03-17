@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Animal Lore</title>
+<title level="m" type="sub"></title>
+<author>Angus Kress Gillespie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gillespie, Angus Kress">Angus Kress Gillespie</author>. <title level="a">"Animal Lore."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">291</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ANIMAL LORE</head>
+
+<p>Animal lore is the accumulated fact, tradition,
+and belief about the fauna of a region. Larger
+animals have a stronger grip on the human
+imagination. Thus, the buffalo has long been
+emblematic of the Great Plains. However,
+farmers and ranchers who know the region
+best have a rich store of knowledge of smaller
+animals, including badgers, beavers, bobcats,
+foxes, lynxes, minks, muskrats, opossums,
+prairie dogs, rabbits, raccoons, skunks, squirrels,
+and weasels.</p>
+
+<p>The folkloristic sources of the ideas, images,
+and stories about wild animals of the Great
+Plains are many, but four types can be distinguished:
+oral narratives, popular culture, performances,
+and elite culture. These categories
+provide a frame of reference for understanding
+this body of animal lore.</p>
+
+<p>First are the oral narratives, a key source of
+ideas about wild animals of the Great Plains.
+This genre includes the true "stories" people
+pass on to explain to one another the meaning
+of a wild animal. It is also the category that has
+been treated to the most folklore scholarship.
+Myths are representative of this genre, and
+there are many Native American myths involving
+such animals as the deer, coyote, elk,
+or bear. Myths often explain the origins of
+geographic features in the remote past. An example
+is Devils Tower in eastern Wyoming, a
+large stump-shaped cluster of rock columns,
+overlooking the Belle Fourche River and rising
+1,280 feet above the rolling grasslands. Noted
+for its magnificence and beauty, this formation
+has long been a landmark to explorers
+and travelers heading west from the Black
+Hills. In Kiowa mythology the striations on
+the tower were formed when seven young
+girls, playing far from camp, were chased onto
+the rock by bears. The rock rose into the heavens
+where the girls became stars, and the
+bears, trying to follow, left their claw marks on
+the surface.</p>
+
+<p>Such legends are also set in the less-remote
+past. For example, there is a nineteenthcentury
+story about the "white mustang of the
+prairies," whose coat and tail and mane were
+pure white. He symbolized freedom and untamed
+nature in an era before there were
+barbed-wire fences. Many people claimed to
+see him, especially on moonlit nights. The
+white mustang was able to avoid all predators
+and was never seen for very long at a time.
+Cowboys tried to capture him, but they eventually
+realized it was a waste of time because
+of the white mustang's courage, speed, and intelligence,
+which always kept him out of the of
+ropes and bullets.</p>
+
+<p>Popular culture is the second source of
+ideas about wild animals of the Great Plains.
+Included in this category are postcards, souvenirs,
+cartoons, comics, television commercials,
+print advertising, theatrical films, and
+mass-circulation magazines. Popular culture
+provides a repertoire of stories and images to a
+wide audience. Popular material from commercial
+culture can be found in abundance,
+from the Warner Bros. cartoon character Wile
+E. Coyote to the postcards from Nebraska featuring
+the "jackalope," a legendary creature
+combining a jackrabbit with an antelope.</p>
+
+<p>The third source of ideas, images, and stories
+are the performances that involve somehow
+an interpretation of a wild animal. Oldest
+in this category are the Native American performance
+rituals and dances that involve the
+armadillo, the coyote, the bear, and the rattlesnake.
+European American settlers favored
+participatory dramalike events that began
+with Buffalo Bill's Wild West show and continue
+in present-day tourist attractions, rodeos,
+festivals, museum and zoo programs,
+hunting expeditions, cooking events, and the
+like. Significantly, Col. William F. Cody (Buffalo
+Bill) was always pictured riding a white
+stallion, recalling that persistent theme in
+Plains animal lore.</p>
+
+<p>The fourth source of our notions about animals
+is elite culture, the body of fine literature
+and fine arts that is the usual subject matter of
+humanistic study. Fine painting, poetry, novels,
+and short stories of the Great Plains often
+feature animals such as Texas longhorn cattle,
+descended from the wild cattle brought to
+America by the Spanish, as central symbols
+in the imaginative landscape of their fictive
+works. But even here folk ideas are often still
+present, just recast in more elegant language.
+In American elite art we can trace the iconography
+of Great Plains wildlife from the
+earliest European renditions through the likes
+of Thomas Hart Benton and Charles Marion
+Russell up to the present.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: 
+<ref n="egp.lt.054">Oral Traditions</ref>.</p>
+
+<closer>
+<signed>Angus Kress Gillespie<lb/>
+Rutgers University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gillespie, Angus Kress, and Jay Mechling. <title level="m">American Wildlife in Symbol and Story</title>. Knoxville: University of Tennessee
+Press, 1987.</bibl> <bibl>Lawrence, Elizabeth Atwood. "The
+White Mustang of the Prairies." <title level="j">Great Plains Quarterly</title> 1
+(1981): 81–94.</bibl> <bibl>Wilson, David Scofield. <title level="m">In the Presence of Nature</title>. Amherst: University of Massachusetts Press, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

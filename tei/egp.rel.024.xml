@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hinduism</title>
+<title level="m" type="sub"></title>
+<author>Robert H. Stoddard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stoddard, Robert H.">Robert H. Stoddard</author>. <title level="a">"Hinduism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">746</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HINDUISM</head>
+
+<p>Hinduism is the Western name given to a religious
+tradition developed over thousands of
+years in India. Because it has no creed or major
+institutional structure, it is intricately intertwined
+with societal systems, and some
+scholars declare that it is impossible to separate
+Hinduism as a religion from other aspects
+of Indian society. This means it is virtually
+impossible to define precisely what constitutes
+the Hindu religion, especially when transferred
+into a different cultural setting such as
+the Great Plains.</p>
+
+<p>Lacking a set of rigid doctrines, Hinduism
+encompasses a large diversity of religious beliefs
+and practices. Nevertheless, devotion to a
+particular deity expressed through worship
+(<hi rend="italic">puja</hi>) is important to most Hindus. The ritual
+of worship usually occurs individually or
+with other family members in the home and
+at local shrines and temples. Traditionally,
+large congregational meetings were rare, but
+in recent years within North America, group
+meetings for worship, spiritual messages, and
+the celebration of religious festivals have become
+common.</p>
+
+<p>Both the diversity of beliefs and religious
+practices by Hindus and the inevitable changes
+that occur whenever a religion is transported
+to another cultural setting contribute to a wide
+diversity in the expression of Hinduism in the
+Great Plains, especially because Asian Indians
+who have migrated to North America, primarily
+during the last half century, have not
+formed large ethnic enclaves, which might
+have encouraged centers of orthodoxy. Likewise,
+the non-Asian citizens of Canada and the
+United States who have adopted various beliefs
+and rituals associated with Hinduism have followed
+a variety of gurus, each emphasizing
+different aspects of this equivocal religion.</p>
+
+<p>The many societies, ashrams, and study
+groups (more than 100 are identified in the
+1996 edition of <title level="m">Encyclopedia of American Religions
+for the United States</title>) tend to be localized
+and unrelated to one another. Followers may
+meet informally in homes, community buildings,
+and interfaith centers. Also, Hindus in
+the Great Plains may seek individual spiritual
+guidance from printed materials and from
+Web sites on the Internet and by making a
+special journey to an ashram in India or elsewhere
+in North America.</p>
+
+<p>Hinduism has not had a major impact on
+the dominant society in the Great Plains: its
+arrival in this region occurred generally during
+only the last three decades of the twentieth
+century; it tends to be nonproselytizing, with
+private worship; and its adherents are few in
+number and scattered. Nevertheless, more
+than thirty temples and numerous other religious
+structures contribute to the urban
+landscapes of Calgary and Edmonton, Alberta;
+Saskatoon and Regina, Saskatchewan;
+Winnipeg, Manitoba; Denver, Boulder, Aurora,
+Fort Collins, and Littleton, Colorado;
+Shawnee, Kansas; Kansas City, Missouri;
+Omaha, Nebraska; Oklahoma City and Tulsa,
+Oklahoma; and Irving, Austin, and Dallas,
+Texas. Less evident visually but functioning as
+a part of community life in more than three
+dozen cities are centers of Hindu-related societies
+such as Ammachi, Art of Living, Chinmaya
+Mission West, Integral Yoga, Sathya Sai
+Baba, Science of Spirituality, and the Theosophical
+Society, as well as the transcendental
+meditation programs maintained by the Maharishi
+Vedic Universities. In addition to participating
+in special events occurring within
+the Great Plains, many Hindus travel to
+neighboring places to attend religious festivals
+(such as Diwali and Holi), special <hi rend="italic">pujas</hi>, pilgrimages,
+and summer camps.</p>
+
+<closer>
+<signed>Robert H. Stoddard<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gaustad, Edwin Scott, and Philip L. Barlow. <title level="m">The Historical
+Atlas of Religion in America</title>. New York: Oxford University
+Press, 2000.</bibl> <bibl>Melton, J. Gordon. <title level="m">Encyclopedia of American
+Religions</title>. Detroit: Gale Research, 1996.</bibl> <bibl>Tweed, Thomas A.
+"Asian Religions in America: Reflections on an Emerging
+Subfield." In <title level="m">Religious Diversity and American Religious
+History: Studies in Traditions and Cultures</title>, edited by Walter
+H. Conser Jr. and Sumner B. Twiss. Athens: University
+of Georgia Press, 1997: 189–217.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

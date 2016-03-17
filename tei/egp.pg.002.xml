@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.002 SYSTEM "egp.pg.002.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Abbott, Grace (1878-1939)</title>
+<title level="m" type="sub"></title>
+<author>John Sorensen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sorensen, John">John Sorensen</author>. <title level="a">"Abbott, Grace (1878-1939)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">652-653</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ABBOTT, GRACE (1878-1939)</head>
+
+<figure n="egp.pg.002" rend="granted">
+<figDesc>Grace Abbott</figDesc>
+</figure>
+
+<p>Grace Abbott was perhaps the greatest champion
+of children's rights in American history.
+She was born (November 17, 1878) and raised
+in Grand Island, Nebraska. Abbott was part of
+an accomplished pioneer family. Her father
+was the first lieutenant governor of Nebraska,
+her mother was a leader of the early Plains
+women's suffrage movement, and her sister,
+Edith, was the first woman in American history
+to become the dean of a major university
+graduate school, the University of Chicago.
+Grace Abbott herself was the first woman
+nominated for a presidential cabinet post, secretary
+of labor for Herbert Hoover, and the
+first person sent to represent the United States
+at a committee of the League of Nations.</p>
+
+<p>As chief of the U.S. Children's Bureau from
+1921 to 1934, Abbott was the highest ranking
+and most powerful woman in the U.S. government
+when the Depression hit. She was the
+only trained social worker at the top political
+levels in Washington, DC in those disaster-filled
+days. Accordingly, she exerted a crucial influence
+on the momentous relief and welfare
+efforts that were developed in response to the
+crisis.</p>
+
+<p>A trusted associate of Nobel Prize–winner
+Jane Addams, Abbott also made significant
+contributions to the field of immigration
+rights during her tenure as director of the Immigrants
+Protective League of Chicago from
+1908 to 1917. She was a vigorous leader in the
+fight against child labor and a longtime crusader
+for improved children's health care. She
+was among the first female broadcasters to a
+national audience, with "Your Child" on NBC
+in the 1920s, and her trailblazing social service
+work has been credited with leading the way
+to the creation of the Social Security Act and
+the United Nations' unicef program.</p>
+
+<p>Abbott was a woman of intriguing contradictions:
+a lifelong Republican Party member
+and a lifelong liberal activist; a native of the
+Plains frontier who spent much of her adult
+life in the poorest immigrant quarters of urban
+Chicago; and an unmarried woman who
+was nicknamed "the mother of America's 43
+million children."</p>
+
+<p>Abbott's courageous struggles&#8211;to protect
+the rights of immigrants, to increase the role
+of women in government, and to improve the
+lives of all children&#8211;demonstrate a remarkable
+human ability to seek out suffering and
+to do something about it. She was a bold and
+defiant woman who changed our country
+more profoundly than have many presidents.</p>
+
+<p>Throughout her career, Abbott never lost
+her profound love for her Great Plains homeland,
+which she felt had so vitally contributed
+to her character. As Edith Abbott wrote of her
+sister, "To the end of her life, Grace was a
+daughter of the pioneers&#8211;with the vigorous
+'dash' of the pioneer who is able to accept
+temporary defeat in the confident belief in ultimate
+victory . . . even when the odds on the
+other side are very great."</p>
+
+<p>Edward Keating, congressional representative
+from Colorado, summed up the feelings
+of innumerable Americans when, following
+Abbott's death on June 19, 1939, in Chicago, he
+stood on the floor of the Congress and said,
+quite simply: "To me there was something
+about Grace Abbott which always suggested
+Joan of Arc."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.002">Abbott, Edith</ref>.</p>
+
+<closer>
+<signed>John Sorensen<lb/>
+New York City</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Abbott, Edith. "A Sister's Memories." <title level="j">Social Service Review</title>
+13 (1939): 351–408.</bibl> <bibl>Costin, Lela B. <title level="m">Two Sisters for Social
+Justice: A Biography of Grace and Edith Abbott</title>. Urbana:
+University of Illinois Press, 1983.</bibl> <bibl>Sorensen, John. "My Sister
+and Comrade: A Radio Portrait of Grace Abbott."
+Aired on Nebraska Public Radio, Lincoln, January 20, 21,
+and 22, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

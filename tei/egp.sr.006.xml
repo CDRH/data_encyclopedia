@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Browning, Kurt (b. 1966)</title>
+<title level="m" type="sub"></title>
+<author>Sonja Rossum</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rossum, Sonja">Sonja Rossum</author>. <title level="a">"Browning, Kurt (b. 1966)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">767-768</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BROWNING, KURT (b. 1966)</head>
+<figure n="egp.sr.006" rend="granted" type="noclick">
+<figDesc>"Kurt Browning skates to 'Brick House' during a Stars on Ice performance at the Cumberland County Civic Center in Portland, Maine." (Photo taken by NightThree on April 8, 2000.)</figDesc>
+</figure> 
+
+<p>Kurt Browning, sometimes called "Gene Kelly
+on Ice," set a new standard in the world of
+figure skating. The Canadian earned worldwide
+popularity due to his remarkable talent,
+showmanship, and sense of humor.</p>
+
+<p>Born on June 18, 1966, in Rocky Mountain
+House, Alberta, Browning grew up playing
+hockey in Caroline, Alberta. He showed a natural
+talent for figure skating and at the age
+of sixteen moved to Edmonton to train. On
+March 25, 1988, he added his name to the
+<title level="m">Guinness Book of World Records</title> by becoming
+the first person to successfully land a quadruple jump in competition. This athletic
+ability, in addition to his artistry, led to
+four Canadian championships and four world
+championship gold medals. The only amateur
+achievement that eluded him was an Olympic
+medal. The 1994 Olympic Games were not unrewarding,
+however, as he was given the honor
+of carrying the Canadian flag at the opening
+ceremonies.</p>
+
+<p>Browning retired from amateur competition
+in 1994 and continued improving his
+skills at the professional level. He captured the
+titles of world professional champion three
+times, Canadian professional champion four
+times, and U.S. professional champion twice.
+He was inducted into the Canadian Figure
+Skating Hall of Fame on January 30, 2000.</p>
+
+<p>The town of Caroline is proud of its hometown
+hero, and Browning still maintains his
+connections to the Plains. He serves as the
+honorary spokesperson for KidSport Society
+of Alberta, dedicated to "overcoming the
+obstacles that prevent some young people
+from playing sport." He was also proud to be
+named honorary captain for the Edmonton
+Oilers hockey team. In 1996 Kurt married
+Sonia Rodriguez, a principal dancer with the
+National Ballet of Canada, and they now live
+in Toronto, Ontario, when he is not on the
+road entertaining.</p>
+
+<closer>
+<signed>Sonja Rossum<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Browning, Kurt. <title level="m">Kurt: Forcing the Edge</title>. New York:
+HarperCollins Publishers, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

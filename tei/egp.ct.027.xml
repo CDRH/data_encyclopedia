@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.027 SYSTEM "egp.ct.027.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"Hell on Wheels" Towns</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">""Hell on Wheels" Towns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">170-171</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">"HELL ON WHEELS" TOWNS</head>
+
+<figure n="egp.ct.027" rend="granted">
+<figDesc>Tent city, 16th Street, Cheyenne, Wyoming, 1867</figDesc>
+</figure>
+
+<p>When the Union Pacific Railroad crossed the
+Plains, large numbers of workers, hangers-on,
+and purveyors of vice congregated in temporary
+boom communities known as "Hell on
+Wheels." With few towns in existence along
+the Union Pacific line, there was little for the
+men to do, so professional gamblers, saloon
+keepers, and prostitutes filled the void in entertainment,
+building a reputation that lasts
+to the present. By no means, though, did all
+activity revolve around vice. In longer-lived
+towns, literary clubs, religious gatherings, theatrical
+offerings, and other activities were
+common. Two communities coexisted in the
+Hell on Wheels towns: the raucous railroad
+builders and their followers and the businessoriented
+class who hoped to remain and build
+permanent communities.</p>
+
+<p>The men building the Union Pacific Railroad
+were often Irish immigrants, and many
+were Civil War veterans of both Confederate
+and Union sympathies. They were young and
+often single, a combination that encouraged
+violence and the available vices. Besides the
+inevitable prostitutes, other female residents
+were teachers, actresses, laundresses, cooks,
+and hotel operators, but women were still few
+in number.</p>
+
+<p>The first "Hell on Wheels" town began near
+Fort Kearny, Nebraska Territory, in August
+1866, when the Union Pacific line met Dobeytown,
+a settlement that existed to provide for
+the soldiers' more earthy needs. Fort Kearny
+(later just Kearney) and North Platte, Nebraska;
+Julesburg, Colorado; Cheyenne, Laramie,
+Green River City, and Benton, Wyoming;
+and Bear River City and Corrine, Utah, were
+among the primary towns.</p>
+
+<p>A Hell on Wheels town was founded when
+the line of the railroad became apparent. At
+that point, merchants, aided by information
+provided by railroad officials, and the more
+enterprising residents of the last town moved
+to establish a community they hoped would
+be permanent but was usually temporary.
+Within a few weeks, residents of the last town
+would follow, leaving behind a small number
+of people who hoped to found a permanent
+city&#8211;North Platte declined in this manner
+from a population of a few thousand to less
+than 200. Sometimes departing residents left
+only trash and mud chimneys behind. The
+new community sprang to life as merchants of
+everything from the mundane to the scandalous
+quickly set up shop to receive the workers
+they knew would soon arrive. Town populations
+could rise from zero to thousands within
+a few days.</p>
+
+<p>Few permanent structures were built in
+the towns. Most were tents with possibly a
+wooden front wall to give the appearance of
+solidity. Others were prefabricated and crude,
+designed to be taken apart and put together
+rapidly. Only in towns like Cheyenne, which
+had been earmarked as a repair center, did
+lasting buildings rise.</p>
+
+<p>The towns provided virtually every service
+a construction worker might want, from dentistry
+and legal advice to gambling and prostitution.
+Saloons existed in large numbers. A
+tent more than 100 feet long, known as the "Big
+Tent," provided one notable place to drink and
+gamble as it followed the line. Dance houses
+provided relatively wholesome contact with
+women, while houses of prostitution also
+thrived. Vice was lucrative and found a ready
+market.</p>
+
+<p>Merchants along the line made large fortunes,
+providing goods not only to residents
+of the towns but also to military posts and
+the established city of Denver. Large capital-intensive
+firms, such as dry goods and banking
+concerns, followed the line from bases
+in Denver, Chicago, and Omaha. Freighting
+companies worked to connect the cities on the
+line with Denver and with towns ahead of the
+track. Some towns, including Cheyenne, featured
+multiple newspapers, but most had only
+the "Press on Wheels," otherwise known as
+the <hi rend="italic">Frontier Index</hi>, which followed the line
+from Fort Kearny to Bear River City.</p>
+
+<p>While the towns violated the sexual and
+moral codes of the era despite the existence
+of law enforcement officers, quasi-legal and
+legal courts, and several vigilance committees,
+there was far less violence and open disregard
+for convention than has been supposed. Newspaper
+accounts show that while fights and killings
+did occur, they did not do so on a daily
+basis, despite repeated references in the historiography
+to phrases like "a man for breakfast."</p>
+
+<p>The traditional view that the towns lasted
+only one or two months is only correct for the
+later towns, built when the speed of construction
+was greatest. Several towns endured, including
+Kearney and Julesburg, both of which
+had already existed in some form, and Cheyenne
+and Laramie, which were chosen by the
+Union Pacific for repair facilities or terminals
+of branch lines. Others, including Bear River
+City, disappeared, leaving behind little more
+than a lingering reputation.</p>
+
+<p>The Union Pacific's Hell on Wheels towns
+seem to have been a unique phenomenon.
+They did not exist on the Central Pacific Railroad,
+which was built to meet the Union
+Pacific from Sacramento, California, to Promontory
+Point, Utah. The largely Chinese workforce
+of the Central Pacific was less violent,
+drunken, and ill behaved than that of the
+Union Pacific, and the builders of the Central
+Pacific appear to have exerted far greater control
+over their line. The contemporaneous
+Union Pacific–Eastern Division (later the
+Kansas Pacific) likewise was not known for
+producing wild construction towns. There
+were previously existing towns, however, such
+as Wallace and Hugo, Kansas, that provided
+similar services.</p>
+
+<p>For the builders of the Union Pacific these
+towns were necessary&#8211;supplies and workers
+needed to be organized in convenient locations. The theft of Union Pacific property, attempts
+to squat on company land, and the
+atmosphere of violence and disorder, however,
+made the towns an example no other line
+would follow.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

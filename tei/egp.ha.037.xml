@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rivera, Tom&#225;s (1935-1984)</title>
+<title level="m" type="sub"></title>
+<author>Phillip Serrato</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Serrato, Phillip">Phillip Serrato</author>. <title level="a">"Rivera, Tom&#225;s (1935-1984)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">366-367</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIVERA, TOM&#193;S (1935-1984)</head>
+
+<p>Tom&#225;s Rivera is one of the most important
+writers who emerged from the Chicano movement
+of the 1960s. A member of a Mexican
+American migrant farmworker family, he was
+born in Crystal City, Texas, on December 22,
+1935, and grew up in Texas, Iowa, Minnesota,
+Michigan, Wisconsin, Ohio, and North and
+South Dakota. His novel, short stories, and
+poetry portray the experiences of Mexican
+American families who traverse the Great
+Plains and Midwest in search of work as farm
+laborers. Notable about Rivera's work is his
+commitment to capturing the humanity of
+workers who must endure inhumane living,
+working, and traveling conditions. Although
+some of his narratives and poems are set specifically
+in Iowa, Minnesota, and Texas, most
+settings are unidentified, which seems an appropriately
+general way to represent the common
+experiences of migrant workers spread
+throughout the Great Plains, Midwest, and
+West.</p>
+
+<p>In the novel . . . <hi rend="italic">y no se lo trag&#243; la tierra</hi> (. . .
+<hi rend="italic">And the Earth Did Not Devour Him</hi>, 1971) and
+the short stories collected in <title level="m">The Harvest</title>
+(1989), Rivera presents Mexican Americans'
+migratory experiences as haunted by racism
+and desperate struggles to survive. It is through
+these portrayals, though, that Rivera manages
+to present Mexican American migrants as
+uniquely strong people who refuse to let adversity
+break their search for better lives.</p>
+
+<p>An important theme in Rivera's work is the
+devastating effect that migrants' constant mobility
+has on their sense of home and on their
+ability to maintain a sense of community
+among themselves. The poem "The Searchers"
+(1976) is a powerful meditation on how
+migrants' meandering precipitates a feeling of
+alienation from the land they travel over, sleep
+on, and work on.</p>
+
+<p>Rivera also published several critical essays
+about Chicano literature, and two years before
+his death he published "The Great Plains
+as Refuge in Chicano Literature" (1982). In
+this essay he elaborates on the conflicting
+meanings that the Great Plains and Midwest
+have held for Mexican Americans since the
+late nineteenth century. He indicates that in
+the 1880s, Mexican laborers began streaming
+into the Great Plains and Midwest&#8211;which
+they dubbed simply <hi rend="italic">El Norte</hi> (the North)&#8211;in
+search of economic opportunity as well as an
+escape from the particularly cruel treatment
+they received as laborers on ranches in Texas.
+In El Norte, Texas Mexicans and Mexican immigrants
+worked as cowhands, sheep shearers,
+and railroad hands. Ultimately, Rivera captures the contradictory meanings that the
+Great Plains and Midwest held for migrant
+workers when he points out that they were
+places where Mexicans encountered exploitation,
+respect, disillusionment, exhausting
+work, and the prospect of a new life, all at the
+same time.</p>
+
+<p>Tom&#225;s Rivera died in Fontana, California,
+on May 16, 1984.</p>
+
+<closer>
+<signed>Phillip Serrato<lb/>
+Sullerton College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lattin, Vernon E., Rolando Hinojosa, and Gary D. Keller,
+eds. <title level="m">Tom&#225;s Rivera, 1935–1984: The Man and His Work</title>.
+Tempe <hi rend="smallcaps">AZ</hi>: Bilingual Review Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

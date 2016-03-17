@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mormon Trail</title>
+<title level="m" type="sub"></title>
+<author>Jay H. Buckley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Buckley, Jay H.">Jay H. Buckley</author>. <title level="a">"Mormon Trail."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">804-805</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MORMON TRAIL</head>
+
+<p>The Mormon Pioneer National Historic Trail
+stretches 1,297 miles from Nauvoo, Illinois, to
+Salt Lake City, Utah. Although the Mormons,
+members of the Church of Jesus Christ of
+Latter-day Saints, did not actually blaze the
+trail and did not travel it exclusively, their improvements
+and extensive use permanently affixed
+their name to it.</p>
+
+<p>The first part of the Mormon exodus commenced
+on February 4, 1846, when 1,600 Mormons
+crossed the Mississippi and began the
+journey to Kanesville (Council Bluffs, Iowa)
+and Winter Quarters (Florence, Nebraska). In
+1847 a group led by Brigham Young began the
+second portion of the trail, tracing the Platte
+River's north bank and joining the Oregon-California
+Trail at Fort Laramie. Four hundred
+miles later, at Fort Bridger, they diverged from
+the Oregon-California Trail and continued
+west to the Great Salt Lake. From 1846 until the
+completion of the transcontinental railroad in
+Promontory, Utah, in 1869, 70,000.80,000
+Mormons emigrated west over the Oregon-California
+and Mormon Trails. Approximately
+6,000 died along the route.</p>
+
+<p>In 1849 a Perpetual Emigrating Fund was
+established to enable converts to borrow
+funds for their trip and repay them after settling
+in Utah. During the late 1850s Mormon
+leaders also cut travel time and expenses by
+implementing two-wheeled handcart travel.
+Between 1856 and 1860, ten companies comprising
+2,962 Mormons used this successful
+mode of transportation. In 1856, however, the
+Martin and Willie Companies left too late in
+the year and were trapped by the Wyoming
+winter. More than 200 perished before a rescue
+party arrived.</p>
+
+<p>The Mormon Trail experience was highly
+organized and less marked by disease or Indian
+attack than other overland journeys. It served
+as an initiation, a rite of passage, and was
+a unifying element for early Mormons. Dramatic
+reenactments and celebrations of the
+Mormon Trail occurred in 1897, 1947, and 1997.
+In 1947 a "Centennial Caravan" consisting of
+seventy-two automobiles with simulated covered
+wagon tops and plywood oxen made the
+journey from Nauvoo to Salt Lake. In 1996 and
+1997 an estimated 10,000 joined the sesquicentennial
+wagon train for a day, a week, or more.
+The Pioneer Cemetery and Mormon Trail
+Center at Historic Winter Quarters, Rebecca
+Winter's grave near Scottsbluff, Nebraska, Fort
+Caspar in Casper, Wyoming, the Mormon
+Handcart Visitors Center on the west side of
+Devil's Gate, Wyoming, and "This Is the Place"
+State Park in Salt Lake City memorialize the
+trail, portions of which are still visible in western
+Nebraska near North Platte and Sutherland
+and in various places in Wyoming.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.011">Church of Jesus Christ of Latter-day Saints</ref>.</p>
+
+<closer>
+<signed>Jay H. Buckley<lb/>
+Brigham Young University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hafen, LeRoy R., and Ann W. Hafen. <title level="m">Handcarts to Zion:
+The Story of a Unique Western Migration, 1856–1860</title>. Lincoln:
+University of Nebraska Press, 1992.</bibl> <bibl>Kimball, Stanley
+B. <title level="m">Historic Sites and Markers along the Mormon and Other
+Great Western Trails</title>. Urbana: University of Illinois Press,
+1988.</bibl> <bibl>Stegner, Wallace. <title level="m">The Gathering of Zion: The Story of
+the Mormon Trail</title>. Lincoln: University of Nebraska Press,
+1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

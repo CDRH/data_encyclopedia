@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rhodes, Richard (b. 1937)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Rhodes, Richard (b. 1937)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">520</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RHODES, RICHARD (b. 1937)</head>
+
+<p>Author and journalist Richard L. Rhodes is
+not to be envied for his childhood. Born in
+Kansas City, Kansas, on July 4, 1937, Rhodes
+lost his mother to suicide thirteen months
+later. His father, a mechanic with the Missouri
+Pacific Railroad, moved Richard and his older
+brother, Stanley, from one boardinghouse to
+another throughout the city. In 1947 Richard's
+father married a sadistic woman whom, even
+when he was an adult, Richard still feared.
+Beaten and starved by their stepmother and
+ignored by their father, the boys eventually
+found sanctuary in the Andrew Drumm Institute,
+a boys home located on a farm near
+Independence, Missouri. Books were Richard's
+window to the wider world, and, against
+all odds, he gained access to that world when
+he was admitted to Yale.</p>
+
+<p>He graduated in 1959, and, after working as a
+trainee writer for <title level="j">Newsweek</title> and then as an
+editor at Hallmark Cards, he began writing
+seriously when he was in his thirties, and he
+has never stopped. His first book, <title level="m">The Inland Ground: An Evocation of the American Middle West</title> (1970), was praised for its portraits of
+midwestern people and places. His most acclaimed
+work, <title level="m">The Making of the Atomic Bomb</title>
+(1987), brought Rhodes a National Book Award,
+the National Book Critics Circle Award, and a
+Pulitzer Prize. Candid analyses of his own sexuality
+(<title level="m">Making Love: An Erotic Odyssey</title>, 1992)
+and his harrowing childhood (<title level="m">A Hole in the World: An American Boyhood</title>, 1990) are among
+the twelve nonfiction and four fiction books he
+has written. Rhodes has also made numerous
+contributions to newspapers and magazines
+both as author and editor.</p>
+
+<p>Despite his successes, Rhodes has never forgotten
+his abusive childhood, and years of
+heavy drinking took their toll until he quit
+drinking when he was nearing fifty. He maintains
+that all his work, whatever the specific
+subject matter, is a repetition of one theme:
+men faced with violence who struggle against
+it and find, perhaps, a ray of hope.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jones, Daniel, and Jorgenson, John D., eds. <title level="m">Contemporary Authors</title>. New Revisions series. Detroit: Gale Research,
+1997: 58: 354–58.</bibl> <bibl>Rhodes, Richard. <title level="m">A Hole in the World: An American Boyhood</title>. New York: Simon and Schuster, 1990.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

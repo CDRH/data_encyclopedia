@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Depression Architecture</title>
+<title level="m" type="sub"></title>
+<author>Carroll Van West</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="West, Carroll Van">Carroll Van West</author>. <title level="a">"Depression Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">76</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DEPRESSION ARCHITECTURE</head>
+
+<p>New Deal agencies during the administration
+of President Franklin D. Roosevelt reshaped
+the public landscape of the Great Plains. From
+1933 to 1942 the Federal Emergency Relief Administration
+(<hi rend="smallcaps">FERA</hi>), the Public Works Administration
+(<hi rend="smallcaps">PWA</hi>), the Civilian Conservation
+Corps (<hi rend="smallcaps">CCC</hi>), and the Works Progress
+(later Work Projects) Administration (<hi rend="smallcaps">WPA</hi>)
+placed a federal facade on the region's public
+architecture.</p>
+
+<p>Architectural historians identify two primary
+substyles associated with New Deal architecture:
+Government Rustic, which is associated
+with many parks projects of the <hi rend="smallcaps">CCC</hi>
+and the National Park Service during these decades,
+and <hi rend="smallcaps">PWA</hi> or <hi rend="smallcaps">WPA</hi> Modern, with the designation
+depending on the sponsoring agency.</p>
+
+<p>Government Rustic grew out of park designs
+based on the natural resources and landscape
+of the mountain West and the Adirondacks
+of New York. At first glance, the exposed
+log beams and rough stonework characteristic
+of the style have little association with the rolling
+prairies of the Great Plains, but once the
+National Park Service in 1938 published its architectural
+guides, <title level="m">Park and Recreation Structures and Park Structures and Facilities</title>, Government
+Rustic became codified as the only
+proper park architecture. Government Rustic
+style reflected a close relationship to nature
+not only in the materials used in the buildings
+but also in how the structures seemingly rose
+from the ground themselves, linking the style
+to the design ideas and assumptions of master
+Prairie school architect Frank Lloyd Wright.
+The stone and log interpretive pavilion at the
+Double Ditch Village State Historic Site near
+Bismarck, North Dakota, is similar in its material
+and construction to many other Government
+Rustic structures found in the region's
+state and federal parks.</p>
+
+<p>County courthouses located throughout
+the Plains document the popularity of pwa or
+wpa Modern style. In Casper, Wyoming, the
+Natrona County Courthouse, designed by
+Karl Krusmark and Leon Goodrich, imaginatively
+ties together the past and present
+by using frontier images and quotations on the
+building's modern-styled facade. The Sheridan
+County Courthouse in Plentywood, Montana,
+is much more restrained in its modern
+styling, reflecting both the isolated location of
+the county seat and the county's limited financial
+means. The New Deal–sponsored courthouses
+symbolized more than the federal presence;
+they also reminded depressed residents
+of the national government's commitment to
+the region and the residents' ever-deepening
+dependence on the largesse and policies of
+the federal government. In this way the courthouses
+symbolically confronted the muchprized
+independence of westerners because
+their commanding presence within the local
+townscape ironically spoke more of dependence
+than independence.</p>
+
+<p>There was more to the New Deal landscape
+of the Plains than new public parks and courthouses.
+Post offices, city halls, and community
+halls were constructed in many smaller towns;
+most of these buildings still serve their original
+purpose. Schools were priority projects for
+many state <hi rend="smallcaps">FERA</hi> agencies; in North Dakota,
+for example, <hi rend="smallcaps">FERA</hi> built 8 schools and renovated
+1,604 others. The <hi rend="smallcaps">PWA</hi> and <hi rend="smallcaps">WPA</hi> built
+hundreds of other schools, often in popular
+revival styles. The <hi rend="smallcaps">PWA</hi>-sponsored Holmes
+School in Lincoln, Nebraska, was in a restrained
+Colonial Revival style, while the <hi rend="smallcaps">PWA</hi>
+school in Fort Scott, Kansas, was a full statement
+of Colonial Revival design, complete
+with finials, cupola, and Palladian windows.
+The <hi rend="smallcaps">WPA</hi> school in Kadoka, South Dakota, reflects
+a Pueblo Revival design quite out of
+place in its Black Hills setting. The popularity
+of the revival styles also was evident in
+the many new classrooms, libraries, stadiums,
+and auditoriums constructed on college and
+university campuses. Besides the new education
+buildings, the addition of libraries and
+community buildings such as the Art Deco.
+styled Sonotorium (an outdoor theater) in
+Kearney, Nebraska, and the new Art Museum
+in Wichita, Kansas, enriched town life.</p>
+
+<p>New Deal agencies also transformed much
+of the infrastructure of Plains agriculture, industry,
+transportation, and urban services. In
+Montana's lower Yellowstone River valley, <hi rend="smallcaps">CCC</hi>
+work crews improved and expanded existing
+irrigation projects of the U.S. Reclamation
+Service. Modern bridges, new highways, airports,
+sidewalks, and sewage treatment plants
+improved urban living. Dam and powerhouse
+construction on rivers such as the Colorado,
+Missouri, and North Platte improved urban
+water supplies, provided more water for irrigation,
+and created new sources for electricity.
+At some projects, modernity and tradition existed
+side by side. The dam and town site at
+Fort Peck, Montana, contained a Swiss chalet–
+like theater, which is strangely out of place on
+the flat, treeless prairie of eastern Montana
+and stands in sharp contrast to the modern
+concrete and steel spillway of the dam.</p>
+
+<p>Efforts at historic preservation and land
+conservation, often in association with park
+development, were widespread. At the Chateau
+de Mores, a historic house museum in
+Medora, North Dakota, <hi rend="smallcaps">WPA</hi>-funded employees,
+working together with state historical
+society officials, cataloged artifacts, furnished
+the house, and developed its first interpretive
+tours. Land reclamation efforts led by the ccc
+created most of the region's initial wildlife reserves
+and migratory refuges, expanded existing
+shelterbelts while creating many new ones,
+and planted trees in reforestation and town
+beautification schemes.</p>
+
+<p>The impact of New Deal agencies in the
+Great Plains landscape was immense and
+long-lasting. The most architecturally imposing
+public buildings in many of the region's
+towns date to that era, while the reordered
+landscapes represented by dam reservoirs,
+new parks, and urban infrastructure shape
+everyday perceptions and experiences.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>Carroll Van West<lb/>
+Middle Tennessee State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cutler, Phoebe. <title level="m">The Public Landscape of the New Deal</title>.
+New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1985.</bibl> <bibl>Short, C. W.,
+and R. Stanley-Brown. <title level="m">Public Buildings: Architecture under the Public Works Administration, 1933 to 1939</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1939.</bibl> <bibl>West, Carroll Van.
+"'The Best Kind of Building': The New Deal Landscape of
+the Northern Plains, 1933-1942." <title level="j">Great Plains Quarterly</title> 14
+(1994): 129-41.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

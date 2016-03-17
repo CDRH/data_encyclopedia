@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Barley</title>
+<title level="m" type="sub"></title>
+<author>Patricia Juskiw</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Juskiw, Patricia">Patricia Juskiw</author>. <title level="a">"Barley."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">35</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BARLEY</head>
+
+<p>Fields of barley are an increasingly common
+sight in the Northern Great Plains. The major
+barley-growing provinces and states include
+Alberta, Saskatchewan, Manitoba, North Dakota,
+and Montana. In Alberta, for example,
+in 1997 5.6 million acres were seeded to barley,
+a crop acreage exceeded only by wheat. North
+Dakota, with 2 million acres under barley
+in 1998, produces almost one-third of the national
+output.</p>
+
+<p>Barley is most famous for its use as malt in
+the brewing and spirits industries. But due
+to high-glucan and dietary fiber fractions in
+some types of barley, there is a growing interest
+in barley in the food industry. Barley is also
+widely used as a feedgrain and for silage (conserved
+green matter). Beef cattle fed on barley
+have similar rates of weight gain as those fed
+on corn, and dairy cows fed barley silage have
+similar gains as those fed alfalfa silage.</p>
+
+<p>There are two main types of barley, sixrowed
+and two-rowed. Six-rowed barley has
+three kernels at each node of the head, and
+with two sides to every head, appears to have
+six kernels in a row around the head. Tworowed
+barley has one kernel at each node, appearing
+to have only two kernels in a row. Barley
+comes in both hulled and hulless forms.
+Hulless barley is similar to wheat in that the
+hull is removed, exposing the kernel, during
+threshing. Hulless barley is associated with reduced
+manure production, an important consideration
+for intensive livestock production
+where disposal of manure is costly and difficult.
+From the beer in your glass to the meat
+on your plate, barley has an important role to
+play in its production.</p>
+
+<closer>
+<signed>Patricia Juskiw<lb/>
+Alberta Agriculture, Food and Rural Development Field Crop Development Centre</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

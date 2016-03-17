@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Calgary Group</title>
+<title level="m" type="sub"></title>
+<author>Joan Greer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Greer, Joan">Joan Greer</author>. <title level="a">"Calgary Group."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">113</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CALGARY GROUP</head>
+
+<p>The Calgary Group was an informal, loosely
+structured group of artists with modernist
+concerns working in Calgary in the late 1940s.
+They responded to what they saw in Alberta
+as a lack of understanding concerning new
+developments in art. Key members included
+Marion Nicoll, Maxwell Bates, and Jock Macdonald.</p>
+
+<p>In 1947 Macdonald, before leaving Calgary
+to head the Ontario College of Art, heralded
+the group in an article that appeared in the
+periodical Canadian Art. Stating that Alberta's
+altitude, climate, and geographical variations&#8211;
+ranging from mountains and foothills
+to prairie&#8211;represented the most desirable environment
+in which to foster artistic creativity,
+Macdonald asserted that the province was
+indeed beginning to produce its own distinctive
+art. The Calgary Group, he added, was
+characterized not by a single style or outlook
+but by its interest in contemporary expression.
+Also in 1947, members of the group exhibited
+works at the Vancouver Art Gallery.
+The exhibition later traveled to Saskatoon.
+This show led the curator, G. H. Tyler, to
+praise the new directions being taken by these
+Albertan artists, whom he identified as having
+departed from the artistic dominance within
+the province of artists such as Walter Phillips,
+H. G. Glyde, and A. C. Leighton. The following
+year, an exhibition review in the <title level="j">Saskatoon Star-Phoenix</title> identified the Calgary Group's
+traveling art exhibition, which was en route to
+the central provinces at that time, as being the
+first western art show to travel to the older
+provinces. Again the work was praised and its
+experimental nature commented upon.</p>
+
+<p>In addition to the artists mentioned above,
+others who exhibited with the Calgary Group
+included H. B. Hill, Wesley Irwin, Luke and
+Vivian Lindoe, Janet Mitchell, Cliff Robinson,
+Roy Stevenson, and Dorothy Willis. The
+group does not seem to have lasted more than
+a few years and, as Macdonald stated, never
+had a defined program holding its artists together.
+It may be seen, then, as a group of
+artists held together loosely and for a short
+period of time during the postwar period by
+a desire to showcase the newer tendencies
+found within Albertan art, a desire that was
+seen as timely by many.</p>
+
+<closer>
+<signed>Joan Greer<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>J. S. "The Calgary Group at the Art Centre." <title level="j">Saskatoon Star-Phoenix</title>, September 11, 1948: 1, 6. Macdonald, James
+W. G. "Heralding a New Group." <title level="j">Canadian Art</title> 5 (1947):
+35–36. Snow, Kathleen M. <title level="m">Maxwell Bates: Biography of an Artist</title>. Calgary: University of Calgary Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

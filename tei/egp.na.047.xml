@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Removal</title>
+<title level="m" type="sub"></title>
+<author>Clara Sue Kidwell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kidwell, Clara Sue">Clara Sue Kidwell</author>. <title level="a">"Indian Removal."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">577-578</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN REMOVAL</head>
+
+<p>The policy of the U.S. government to move
+Native Americans from their homelands to
+other locations was part of the clash of cultures
+brought about by the colonization of
+North America. There was no such policy of
+forcible removals from east to west in Canada;
+even within the Prairie Provinces, First Nations
+were given considerable choice in the
+selection of their reserves. U.S. policy was formalized
+in the Indian Removal Act of 1830,
+which gave President Andrew Jackson the authority
+to make treaties with tribes by which
+they would exchange land east of the Mississippi
+River for lands to the west. By that
+time, however, removals had been taking place
+for more than two decades.</p>
+
+<p>President Thomas Jefferson initiated the
+idea of removal with the Louisiana Purchase
+in 1803. He saw a new western territory where
+Native Americans could live their traditional
+lifestyles far removed from often deleterious
+contact with Americans. The rationale was
+that moving Native Americans to this Permanent
+Indian Frontier would open up land in
+the eastern United States for European American
+settlers, while protecting them until such
+time as they were willing and able to assimilate
+into American society. Jefferson also believed
+that consolidating Native Americans in the
+Great Plains would create a barrier that would
+prevent American settlers from dispersing too
+widely. In the 1820s and 1830s, Baptist missionary
+Isaac McCoy even campaigned to create
+a separate Indian state in the Great Plains,
+where Native Americans could be taught the
+precepts of American civilization, but the idea
+did not receive serious attention in Congress.</p>
+
+<p>As early as 1808 the Sauks and Foxes moved
+voluntarily from Illinois to Missouri to escape
+the disruption of their lives by white settlers.
+From 1817 to 1820 federal agents signed treaties
+with the Delawares in Ohio and the Kickapoos
+and Weas in Illinois by which the tribes agreed
+to exchange their lands for others in Illinois
+and Missouri. By 1817 leaders of the Cherokees
+in Georgia had agreed to a treaty that provided
+individual allotments for those who
+agreed to be citizens of the state and remain
+on their land, or a tract of land west of the
+Mississippi for those who chose to move. The
+Choctaws signed a similar treaty in 1820. Removal
+policy led to divisions within tribes between
+those who agreed to stay in their homelands
+and adapt to new ways and those who
+decided to move west and try to retain their
+cultural identities. Even before formal legislation
+for Indian removal, some Choctaw and
+Cherokee families were moving west of the
+Mississippi to settle on lands guaranteed to
+them by treaty.</p>
+
+<p>By the time of Andrew Jackson's election to
+the presidency in 1828, the prospect of ridding
+the east of Native Americans appealed greatly
+to land speculators, and Jackson's strong sense
+of nationalism led him to reject the idea that
+tribes could exist as sovereign nations within
+the confines of American territory. Within ten
+years of the passage of the Indian Removal
+Act, vast areas of the Midwest and the southeastern
+United States had been "cleared" and
+the Native American residents removed to
+tracts of land in the present-day states of Kansas
+and Oklahoma.</p>
+
+<p>North of the Ohio River a great variety of
+Native American communities were shifted
+west. These included Peorias, Kaskaskias,
+Sauks and Foxes, Piankashaws, Weas, Shawnees,
+Ottawas, Wyandottes, Potawatomis, Delawares,
+and Kickapoos. Many of these groups
+suffered multiple removals. The Delawares, for
+example, were originally from eastern Pennsylvania.
+They subsequently moved to Ohio,
+Illinois, Missouri, and, in 1829, to Kansas. The
+Kickapoos also ended up in eastern Kansas in
+1832, after first being moved from southern
+Ohio and then from southwestern Missouri.
+By 1841 emigrant Native Americans occupied
+squared-off tracts along the eastern portions of
+the Great Plains from present-day Nebraska to
+Texas. They were settled on land that was purchased
+from Indigenous Plains tribes, such as
+the Pawnees and Kaws, and frequently conflicts
+ensued between the emigrants and the
+local Native Americans.</p>
+
+<p>Major removal treaties were also negotiated
+with the southeastern tribes. The Choctaws
+signed the Treaty of Dancing Rabbit Creek in
+1830, in large part because the state of Mississippi
+extended its laws over the tribe and
+made illegal the operations of the tribal government.
+The state of Georgia also sought to
+regulate the Cherokees. The Creeks, Seminoles,
+and Chickasaws signed treaties in 1832,
+and the Cherokees signed the Treaty of New
+Echota in 1835. As a result of these treaties,
+approximately 60,000 members of these tribes
+made the trek west to the land designated as
+Indian Territory in the eastern half of what is
+now Oklahoma. For the Creeks, Seminoles,
+and Cherokees, these were forced marches under
+the U.S. Army. It is estimated that approximately
+one-quarter of the refugees died along
+the trail from illness, exposure, or starvation.</p>
+
+<p>After 1854 the tide of European American
+settlement reached the Great Plains, and the
+Permanent Indian Frontier fragmented into
+reservations, where Indigenous Plains peoples
+and emigrant tribes were segregated and
+placed under great pressure to acculturate. In
+the following three decades, as their reservations
+were surrounded by settlers, many of
+these Indians, including the Pawnees, Poncas,
+Cheyennes, Arapahos, Comanches, Potawatomis,
+and Kickapoos, made their final migration
+to Indian Territory, where many of their
+descendants remain today.</p>
+
+<closer>
+<signed>Clara Sue Kidwell<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Abel, Annie H. "The History of Events Resulting in Indian
+Consolidation West of the Mississippi." In <title level="m">Annual Report
+of the American Historical Association for the Year 1906</title>.
+Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1908.</bibl> <bibl>Foreman,
+Grant. <title level="m">Indian Removal: The Emigration of the Five
+Civilized Tribes of Indians</title>. Norman: University of Oklahoma
+Press, 1953.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baca, Polly (b. 1941)</title>
+<title level="m" type="sub"></title>
+<author>Louis DeSipio</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="DeSipio, Louis">Louis DeSipio</author>. <title level="a">"Baca, Polly (b. 1941)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">351</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BACA, POLLY (b. 1941)</head>
+
+<p>Polly Baca's career is filled with firsts. She was
+the first Latino (and the first minority) to be
+elected to the Colorado Senate and the first
+Latina to serve in the leadership in any state
+senate or to be nominated by a major party to
+run for U.S. Congress (an election she lost).</p>
+
+<p>Baca is a lifelong Coloradan, and most of
+her public service has been in Colorado. She
+was born in Weld County on February 13, 1941,
+and grew up in Greeley and Thornton. In 1962
+she received her bachelor of arts degree at Colorado
+State University. Baca was drawn into
+politics as part of the first campaign to harness
+Latino voters, the 1960 "Viva Kennedy" campaign.
+Her campaign work initiated a series of
+political jobs, first with unions, then with the
+Democratic Party and the United Farm Workers.
+Baca tapped these experiences when she
+successfully ran for the Colorado House of
+Representatives in 1974 and the Colorado State
+Senate in 1978. She left the Colorado legislature
+to run unsuccessfully for U.S. Congress in
+1986. Baca received two appointments in the
+Clinton administration. In 1993 she was appointed
+director of the U.S. Office of Consumer
+Affairs. She left this position in 1994 to
+return to Colorado as Rocky Mountain regional
+director for the General Services Administration.</p>
+
+<p>After leaving public service in 1998, she began
+her own consulting firm and worked as a
+full-time volunteer with the Center for Contemplative
+Living, which is dedicated to renewing
+the contemplative dimension of the
+Gospels in everyday life. Polly Baca holds honorary
+degrees from the University of Northern
+Colorado at Greeley and Wartburg College. In
+2000 Baca was inducted into the Colorado
+Women's Hall of Fame.</p>
+
+<closer>
+<signed>Louis DeSipio<lb/>
+University of California, Irvine</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

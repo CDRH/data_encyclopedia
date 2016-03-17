@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">NAFTA</title>
+<title level="m" type="sub"></title>
+<author>Ronald C. Griffin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Griffin, Ronald C.">Ronald C. Griffin</author>. <title level="a">"NAFTA."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">427</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NAFTA</head>
+
+<p>The North American Free Trade Agreement
+(<hi rend="smallcaps">NAFTA</hi>), implemented on January 1, 1994,
+is an agreement to remove most barriers to
+trade and investment in both goods and services
+among Canada, the United States, and
+Mexico. Its purpose is to stimulate economic
+growth in the three countries and to increase
+jobs. Full employment in Mexico, for example,
+will help its economic growth, discourage
+emigration, and create wealth for Mexican
+consumers to buy American and Canadian
+products. Items that now move more freely
+among the signatory nations include capital,
+textile products, petrochemicals, automobile
+components, fertilizers, farm products, and
+telecommunications. In the case of farm
+products, for example, some tariffs were removed
+immediately, and most others are
+being phased out over a transition period.</p>
+
+<p>In the Great Plains, two trading groups have
+emerged to take advantage of <hi rend="smallcaps">NAFTA</hi>. The Camino
+Real Economic Alliance (<hi rend="smallcaps">CREA</hi>) operates
+at the western fringe of the Plains, linking fortyfive
+business organizations from Chihuahua,
+Ciudad Juárez, El Paso, Las Cruces, Albuquerque,
+and Santa Fe. <hi rend="smallcaps">CREA</hi> seeks to strengthen
+ties between and development of the states
+of Chihuahua and New Mexico and the region
+of West Texas. A second group is the Rocky
+Mountain Trade Corridor (<hi rend="smallcaps">RMTC</hi>), which is a
+membership organization for small businesses
+throughout the Great Plains. The <hi rend="smallcaps">RMTC</hi> convenes
+seminars on <hi rend="smallcaps">NAFTA</hi> and matches its
+members with business partners in Canada
+and Mexico.</p>
+
+<p>Outside of these groups, businesses in the
+Great Plains are trading under <hi rend="smallcaps">NAFTA</hi> on their
+own. On a state-by-state basis, there is a positive
+trade balance with Canada. The trade balance
+with Mexico is more mixed. Exports to
+Mexico in 1994–95 dipped in Kansas, Oklahoma,
+Nebraska, South Dakota, and Texas but
+went up in Colorado, North Dakota, Montana,
+and Wyoming. The freight data for
+goods shipped to Mexico in 1996 yield a similar
+picture. At present Texas is positioned to
+capitalize on the impending boom in Mexico.</p>
+
+<p>What does <hi rend="smallcaps">NAFTA</hi> mean to the Great Plains?
+It means highway construction, bridge maintenance,
+railway mergers, train coordination,
+warehousing, and trucking. Congress has set
+aside $700,000 for highway construction. Interstate
+35 will get the lion's share of that
+money. The Santa Fe Railroad has concluded
+a merger with Burlington Northern and relocated
+its corporate headquarters in Texas, a
+move from which Dallas–Fort Worth will
+benefit. The Santa Fe must now coordinate its
+train business with its rival (Union Pacific) to
+ensure smooth flows of commerce across the
+Plains. Warehousing facilities are going up in
+the Great Plains. Big firms have constructed
+one or two strategically located facilities from
+which they ship consumer goods. Canadian
+firms servicing the U.S. market and American
+firms servicing the Canadian market have
+erected warehouses in Omaha, Nebraska.
+Denver, Colorado, Kansas City, Missouri,
+and Dallas, Texas, have experienced similar
+growth, a growth that has benefited local economies.
+Though warehouses attract few workers,
+the land on which these facilities rest produces
+property taxes to fund local schools.
+Trucking is booming on i-29, i-70, and i-35,
+largely due to <hi rend="smallcaps">NAFTA</hi> commerce. But the flow
+of commerce south to Mexico has been impeded
+by bottlenecks. In Laredo, Texas, by far
+the busiest U.S.-Mexican crossing point, cargo
+lines have tested driver patience. Haulers often
+have to wait up to ten hours before moving
+their cargo into Mexico. Trucks have to cross
+two aging bridges to get to their destinations.
+The amount of commerce moving into Mexico
+is also determined by the pace of border
+inspections.</p>
+
+<p>Beyond the bridge building, the inspectors,
+and the highway improvements, nagging issues
+threaten the flow of commerce. American
+access to Canadian dairy and poultry markets,
+grain trade between the United States and
+Canada, and granting access to American beef
+in Canada head the list.</p>
+
+<closer>
+<signed>Ronald C. Griffin<lb/>
+Washburn University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Glick, Leslie A. <title level="m">Understanding the North American Free Trade Agreement</title>. Boston: Deventer, 1993.</bibl> <bibl>Moss, Ambler
+H., Jr., ed. <title level="m">Assessments of the North American Free Trade Agreement</title>. Coral Gables <hi rend="smallcaps">FL</hi>: Transaction, 1993.</bibl> <bibl>Riggs, Alvin
+R., and Tom Velk, eds. <title level="m">Beyond <hi rend="smallcaps">NAFTA</hi>: An Economic,
+Political, and Sociological Perspective</title>. Vancouver: Fraser
+Institute, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

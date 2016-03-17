@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.026 SYSTEM "egp.afam.026.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Little, Cleavon (1939–1992)</title>
+<title level="m" type="sub"></title>
+<author>Christopher Steinke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sylvester, Melvin R.">Melvin R. Sylvester</author>. <title level="a">"Little, Cleavon (1939–1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">16-17</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LITTLE, CLEAVON (1939-1992)</head>
+
+<figure n="egp.afam.026" rend="granted">
+<figDesc>Cleavon Little</figDesc>
+</figure>
+
+<p>Cleavon Jake Little, stage, screen, and television
+actor, was born in Chickasha, Oklahoma,
+on June 1, 1939. His father was a native
+Mississippian and his mother was a Texan.
+Both parents were of African and Native
+American ancestry. Cleavon attended grade
+school in Chickasha, but the family moved to
+the Linda Vista section of San Diego, California,
+in 1953. There, Cleavon went to Kearny
+High School from 1954 to 1957 and was active
+in several school drama productions. From
+1957 to 1960 he took classes at San Diego City
+College and from 1962 to 1965 he attended San
+Diego State University, where he earned a
+bachelor of arts degree in speech therapy with
+a minor in dramatic arts. His first job was as a
+speech therapist at a developmental disabilities
+center, but he dreamed of becoming a
+professional actor.</p>
+
+<p>His opportunity came when he entered
+a nationwide competitive talent search for
+promising actors sponsored by ABC Television.
+Cleavon was one of sixteen selected out of
+25,000 applicants to receive a full scholarship
+to the Academy of Dramatic Arts in New York
+City. While still at the academy he displayed
+his talents in Shakespeare's <title level="m">A Midsummer
+Night's Dream</title> and <title level="m">Othello</title>. He received the
+academy's highest honors, the Charles Jehlinger
+Award, when he graduated in 1967.
+Off Broadway he appeared in <title>Americana Off Broadway</title> (1966), <title>MacBird</title> (1967), and <title>Scuba Duba</title> (1967). Cleavon went on to act on
+Broadway in <title>Jimmy Shine</title> with Dustin Hoffman
+(1968), <title>Someone's Comin' Hungry</title> (1969),
+and <title>Ofay Watcher</title> (1969). In 1970 he won a
+Tony Award for best actor in a musical (for
+Purlie). Cleavon considered his best works to
+be <title>I'm Not Rappaport</title> (1985) and his one-man
+show <title>All God's Dangers</title> (1989). His 1991 appearance
+as a guest star in Judd Hirsch's <hi rend="smallcaps">TV</hi>
+series "Dear John" won him an Emmy.</p>
+
+<p>Altogether, Cleavon Little appeared in seventeen
+movies from 1970 to 1991, but he is
+remembered most for his hilarious role as
+mild-mannered Sheriff Bart in <title>Blazing Saddles</title>
+(1974). This quintessential actor of theater,
+film, and television died of cancer in Sherman
+Oaks, California, on October 22, 1992. The
+American Academy of Dramatic Arts set up
+an endowed scholarship in his name in 1994.</p>
+
+
+<closer>
+<signed>Melvin R. Sylvester<lb/>
+Long Island University<lb/>
+C. W. Post Campus</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cleavon Little, Archival Student File, American Academy
+of Dramatic Arts, New York City.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

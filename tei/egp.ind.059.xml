@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.059">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Uranium Mining</title>
+<title level="m" type="sub"></title>
+<author>Michael A. Amundson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.059</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Amundson, Michael A.">Michael A. Amundson</author>. <title level="a">"Uranium Mining."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">436</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">URANIUM MINING</head>
+
+<p>Several Great Plains states have been home to
+uranium production since 1945. Beginning in
+1947, the Atomic Energy Commission offered
+government subsidies, including guaranteed
+prices and discovery bonuses, to stimulate uranium
+production for America's cold war defense.
+A uranium rush ensued, and claims were
+staked throughout the region. Successful
+mines and processing mills near Edgemont
+and Pine Ridge, South Dakota, and the Wyoming
+towns of Shirley Basin, Jeffrey City, and
+Douglas produced and sold uranium concentrate,
+or yellowcake, to the federal government.
+The program was so successful, however, that
+supply exceeded government demand, and the
+industry collapsed in the late 1960s.</p>
+
+<p>Following the close of the government program,
+the energy crisis of the 1970s fueled the
+expansion of nuclear power plants and created
+another uranium boom. This time, the mills
+at Edgemont, Jeffrey City, and Shirley Basin
+produced yellowcake for commercial power
+companies. But after environmental fears following
+the Three Mile Island accident in
+March 1979 stopped further nuclear generator
+construction, the industry again collapsed,
+and most mines and mills were closed by 1985.
+Since then, the new and comparably inexpensive
+extraction technique of in situ mining,
+during which solvents are pumped directly
+into the underground ore body, allowed to
+dissolve and leach out the uranium, and then
+pumped back to the surface, has made Nebraska
+one of the leading uranium-producing
+states in the country. Uranium mining is still
+active in Saskatchewan, but the mines are located
+to the north of the Plains portion of that
+province.</p>
+
+<p>Although comparatively little uranium is
+currently produced in the Great Plains, former
+uranium mines and mill sites face costly
+environmental remediation and continuing
+maintenance and radiation checks.</p>
+
+<closer>
+<signed>Michael A. Amundson<lb/>
+Northern Arizona University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Albrethsen, Holger, and Frank E. McGinley. <title level="m">Summary History of Domestic Uranium Procurement under U.S. Atomic Energy Commission Contracts: Final Report</title>. Grand
+Junction <hi rend="smallcaps">CO</hi>: U.S. Department of Energy, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

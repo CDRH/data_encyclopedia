@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nicknames</title>
+<title level="m" type="sub"></title>
+<author>Edward Callary</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Callary, Edward">Edward Callary</author>. <title level="a">"Nicknames."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">307</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NICKNAMES</head>
+
+<p>Nicknames have long been especially popular
+among two groups: self-promoters and those
+who consider themselves beyond the limits of
+ordinary rules of conduct. The Plains, especially
+in the nineteenth century, was filled with
+characters who were self-promoters and had a
+disdain for established authority. William F.
+Cody was first on the list of self-promoters.
+"Buffalo Bill" said it all; a little of the reality of
+the Plains and a lot of its myth and folklore is
+distilled in this nickname. Less well known
+today is his Wild West show rival, Gordon
+William Lillie, or "Pawnee Bill."</p>
+
+<p>The great majority of nicknames, however,
+went to outlaws such as John Henry "Doc"
+Holliday (who was a real "Doc," a dentist
+from Georgia). The Doolin Gang (the "Oklahombres")
+alone boasted "Dynamite Dan"
+Clifton, George "Bitter Creek" Newcomb,
+Richard "Little Dick" West, George "Red
+Buck" Waightman, and William "Little Bill"
+Raidler. Those on the side of the law rarely
+had public nicknames; the Earp brothers, the
+most famous lawmen of the Plains, did not.
+Two who straddled the fence between law and
+lawlessness, however, William Barclay "Bat"
+Masterson and James Butler "Wild Bill" Hickock,
+were best known by their nicknames.</p>
+
+<p>Since early Plains society to a degree was
+one of rough equality, it is not surprising that
+women used nicknames for the same purposes
+as men. Martha Canary was every bit as
+much a self-promoter as Buffalo Bill, and she
+found that calling herself "Calamity Jane" (ostensibly
+because she got mixed up in so much
+trouble) did the trick. As with the men, most
+of the nicknames of women in the Plains went
+to those who, if not exactly criminals, were at
+least on the fringes of proper society, especially
+the prostitutes and madams. Ella Watson,
+who earned her nickname "Cattle Kate"
+because she took cattle (often stolen) in payment
+for her services, and "Diamond Lil"
+Powers, the Denver madam, are two of the
+better-known.</p>
+
+<p>Much of the nicknaming in the Plains has
+disappeared, but it reminds us that nicknames
+are means of creating images and public personae,
+and their bearers wear them proudly,
+often flaunting society's norms in the process.</p>
+
+<closer>
+<signed>Edward Callary<lb/>
+Northern Illinois University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

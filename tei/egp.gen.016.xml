@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gendered Space</title>
+<title level="m" type="sub"></title>
+<author>Jeanne Kay Guelke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Guelke, Jeanne Kay">Jeanne Kay Guelke</author>. <title level="a">"Gendered Soace."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">330</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GENDERED SPACE</head>
+
+<p>Both gender and space in society are abstract
+concepts that reflect power relations, the gendered
+division of labor, and societal concepts
+of propriety. The boardrooms of banks symbolize
+and enclose more power than smalltown
+kitchens, for example, and each entails a
+sense of proper activities to be conducted
+within them. The former space is still more
+associated with men; the latter, with women.
+Because the Great Plains is so closely associated
+with spatial concepts like distance and
+"wide-open spaces," gendered space has much
+to do with how Great Plains residents and outsiders
+understand this region. Great Plains
+history and literature provide many examples.</p>
+
+<p>Deborah Fink's study of Nebraska farmwives
+from 1880 to 1940 shows that they were
+far more socially isolated and restricted in
+their mobility than were their husbands. Although
+both husband and wife could take the
+team and wagon to town, women initially
+found few spaces accessible to them beyond
+the general store, and even fewer spaces where
+mothers could bring small children. Male
+farmers, in contrast, would frequent various
+farm supply stores or chat with male friends in
+the saloon or livery stable&#8211;spaces no "respectable
+woman" would invade. Such experiences
+further discouraged rural women from traveling
+beyond their farms, thus limiting their opportunities
+for friendships with town dwellers
+who might have welcomed farm women's
+visits. The automobile, telephone, and emergence
+of women's groups (quilting circles, for
+example) diminished these barriers, essentially
+by reconfiguring space: the time-distance
+equation changed and new female spaces developed.
+Subsequently many farm women
+took jobs in town, such as teaching school, to
+supplement the family's agricultural income,
+and thus they became less isolated than husbands
+devoted to full-time farming.</p>
+
+<p>Despite many rural women's involvement
+in the heavy farmwork and men's involvement
+with domestic chores, farm space still
+seems gendered to many people: the fields,
+pastures, and barn are encoded as male space;
+thehouse and garden, as female. Thus, European
+emigrants who had longstanding traditions
+of women haying and harvesting in the
+fields faced prejudices from their native-born
+Anglo-American or Anglo-Canadian neighbors
+in the Great Plains, who found the immigrants'
+"foreign" division of space and labor
+improper.</p>
+
+<p>These social realities encouraged popular
+legends about the female Plains settler's maladaptation
+to its wide-open spaces and her
+preference for the settled East. Willa Cather in
+her short story "The Wagner Matinee" poignantly
+describes a former music teacher
+stranded on an isolated Nebraska farm. The
+bleakness of her surroundings contrasts with
+the rich cultural opportunities of Boston,
+where she weeps during a concert on one of
+her rare trips away from home. In Hamlin
+Garland's <hi rend="italic">Moccasin Ranch</hi>, homestead wife
+Blanche lives close enough to town to escape
+her Dakota claim shanty at every opportunity
+for trips to the post office or general store.
+When winter blizzards further isolate her,
+she nearly goes mad and elopes with the storekeeper.</p>
+
+<p>Recent research, however, demonstrates
+that nineteenth-century women's dread of
+isolation was by no means universal. Some
+single women homesteaders associated their
+remote situations with financial independence
+and with freedom from excessive social
+restrictions placed on eastern women. Female
+travelers from the eastern United States and
+Europe taking the transcontinental railroad
+across the Great Plains also sometimes observed
+the expansive landscape with enthusiasm
+and expressions of personal release.</p>
+
+<p>Masculine spatial legends equally abound.
+Most common is the Old West interpretation
+of the Plains as empty space to be transformed
+through settlers' ranching, plowing, fencing,
+railroading, and similar activities. European
+American men, accordingly, do not merely
+occupy space, they build it.</p>
+
+<p>Because the meanings of gendered space
+vary with specific societies, times, and places,
+how Great Plains residents exemplify them
+can rapidly change. Today, with more integrated
+boardrooms and kitchens, fewer gendersegregated
+spaces exist than in the past; however,
+the football field (or in Canada, the ice
+hockey rink) and male locker rooms, the altars
+of Catholic churches, and meeting rooms of
+businesswomen's associations are contemporary
+examples.</p>
+
+<closer>
+<signed>Jeanne Kay Guelke<lb/>
+University of Waterloo</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cather, Willa. "A Wagner Matinee." In <title level="m">The Troll Garden</title>.
+Lincoln: University of Nebraska Press, 1983: 94–101.</bibl> <bibl>Fink,
+Deborah. <title level="m">Agrarian Women: Wives and Mothers in Rural Nebraska, 1880–1940</title>. Chapel Hill: University of North
+Carolina Press, 1992.</bibl> <bibl>Garland, Hamlin. <title level="m">The Moccasin Ranch: A Story of Dakota</title>. New York: Harper and Brothers,
+1909.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

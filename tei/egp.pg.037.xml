@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kassebaum, Nancy (b. 1932)</title>
+<title level="m" type="sub"></title>
+<author>Allan J. Cigler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cigler, Allan J.">Allan J. Cigler</author>. <title level="a">"Kassebaum, Nancy (b. 1932)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">670-671</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KASSEBAUM, NANCY (b. 1932)</head>
+
+<p>Nancy Landon Kassebaum, daughter of the
+1936 Republican presidential nominee Alf
+Landon, was born in Topeka, Kansas, on July
+29, 1932. She was first elected to the U.S. Senate
+from Kansas in 1978 and served two additional
+terms before retiring in 1996. She had little
+experience in public office prior to her election,
+mainly having served only on the school
+board in the small town of Maize, Kansas, between
+1973 and 1975. She capitalized on her
+prominent family name to win the 1978 Republican
+primary and then won a relatively
+close race against a better-known Democratic
+opponent in the general election. She quickly
+became a popular figure in the state and won
+reelection in both 1984 and 1990 by a three-toone
+margin.</p>
+
+<p>Senator Kassebaum developed a reputation
+in the Senate as a conservative on domestic
+economic issues and a moderate on social issues.
+She was an aggressive advocate for devolution,
+the transferring of power from the
+government in Washington to the states. She
+deviated from many Senate Republicans by
+supporting international family planning
+abroad and pro-choice policies domestically,
+angering a number of Christian Right Republicans
+in her home state.</p>
+
+<p>With a master's degree in international relations
+from the University of Michigan (1956),
+Senator Kassebaum was an active member of
+the Senate Foreign Relations Committee. She
+was a staunch supporter of economic sanctions
+against South Africa during the Reagan
+years. She unsuccessfully challenged the Bush
+administration to cut off food credit guarantees
+to Iraq prior to the Gulf War, money that
+was later revealed to be used for that nation's
+military buildup.</p>
+
+<p>After her retirement from the U.S. Senate,
+Kassebaum married former Republican Senate
+minority leader Howard Baker. She currently
+resides in Tennessee and has been disengaged
+from Kansas politics since her retirement.</p>
+
+<closer>
+<signed>Allan J. Cigler<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

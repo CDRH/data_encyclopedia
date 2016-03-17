@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ghost Stories</title>
+<title level="m" type="sub"></title>
+<author>Duane Hutchinson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hutchinson, Duane">Duane Hutchinson</author>. <title level="a">"Ghost Stories."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">302</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GHOST STORIES</head>
+
+<p>Characteristic ghost stories of the Great Plains
+may now be found in collections from Alberta
+to Texas. This was not always so. People of the
+Great Plains have traditionally evinced a wry
+skepticism toward ghosts. Typical is Lisa Hefner,
+a collector of ghost stories from Kansas.
+When asked if she believed in ghosts, she responded
+that she believed in stories. In Nebraska
+an Omaha Indian expressed dislike for
+the word "ghost." He said Native Americans
+preferred to think of these encounters with
+the dead as grandparents returning to give advice.
+He said that many times his dead grandfather
+had returned to guide him to a better
+way. Nevertheless, everywhere in the Great
+Plains ghosts are used to explain unexplained
+sounds, sights, feelings, or movements.</p>
+
+<p>A willingness to believe in ghosts can be
+a disadvantage. For example, in a story called
+"The Phantom Piccolo Player," historian Everett
+Dick tells how one homesteader, haunted
+nightly by the same melody and, eventually,
+by gunshots, abandoned his homestead in Dakota
+Territory. When he returned years later
+he found the owner of his former claim whistling
+the same haunting tune. Soon he learned
+that his erstwhile haunter had been privy to
+information about where the railroad was
+to be built and had made a fortune on that
+knowledge.</p>
+
+<p>From collecting three volumes of ghost stories,
+mostly from Nebraska and Iowa, storyteller
+Duane Hutchinson identified several
+characteristics of Plains ghosts: they seem unable
+to think; they do not speak and, if approached,
+they vanish; most often, they seem
+to be carrying out some task that they repeat
+mindlessly, trapped in some habitual action;
+and in a few cases, they respond to shouts and
+commands to go away and leave the living
+alone. Furthermore, the costume the ghost
+wears appears and vanishes with the apparition,
+which raises the question: are overalls
+immortal?</p>
+
+<p>In the course of research that took three
+and a half years, Debra Munn interviewed 137
+people and scoured the records of historical
+societies for evidence of Wyoming ghosts. The
+ghost stories of Wyoming share attributes of
+ghost stories everywhere&#8211;mysterious footsteps,
+machines that malfunction, doors that
+open and close, and rocking chairs that rock
+with no one in them&#8211;but Wyoming ghost
+stories are also place-specific. There is Dolly
+Carson's haunted trailer (a common Wyoming
+house type) in Cody, where her dead
+husband and mother carry on the feud that
+defined their living relationship; there is the
+restaurant on the outskirts of Cheyenne where
+weary travelers once sought refuge in a Plains
+blizzard but could never find again; and there
+is Fort Laramie, with its layers of history, perhaps
+Wyoming's most haunted site. Of course,
+some ghosts are purely imaginary: the door at
+Fort Laramie that kept unlocking itself was
+only a case of a lock responding to Wyoming's
+temperature extremes.</p>
+
+<p>In his collection of "eerie true tales" from
+his native Oklahoma, David Farris documents
+numerous sightings of <hi rend="smallcaps">UFO</hi>s, overgrown fish,
+and strange beasts, as well as ghosts. Philanthropist
+Thomas Gilcrease is said to still (forty
+years after his death) walk the hallways of the
+Gilcrease Museum, and a phantom hitchhiker&#8211;
+a young boy&#8211;has been picked up on a
+lonely stretch of Highway 20, just east of Clarence,
+only to disappear mysteriously. Meanwhile,
+in Ghost Hollow, near Cushing, the old
+elm that once was a hanging tree glows luminously
+when there is a full moon.</p>
+
+<p>The farther south you go in the Plains, the
+more the ghost stories take on a Mexican flavor.
+This is evident from some of the titles
+in Docia Schultz Williams's collections from
+Texas: "The Ghost of San Pedro Playhouse,"
+"Jose Navarro's Haunted Homestead," and
+"Shadows of El Tropicana." The stories are
+filled with historical and cultural details and
+convey the essence of the Plains environment:
+old army posts molder into the earth; night
+breezes carry the fragrance of pi&#241;on and mesquite;
+and for those willing to believe, ghosts
+drift through the West Texas night.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ART</hi>: <ref n="egp.art.025">Gilcrease, Thomas</ref>.</p>
+
+<closer>
+<signed>Duane Hutchinson<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Farris, David A. <title level="m">Mysterious Oklahoma: Eerie True Tales from the Sooner State</title>. Edmond <hi rend="smallcaps">OK</hi>: Little Bruce, 1995.</bibl>
+<bibl>Hutchinson, Duane. <title level="m">A Storyteller's Ghost Stories</title>. Lincoln
+<hi rend="smallcaps">NE</hi>: Foundation Books, 1989, 1990, 1992.</bibl> <bibl>Munn, Debra D.
+<title level="m">Ghosts on the Range: Eerie True Tales of Wyoming</title>. Boulder
+<hi rend="smallcaps">CO</hi>: Pruett Publishing, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

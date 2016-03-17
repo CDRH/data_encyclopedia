@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kansas</title>
+<title level="m" type="sub"></title>
+<author>Allan J. Cigler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cigler, Allan J.">Allan J. Cigler</author>. <title level="a">"Kansas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">669-670</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KANSAS</head>
+
+<p>The nation's thirty-fourth state was admitted
+to the Union on January 29, 1861, after a brief
+but contentious history. Prior to the Louisiana
+Purchase in 1803, what is now Kansas was occupied
+by Native Americans, including the
+Kaws, Osages, and Wichitas. A number of Europeans,
+including Spanish explorer Francisco
+Vásquez de Coronado, had visited the area
+from 1541 on. Congress initially attached the
+northern portion of the Louisiana Purchase,
+to which Kansas was a part, to Indiana Territory.
+This area became part of Missouri Territory
+in 1812. After the Missouri Compromise
+of 1820, which provided for the admission of
+Missouri to the Union as a slave state, the area
+of Kansas was considered to be part of "Indian
+Country" and outside U.S. jurisdiction.</p>
+
+<p>The 1854 Kansas-Nebraska Act was the prelude
+for the American settlement of Kansas.
+The act superseded the Missouri Compromise,
+giving settlers the right to determine
+whether Kansas should be a free or slave territory.
+An influx of proslavery advocates from
+southern states and abolitionists from New
+England ensued, resulting in bloodshed. The
+fiery abolitionist John Brown was active in the
+territory, leading his followers in a massacre of
+proslavery Missouri settlers at Pottawatomie
+Creek in Franklin County on May 24, 1856.
+Later, in 1863, William Quantrill led his proslavery
+guerrilla forces in raiding and burning
+a number of Kansas farms and towns (including
+Lawrence) whose citizens opposed slavery.</p>
+
+<p>Proslavery Democrats controlled the first
+territorial government and dominated in the
+early years. But by October 1859, after numerous
+attempts to draft a constitution, a
+document reflecting the views of Republican
+free-state forces was approved by a margin of
+nearly two to one. Statehood was delayed by
+national partisan divisions, which led Democratic
+senators from the South to oppose the
+addition of a Republican state prior to the
+1860 presidential election. It was not until January
+21, 1861, after a number of southern senators
+had left Washington in anticipation of the
+secession of their states, that Kansas received
+the necessary votes for admission; the Kansas
+statehood bill was signed by President James
+Buchanan eight days later.</p>
+
+<p>Since the granting of statehood, Kansas has
+remained one of the most Republican of all
+states in national politics. The state's political
+culture has been characterized as "moralistic,"
+and Kansans played prominent leadership
+roles in a variety of movements such as populism,
+progressivism, and prohibition. Republican
+Dwight D. Eisenhower, from Abilene,
+served as the thirty-fourth president of the
+United States from 1953 to 1961. Two other
+Kansans have run (unsuccessfully) for president
+on the Republican ticket in this century:
+Gov. Alf Landon in 1936 and former U.S. Senate
+majority leader Bob Dole in 1996. Kansas's
+partisan tendencies survived even the powerful
+political forces that brought about the critical
+realignments of the 1890s and 1930s. While
+the agricultural depressions underlying the
+Populist Revolt and the New Deal enabled
+third parties and Democrats to gain occasional
+short-run advantage, there were few
+permanent voter shifts within the electorate,
+and the state in each instance quickly returned
+to its Republican predilections. Kansas rarely
+deviates from the Republican Party in its presidential
+voting, and it stands as the only state
+not to have elected at least one Democratic
+senator since the 1930s. Republicans hold a
+45 to 30 percent registration advantage over
+Democrats, with 25 percent of registrants
+choosing to be independents. In 1998 a Republican
+was governor (elected by a three-toone
+margin), Republicans had strong majorities
+in both houses of the Kansas legislature,
+and three of the state's four congressmen were
+Republican.</p>
+
+<p>The Republican dominance has always
+been a reflection of the state's socioeconomic
+population mix. Kansas has lacked the
+economic-cultural-racial diversity that often
+characterizes two-party competition in other
+states. Traditionally Democratic minority
+groups enjoy only a modest presence in the
+state. Of nearly 2.7 million residents in 2000,
+only 5.7 percent were African American, 7 percent
+Hispanic, 1.7 percent Asian, and less than
+1 percent Native American. Despite an estimated
+80,000 members of organized labor,
+most a.liated with the afl-cio, right-towork
+laws have impeded the development of a
+strong union movement that traditionally offers
+support to the Democratic Party.</p>
+
+<p>Kansas has an image as a rural, agricultural
+state, but urbanization has taken place at a
+rapid pace, particularly in the suburbs adjacent
+to Kansas City and near Wichita. The
+number of farms has dwindled while the average
+size has increased, and the proportion of
+rural residents in the state is now less than
+30 percent. While the rural-based agriculture
+and oil and gas industries still are important,
+wholesale and retail trade are now the largest
+components of the state's economy.</p>
+
+<p>Kansas politics in recent decades has been
+dominated by divisions within the Republican
+Party between its rural and suburban wings on
+such issues as the redistribution of aid from
+wealthy suburban school districts to the poorer
+rural school districts. In the late 1980s and the
+1990s, abortion policy led to major internal divisions
+in the Republican Party organization between
+Christian Right elements and social moderates.
+Republican factionalism has enabled
+conservative Democrats to win the governorship
+on a number of occasions.</p>
+
+<closer>
+<signed>Allan J. Cigler<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cigler, Allan J., and Burdette A. Loomis. "Kansas: Two-
+Party Competition in a One-Party State." In <title level="m">Party Realignment
+and State Politics</title>, edited by Maureen Moakley. Columbus:
+Ohio State University Press, 1992: 163–78.</bibl> <bibl>Drury,
+James W. <title level="m">The Government of Kansas</title>. Topeka: University
+of Kansas, Capitol Complex Center, 1997.</bibl> <bibl>Frederickson,
+H. George, ed. <title level="m">Public Policy and the Two States of Kansas</title>.
+Lawrence: University Press of Kansas, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

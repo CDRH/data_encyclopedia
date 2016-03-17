@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Distance Education</title>
+<title level="m" type="sub"></title>
+<author>James E. Sherwood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sherwood, James E.">James E. Sherwood</author>. <title level="a">"Distance Education."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">201</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DISTANCE EDUCATION</head>
+
+<p>Distance education is characterized by a physical
+separation between learner and teacher
+or learner and institution. The Great Plains
+proved to be an ideal setting for the development
+of distance education programs owing
+to its large area and small population.</p>
+
+<p>The earliest form of distance education in
+the Great Plains was that of faculty members
+from land-grant institutions traveling around
+their states by horse or rail to offer instruction
+to residents. In the 1890s correspondence education
+programs, first pioneered by a private
+institution, the University of Chicago, began
+developing at major state universities in the
+Midwest. By World War I correspondence was
+the dominant form of distance education in
+the Great Plains.</p>
+
+<p>Practitioners of distance education took advantage
+of new technologies as they emerged:
+radio in the 1920s, television in the 1950s, satellite
+delivery in the 1980s, and computerbased
+instruction in the 1990s. As each delivery
+technology emerged, it was incorporated
+into the overall strategy of distance education.
+Rather than succeeding generations of
+technology replacing prior technologies, new
+technologies added to the delivery arsenal
+available to practitioners.</p>
+
+<p>Although the first distance education efforts
+were aimed at the postsecondary marketplace,
+lifelong learning was always an important
+concern. Noncredit courses covering
+everything from the arts, to horticulture, to
+various trades and skills were offered, regardless
+of the decade or the technology. In the
+1990s one of the greatest areas of growth, in
+terms of both programs and users, was in the
+elementary and secondary education arena.</p>
+
+<closer>
+<signed>James E. Sherwood<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

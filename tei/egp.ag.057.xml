@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Saskatchewan Wheat Pool</title>
+<title level="m" type="sub"></title>
+<author>Brett Fairbairn</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fairbairn, Brett">Brett Fairbairn</author>. <title level="a">"Saskatchewan Wheat Pool."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">50</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SASKATCHEWAN WHEAT POOL</head>
+
+<p>Created in 1924, the Saskatchewan Wheat Pool
+has for decades been Canada's largest agricultural
+enterprise. The company is democratically
+controlled by Saskatchewan farmers. The
+history of the Saskatchewan Wheat Pool can
+be divided into four phases. First was the
+founding era of 1924–31, when the cooperative
+bought and marketed to overseas customers a
+large proportion of the Prairie wheat crop.
+The Depression and the 1940s were a period
+of readjustment, during which the company
+largely surrendered its original role as a marketer
+of grain to the Canadian Wheat Board,
+an organization whose history is intertwined
+with that of the pool. The war was followed by
+a long period of dominance and growth as a
+grain handler, marketer of livestock and specialty
+crops, and general-interest farm organization.
+A new phase in the company's history
+began in 1996 when most of its stock was converted
+to publicly traded shares.</p>
+
+<p>Activist farmers who were upset with existing
+grain companies and cooperatives organized
+the pool in 1923-24. Most farm organizations
+at the time favored a government-run
+wheat board to market their crops, but they
+turned to cooperative action when governments
+were unresponsive. A faction invited
+Aaron Sapiro, a California-based lawyer and
+advocate of pooling, to visit the Prairies in
+1923. Sapiro's speeches and ideas proved to
+be the catalyst for the organization of three
+wheat pools in Alberta, Manitoba, and Saskatchewan.
+The 1923 pooling drive in Saskatchewan
+failed, perhaps due to lukewarm
+support from provincial leaders and to the formidable
+contracts that required farmers to
+pledge all their wheat for a five-year period to
+the pool and which were void unless 50 percent
+of acreage was signed up. The second
+drive in 1924 was a mass effort of community
+mobilization: 45,725 farmers pledged their
+6,433,779 acres of wheat, meeting the target
+and bringing the pool into existence. From
+1924 to 1931, the pool worked with its sister organizations
+in Alberta and Manitoba through
+the Central Selling Agency to market a majority
+of the Prairie wheat crop, wherever possible
+directly to overseas customers, and to build or
+purchase networks of storage elevators.</p>
+
+<p>The stock market crash of 1929 caught the
+pools overextended, as grain prices fell below
+the level already advanced to farmers; the
+pools made matters worse by buying more
+grain in an attempt to influence prices. In 1931
+the Canadian government intervened to provide
+financial guarantees for the pools and
+took over the sale of their inventories. Government
+involvement eventually culminated in
+the creation of the modern Canadian Wheat
+Board—ironically, what farmers had wanted
+in the first place. The pool, meanwhile, was
+converted from a world grain trader to a
+heavily indebted Saskatchewan elevator company.
+The pool's response not only preserved
+the cooperative, but it cemented its place as the
+province's most important agricultural institution.
+While repaying its debts, the pool became
+a crucial agent of adult education. Pool
+field staff gave talks, showed films, and helped
+set up consumer cooperatives and credit
+unions in small towns across Saskatchewan.</p>
+
+<p>From the 1940s to the 1980s, the pool extended
+its elevator network (handling up
+to two-thirds of the annual grain crop),
+branched out into new or expanded lines of
+business such as livestock marketing and farm
+supply, and consolidated its position as the
+spokesperson for Saskatchewan farmers. The
+pool's model system of member education
+and delegate democracy was studied by cooperatives
+around the world; pool annual meetings
+were a kind of farmers parliament where
+important issues of provincial, federal, and international
+policy were debated. Since the
+pool was both Saskatchewan's largest business
+corporation and a farm interest group with
+60,000 members, it developed considerable
+influence in provincial politics. Its weekly
+newspaper, the <title level="j">Western Producer</title>, remains the
+most important farm paper in Canada.</p>
+
+<p>The cooperative could not, however, escape
+the dominant agricultural trends. Low farm
+incomes created pressure to operate on low
+margins; rural depopulation left the pool with
+fewer and aging members. Pool managers and
+leaders became concerned in the late 1980s
+with the cooperative's debt burden, resulting
+from an aging membership entitled upon retirement
+to share payouts. At the same time,
+they saw a need for investment and expansion
+to meet the challenges of transnational
+competitors and new agricultural markets.
+As a result, the cooperative, with the approval
+of farmer delegates, transformed its
+ownership structure in 1996. Voting shares&#8211;
+class A shares&#8211;were retained only by farmermembers,
+but virtually the entire capitalization
+of the company was converted into
+nonvoting class B shares that were tradable on
+the Toronto Stock Exchange. The pool remained
+farmer-controlled, but its owners
+were now a noncongruent body of investors.
+Along with the share conversion, the pool undertook
+an ambitious program to consolidate
+its handling facilities in a smaller number of
+larger and more modern elevators, to invest in
+value-added processing subsidiaries and joint
+ventures, and to expand outside Saskatchewan
+and outside Canada.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: 
+<hi rend="italic"><ref n="egp.med.048">Western Producer</ref></hi>.</p>
+
+<closer>
+<signed>Brett Fairbairn<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fairbairn, Garry. <title level="m">From Prairie Roots: The Remarkable Story of Saskatchewan Wheat Pool</title>. Saskatoon: Western
+Producer Prairie Books, 1984.</bibl> <bibl>Fowke, V. C. <title level="m">The National Policy and the Wheat Economy</title>. Toronto: University of
+Toronto Press, 1957.</bibl> <bibl>MacPherson, Ian. "Missionaries of
+Rural Development: The Fieldmen of the Saskatchewan
+Wheat Pool, 1925–1965." <title level="j">Agricultural History</title> 60 (1986):
+73–96.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

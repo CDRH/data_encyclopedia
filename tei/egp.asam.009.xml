@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver Buddhist Temple</title>
+<title level="m" type="sub"></title>
+<author>Judith Simmer-Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Simmer-Brown, Judith">Judith Simmer-Brown</author>. <title level="a">"Denver Buddhist Temple."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">142</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DENVER BUDDHIST TEMPLE</head>
+
+<p>The Denver Buddhist Temple was established
+by a branch of the Jodo Shinshu, one of Buddhism's
+largest sects in Japan, founded by
+Shinran Shonin in the thirteenth century.
+Economic conditions in Japan in the nineteenth
+century drove many Japanese immigrants
+to North America seeking employment
+in farming, mining, and railroad construction.
+Records indicate the first Japanese settlers
+in Colorado arrived before 1886; a Japanese
+cultural society was founded in Denver
+about 1904.</p>
+
+<p>Shin Buddhism followed the settlers to Colorado,
+and on March 13, 1916, Rev. Tessho
+Ono, a graduate of Kyoto Imperial University,
+inaugurated a church attended by 250
+Japanese immigrants. The Denver Buddhist
+Church served also as community center for
+many lonely Japanese. Eventually, membership
+spanned the region, including Colorado,
+Nebraska, Wyoming, New Mexico, Montana,
+and Texas. The early ministers of the Denver
+Buddhist Church traveled widely, visiting parishioners,
+comforting the sick, and performing
+memorial services for the dead. From
+the beginning, the church organized cultural
+events that supported traditional values while
+Japanese assimilated into American culture.
+Youth groups such as the Young Buddhist Association
+(eventually the <hi rend="smallcaps">YMBA</hi> and <hi rend="smallcaps">YWBA</hi>)
+and Sunday schools sponsored oratorical contests,
+ballroom dancing, beauty pageants, and
+a night school. Eventually, a Sunday school
+curriculum was supplied by the Buddhist
+Churches of America, headquartered in California,
+guiding immigrant parents in the religious
+education of their children. By 1934,
+under the leadership of Rev. Yoshitaka Tamai,
+there were fourteen branch temples within a
+600-mile radius of Denver, and 300 families
+were listed as members.</p>
+
+<p>World War II and its anti-Japanese sentiment
+were difficult for the Colorado Japanese
+community. Travel was restricted and finances
+were threatened, but most avoided the internment
+imposed on their West Coast compatriots.
+In 1944 a church delegation sought
+an additional English-speaking minister and
+brought to Colorado Rev. Noboru Tsunoda, a
+second-generation Japanese who had been interned
+in a camp. After the war, as many as
+20,000 Japanese moved into the state to work
+on farms. Church membership soared. At the
+same time, European Americans took an interest
+in Buddhism and in Japanese culture,
+and myriad groups from Christian churches,
+civic organizations, and schools visited the
+church, resulting in an increase in non-Japanese
+membership.</p>
+
+<p>Determined to realize its dream of building,
+the community raised $150,000 to purchase
+land in downtown Denver. In 1949 they dedicated
+their new church and created a regional
+organization called the Tri-State Buddhist
+Church. Over the next fifteen years the Denver
+church added offices, Sunday school rooms, a
+residence for ministers, an auditorium, and a
+high-rise apartment building, Tamai Towers,
+for subsidized housing. Eventually, commercial
+establishments rented space, creating Sakura
+Square, a Japanese cultural presence in
+downtown Denver.</p>
+
+<p>In a pattern consistent with national Shin
+Buddhist trends, membership in the Denver
+church has declined since the 1950s. In
+1977 the Denver Buddhist Church became the
+Denver Buddhist Temple. In 2001 the Denver
+temple had an official membership of 454
+and had informal affiliated communities in
+Wyoming, Nebraska, New Mexico, Texas, and
+Oklahoma; two Denver ministers serve nine
+affiliated temples with a total of 214 members
+and visit distant communities annually.</p>
+
+<closer>
+<signed>Judith Simmer-Brown<lb/>
+Naropa University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bloom, Alfred. "Shin Buddhism in America: A Social Perspective."
+In <title level="j">The Faces of American Buddhism</title>, edited by
+Charles S. Prebish and Kenneth K. Tanaka. Berkeley: University
+of California Press, 1998: 31–48.</bibl> <bibl>Watada, Matajiro,
+ed. <title level="j">A History of Fifty Years of the Tri-State Buddhist Church, 1916–1966</title>. Denver: Tri-State Buddhist Church,
+1968.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

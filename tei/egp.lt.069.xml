@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.lt.069 SYSTEM "egp.lt.069.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.069">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roy, Gabrielle (1909-1983)</title>
+<title level="m" type="sub"></title>
+<author>Bill Clemente</author>
+<author>Linda Clemente</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.069</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Clemente, Bill">Bill Clemente</author> and <author n="Clemente, Linda">Linda Clemente</author>. <title level="a">"Roy, Gabrielle (1909-1983)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">492</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROY, GABRIELLE (1909-1983)</head>
+
+<figure n="egp.lt.069" rend="granted">
+<figDesc>Gabrielle Roy</figDesc>
+</figure>
+
+<p>Born in St. Boniface, Manitoba, on March 22,
+1909, Gabrielle Roy entered the world on
+the threshold of the Great Plains, whose
+skies, towns, fields, and people she eventually
+painted with loving strokes in articles, stories,
+and novels.</p>
+
+<p>Roy graduated with honors from high
+school and received her teaching certificate in
+1929. In 1937, unfulfilled by her teaching career
+in Manitoba, she traveled to Europe, ostensibly
+to study acting. Returning to Canada on the
+eve of World War II, Roy settled in Montreal,
+where from 1939 to 1945 she enjoyed considerable
+success as a journalist, publishing more
+than 100 articles and short stories. This apprenticeship
+honed her craft and allowed her
+to travel throughout Canada, meeting the people
+who would eventually populate her fiction.</p>
+
+<p>In 1945 the publication of her first novel,
+<title level="m">Bonheur d'occasion</title>, brought her immediate
+renown. Easily Roy's best-known work, this
+award-winning exposé of the poor, Frenchspeaking
+population of Montreal gave new direction
+to the French Canadian novel.</p>
+
+<p>The majority of Roy's writing individualizes
+the ethnic groups who settled in Canada's
+Great Plains, documenting the land and the
+human struggles there through the screen of
+personal experience and recollection. Whether
+a Franco-Manitoban family, a dying and careworn
+Ukrainian woman, or immigrant children,
+Roy's characters give voice to heretofore
+silent populations in works such as <title level="m">La Route d'Altamont</title> (1966) and <title level="m">Ces enfants de ma vie</title>
+(1977).</p>
+
+<p>The recipient of three Governor General's
+Literary Awards for fiction and numerous
+other honors, Roy died in Quebec City on July
+13, 1983. Gabrielle Roy's writings depict the
+lives of the poor, the dispossessed, and the
+lonely and transform them into sublime
+truths about the human condition.</p>
+
+<closer>
+<signed>Bill Clemente<lb/>
+Peru State College<lb/>
+Linda Clemente<lb/>
+Ripon College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clemente, Linda, and William Clemente. <title level="m">Gabrielle Roy: Creation and Memory</title>. Toronto: <hi rend="smallcaps">ECW</hi> Press, 1997.</bibl> <bibl>Ricard,
+Fran&#231;ois. <title level="m">Gabrielle Roy: Une vie</title>. Montreal: Boreal, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

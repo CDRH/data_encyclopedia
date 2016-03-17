@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">lang, k. d. (b. 1962)</title>
+<title level="m" type="sub"></title>
+<author>Wesley Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Wesley">Wesley Berg</author>. <title level="a">"lang, k.d. (b. 1962)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">542</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">lang, k.d. (b. 1962)</head>
+<figure n="egp.mus.027" rend="granted">
+<figDesc>Musician k. d. lang</figDesc>
+</figure>
+
+<p>Singer and songwriter k. d. lang was born
+Kathryn Dawn Lang on November 2, 1962, in
+Edmonton, Alberta. Raised in the small town
+of Consort, she studied music for a year after
+high school and began performing professionally
+in Edmonton in 1981. Her recording career
+began with <title>A Truly Western Experience</title> in 1984
+with her band, the Reclines. Claiming Patsy
+Cline as an alter ego, she cultivated an unconventional,
+occasionally frenetic, and irreverent
+stage presence during this period in her career.
+In 1984 she made her U.S. debut and began to
+tour internationally. Signed to Sire Records,
+she released <title>Angel with a Lariat</title> and <title>Shadowland</title>
+in 1987. "Crying," her duet with Roy Orbison,
+won her a Grammy in 1988 for best
+country music collaboration. Absolute Torch and Twang, released in 1989, sold 100,000
+copies in Canada and 500,000 in the United
+States and earned her a Grammy in 1990 for
+best female country vocalist. In Canada she
+won three Juno Awards from 1987 to 1990.</p>
+
+<p>Although clearly in the mainstream of country
+music, as demonstrated by the Grammys,
+Grammy nominations, and awards from the
+Canadian Country Music Association, lang
+has suggested that her music, along with that
+of many other Canadian country musicians,
+differs in subtle ways from the homogeneous
+Nashville product because of the ethnic influences&#8211;
+Irish, Scottish, Ukrainian&#8211;found on
+the Canadian Prairies. Three albums appeared
+in the 1990s: <title>Ingenue</title> (1992), <title>All You Can Eat</title>
+(1995), and <title>Drag</title> (1997). They represent a significant
+change in lang's musical style, described
+by one writer as country-punk turned
+pop-torch chanteuse. Unifying and to some
+extent determining the nature of the change
+has been her instrument, her voice: rich, flexible,
+and superbly controlled.</p>
+
+<closer>
+<signed>Wesley Berg<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Miller, Mark. "k. d. lang." In <title level="m">Encyclopedia of Music in Canada</title>, 2nd ed., edited by Helmut Kallman et al. Toronto:
+University of Toronto Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

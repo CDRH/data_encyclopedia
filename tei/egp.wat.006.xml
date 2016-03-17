@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Colorado Doctrine</title>
+<title level="m" type="sub"></title>
+<author>Theron Josephson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Josephson, Theron">Theron Josephson</author>. <title level="a">"Colorado Doctrine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">851</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COLORADO DOCTRINE</head>
+
+<p>The Colorado Doctrine set the standards under
+which a jurisdiction accepts appropriation
+water law as the fundamental and exclusive
+water law. The Colorado Doctrine is also
+known as the doctrine of pure appropriation.
+It contrasts with systems under which appropriative
+law coexists with other types of water
+law.</p>
+
+<p>The doctrine was developed in the late
+nineteenth century and is named for the state
+in which it originated. Colorado had adopted
+appropriation law in its constitution upon
+statehood (1876), declaring that rivers in the
+state belonged not to the federal government
+but to Coloradans, who could appropriate
+them. Still, questions remained as to the application
+of common law riparian rights in
+conjunction with appropriation rights. Up
+until that time most decisions regarding appropriation
+law mirrored those in California,
+where appropriation originated. However, at
+the time of Colorado statehood California's
+water law system had evolved to also recognize
+common law riparian rights, appropriative
+water rights, and Spanish pueblo rights.</p>
+
+<p>In 1882 the Colorado Supreme Court settled
+Colorado's water law issue in the case of <title>Coffin
+v. Left Hand Ditch Company</title>, a water dispute
+between agricultural interests in northeastern
+Colorado. The court found that the water user
+who had established the first use of the water
+had the superior right to continue his or her
+use despite a riparian claim by an opposing
+party. The court concluded that riparian law
+did not exist in Colorado and established the
+appropriation doctrine as the exclusive water
+law of the state. Later, among Plains states,
+Wyoming (1896), New Mexico (1900), and
+Montana (1921) adopted the Colorado model.</p>
+
+<closer>
+<signed>Theron Josephson<lb/>
+Ferris State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dunbar, Robert G. <title level="m">Forging New Rights in Western Water</title>.
+Lincoln: University of Nebraska Press, 1983.</bibl> <bibl>Hutchins, W.
+A. <title level="m">Water Rights in the Nineteen Western States</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1974.</bibl> <bibl>Trelease, Frank
+J., and George A. Gould. <title level="m">Cases and Materials on Water
+Law</title>, 4th ed. St. Paul <hi rend="smallcaps">MN</hi>: West Publishing Company, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

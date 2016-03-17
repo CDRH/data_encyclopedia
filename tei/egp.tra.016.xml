@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Holladay, Ben (1820-1887)</title>
+<title level="m" type="sub"></title>
+<author>Derrick S. Ward</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ward, Derrick S.">Derrick S. Ward</author>. <title level="a">"Holladay, Ben (1820-1887)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">803</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOLLADAY, BEN (1820-1887)</head>
+
+<p>A giant in the history of transportation in the
+United States, Ben Holladay was born into a
+poor Kentucky family in 1820. In 1836 he moved
+to St. Louis, Missouri, where he gained practical
+business experience working as a store clerk,
+liquor salesman, and tavern keeper. Holladay
+became seriously involved in the transportation
+business during the Mexican War in 1846, when
+he contracted with Gen. Stephen W. Kearny to
+supply wagons and provisions to the U.S. Army.
+After the war, he formed a partnership with
+Theodore W. Warner for transporting supplies
+to Salt Lake City, where they were sold to westbound
+emigrants. Holladay prospered greatly
+through his trade with Brigham Young and the
+Mormons.</p>
+
+<p>Following the 1857 Mormon War, Holladay
+capitalized on the Pikes Peak gold rush by associating
+with the staging firm of Russell, Majors
+and Waddell. The disruption of the Butterfield
+Overland Mail during the Civil War
+provided another business opportunity. In
+March 1862 he gained control of the Central
+Overland California and Pikes Peak Express
+Company and its 1,200 miles of stage lines.
+Holladay improved and expanded the company,
+increasing the number of stations, obtaining
+a fleet of new Concord stages, and updating
+the numerous routes. He also secured
+government mail contracts amounting to
+$650,000 annually. By 1866 the Holladay Overland
+Mail and Express Company extended
+from Atchison to Denver and Salt Lake City.
+Nonetheless, Holladay, tired of increasing
+conflicts with Native Americans and aware
+that rail transport would soon supplant his
+stage lines, sold out to Wells, Fargo and Company
+on November 1, 1866, for $1.5 million
+cash, $300,000 worth of Wells, Fargo and
+Company stock, and numerous other perks.</p>
+
+<p>Ben Holladay played a major role in opening
+up the Great Plains and the West to trade and
+settlement. While remembered primarily for
+his success in staging, Holladay held interests
+in steamships bound for Asia, river-bound
+stern-wheelers, and numerous western railroads.
+He also helped establish the Pony Express.
+Ben Holladay, the flamboyant Stagecoach
+King, died in Portland, Oregon, on July
+8, 1887.</p>
+
+<closer>
+<signed>Derrick S. Ward<lb/>
+Ventura, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frederick, James V. <title level="m">Ben Holladay, the Stagecoach King: A
+Chapter in the Development of Transcontinental Transportation</title>.
+Glendale <hi rend="smallcaps">CA</hi>: Arthur H. Clark, 1940.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

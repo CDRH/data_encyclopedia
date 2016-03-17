@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.022 SYSTEM "egp.afam.022.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hughes, Langston (1902-1967)</title>
+<title level="m" type="sub"></title>
+<author>Tony Collins</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schomburg, Connie R.">Connie R. Schomburg</author>. <title level="a">"Langston Hughes (1902-1967)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">16</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HUGHES, LANGSTON (1902-1967)</head>
+
+<figure n="egp.afam.022" rend="granted">
+<figDesc>Langston Hughes</figDesc>
+</figure>
+
+<p>Born in Joplin, Missouri, on February 1,
+1902, Langston Hughes was raised primarily in
+Lawrence, Kansas, by his part-Indian maternal
+grandmother, who instilled in him a love
+of stories and of his people, and who often
+covered him at night with the bullet-torn
+cape of her first husband, who died in John
+Brown's raid at Harper's Ferry. A world traveler,
+Hughes was a key figure in the Harlem
+Renaissance of the 1920s&#8211;and one of the few
+to continue to actively publish and lecture after
+that movement ended&#8211;and is considered
+a major modern American writer.</p>
+
+<p>Versatile and prolific, Hughes forged and
+maintained an international reputation for
+nearly half a century. A poet, novelist, playwright,
+essayist, short-story writer, autobiographer,
+columnist, editor, translator, and author
+of children's books, Hughes published
+more than fifty volumes of prose and poetry
+during his lifetime, beginning at age nineteen
+with the often-anthologized poem "The Negro
+Speaks of Rivers" (1921).</p>
+
+<p>Distinguished by his innovative adaptations
+of jazz and blues musical forms in his poetry&#8211;
+and by his love for the common black folk who
+are its subject&#8211;Hughes is also well known for
+his fictional creation Jesse B. Semple, or Simple.
+Through this endearing "everyman" figure,
+Hughes explored seriously, yet with characteristic
+humor, some of the most important
+questions of his day.</p>
+
+<p>Although sometimes criticized for his art,
+which in his early years was denounced by
+some critics for its portrayal of "unsophisticated"
+lower-class black urban life, and later
+for his politics, which are considered by many
+to be naive, Hughes encouraged a number of
+younger African American writers, including
+Alice Walker, and continues to hold a prominent
+place in American literature. He died in
+New York City on May 22, 1967.</p>
+
+
+<closer>
+<signed>Connie R. Schomburg<lb/>
+Midland Lutheran College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rampersad, Arnold, ed. <title level="m">The Collected Poems of Langston
+Hughes</title>. New York: Alfred A. Knopf, 1994.</bibl> <bibl>Rampersad,
+Arnold. <title level="m">The Life of Langston Hughes</title>. 2 vols. New York:
+Oxford University Press, 1986, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">War Chiefs</title>
+<title level="m" type="sub"></title>
+<author>James O. Gump</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gump, James O.">James O. Gump</author>. <title level="a">"War Chiefs."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">839</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WAR CHIEFS</head>
+
+<p>Since superior performance in warfare constituted
+a principal measure of leadership potential,
+many Native American societies of the
+Great Plains during the preconquest era embraced
+the concept of a war chief (e.g., <hi rend="italic">toyopki</hi>
+to the Kiowas; <hi rend="italic">blotahunka</hi> among the Oglala
+Sioux) and constructed a cultural order that
+reinforced a military tradition. For instance,
+male warriors belonging to Plains tribes such
+as the Arapahos, Blackfoot, Cheyennes, Comanches,
+Crows, Kiowas, and Lakotas elevated
+their status by winning battle distinctions.
+As honors accrued, men embellished
+brave deeds through public recitations and
+symbolic ornamentation. Assiniboine males
+acquired eagle feathers for each martial exploit;
+Blackfoot warriors accumulated white
+weasel skins; and successful Crow soldiers attached
+wolf tails to the heels of their moccasins.
+Such recognition did not require the
+killing of an enemy or the taking of a scalp. In
+fact, in many Plains societies the practice of
+counting coup, or touching an enemy with
+one's hand or a special stick, outranked killing
+as a heroic deed. A Blackfoot warrior, for example,
+always dwelt on the number of horses
+and guns he captured, not on the quantity of
+enemies extinguished. One of the principal
+avenues for achieving exalted warrior status
+was a.liation with a military society. Sporting
+names such as the Dog Soldiers, Fox Soldiers,
+and Kit Foxes, war societies extended membership
+only to the most promising young
+men of the band.</p>
+
+<p>Most Indigenous societies of the Great
+Plains practiced some form of hereditary
+chieftainship and recognized a head chief. In
+theory, the head chief presided over a council
+composed of war chiefs, headmen, warriors,
+and holy men. In practice, however, charismatic,
+self-made war-party leaders often exercised
+the most significant authority, especially
+in times of crisis. The career of the Oglala
+Lakota leader Red Cloud is illustrative. Red
+Cloud became a war chief of an Oglala band in
+the early 1840s. His power and prestige increased
+over the next two decades as a result of
+military successes against the Crows, Pawnees,
+and Shoshones, as well as his strategic intervention
+against whites along the Bozeman
+Trail. By the late 1860s the American government
+regarded Red Cloud, who still retained
+only war chief status among the Oglalas, as the
+principal Lakota chief. American officials
+sought Red Cloud's influence in negotiating a
+peaceful resolution to the warfare raging in the
+Northern Plains at the time.</p>
+
+<p>Conflict among the Plains tribes, regardless
+of warfare's exalted status, was not a "natural"
+condition or simply the result of the "aggressive
+instincts" of male warriors. Instead, wars
+took place primarily in light of pragmatic
+considerations&#8211;acquiring horses, expanding
+trade, capturing hunting grounds, or defending
+compatriots from the incursions of the
+U.S. military. In addition, the dynamics of
+Plains Indian warfare changed over time in
+relation to the shifting cultural landscape. For
+example, the acquisition of horses from the
+Spanish Southwest during the seventeenth and
+eighteenth centuries accelerated the nomadic
+lifestyle of bison hunters like the Kiowas, Cheyennes,
+and Lakotas, thereby intensifying the
+competition for buffalo hunting grounds. In
+conjunction with the horse, the procurement of
+guns from French, British, and American traders
+between the seventeenth and nineteenth
+centuries contributed to various military imbalances
+in the Great Plains, to the benefit of
+groups such as the Blackfoot, Comanches, and
+Lakotas. During the late eighteenth and early
+nineteenth centuries, the spread of disease
+pathogens exacerbated these imbalances. Horticultural
+peoples like the Arikaras, Mandans,
+and Hidatsas suffered grievously from smallpox
+epidemics. On the other hand, migratory hunters
+like the Lakotas escaped the wholesale ravages
+of disease, enjoyed unprecedented population
+growth in the early 1800s, and used their
+demographic advantage to dominate much of
+the Central and Northern Plains by the mid.
+nineteenth century.</p>
+
+<p>By the 1850s, however, the onrush of white
+competitors into the trans-Missouri West
+posed new military challenges for Native
+Americans and forced innovative responses.
+The mounting threat gave rise to alliances
+among various Plains groups, formed to protect
+resources as well as one another from the
+white invasion. In the Northern Plains, the
+Lakotas, Arapahos, and Cheyennes joined
+forces; to the south, the Comanches and Kiowas
+built alliances with the Cheyennes and
+Arapahos. Emphasis on military accomplishment
+within tribes assumed even greater significance
+in the nineteenth century, when
+white intrusion made martial readiness a prerequisite
+to a group's survival. Consequently,
+the closing frontier era produced some of the
+most notable war chiefs, including Quanah
+Parker (Comanche), Satank (Kiowa), and
+Crazy Horse (Oglala Lakota).</p>
+
+<closer>
+<signed>James O. Gump<lb/>
+University of San Diego</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mishkin, Bernard. <title level="m">Rank and Warfare among the Plains
+Indians</title>. Lincoln: University of Nebraska Press, 1992.</bibl>
+<bibl>Secoy, Frank Raymond. <title level="m">Changing Military Patterns of the
+Great Plains Indians</title>. Lincoln: University of Nebraska
+Press, 1992.</bibl> <bibl>Utley, Robert M. <title level="m">The Indian Frontier of the
+American West, 1846–1890</title>. Albuquerque: University of
+New Mexico Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

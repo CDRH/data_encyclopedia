@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.077">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Vanderhaeghe, Guy (b. 1951)</title>
+<title level="m" type="sub"></title>
+<author>John Hugh Lent</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.077</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lent, John Hugh">John Hugh Lent</author>. <title level="a">"Vanderhaeghe, Guy (b. 1951)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">495</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VANDERHAEGHE, GUY (b. 1951)</head>
+
+<p>The publication and reception of Guy Vanderhaeghe's
+<title level="m">Man Descending</title> in 1982 indicated the
+arrival of a powerful new voice in both western
+Canadian literature and Canadian fiction
+in general. Over time, the strength of his narratives
+and his vision of lives enduring and
+surviving have been recognized with two Governor
+General's Literary Awards, the City of
+Toronto Award, and, in England, the Geoffrey
+Faber Memorial Prize for fiction as well as
+other honors. Vanderhaeghe was born in Esterhazy,
+Saskatchewan, on April 5, 1951. He
+was educated at the Universities of Saskatchewan
+and Regina and lives in Saskatoon.</p>
+
+<p>Vanderhaeghe's voice comes out of the traditions
+and influences of previous writers from
+the West&#8211;Wallace Stegner, Sinclair Ross, Martha
+Ostenso, W. O. Mitchell, and Margaret
+Laurence. Like those writers, Vanderhaeghe's
+"naming" of the Prairies is a significant contribution
+and, at the least, one of his starting
+points. In an early interview with David Carpenter
+in 1982, Vanderhaeghe said that his response
+to reading Robert Kroetsch's <title level="m">The Studhorse Man</title> was precisely in this act of naming:
+"Even though it was such a mythic book it had
+a tremendous amount of authenticity for me.
+. . . I said to myself, even before I had decided to
+write, this part of the world can be written
+about." His vision of the Prairie landscape is
+painted deeply as a strong wash beneath the
+struggles and images of his characters, especially
+in <title level="m">Homesick</title> (1990) and <title level="m">The Englishman's Boy</title> (1996). Though he has hauled the urban landscapes of the <title level="m">Canadian Prairie</title> into the foreground of his work more than some previous writers, particularly in <title level="m">My Present Age</title> (1984), it is still true that, as an artist, he has helped celebrate the lyrical beauty and mythical
+harshness of the Prairie landscape and universalized
+it in his imagery.</p>
+
+<p>Vanderhaeghe's voice also surfaces within a
+renaissance of new voices in western fiction:
+Robert Kroetsch, Rudy Wiebe, David Aranason,
+Carol Shields, Kristjana Gunnars, Aritha
+Van Herk, Edna Alford, Sandra Birdsell, and
+Jack Hodgins. From the early short stories
+through to the large designs of the novels, the
+tension between modernist and postmodernist&#8211;
+the positioning between past and present
+influences&#8211;is always present. Like Alice Munro,
+Vanderhaeghe has pushed realist narrative
+in a postmodern direction, out into looser,
+more chaotic forms, while, unlike Munro, he
+has insisted upon an almost modernist leanness
+in the images he sets up to control his
+vision of contemporary life. The latest evidence
+of this tension is the pull, in <title level="m">The Englishman's Boy</title>, between the postmodern, spatial
+effects of its narrative as it weaves itself back
+and forth between historical foregrounds and
+backgrounds and the tight, modernist design
+of its vision as it echoes Pound, Fitzgerald, and
+Faulkner in its attempt to superimpose images
+upon history, force the contradictions and
+paradoxes of history into stylized resolutions
+or representations of those things.</p>
+
+<p>This struggle in Vanderhaeghe's narratives
+is between where he wants to take the traditions
+of social and psychological realism in his
+forms and how he tries to organize the play
+between existence and history in his content.
+It accounts for a dichotomy in his texts between
+an ever-loosening abandonment of linearity
+and closure in form, reminiscent of
+Kroetsch and Shields, and an almost mannered,
+throwback design in content, reminiscent
+of Fitzgerald, Stegner, and Hemingway
+and fueled, one suspects, by his own background
+in history and philosophy. That is why
+the admittedly dark and even limited comedy
+of <title level="m">My Present Age</title> can appeal to some readers
+who might be suspicious of the lean designs of
+<title level="m">The Englishman's Boy</title>, even though the latter
+is the stronger work in many ways. It is the
+looseness, more Kroetsch-influenced hilarity
+of the former that appeals, with its mirrors of
+form and content, and it is likely that in further
+work this tension between the modern
+and postmodern in Vanderhaeghe's writing
+will break down, and he will fulfill the brilliance
+of his voice and vision even more than
+he already has.</p>
+
+<closer>
+<signed>John Hugh Lent<lb/>
+Okanagan University College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Carpenter, David. "Inside Guy Vanderhaeghe." <title level="j">NeWest Review</title> 8 (1982): 8–15.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

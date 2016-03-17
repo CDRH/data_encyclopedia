@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nelson, Willie (b. 1933)</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Nelson, Willie (b. 1933)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">544</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NELSON, WILLIE (b. 1933)</head>
+<figure n="egp.mus.035" rend="granted">
+<figDesc>Portrait of Willie Nelson</figDesc>
+</figure>        
+
+<p>Willie Nelson is among America's best-known
+country music stars. He was born in Abbot,
+Texas, on April 30, 1933, to Ira and Myrtle
+Nelson. Nelson's mother abandoned the family
+when he was five years old, and he and his
+sister, Bobbie Lee, were raised by their paternal
+grandparents. The family was musical, and
+both children studied music through mailorder
+courses bought by their grandparents.
+At age six Willie received his first guitar from
+his grandfather.</p>
+
+<p>Nelson's first musical performance came at
+age ten, accompanied by Bobbie Lee on piano.
+By the time he left high school he had his own
+radio show. After a brief career in the air force,
+he worked as a <hi rend="smallcaps">DJ</hi> and began writing songs,
+including "Family Bible" and "Night Life." His
+marriage, the first of several, fell apart, but his
+career began to climb as his writing ability was
+quickly recognized. He moved to Nashville in
+1959, selling songs to Faron Young ("Hello
+Walls") and Patsy Cline ("Crazy"). Although
+his songs were popular when others performed
+them, Willie himself never found
+fame as a performer in Nashville. He took the
+burning of his home there in 1970 as a sign
+and returned to Texas.</p>
+
+<p>In Texas he began working on his own music,
+gradually creating a distinctive style that
+mixed the sound of classic country with a hippie
+sensibility and earning a reputation as a
+musical outlaw. His two best-selling albums&#8211;
+<title>Shotgun Willie</title> (1973) and <title>Phases and Stages</title>
+(1974)&#8211;came out during this era. In 1975 he
+switched to Columbia, which remained his label
+until the 1990s. His first album for the new
+label, <title>Red-Headed Stranger</title> (1975), proved to
+be a breakthrough, confirming his image as an
+outlaw and romantic hero.</p>
+
+<p>In addition to musical performances, Nelson
+also acted in several films, including <title>The Electric Horseman</title> (1979), <title>Honeysuckle Rose</title>
+(1980), for which he also contributed the
+soundtrack, <title>Barbarossa</title> (1982), and <title>Wag the Dog</title> (1997), among others. Nelson founded
+and has served as the president of Farm Aid,
+the nearly yearly musical benefit for American
+farmers. Farm Aid concerts have raised millions
+for struggling farmers and have taken
+place in cities from Austin, Texas, and Lincoln,
+Nebraska, to Columbia, South Carolina.</p>
+
+<p>From 1984 to 1993 Nelson unsuccessfully
+battled the <hi rend="smallcaps">IRS</hi> over $16.7 million in taxes
+and fines dating back to 1972. Nelson blamed
+the accounting firm of Price Waterhouse for
+the mistakes. He eventually settled with the
+agency. In 1994 he was arrested after police
+found marijuana in the ashtray of his pickup
+truck. The search was illegal, and the charges
+were dropped.</p>
+
+<p>Nelson's career has been propelled by his
+own intense energy. He has recorded more
+than 100 albums, written his autobiography,
+and maintains a grueling concert schedule.
+His status in American culture is that of
+pop icon; he has even been the subject of a
+novel (Richard "Kinky" Friedman's <title>Road Kill</title>
+[1997]). Nelson actively campaigns for farm
+relief, even testifying before Congress, as well
+as for the legalization of marijuana. He has
+cited Mexican American music, blues, western
+swing, and Frank Sinatra as part of a large
+list of musical influences; his own work has
+ranged from country and pop to blues and
+gospel.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nelson, Willie, and Bud Shrake. <title level="m">Willie: An Autobiography</title>.
+New York: Simon and Schuster, 1988; reprint, New York:
+Cooper Square Press, 2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

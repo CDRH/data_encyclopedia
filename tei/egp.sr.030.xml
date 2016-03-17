@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Howe, Gordie (b. 1928)</title>
+<title level="m" type="sub"></title>
+<author>Kent M. Krause</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Odgaard, Nathan E.">Nathan E. Odgaard</author>. <title level="a">"Howe, Gordie (b. 1928)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">777</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Howe, Gordie (b. 1928)</head>
+
+<p>Like many boys growing up in the Prairie Provinces
+(he was born at Floral, Saskatchewan, on
+March 31, 1928), Gordie Howe dreamed of
+someday playing in the National Hockey
+League (<hi rend="smallcaps">NHL</hi>). At the age of eighteen, Howe's
+dreams were fulfilled when he took to the ice
+with the Detroit Red Wings. Over the next
+thirty-four years, including six in the World
+Hockey Association (<hi rend="smallcaps">WHA</hi>), Howe would enjoy
+a spectacular, durable career, wreaking
+havoc on the opposition with his tenacious
+style of play.</p>
+
+<p>Considered one of the greatest players of all
+time, Howe was a six-time scoring champion
+and six-time Hart Memorial Trophy winner,
+awarded to the league's most valuable player,
+during his twenty-five-year stint as a Red
+Wing. Only Wayne Gretzky has won more
+scoring titles (seven) and has accumulated
+more mvp awards (nine) than Howe.</p>
+
+<p>As a right-wing forward, Howe amassed 801
+goals and 1,850 points in his <hi rend="smallcaps">NHL</hi> career, both
+of which are second to Gretzky's record totals.
+He helped guide Detroit to four Stanley Cups
+in six years, from 1950 to 1955, and seven consecutive
+regular-season titles (1948–54). He
+dominated the league in the 1951–52 and 1952–53
+seasons, racking up eighty-six and ninetyfive
+points, respectively. His forty-seven goals
+in the 1951–52 season were sixteen more than
+the second-leading scorer (Chicago's William
+Mosienko), and he tallied thirty-nine assists,
+which tied for third best in the league. The
+next year he recorded a career-high forty-nine
+goals. But Howe's best year, statistically, occurred
+in 1968–69 at the age of forty, when he
+established a career high in points (103), eight
+more than his previous high. He recorded
+forty-four goals and fifty-nine assists, his all-time
+best, and finished third in the scoring
+race.</p>
+
+<p>Howe's vigor and resiliency were keys to his
+longevity on the ice. He holds the <hi rend="smallcaps">NHL</hi> record
+for most seasons played (26) and most games
+played (1,767). However, in his third year,
+Howe's career was nearly cut short when he
+collided with Toronto's Ted Kennedy during a
+play-off game and crashed head-on into the
+sideboards, suffering a severe brain injury.
+The injury left him with a slight facial tic,
+which occasionally caused his eyes to blink
+uncontrollably. Thus, his teammates nicknamed
+him Blinky.</p>
+
+<p>At six feet and 205 pounds, Howe was powerful
+and fearless. He racked up 2,418 career
+penalty minutes. In 1959 he broke Lou Fontinato's
+nose in a game against the New York
+Rangers and caused other extensive damage to
+Fontinato's face, which required reconstructive
+surgery.</p>
+
+<p>Howe retired with the Red Wings in 1971,
+having been named to the nhl all-star team
+twenty-one times in twenty-five years, and
+was inducted into Toronto's Hockey Hall of
+Fame in 1972. He returned to the game in 1973
+to join sons Marty and Mark with the <hi rend="smallcaps">WHA</hi>
+Houston Aeros. He closed out his career in
+1979 at the age of fifty-two, playing one last
+year in the <hi rend="smallcaps">NHL</hi> with the Hartford Whalers.</p>
+
+<closer>
+<signed>Nathan E. Odgaard<lb/>
+Kansas City Kansan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gale Research, Inc. <title level="m">The Complete Encyclopedia of Hockey</title>.
+Detroit: Associated Features, Inc., 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

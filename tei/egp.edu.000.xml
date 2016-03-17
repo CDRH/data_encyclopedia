@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.edu.000 SYSTEM "egp.edu.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Education</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Education</head>
+
+<figure n="egp.edu.000" rend="granted">
+<figDesc>Rural school near Osnabrock, North Dakota, between 1900 and 1909</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.edu.001">Education</ref></item>
+<item><ref n="egp.edu.002">Abbott, Edith</ref></item>
+<item><ref n="egp.edu.003">Adult Education</ref></item>
+<item><ref n="egp.art.004">Art Museums. <hi rend="italic">See</hi> <hi rend="smallcaps">Art</hi></ref></item>
+<item><ref n="egp.edu.005">Beadle, William H. H.</ref></item>
+<item><ref n="egp.edu.006">Blanton, Annie Webb</ref></item>
+<item><ref n="egp.edu.007">Boys Town</ref></item>
+<item><ref n="egp.law.011"><hi rend="italic">Brown v. The Board of Education of Topeka</hi></ref></item>
+<item><ref n="egp.edu.009">Canadian Plains Research Center</ref></item>
+<item><ref n="egp.edu.010">Center for Great Plains Studies at Emporia State University</ref></item>
+<item><ref n="egp.edu.011">Center for Great Plains Studies at the University of Nebraska-Lincoln</ref></item>
+<item><ref n="egp.edu.012">Chautauqua</ref></item>
+<item><ref n="egp.edu.013">Cliffs Notes</ref></item>
+<item><ref n="egp.ct.013">College Towns</ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Cities and Towns</hi></item>
+<item><ref n="egp.edu.015">Distance Education</ref></item>
+<item><ref n="egp.edu.016">Eastman, Charles</ref></item>
+<item><ref n="egp.ha.013">Escuela Tlatelolco</ref></item>
+<item><ref n="egp.edu.018">Frontier College</ref></item>
+<item><ref n="egp.edu.019">Indian Boarding Schools United States</ref></item>
+<item><ref n="egp.edu.020">Indian Residential Schools, Canada</ref></item>
+<item><ref n="egp.edu.021">Land-Grant Universities</ref></item>
+<item><ref n="egp.edu.022">Libby, Orin</ref></item>
+<item><ref n="egp.edu.023">Libraries</ref></item>
+<item><ref n="egp.edu.024">Lorentino, Dorothy Sunrise</ref></item>
+<item><ref n="egp.edu.025"><hi rend="italic">McLaurin v. Oklahoma State Regents</hi></ref></item>
+<item><ref n="egp.edu.026">Menninger, Karl</ref></item>
+<item><ref n="egp.edu.027">Morrill Act</ref></item>
+<item><ref n="egp.edu.028">Museums</ref></item>
+<item><ref n="egp.edu.029">National Cowboy Hall of Fame and Western Heritage Center</ref></item>
+<item><ref n="egp.edu.030">National Ranching Heritage Center</ref></item>
+<item><ref n="egp.edu.031">North Dakota Institute for Regional Studies</ref></item>
+<item><ref n="egp.edu.032">One-Room Schoolhouses</ref></item>
+<item><ref n="egp.edu.033">Pound, Louise</ref></item>
+<item><ref n="egp.edu.034">Roe Cloud, Henry</ref></item>
+<item><ref n="egp.edu.035">School Consolidation and Reorganization</ref></item>
+<item><ref n="egp.mus.042">Schools of Music <hi rend="italic">See</hi> <hi rend="smallcaps">Music</hi></ref></item>
+<item><ref n="egp.edu.037">State and Provincial Historical Societies</ref></item>
+<item><ref n="egp.edu.038">Tribal Colleges</ref></item>
+<item><ref n="egp.edu.039">United States Air Force Academy</ref></item>
+<item><ref n="egp.edu.040">Women in Higher Education</ref></item>
+</list>
+</div1>
+
+</body>
+</text>
+</TEI>

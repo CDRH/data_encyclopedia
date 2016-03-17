@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Johnson, Noble (1881-1957)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Johnson, Noble (1881-1957)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">16</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JOHNSON, NOBLE (1881-1957)</head>
+<figure n="egp.afam.024" rend="granted">
+<figDesc>Noble Mark Johnson</figDesc>
+</figure>     
+
+<p>Noble M. Johnson, the first major African
+American movie actor, was born in Colorado
+Springs on April 18, 1881. His father was a successful
+racehorse owner and trainer. Johnson
+attended public schools in Colorado Springs
+(Lon Chaney Sr. was a classmate) until the
+age of fifteen, when he struck out across the
+country, following the racing circuit, training
+horses, and working as a cowboy. Back in Colorado
+Springs in 1909, he filled in for an injured
+actor, playing an Indian, in a Lubin Film
+Manufacturing Company Western, and his career
+path was set.</p>
+
+<p>Johnson made several films for Lubin before
+joining with several other African Americans
+(including his brother George) to organize
+the Lincoln Motion Picture Company in
+1916. Noble was the company's original president
+and acted in its first three films. But he
+was also getting roles in Universal Studios's
+serials and was pressured by that studio to
+resign from Lincoln in 1918. From that point
+on, Noble Johnson was a Hollywood actor.</p>
+
+<p>Light-skinned and athletic, Johnson was
+cast in a great variety of often-major roles. He
+appeared in <title>Four Horsemen of the Apocalypse</title>
+(1921), <title>The Navigator</title> (1924), <title>Ben Hur</title> (1925),
+<title>King Kong</title> (1933), and <title>She Wore a Yellow Ribbon</title>
+(1949). In a business characterized by racial
+discrimination, Johnson played Native
+Americans, Latinos, Asians, and other "exotics"
+but was never billed as African American
+or identified with African American roles. He
+died in 1957, and his memory has faded, despite
+the success and longevity of his career.</p>
+
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Leab, Daniel J. <title level="m">From Sambo to Superspade: The Black Experience
+in Motion Pictures</title>. Boston: Houghton Mifflin
+Company, 1975.</bibl> <bibl>Sampson, Henry T. <title level="m">Blacks in Black and
+White: A Source Book on Black Films</title>. Metuchen <hi rend="smallcaps">NJ</hi>: Scarecrow
+Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wetlands</title>
+<title level="m" type="sub"></title>
+<author>Kyle D. Hoagland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoagland, Kyle D.">Kyle D. Hoagland</author>. <title level="a">"Wetlands."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">866</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WETLANDS</head>
+
+<p>Although they account for only about 6.4 percent
+of the earth's land surface, wetlands are
+extremely important ecosystems. Wetlands are
+ecotones, or transitional environments between
+deeper water systems and terrestrial uplands.
+They are characterized by the presence
+of water at or near the surface, unique soil
+conditions, and hydrophytes (plants suited to
+wet conditions). Several formal definitions
+have been written during the past twenty years
+for regulatory purposes, including the oftencited
+U.S. federal definition: "The term wetlands
+means those areas that are inundated or
+saturated by surface or ground water at a frequency
+and duration su.cient to support, and
+that under normal circumstances do support,
+a prevalence of vegetation typically adapted for
+life in saturated soil conditions." Thus, wetlands
+include marshes, bogs, swamps, fens, wet
+meadows, peatlands, playas, and a number of
+other aquatic ecosystems that fall under a variety
+of names.</p>
+
+<p>Wetlands can be categorized into five main
+types: marine, estuarine, lacustrine, riverine,
+and palustrine. The latter three types occur in
+abundance throughout the Great Plains. Indeed,
+this region includes two of the most important
+wetland areas in North America: the
+expansive Prairie Potholes region of the Prairie
+Provinces and north-central United States,
+and the Nebraska Sandhills. Scientists further
+group wetlands into subsystems and classes
+based upon their seasonal hydrology (e.g., intermittent
+or permanent standing water), bottom
+substrate material (e.g., rock or soft sediment),
+and the predominant plants (fifty-six
+subcategories in all). Lacustrine wetlands are
+typically associated with ponds and lakes,
+forming the shallow areas along the margins,
+while riverine wetlands occur along rivers or
+streams and are often fed by floodwaters. Palustrine
+wetlands include the remaining shallow
+water systems that are typically identified
+as wetlands, including marshes, swamps, and
+bogs.</p>
+
+<p>Wetlands are dynamic systems, exhibiting
+major changes in vegetation during the growing
+season, as surface and subsurface water
+levels change, sometimes dramatically. Consequently,
+they provide habitat for a large number
+of plants and animals, some adapted
+strictly to aquatic existence and others capable
+of living in the water for short periods of time
+during their life cycle. Many aquatic insects,
+for example, require water for their preadult
+stages, then emerge as winged adults: dragonflies,
+damselflies, midges, and many other insects
+are common members of the wetland
+community. Aquatic plants, being less mobile,
+must have adaptations that allow them to live
+underwater or in saturated sediments, adaptations
+such as air chambers in their leaves and
+stems for gas exchange to roots anchored in
+oxygen-depleted muds.</p>
+
+<p>On a per acre basis, wetlands produce more
+plant and animal biomass than any other ecosystem
+on earth. The vast majority of this production
+is hidden to the untrained eye: hydrophytes
+in the wetland bottom in the form of
+roots, rhizomes, and other storage structures,
+and microscopic plants called algae, which are
+attached to hydrophytes or bottom mud or
+occur free-floating in the water. The propensity
+of wetlands to produce plant and animal
+biomass is a reflection of their ability to rapidly
+take up and cycle basic nutrients such as
+phosphorus and nitrogen. Consequently, wetlands
+are also now recognized as ideal systems
+for treating municipal waste, storm water
+runoff, agricultural runoff, and animal waste.
+Many wetlands are being constructed each
+year for this purpose, and natural and restored
+wetlands are also used. Thus, wetlands
+have been termed biological filters or the
+"kidneys" of the landscape. They serve a variety
+of other important functions as well, including
+flood control, sediment trapping, erosion
+control, and groundwater recharge, in
+addition to their recreational benefits for
+camping, hunting, canoeing, fishing, and bird
+watching.</p>
+
+<p>Perhaps the most significant role of wetlands
+is in maintaining biodiversity. It has
+been estimated that one-half of the fish, onethird
+of the birds, and one-sixth of the mammals
+on the U.S. threatened and endangered
+species list occur in wetlands. The Prairie Potholes
+region, for example, is home to twelve of
+the thirty-four species of breeding ducks in
+North America. Nevertheless, wetlands continue
+to be lost at an alarming rate. Conversions
+of wetlands to croplands and urban development
+have resulted in a cumulative loss
+of 53 percent of all wetlands in the continental
+United States. South Dakota and Nebraska
+have lost approximately 35 percent of their
+wetlands. Federal efforts to preserve and restore
+many wetlands have increased in the past
+ten years in the Great Plains, but the decline
+continues.</p>
+
+<closer>
+<signed>Kyle D. Hoagland<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mitsch, William J., and James G. Gosselink. <title level="m">Wetlands</title>.
+New York: Van Nostrand Reinhold Co., 1993.</bibl> <bibl>Niering,
+William A. <title level="m">Wetlands</title>. New York: Alfred A. Knopf, 1985.</bibl>
+<bibl>van der Valk, Arnold G., ed. <title level="m">Northern Prairie Wetlands</title>.
+Ames: Iowa State University Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

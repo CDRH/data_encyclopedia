@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.rel.000 SYSTEM "egp.rel.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">religion</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Religion</head>
+
+<figure n="egp.rel.000" rend="granted">
+<figDesc>Church in Hettinger, North Dakota, 1942</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.rel.001">Religion</ref></item>
+<item><ref n="egp.rel.002">Adventism</ref></item>
+<item><ref n="egp.rel.003">Assemblies of God</ref></item>
+<item><ref n="egp.rel.004">Baptists</ref></item>
+<item><ref n="egp.rel.005">Black Elk, Nicholas</ref></item>
+<item><ref n="egp.rel.006">Bland, Salem</ref></item>
+<item><ref n="egp.rel.007">Branch Dividians</ref></item>
+<item><ref n="egp.rel.008">Buddhism</ref></item>
+<item><ref n="egp.rel.009">Canadian Wesleyan Methodism</ref></item>
+<item><ref n="egp.rel.010">Catholic Sisterhoods</ref></item>
+<item><ref n="egp.rel.011">Church of Jesus Christ of Latter-day Saints</ref></item>
+<item><ref n="egp.rel.012">Comfort, E. Nicholas</ref></item>
+<item><ref n="egp.asam.009">Denver Buddhist Temple. <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.rel.014">De Smet, Pierre-Jean</ref></item>
+<item><ref n="egp.rel.015">Disciples of Christ</ref></item>
+<item><ref n="egp.rel.016">Dispensationalism</ref></item>
+<item><ref n="egp.rel.017">Distribution of Religions</ref></item>
+<item><ref n="egp.rel.018">Doukhobors</ref></item>
+<item><ref n="egp.rel.019">Eastern Orthodox</ref></item>
+<item><ref n="egp.rel.020">Episcopalianism</ref></item>
+<item><ref n="egp.rel.021">Epp, Theodore</ref></item>
+<item><ref n="egp.rel.022">Evangelicalism</ref></item>
+<item><ref n="egp.rel.023">Ghost Dance</ref></item>
+<item><ref n="egp.rel.024">Hinduism</ref></item>
+<item><ref n="egp.rel.025">Hubbard, L. Ron</ref></item>
+<item><ref n="egp.rel.026">Hutterites</ref></item>
+<item><ref n="egp.rel.027">Indian Missionaries</ref></item>
+<item><ref n="egp.rel.028">Islam</ref></item>
+<item><ref n="egp.rel.029">Jones, Harold</ref></item>
+<item><ref n="egp.rel.030">Judaism</ref></item>
+<item><ref n="egp.rel.031">Lac Ste. Anne Pilgrimage</ref></item>
+<item><ref n="egp.rel.032">Lutheranism</ref></item>
+<item><ref n="egp.rel.033">Mennonites</ref></item>
+<item><ref n="egp.rel.034">Methodism, United States</ref></item>
+<item><ref n="egp.rel.035">Morning Star Ceremony</ref></item>
+<item><ref n="egp.rel.036">Native American Church</ref></item>
+<item><ref n="egp.rel.037"><hi rend="italic">Okipa</hi></ref></item>
+<item><ref n="egp.rel.038">Parham, Charles Fox</ref></item>
+<item><ref n="egp.rel.039">Presbyterianism</ref></item>
+<item><ref n="egp.rel.040">Provencher, Joseph-Norbert</ref></item>
+<item><ref n="egp.rel.041">Quakers</ref></item>
+<item><ref n="egp.rel.042">Roberts, Oral</ref></item>
+<item><ref n="egp.rel.043">Roman Catholicism</ref></item>
+<item><ref n="egp.rel.044">Sanapia</ref></item>
+<item><ref n="egp.rel.045">Sheldon, Charles</ref></item>
+<item><ref n="egp.rel.046">Sun Dance</ref></item>
+<item><ref n="egp.rel.047">Sweat Lodge</ref></item>
+<item><ref n="egp.rel.048">Tach&#233;, Alexandre-Antonin</ref></item>
+<item><ref n="egp.rel.049">Unitarianism</ref></item>
+<item><ref n="egp.rel.050">United Church of Canada</ref></item>
+<item><ref n="egp.rel.051">Vision Quest</ref></item>
+<item><ref n="egp.pd.061">Woodsworth, James Shaver. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.031 SYSTEM "egp.pe.031.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Grasshoppers</title>
+<title level="m" type="sub"></title>
+<author>Anthony Joern</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Joern, Anthony">Anthony Joern</author>. <title level="a">"Grasshoppers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">632-633</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRASSHOPPERS</head>
+
+<figure n="egp.pe.031" rend="granted">
+<figDesc>Grasshoppers, Cheyenne River Indian Agency, South Dakota, 1936</figDesc>
+</figure>
+
+<p>Grasshoppers inhabit all grasslands and associated
+arid regions in the Great Plains, where they
+eat a varied diet of grasses or herbs. Among
+native herbivores, grasshoppers rank among the
+most conspicuous and important consumers of
+aboveground vegetation in natural grasslands,
+often rivaling large vertebrate ungulates in impact.
+The species diversity of grasshoppers is
+great, with about 750 species found throughout
+North America and about 400 species inhabiting
+the seventeen western states. These numbers
+are similar to bird species diversity. Taxonomically,
+grasshoppers in the Great Plains are divided
+into four main groups or subfamilies:
+Gomphocerines (slant-faced grasshoppers),
+Oedipodines (band-winged grasshoppers),
+Melanoplines (spur-throat grasshoppers), and
+Cyrtacanthacradines. These groupings reflect
+historical, evolutionary trajectories that loosely
+predict diet, reproductive characteristics,
+and habitat use. Migratory locusts, a form of
+grasshopper, are not found in North America
+although they do occur in Central America,
+and the term has been repeatedly misused
+in popular accounts describing grasshopper
+outbreaks.</p>
+
+<p>Given the great number of grasshopper species
+in the Great Plains, it is not surprising that
+species react to common environmental factors
+in different ways, with obvious species-specific
+differences in plant species eaten, courtship behavior, habitat selection, and geographic distribution.
+Unlike butterflies or leafhoppers,
+grasshoppers do not specialize on particular
+host plants, although they are discriminating
+feeders and will not feed on just anything.
+Grasshopper assemblies change in species
+composition along environmental gradients,
+just as plant communities vary, often in a
+gradual manner.</p>
+
+<p>Grasshoppers occur year-round at all sites,
+primarily as eggs or overwintering nymphs
+during cold months and nymphs or reproductive
+adults at other times. Seasonal appearances
+of nymphs and adults of different species
+result in distinct groups of one-generation-
+per-year spring and summer species
+complexes in the Central and Northern
+Great Plains, and species with extended seasonality
+or even multiple generations per year
+populate the Southern Great Plains.</p>
+
+<p>Densities rarely become so great that vegetation
+of entire regions is denuded with great
+impact on native plants as well as crops. In
+most years, however, grasshoppers consume
+less than 10 percent of the standing vegetation
+in grasslands. Rocky mountain locusts (<hi rend="italic">Melanoplus
+spretus</hi> Walsh) presented a spectacular
+example of grasshopper outbreaks during the
+mid– and late nineteenth century, when millions
+of individuals dispersed from central
+breeding grounds in the shortgrass prairies of
+Colorado into neighboring eastern states,
+causing significant crop damage. A particularly
+vivid portrayal of such an infestation is
+given in the novel <title>Giants in the Earth</title> (1927),
+O. E. R&#246;lvaag's vivid saga of pioneer settlement
+in South Dakota in the 1870s. This species
+is now presumed extinct for unknown
+reasons, probably resulting from agricultural
+development in shortgrass prairie regions.</p>
+
+<p>Grasshopper populations are quite dynamic,
+with periodic fluctuations in overall numbers
+for all species about every seven to ten years.
+Climate and food quality can play important
+roles in these changes, but many other ecological
+factors are also involved, including competition
+for limited food resources. Predators and
+other natural enemies&#8211;primarily birds, spiders, other insect predators, and insect parasites
+&#8211;also exert significant limiting effects on population
+sizes; pathogens, including bacteria, viruses,
+and fungi, can also kill many grasshoppers
+in some years.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.026">Insect Lore</ref>.</p>
+
+<closer>
+<signed>Anthony Joern<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Capinera, J. L., and T. S. Sechrist. <title level="m">Grasshoppers (Acrididae)
+of Colorado: Identification, Biology, and Management</title>. Colorado
+State University Experiment Station Bulletin No.
+548S. Fort Collins: Colorado State University, 1982.</bibl> <bibl>Pfadt,
+Robert E. <title level="m">Field Guide to Common Western Grasshoppers</title>.
+Wyoming Agricultural Experiment Station Bulletin 912.
+Laramie: University of Wyoming, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

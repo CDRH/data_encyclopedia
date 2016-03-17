@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Heisman Trophy Winners</title>
+<title level="m" type="sub"></title>
+<author>Thomas P. Jundt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jundt, Thomas P.">Thomas P. Jundt</author>. <title level="a">"Heisman Trophy Winners."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">776</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HEISMAN TROPHY WINNERS</head>
+
+<p>The first Great Plains Heisman Trophy winner
+was Texas Christian University's Davey
+O'Brien, who claimed the honor in 1938, the
+third year it was awarded to the nation's outstanding
+college football player. It would be
+fourteen years before another Plains star, Billy
+Vessels of Oklahoma, won the award in 1952,
+unless Nile Kinnick, who had attended high
+school in Omaha but won the trophy while at
+Iowa in 1939, is counted. A second Heisman
+drought hit the Plains after Vessels's victory,
+this time lasting until 1969, when Oklahoma's
+Steve Owens ended the dry spell and began a
+steady stream of Plains Heisman champions.
+In 1972 Nebraska's Johnny Rodgers was honored,
+followed in 1977 by Earl Campbell of
+Texas, Oklahoma's Billy Sims in 1978, Nebraska's
+Mike Rozier in 1983, Barry Sanders of
+Oklahoma State in 1988, Colorado's Rashaan
+Salaam in 1994, Ricky Williams of Texas in
+1998, and Eric Crouch of Nebraska in 2001.</p>
+
+<p>Of these eleven Heisman heroes, however,
+only four&#8211;Billy Vessels, Johnny Rodgers,
+Barry Sanders, and Eric Crouch&#8211;were homegrown
+products of the Plains.</p>
+
+<p>Billy Vessels, of tiny Cleveland, Oklahoma,
+has been called the first Heisman winner of
+the modern era because it was his outstanding
+play in a nationally televised game, against
+Notre Dame in 1952, that moved him to the
+front of that year's Heisman class. When informed
+that he had won the Heisman, Vessels
+replied, "What's the Heisman?" The growing
+presence and influence of television and its
+fondness for spectacles like the awarding of
+the Heisman make it likely that Vessels was
+the last winner who had no knowledge of the
+award.</p>
+
+<p>In contrast to Vessels and his small-town
+background, 1972 winner Johnny Rodgers
+grew up on the streets of Omaha's north side.
+At Nebraska he was known for his incredible
+runs as a wide receiver and punt returner,
+most notably, a 72-yard return against Oklahoma
+in the 1971 "Game of the Century." But
+he was also known for his run-ins with the
+law. Heisman voters struggled with the issue
+of awarding the trophy to a convicted felon,
+but in the end Rodgers's failings seemed to
+pale when compared to his successes in overcoming
+great adversity in his life. He was only
+the third wide receiver to win the award.</p>
+
+<p>Barry Sanders attended high school at Wichita
+North. He dreamed of attending the University
+of Oklahoma but was turned down by
+coach Barry Switzer because he was only five
+feet seven inches tall and weighed only 175
+pounds. Instead, he was welcomed at Oklahoma
+State, where he shattered National Collegiate
+Athletic Association (<hi rend="smallcaps">NCAA</hi>) rushing
+records. "We just blew it," Switzer later said
+about passing over Sanders. "I admire talent,
+and Barry Sanders is a phenomenal talent."
+After winning the Heisman during his junior
+year in 1988, Sanders moved to the National
+Football League, where he became the acclaimed
+running back of the Detroit Lions.</p>
+
+<p>Eric Crouch graduated from Millard North
+High School in Omaha and from the University
+of Nebraska–Lincoln. With his forty-yard
+dash time of 4:47, Crouch holds the <hi rend="smallcaps">NCAA</hi> Division
+I-A quarterback record with fifty-nine
+career rushing touchdowns, but he also completed
+51.5 percent of his passes during his college
+career, and, when called upon, as in the
+2001 victory over Oklahoma, he dazzled as a
+receiver.</p>
+
+
+<p><ref target="http://www.heisman.com/index.php">Heisman</ref> website.</p>
+
+<closer>
+<signed>Thomas P. Jundt<lb/>
+Brown University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bell, Jack, et al., eds. <title level="m">The Heisman: Sixty Years of Tradition
+and Excellence</title>. Bronxville <hi rend="smallcaps">NY</hi>: Adventure Quest, 1995.</bibl>
+<bibl>Brady, John T. <title level="m">The Heisman: A Symbol of Excellence</title>. New
+York: Athenaeum, 1984.</bibl> <bibl>Rader, Benjamin G. <title level="m">American
+Sports: From the Age of Folk Games to the Age of Televised
+Sports</title>. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Covered Wagons</title>
+<title level="m" type="sub"></title>
+<author>Brenda K. Jackson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jackson, Brenda K.">Brenda K. Jackson</author>. <title level="a">"Covered Wagons."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">801</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COVERED WAGONS</head>
+
+<p>Covered wagons were the most common
+means of transportation for pioneers traveling
+across the Great Plains in the mid–nineteenth
+century. Fashioned after the larger and heavier
+Conestoga wagons, developed by the Pennsylvania
+Dutch a century earlier, the design produced
+a vehicle strong enough to carry loads
+of 2,000–3,000 pounds yet light enough to
+avoid excessive strain to the teams of oxen and
+mules that pulled it. Wagon beds were constructed
+of hardwoods such as maple, hickory,
+and oak and averaged four feet in width and
+ten to twelve feet in length. The undercarriage
+housed the wheels, axle assemblies, and support
+systems, with iron utilized in the construction
+only to reinforce those wagon parts
+under the greatest amount of stress such as the
+wooden wheels. A wagon's rear wheels might
+reach six feet in height to allow for clearance
+on the Plains, while its shorter front wheels
+provided for some maneuverability.</p>
+
+<p>The most familiar feature of the covered
+wagon of the Great Plains, its billowing cover,
+was usually a heavy-duty canvas that served as
+the pioneers' only protection against the elements
+and other hazards. A frame of hardwood
+bows supported this cover, and strong
+ties secured it to the sides of the wagon bed.
+Many pioneers designed the canvas cover to
+be rolled and tied back during the summer
+months to allow for better circulation. The
+full outfitting of the covered wagon of the
+Great Plains was not an inexpensive endeavor
+and could cost as much as $1,500.</p>
+
+<closer>
+<signed>Brenda K. Jackson<lb/>
+Washington State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mattes, Merrill J. <title level="m">The Great Platte River Road: The Covered
+Wagon Mainline via Fort Kearny to Fort Laramie</title>. Lincoln:
+Nebraska State Historical Society, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

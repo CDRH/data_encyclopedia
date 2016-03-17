@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Direct Democracy</title>
+<title level="m" type="sub"></title>
+<author>Daniel A. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Daniel A.">Daniel A. Smith</author>. <title level="a">"Direct Democracy."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">661</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DIRECT DEMOCRACY</head>
+
+<p>Direct democracy&#8211;which includes the plebiscitary
+devices of initiative, referendum, and
+recall&#8211;is the political process whereby citizens
+participate directly in the making of public
+policy by casting their votes on ballot measures.
+The so-called citizen initiative is the
+most participatory form of direct democracy.
+With the initiative, citizens collect a specified
+number of valid signatures in order to place
+either a statutory measure or a constitutional
+amendment on the ballot for fellow voters to
+adopt or reject. In addition to the initiative,
+the "popular" referendum allows citizens to
+petition their legislatures to place a disputed
+legislative action on the ballot for the voters to
+reconsider, and the recall enables citizens to
+collect signatures to force a retention vote of
+an elected official.</p>
+
+<p>The practice of direct democracy grew out
+of the doctrines put forth by the Populist (People's)
+Party, the single-taxers led by Henry
+George, and the Farmers Alliance during the
+late nineteenth century. In 1898 the citizens of
+South Dakota became the first in the Union to
+adopt the use of the three devices at the state
+level. The Reverend Robert W. Haire, an activist
+in the Knights of Labor, is generally credited
+with devising the original South Dakota
+scheme. Following the lead of South Dakota,
+voters in seven other American states in the
+Great Plains region adopted some form of
+statewide direct democracy: Montana (1906),
+Oklahoma (1907), Colorado (1910), New Mexico
+(1911), Nebraska (1912), North Dakota
+(1914), and Wyoming (1968). In Canada, more
+recently, the Prairie province of Saskatchewan
+adopted a nonbinding initiative in 1991. The
+citizens of Manitoba embraced the initiative
+in 1916, but it was subsequently declared unconstitutional.</p>
+
+<p>In the United States during the 1910s, direct
+democracy was highly prized by progressive
+reformers as an instrument to return government
+back to the people. It was viewed as an
+institutional check on the power of unresponsive
+state legislatures, which were often seen as
+being under the thumb of special interests.
+Today, the initiative process is utilized quite
+frequently by citizen groups, as well as by special
+interests, in the Great Plains states where it
+is permitted, but the popular referendum and
+the recall election are seldom used.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.027">Haire, Robert</ref>.</p>
+
+<closer>
+<signed>Daniel A. Smith<lb/>
+University of Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Boyer, J. Patrick. <title level="m">Direct Democracy in Canada: The History
+and Future of Referendums</title>. Toronto: Dundurn Press, 1992.</bibl>
+<bibl>Cronin, Thomas E. <title level="m">Direct Democracy: The Politics of Initiative,
+Referendum, and Recall</title>. Cambridge: Harvard University
+Press, 1989.</bibl> <bibl>Munro, William Bennett, ed. <title level="m">The Initiative,
+Referendum, and Recall</title>. New York: D. Appleton
+and Company, 1912.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

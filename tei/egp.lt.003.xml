@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.lt.003 SYSTEM "egp.lt.003.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baum, L. Frank (1856-1919)</title>
+<title level="m" type="sub"></title>
+<author>Nancy Tystad Koupal</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Koupal, Nancy Tystad">Nancy Tystad Koupal</author>. <title level="a">"Baum, L. Frank (1856-1919)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">474</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BAUM, L. FRANK (1856-1919)</head>
+
+<figure n="egp.lt.003" rend="granted">
+<figDesc>L. Frank Baum, ca. 1900</figDesc>
+</figure>
+
+<p>Nine years before he wrote his first children's
+book, Lyman Frank Baum followed the frontier
+promise of prosperity to Dakota Territory,
+embarking on an experience that would contribute
+greatly to the themes and scenes of his
+great American fairy tales about the Land of
+Oz. Critics have long noted that <title level="m">The Wizard of Oz</title> (1900) celebrates the values of the agrarian
+heartland and provided the nation with its
+first recognizably American (as opposed to
+European) fairyland. The book and its author
+have also had lasting impacts on the culture
+and image of the Great Plains region, from
+Kansas to North and South Dakota.</p>
+
+<p>Born into a wealthy family in Chittenango,
+New York, on May 15, 1856, Baum sampled a
+variety of careers, most involving writing and
+publishing. When he married Maud Gage, the
+youngest daughter of national suffãrage activist
+Matilda Joslyn Gage, the couple settled in Syracuse,
+New York, before the birth of the first
+of their four sons in December 1883. For the
+next five years Baum worked in a family business
+that made axle grease. When the business,
+like many of his earlier enterprises,
+failed, Baum looked around for new opportunities.
+In the early 1880s many of Baum's
+neighbors, among them members of his wife's
+family, had headed west to participate in
+Dakota Territory's boom (1879-87). After a
+whirlwind trip to the area in September 1888
+Baum packed up his family and moved to Aberdeen,
+a county-seat town in the northeastern
+corner of what is now South Dakota,
+where he established Baum's Bazaar to sell a
+wide variety of luxury goods just as the Dakota
+boom ended.</p>
+
+<p>By the winter of 1889 drought conditions
+had brought actual starvation to parts of Dakota,
+and during the next five years almost
+3,000 people abandoned the Aberdeen service
+area. Baum's Bazaar failed, and in January
+1890 Baum took over the weekly newspaper
+of a fellow Syracuse transplant and began a
+fifteen-month career as western editor and job
+printer. His <title level="j">Aberdeen Saturday Pioneer</title> reveals
+in depth his attitudes about politics, suffrage,
+tolerance, and religion, offering an important
+key to the themes that later surface in Baum's
+fiction, especially his fourteen Oz books.</p>
+
+<p>The year 1890 provided an incredible range
+of events for an observant editor to comment
+upon. South Dakota had become a state on
+November 2, 1889, and the political events of
+its first year included the formation of an independent
+party that would evolve into the
+Populist Party. A campaign to give women the
+vote brought national personalities such as
+Carrie Chapman Catt and Susan B. Anthony
+to stump the state for suffrage, while the
+Ghost Dance movement among the Lakotas
+attracted Gen. Nelson Miles and Buffalo Bill
+Cody. Temperance advocates and liquor dealers
+exchanged heated rhetoric on the issue of
+prohibition. To contribute barbed comments
+to the political brew, Baum created a weekly
+satirical column entitled "Our Landlady." In
+April 1891, however, economic conditions
+forced the editor and his family to join the
+exodus from Dakota.</p>
+
+<p>From Aberdeen Baum went to Chicago,
+where he worked as a newspaper editor, crockery
+salesman, and editor of a trade journal
+before beginning to write children's books at
+the age of forty-one. From 1897 until his death
+in Hollywood, California, on May 5, 1919,
+Baum wrote more than seventy books, many
+under pseudonyms, but it is <title level="m">The Wizard of Oz</title>
+(1900) that is most important. In it Baum created
+a fairy tale that has become a cultural
+symbol, largely through adaptation to stage
+and screen (beginning with a musical comedy
+in 1902). Its characters, attitudes, and values
+are all distinctly American. Unfortunately,
+its depiction of Kansas as a drab, droughtstricken
+hinterland has affected the region for
+years. On the positive side, the book also created
+Dorothy Gale, a strong heroine who embodies
+the assertiveness and ability of those
+who settled the Plains.</p>
+
+<p><title level="m">The Wizard of Oz</title> also contains an allegorical
+commentary on American politics and the
+Populist movement of the Great Plains region.
+The other Oz books, the next of which is <title level="m">The Marvelous Land of Oz</title> (1904), continue the tradition
+of strong female characters and add allegorical
+commentary on women's rights and
+utopian concepts. The Dakota prairie and its
+wildlife&#8211;prairie dogs, bison, gophers, crows,
+and grasshoppers&#8211;also provided the setting
+and characters for some of Baum's shorter fiction,
+his "Animal Fairy Tales," which appeared
+in the <title level="m">Delineator</title> in 1905, and the "Tinkle
+Tales," a series of small books for younger children
+that appeared in 1906 and 1907.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.065"><hi rend="italic">The Wizard of Oz</hi></ref> / <hi rend="smallcaps">IMAGES
+AND ICONS</hi>: <ref n="egp.ii.027">Gale, Dorothy</ref> / <hi rend="smallcaps">POLITICS AND
+GOVERNMENT</hi>: <ref n="egp.pg.063">Populists (People's Party)</ref>.</p>
+
+<closer>
+<signed>Nancy Tystad Koupal<lb/>
+South Dakota State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Baum, Frank Joslyn, and Russell P. MacFall. <title level="m">To Please a Child: A Biography of L. Frank Baum, Royal Historian of Oz</title>. Chicago: Reilly and Lee, 1961.</bibl> <bibl>Baum, L. Frank. <title level="m">Our Landlady</title>, edited and annotated by Nancy Tystad Koupal.
+Lincoln: University of Nebraska Press, 1996.</bibl> <bibl>Koupal,
+Nancy Tystad. "The Wonderful Wizard of the West: L.
+Frank Baum in South Dakota, 1888–91." <title level="j">Great Plains Quarterly</title> 9 (1989): 203–15.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

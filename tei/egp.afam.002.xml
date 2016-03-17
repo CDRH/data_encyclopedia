@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.002 SYSTEM "egp.afam.002.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">African American Cowboys</title>
+<title level="m" type="sub"></title>
+<author>Brad A. Bays</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bays, Brad A.">Brad A. Bays</author>. <title level="a">"African American Cowboys."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">6-7</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AFRICAN AMERICAN COWBOYS</head>
+
+<figure n="egp.afam.002" rend="granted">
+<figDesc>Adjusting saddle stirrups at a Colored Rodeo Association of Denver event, September 1948</figDesc>
+</figure>
+
+<p>Both scholars and popular writers have studied African Americans in the cattle industry of the Great Plains, but a review of such works reveals that the image outweighs the reality. This is not to say that African Americans historically did not have an important role in the cowboy culture of the Great Plains. In fact many, if not most, of the Texas and Indian Territory outfits that participated on the long overland drives to the Kansas railheads employed African Americans whose skills (working cattle, caring for horses, working as blacksmiths or cooks) were essential to the operation. But what is perhaps most striking is that while our popular historical image of the cowboy is of a nameless, unassuming, white southerner, most of the handful of black cowboys who are known have received much individual notoriety.</p>
+
+<p>When African American cowboys entered the Great Plains after the Civil War to work on the long overland drives that linked Texas to the Kansas railheads, they were merely continuing a centuries-old pattern rooted in the American South, Mexico, the Caribbean, southern Iberia, and perhaps even West Africa. In fact, Terry Jordan, a geographer who has thoroughly studied the diffusion and material culture of cattle ranching, notes that African slaves were the <hi rend="italic">vaqueros</hi> for the herds in southwestern Spain by the sixteenth century. This African labor-based Iberian model was transferred first to the Caribbean, and from there to Mexico and the North American Atlantic coast, where it eventually combined with Germanic- and Celtic-derived cattleherding traditions. Spanish outposts in Florida and Louisiana sporadically reinforced the Iberian system, but by the early eighteenth century the South Carolina Back Country, swarming with wild cattle that were periodically rounded up by slaves, emerged as the principal core area for what would become the most common pre-cotton land use in the piney woods of the Gulf Coastal Plain. As Jordan explains, this Caribbean-derived lowland South cattle frontier led west to Louisiana, where it merged with Spanish and French traditions, all the while using African labor.</p>
+
+<p>Abolition and a surplus of unemployed southern whites apparently changed the cowboy stereotype to the white version just prior to the long overland drives in the Great Plains and the establishment of ranches across the West. With plenty of whites competing for work, the African American cowhand became more of an anomaly in the Great Plains by the mid-1870s. But anomalies are often remembered, and plenty of African American cowboys entered regional folklore. Folk memory and white writers have preserved many infamous black gunfighters and murderers, such as Ben Hodges of Dodge City and Cherokee Bill, who terrorized Indian Territory. Ample nicknames persist, like One Horse Charley and Bronco Sam; others received the appellation "Nigger" so-and-so, which was tacked onto the first names of Newt Clendenen, Bob Leavitt, and many others.</p>
+
+<p>The most famous African American cowboys were those who gained notoriety in show business Westerns, usually for their roping and riding abilities. Nat Love (aka Deadwood Dick), perhaps the most photographed black cowboy of the Great Plains, became famous as a trick roper in the Black Hills. Henry Clay, a trick roper who performed with Will Rogers, was another. Clay worked for the Miller Brothers' 101 Ranch in north-central Oklahoma in the 1890s and early 1900s. The 101, which is credited with institutionalizing professional rodeo (as well as the competitive "fancy dance" of Indian powwows), employed George Hooker, a trick rider, as well as probably the most famous black cowboy, Bill Pickett. Pickett was a native of East Texas who resided for much of his life in Indian Territory. He joined the 101 in the 1890s and became the star of its touring Wild West show. Pickett traveled with the 101 to Chicago, New York, and London and is widely credited with inventing the rodeo sport of "bulldogging," called steer wrestling today. Pickett called it bulldogging because, after jumping from his horse, grabbing the steer's horns, and twisting its neck, he followed the habit of an East Texas cow dog and sunk his teeth into the steer's nose to bring the animal down.</p>
+
+<p>Although the dust of illiteracy, legend, and racism surely obscures a clear view of the real lives and contributions of African American cowhands of the Great Plains, we can safely assume that most were not as simple as the bloodthirsty, comical, or flamboyant stereotypes that folklore and white popular history suggest. We should respect their known presence, celebrate a few, and recognize that we will probably never know much of the reality.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: 
+<ref n="egp.fil.047">Miller Brothers</ref> / 
+<hi rend="smallcaps">SPORTS AND RECREATION</hi>: 
+<ref n="egp.sr.045">Rodeo</ref> / 
+<hi rend="smallcaps">TRANSPORTATION</hi>: 
+<ref n="egp.tra.007">Cattle Trails</ref>.</p>
+
+<closer>
+<signed><hi rend="italic">Brad A. Bays</hi></signed>
+Oklahoma State University
+</closer>
+</div1>
+
+<div1>
+<bibl>Durham, Philip, and Everett L. Jones. <title level="m">The Negro Cowboys</title>. New York: Dodd, Mead and Company, 1965. Hanes, Bailey C. <title level="m">Bill Pickett, Bulldogger</title>. Norman: University of Oklahoma Press, 1977. Jordan, Terry G. <title level="m">North American Cattle Ranching Frontiers: Origins, Diffusion, and Differentiation</title>. Albuquerque: University of New Mexico Press, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

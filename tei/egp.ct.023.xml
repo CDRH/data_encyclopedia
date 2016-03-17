@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fort Worth, Texas</title>
+<title level="m" type="sub"></title>
+<author>Ben Procter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Procter, Ben">Ben Procter</author>. <title level="a">"Fort Worth, Texas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">167-168</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FORT WORTH, TEXAS</head>
+
+<p>On June 6, 1849, Maj. Ripley A. Arnold positioned
+forty-two men of Company F of the
+U.S. Second Dragoons on the Clear Fork of
+the Trinity River, his mission that of guarding
+East Texas settlers against Indian incursions.
+Within two months he relocated his men to a
+more advantageous spot, a high bluff overlooking
+the river, and designated this site as
+Camp Worth in honor of Brig. Gen. William
+Jenkins Worth, who had distinguished himself
+in the recent Mexican War. Three months
+later, on November 14, 1849, the War Department
+o.cially named this area Fort Worth,
+thereby establishing a permanent outpost on
+the north-central Texas frontier.</p>
+
+<p>During the 1850s Fort Worth struggled to
+survive. Even though the army evacuated the
+area for a string of forts farther west in 1853,
+residents John Peter Smith opened a school,
+Julian Field a flour mill, and Henry Daggett
+and Archibald Leonard department stores. In
+1856 these early settlers also persuaded the
+Butterfield Overland Mail and the Southern
+Pacific Stage Line to use the town as a western
+terminus on the California route, and they
+waged a bitter but successful fight in 1860 to
+have Fort Worth replace the nearby town of
+Birdville as the county seat.</p>
+
+<p>Then came the Civil War and the aftermath
+of Reconstruction (1861–74)&#8211;and even
+greater struggle. With young men joining the
+Confederate army, with money a scarcity on
+the Texas frontier, and with food and supply
+shortages increasingly apparent, the citizenry
+barely survived. By 1866 the population had
+dropped to a low of 175. As a result, Fort
+Worth soon assumed the title of "Panther
+City," suggesting that its environs were so
+placid and its ambience so dull that citizens
+had discovered a panther sleeping on the
+streets.</p>
+
+<p>After 1873 this image changed. Because of
+the efforts of merchants Jacob Samuels, William
+Jesse Boaz, and William Henry Davis,
+banker Khleber M. Van Zandt, and newspaperman
+Buckley B. Paddock, Fort Worth
+was incorporated, and, with a mayor-council
+form of government, the city began to grow.
+In 1876 the Texas and Pacific Railway designated
+Fort Worth as its eastern terminus, in
+part because cowboys rested there before continuing
+to drive cattle northward along the
+Chisholm Trail to railheads in Kansas and
+Missouri. As a consequence, meatpacking became
+the principal local business, culminating
+with the establishment of Swift and Armour
+meatpacking plants in 1902. This, together
+with other economic enterprises that prospered
+because of the city's eight railroads,
+stimulated growth, so that by 1900, with a
+population of 26,668, Fort Worth was the fifth
+largest city in the state. Residents proudly proclaimed
+Fort Worth as the "Queen City of the
+Prairies."</p>
+
+<p>Fort Worth continued to expand and prosper
+in the first half of the twentieth century. It
+became a military and defense center, benefiting
+from military contracts and associated
+personnel. During World War I the U.S. Army
+established Camp Bowie in the western part of
+the city, where 100,000 soldiers received instruction
+and training; the U.S. Air Force
+also converted three airfields into aviationtraining
+establishments. In 1942, after the outbreak
+of World War II, Consolidated Vultee
+Aircraft Corporation (later bought out by
+General Dynamics and still later by Lockheed-
+Martin) became the largest aircraft manufacturer
+in the area; and in 1948 a bomber military
+operation became Carswell Air Force
+Base, home to the Strategic Air Command's
+b-36 bombers.</p>
+
+<p>Other ingredients also guaranteed continued
+growth. With the discovery of oil in
+West, Central, and East Texas prior to and after
+World War I, oil-refining corporations
+such as Sinclair, Texaco, and Humble (later
+Exxon) selected Fort Worth as a home base
+and made it a center for oil exchanges and
+field equipment. Equally important was the
+leadership of Amon G. Carter, who directed
+the economic and political fortunes of the
+city. Besides building the <title level="j">Fort Worth Star-Telegram</title> (its logo is "Fort Worth, Where the
+West Begins"), he directed the construction of
+Casa Mañana (theater-in-the-round) and of
+the Texas Frontier Centennial in 1936 to rival
+the state fair in nearby Dallas. As a result of
+his forceful guidance, the city received muchneeded
+federal funds during the Depression.
+Carter was largely responsible for a number of
+Public Works Administration and Work Projects
+Administration projects, most of which
+still exist: Will Rogers Memorial Center (an
+auditorium), the Botanical Gardens, the John
+Peter Smith Hospital, a public library, fortyeight
+public schools and playgrounds, lowcost
+housing, a high school gymnasium, and
+the largest high school football stadium in the
+state (Farrington Field). Carter also promoted
+the Southwestern Exposition and Livestock
+Show (initiated in 1896), which has continued
+to grow in popularity.</p>
+
+<p>After the death of Amon Carter in 1955,
+James Claude "Jim" Wright assumed the political
+mantle for Fort Worth. In 1954 he was
+elected to the Twelfth Congressional District,
+encompassing Fort Worth and surrounding
+cities. In 1977 he became Democratic majority
+leader and in 1987 Speaker of the House
+of Representatives. As a result, Fort Worth
+received favorable congressional attention.
+Through his initiatives in the 1960s, federal
+funds helped rejuvenate and preserve the historic
+north side, where unemployment had
+risen to more than 20 percent after the Swift
+and Armour meatpacking plants closed in
+1962. During the 1960s and 1970s Wright also
+effectively championed Fort Worth as a military
+center by maintaining and expanding
+Carswell Air Force Base and by securing lucrative
+Pentagon contracts for companies such
+as General Dynamics and Bell Helicopter.
+Through his leadership, Fort Worth obtained
+federal and state funds for significant floodcontrol
+projects, for the construction of U.S.
+highways (I-20, I-30, and I-35) that crisscrossed
+the city, and for the Federal Center in
+the downtown area, which in turn attracted
+other government agencies. In 1974 Wright,
+together with local and state officials, dedicated
+the Dallas-Fort Worth International
+Airport, the fourth largest air terminal in the
+world.</p>
+
+<p>As a result of such leadership, continuing
+with businessmen such as Perry Bass and his
+four sons, Fort Worth has continued to expand
+significantly. From 1950 to 2000 the population
+increased from 277,047 to 534,694,
+making Fort Worth the fourth largest city in
+the state.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.047">Petroleum, United States</ref> / <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.019"><title level="j"><hi rend="italic">Fort Worth Star-Telegram</hi></title></ref>.</p>
+
+<closer>
+<signed>Ben Procter<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Knight, Oliver. <title level="m">Fort Worth: Outpost on the Trinity</title>. Norman:
+University of Oklahoma Press, 1953.</bibl> <bibl>Pate, J'Nell.
+<title level="m">Livestock Legacy: The Fort Worth Stockyards, 1887–1987</title>.
+College Station: Texas A&amp;M University Press, 1988.</bibl> <bibl>Sanders,
+Leonard. <title level="m">How Fort Worth Became the Texas-most City</title>.
+Fort Worth: Amon Carter Museum, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

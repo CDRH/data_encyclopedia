@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Swedish Architecture</title>
+<title level="m" type="sub"></title>
+<author>Lena Palmqvist</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Palmqvist, Lena">Lena Palmqvist</author>. <title level="a">"Swedish Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">96</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SWEDISH ARCHITECTURE</head>
+
+<p>Swedish immigrants moved particularly to the
+Northern Great Plains, especially North and
+South Dakota, although a good number of
+communities also took root in the Prairie
+Provinces and the Central Plains states of
+Kansas and Nebraska. For example, the Swedish
+settlement of Lindsborg in central Kansas
+formed in the late 1850s and the 1860s. Now
+about two thirds of Lindsborg's more than
+3,000 inhabitants claim Swedish ancestry. The
+western reaches of the Plains and the states of
+Texas and Oklahoma attracted relatively few
+Swedes.</p>
+
+<p>For Swedes, as for other settlers, a dugout
+or sod house often served as their first dwelling.
+Sod blocks, used like bricks, were a cheap
+building material, and a house could be constructed
+by the settler within a week. In time,
+the dugout or sod house might be replaced by
+a log cabin and relegated to shelter for animals.
+Whether sod house or log cabin, the
+Swedish single-room cottage was the model,
+with one big room (<hi rend="italic">stuga</hi>) serving as an allpurpose
+room, with a corner fireplace, small
+entrance hall, and perhaps a small storage
+room behind.</p>
+
+<p>Replacing the sod house or log building
+with a frame house was an important step in
+the development of the pioneer homestead.
+Numerous architectural plan books published
+in the latter part of the 1800s presented a "picturesque"
+American architecture with elements
+of Swiss and English rural building
+techniques as well as the Gothic style. The next
+step toward the industrialized building process
+was prefabricated houses, available from mailorder
+companies in the early 1900s. The standard
+patterns for frame buildings and houses
+built of bricks and stones resulted in a definitive
+break with the old building traditions.</p>
+
+<p>Churches built by early Swedish immigrants
+generally were copies of the vernacular
+church styles of the homeland. One of the
+most outstanding examples is the Bethany
+Lutheran Church in Lindsborg. It bears a
+strong resemblance to the cathedral of Karlstad
+in V&#228;rmland, Sweden, where the majority
+of the people in Lindsborg have their ancestry.
+The church was built in 1874 of brown sandstone,
+but in 1904 it was plastered with stucco
+and painted white. Also in Lindsborg the
+McPherson County Old Mill Museum includes
+the Swedish Pavilion. Designed by the
+Swedish architect Ferdinand Boberg (1860–
+1946) and built in Sweden, the pavilion is a
+reproduction of a Swedish manor house. The
+building contains a large main room and two
+wings. It was shipped in pieces to the 1904
+Louisiana Purchase Exhibition in St. Louis.
+Later, it was moved to Lindsborg in sections
+and rebuilt at Bethany College, where it was
+used as an infirmary and for classrooms. In
+1969 the Swedish Pavilion was moved to its
+present location and renovated. The pavilion
+represents a Swedish building tradition that
+is rare among Plains pioneer buildings and
+serves to remind Swedish Americans of the
+traditions of their home country.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.035">Swedes</ref>.</p>
+
+<closer>
+<signed>Lena Palmqvist<lb/>
+Nordiska Museet</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lindquist, Emory. <title level="m">Smoky Valley People: A History of Lindsborg, Kansas</title>. Lindsborg: Bethany College, 1953.</bibl> <bibl>Palmqvist,
+Lena. <title level="m">Swedes, America's Architectural Roots</title>. Washington
+<hi rend="smallcaps">DC</hi>: National Trust for Historic Preservation, 1986.</bibl> <bibl>Winquist,
+Alan H. <title level="m">Swedish American Landmarks</title>. Minneapolis:
+Swedish Council of America, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

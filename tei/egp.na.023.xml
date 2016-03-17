@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crowfoot (ca. 1830-1890)</title>
+<title level="m" type="sub"></title>
+<author>Hugh A. Dempsey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dempsey, Hugh A.">Hugh A. Dempsey</author>. <title level="a">"Crowfoot (ca. 1830-1890)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">571</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROWFOOT (ca. 1830-1890)</head>
+ <figure n="egp.na.023" rend="granted">
+<figDesc>Photographic portrait of Crowfoot, Head Chief of the Blackfoot, circa 1885 (Alex Ross) (Provincial Archives of Alberta)</figDesc>
+</figure>
+
+<p>Crowfoot (Isapo-muksika, or "Crow Indian's
+Big Foot") was head chief of the Blackfoot
+(Siksika) tribe. A great orator and warrior,
+Crowfoot contributed in a significant way to
+the peaceful settlement of the Canadian West.</p>
+
+<p>Crowfoot was born around 1830 on the
+Belly River, near present-day Lethbridge, Alberta.
+He first went to war at about the age of
+thirteen and showed great bravery in striking
+an enemy tipi with his whip and rescuing his
+wounded brother. He was in nineteen engagements
+with enemy tribes and was wounded six
+times. His greatest feat of bravery occurred in
+1866 when, in full view of his camp, he killed
+a grizzly bear with a spear. Shortly thereafter
+he became leader of the Big Pipes Band, and
+by 1870 he was one of three head chiefs of
+the tribe.</p>
+
+<p>Crowfoot maintained good relations with
+the Hudson's Bay Company, appreciating that,
+unlike American traders, they did not flood
+the land with alcohol. Crowfoot also befriended
+the Catholic missionary Albert Lacombe
+in 1865 and later rescued him when he
+was in a camp that was attacked by a Cree war
+party. Crowfoot allowed Lacombe to preach
+to his people, though Crowfoot himself paid
+little attention to Christianity.</p>
+
+<p>In 1874, when the North-West Mounted Police
+extended their control over western Canada,
+Crowfoot established friendly relations
+with its commander, James F. Macleod. In 1877
+he willingly signed the Blackfoot treaty (Treaty
+Number 7) with the Canadian government,
+ceding much of southern Alberta. However,
+after the Blackfoot were obliged to live, mired
+in famine, on their reserve east of Calgary,
+Crowfoot became disillusioned with the government.
+Nevertheless, he continued to mediate
+between his people and government officials. By the last decade of his life, most of his
+children had died of tuberculosis and he was
+almost constantly in mourning. Crowfoot died
+on April 25, 1890, in a tipi in the Bow Valley. He
+is now considered to be one of Canada's national
+heroes.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.029">Macleod, James</ref>.</p>
+
+<closer>
+<signed>Hugh A. Dempsey<lb/>
+Glenbow Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dempsey, Hugh A. <title level="m">Crowfoot, Chief of the Blackfeet</title>. Norman:
+University of Oklahoma Press, 1972.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

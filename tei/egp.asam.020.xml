@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sou, Chin Lin (1837-1894)</title>
+<title level="m" type="sub"></title>
+<author>Ken Leyton-Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Monnett, John H.">John H. Monnett</author>. <title level="a">"Sou, Chin Lin (1837-1894)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">146</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SOU, CHIN LIN (1837-1894)</head>
+
+<p>One would have trouble explaining "westward
+expansion" to Chin Lin Sou. Chin was a Cantonese
+immigrant in his twenties when he
+came to San Francisco in the early 1860s fleeing
+the bloody civil war that started with the
+T'ai P'ing Rebellion of 1850. By 1864 the Central
+Pacific Railroad's Charles Crocker employed
+hundreds of overseas Chinese workers.
+"Crocker's Pets," as they were called, blasted
+grades and cuts through Donner Pass in the
+Sierras and on across Utah's Great Basin.
+From that memorable time in his life, Chin's
+"frontier" pushed east rather than west.</p>
+
+<p>Following the driving of the "golden spike"
+at Promontory Point, Utah Territory, on May
+10, 1869, Chin Lin Sou found himself in the
+employ of Gen. Grenville Dodge's Union Pacific
+Railroad, working to bring its tracks
+up to government standards. This opportunity
+brought him across the Rocky Mountains
+to the Great Plains of Nebraska. In 1870 a
+group of Denver businessmen, including H.
+A. W. Loveland, financed the construction of
+the Denver Pacific Railroad, a north–south
+line connecting Denver and Colorado to the
+transcontinental trunk line at Cheyenne, Wyoming.
+Chin served as a foreman of the Chinese
+labor crew that brought the project in
+under budget.</p>
+
+<p>Chin Lin Sou stayed in Colorado, locating
+in Central City, where he made modest profits
+in mining investments. Sometime in the late
+1870s he was financially able to bring his family
+from China. They settled in Denver where,
+by 1880, he operated several businesses. He
+likely witnessed the terrible "Hop Alley" riots
+on October 31, 1880, when irate white residents
+burned and pillaged the Chinese neighborhood
+of downtown Denver along 18th and
+Lawrence Streets. Chin died in 1894 a pillar of
+Denver's Chinese community. He was buried
+in the city's Riverside Cemetery. Today a
+stained-glass window portrait in the Colorado
+state capitol commemorates Chin Lin Sou as
+Colorado's leading Asian pioneer leader.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.018">Denver, Colorado</ref>.</p>
+
+<closer>
+<signed>John H. Monnett<lb/>
+Metropolitan State College of Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Melrose Francis. "Rocky Mountain Memories." <title level="j">Rocky Mountain News</title>, May 20, 1984.</bibl> <bibl>Monnett, John H., and
+Michael McCarthy. <title level="m">Colorado Profiles: Men and Women Who Shaped the Centennial State</title>. Niwot: University Press
+of Colorado, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

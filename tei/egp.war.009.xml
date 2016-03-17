@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">British Commonwealth Air Training Plan</title>
+<title level="m" type="sub"></title>
+<author>Norman Hillmer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hillmer, Norman">Norman Hillmer</author>. <title level="a">"British Commonwealth Air Training Plan."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">824</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BRITISH COMMONWEALTH AIR TRAINING PLAN</head>
+
+<p>The British Commonwealth Air Training Plan
+(<hi rend="smallcaps">BCATP</hi>) was an agreement signed in Ottawa on
+December 17, 1939, soon after World War II
+began, by the governments of Britain, Canada,
+Australia, and New Zealand. The instruction
+scheme was centered in Canada, which provided
+infrastructure and a pool of potential
+trainees, as well as paying the lion's share of
+the costs. The plan's schools in Canada graduated
+131,553 personnel (72,835 of them homegrown),
+almost half the total pilots and aircrew
+employed on British and Commonwealth flying
+operations during the war. President Franklin
+D. Roosevelt called Canada the "aerodrome
+of democracy."</p>
+
+<p>Relative to population, the Prairie Provinces
+made an enormous overall contribution
+to the <hi rend="smallcaps">BCATP</hi>. Two of the four training command
+headquarters were situated there: No. 2
+in Winnipeg and No. 4 in Regina. The region
+was well suited to flight training because of
+climate and terrain. "Pilot factories" were
+heavily concentrated in the southern parts of
+Alberta, Manitoba, and Saskatchewan, where
+there were thirteen Elementary Flying Training
+Schools and twenty Service Flying Training
+Schools. Saskatchewan had some fifty
+schools, bases, and training facilities of various
+kinds; that province alone trained onefifth
+of all <hi rend="smallcaps">BCATP</hi> pilots and as much as 30
+percent of some categories of aircrew. The influx
+of people and resources had a positive
+effect on local economies emerging from the
+Depression&#8211;by encouraging housing starts
+and small business, for example. Social interactions
+between localities and the <hi rend="smallcaps">BCATP</hi> bases
+in their midst were characterized by complex
+levels of integration and friction.</p>
+
+<closer>
+<signed>Norman Hillmer<lb/>
+Carleton University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Douglas, W. A. B. <title level="m">The Official History of the Royal Canadian
+Air Force</title>. Vol. 2: <title level="m">The Creation of a National Air Force</title>.
+Toronto: University of Toronto Press, 1986.</bibl> <bibl>Hillmer, Norman,
+and Brereton Greenhous. "The Impact of the British
+Commonwealth Air Training Plan on Western Canada:
+Some Saskatchewan Case Studies." <title level="j">Journal of Canadian
+Studies</title> 26 (1981): 133-44.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

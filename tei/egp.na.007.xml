@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Arikaras</title>
+<title level="m" type="sub"></title>
+<author>Mary Jane Schneider</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schneider, Mary Jane">Mary Jane Schneider</author>. <title level="a">"Arikaras."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">564-565</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ARIKARAS</head>
+
+<p>Long before European Americans entered the
+Great Plains, the Arikaras, who called themselves
+<hi rend="italic">Sahnish</hi>, meaning "People," separated
+from the Skiri Pawnees and moved northward
+to the Missouri River valley in present-day
+South Dakota. From that time on, they were
+associated more with the nearby Siouanspeaking
+Mandans and Hidatsas than with
+their fellow Caddoan-speaking Pawnees to the
+south.</p>
+
+<p>Like the Mandans and Hidatsas, the Arikaras
+centered their lives on the river, using its
+high bluffs for their earth lodge villages and the
+rich soil of the bottomlands for gardens of
+corn, beans, squash, sunflowers, and tobacco.
+In early spring, Arikara women planted and
+tended the gardens. Then the people left on
+summer bison hunts. They returned to the
+village in the fall to harvest the crops. In late fall
+they undertook another bison hunt before
+moving to the winter villages in the bottomlands,
+where there was convenient wood
+and water. The earth lodges, like those built
+by other horticultural tribes of the Plains,
+were dome-shaped structures large enough to
+house several generations of a family and all
+their belongings. Arikara women made clay
+cooking vessels, decorated with stamped or
+etched designs, and distinctive willow harvest
+baskets. These square baskets, marked by
+brown and white geometric patterns woven
+around bent wood frames, are unique to the
+Arikaras, Hidatsas, and Mandans. Most other
+tools and utensils were common to other
+Plains tribes. The earth lodges, built and
+owned by the women, were usually occupied
+by sisters and their families. This kind of system
+is often associated with matrilineal clans,
+but there is no evidence for such a system
+among the Arikaras. It may be that their village
+organization and voluntary societies or
+associations replaced the functions of the
+clans. Some of these societies were military,
+encouraging their members to participate in
+raids and warfare, while others acted as police
+or cared for the poor. Belonging to a society
+helped a man attain the military successes and
+religious devotions that were required for village
+leadership.</p>
+
+<p>Each Arikara village was autonomous, and
+leadership was diffuse, organized by rank
+rather than hierarchically. When the fur trader
+Pierre Antoine Tabeau called a council meeting
+in 1804, forty-two of the best-known military
+and religious leaders&#8211;called "men of first
+rank"&#8211;attended. The second level consisted of
+men and women who had been initiated into
+the honorary society called Piraskani based on
+their excellence of character. The third group
+was composed of men who had significant war
+honors, probably members of important societies.
+The lowest level included all remaining
+warriors.</p>
+
+<p>Men who desired leadership positions also
+had religious duties. Arikara religious beliefs
+and practices centered around a belief in a
+principal creator, Nesharu, and a principal
+helper, Mother Corn. Mother Corn led the
+Arikaras out of the underworld and taught
+them what they needed to know to live in
+this world. Mother Corn instructed them to
+build the Medicine Lodge where the sacred
+ceremonies were held and gave each village a
+sacred bundle to ensure its well-being and
+continuance. In addition, each man had to
+seek a spirit guardian, who gave him prayers
+and objects to put in a personal sacred bundle.
+Throughout the year, the owners of sacred
+bundles sponsored ceremonies associated
+with corn growing and bison hunting. The
+Medicine Lodge ceremony took from fifteen
+to twenty days and marked the end of the year
+with demonstrations of sacred power, feasting,
+curing, and other sacred events.</p>
+
+<p>Arikara culture changed dramatically in the
+eighteenth century, as the Lakotas challenged
+them for bison-hunting territory, and smallpox
+epidemics decimated the tribe. By 1804,
+when Tabeau lived with the Arikaras, their
+eighteen villages had been reduced to three
+fortified settlements. That same year, Lewis
+and Clark described the Arikaras as "tenants
+at will" to the Lakotas. The Arikaras occupied
+these villages off and on until 1823, when they
+were attacked by Col. Henry Leavenworth as
+punishment for Arikara attacks on traders. In
+1837, reeling from the effects of another devastating
+smallpox epidemic, most of the tribe
+moved north to join the Mandans and Hidatsas
+at Fort Clark. Ever since, Arikara history
+has been bound with that of the Mandans and
+Hidatsas, and in 1862 they settled with them at
+Like-a-Fishhook Village.</p>
+
+<p>In 1871 the Arikaras, Mandans, and Hidatsas
+ceded their homeland of about 12 million
+acres, retaining the eight-million-acre Fort
+Berthold Reservation (in present-day North
+Dakota). Allotments subsequently reduced the
+reservation to about one million acres. At the
+end of the 1880s Like-a-Fishhook Village was
+abandoned and the Arikaras settled around
+the community of Nishu, where they became
+ranchers and farmers. Spread across the reservation,
+on both sides of the river, the three
+tribes led relatively separate lives until 1934,
+when they accepted the Indian Reorganization
+Act and adopted the name Three A.liated
+Tribes of Fort Berthold Reservation. The damming
+of the Missouri River in 1954 caused most
+tribal members to be relocated. The Arikaras
+centered around the town of White Shield,
+near some of their most important cultural
+sites. In the 1970s about 700 Arikaras lived on
+the reservation, and in 1990 the U.S. census
+reported a total Arikara population of 1,583.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.019">Pick-Sloan Plan</ref>.</p>
+
+<closer>
+<signed>Mary Jane Schneider<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Meyer, Roy W. <title level="m">The Village Indians of the Upper Missouri: The Mandans, Hidatsas, and Arikaras</title>. Lincoln: University
+of Nebraska Press, 1977.</bibl> <bibl>Parks, Douglas R. <title level="m">Traditional Narratives of the Arikara Indians</title>. Lincoln: University of
+Nebraska Press, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

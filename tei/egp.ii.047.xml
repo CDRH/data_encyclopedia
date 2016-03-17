@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Promotional Literature</title>
+<title level="m" type="sub"></title>
+<author>David M. Emmons</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Emmons, David M.">David M. Emmons</author>. <title level="a">"Promotional Literature."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">394&#8211;395</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PROMOTIONAL LITERATURE</head>
+
+<p>Those with a vested interest in the settlement of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, from the railroads to territorial and state governments, faced a daunting challenge. Early explorers and travelers had described the entire region west of the 100th meridian and east of the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountains</geogName> in language that could be charitably described as unflattering. Only one of these descriptions used the phrase "<geogName rend="region" reg="Great American Desert">Great American Desert</geogName>," but few of the accounts spoke favorably of the agricultural potential of the Plains, and some of them were openly despairing of its future as an agricultural region. It may not have been a desert, but it was assuredly desert-like. In sum, the <geogName rend="region" reg="Great Plains">Plains</geogName> had an image problem that antedated its settlement by decades.</p>
+
+<p>It followed that many of the early promoters of the settlement of the <geogName rend="region" reg="Great Plains">Plains</geogName> spent as much time trying to break down negative impressions as they did trumpeting the positive features of the region. They employed a variety of tactics. One of them, the most respectable, was to remind interested settlers that the <geogName rend="region" reg="Prairies of Illinois">Prairies of Illinois</geogName>, <geogName rend="region" reg="Prairies of Iowa">Iowa</geogName>, and <geogName rend="region" reg="Prairies of Minnesota">Minnesota</geogName> had once been dismissed as infertile because they were relatively treeless. The world knew of the productive capabilities of the Prairies; soon it would know of the equally productive potential of the <geogName rend="region" reg="Great Plains">Plains</geogName>. At the very least, the absence of timber on the <geogName rend="region" reg="Great Plains">Plains</geogName> was not disqualifying.</p>
+
+<p>From this good beginning the promotional effort began to veer toward the make-believe if not the openly deceptive. Claims were made that whatever the insufficiency of rainfall on the <geogName rend="region" reg="Great Plains">Plains</geogName>, the matter would be quickly and easily remedied by the increase in rainfall that would follow settlement. The agent of that increase varied with the promoters. For some, railroad lines and telegraph wires would bring more rain; others maintained that the planting of trees would have the same effect; still others argued that rain would increase as more of the <geogName rend="region" reg="Great Plains">Plains</geogName> were put under cultivation&#8211;in other words, "rainfall follows the plow."</p>
+
+<p>The promoters, particularly the railroads, brought this message to every potential agricultural settler, whether in eastern U.S. cities or in the cities, towns, villages, and farms of <geogName rend="continent" reg="Europe">Europe</geogName>. They joined "rainfall follows the plow" with other equally alluring promises. The most important of these was, predictably, the "free" land that came with filing a homestead claim. But there were others: good prices for wheat and corn; cool summers and moderate winters; gentle zephyrs; and perfectly timed precipitation. An advertising blitz was under way, and it was remarkably modern in some of its features. There were no surveys, polls, or focus groups, but the promoters understood what assurances their potential customers for land wanted, and they supplied them. To say that they occasionally stretched the truth would be to understate. Similarly, in the <geogName rend="region" reg="Canadian Prairies">Canadian Prairies</geogName> the <orgName rend="railroad" key="Canadian Pacific Railway Company" reg="rail.cprc">Canadian Pacific Railway</orgName> tried to erase the image of the area as arid and to attract farm families with the messages of "free homes for all" and abundant "profits of farming."</p>
+
+<p>Economic independence&#8211;good crops that brought good prices&#8211;was only one of the assurances. Promotional literature thus included frequent references to the "taming" of the West. The image of desertlike sterility was the most stubborn obstacle to overcome, but the image of the <geogName rend="region" reg="The West">West</geogName> as a place of savage Indians, arrogant and grasping cattle barons, shoot-outs, barroom brawls, and open prostitution had also to be countered. The same pamphlets and books that spoke of wheat yields and prices also included references to schools, churches, the closing of red-light districts and bars, and the removal of "troublesome" racial and ethnic groups: Indians, Mexicans, and Asians.</p>
+
+<p>Much of this aspect of the promotional campaign suggests a gendered approach. It is not that women did not care about free land or wheat prices or that men were not interested in schools and churches, but the promotion emphasis does lend itself to a female interpretation. References to the ethnic and racial "purity" of the new and domesticated <geogName rend="region" reg="The West">West</geogName> were in the same sections of the promotional literature that contained happy talk of schools, churches, and bridge clubs&#8211;the "women's section."</p>
+
+<p>There are two other important points to make in this regard. First, the promoters knew what historians have only recently come to acknowledge: women were equal partners in the decision to migrate. Second, the perceptions of what constituted the women's sphere are revealed: women cared about social amenities. If the agricultural lands as well as the town sites of the <geogName rend="region" reg="Great Plains">Plains</geogName> were to be promoted and settled, attention would have to be paid to both productivity and domestication, the two parts of the "migration calculus."</p>
+
+<p>Books, gazettes, pamphlets, newspapers, and territorial and state government publications in scores of languages were sent to every corner of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> and those parts of <geogName rend="continent" reg="Europe">Europe</geogName> that seemed promising and where the population was of an "acceptable" standard. Protestant and relatively well-off. In some respects, this was the first organized American advertising campaign, complete with slogans, jingles, and deceptive promises. It cannot be known how many responded or how many of those were able to make a living on the <geogName rend="region" reg="Great Plains">Plains</geogName>. What can be known is that the <geogName rend="region" reg="Great Plains">Great Plains</geogName> was the first of America's "frontiers" to be heavily promoted, and the first that needed to be.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.019">Immigration Boards</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">David M. Emmons<lb/>
+University of Montana-Missoula</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Bowden, Martyn J. "<title level="a">The Great American Desert in the American Mind: The Historiography of a Geographical Notion</title>." In <title level="j">Geographies of the Mind: Essays in Historical Geosophy in Honor of John Kirtland Wright</title>, edited by David Lowenthal and Martyn J. Bowden. New York: Oxford University Press, 1976: 119–47.</bibl> <bibl>Emmons, David M. <title level="m">Garden in the Grasslands: The Boomer Literature of the Central Plains</title>. Lincoln: University of Nebraska Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

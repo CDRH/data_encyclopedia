@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tulsa, Oklahoma</title>
+<title level="m" type="sub"></title>
+<author>S. Matthew DeSpain</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="DeSpain, S. Matthew">S. Matthew DeSpain</author>. <title level="a">"Tulsa, Oklahoma."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">186-187</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TULSA, OKLAHOMA</head>
+
+<p>Tulsa, located on the Arkansas River where it
+bends to flow south, is Oklahoma's second
+largest municipality and the principal urban
+center for the state's northeastern region. In
+2000 the population of Tulsa proper was almost
+400,000 and of the greater metropolitan
+area 803,000.</p>
+
+<p>The Lochapokas, a band of Creek Indians
+who endured their own "trail of tears" to Indian
+Territory in 1836, first settled the area and
+named their settlement Tallasi. Unable to pronounce
+Creek properly, whites called the settlement
+Tulsi or Tulsa. The community remained
+isolated and experienced little growth
+until after the Civil War, when Reconstruction
+agreements and land allotments forced upon
+the Creeks by the federal government opened
+the area to white settlement. In 1882 the Frisco
+Railroad made Tulsa a terminus, and the town
+became the hub for the region's cattle industry.</p>
+
+<p>It was a series of oil discoveries in northeastern
+Oklahoma between 1901 and 1907 (the
+largest being the Cushing field) that really
+transformed Tulsa by bringing a flood of laborers,
+speculators, and financiers. The city's
+population surged from 7,298 in 1907 to 72,000
+in 1920. As the epicenter for the midcontinent
+field, Tulsa was labeled the "Oil Capital of the
+World." Companies like John D. Rockefeller's
+Prairie and Gas Company, the Texas Company
+(now Texaco), and Gulf Oil operated out of
+Tulsa. Pipelines reached out, carrying crude
+to Port Arthur, Texas, Whiting, Indiana, and
+Baton Rouge, Louisiana. By 1927 Tulsa was
+headquarters of 1,500 oil-based companies.
+Those who profited most from oil built extravagant
+homes. One such subdivision, Maple
+Ridge, became a national historic site.</p>
+
+<p>Besides the prosperity and progress of the
+1920s, Tulsans created and experienced one of
+the nation's worst acts of terror against African
+Americans. On June 1, 1921, deputized and
+armed white mobs invaded and shot, robbed,
+and burned their way through Greenwood,
+the city's northern African American section.
+Planes dropped turpentine bombs, and machine
+gunners shot fleeing residents. Thirty-five
+city blocks were razed. At least thirty-nine
+and probably many more black Tulsans were
+murdered. Not a single individual was brought
+to justice. A state investigation in 2000 recommended
+reparations to survivors and their
+descendants. Racism persisted as Tulsa became
+a hotbed of Ku Klux Klan activity during
+the 1920s.</p>
+
+<p>The collapse of the petroleum industry in
+1930 accentuated the Great Depression's effect
+on the city. But, as with many western cities,
+World War II defense industries rescued Tulsa,
+stimulated and diversified its economy, and
+transformed its demography. Tulsa became
+a leading manufacturer of military aircraft
+and home to companies like Douglas Aircraft.
+Tulsa was also a training center for British,
+Canadian, and American pilots at the Spartan
+Aircraft Company and School. Cold war defense
+spending and a prospering aeronautical
+industry confirmed the city's renewed
+prosperity, making Tulsa the regional center
+of aviation production (with companies like
+North American and McDonnell-Douglass)
+and commercial services (American Airlines).
+Prosperity also led to Tulsa being labeled
+"America's Most Beautiful City" in 1957.</p>
+
+<p>During the 1960s and 1970s Tulsa, like other
+American cities, became the victim of suburban
+sprawl, with new suburbs clustered
+around new commercial centers. The suburbanization
+resulted largely from white flight
+to the south and east. The result created many
+Tulsas: North Tulsa was predominantly African
+American, West Tulsa stayed working
+class, East Tulsa grew with the expanding middle
+class, and South Tulsa remained predominantly
+upper class. The federal government
+also made Tulsa one of ten urban centers selected
+for the program to relocate Native
+Americans during the 1950s and 1960s; Tulsa
+now has the highest per capita Native American
+population of any metropolis. Tulsa continues
+to attract immigrants from a variety of
+ethnicities. Recent grassroots and municipal-level
+efforts have begun to unite the various
+Tulsas.</p>
+
+<p>Today, numerous industries and information-
+based services unrelated to oil, agriculture,
+or aviation are located in Tulsa. In
+addition to its economic, political, and educational
+prominence, Tulsa is also a major cultural
+center. It is home to two world-class art
+museums, the Philbrook Museum of Art and
+the Thomas Gilcrease Museum, which boasts
+one of the world's largest and most prestigious
+collections of western and Native American
+art and artifacts. Tulsa is the smallest American
+metropolis to support professional fulltime
+ballet and opera companies as well as
+a symphony orchestra. Professional hockey,
+baseball, and soccer teams make Tulsa their
+home. In the 1970s the 'Tulsa sound" of J. J.
+Cale and Leon Russell greatly influenced rock
+music, and the musical scene remains important
+today. Music and cultural festivals include
+Oktoberfest, Reggaefest, the Juneteenth Blues
+and Jazz Festival, the Greenwood Jazz Festival,
+and the Tulsa University Powwow. Because of
+the high quality and diversity of life there,
+Tulsa has been labeled an all-American city.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.041">Tulsa Race Riot</ref> / <hi rend="smallcaps">ART</hi>: <ref n="egp.art.025">Gilcrease, Thomas</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.047">Petroleum, United States</ref>.</p>
+
+<closer>
+<signed>S. Matthew DeSpain<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Debo, Angie. <title level="m">Tulsa: From Creek Town to Oil Capital</title>. Norman:
+University of Oklahoma Press, 1943.</bibl> <bibl>Ellswourth,
+Scott. <title level="m">Death in a Promised Land: The Tulsa Race Riot of 1921</title>. Baton Rouge: Louisiana State University Press, 1982.</bibl>
+<bibl>Goble, Danney. <title level="m">Tulsa!: Biography of the American City</title>.
+Tulsa <hi rend="smallcaps">OK</hi>: Council Oak Books, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

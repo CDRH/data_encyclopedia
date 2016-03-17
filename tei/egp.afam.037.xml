@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sayers, Gale (b. 1943)</title>
+<title level="m" type="sub"></title>
+<author>Nathan E. Odgaard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Odgaard, Nathan E.">Nathan E. Odgaard</author>. <title level="a">"Sayers, Gale (b. 1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">20-21</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAYERS, GALE (b. 1943)</head>
+<figure n="egp.afam.037" rend="granted" type="noclick">
+<figDesc>Gayle Sayers playing football</figDesc>
+</figure>    
+    
+<p>Though he played just four full seasons in the
+National Football League (<hi rend="smallcaps">NFL</hi>), Gale Eugene
+Sayers, born May 30, 1943, in Wichita, Kansas,
+ran his way to historical prominence with the
+Chicago Bears from 1965 to 1971. Sayers's talents
+were first realized in Omaha, Nebraska,
+where he was a standout in football and track
+at Central High School. After receiving a
+scholarship to play football at the University
+of Kansas, he earned All&#8211;American status as
+a halfback in 1963 and 1964. As a Jayhawk
+he amassed 2,675 rushing and receiving yards,
+averaged 6.5 yards per carry, and was named
+first-team All&#8211;Big Eight three years straight.
+In his sophomore campaign, Sayers gained
+1,125 yards on 158 carries to lead the nation
+with a 7.1-yard average.</p>
+
+<p>Sayers's success carried over into the <hi rend="smallcaps">NFL</hi>, as
+he lived up to high expectations of him as the
+Bears' first pick and the fourth overall pick of
+the 1965 draft. With a combination of balance,
+speed, and instinct, the six-foot 200-pound
+Sayers established himself as the premier running
+back of his time. While playing in just
+sixty-eight games, equivalent to fewer than
+five seasons today, Number 40 compiled 9,435
+all-purpose yards, recorded fifty-six career
+touchdowns, and broke four <hi rend="smallcaps">NFL</hi> records and
+tied two more. He still shares a record with
+Dub Jones and Ernie Nevers for scoring six
+touchdowns in one game. He ran for four,
+caught one, and returned a punt for another
+record against the San Francisco Forty-niners
+on December 12, 1965. That same year he
+led the <hi rend="smallcaps">NFL</hi> with twenty-two touchdowns, a
+rookie record. Sayers not only stood out as a
+halfback, but his elusiveness on the field also
+led to dominance as a punt- and kickoff-
+return specialist. He holds the record for highest
+average yardage per kickoff return in a career,
+at 30.6 yards, and is tied with Ollie Matson
+for returning six kickoffs for touchdowns.
+He led the <hi rend="smallcaps">NFL</hi> with a 31.2-yard average in
+1966, and his career best, a remarkable 37.7
+yards, came a year later.</p>
+
+<p>Sayers won two rushing titles in 1966 and
+1969 (1,231 and 1,032 yards, respectively),
+rushed for 100 yards or more in twenty games,
+averaged five yards per carry, and was named
+Rookie of the Year. In five professional bowlgame
+appearances, he was named Most Valuable
+Player three times. Two severe knee injuries
+cut his career short, and he was forced
+to retire in 1971. At thirty-four years old, he
+became the youngest inductee into the <hi rend="smallcaps">NFL</hi>
+Hall of Fame in 1977. Since his retirement
+from football, Sayers has become a successful
+businessman as head of Crest Computer Supplies,
+a Skokie, Illinois–based company.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: 
+<ref n="egp.sr.018">Football, American.</ref></p>
+
+<closer>
+<signed>Nathan E. Odgaard<lb/>
+Kansas City Kansan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Sayers, Gale, with Al Silverman. <title level="m">I Am Third</title>. New York: Viking Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

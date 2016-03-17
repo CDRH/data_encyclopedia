@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brown, John (1800-1859)</title>
+<title level="m" type="sub"></title>
+<author>Kenneth J. Winkle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Winkle, Kenneth J.">Kenneth J. Winkle</author>. <title level="a">"Brown, John (1800-1859)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">708</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BROWN, JOHN (1800-1859)</head>
+
+<p>John Brown, an abolitionist extremist, heightened
+sectional tensions and fomented violence
+before the Civil War by leading the "Pottawatomie
+Massacre" in Kansas in 1856 and
+the raid against the federal arsenal at Harpers
+Ferry, Virginia, in 1859. Brown was born in
+West Torrington, Connecticut, on May 9,
+1800, and moved with his family to Hudson,
+Ohio, at age five. A tanner by trade, Brown
+married twice and reared twenty children.</p>
+
+<p>Brown inherited from his father a religious
+antipathy toward slavery that was reinforced
+by the religious ferment of the Second Great
+Awakening. He adopted a strict Calvinist belief
+in predestination, divine election, and human
+depravity that prompted him to consider
+slavery a sin, which he was chosen by God to
+help eradicate. During the 1830s, when abolitionists
+such as William Lloyd Garrison increasingly
+appealed to religious conscience,
+Brown developed an uncompromising hostility
+toward slavery and joined the radical abolitionist
+movement that demanded immediate
+emancipation. While living in Springfield,
+Ohio, Brown attacked slavery with heightening
+militancy, aiding runaway slaves, associating
+with the African American abolitionist
+Frederick Douglass, writing antislavery essays,
+and citing the Bible in defense of violent resistance.
+During the 1840s he developed a reputation
+for proposing impractical schemes for
+fomenting rebellion in the South, including
+guerrilla warfare.</p>
+
+<p>When passage of the Kansas-Nebraska Act
+in 1854 led to armed resistance in Kansas,
+Brown settled near Osawatomie with five of
+his sons and their families. He joined the Free
+State guerrilla movement and commanded a
+company of twenty men known as the Liberty
+Guards. Enraged by the sack of Lawrence, a
+Free State stronghold, Brown led a raid on
+May 24, 1856, against a settlement at Pottawatomie
+Creek, killing five southern settlers. For
+the next four months, a veritable civil war
+raged in the territory, claiming 200 lives and
+earning the label "Bleeding Kansas." After a
+proslavery counterattack against Osawatomie
+in August, Brown fled Kansas.</p>
+
+<p>Hailed as a hero among northern abolitionists
+and excoriated as a lunatic among southern
+defenders of slavery, Brown accepted support
+from a group of abolitionists dubbed the
+"Secret Six." He spent the next three years lecturing,
+raising funds, aiding runaway slaves,
+writing, and organizing his raid against Harpers
+Ferry. On October 16, 1859, Brown seized
+the federal arsenal at Harpers Ferry with a
+force of eighteen men, including five free African
+Americans, in hopes of igniting a widespread
+slave revolt. By the time federal troops
+recaptured the arsenal two days later, Brown's
+followers had killed four men and suffered ten
+casualties, including two of Brown's sons.
+Brown's impassioned self-defense as he and six
+followers underwent trial, conviction, and execution
+made him a martyr among abolitionists
+and a popular antislavery crusader throughout
+the North. His execution, on December 2, 1859,
+became a political issue, inflamed sectional tensions,
+and inspired the Civil War hymn that
+began with the line "John Brown's body lies a
+mould'ring in the grave."</p>
+
+<closer>
+<signed>Kenneth J. Winkle<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Oates, Stephen B. <title level="m">To Purge This Land with Blood: A Biography
+of John Brown</title>. New York: Harper and Row, 1970.</bibl>
+<bibl>Rawley, James A. <title level="m">Race and Politics: "Bleeding Kansas" and
+the Coming of the Civil War</title>. Philadelphia: Lippincott,
+1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

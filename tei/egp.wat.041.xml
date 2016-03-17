@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Winters Doctrine</title>
+<title level="m" type="sub"></title>
+<author>Peter J. Longo</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Longo, Peter J.">Peter J. Longo</author>. <title level="a">"Winters Doctrine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">867</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WINTERS DOCTRINE</head>
+
+<p>The judicially crafted Winters Doctrine (1908)
+provides water for the needs of Native Americans
+who reside on federally reserved lands.
+This judicial guarantee, while not absolute, is
+highly significant given the demands for this
+critical natural resource in a region where water
+is often not abundantly available.</p>
+
+<p>Water policy in the Great Plains is shaped
+by powerful political forces. Economic demands
+translate into political pressures and
+ultimately into water law. State water laws are
+generally designed to allocate water for "beneficial
+uses," following the doctrine of prior appropriation.
+Stressing uses, rather than needs,
+is inconsistent with Native American ideals,
+whereby water, like other aspects of the environment,
+is connected to a higher sacred
+order. Consequently, European American water
+schemes have often been in conflict with
+Native American concepts.</p>
+
+<p>In 1908, however, Native Americans prevailed
+in the landmark case <title>Winters v. United
+States</title>. The case involved the Gros Ventres and
+Assiniboines of the Fort Belknap Reservation
+in Montana and their right to use the water of
+the Milk River. When farmers upstream diverted
+water from the river, the United States
+brought an injunction against them, reasoning
+that this left insufficient water for agriculture
+on the reservation. The farmers appealed.
+On January 6, 1908, the Supreme Court ruled
+in favor of the United States and the Native
+Americans, arguing that the establishment of
+the Fort Belknap Reservation entitled the Native
+Americans to perpetual use of the water
+that it contained. Their rights were "reserved"
+at the date of establishment (1888), and, contrary
+to the doctrine of prior appropriation,
+those rights could not be lost through nonuse.</p>
+
+<p>The Winters Doctrine was a major victory
+for all Native Americans, serving notice that
+state laws are secondary to federally reserved
+water rights and preventing prior appropriation
+schemes from extinguishing Native American
+needs. In 1976, in <title>Cappaert v. United
+States</title>, the doctrine was extended to groundwater
+use on or near federally created reservations.
+Subsequently, however, an increasingly
+conservative Supreme Court has ruled against
+tribes in a number of water rights disputes.
+While the Winters Doctrine protects Native
+American water rights, this protection is still
+vulnerable to changes in the prevailing political
+climate.</p>
+
+<closer>
+<signed>Peter J. Longo<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burton, Lloyd. <title level="m">American Indian Water Rights and the
+Limits of Law</title>. Lawrence: University Press of Kansas, 1991.</bibl>
+<bibl>Hundley, Norris. "The Winters Decision and Indian Water
+Rights: A Mystery Reexamined." In <title level="m">The Plains Indians
+of the Twentieth Century</title>, edited by Peter Iverson. Norman:
+University of Oklahoma Press, 1985: 77–106.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

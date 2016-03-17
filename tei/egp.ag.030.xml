@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.030 SYSTEM "egp.ag.030.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fairs</title>
+<title level="m" type="sub"></title>
+<author>Cathy Ambler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ambler, Cathy">Cathy Ambler</author>. <title level="a">"Fairs."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">43-44</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FAIRS</head>
+
+<figure n="egp.ag.030" rend="granted">
+<figDesc>Hog exhibit, Shawnee County, Kansas, 1918</figDesc>
+</figure>
+
+<p>As carnivals ready rides to serve eager customers,
+youths finish grooming livestock for
+judging, and community groups tidy fundraising
+booths, excitement builds as communities
+anticipate the opening day of their annual
+fair. The constancy of fair activity from
+early settlement through today attests to their
+importance as economic, social, and cultural
+events, as well as their ability to adapt to the
+changing needs of Plains residents.</p>
+
+<p>Early agricultural fairs were significant
+events in fledgling Great Plains communities.
+As settlement spread, town boosters competed
+to attract as many new immigrants to an
+area as possible. Started and funded mainly
+by merchants and stockbreeders, fairs became
+impressive showcases for the production capabilities
+of an area's fertile soil. Piles of lush
+apples&#8211;the bigger the better&#8211;visually guaranteed
+a region's potential and proclaimed
+that success was only a matter of hard work.
+Every local, state, and regional promoter tried
+to make their fair exhibits the most enticing,
+since boosters knew the economic benefits of
+promoting a fair "open to the world."</p>
+
+<p>Though organized mainly by merchants,
+early agricultural societies needed farmers to
+enter their crops and animals for display and
+judging, and farmers attended fairs to socialize
+and see the bounty of new consumer products.
+Horse racing, carnivals, and sideshows
+provided something for everyone and increased
+gate receipts. When confronted with
+bad weather or cycles of drought and depression,
+which kept attendance down, fairs struggled
+to maintain financial stability.</p>
+
+<p>Among unusual fairs on the Plains were the
+Indian International Fairs in Muskogee, Indian
+Territory (now Oklahoma), which began
+in 1874, and the Trans-Mississippi and International
+Exposition in Omaha, Nebraska, in
+1898, which included an Indian Congress. The
+congress took on a Wild West show atmosphere
+with sham battles staged to increase
+gate receipts.</p>
+
+<p>Fairs changed significantly between 1900
+and 1950. During the two world wars, agricultural
+production was critical in both the
+United States and Canada, and Great Plains
+communities celebrated agricultural successes
+at their fairs. Instead of the promotional
+events of earlier days, fairs became more educational,
+highlighting agricultural production,
+education, and pride of place. To aid
+fairs financially, many states legislated tax support,
+and in Canada, provincial governments
+and towns provided assistance grants.</p>
+
+<p>Since World War II fairs have met the
+changing needs of Great Plains residents. As
+the number of farmers declined and the size of
+farms increased, fair organizations adjusted.
+Agriculture is still featured, with shining new
+implements on display and awards for crops
+and animals, but fairs now serve mixed purposes
+for more diverse communities. Contemporary
+fairs often celebrate a cultural heritage
+tied to the pioneer image of the Great
+Plains featuring cowpokes, rodeos, and saddle
+club events. Famous country-western stars attract
+fairgoers from large urban areas and
+rural settings alike.</p>
+
+<p>Despite changes in organization, emphasis,
+and funding, Great Plains fairs have endured.
+From the Texas State Fair to the Calgary Exhibition
+and Stampede, fairs remain community
+celebrations where agricultural products
+of the region are displayed, and where friends
+and neighbors socialize, gossip about town
+events, see the sights, encounter new experiences,
+and refresh some awareness of who
+they are and where they live.</p>
+
+<closer>
+<signed>Cathy Ambler<lb/>
+Kansas State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ambler, Cathy. "The Look of the Fair: Kansas County
+Fairscapes, 1854–1994." Ph.D. diss., University of Kansas,
+1996.</bibl> <bibl>MacEwan, Grant. <title level="m">Agriculture on Parade: The Story
+of Fairs and Exhibitions of Western Canada</title>. Toronto:
+Thomas Nelson and Sons, 1950.</bibl> <bibl>Neely, Wayne C. <title level="m">The Agricultural
+Fair</title>. New York: Columbia University Press, 1935.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

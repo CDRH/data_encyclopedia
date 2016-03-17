@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Buddhism</title>
+<title level="m" type="sub"></title>
+<author>Judith Simmer-Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Simmer-Brown, Judith">Judith Simmer-Brown</author>. <title level="a">"Buddhism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">738</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUDDHISM</head>
+
+<p>Buddhism traces its origins to a sixth century
+<hi rend="smallcaps">B.C.</hi> Indian prince who practiced meditation
+until he became realized as the Buddha, or
+"enlightened one." During the next two and a
+half millennia, Buddhism became a major religious
+tradition, thriving in Southeast Asia as
+Theravada ("the tradition of the elders"), East
+Asia as Mahayana ("the great vehicle"), and
+Central Asia as Vajrayana ("the diamond vehicle").
+Common practices in these three "vehicles"
+are meditation, cultivation of wisdom
+and compassion, and the development of
+Buddhist communities.</p>
+
+<p>Buddhist adherents now live mainly in
+larger towns and cities of the Great Plains in
+two general populations (although actual census
+figures are not available). First, there are
+the Asian American communities of larger
+cities such as Omaha, Billings, and Calgary. In
+these cities, recently established immigrants
+from Asia seek to knit together their ancestral
+traditions with Buddhist observance. The
+Vietnamese of Oklahoma City have expressed
+economic and social confidence with a beautiful
+new temple; Thai and Laotian communities
+have established impressive Theravada centers
+just beyond the Plains borders in Houston,
+Dallas, and elsewhere in Texas. Other Asian
+communities have multigenerational history
+in the Great Plains, and Buddhist temples serve
+to join religion, spirituality, and culture in a
+single environment. The Buddhist Churches
+of America (<hi rend="smallcaps">BCA</hi>) was first established around
+1900 as the American mission of the Jodo Shinshu,
+a popular Pure Land sect from Japan. The
+Denver Buddhist Temple has long owned
+prime downtown real estate to house not only
+its temple, but a community center, subsidized
+housing for seniors, and shopping center.</p>
+
+<p>The second category of adherents, widely
+distributed throughout the Plains, are "convert"
+communities, for whom Buddhism is
+not their ancestral tradition. These groups fall
+into the three major "vehicles" described
+above. The Theravada groups practice <hi rend="italic">vipassana</hi>
+(insight) meditation with little ritual or
+cultural accouterments. Vipassana groups
+gather weekly or biweekly for sitting meditation
+(<hi rend="italic">zazen</hi>) and "dharma talks" given on tape
+or by members or visiting teachers. Small centers
+based in private homes can be found from
+Edmonton and Calgary south to Boulder,
+Santa Fe, and Dallas. They communicate
+through networking, newsletters, and public
+posting.</p>
+
+<p>The primary Mahayana meditation practiced
+is Zen, which originated in Japan and China.
+Tiny Zen centers dot the Great Plains from
+Rapid City to Missoula and from Omaha to
+Amarillo, sporting catchy names like "Laughing
+Teabowl," "Empty Sky," and "Great Mountain."
+Many of these centers are associated with the
+Vietnamese Zen master Thich Nhat Hanh, the
+monk who played an important role in ending
+the U.S.-Vietnam War in his homeland. Others
+trace their lineages to the Japanese traditions of
+Katagiri Roshi, who established a center in Minneapolis
+in the 1960s, or of Maezumi Roshi from
+Los Angeles. The Zen centers also stress <hi rend="italic">zazen</hi>,
+scheduled multiple times each week, as well as
+dharma talks and readings from Zen classics.</p>
+
+<p>Vajrayana Buddhism, associated with Tibet,
+has centers in Edmonton, Kansas City, and
+Dallas, but the greatest concentration of Vajrayana
+practice is in Boulder, Colorado, the
+home of Naropa University, which in 2000 had
+an enrollment of 900. The Buddhist-inspired
+accredited university was founded by Ch&#246;gyam,
+Trungpa, a teacher (<hi rend="italic">lama</hi>) who escaped from
+the Chinese invasion of Tibet in 1959. Vajrayana
+communities, centered on authorized teachers,
+are characterized by sitting meditation, ritual
+practice, tightly knit communities, rigorous
+study programs, and dharma talks.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ASIAN AMERICANS</hi>: <ref n="egp.asam.009">Denver Buddhist Temple</ref>.</p>
+
+<closer>
+<signed>Judith Simmer-Brown<lb/>
+Naropa University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Morreale, Don, ed. <title level="m">The Complete Guide to Buddhist America</title>.
+Boston: Shambhala Publications, 1998.</bibl> <bibl>Prebish,
+Charles S. <title level="m">Luminous Passage: The Practice and Study of
+Buddhism in America</title>. Berkeley: University of California
+Press, 1999.</bibl> <bibl>Seager, Richard Hughes. <title level="m">Buddhism in America</title>.
+New York: Columbia University Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

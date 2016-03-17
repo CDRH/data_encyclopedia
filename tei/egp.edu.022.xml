@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Libby, Orin (1864-1952)</title>
+<title level="m" type="sub"></title>
+<author>Gordon L. Iseminger</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Iseminger, Gordon L.">Gordon L. Iseminger</author>. <title level="a">"Libby, Orin (1864-1952)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">205</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LIBBY, ORIN (1864-1952)</head>
+
+<p>Orin Grant Libby was born on June 9, 1864,
+on a farm near Hammond, Wisconsin. After
+receiving his diploma from River Falls State
+Normal School in 1886, he taught in Wisconsin
+high schools until 1890. Entering the
+University of Wisconsin as a junior, he was
+awarded a bachelor of letters degree in 1892.
+He remained in Madison and was among the
+first graduate students of the historian Frederick
+Jackson Turner. Libby's doctoral dissertation,
+entitled "The Geographical Distribution
+of the Vote of the Thirteen States on the Federal
+Constitution 1787–8," may be the most
+important single contribution ever made to
+the interpretation of the movement for the
+federal Constitution.</p>
+
+<p>After receiving his doctorate in 1895, Libby
+remained at Wisconsin for seven years as an
+instructor, teaching history and pursuing his
+interests in birds and bird migration. In 1902
+he accepted the position of professor and
+chair of history at the University of North Dakota
+in Grand Forks, a position he held until
+he retired in 1945 at the age of eighty-one.</p>
+
+<p>Realizing on his arrival that the young state's
+history was still in the making, Libby turned
+to researching the history of North Dakota,
+thereby earning the title the "Father of North
+Dakota History." He reorganized the State Historical
+Society, served as its secretary for more
+than forty years, and, until his retirement, edited
+the society's journals, the <hi rend="italic">Collections</hi> and
+the <hi rend="italic">North Dakota Historical Quarterly</hi>. He created
+the State Museum, the State Historical
+Library, and the State Park System. In 1907
+Libby helped organize the Mississippi Valley
+Historical Association, and in 1903 he organized
+the North Dakota Audubon Society.</p>
+
+<p>Libby spent thirty-five years researching the
+visit in 1738 of Pierre Gaultier de Varennes,
+sieur de La V&#233;rendrye, and his sons to the Missouri
+River in what is now North Dakota.
+A recognized authority on North Dakota's Native
+Americans, Libby cleared the Arikara
+scouts who had served under Lt. Col. George
+Armstrong Custer at the Battle of the Little
+Bighorn of the charge that they had acted
+cowardly and had been responsible for the defeat
+of Maj. Marcus Reno's men. In 1912 Libby
+interviewed the nine surviving scouts and
+published his findings in <hi rend="italic">The Arikara Narrative
+of the Campaign against the Hostile Dakotas,
+June, 1876</hi>. Recently reissued to favorable
+reviews, Libby's account cannot be
+disregarded in any serious study of the Battle
+of the Little Bighorn.</p>
+
+<p>Throughout his life, Libby recorded the
+memories of the state's early inhabitants, their
+relatives, and their descendants; excavated for
+artifacts and remains of historic sites; photographed
+log cabins, sod houses, and dugouts;
+collected letters, photographs, diaries,
+Indian legends, newspapers, and documents;
+and encouraged the writing of lodge, church,
+community, and county histories. Little of
+North Dakota's history escaped his interest
+and efforts.</p>
+
+<p>Orin Grant Libby died on March 29, 1952, at
+the age of eighty-seven. He was survived
+by wife, Eva Cory Libby, daughter, Margaret,
+son, Charles, and four grandchildren. He was
+buried in Memorial Park Cemetery in Grand
+Forks.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: 
+<ref n="egp.war.025">Little Bighorn, Battle of the</ref>.</p>
+
+<closer>
+<signed>Gordon L. Iseminger<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Libby, Orin Grant. "The Geographical Distribution of the
+Vote of the Thirteen States on the Federal Constitution
+1787–8." Bulletin of the University of Wisconsin (1894): 1–
+116.</bibl> <bibl>Libby, Orin G., ed. <hi rend="italic">The Arikara Narrative of Custer's
+Campaign and the Battle of the Little Bighorn</hi>. Norman:
+University of Oklahoma Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

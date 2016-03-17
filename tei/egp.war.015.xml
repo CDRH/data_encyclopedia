@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.war.015 SYSTEM "egp.war.015.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crook, George (1828-1890)</title>
+<title level="m" type="sub"></title>
+<author>Joseph C. Porter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Porter, Joseph C.">Joseph C. Porter</author>. <title level="a">"Crook, Geroge (1828-1890)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">826</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROOK, GEORGE (1828-1890)</head>
+
+<figure n="egp.war.015" rend="granted">
+<figDesc>Gen. George Crook</figDesc>
+</figure>
+
+<p>George Crook was born on September 8, 1828,
+near Taylorsville, Ohio, to Elizabeth Matthews
+and Thomas Crook, farmers. He graduated
+from the U.S. Military Academy at West Point
+in 1852 and served in California and Oregon
+fighting Indians until 1861. After serving in the
+Civil War as colonel of the Thirty-sixth Ohio
+Volunteer Infantry, Crook returned to the Pacific
+Northwest.</p>
+
+<p>In 1871 the army ordered Lieutenant Colonel
+Crook to Arizona to quell the Apaches.
+After a successful campaign, Crook was promoted
+to brigadier general in 1873. In 1875 he
+assumed command of the Military Department
+of the Platte in Omaha, Nebraska.</p>
+
+<p>In December 1875 the government ordered
+the army to force Lakotas and Northern Cheyennes
+from the Powder River country to Indian
+reservations in Nebraska. On June 17,
+1876, Crook's Wyoming Column with 1,300
+fighting men (including 175 Crow and 86 Shoshone
+warriors) fought approximately 1,500
+Lakotas and Cheyennes led by Crazy Horse in
+the fierce six-hour Battle of the Rosebud, Montana,
+where Crazy Horse stopped Crook's advance.
+Crook and other officers campaigned
+throughout 1876 and early 1877, destroying Indian
+villages and disrupting their hunting.
+Crazy Horse and other nontreaty Lakotas and
+Cheyennes were compelled to surrender during
+the spring of 1877.</p>
+
+<p>Crook, who believed that Americans were to
+blame for the Indian wars, consistently advocated
+Indian rights. In 1878 the government
+ordered Crook to arrest members of the Ponca
+Tribe who had returned to their Nebraska
+homeland from Indian Territory. Crook, seeing
+the injustice in this, convinced others to
+initiate a lawsuit to stay his orders. In the resulting
+case, <title>Standing Bear v. Crook</title>, Judge
+Elmer Dundy ruled for the first time in American
+history that "an Indian is a person within
+the laws of the United States."</p>
+
+<p>In 1882 Crook returned to Arizona, where he
+achieved his finest military accomplishment.
+In 1883 he led nearly 200 Western Apache
+scouts and about fifty soldiers into the Chiricahuas'
+sanctuaries in the Sierra Madre of
+Mexico. After one skirmish, Crook negotiated
+the Chiricahuas' peaceful return to their Arizona
+reservation. Crook's superior officer, Gen.
+Philip Sheridan, publicly criticized Crook's
+Apache policy, and relations between the two
+deteriorated to the point that in 1886 Crook
+asked to be relieved of his command in Arizona.
+Crook returned to the Department of the Platte
+until 1888, when he became a major general and
+was assigned to command the Division of the
+Missouri, headquartered in Chicago. Crook
+died there on March 21, 1890. He was survived
+by his wife, Mary.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.112">Standing Bear</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.053">Trial of Standing Bear</ref>.</p>
+
+<closer>
+<signed>Joseph C. Porter<lb/>
+University of North Carolina at Chapel Hill</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Greene, Jerome A. "George Crook." In <title level="m">Soldiers West: Biographies
+from the Military Frontier</title>, edited by Paul Hutton.
+Lincoln: University of Nebraska Press, 1987: 115–36.</bibl>
+<bibl>Schmitt, Martin F., ed. <title level="m">General George Crook: His Autobiography</title>.
+Norman: University of Oklahoma Press, 1960.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

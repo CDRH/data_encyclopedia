@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hunting Lore</title>
+<title level="m" type="sub"></title>
+<author>Lynda Wolfe Coupe</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Coupe, Lynda Wolfe">Lynda Wolfe Coupe</author>. <title level="a">"Hunting Lore."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">305</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HUNTING LORE</head>
+
+<p>The hunting lore of the Great Plains can be
+exemplified by three major figures: William F.
+"Buffalo Bill" Cody (1846-1917), Theodore
+Roosevelt (1858-1919), and Natty Bumppo, the
+main character of the Leatherstocking tales by
+James Fenimore Cooper (1789-1851).</p>
+
+<p>Of course, the myriad tribes of Native
+Americans were the first inhabitants and hunters
+of the "Great American Desert," as it was
+described in some quarters throughout the
+nineteenth century. The buffalo was their crucial
+game, providing food and many other
+products for survival. No part of the animal
+was wasted, and the symbiotic relationship between
+the tribe and the buffalo connoted a
+spiritual link, reflected in many beliefs and
+legends.</p>
+
+<p>One such legend, related by Buffalo Bill in
+his autobiography, centers on a creation myth.
+According to Cody, one night a group of Pawnees
+came into camp bringing with them a
+number of large bones, one of which a doctor
+with Cody's expedition identified as a human
+thighbone. The Pawnees maintained that the
+bones belonged to an ancient race of men who
+inhabited the country and were three times the
+size of human beings of the day. Any one of
+these giants could run down a buffalo and tear
+off its leg with one hand and then eat it as he
+walked. However, these giant men did not believe
+in the Great Spirit; they were not intimidated
+by the thunder and lightning and
+laughed at it. This angered the Great Spirit,
+and he sent a great rainstorm that drove the
+giants to the hills. But the water rose and covered
+the mountaintops as well, and the conceited
+giants were drowned. Once the floodwaters
+receded, the Great Spirit considered that
+he had made men too large and powerful, and
+he would henceforth re-create them smaller
+and weaker. The Pawnees maintained that this
+was Indian history handed down to them from
+time out of mind. This explains why men are
+not like the giants of old and have to work
+harder to hunt and to live. Cody adds an interesting
+note to this episode. He remarked that
+since their expedition had no wagons with
+them and the thighbone was very large, it had
+to be left behind.</p>
+
+<p>Probably the most famous account of Buffalo
+Bill relates how he earned his name. In
+a contest with William Comstock, who was
+chief of scouts at Fort Wallace, Kansas, Cody
+killed sixty-nine buffalo in an eight-hour day,
+while Comstock shot only forty-six. Cody
+maintained that during his service to provide
+meat for the men building the Kansas Pacific
+Railroad in 1867, he killed 4,280 buffalo. However,
+Cody's "accomplishments" as a buffalo
+hunter remain a subject for debate, for the
+facts are clouded by myth.</p>
+
+<p>Theodore Roosevelt was another hunter figure
+whose exploits are legendary. He spent two
+years in the Dakotas, following the deaths of
+his mother and his first wife, Alice, on the same
+day in February of 1884. He became a gentleman
+cattle rancher and found consolation in
+the hard work and austere landscape. In 1885
+Roosevelt wrote an essay on "The Lordly Buffalo"
+for his book <title level="m">Hunting Trips of a Ranchman</title>
+(1885). He regretted the excesses of the 1870s
+when the buffalo herds were reduced to nearextinction,
+but he saw their demise as necessary
+for the progress of the nation. He also
+enthusiastically hunted buffalo in a more controlled
+manner, which he described in great
+detail in his essay, and sought to preserve them
+for hunting as a sport. He founded the Boone
+and Crockett Club and served as its first president.
+One goal of the club was to preserve large
+game in America for hunting.</p>
+
+<p>Natty Bumppo, the hero of James Fenimore
+Cooper's five Leatherstocking tales, is to a large
+extent a fictional portrayal of Daniel Boone. In
+<title level="m">The Prairie</title> (1827), Natty was an old man in his
+eighties who had moved ever westward over
+the course of his life and would die in the Great
+Plains. He spent the last stage of life in a forest
+of grass on the Plains, his hunting years at an
+end. This was a time of American expansion
+across the continent. The pioneers were seeking
+new lives as Natty was ending his. He represented
+a way of life that had all but disappeared,
+just as his youth and strength were
+nearly gone. However, he was freed from the
+confines of time because his hold on mortal life
+was tenuous. He came to symbolize a nation
+that had developed and reached out across
+a continent of dramatic landscapes, unconstrained
+by any boundaries. He was the hunter
+scout who opened the path for the march of
+pioneers who followed.</p>
+
+<closer>
+<signed>Lynda Wolfe Coupe<lb/>
+Pace University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cody, William F. <title level="m">The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout, and Guide: An Autobiography</title>. Lincoln: University of Nebraska Press,
+1978.</bibl> <bibl>Cooper, James Fenimore. <title level="m">The Prairie: A Tale</title>. New
+York: Rinehart, 1960.</bibl> <bibl>Roosevelt, Theodore. <title level="m">Hunting Trips of a Ranchman: Sketches of Sport on the Northern Cattle Plains and the Wilderness Hunter: An Account of the Big Game of the United States and Its Chase with Horse, Hound, and Rifle. 1885</title>. New York: Modern Library, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

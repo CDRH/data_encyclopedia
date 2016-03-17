@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Binnie-Clark, Georgina (1871-1947)</title>
+<title level="m" type="sub"></title>
+<author>David B. Marshall</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Marshall, David B.">David B. Marshall</author>. <title level="a">"Binnie-Clark, Georgina (1871-1947)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">325</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BINNIE-CLARK, GEORGINA (1871-1947)</head>
+
+<p>Born at Dorset, England, on April 25, 1871,
+Georgina Binnie-Clark was a journalist who
+migrated to Canada in 1905 to become an independent
+farmer. She "caused quite a sensation"
+in the Qu'Appelle Valley of southern
+Saskatchewan when she purchased a quartersection
+of land. Single, independent women
+farmers were rare in Prairie Canada. Under
+the Dominion Lands Act (1872), single women
+were not eligible for a quarter-section, or
+160 acres, of free land from the Canadian
+government.</p>
+
+<p>Binnie-Clark was determined to make her
+farm a successful revenue-producing investment
+so that she could secure independence.
+Without the free quarter-section of land, she
+was under a greater financial burden than her
+male counterparts. She had access to some
+funds enabling her to buy necessary supplies,
+farm equipment, and livestock, and to hire
+labor. But purchasing land forced her to deplete
+limited capital and make added interest
+payments. The harvests were also disappointing,
+making it increasingly difficult for her to
+cover mortgage costs or meet growing debt
+payments.</p>
+
+<p>As a result of her experiences selling grain
+in the open market, Binnie-Clark became a
+sharp critic of the privately controlled grain-marketing
+system. In her view the Prairie
+farmer was not su.ciently aided by either
+financial institutions or governments. She advocated
+government regulation of grain marketing
+and the establishment of governmentrun
+experimental farms to serve as models for
+Prairie women farmers. After the 1908 harvest,
+Binnie-Clark traveled to Ottawa to discuss
+with government officials the "claim of
+women to her fair share" in the homestead
+lands of Canada. She helped to spearhead the
+movement calling for application of the freeland
+provisions of the Dominion Lands Act to
+women, which converged with other Prairie
+women's crusades for equal rights before the
+law, such as the campaigns for dower rights
+and the voting franchise. The homestead land
+provision was not open to single women until
+the lands of the Canadian Prairie were transferred
+from the federal government to provincial
+jurisdiction in 1930.</p>
+
+<p>Binnie-Clark wrote many articles in British
+and American publications. Their purpose
+was to outline the difficulties and provide
+guidance through her experiences to other
+women contemplating owning and operating
+a farm on the prairie. She was a keen observer
+of Saskatchewan rural life. Her autobiographical
+books contain rich detail about the social
+life and customs, material culture, local politics,
+and the rhythm of daily farm life. She
+died in England on April 22, 1947.</p>
+
+<closer>
+<signed>David B. Marshall<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Binnie-Clark, Georgina. <title level="m">A Summer on the Canadian Prairie</title>. London: Edward Arnold, 1910.</bibl> <bibl>Binnie-Clark,
+Georgina. <title level="m">Wheat and Women</title>. Toronto: Bell and Cockburn,
+1914.</bibl> <bibl>Jackel, Susan. <title level="m">A Flannel Shirt and Liberty: British Emigrant Gentlewomen in the Canadian North West, 1880–1914</title>. Vancouver: University of British Columbia
+Press, 1982.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

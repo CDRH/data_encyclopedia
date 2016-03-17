@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Missouri Company</title>
+<title level="m" type="sub"></title>
+<author>W. Raymond Wood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wood, W. Raymond">W. Raymond Wood</author>. <title level="a">"Missouri Company."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">362-363</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MISSOURI COMPANY</head>
+
+<p>The Spanish had a tenuous grasp on the upper
+Louisiana Territory in the waning years of the
+eighteenth century. The Missouri Company
+was founded in an effort to exploit its riches.
+France had ceded Louisiana to Spain in the
+secret Treaty of Fountainbleau in 1762, although
+residents of Louisiana did not learn of
+the transaction until late in 1764, and French
+control of upper Louisiana was not formally
+surrendered to Spain until 1770. France regained
+control in 1800 and sold Louisiana to
+the United States three years later. During the
+latter years of the eighteenth century, Spanish
+officials in St. Louis tried to halt British trade
+incursions in the area. The Missouri River was
+the key to Spanish domains west of the Mississippi
+River, though they were slow to exploit
+the trade there. Spaniards had not ventured
+much farther west than the French had
+before them. But they were competing with
+British traders from the Mississippi River who
+were reaching the Omahas and other tribes
+along the lower Missouri.</p>
+
+<p>On October 15, 1793, François Luis Hector
+Carondelet, Louisiana's governor-general, and
+Jacques Clamorgan oversaw the founding of
+the Company of Discoveries of the Upper
+Missouri. Although it was later commonly
+called simply the Missouri Company, it was
+known under ten variant names. This company
+of St. Louis merchants was intent on exploiting
+the fur resources of the upper Missouri
+River and removing the British threat to
+Spanish domains. Clamorgan, director of the
+company, planned to build a series of forts on
+the Missouri and hoped eventually to extend
+the company's interests west to the Pacific
+Ocean.</p>
+
+<p>The new company made its first explorations
+of the river in the fall of 1794, when Jean
+Baptiste Truteau ascended as far as presentday
+central South Dakota. He did not reach
+the Mandans, but he did build a post on the
+Missouri, Ponca House, not far from the
+mouth of the Niobrara. Results were disappointing.
+In April 1795 the company sent a
+second and larger expedition upriver under
+the leadership of a man named Lecuyer. This
+expedition was a fiasco due to Lecuyer's poor
+leadership and the hostility of the Poncas.</p>
+
+<p>In July 1795 company o.cials in St. Louis
+heard news that threatened to further usurp
+trade in their domain, news of a direct threat
+to Spanish control of the upper Missouri
+River. Two traders from the Mandans had deserted
+and made their way downriver, where
+they told the Spanish commandant of upper
+Louisiana, Zenon Trudeau, about direct trade
+between Canadian traders and the Mandans,
+and that the British had built a fort at the
+villages of the Mandans.</p>
+
+<p>The company concluded preparations for a
+third expedition, a far larger one, nearly the
+size of the later Lewis and Clark expedition.
+The party was under the direction of the
+Scotsman James Mackay, a former trader in
+Canada, and John Thomas Evans, a Welshman
+who had come to the United States seeking
+the legendary Welsh Indians. Their four
+vessels and thirty men left St. Louis in August
+or September 1795. They built a post for the
+Otoe Indian trade near the mouth of the
+Platte River, then established Fort Charles not
+far from present-day Sioux City. In 1796 Evans
+made his way to the Mandans and expelled the
+Canadian traders from their trading post, but
+he decided not to continue on to the West
+Coast as Mackay had ordered him, and he returned
+to St. Louis. Mackay had already done
+so, and the third expedition ended&#8211;again, a
+failure. Any significant Spanish presence on
+the Missouri River promptly evaporated, and
+the Canadians resumed their trade with the
+Mandans. The expedition's greatest contribution
+to history was the information it provided
+for Lewis and Clark seven years later.</p>
+
+<p>The Missouri Company did not long survive
+these setbacks. Clamorgan was blamed
+for its losses, but he enlisted the aid of a powerful
+Canadian trader, Andrew Todd, and expanded
+operations to the upper Mississippi
+River. With Todd, he formed a new company
+&#8211;Clamorgan, Loisel and Company&#8211;that
+competed with the Missouri Company, with
+which he was still associated. When Todd died
+in 1796 the financially tottering firm was temporarily
+rejuvenated by St. Louis leaders such
+as Auguste Chouteau, but under Clamorgan's
+erratic hand the firm slowly expired and was
+no longer in operation by the time of the
+Louisiana Purchase.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.022">Fur Trade</ref>.</p>
+
+<closer>
+<signed>W. Raymond Wood<lb/>
+University of Missouri-Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nasatir, Abraham P. <title level="m">Before Lewis and Clark: Documents Illustrating the History of the Missouri, 1785–1804</title>. St.
+Louis: St. Louis Historical Documents Foundation, 1952.</bibl>
+<bibl>Nasatir, Abraham P. "Jacques Clamorgan." In <title level="m">The Mountain Men and the Fur Trade of the Far West</title>, edited by Le
+Roy R. Hafen, 2: 81–94. Glendale <hi rend="smallcaps">CA</hi>: Arthur H. Clark,
+1965.</bibl> <bibl>Wood, W. Raymond. "Fort Charles, or 'Mr. Mackey's
+Trading House.'" <title level="j">Nebraska History</title> 76 (1995): 2–7.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

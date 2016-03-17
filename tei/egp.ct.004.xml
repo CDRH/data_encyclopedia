@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Abilene, Texas</title>
+<title level="m" type="sub"></title>
+<author>David G. McComb</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McComb, David G.">David G. McComb</author>. <title level="a">"Amarillo, Texas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">158-159</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AMARILLO, TEXAS</head>
+
+<p>Located in the center of the Texas Panhandle,
+Amarillo, with a population of almost 175,000
+in 2000, straddles the Potter and Randall
+county line and serves as the seat of government
+for Potter County. The population is 77
+percent white, 15 percent Latino, 6 percent African
+American, and a small percentage of
+other groups. It is a marketing point for cattle,
+wheat, corn, sorghum, natural gas, oil,
+and helium. Amarillo is a crossroads and has
+served that function throughout its history.</p>
+
+<p>When the Fort Worth and Denver Railway,
+after a delay during the depression of the
+1870s, resumed its northwestward march into
+the Texas Panhandle, James T. Berry, a real
+estate promoter, led a group of merchants
+from Colorado City to establish a new town
+site along the railroad route. In 1887 they laid
+out a grid of streets near Amarillo Lake, also
+known as Wild Horse Lake. At first called
+Oneida, the town's name was soon changed to
+Amarillo, which means "yellow" in Spanish.
+Supposedly, Spanish shepherds or traders had
+previously named the area for an abundance
+of yellow flowers or perhaps for the yellow
+soil of the creek banks. Local cowboys, having
+been promised a town lot by Berry, cast the
+decisive votes for Amarillo as the new county
+seat on August 30, 1887. This political designation,
+along with the railroad and the supply of
+water, gave Amarillo the necessities of life.</p>
+
+<p>The railroad arrived in 1887, bringing merchants,
+cattle buyers, and settlers. By 1890
+Amarillo was one of the world's busiest cattleshipping
+points. The town site lay on low
+ground, however, and after soaking rains in
+the spring of 1889 the town was moved to a
+higher location established by rancher Henry
+B. Sanborn and barbed wire–fencing magnate
+Joseph F. Glidden. The railroad opened a second
+depot, and voters transferred the county
+seat in 1893. Citizens incorporated the town in
+1899 and established a council-manager form
+of city government in 1913, a system used to
+the present day.</p>
+
+<p>Amarillo continued to grow. Three more
+rail lines had arrived by 1903. In the first decade
+of the twentieth century Amarillo acquired
+a hospital, an independent school district,
+an electric service, a trolley system, a
+public library, and a rowdy bowery. Although
+the population reached 9,957 in 1910, it was
+still a raw town, as Mary H. Turner of Chicago
+observed in 1902. Men spoke only about the
+cattle business; there were no sidewalks and
+no trees; rattlesnakes sunned themselves on
+the small golf course; and a black bull wandering
+the streets opened home fence gates in
+order to eat the planted flowers.</p>
+
+<p>Oil explorers found natural gas near Amarillo
+in 1918 and petroleum in 1921. The nearby
+Cliffside gas field, with its high natural helium
+content, began producing in 1927 and resulted
+in the construction of a federal government
+helium plant four miles west of town. The
+government produced the inert gas until 1970,
+when an excess of helium in the nation made
+production unnecessary. Amarillo still bills itself
+as the "Helium Capital of the World." After
+the dust storms and poverty of the Great
+Depression, World War II brought economic
+relief in 1942 with the opening of the Amarillo
+Army Air Force Field for training pilots and
+the nearby Pantex Ordnance Plant for producing
+bombs. The airfield closed in 1946, reopened
+in 1951, and then closed again in 1968.
+The federal government converted the Pantex
+plant in 1951 to the production and deconstruction
+of chemical and nuclear explosives.
+Fears about radioactive poisoning and reports
+of unsafe environmental conditions have resulted
+in occasional protests and have left a
+shadow of concern that remains to the present
+time. Still, the Pantex plant was Amarillo's
+largest employer, and there has been relatively
+little pressure on Pantex to prioritize environmental
+protection.</p>
+
+<p>After a decline in population of 8 percent
+following the closing of the airfield, Amarillo's
+population had rebounded to 149,230 by 1980.
+In 1971 the city took over a part of the airfield
+for an airport, which is now served by six passenger
+airlines, and Interstates 40 and 27 now
+traverse the city, dividing it into quarters. Natural
+gas, petroleum, cattle, agriculture, and
+transportation remain Amarillo's main economic
+supports.</p>
+
+<closer>
+<signed>David G. McComb<lb/>
+Colorado State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Henderson, H. Allen. "Amarillo, Texas." In <title level="m">The New Handbook of Texas</title>, edited by Ron Tyler. Austin: Texas
+State Historical Association, 1996: 1: 140–42.</bibl> <bibl>Key, Della
+Tyler. <title level="m">In the Cattle Country: History of Potter County</title>.
+Amarillo: Tyler-Berkley, 1961.</bibl> <bibl>Price, B. Byron, and Frederick
+W. Rathjen. <title level="m">The Golden Spread</title>. Northridge <hi rend="smallcaps">CA</hi>: Windsor
+Publications, 1986.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

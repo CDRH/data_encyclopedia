@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Reservation Towns</title>
+<title level="m" type="sub"></title>
+<author>Erin Hogan Fouberg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fouberg, Erin Hogan">Erin Hogan Fouberg</author>. <title level="a">"Reservation Towns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">179-180</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RESERVATION TOWNS</head>
+
+<p>The U.S. federal government, railroads, traders,
+tribal governments, individual Indian
+proprietors, and missionaries all took part in
+the planning of towns on Native American
+reservations in the Great Plains. Prior to allotment,
+reservation towns were often located on
+rivers for trading purposes, near missions, or
+near Bureau of Indian Affairs agencies. As
+railroads extended through reservations and
+lands were opened to non-Indians through
+"surplus" lands acts, new towns were incorporated
+along railroads and in central places on
+reservations. Some reservation towns grew
+haphazardly until incorporation, when gridiron
+plans were superimposed on the landscape.
+Others were planned prior to settlement,
+again commonly laying streets in the
+four cardinal directions. Regardless of their
+planning, reservation towns serve as bases
+for both Indian and non-Indian communities
+throughout the Great Plains today.</p>
+
+<p>The functions of reservation towns vary
+from being the seat of tribal governments to
+being central places for rural Indian and non-
+Indian populations and bases for economic
+development. Some towns are largely populated
+by Indians and house the tribal governments
+and Bureau of Indian Affairs agencies.
+For example, Agency Village, Lake Traverse
+Reservation, South Dakota, was the site of the
+old Bureau of Indian Affairs agency. After a
+surplus lands act opened the reservation in
+1892, the Bureau of Indian Affairs moved the
+agency to Sisseton, South Dakota, six miles
+north of the old agency. Nonetheless, the tribe
+continued to hold its annual wacipi at the old
+agency site. In the 1960s the tribal government
+moved its headquarters back to the old agency
+and named the town Agency Village. This
+move enabled the tribe to create its own place
+on the reservation separate from the town
+of Sisseton, which was populated largely by
+non-Indians by the 1960s. Today, Agency Village
+houses one of the tribe's gaming operations,
+the tribal community college, the wacipi
+arena, a tribal elementary and secondary
+school, the offices of the tribal government,
+and many low-income housing units.</p>
+
+<p>Other reservation towns, especially on the
+western Great Plains, are populated by both
+Indians and non-Indians and provide goods
+and services to vast rural areas. Eagle Butte,
+South Dakota, houses the tribal government
+and Bureau of Indian Affairs agency for the
+Cheyenne River Sioux Tribe. The town provides
+goods and services to people within the
+2.8 million-acre reservation. The landscape
+of the town reflects the presence of the tribal
+government, with building after building on
+the main street displaying the seal of the tribal
+government. The tribal government owns the
+telephone authority, the cable company, a
+hotel, a grocery store, and a small strip mall
+that service both Indian and non-Indian populations
+within the reservation.</p>
+
+<p>Reservation towns that are close to major
+Plains population centers are likely to house
+casinos today. The economy of Flandreau,
+South Dakota, a town of 2,400 residents,
+mostly non-Indians, has become increasingly
+tribally driven and dependent upon gaming.
+At the southwestern corner of the town is the
+Flandreau Santee Sioux's small reservation
+and large casino. The Royal River Casino has
+expanded in recent years and now employs
+some 300 people. The proximity of Flandreau
+to Sioux Falls, South Dakota, has enabled
+the casino to achieve some level of success.
+Through this success, the tribe has funneled
+money back into the Flandreau community,
+thus changing this place through economic
+development and grants.</p>
+
+<p>Like most Plains small towns, those on reservations
+have a Main Street, often perpendicular
+to railroad tracks. The tribal government
+and Bureau of Indian Affairs offices are
+located on or near the main street, as are other
+major tribal services. Low-income housing
+provided by the tribal housing authority,
+Housing and Urban Development, or Habitat
+for Humanity is located in developments on
+the outskirts of the typical reservation town.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.096">Reservations</ref>.</p>
+
+<closer>
+<signed>Eric Hogan Fouberg<lb/>
+Mary Washington College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bays, Brad A. <title level="m">Townsite Settlement and Dispossession in the Cherokee Nation, 1866–1907</title>. New York: Garland Press,
+1998.</bibl> <bibl>McCormick, Kathleen. "In the Clutch of the Casinos."
+<title level="j">Planning</title> 63 (1997): 4–6.</bibl> <bibl>Reps, John W. <title level="m">Cities of the American West: A History of Frontier Urban Planning</title>.
+Princeton <hi rend="smallcaps">NJ</hi>: Princeton University Press, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

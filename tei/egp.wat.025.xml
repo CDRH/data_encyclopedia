@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Riparian Doctrine</title>
+<title level="m" type="sub"></title>
+<author>Theron Josephson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Josephson, Theron">Theron Josephson</author>. <title level="a">"Riparian Doctrine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">860</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIPARIAN DOCTRINE</head>
+
+<p>The riparian doctrine is a system of water law
+that gives the owner of land bordering a stream
+or river, or riparian land, the legal right to use
+the water of the stream. The right to water use
+comes from the spatial connection between
+the stream or river and the riparian land. The
+riparian right cannot be bought or sold. Nor
+can a riparian right be extinguished due to
+nonuse or ine.cient use of the water. The riparian
+right cannot be separated from the land
+and thus is a permanent benefit of owning
+riparian land.</p>
+
+<p>Riparian rights are correlative, which means
+all riparian landowners have an equal right to
+use the stream or river. Under the riparian
+doctrine, a riparian landowner has the right to
+use a reasonable amount of stream water to
+supply needs naturally arising from living next
+to a watercourse. However, uses of water must
+not significantly reduce stream quantity, diminish
+the quality of the water, or change the
+spatial pattern of flow, as these alterations may
+affect the rights of others living along the
+stream.</p>
+
+<p>Normal riparian uses are not extensive. Traditionally
+these include domestic water uses,
+such as supplying household needs and stock
+watering. Some nonconsumptive commercial
+uses such as powering a mill are also acceptable.
+Alternate uses are presumed to be legitimate
+so long as the use does not negatively
+affect other riparian rights to the same stream.
+Riparian rights are based on the theory that
+most of the water used on riparian land will
+eventually return to the stream because the
+water is used in the same drainage basin.</p>
+
+<p>The riparian doctrine was the pioneering
+water law in the legal landscape of the Great
+Plains. The first riparian rights were introduced
+into Texas by the Spanish more than
+200 years ago. Subsequently, the riparian doctrine,
+bundled as part of the common law,
+came to the Great Plains with the westward
+expansion of European American settlement
+in the nineteenth century.</p>
+
+<p>The riparian principles of water law had
+worked well for settlers in the eastern parts of
+North America. However, as settlers moved to
+the drier climates of the western Plains, riparian
+methods of environmental adaptation did
+not necessarily yield the same results as those
+achieved in more humid environments. As
+population in the marginal environments of
+the Great Plains increased, and as the settlers
+tried to duplicate the lifestyles and population
+densities of the east, demands for water also
+increased. This led to competition for scarce
+water and a demand for more efficiency in
+water usage. Early disputes centered over irrigation
+diversions, and riparian rights were
+increasingly circumscribed by allowing only
+"reasonable" uses of water. Court decisions in
+Dakota Territory (1866), Nebraska (1903), and
+Kansas (1905) established this principle. Gradually
+the competing doctrine of appropriation
+rights displaced riparian rights in Plains states,
+with the exception of Texas. But even in Texas,
+grants of state lands have not conveyed riparian
+rights since 1895.</p>
+
+<closer>
+<signed>Theron Josephson<lb/>
+Ferris State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dunbar, Robert G. <title level="m">Forging New Rights in Western Water</title>.
+Lincoln: University of Nebraska Press, 1983.</bibl> <bibl>Hutchins,
+Wells A. <title level="m">Water Rights in the Nineteen Western States</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1974.</bibl> <bibl>Trelease,
+Frank J., and George A. Gould. <title level="m">Cases and Materials on
+Water Law</title>, 4th ed. St. Paul <hi rend="smallcaps">MN</hi>: West Publishing Company,
+1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

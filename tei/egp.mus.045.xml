@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Thomson, Virgil (1896-1989)</title>
+<title level="m" type="sub"></title>
+<author>Chuck Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Chuck">Chuck Berg</author>. <title level="a">"Thomson, Virgil (1896-1989)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">548</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THOMSON, VIRGIL (1896-1989)</head>
+ <figure n="egp.mus.045" rend="granted">
+ <figDesc>Virgil Thomson, photographed by Carl Van Vechten, 1947</figDesc>
+ </figure>      
+
+<p>Virgil Thomson, classical composer and music
+critic, was born on November 25, 1896, in
+Kansas City, Missouri, where he learned piano
+and played organ at his family's Calvary Baptist
+Church. After serving in the army during
+World War I, Thomson studied composition
+and conducting in New York, Paris, and Boston.
+He graduated from Harvard in 1923. Returning
+to Paris in 1925, his home until 1940,
+Thomson came under the influence of composition
+pedagogue Nadia Boulanger and
+French composer Erik Satie, whose clarity,
+simplicity, and humor he admired.</p>
+
+<p>Thomson's large body of work, which includes
+operas, symphonies, chamber pieces,
+songs, and film scores, while reflecting the
+classicism of his formal studies, is largely
+rooted in his early musical experiences in
+Kansas City. Indeed, in his well-known scores
+for the celebrated documentary films <title>The River</title> (1937), <title>The Plow That Broke the Plains</title>
+(1936), and <title>Louisiana Story</title> (1948), the last of
+which earned a Pulitzer Prize, Thomson incorporated
+familiar American religious and
+secular melodies. Even in his operas, most
+famously, <title>Four Saints in Three Acts</title> (1934),
+Thomson employed the musical vernacular of
+his midwestern background, an example of
+the "new simplicity" and growing nationalism
+of American serious music of the 1930s.</p>
+
+<p>In addition to composing, Thomson enjoyed
+a successful career as a music journalist.
+Having established himself in the pages of
+<title level="j">Modern Music</title> during the 1930s, he was commissioned
+to write <title level="m">The State of Music</title> (1939),
+which argued that musicians should produce
+their own music. On the strength of that
+work, the <title level="j">New York Herald Tribune</title> hired
+Thomson as its chief music critic. During his
+reign at the <title level="j">Tribune</title> from 1940 to 1954, Thomson's
+provocative commentaries were anthologized
+in <title level="m">The Right of Judging</title> (1948), <title level="m">Music Right and Left</title> (1951), and <title level="m">Music Reviewed, 1940–54</title> (1967). In the 1970s and 1980s Thomson
+devoted himself largely to teaching and
+lecturing. He died in New York City on September
+30, 1989.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.055"><hi rend="italic"><title>The Plow That Broke the Plains</title></hi></ref>.</p>
+
+<closer>
+<signed>Chuck Berg<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rockwell, John. <title level="m">A Virgil Thomson Reader</title>. Boston: Houghton
+Mifflin, 1981.</bibl> <bibl> Thomson, Virgil. <title level="m">Virgil Thomson</title>. New
+York: Alfred A. Knopf, Inc., 1966.</bibl> <bibl>Tommasini, Anthony.
+<title level="m">Virgil Thomson: Composer on the Aisle</title>. New York: W. W.
+Norton, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

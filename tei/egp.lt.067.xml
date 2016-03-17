@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.067">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">R&#246;lvaag, O. E. (1876-1931)</title>
+<title level="m" type="sub"></title>
+<author>Philip R. Coleman-Hull</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.067</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Coleman-Hull, Philip R.">Philip R. Coleman-Hull</author>. <title level="a">"R&#246;lvaag, O. E. (1876-1931)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">491-492</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">R&#214;LVAAG, O. E. (1876-1931)</head>
+<figure n="egp.lt.067" rend="granted" type="noclick">
+<figDesc>Photograph of Norwegian author Ole Edvart Rolvaag</figDesc>
+</figure>
+    
+<p>Born April 22, 1876, to Peder Jakobsen Rölvaag
+and Ellerine Pedersdatter Vaag, Ole Edvart
+Rölvaag grew up in the Norwegian hamlet of
+Rölvaag, a small fishing community on Dønna
+Island just below the Arctic Circle. Rölvaag
+immigrated to Elk Point, South Dakota, at the
+age of twenty and represented this immigrant
+experience throughout his fictional work.
+Nevertheless, impressions from his early years
+remained in his use of Norwegian ballads,
+hymns, folklore, and classic literature; his utilization
+of sea-going themes and images; and his
+blend of the romantic and realistic inspired by
+the stunning beauty of Dønna.</p>
+
+<p>In his first published novel, the autobiographical
+<title level="m">The Third Life of Per Smevik</title> (1912),
+Rölvaag detailed his hardships as a new immigrant
+in the West, explored the costs of immigration
+to America, and began to reveal his
+ideas on cultural integrity, that is, ensuring
+cultural identity is not sacrificed in the wake
+of the American Dream. He continued these
+themes in subsequent works&#8211;<title level="m">On Forgotten Paths</title> (1914), <title level="m">Pure Gold</title> (1920), and <title level="m">The Boat of Longing</title> (1921)&#8211;before beginning his tour de
+force, <title level="m">Giants in the Earth</title>, in 1923 while on
+sabbatical from St. Olaf College. First published
+in Norway in two parts, the novel revolves
+around Per Hansa and his wife, Beret.
+Deftly employing Norwegian folklore and
+myth, Rölvaag uses <title level="m">Giants</title> to artistically exam
+ine the physical, cultural, and psychological
+realities of Plains immigrant life while offering
+characters who encapsulate more universal
+themes. Rolvaag wrote two more novels that
+charted the Hansa saga, <title level="m">Peder Victorious</title> (1929)
+and <title level="m">Their Father's God</title> (1931). Lacking the epic
+grandeur and stylistic brilliance of <title level="m">Giants</title>,
+these two novels are more political in nature as
+they continue to promote Rölvaag's ideals of
+cultural integrity. Having already sketched out
+notes for a sequel to these novels, Rolvaag died
+of a heart attack on November 5, 1931, in
+Northfield, Minnesota.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.014"><title level="m">Giants in the Earth</title></ref>.</p>
+
+<closer>
+<signed>Philip R. Coleman-Hull<lb/>
+Bethany College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Haugen, Einar. <title level="m">Ole Edvart Rölvaag</title>. Boston: Twayne, 1983.</bibl>
+<bibl> Jorgenson, Theodore, and Nora Solum. <title level="m">Ole Edvart Rölvaag: A Biography</title>. New York: Harper and Brothers, 1939.</bibl>
+<bibl>Simonson, Harold P. <title level="m">Prairies Within: The Tragic Trilogy of
+Ole Rölvaag</title>. Seattle: University of Washington Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

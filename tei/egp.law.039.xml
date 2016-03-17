@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Overland Trail Constitutions</title>
+<title level="m" type="sub"></title>
+<author>John Philip Reid</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reid, John Philip">John Philip Reid</author>. <title level="a">"Overland Trail Constitutions."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">460-461</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OVERLAND TRAIL CONSTITUTIONS</head>
+
+<p>Travelers on the Overland Trail to the Pacific,
+after crossing the Missouri River, entered a
+territory without enforceable law, courts, or
+police. Those who journeyed in companies
+soon discovered the need for government,
+and, until about 1854, most companies drafted
+constitutions and sometimes bylaws.</p>
+
+<p>Constitutions were seldom-detailed codes of
+government. They did not seek to regulate specific
+behavior but to obtain a reasonable degree
+of conformity within a social, economic, and
+legal environment conducive to democracy. Although
+a few companies had members sign
+their charters, implying that they thought constitutions
+were compacts and perhaps even personal
+contracts, the dominant legal theory was
+that overland constitutions were organic acts
+outlining the procedures for identifying and
+judging unacceptable conduct. Another common
+operative theory was that companies
+were organic wholes, peripatetic governments
+possessing all sovereign authority, a fact demonstrated
+by those constitutions establishing
+representative legislatures and authorizing
+capital punishment. Punishment was seldom
+inflicted, as offending parties could avoid
+most physical sanctions (except for the death
+penalty) by departing from the company. That
+reality did not undercut but instead reinforced
+the purpose of constitutions, because they
+sought social cooperation, not legal discipline.
+Once a wrongdoer left, harmony was restored.
+Lack of harmony was the chief cause terminating
+company governance. When pressures of
+overland travel destroyed harmony, emigrants
+knew the constitution no longer functioned.</p>
+
+<p>The legal and social principles shaping constitutional
+policy on the Overland Trail were
+based on mediation, not legislation, to obtain
+harmony within diversity, not unanimity
+through legislation. These constitutions have
+a unique importance for American history.
+There is no more reliable way to measure the
+constitutional notions of average nineteenth-century
+citizens than to examine Overland
+Trail constitutions.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.022">Oregon Trail</ref>.</p>
+
+<closer>
+<signed>John Philip Reid<lb/>
+New York University School of Law</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Reid, John Phillip. "Governance of the Elephant: Constitutional
+Theory on the Overland Trail." <title level="j">Hastings Constitutional Law Quarterly</title> 5 (1978): 421–43.</bibl> <bibl>Reid, John Phillip.
+<title level="m">Policing the Elephant: Crime, Punishment, and Social Behavior on the Overland Trail</title>. San Marino <hi rend="smallcaps">CA</hi>: Huntington
+Library, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

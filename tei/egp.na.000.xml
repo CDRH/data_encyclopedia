@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.na.000 SYSTEM "egp.na.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native Americans</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+
+<div1 type="contents">
+
+<head>Native Americans</head>
+
+<figure n="egp.na.000" rend="granted">
+<figDesc>Rally marchers leave Pine Ridge, South Dakota, on their way to Whiteclay, Nebraska, on June 26, 1999.
+The demonstration by Native Americans protested the sale of alcohol and unsolved murders in Whiteclay.</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.na.001">Native Americans</ref></item>
+<item><ref n="egp.na.002">Allotment</ref></item>
+<item><ref n="egp.pd.005">American Indian Movement <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.na.004">Apaches</ref></item>
+<item><ref n="egp.na.005">Arapahos</ref></item>
+<item><ref n="egp.na.006">Archaic Period Sites</ref></item>
+<item><ref n="egp.na.007">Arikaras</ref></item>
+<item><ref n="egp.na.008">Assimilation Policy</ref></item>
+<item><ref n="egp.na.009">Assiniboines</ref></item>
+<item><ref n="egp.na.010">Astronomy</ref></item>
+<item><ref n="egp.gen.004">Berdache</ref></item>
+<item><ref n="egp.na.012">Big Bear</ref></item>
+<item><ref n="egp.rel.005">Black Elk, Nicholas <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.na.014">Blackfoot</ref></item>
+<item><ref n="egp.na.015">Black Kettle</ref></item>
+<item><ref n="egp.na.016">Caddos</ref></item>
+<item><ref n="egp.na.017">Calumet Ceremony</ref></item>
+<item><ref n="egp.lt.007">Campbell, Maria <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.na.019">Cheyennes</ref></item>
+<item><ref n="egp.na.020">Comanches</ref></item>
+<item><ref n="egp.war.014">Crazy Horse <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.sr.012">Crow Fair <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.na.023">Crowfoot</ref></item>
+<item><ref n="egp.na.024">Crows</ref></item>
+<item><ref n="egp.na.025">Dull Knife</ref></item>
+<item><ref n="egp.arc.020">Earth Lodges <hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.na.027">Ecueracapa</ref></item>
+<item><ref n="egp.lt.018">Erdrich, Louise <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.ha.014"><hi rend="italic">Genizaros</hi></ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></item>
+<item><ref n="egp.rel.023">Ghost Dance <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.na.031">Gros Ventres</ref></item>
+<item><ref n="egp.na.032">Half-Breed Tract</ref></item>
+<item><ref n="egp.na.033">Harris, LaDonna</ref></item>
+<item><ref n="egp.na.034">Health</ref></item>
+<item><ref n="egp.na.035">Hidatsas</ref></item>
+<item><ref n="egp.lt.026">Hogan, Linda <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.fil.029">Hollywood Indians<hi rend="italic">See</hi> <hi rend="smallcaps">Film</hi></ref></item>
+<item><ref n="egp.na.038">Horse</ref></item>
+<item><ref n="egp.art.035">Howling Wolf<hi rend="italic">See</hi> <hi rend="smallcaps">Art</hi></ref></item>
+<item><ref n="egp.na.040">Hunting</ref></item>
+<item><ref n="egp.pg.032">Indian Agents <hi rend="italic">See</hi> <hi rend="smallcaps">Politics and Government</hi></ref></item>
+<item><ref n="egp.edu.019">Indian Boarding Schools, United States <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.law.021">Indian Claims Commission <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.med.025"><hi rend="italic">Indian Country Today</hi></ref> See<hi rend="smallcaps">Media</hi></item>
+<item><ref n="egp.na.045">Indian Cowboys</ref></item>
+<item><ref n="egp.law.022">Indian Police <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.na.047">Indian Removal</ref></item>
+<item><ref n="egp.edu.020">Indian Residential Schools, Canada. <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.war.022">Indian Scouts <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.na.050">Indian Territory</ref></item>
+<item><ref n="egp.tra.018">Indian Trails <hi rend="italic">See</hi> <hi rend="smallcaps">Transportation</hi></ref></item>
+<item><ref n="egp.war.023">Intertribal Warfare <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.na.053">Jumanos</ref></item>
+<item><ref n="egp.na.054">Kaws</ref></item>
+<item><ref n="egp.na.055">Kiowas</ref></item>
+<item><ref n="egp.art.042">Kiowa Six <hi rend="italic">See</hi> <hi rend="smallcaps">Art</hi></ref></item>
+<item><ref n="egp.na.057">La Flesche, Susan</ref></item>
+<item><ref n="egp.na.058">Languages</ref></item>
+<item><ref n="egp.lt.034">LaRocque, Emma <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.edu.024">Lorentino, Dorothy Sunrise <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.na.061">Mandans</ref></item>
+<item><ref n="egp.na.062">Mankiller, Wilma</ref></item>
+<item><ref n="egp.na.063">Metis</ref></item>
+<item><ref n="egp.wat.015">Mni Sose Intertribal Water Rights Coalition</ref></item>
+<item><ref n="egp.lt.047">Momaday, N. Scott <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.rel.035">Morning Star Ceremony <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.pd.037">National Congress of American Indians <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ag.052">Native American Agriculture <hi rend="italic">See</hi> <hi rend="smallcaps">Agriculture</hi></ref></item>
+<item><ref n="egp.arc.034">Native American Architecture, Contemporary <hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.arc.035">Native American Architecture, Traditional <hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.art.044">Native American Art, Traditional <hi rend="italic">See</hi> <hi rend="smallcaps">Art</hi></ref></item>
+<item><ref n="egp.rel.036">Native American Church <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.gen.026">Native American Gender Roles <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.med.031">Native American Radio <hi rend="italic">See</hi> <hi rend="smallcaps">Media</hi></ref></item>
+<item><ref n="egp.law.035">Native American Rights Fund <hi rend="italic">See</hi><hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.na.076">Ojibwas</ref></item>
+<item><ref n="egp.na.077">Omahas</ref></item>
+<item><ref n="egp.na.078">Osages</ref></item>
+<item><ref n="egp.na.079">Otoe-Missourias</ref></item>
+<item><ref n="egp.na.080">Paleo-Indians</ref></item>
+<item><ref n="egp.na.081">Parker, Quanah</ref></item>
+<item><ref n="egp.na.082">Pawnees</ref></item>
+<item><ref n="egp.na.083">Payipwat</ref></item>
+<item><ref n="egp.na.084">Pitaresaru</ref></item>
+<item><ref n="egp.na.085">Plains Apaches</ref></item>
+<item><ref n="egp.na.086">Plains Crees</ref></item>
+<item><ref n="egp.na.087">Plenty Coups</ref></item>
+<item><ref n="egp.na.088">Poncas</ref></item>
+<item><ref n="egp.lt.061">Posey, Alexander <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.na.090">Poundmaker</ref></item>
+<item><ref n="egp.na.091">Powwows</ref></item>
+<item><ref n="egp.law.044">Public Law 280 <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.na.093">Quapaws</ref></item>
+<item><ref n="egp.war.036">Red Cloud <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.na.095">Repatriation</ref></item>
+<item><ref n="egp.na.096">Reservations</ref></item>
+<item><ref n="egp.ct.042">Reservation Towns <hi rend="italic">See</hi> <hi rend="smallcaps">Cities and Towns</hi></ref></item>
+<item><ref n="egp.na.098">Reserves</ref></item>
+<item><ref n="egp.lt.065">Riggs, Rollie Lynn <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.edu.034">Roe Cloud, Henry <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.gen.031">Sacagawea <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.na.102">Sacred Geography</ref></item>
+<item><ref n="egp.mus.041">Sainte-Marie, Buffy <hi rend="italic">See</hi> <hi rend="smallcaps">Music</hi></ref></item>
+<item><ref n="egp.na.104">Sarcees</ref></item>
+<item><ref n="egp.na.105">Shoshones</ref></item>
+<item><ref n="egp.na.106">Sign Language</ref></item>
+<item><ref n="egp.na.107">Sioux</ref></item>
+<item><ref n="egp.war.044">Sioux Wars <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.na.109">Sitting Bull</ref></item>
+<item><ref n="egp.na.110">Sovereignty</ref></item>
+<item><ref n="egp.na.111">Spotted Tail</ref></item>
+<item><ref n="egp.na.112">Standing Bear</ref></item>
+<item><ref n="egp.rel.046">Sun Dance<hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.sr.054">Thorpe, Jim<hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.arc.048">Tipis<hi rend="italic">See</hi> <hi rend="smallcaps">Architecture</hi></ref></item>
+<item><ref n="egp.na.116">Tonkawas</ref></item>
+<item><ref n="egp.na.117">Trade</ref></item>
+<item><ref n="egp.na.118">Treaties</ref></item>
+<item><ref n="egp.pd.053">Trial of Standing Bear <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.edu.038">Tribal Colleges <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></ref></item>
+<item><ref n="egp.mus.046">Trudell, John <hi rend="italic">See</hi> <hi rend="smallcaps">Music</hi></ref></item>
+<item><ref n="egp.na.122">Urban Communities</ref></item>
+<item><ref n="egp.ct.054">Urban Indian Reserves <hi rend="italic">See</hi> <hi rend="smallcaps">Cities and Towns</hi></ref></item>
+<item><ref n="egp.na.124">Veterans</ref></item>
+<item><ref n="egp.rel.051">Vision Quest <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.lt.079">Welch, James <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.na.127">Wichitas</ref></item>
+<item><ref n="egp.wat.041">Winters Doctrine</ref></item>
+<item><ref n="egp.pd.059">Women of All Red Nations <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.war.056">Wounded Knee Massacre <hi rend="italic">See</hi> <hi rend="smallcaps">War</hi></ref></item>
+<item><ref n="egp.lt.086">Zitkala Sa <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baker, Chet (1929-1988)</title>
+<title level="m" type="sub"></title>
+<author>Jay Wilkinson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wilkinson, Jay">Jay Wilkinson</author>. <title level="a">"Baker, Chet (1929-1988)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">533</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-31</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BAKER, CHET (1929-1988)</head>
+<figure n="egp.mus.004" rend="granted" type="noclick">
+<figDesc>Chet Baker with trumpet</figDesc>
+</figure>    
+
+<p>Chet Baker was a jazz trumpeter and extraordinary
+musical stylist who helped define the
+"cool jazz" era of the 1950s. He was born
+in Yale, Oklahoma, on December 23, 1929.
+When he was about eleven years old his family
+moved to California, where the cool jazz
+movement would later thrive. Baker developed
+his trumpet-playing ability in the Glendale
+High School band and in the army. His philosophy
+of jazz was formed in the jazz clubs along
+Central Avenue in Los Angeles. In 1951, after
+his second discharge from the army, he began
+playing with Charlie Parker after winning an
+audition that Parker had staged at the Tiffany
+Club.</p>
+
+<p>But it was Gerry Mulligan, a popular arranger
+and composer during the 1940s, who
+launched Baker's career with the Mulligan
+quartet in 1952. Theoretically, this unique
+quartet, which consisted only of bass, drums,
+baritone saxophone, and trumpet but excluded
+piano and guitar, should have had a
+thin, dead sound, with limited possibility for
+creativity. However, due to the players' talent
+and vision, the Mulligan quartet was very well
+received, and Chet Baker became famous. He
+was even named the best trumpeter of 1954 by
+<title level="j">Down Beat</title> magazine. Baker was a member of
+the Mulligan quartet for only one year. Despite
+a drug dependency, he maintained a steady
+international solo career from the time he
+left the quartet until his mysterious death on
+May 13, 1988, when his body was found on the
+sidewalk in front of his hotel in Amsterdam.</p>
+
+<p>Chet Baker is remembered for his velvety
+tone, his uncanny ability to create beautiful
+musical lines during improvisation solos,
+and his masterful phrasing. He was also well
+known for his smooth, laid-back singing voice.
+With his handsome face, rebellious gaze, and
+interpretation of songs like "You've Changed"
+and "My Funny Valentine," he personified cool
+and radiated romance.</p>
+
+<closer>
+<signed>Jay Wilkinson<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Carr, Roy. <title level="m">A Century of Jazz</title>. New York: Da Capo Press,
+1997.</bibl> <bibl>Gioia, Ted. <title level="m">West Coast Jazz: Modern Jazz in California, 1945–1960</title>. Berkeley: University of California Press,
+1998.</bibl> <bibl>Morgenstern, Dan. <title level="m">Jazz People</title>. New York: Da Capo
+Press, 1976.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

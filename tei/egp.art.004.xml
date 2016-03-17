@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Art Museums</title>
+<title level="m" type="sub"></title>
+<author>Norman A. Geske</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Geske, Norman A.">Norman A. Geske</author>. <title level="a">"Art Museums."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">111</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ART MUSEUMS</head>
+
+<p>The appearance and growth of museums of
+art in the Great Plains have taken place mainly
+in recent decades. Although nearly 100 museums
+devoted to the collection and display of
+art in one form or another can be counted in
+the region at present, it should be recognized
+that they are frequently of an embryonic
+nature&#8211;historic houses, collections of popular
+or Native American art, exhibition facilities
+without permanent collections, and gallery
+adjuncts to teaching institutions. The
+collections themselves have ranged from work
+produced by local artists, to collections of
+American art as a whole, to the more restricted
+range of the art of the American West,
+to the art of Native Americans. Collections of
+modern and contemporary art have been the
+last to appear, evidence as they are of the transcending
+of the historically regional characteristic
+of the Great Plains.</p>
+
+<p>Outstanding among the institutions located
+from Edmonton, Saskatchewan, to Marfa,
+Texas, are the collections of Native American
+art at the Buffalo Bill Historical Center in
+Cody, Wyoming, the Denver Art Museum in
+Denver, Colorado, and the Philbrook Museum
+of Art and the Gilcrease Museum in
+Tulsa, Oklahoma. Important collections of the
+art of the American West, especially in its pioneer
+phase, are located at the Glenbow Museum
+in Calgary, Alberta (which also specializes
+in the art of Canada's First Peoples), the
+Joslyn Art Museum in Omaha, Nebraska, and
+the Woolaroc Museum in Bartlesville, Oklahoma.
+Collections of the work of individual
+artists, important to the history of the region,
+are those devoted to Harvey Dunn at
+the South Dakota Memorial Art Center in
+Brookings, South Dakota; Oscar Howe at the
+University Art Galleries in Vermillion, South
+Dakota; Sven Birger Sandzen at the Birger
+Sandzen Memorial Gallery in Lindsborg,
+Kansas; and Charles M. Russell at the C. M.
+Russell Museum in Great Falls, Montana, and
+the Center for Great Plains Studies Art Collection
+in Lincoln, Nebraska. A museum devoted
+exclusively to the art of a single state is a recent
+development of the Museum of Nebraska Art
+in Kearney.</p>
+
+<p>Some of the museums of the Great Plains
+region have developed holdings of national
+importance. Among them are the collections
+of American art of the twentieth century at the
+Sheldon Memorial Art Gallery in Lincoln, Nebraska,
+at the Wichita Art Museum in Wichita,
+Kansas, and at the Amon Carter Museum
+in Fort Worth, Texas. The Winnipeg Art Gallery,
+the nation's first civic art gallery, houses
+the world's largest collection of contemporary
+Inuit art. The arts of Europe, Asia, Africa, and
+Latin America are represented by works of
+world-class quality in the collections of the
+Nelson-Atkins Museum in Kansas City and
+the Kimbell Art Museum in Fort Worth.</p>
+
+<closer>
+<signed>Norman A. Geske<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Teagarden, Jack (1905-1964)</title>
+<title level="m" type="sub"></title>
+<author>Scott L. Anderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.043</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Anderson, Scott L.">Scott L. Anderson</author>. <title level="a">"Teagarden, Jack (1905-1964)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">548</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEAGARDEN, JACK (1905-1964)</head>
+<figure n="egp.mus.043" rend="granted">
+<figDesc>Musician Jack Teagarden</figDesc>
+</figure>    
+    
+
+<p>Weldon Leo "Jack" Teagarden was one of the
+most influential jazz trombonists of the early
+twentieth century. His playing was among the
+first examples of individual style in the genre
+of jazz trombone. He was also a fine vocalist.
+He has inspired many performers, from jazz
+trombonists to the concert trombone soloist
+Christian Lindberg.</p>
+
+<p>Teagarden was born in the Texas Panhandle
+town of Vernon on August 29, 1905. After his
+father died in the 1918 flu epidemic, the family
+briefly moved to Chappell, Nebraska, then
+headed back south to Oklahoma City. His
+family was poor, but there was always music:
+Teagarden was playing the piano at the age of
+five and the baritone horn by the time he was
+seven; by age ten he had taken up the trombone.
+He started playing professionally (in
+San Antonio) when he was fourteen. His musical
+influences were varied, but it is obvious
+from his playing that he took a great deal from
+black music, especially the blues. Teagarden's
+recording career began when he was twentytwo
+years old with a session for Johnny Johnson
+and his Statler Pennsylvanians. He took
+part in the first mixed-race recording session
+when he recorded "Knockin' a Jug" with Louis
+Armstrong in 1929. Teagarden performed
+with many of the other jazz greats of his era,
+including Benny Goodman, Red Nichols, Paul
+Whiteman, and Eddie Condon. From 1928 to
+1933 a great deal of Teagarden's work was as a
+musical sideman, including with Ben Pollack's
+band, but he also had his own band for a time.
+This period produced some of Teagarden's
+most distinctive and best-known recordings,
+including "Someone Stole Gabriel's Horn"
+(1933).</p>
+
+<p>Teagarden led his own band full time from
+1939 to 1947, recording (on Decca after 1941)
+good music but making no money. After his
+band broke up, Teagarden played with the Louis
+Armstrong All Stars until 1951, when he formed
+his own All Star orchestra and achieved considerable
+success playing Dixieland jazz. Teagarden
+continued to perform until his death in New
+Orleans in 1964. He was inducted into the Jazz
+Hall of Fame in 1996.</p>
+
+<closer>
+<signed>Scott L. Anderson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schuller, Gunther. <title level="m">The Swing Era: The Development of Jazz 1930–1945</title>. New York: Oxford University Press, 1989.</bibl>
+<bibl>Smith, Jay D., and Len Guttridge. <title level="m">Jack Teagarden: The Story of a Jazz Maverick</title>. New York: Da Capo Press, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

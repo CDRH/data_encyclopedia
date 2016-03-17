@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Islam</title>
+<title level="m" type="sub"></title>
+<author>Seth Ward</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ward, Seth">Seth Ward</author>. <title level="a">"Islam."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">749</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ISLAM</head>
+
+<p>Islam has more than one billion adherents
+who are found in every region of the world,
+including the Great Plains. There, as everywhere
+else throughout North America, an extraordinarily
+diverse Muslim community is
+growing dramatically, building places of worship,
+schools, and community centers, and
+contributing to the broader community.</p>
+
+<p>Islam is a monotheistic faith, recognizing
+the oneness of Allah, the same God who
+is known, according to Islam, to Abraham,
+Moses, Jesus, and others and is worshiped also
+by Christians and Jews. According to Islam,
+God's word, the <title level="m">Qur'an</title>, was revealed through
+Muhammad (ca. 570–632) over a twenty-year
+period. Unlike the Bible, which is mostly in
+third-person narrative form, the <title level="m">Qur'an</title> is
+considered God's direct speech. Recitation of
+the <title level="m">Qur'an</title> is a major component of Islamic
+ritual and piety.</p>
+
+<p>The mass immigration to North America in
+the late nineteenth and early twentieth centuries
+brought many from traditionally Islamic
+countries of the Middle East and North
+Africa. Although these were largely Christians
+and Jews, some Islamic communities were established,
+including one in Cedar Rapids,
+Iowa, just outside the Great Plains. Especially
+toward the end of this period, there was rising
+interest in Islam among African Americans,
+including the foundation of various movements
+that would coalesce into the Nation of
+Islam.</p>
+
+<p>After World War II, and especially after
+1980, Islam became established as a major religious
+grouping in the Great Plains, at least in
+the cities, although the ten largest Muslim
+population centers in North America were all
+outside the region.</p>
+
+<p>Demographically, many locales have two
+main communities&#8211;African Americans and
+"immigrants"&#8211;although the latter now includes
+many individuals who were born in
+North America, as well as numerous converts.
+Both communities may be subdivided.
+Islam has grown tremendously among African
+Americans. Many youths became Muslims in
+prison and retained their new religion after
+their release. The Nation of Islam has always
+had some authentic Islamic elements, including
+the <title level="m">Qur'an</title>, but its racial teachings and its
+views about Wallace Fard and Elijah Mohammed
+(Fard was deified as Allah) are antithetical
+to normative Islam. Since 1975, when Elijah
+Mohammed's son W. D. Mohammed broke
+with this theology, a sizable portion of African
+Americans practice normative Islam and generally
+have good ties with the immigrant community.
+Within the immigrant community, at
+least in the Great Plains, Sunnis and Shiites
+form one community, unlike the exclusive situation
+found in many traditionally Islamic
+countries. Nevertheless, some demographic
+scholarship has noted a tendency for mosques
+to align along ethnolinguistic lines, the major
+groupings being Arab, Persian, South Asian,
+and Southeast Asian.</p>
+
+<p>A survey completed in the early 1990s
+found mosques, student organizations, or
+Muslim organizations in the Denver metropolitan
+area, Fort Collins and Greeley, Pueblo
+and Colorado Springs, Colorado; Lawrence,
+Wichita, Manhattan, and suburban Kansas
+City, Kansas; Bozeman and Billings, Montana;
+Omaha and Lincoln, Nebraska; Portales, New
+Mexico; Fargo, Minot, and Grand Forks,
+North Dakota; Stillwater, Tulsa, Oklahoma
+City, Edmond, Norman, and Ponca City,
+Oklahoma; Brookings, South Dakota; and
+Fort Worth and Arlington, Denton, Blanco,
+Lubbock, Amarillo, Midland, Odessa, Waco,
+and Austin, Texas. In the Canadian Prairie
+Provinces, there are Muslim communities in
+Regina, Saskatoon, Edmonton, and Winnipeg.
+Many of the major mosques or Islamic
+Centers serve large university populations.
+Some of these communities have established
+Islamic day schools that ofer a full general
+curriculum that meets all state requirements
+but also provides intensive education in Arabic
+language, <title level="m">Qur'an</title>, and Islamic religion and
+history.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.033">Malcolm X</ref>.</p>
+
+<closer>
+<signed>Seth Ward<lb/>
+University of Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bagby, Ihsan, ed. <title level="m">Muslim Resource Guide: An Essential
+Guide for Media and Government</title>. Fountain Valley <hi rend="smallcaps">CA</hi>:
+Islamic Resource Institute, 1994.</bibl> <bibl><title level="m">Directory of Masjids and
+Muslim Organizations in North America</title>. Fountain Valley
+<hi rend="smallcaps">CA</hi>: Islamic Resource Institute, 1994.</bibl> <bibl>Smith, Jane I. <title level="m">Islam in
+America</title>. New York: Columbia University Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

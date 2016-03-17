@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.070">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Woodlands</title>
+<title level="m" type="sub"></title>
+<author>James H. Locklear</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.068</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Locklear, James H.">James H. Locklear</author>. <title level="a">"Woodlands."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">643-644</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Woodlands</head>
+
+<p>Although grassland is the characteristic vegetation
+of the Great Plains, contact with forests
+and woodlands occurs at the boundaries
+of the region, and significant areas of transition
+between woodland and grassland vegetation
+exist. Trees are also associated with
+river systems and various physiographic features
+within the Plains.</p>
+
+<p>Tallgrass prairie is the dominant vegetation
+of the eastern Great Plains. In Kansas and
+Oklahoma a broad transition zone occurs
+where the tallgrass prairie contacts the deciduous
+forest of eastern North America, resulting
+in a mosaic vegetation combining elements
+of both plant communities. Where
+prairie dominates and the tree canopy cover is
+less than 50 percent, the vegetation is called
+savanna. The trees most commonly associated
+with savannas are various species of oaks. Bur
+oak (<hi rend="italic">Quercus macrocarpa</hi>) dominates the savannas
+of the northeastern Great Plains. Post
+oak (<hi rend="italic">Quercus stellata</hi>) and blackjack oak
+(<hi rend="italic">Quercus marilandica</hi>) are the primary tree
+species in the savanna region, called the Cross
+Timbers, of Kansas, Oklahoma, and Texas.
+The balance between tallgrass prairie vegetation
+and woody plants in savannas was maintained
+historically by fire. Trees and other
+woody species increase in number in savannas
+where fire is suppressed.</p>
+
+<p>In Manitoba, Saskatchewan, and Alberta,
+where tallgrass and mixed prairie contact the
+boreal forest of the north, a transition zone,
+called the Parkland Belt, occurs. This is a region
+of grasslands interspersed with groves of
+trees. Bur oak is the most common tree in the
+eastern portion of this zone and is replaced
+by aspen (<hi rend="italic">Populus tremuloides</hi>) to the west.
+Isolated, islandlike occurrences of aspen/bur
+oak parklands occur to the south in North
+Dakota.</p>
+
+<p>In Montana, Douglas fir (<hi rend="italic">Pseudotsuga menziesii</hi>)
+forest occurs on the plains east of the
+Rockies in association with isolated mountains
+such as the Highwood and Bearpaw. Disjunct
+occurrences of ponderosa pine (<hi rend="italic">Pinus
+ponderosa</hi>) occur as forest and savanna in association
+with landforms such as the Pine
+Ridge Escarpment in western Nebraska and
+the badlands of western North Dakota.</p>
+
+<p>The Black Hills of western South Dakota
+and adjacent Wyoming are forested with a
+unique assemblage of trees and other plants
+dominated by Rocky Mountain species but
+also including species from the deciduous forest
+of eastern North America and the boreal
+forest of Canada. A similar mixing of elements
+from these three forest types occurs
+in the Niobrara River valley of north-central
+Nebraska.</p>
+
+<p>In northeastern New Mexico and adjacent
+parts of Colorado and Oklahoma, areas of
+woodland dominated by pi&#241;on pine (<hi rend="italic">Pinus
+edulis</hi>) and juniper (<hi rend="italic">Juniperus</hi> spp.) occur in
+association with escarpments, canyons, and
+other physiographic features of volcanic origin.
+Juniper savanna often occurs where the
+shortgrass prairie comes into contact with
+these woodlands.</p>
+
+<p>At the southern reaches of the Great Plains
+in Texas the shortgrass prairie mingles with
+mesquite trees (<hi rend="italic">Propsis glandulosa</hi>) to form
+mesquite savanna. Where the Southern Plains
+blends into the Texas Hill Country, a mosaic
+of woodland and grassland occurs with oaks
+and junipers being the important trees.</p>
+
+<p>In addition to these transition areas at the
+boundaries of the Great Plains, forest vegetation
+penetrates the Plains along many river
+systems. A thin band of eastern deciduous forest
+dominated by oaks and hickories (<hi rend="italic">Carya</hi>
+spp.) borders the Missouri River and its tributaries
+in eastern Kansas and Nebraska. The
+diversity of trees and other plant species diminishes
+upstream. In Oklahoma Cross Timbers
+savanna extends westward into the Plains
+along the Cimarron and Canadian Rivers.</p>
+
+<p>Woody vegetation associated specifically
+with the floodplain zone of streams and rivers
+is termed riparian forest. Riparian forests occurred
+historically along much of the major
+rivers like the Missouri, Platte, and Arkansas.
+Cottonwood (<hi rend="italic">Populus deltoides</hi>) was the main
+tree of these forests and often was the only tree
+along the western reaches of these rivers. Isolated,
+western occurrences of cottonwood were
+sometimes given the name "Big Timbers."
+Other frequently associated riparian trees include
+willows (<hi rend="italic">Salix</hi> spp.), hackberry (<hi rend="italic">Celtis
+occidentalis</hi>), boxelder (<hi rend="italic">Acer negundo</hi>), and
+elm (<hi rend="italic">Ulmus</hi> spp.). The Osage orange tree
+(<hi rend="italic">Maclura pomifera</hi>), widely planted for hedges
+and windbreaks by pioneers and farmers, originally
+occurred in riparian habitat along the
+Red River in Oklahoma and Texas.</p>
+
+<p>Occurrences of woodlands add significantly
+to the biodiversity of the Plains, having more
+associated species of birds, mammals, and other
+animals than the adjacent grasslands. These
+areas were also important to the Native peoples
+of the Plains, providing firewood, lodge poles,
+bow wood, and other aspects of their material
+culture, as well as providing sheltered places for
+camps.</p>
+
+<closer>
+<signed>James H. Locklear<lb/>
+Nebraska Statewide Arboretum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Babour, M. G., and W. D. Billings, eds. <title level="m">North American
+Terrestrial Vegetation</title>. New York: Cambridge University
+Press, 1988.</bibl> <bibl>Great Plains Flora Association. <title level="m">Flora of the
+Great Plains</title>. Lawrence: University Press of Kansas, 1986.</bibl>
+<bibl>Küchler, A. W. <title level="m">Potential Natural Vegetation of the Coterminous
+United States</title>. New York: American Geographical
+Society, 1964. Map.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

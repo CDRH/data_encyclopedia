@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Women Warriors</title>
+<title level="m" type="sub"></title>
+<author>Sabine Lang</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lang, Sabine">Sabine Lang</author>. <title level="a">"Women Warriors."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">341-342</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOMEN WARRIORS</head>
+
+<p>Raiding and warfare were an integral part of
+the men's role among Plains Indian nations,
+but it was by no means uncommon for women
+to engage in these activities as well. Their motivations
+were the same as those of the men:
+revenge, defense, and a desire for prestige and
+wealth. Most frequently, a woman would join
+or even lead a war party in order to take revenge
+for relatives slain by some enemy.
+Women would also take up arms to defend
+their camp against hostile intruders. In other
+cases, women, by means of visions, received
+the command to go to war. Capturing horses
+and other property on a raid also brought great
+prestige to both men and women.</p>
+
+<p>The term "woman warrior," while commonplace,
+is misleading. To be a warrior was a
+lifetime occupation for Plains Indian men, but
+most women who went to war did not pursue a
+warrior's life permanently. Many women went
+to war only once or twice in their lives. Others
+were married and accompanied their husbands
+on war or raiding parties, especially
+while the couple was still young and childless.
+Some women served as sentries and messengers;
+others fought in battle alongside the
+men, counted coup, and took scalps. Eventually,
+they quit warring and raiding, raised
+children, and did their share of work within
+the gendered division of labor. In this they
+differed from the female two-spirits, or <hi rend="italic">berdaches</hi>,
+who took up the culturally defined
+man's role completely and permanently.</p>
+
+<p>In some cases, however, success as a warrior
+would pave a woman's way to a quasi-masculine
+role and status. The war deeds of Woman
+Chief, who lived among the Crow around
+1850, were so daring that the men invited her
+to join their council meetings, where she
+ranked as the third leading warrior in a group
+of 160 lodges. She became an accomplished
+trader and hunter and eventually married
+four wives, who processed the hides and did
+the other standard women's chores around
+her lodge. Another example is Brown Weasel
+Woman, a Piegan female warrior. A major
+battle with an enemy tribe brought her&#8211;the
+only female in her tribe's history to be so
+honored&#8211;a man's name, Running Eagle, that
+was reserved for famous warriors.</p>
+
+<p>The role of the woman warrior was socially
+accepted wherever it occurred among the
+Plains nations. The same holds true for other
+role alternatives in which women could gain
+prestige by exhibiting behavior culturally defined
+as masculine. The prestige system of the
+Plains cultures was clearly male-dominated,
+centering on warlike activities and personality
+traits considered masculine. It is true that
+Plains Indian women could gain great prestige
+by excelling in women's occupations such as
+beadwork and agriculture, by assuming certain
+roles in ceremonies, and by expressing
+culturally valued ideals of femininity. Yet the
+masculine prestige system was the measure for
+both sexes. Even feminine achievements were
+sometimes expressed in masculine terms.
+Within that system, however, women could
+compete for the prestige associated with war
+and raiding on equal terms with men and did
+so if they had the inclination.</p>
+
+<closer>
+<signed>Sabine Lang<lb/>
+Hamburg, Germany</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hungry Wolf, Beverly. <title level="m">The Ways of My Grandmothers</title>. New
+York: Quill Books, 1982.</bibl> <bibl>Lang, Sabine. <title level="m">Men as Women, Women as Men: Changing Gender in Native American Cultures</title>.
+Austin: University of Texas Press, 1998.</bibl> <bibl>Medicine,
+Beatrice. "'Warrior Women': Sex Role Alternatives for
+Plains Indian Women." In <title level="m">The Hidden Half: Studies of Plains Indian Women</title>, edited by Patricia Albers and Beatrice
+Medicine. Washington <hi rend="smallcaps">DC</hi>: University Press of America,
+1983: 267–80.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

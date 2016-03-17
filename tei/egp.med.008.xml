@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Calgary Herald</hi></title>
+<title level="m" type="sub"></title>
+<author>Diane Howard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Howard, Diane">Diane Howard</author>. <title level="a">"<hi rend="italic">Calgary Herald</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">507-508</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">CALGARY HERALD</hi></head>
+
+<p>The <title level="j">Calgary (Alberta) Herald</title> was first printed
+in 1883 in a tent at the junction of the Elbow
+and Bow Rivers. A teacher named Thomas
+Braden and his friend, printer Andrew Armour,
+produced the first issue. At that time it
+was known as the <title level="j">Calgary Herald, Mining and Ranch Advocate and General Advertiser</title>. The
+first edition was four pages long and had a
+circulation of 150 copies.</p>
+
+<p>The <title level="j">Calgary Herald</title>, financed by a five-hundred-
+dollar interest-free loan from a Toronto milliner, Miss Frances Ann Chandler,
+was a questionable enterprise during its first
+few years. The cost for a year's subscription
+was $3. By 1884 the founders had replaced
+their tent with a shack and had hired their first
+editor, Hugh St. Quentin Cayley. At that time,
+Braden and Armour found that westerners
+wanted more updated information about the
+growing Riel Rebellion in the Northwest Territories.
+One year later, the <title level="j">Calgary Herald</title>
+went daily. To meet demand, a new press was
+purchased that could print up to 400 papers
+an hour, if a strong man was turning the
+crank. The paper was still experiencing growing
+pains and financial uncertainty in 1894,
+when J. J. Young took over the paper, saving it
+from near bankruptcy.</p>
+
+<p>During those early years, the <title level="j">Calgary Herald</title>
+was not so much published as improvised,
+with updated news provided by bulletins from
+passengers on the Canadian Pacific Railway.
+By 1902 business had improved so much that
+the newspaper bought the city's first two
+Linotypes, which allowed fresh type to be cast,
+a line at a time, from molten metal. This revolutionary
+invention was used to publish the
+daily paper for the next seventy years.</p>
+
+<p>In 1906 James Hossack Woods was traveling
+on holiday when he stopped in Calgary. The
+journalist and advertising man met Young,
+who offered Woods an option on half the <title level="j">Calgary Herald</title>. A year later Woods approached
+William Southam, who already owned the
+<title level="j">Hamilton Spectator</title> and the <title level="j">Ottawa Citizen</title>, to
+buy a share of the <title level="j">Herald</title>. In 1908 Southam
+bought 301 shares of the newspaper. Herald
+circulation reached 20,000 in 1914, when
+the advent of World War I placed extraordinary
+demands on newspapers to provide
+fast-breaking news. The <title level="j">Calgary Herald</title> was
+becoming an important source of news for
+Alberta. In 1923 the paper was also influential
+in founding the Alberta Wheat Pool, which
+gave farmers more leverage for better grain
+prices in the marketplace. The newspaper grew
+and expanded over the course of the twentieth
+century, covering news about the Great Depression,
+both world wars, the economic recession
+during the mid-1980s, and the 1988
+Calgary Winter Olympics.</p>
+
+<p>In the early 1990s competing media, new
+technology, and changing lifestyles began to
+restrict further growth of the <title level="j">Calgary Herald</title>.
+The eight-month strike of 230 <title level="j">Calgary Herald</title>
+newsroom and distribution-center employees
+against owner Conrad Black in 1999.2000
+also forced the newspaper to retool various
+departments. New technological innovations
+were implemented to increase the quality, accuracy,
+and efficiency of the growing daily.</p>
+
+<p>In November 2000, in Canada's largest media
+deal to date, CanWest founder and chairman
+Israel Asper bought the <title level="j">Calgary Herald</title>
+from Hollinger International Inc. chairman
+Conrad Black. This latest transaction will
+likely lead to the convergence of the printed
+word of the <title level="j">Calgary Herald</title> with the Internet
+and broadcasting capabilities owned by Can-
+West. As of September 2000 the <title level="j">Calgary Herald</title>'s circulation was at 114,533 daily Monday
+through Thursday, 151,374 on Friday, 130,387
+on Saturday, and 113,532 on Sunday.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.008">Calgary, Alberta</ref>.</p>
+
+<closer>
+<signed>Diane Howard<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Sumner, Jeff. <title level="m">Gale Directory of Publications and Broadcast Media</title>. 134th ed., vol. 2. Detroit: Gale Group, 2000.</bibl> <bibl>Vickers,
+Reg. <title level="j">The Calgary Herald</title>. Calgary, Alberta. 1982.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

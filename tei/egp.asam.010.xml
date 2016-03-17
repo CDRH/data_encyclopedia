@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver Chinatown</title>
+<title level="m" type="sub"></title>
+<author>Judith Simmer-Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wei, William">William Wei</author>. <title level="a">"Denver Chinatown."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">142</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DENVER CHINATOWN</head>
+
+<p>Chinese laborers working on various railroads
+that traversed the Great Plains made
+Denver's Chinatown their favorite haunt. In
+February 1870 the Colorado Territorial Legislature
+passed a resolution encouraging Chinese
+to immigrate to the area as a means of
+meeting its chronic shortage of laborers, especially
+in the agricultural sector. With the decline
+of gold mining on the West Coast and
+the completion of the transcontinental railroad,
+many Chinese went to Colorado seeking
+better economic opportunities.</p>
+
+<p>By the fall of 1870 there was a small settlement
+of forty-two Chinese men and women
+formed along Wazee (a term that probably
+meant "Chinese") Street in Denver. This constituted
+the center of Denver's small Chinese
+community. (Denver's Chinatown was
+also known as "Hop Alley," a derogatory term
+that referred to the presence of opium dens
+that were entered from the alleyways.) During
+the 1870s Denver, along with its Chinese community,
+experienced an economic boom and
+an increase in population when gold was discovered
+in the Rocky Mountains. On the eve
+of the anti-Chinese riot (October 31, 1880),
+there were 238 Chinese in Denver (approximately
+39 percent of all the Chinese in Colorado).
+In 1890 the Denver Chinese community
+reached its apex with 980 residents.</p>
+
+<p>As was the case with Chinatowns throughout
+the country, Denver's Chinese community
+was a "bachelor society," consisting of predominantly
+young men. Because of the small
+number of women, the Chinese community
+was unable to have a traditional family life and
+to reproduce itself. Racism prevented the Chinese
+from entering most occupations and
+forced 80 percent of them to work washing
+laundry by hand. The rest found other occupations,
+mainly within the Chinese community.
+As a result of the Chinese Exclusion Act of
+1882 and the introduction of steam laundries,
+the Chinese community began to decline. By
+1940 there were only 110 Chinese left, and they
+were forced to disperse when the city razed the
+few buildings remaining in Denver Chinatown
+as part of its urban renewal program.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.018">Denver, Colorado</ref>.</p>
+
+<closer>
+<signed>William Wei<lb/>
+University of Colorado at Boulder</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ourada, Patricia K. "The Chinese in Colorado." Colorado
+Magazine 29 (1952): 273–84.</bibl> <bibl>Wei, William. "The Anti-
+Chinese Movement in Colorado: Interethnic Competition
+and Conflict on the Eve of Exclusion." <title level="j">Chinese America: History and Perspectives</title> 9 (1995): 179–97.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

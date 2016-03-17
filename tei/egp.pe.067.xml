@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.067">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wildflowers</title>
+<title level="m" type="sub"></title>
+<author>Kathleen H. Keeler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.067</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Keeler, Kathleen H.">Kathleen H. Keeler</author>. <title level="a">"Wildflowers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">642-643</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WILDFLOWERS</head>
+
+<p>The term "wildflowers" usually refers to attractive
+native flowering species. In the Great
+Plains the category often includes plants that
+are native elsewhere but have naturalized (reproducing
+on their own) in the Great Plains
+region. It rarely includes grasses, because grass
+flowers are small, but some grass flowers are
+very colorful and the foliage is often striking.
+Flowering shrubs and trees are not usually
+considered wildflowers, but there are a number
+of handsome natives such as wild plums
+(<hi rend="italic">Prunus</hi>) and redbuds (<hi rend="italic">Cercis</hi>).</p>
+
+<p>The native wildflowers of the grasslands are
+likely declining in numbers because their natural
+habitats&#8211;native grasslands, forests, and
+wetlands&#8211;have been replaced by fields as well
+as urban and suburban areas. Some, such as
+<hi rend="italic">Liatris</hi> (gay feather) and Coreopsis, have been
+successfully brought into cultivation. Some
+species, such as purple coneflowers (<hi rend="italic">Echinacea</hi>),
+are being collected for their medicinal
+properties to the point that they are increasingly
+difficult to find in their natural environment.
+Other species are decreasing because
+they depend on parts of the ecosystem that are
+no longer present, as is in the case of <hi rend="italic">Ruellia
+humilis</hi> (Acanthaceae), which was once apparently
+pollinated by a moth that has become
+extinct in some areas.</p>
+
+<p>The Great Plains is especially rich in showy
+flowers of the plant families Asteraceae (sunflowers,
+asters, coneflowers), Fabaceae (peas,
+clovers), Onagraceae (evening primroses),
+and Asclepiadaceae (milkweeds). Native wildflowers
+are mostly yellow, blue, or purple in
+color, with true reds being rare. White flowers,
+especially those with long tubes (corollas),
+usually open at night and some have wonderful
+fragrances. Colors reflect the preferences
+of pollinators: bees, flies, and butterflies prefer
+bright colors and visit plants by day, while
+moths and hawkmoths fly by night. Partly
+white flowers (e.g., <hi rend="italic">Gaura</hi>) may be visited by
+both kinds of pollinators.</p>
+
+<p>The flowering of prairie plants can be divided
+into five seasons: early spring, late spring, early
+summer, late summer, and fall. Examples of
+flowers reflecting that seasonal sequence include
+pasque flower (<hi rend="italic">Anemone patens</hi>) early in the
+spring; puccoon (various <hi rend="italic">Lithospermum</hi> species)
+in late spring; scurf peas (<hi rend="italic">Psoralea</hi>) in June;
+milkweeds (<hi rend="italic">Asclepias</hi> species) in late summer;
+and asters and gentians in fall.</p>
+
+<p>A few native wildflowers are found across the
+entire region, but more often, similar species
+occur in sequence along east–west and north–
+south transects. These plants are adapted to the
+area where they are found, and this local diversity
+increases the variety of native species. Likewise,
+in many cases there are distinctive species
+or varieties confined to special growing conditions,
+such as sand, rocky outcrops, and wetlands.
+Milkweeds are a good example. The common
+milkweed (<hi rend="italic">Asclepias syriaca</hi>) is found in
+the Eastern Plains. It is replaced in the Western
+Plains by the similar showy milkweed (<hi rend="italic">A. speciosa</hi>).
+The swamp milkweed (<hi rend="italic">A. incarnata</hi>), with
+leaves much narrower and the flowers a more
+reddish pink than the previous two, is found
+in marshy areas and wet meadows across the
+region. And on sand the characteristic milkweed
+is the green-flowered sand milkweed (<hi rend="italic">A.
+arenaria</hi>).</p>
+
+<p>Plants of human-disturbed environments
+(highway margins, lawns) are usually called
+weeds. Whether native or introduced, these occur
+across the entire Great Plains. Many familiar
+roadside wildflowers, such as goatsbeard (<hi rend="italic">Tragopogon</hi>),
+sweet clover (<hi rend="italic">Melilotus</hi>), and dame's
+rocket (<hi rend="italic">Hesperis</hi>), were introduced.</p>
+
+<p>Within our region, forested areas harbor a
+distinct group of wildflowers. In most cases
+these are species shared with more extensive
+forests in the east or southeast, such as spring
+beauty (<hi rend="italic">Claytonia virginica</hi>), mayapple (<hi rend="italic">Podophyllum
+peltatum</hi>), and touch-me-not (<hi rend="italic">Impatiens
+species</hi>).</p>
+
+<p>Since flowers are necessary for plant reproduction,
+picking bouquets of wildflowers
+poses a threat to their survival, especially for
+the nonweedy species. As the human impact
+in the Great Plains increases and more areas
+are developed, threats to native wildflowers
+will only get worse. Digging up native plants
+as a method of collecting them frequently fails
+because prairie natives are very deeply rooted
+and difficult to dig up. This is, therefore, an
+even greater threat to the survival of prairie
+species than picking the flowers.</p>
+
+<closer>
+<signed>Kathleen H. Keeler<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Freeman, C. C., and E. K. Schofield. <title level="m">Roadside Wildflowers
+of the Southern Great Plains</title>. Lawrence: University Press of
+Kansas, 1991.</bibl> <bibl>Great Plains Flora Association. <title level="m">Flora of the
+Great Plains</title>. Lawrence: University Press of Kansas, 1987.</bibl>
+<bibl>Weaver, J. E. <title level="m">Native Vegetation of Nebraska</title>. Lincoln: University
+of Nebraska Press, 1965.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

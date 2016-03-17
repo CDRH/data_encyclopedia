@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tankhouses</title>
+<title level="m" type="sub"></title>
+<author>Robert B. Kent</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kent, Robert B.">Robert B. Kent</author>. <title level="a">"Tankhouses."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">96</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TANKHOUSES</head>
+
+<p>Tankhouses are outbuildings constructed to
+provide water storage for domestic consumption
+and to insure dependable water pressure.
+The basic design is simple and straightforward&#8211;
+a large water tank (2,000 to 3,000 gallons)
+sits on an elevated platform some twenty
+to forty feet in height. Usually both the tank
+and the tower structure are enclosed. The area
+inside the tower is used for a workshop or
+storage or occasionally as a dwelling area.
+Wood is used most frequently in the construction
+of a tankhouse, although in some areas
+stone, brick, masonry block, or a combination
+of these materials is employed. Square,
+straight tower construction is most common
+in the Great Plains, but tapered towers are
+found occasionally, and in Nebraska circular
+towers occur in some counties.</p>
+
+<p>In the Great Plains the construction of tankhouses
+dates from the 1880s and 1890s, although
+it occurred earlier in eastern Corn Belt
+states and in California. Notable, although
+modest, concentrations of tankhouses are in
+western Kansas and eastern Colorado, in Nebraska,
+and in central Texas. Initially, windmills
+provided the power needed to pump well
+water into the tanks, and both freestanding
+and attached windmills were constructed.
+Later, the availability of internal combustion
+engines and electric power from rural electrification
+projects provided alternative power
+sources, and windmills fell increasingly into
+disuse. The development of the hydropneumatic
+pump ended tankhouse construction by
+allowing water to be pumped directly from
+wells into homes under pressure. Some tankhouses
+are still used for their original purpose,
+but most have either fallen into disuse, been
+razed, or been converted to other uses.</p>
+
+<closer>
+<signed>Robert B. Kent<lb/>
+University of Akron</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Boucher, Aaron S., and Robert B. Kent. "Tankhouses in
+Nebraska: Distribution, Construction Styles, and Use."
+<title level="j">Material Culture</title> 24 (1992): 43–58.</bibl> <bibl>Kent, Robert B. "Tankhouses
+on the High Plains of Western Kansas and Eastern
+Colorado." <title level="j">Material Culture</title> 24 (1992): 33–41.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

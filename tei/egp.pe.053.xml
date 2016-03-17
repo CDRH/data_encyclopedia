@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sandhills</title>
+<title level="m" type="sub"></title>
+<author>James B. Swinehart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Swinehart, James B.">James B. Swinehart</author>. <title level="a">"Sandhills."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">638-639</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANDHILLS</head>
+<figure n="egp.pe.053" rend="granted" type="noclick">
+<figDesc>View of the Nebraska Sandhills</figDesc>
+</figure>
+
+<p>The Central and Southern Great Plains contains
+the greatest concentration of windblown
+sand in North America, and the Sandhills,
+covering 20,000 square miles of central Nebraska,
+is the largest of these Great Plains sand
+dune fields. Currently stabilized by prairie
+vegetation, the Sandhills is one of the world's
+premier grasslands for cattle grazing. The
+dune landscape is interspersed with about
+2,000 shallow lakes and more than a million
+acres of wetlands. These diverse wildlife and
+plant communities present a sharp contrast to
+the adjacent dryland communities of the
+dunes.</p>
+
+<p>Three major dune types occur in the Sandhills:
+barchanoid-ridge and megabarchan
+dunes, typically 120 to 300 feet high and one to
+five miles long, formed by unidirectional winds
+from the northwest; simple linear dunes, forty
+to sixty feet high and one mile long, formed by
+winds from two directions; and compound parabolic
+dunes, fifty to seventy feet high and 1,400
+feet long, also formed by unidirectional winds
+from the northwest. Both linear and parabolic
+dunes also occur superimposed on the larger
+megabarchan and barchanoid-ridge dunes.
+Sand sheets, areas of flat-lying sand with scattered
+small dunes, are the only portion of the
+Sandhills that lend themselves to typical Great
+Plains farming practices.</p>
+
+<p>The most crucial factor in the formation of
+dune fields, given a supply of sand and sufficient
+winds, is a sparse vegetative cover.
+Radiocarbon dating of soils buried by dune
+sand indicate several periods of widespread
+blowing sand between 250 and 1,000 years ago
+that were caused by droughts more severe
+than any of the past 100 years. These episodes
+of aridity have made it difficult to document
+older periods of dune sand activity because
+they "cannibalized" and buried the earlier history
+of the dune field.</p>
+
+<p>However, geologists have discovered ancient river valleys within the Sandhills that
+were blocked and partially filled by dune sand
+during major droughts. Lakes and marshes
+that formed behind the sand dams were sites
+of peat and/or mud deposition, as well as local
+wind-blown sand layers. Radiocarbon dates
+from these deposits indicate major periods of
+dune sand activity during the following times:
+13,000 to 12,000 years ago; 8,000 to 5,000 years
+ago; and 3,500 to 2,800 years ago.</p>
+
+<p>Analysis of the mineral grains that make up
+the sand in the Sandhills indicates that there is
+more quartz and less feldspar present than occurs
+in possible source sediments. These include
+sandstones of the Ogallala and Arikaree
+Groups and the North and South Platte Rivers.
+The most probable explanation for this discrepancy
+is a reduction of sand-sized feldspar
+(which is more easily broken than quartz) to
+dust-sized particles via grain impacts during
+windstorms. This would require many cycles
+of aridity and suggests the Sandhills has a history
+that may extend more than 100,000 years.
+Only bits and pieces of that record may have
+been preserved and will require much work to
+discover and interpret.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.029">Sandhills Lakes</ref>.</p>
+
+<closer>
+<signed>James B. Swinehart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Loope, David B., James B. Swinehart, and Jon P. Mason.
+"Dune-dammed Paleovalleys of the Nebraska Sand Hills:
+Intrinsic Versus Climatic-controls on the Accumulation of
+Lake and Marsh Sediments." <title level="j">Geological Society of America
+Bulletin</title> 107 (1995): 396–406.</bibl> <bibl>McIntosh, Charles B. <title level="m">The
+Nebraska Sand Hills: The Human Landscape</title>. Lincoln:
+University of Nebraska Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">National Japanese American Student Relocation Council</title>
+<title level="m" type="sub"></title>
+<author>Noriko Asato</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Asato, Noriko">Noriko Asato</author>. <title level="a">"National Japanese American Student Relocation Council."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">145</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIONAL JAPANESE AMERICAN STUDENT RELOCATION COUNCIL</head>
+
+<p>The National Japanese American Student
+Relocation Council was the primary civic organization
+that helped 4,000 <hi rend="italic">nisei</hi> (second-generation
+Japanese Americans) leave concentration
+camps and enter some 600 colleges
+and universities in states outside the Pacific
+Coast exclusion zones (California and western
+Washington, Oregon, and Arizona) during
+World War II.</p>
+
+<p>In 1942 the U.S. government uprooted over
+120,000 Japanese Americans from their West
+Coast homes "for their security" and sent
+them first to army-administered assembly
+centers and then to more permanent concentration
+camps (euphemistically called relocation
+camps or internment camps) operated
+by the War Relocation Authority (<hi rend="smallcaps">WRA</hi>).
+Nisei, who were American citizens by birth,
+outnumbered the first generation (<hi rend="italic">issei</hi>) by
+more than 30,000; their median age was seventeen.
+More than 2,500 <hi rend="italic">nisei</hi> had been attending
+college in Pacific Coast states at the beginning
+of the war. Although college admission and
+work release were the only initial ways to leave
+the camps, many colleges refused to accept any
+<hi rend="italic">nisei</hi>. The Relocation Council, a collective of
+several regional organizations, began operations
+on May 29, 1942, with Robbins W. Barstow,
+president of Hartford Seminary, as the
+first national director. The group was supported
+by the <hi rend="smallcaps">YMCA</hi>, the <hi rend="smallcaps">YWCA</hi>, church groups
+(especially Quakers), government agencies,
+educators, and the Japanese American Citizens
+League. The three major functions of the
+Council were to coordinate with the <hi rend="smallcaps">FBI</hi> and
+the <hi rend="smallcaps">WRA</hi> to obtain clearance for the nisei
+and for the colleges that accepted them, to
+raise funds for scholarships, and to work with
+Japanese Americans in the camps to increase
+morale and encourage the pursuit of higher
+education.</p>
+
+<p>Between July 1942 and July 1946 more than
+fifty institutions of higher learning in Great
+Plains states accepted a total of 991 students:
+505 in Colorado, 197 in Nebraska, 83 in Wyoming,
+73 in Texas, 42 in Kansas, 30 in Montana,
+29 in South Dakota, 22 in Oklahoma,
+and 10 in North Dakota. The University of
+Nebraska was one of the first universities to
+respond to the <hi rend="italic">nisei</hi>'s plight, admitting 80 students
+by 1943. The university had originally
+decided on a cap of 10 students but gradually
+increased this to 120. Five of the major participating
+institutions&#8211;University of Colorado,
+University of Denver, Denver Art Institute,
+Colorado State College of Education, and
+Colorado State College of Agriculture and
+Mechanical Arts&#8211;were located in Colorado,
+reflecting Gov. Ralph Carr's hospitable attitude
+toward Japanese Americans.</p>
+
+<p>Not all the <hi rend="italic">nisei</hi> students were admitted
+with the help of the council; some applied
+independently, inspiring other nisei to pursue
+higher education. Recently, however, Gary
+Okihiro has argued that, although the work of
+the Student Relocation Council was antiracist,
+by working closely with the <hi rend="smallcaps">WRA</hi> it assisted the
+government's policy of relocating Japanese
+Americans and therefore accepted the racist
+implication that the Japanese Americans
+themselves were to blame for the reaction
+against them.</p>
+
+<closer>
+<signed>Noriko Asato<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>James, Thomas. "Life Begins with Freedom: The College
+Nisei, 1942–1945." <title level="j">History of Education Quarterly</title> 25 (1985):
+155–74.</bibl> <bibl>O'Brien, Robert W. <title level="m">The College Nisei</title>. Palo Alto
+<hi rend="smallcaps">CA</hi>: Pacific Books, 1949.</bibl> <bibl>Okihiro, Gary Y. <title level="m">Storied Lives: Japanese American Students and World War II</title>. Seattle:
+University of Washington Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

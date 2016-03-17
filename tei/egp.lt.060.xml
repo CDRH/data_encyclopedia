@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.060">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Porter, Katherine Anne (1890-1980)</title>
+<title level="m" type="sub"></title>
+<author>James T. F. Tanner</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.060</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tanner, James T. F.">James T. F. Tanner</author>. <title level="a">"Porter, Katherine Anne (1890-1980)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">490</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PORTER, KATHERINE ANNE (1890-1980)</head>
+<figure n="egp.lt.060" rend="granted" type="noclick">
+<figDesc>Portrait photograph of Katharine Anne Porter</figDesc>
+</figure>
+    
+<p>Katherine Anne Porter's varied fictional treatments
+of the Great Plains areas of Texas and
+the Southwest are important documents in
+the historical and cultural study of these regions.
+It must be kept in mind, however, that
+Porter&#8211;like most writers of fiction—freely
+adapted descriptions of this area for her own
+aesthetic purposes; hence, absolute realism
+cannot be expected in her fictional accounts
+of the Texas Hill Country, where she was born
+&#8211;at Indian Creek on May 15, 1890&#8211;and grew
+to maturity and which provided an important
+impetus for her creative work.</p>
+
+<p>Among the finely crafted works of short fiction
+that describe and analyze the Great Plains
+areas of Texas and the Southwest are <title level="m">He</title> (1927), <title level="m">The Jilting of Granny Weatherall</title> (1929), <title level="m">The Grave</title> (1935), <title level="m">Noon Wine</title> (1937), <title level="m">Old Mortality</title> (1938), and <title level="m">Holiday</title> (1960). Inseparable from the hardscrabble rural landscapes are the memorable characters who are extensions and personifications of the land itself. The domineering
+grandmother in numerous stories has,
+in fact, been described as a "metaphor for
+Texas" because of her determination to survive
+and prosper despite the hardships and calamities
+inherent in the prevailing conditions.</p>
+
+<p>Katherine Anne Porter, after a life of accomplishment
+(including a National Book
+Award and Pulitzer Prize, both in 1966) and
+enthusiastic living (she married and divorced
+three times), died on September 18, 1980, in
+Silver Spring, Maryland.</p>
+
+<closer>
+<signed>James T. F. Tanner<lb/>
+University of North Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Givner, Joan. <title level="m">Katherine Anne Porter: A Life</title>. New York:
+Simon and Schuster, 1982.</bibl> <bibl>Tanner, James T. F. <title level="m">The Texas Legacy of Katherine Anne Porter</title>. Denton: University of
+North Texas Press, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

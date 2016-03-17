@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Douglas, Aaron (1899–1979)</title>
+<title level="m" type="sub"></title>
+<author>Amy Kirschke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kirschke, Amy">Amy Kirschke</author>. <title level="a">"Douglas, Aaron (1899–1979)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">14</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOUGLAS, AARON (1899–1979)</head>
+<figure n="egp.afam.016" rend="granted" type="noclick">
+<figDesc>Self-portrait of the artist Aaron Douglas</figDesc>
+</figure>      
+
+<p>Aaron Douglas was the leading visual artist
+of the Harlem Renaissance. Born on May 26,
+1899, Douglas attended high school in his
+hometown of Topeka, Kansas, and received
+his art training at the University of Nebraska,
+graduating with a bachelor of fine arts degree
+in 1922. Douglas had arrived at Nebraska
+without his high school records, ten days into
+the term. Still, he was warmly welcomed, and
+he considered his years at Nebraska one of
+the more positive times in his life. Douglas
+worked as an art teacher at Lincoln High
+School from 1923 to 1925, then moved to
+Harlem.</p>
+
+<p>Within weeks of his arrival in Harlem,
+Douglas was recruited by the <hi rend="smallcaps">NAACP</hi>'s W. E. B.
+Du Bois, editor of <title level="j">The Crisis</title>, and Charles S.
+Johnson, director of the Urban League and
+editor of <title level="j">Opportunity</title>, to contribute illustrations
+to their journals. Douglas quickly became
+one of the leading artists in the New
+Negro movement, or Harlem Renaissance.
+Within this largely literary movement, Douglas
+was specifically hired to create a visual message
+for a public that had grown dramatically
+as black migration to the North increased during
+World War I. <title level="j">The Crisis</title> had a national
+readership, and any illustration Douglas made
+would be seen in libraries, schools, and homes
+across the country. Douglas tried to reach this
+new black middle-class public&#8211;a public that
+was difficult to define and locate&#8211;by creating
+a new, positive, African-influenced black image
+for his audience.</p>
+
+<p>He wanted to change the way blacks were
+depicted in art, and to bring the language of
+African art first to Harlem and then to the
+whole country. Douglas's growth and experimentation
+can be traced in his magazine illustrations,
+which were some of his most forceful
+and interesting works. Through them he
+evolved his artistic language, a distinctive language
+immersed in African art. His illustrations,
+blending art deco, cubism, and West
+African sculpture, are clean and bold, often
+showing a few simple figures or illustrating a
+basic idea. In his first year in Harlem he won
+three prizes for his work.</p>
+
+<p>Douglas's Harlem years were filled with
+commissions for illustrating books and painting
+murals, most notably his 1934 <title level="m">Aspects of
+Negro Life</title>, which was commissioned by the
+Public Works Administration for the Countee
+Cullen Branch of the New York Public Library.
+Douglas left Harlem in 1937, and in 1939 became
+the founding member of the Art Department
+at Fisk University. He chaired that
+department for almost three decades. Douglas
+died in Nashville on February 2, 1979.</p>
+
+
+<closer>
+<signed>Amy Kirschke<lb/>
+Vanderbilt University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kirschke, Amy H. <title level="m">Aaron Douglas: Art, Race and the Harlem
+Renaissance</title>. Oxford: University Press of Mississippi,
+1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

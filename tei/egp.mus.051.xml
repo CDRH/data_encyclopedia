@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">West Texas Family Music Making</title>
+<title level="m" type="sub"></title>
+<author>Pamela H. Brink</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brink, Pamela H.">Pamela H. Brink</author>. <title level="a">"West Texas Family Music Making."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">550-551</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WEST TEXAS FAMILY MUSIC MAKING</head>
+
+<p>Defined by the dramatic landscape of the
+Llano Estacado, a vast mesa 3,000 feet high
+and 300 miles across with accompanying canyonlands,
+the high plains of Texas are bordered
+by Oklahoma on the north, the Edwards
+Plateau on the south, New Mexico on
+the west, and I-35 on the east. This land, commonly
+known as West Texas, possesses a distinctive
+regional culture shaped by the cattle,
+cotton, and oil industries, a perennial wind,
+and a seemingly endless sky. One of the most
+meaningful manifestations of this regional
+culture is a tradition of music making that has
+influenced the shape and style of popular music
+since Amarillo's Eck Robertson made the
+nation's first country music recording in 1922.</p>
+
+<p>For the farm families who settled here in
+the early 1900s, music making was not only a
+prominent form of family entertainment but
+also one of the few opportunities available to
+escape a hardscrabble existence. Those with a
+talent on the fiddle could earn more money
+playing for a Saturday night dance than they
+could chopping cotton for a week.</p>
+
+<p>Bob Wills came from a musical family who
+moved to Memphis near Amarillo in 1913. His
+father, John T. Wills, was a famous contest
+fiddler, often competing against Eck Robertson
+for championship status. To the Wills
+family, string band music was a serious study,
+and by the time Bob Wills was ten years old,
+he was playing mandolin to his father's fiddle
+at local dances. As bandleader for Bob Wills
+and His Texas Playboys, Wills gained international
+fame by developing and popularizing
+western swing music through tours, recordings,
+and Hollywood movies.</p>
+
+<p>The pattern of Wills's career is emblematic
+of a family music-making tradition that permeates
+West Texas, a tradition rooted in rigorous
+fiddle or guitar training learned primarily
+at home, polished with family members and
+friends for public performance, and inspired
+in rhythm and technique by a regional predilection
+for ballroom dancing based on a
+strong backbeat. Since Bob Wills, West Texas
+music has achieved that backbeat with drums.</p>
+
+<p>Hoyle Nix also came from a cotton-farming,
+musical family and learned the fiddle from his
+father, Jonah. In 1946 he formed the West Texas
+Cowboys, based out of Big Spring. Brother Ben
+played guitar in the band, and Hoyle's son Jody
+joined the group at age eight as the drummer.
+The West Texas Cowboys is a classic western
+swing band featuring lead fiddle, so when Jody
+took over the band in 1985, he gave up his
+drums for the fiddle he had been playing in the
+background since age eleven.</p>
+
+<p>Tommy Hancock, as fiddler and bandleader,
+and Charlene Condray, as lead singer,
+met and married in Lubbock while performing
+with the Roadside Cowboys in the 1950s.
+They reopened the Cotton Club in Lubbock in
+the 1960s and welcomed a new generation of
+musicians to their performance arena. Influenced
+by the counterculture movement, in the
+1970s the Hancocks moved to New Mexico,
+where their children grew up singing and
+playing music for entertainment. The family
+ultimately formed a musical touring group,
+the Supernatural Family Band, and today
+Charlene and daughters Traci and Conni still
+perform together as the Texana Dames.</p>
+
+<p>In instrumental virtuosity, performance
+style, range of selection, and family ties, the
+Maines Brothers Band stands as the quintessential
+West Texas music group. Four of the
+seven-member band are brothers whose father,
+Wayne Maines, and uncles, James and
+Sonny, were the feature artists for the original
+Lubbock-based Maines Brothers Band popular
+in the 1950s and 1960s. Brothers Lloyd and
+Steve took up guitar as teenagers, and Kenny
+started playing electric bass at age eleven.
+Soon they were performing with their father's
+band and playing gigs with their own group.
+When he was old enough, brother Donnie
+joined them on drums. Today, besides performing
+with his brothers, Lloyd Maines coproduces
+and plays pedal steel and guitars for
+the Dixie Chicks, which features his daughter
+Natalie Maines as lead singer.</p>
+
+<p>When the Maines Brothers Band takes the
+stage, audiences are treated to a primarily
+guitar-led rhythm celebration of the complete
+spectrum of West Texas music. A concert
+might easily include songs made famous by
+television personalities Mac Davis from Lubbock
+and Jimmy Dean from Plainview, a rendition
+of the Rhythm Orchids' "Party Doll,"
+a medley of greats from Wink's Roy Orbison
+or Lubbock's Buddy Holly, plus favorites by
+Odessa's Gatlin Brothers and Lubbock's Jimmie
+Dale Gilmore and Joe Ely. With an instrumental
+combination that includes a myriad of
+guitars, harmonica, drums and other percussion,
+pedal steel, Hawaiian slide, fiddle, mandolin,
+keyboard, and occasional jazz accordion
+and horns, the band has the musicianship to
+entertain with everything from Bob Wills's
+"San Antonio Rose" to favorites by Terry Allen
+and Butch Hancock. While Kenny Maines is
+the primary lead vocalist, band members Steve
+Maines and Jerry Brownlow also take their
+turns, and everybody else joins in on harmony,
+including sister LaTronda Maines.</p>
+
+<p>Versatile instrumentation is the foundation
+of West Texas music, with vocals serving as
+just a basic part of the mix. Except for Roy
+Orbison and Don Williams of Floydada, West
+Texas music tends to feature craggy-edged
+lead vocalists who sell a song with spirit rather
+than tone and tenor. Nowhere is this more
+apparent than in the list of female stars who
+hail from West Texas. From Natalie Maines to
+Seminole's Tanya Tucker, Fort Worth's Lee
+Ann Barton, Lubbock's Angela Strehli, Anton's
+Jeannie C. Reilly, and Kermit's Charline
+Arthur, West Texas female singers tend to
+project a raw, unschooled bluesy edge and a
+worldly wise demeanor to match.</p>
+
+<p>Lubbock's Kimmie Rhodes is another example
+of the raspy-voiced West Texas lead vocalist,
+but her career points more significantly to
+the prolific songwriting tradition that emanates
+from the region. From Amarillo's Susan
+Gibson and "Wide Open Spaces" to Kimmie
+Rhodes and Natalie Maines, to Jimmie Dale
+Gilmore's long list of lyrics and Butch Hancock's
+even longer list, to Joe Ely, Terry Allen,
+Angela Strehli, and her brother Al Strehli, current
+performing artists from West Texas continue
+to generate volumes of poignant and
+witty lyrics, many with a decidedly selfconscious
+regional perspective.</p>
+
+<p>Their talents are equally matched by their
+predecessors. Buddy Holly is credited with
+popularizing original songwriting in rock and
+roll recordings, and his songs have withstood
+the test of time, including his first hit, "That'll
+Be the Day," and his "Not Fade Away," which
+became the unofficial theme song for the
+Grateful Dead. Waylon Jennings, electric bass
+player on the final, fatal Buddy Holly tour who
+gave up his seat to the Big Bopper, penned a
+number of memorable songs alone and in collaboration
+with fellow "outlaw" Willie Nelson.
+Holly's lifelong friend and member of the
+Crickets, Sonny Curtis, also has many songs to
+his credit, including <title>The Mary Tyler Moore Show</title> theme song and "Walk Right Back."</p>
+
+<p>Woody Guthrie represents yet another generation
+of West Texas songwriters. Although
+born in Oklahoma, Guthrie didn't play music
+until he moved to Texas as a teenager in 1929.
+He learned guitar from his uncle Jeff and put
+together the Corncob Trio, which represented
+Pampa at the 1936 Texas centennial celebration.
+Guthrie soon left West Texas, as did his
+contemporaries Hugh and Karl Farr, who
+joined Roy Rogers in Hollywood to become
+members of the Sons of the Pioneers. Guthrie
+remained a lone and significant voice of the
+people, writing volumes of folk songs, including
+what has been termed our uno.cial national
+anthem, "This Land Is Your Land."</p>
+
+<p>While the core of West Texas music is the
+family, a musical kinship runs even deeper,
+crossing stylistic lines to make manifest an innovative
+instrumental virtuosity celebrated by
+every age and social grouping. Tommy Allsup
+serves as a significant case in point. Allsup
+began his career playing electric guitar for Bob
+Wills and the Texas Playboys, organized his
+own band in Odessa with Moon Mullican as
+his boogie-woogie pianist, served as a sessions
+player at the Norman Petty Studio in Clovis,
+New Mexico, and played lead guitar on the
+final Buddy Holly tour, giving up his seat
+on the plane to Richie Valens. Through his
+Odessa recording studio in 1965, he produced
+the Zager and Evans hit "In the Year 2525" and
+in Nashville the two-album set <title>Bob Wills, For the Last Time</title>, featuring many of the original
+Playboys and Hoyle and Jody Nix. His career
+runs the gamut of popular musical styles, usually
+defined in ethnic and generational lines,
+to confirm Waylon Jennings's observation: "I
+have always felt that blues, rock and roll, and
+country are just about a beat apart."</p>
+
+<closer>
+<signed>Pamela H. Brink<lb/>
+Associated Authors and Editors, Inc.</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

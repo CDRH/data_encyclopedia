@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Galvanized Yankees</title>
+<title level="m" type="sub"></title>
+<author>Mich&#232;le T. Butts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Butts, Mich&#232;le T.">Mich&#232;le T. Butts</author>. <title level="a">"Galvanized Yankees."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">828</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GALVANIZED YANKEES</head>
+
+<p>Galvanized Yankees were Confederate prisoners
+of war who took an oath of allegiance
+and enlisted in the U.S. Army, garrisoning
+western forts and protecting overland trails
+from 1864 to 1866. During the Civil War, Native
+American grievances erupted in increased
+attacks upon emigrants traveling up the Missouri
+River and along the overland trails. Unable
+to fill depleting Union lines in the East
+and the West, President Abraham Lincoln
+quietly authorized enlistment of repentant
+Confederate prisoners of war into service
+in December 1863. The First U.S. Volunteers
+enlisted from January through June 1864 at
+Point Lookout, Maryland, where their peers
+dubbed them "galvanized Yankees." Gen.
+Ulysses Grant ordered the regiment to garrison
+forts along the Minnesota-Dakota frontier.
+Enduring bitter cold and debilitating diseases,
+the First U.S. Volunteers built Fort Rice
+on the upper Missouri. They fought the Sioux,
+thwarted illegal Indian trade, aided overland
+emigrants, and gathered intelligence.</p>
+
+<p>Five other regiments entered federal service
+in 1865 from prison pens in Illinois, Indiana,
+Ohio, and Maryland. The Fourth U.S. Volunteers
+replaced the First Regiment on the upper
+Missouri, while the other 4,000 "galvanized
+Yankees" marched west from Fort Leavenworth
+to occupy forts and stations and protect
+travelers along the Oregon, Santa Fe, and stage
+trails. Overcoming great physical hardship,
+these U.S. Volunteers fought Indian raiders,
+repaired telegraph lines, and convoyed supply
+trains and stagecoaches that crossed the Plains
+between Montana and New Mexico through
+November 1866.</p>
+
+<closer>
+<signed>Mich&#232;le T. Butts<lb/>
+Austin Peay State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Dee. <title level="m">The Galvanized Yankees</title>. Lincoln: University
+of Nebraska Press, 1986.</bibl> <bibl>Butts, Mich&#232;le T. "Galvanized
+Yankees on the Upper Missouri." Ph.D. diss., University of
+New Mexico, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

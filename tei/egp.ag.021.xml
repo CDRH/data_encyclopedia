@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Conservation Reserve Program</title>
+<title level="m" type="sub"></title>
+<author>Edward J. Deibert</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Deibert, Edward J.">Edward J. Deibert</author>. <title level="a">"Conservation Reserve Program."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">39</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CONSERVATION RESERVE PROGRAM</head>
+
+<p>The Conservation Reserve Program (<hi rend="smallcaps">CRP</hi>) was
+one provision of the 1985 Food Security Act
+designed to protect erosion-prone cropland
+in the United States. The program includes
+highly erodible land or land with excessive
+erosion. The Great Plains, which contains
+more than 23 million acres of erosion-prone
+land and is sometimes called the "<hi rend="smallcaps">CRP</hi> Belt,"
+played a major role in this program.</p>
+
+<p>The crp provided farmers the opportunity
+to receive land rental payments for developing
+a ten-year contract with the U.S. Department
+of Agriculture (<hi rend="smallcaps">USDA</hi>) to take highly erodible
+land out of production by planting a permanent
+cover of grass, legumes, or trees. The <hi rend="smallcaps">CRP</hi>
+program learned from some of the mistakes of
+the Soil Bank program of the late 1950s and
+early 1960s. For example, only 25 percent of
+land in any county could be placed in the program
+in order to eliminate drastic repercussions
+on the local agricultural industry.</p>
+
+<p>More than 20 million acres in the Great
+Plains were placed under protective crp cover
+at some time during the 1990s. The average
+rental rate was around $43 per acre. Texas,
+North Dakota, Montana, Colorado, and Kansas
+retired the most acres into crp. Although
+modified, with increased emphasis on environmental
+issues and water quality, <hi rend="smallcaps">CRP</hi>
+continues to operate, with many contracts extending
+beyond 2010. Critics have considered
+crp to be an expensive program, with minor
+effects on reducing production and stabilizing
+farm income, but it has been very successful in
+reducing soil erosion, improving wildlife habitat,
+and increasing the quality of soil, water,
+and air in the Great Plains.</p>
+
+<closer>
+<signed>Edward J. Deibert</signed>
+<signed>North Dakota State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Disciples of Christ</title>
+<title level="m" type="sub"></title>
+<author>John M. Imbler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Imbler, John M.">John M. Imbler</author>. <title level="a">"Disciples of Christ."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">740-741</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DISCIPLES OF CHRIST</head>
+
+<p>The Christian Church (Disciples of Christ)
+was born in the first third of the nineteenth
+century on American soil of Presbyterian parentage.
+Under the guidance of its forebears,
+Scots Irish immigrants Thomas Campbell
+(1763–1854), his son, Alexander (1788–1866),
+Walter Scott (1796–1861), and the Marylandborn
+Barton Warren Stone (1772–1844), it
+focused on the restoration of biblical principles
+that stressed the unity of the church, reliance
+on New Testament authority, and selfgovernance
+of local congregations.</p>
+
+<p>In the formative years no specific orders of
+clergy or church organization existed, and still
+today there is no official book of discipline
+that manages church life. Each congregation
+was to call and consecrate its own leaders.
+Those leaders earned their livings as farmers,
+merchants, bankers, teachers, and doctors in
+their communities and served as elders, deacons,
+and preachers in the church. The selection
+of local leaders, including clergy, remains
+a tenet of Disciples' practice today.</p>
+
+<p>Adhering to no established creed as a test
+of fellowship, the movement advocated the
+blending of reason, a capacity of the human
+intellect, with revelation through the inspiration
+of the Bible. Two ordinances (sacraments)
+continue to be observed: the weekly
+celebration of the Lord's Supper, commonly
+called the breaking of bread, and baptism by
+immersion for the remission of sins offered to
+those able to confess Jesus as Lord and Savior,
+commonly referred to as believer's baptism.</p>
+
+<p>There were four guiding principles defined
+as ideals of this movement: unity, restoration,
+liberty, and mission. Mission essentially was
+confined to the United States. Foreign mission
+fields were of interest but early on were not
+considered a priority. It was not until the last
+two decades of the nineteenth century and
+into the beginning of the twentieth that Disciples
+engaged in overseas ministries intentionally
+and with purpose. The home missionary
+enterprise was active and devoted to
+building new congregations and chartering
+educational institutions. Predominantly located
+in county seats along the American
+frontier, Disciple evangelists and church
+planters followed the westward migration of
+the expanding nation. These new congregations
+appropriated the rugged individualism
+and institutional independence that characterized
+the national mood.</p>
+
+<p>States and territories west of the Mississippi
+River destined for development were Missouri,
+Kansas, Oklahoma, and Texas, particularly
+as the evangelists and planters followed
+the cattle trails and the railroads in
+these latter three states. To a lesser extent,
+church settlements were established in Iowa,
+Nebraska, and Colorado, with virtually none
+in Montana and Wyoming. The appeal of the
+Disciples movement was to western Europeans,
+especially those from the British Isles.
+With the exception of Oklahoma, with its
+unique political configuration of the Indian
+and Oklahoma territories, there was little expansion
+into Native lands or mission to Native
+peoples.</p>
+
+<p>The current membership and number of
+congregations, according to a 1997 denominational
+census, reflects little change from earlier
+days. Twenty-three percent of the total membership
+and 25 percent of the Disciples of
+Christ churches in the United States and Canada
+are located in the Great Plains. Of those
+figures, 84 percent of the membership and 85
+percent of the churches still are concentrated
+in Kansas, Oklahoma, and Texas, even though
+the dust of the cattle trails has settled and the
+boom of the railroads has faded.</p>
+
+<closer>
+<signed>John M. Imbler<lb/>
+Philips Theological Seminary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Garrison, Winfred Ernest, and Alfred T. De Groot. <title level="m">The
+Disciples of Christ: A History</title>. St. Louis: Christian Board of
+Education, 1948.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

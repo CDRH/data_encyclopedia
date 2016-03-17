@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Glaciation</title>
+<title level="m" type="sub"></title>
+<author>William J. Wayne</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wayne, William J.">William J. Wayne</author>. <title level="a">"Geology."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">630-631</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GLACIATION</head>
+
+<p>During the Pleistocene epoch (from two million
+to 10,000 years ago), continental glaciers
+invaded the Great Plains only in the northern
+portions; nevertheless, their effects on the entire
+region were profound. Glacial ice repeatedly
+blocked the rivers that drained eastward,
+forming ice-marginal lakes and diverting the
+rivers southward. Wind deflated sand and silt
+from the floodplains of the rivers that carried
+sediment-laden meltwater from both the enlarged
+glaciers in the Rocky Mountains and the
+continental ice sheet, creating fields of dunes
+and depositing a loess mantle on the uplands.
+Permafrost (perennially frozen ground) developed
+around the ice margin where strong
+winds swept the blanket of snow from the surface.
+Lowered temperatures along the glacier
+margin and southward caused major changes
+in distribution of the biota of the entire region.</p>
+
+<p>The Laurentide ice sheets that developed
+in eastern and central Canada expanded to
+reach the Great Plains at least seven times between
+about 2.2 million years ago and less than
+10,000 years ago, when the margin of the last
+glacier melted from the area. After each period
+of glaciation, ice disappeared long enough
+for soil profiles to form on the sediments left
+behind.</p>
+
+<p>The early glaciations were the most extensive.
+They have been dated approximately by
+the relationships of the tills they deposited in
+reference to four ashfall deposits, three from
+the Yellowstone Caldera, and one from Bishop,
+California. One till lies beneath the oldest of
+these ash lenses, dating back more than 2
+million years, and at least four till units lie
+between ash lenses deposited from 1.27 million
+to 610,000 years ago. All of these are now referred
+to as pre-Illinoian tills. The outer margin
+of one or more of these early continental
+glaciers extended into northeastern Kansas
+and eastern Nebraska, then angled northwestward
+across the Dakotas and northern Montana,
+where it approached the piedmont glaciers
+of the Rocky Mountains.</p>
+
+<p>All the major rivers that drain eastward
+from the Rocky Mountains built alluvial fans
+where they left the mountain front and deposited
+gravel and sand along their routes toward
+the northeast and east. Uplift in the late Cenozoic
+period (around two million years ago)
+resulted in downcutting by those rivers, so that
+terraces, identified by soil profile, preservation,
+relative height, and presence of ash lenses,
+exist along the valleys. Stream diversions and
+piracy have since changed the courses of many
+streams in the Central and Northern High
+Plains. The Missouri River, which formerly
+drained northeastward into the Hudson Bay
+Lowland, was ponded several times by ice
+dams and ultimately diverted into its present
+course. The ancestral Platte River, its upper
+course rejuvenated by uplift in the Rocky
+Mountains and its discharge augmented by increased
+precipitation and, perhaps, meltwater
+from late Pliocene mountain glaciers, carried a
+vast amount of coarse gravel eastward across
+eastern Wyoming and into west-central and
+northern Nebraska, where it accumulated as
+the Broadwater and Long Pine Formations.
+Across the Central Plains, the ancestral Platte
+shifted its course repeatedly throughout the
+Pleistocene in response to local uplift (the Chadron
+Arch), aggradation, and glacial blocking,
+finally following its present course after having
+spread sheets of gravel across wide areas of
+east-central Nebraska. In the Southern Plains,
+sand and silt, probably blown from the floodplains
+of the Pecos and Canadian Rivers, accumulated
+in a sequence that becomes finer northeastward
+across western Texas and Oklahoma
+(Blackwater Draw Formation) and reaches as
+far as south-central Nebraska. Deposition began
+more than 1.4 million years ago and continued
+intermittently until less than 118,000
+years ago, with paleosols (ancient soils) recording
+periods of stability.</p>
+
+<p>Glaciations took place between 610,000
+years ago and the first of the Illinoian glaciations,
+300,000 years ago, but left no recognizable
+record in the Great Plains. Nor have tills
+of Illinoian age been identified with certainty
+in the Great Plains, although the ice undoubtedly
+reached the region, and tills of that age
+should exist buried beneath the deposits of the
+last, or Wisconsinan, glaciation.</p>
+
+<p>The most complete record of the effects of
+glaciation in the Great Plains, as elsewhere, is
+that of the late Wisconsinan ice sheet, which
+reached its maximum extent about 20,000
+years ago and covered the region north of a
+diagonal line from southeastern South Dakota
+to southern Alberta. Lobes of Wisconsinan ice
+expanded into lowlands from the James River
+basin to the upper Milk River basin in Montana.
+Meltwater flooded down the Missouri
+River Valley, as well as down rivers that were
+fed by alpine glaciers in the Rocky Mountains.
+Strong northwesterly winds deflated sand and
+silt from these ribbons of outwash to accumulate
+as dunes along the rivers and loess over
+much of the upland.</p>
+
+<p>Strong winds associated with both glaciers
+and dry interglacial conditions generated dunes
+from alluvial sediments deposited in central Nebraska
+along an abandoned mid-Pleistocene
+route of the Platte River. Late Wisconsinan
+winds built massive dunes from these sand
+fields, which were reactivated repeatedly during
+dry phases over the last 10,000 years. The
+strong northwesterly winds eroded troughs
+and ridges in the zone adjacent to the ice margin
+and swept the zone free of snow so that
+permafrost developed. Lakes formed where
+drainage was blocked by the ice. The largest of
+these, Lake Agassiz, covered more than half of
+Manitoba and extended into Saskatchewan,
+Ontario, Minnesota, North Dakota, and the
+northeast corner of South Dakota. This huge
+lake drained through the Minnesota River Valley
+until the retreating ice margin had uncovered
+outlet routes to the east. By about 11,000
+years ago, the ice margin lay along the north
+side of Lake Winnipeg, although the Laurentide
+ice sheet did not entirely disappear until
+about 6,000 years ago.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.012">Kettle Lakes</ref>; <ref n="egp.wat.013">Lake Agassiz</ref>.</p>
+
+<closer>
+<signed>William J. Wayne<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Morrison, Roger B., ed. <title level="m">Quaternary Nonglacial Geology:
+Conterminous U.S.</title>, The Geology of North America, vol.
+<hi rend="smallcaps">K</hi>-2. Boulder <hi rend="smallcaps">CO</hi>: Geological Society of America, 1991.</bibl> <bibl>Sibrava, Vladimir, D. Q. Bowen, and G. M. Richmond, eds.
+<title level="m">Quaternary Glaciations in the Northern Hemisphere</title>. Oxford:
+Pergamon Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

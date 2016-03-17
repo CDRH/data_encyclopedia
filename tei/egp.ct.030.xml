@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lincoln, Nebraska</title>
+<title level="m" type="sub"></title>
+<author>N. Brito Mutunayagam</author>
+<author>Abigail Posie Davis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mutunayagam, N. Brito">N. Brito Mutunayagam</author> and <author n="Davis, Abigail Posie">Abigail Posie Davis</author>. <title level="a">"Lincoln, Nebraska."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">172</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LINCOLN, NEBRASKA</head>
+
+<p>In 1859 a group of settlers gathered in southeastern
+Nebraska Territory on the banks of
+Salt Creek and founded the hamlet of Lancaster.
+They had aspirations that Lancaster would
+grow into a manufacturing center based on
+local salt deposits, aspirations that came to
+nothing. But by 1866 the hamlet was named
+the county seat, and a year later, when Nebraska
+attained statehood, the site was formally
+selected as the capital and renamed in
+honor of President Abraham Lincoln. The settlement
+was incorporated in 1869.</p>
+
+<p>The city grew rapidly, attracting one railroad
+by 1870 and seven by 1900. In addition
+to its governmental function, Lincoln became
+home to meatpacking, agricultural-processing,
+and printing industries and the
+first of many insurance companies by the
+1880s. Diversity was recognized early on by
+the Nebraska legislature's donation of a site
+for the African American congregation of the
+Quinn Chapel African Methodist Episcopal
+Church, in 1873. The city's population grew
+rapidly to 55,000 in 1890, then declined during
+the depression of the 1890s. Recovery was slow
+at first, but Lincoln's population then increased
+during every decade of the twentieth
+century, reflecting the diversified economic
+base, which furnished jobs, and the attractive
+living environment. By 2000 the city's population
+had reached 209,192, having grown at an
+annual rate of 1.6 percent over the previous
+three decades.</p>
+
+<p>As the seat of state, city, and county governments,
+Lincoln remains a major administrative
+city. It has a mayor-council form of
+local government and the option of home rule
+under the Nebraska constitution, which authorizes
+the city to operate under its own charter.
+The University of Nebraska, established
+in 1869, Nebraska Wesleyan University, and
+Union College give the city its identity as
+a university town. A mix of manufacturing,
+transportation, trade, commerce, insurance,
+health, and other service industries characterize
+the contemporary diversified economy of
+the city.</p>
+
+<p>The premier work of architecture in the city
+is the Nebraska State Capitol, designed by architect
+Bertram Grosvenor Goodhue. The
+First Plymouth Congregational Church, the
+old university library (Architectural Hall),
+and the William Jennings Bryan House are
+also noteworthy and among several buildings
+listed on the National Register of Historic
+Places. Distinguished architects Phillip Johnson
+and I. M. Pei designed the Sheldon Memorial
+Art Gallery and Sculpture Garden and
+the National Bank of Commerce, respectively.
+Another local point of interest, Pioneers Park,
+designed by landscape architect Ernst H. Herminghaus
+(who also laid out the state capitol
+grounds), lies at the fringe of the city.</p>
+
+<p>Prominent historical residents of Lincoln
+include John J. Pershing, commander of
+American forces in Europe during World
+War I; William Jennings Bryan, orator, U.S.
+congressman, and three-time Democratic
+Party presidential candidate; Charles Dawes,
+vice president under Calvin Coolidge in 1924;
+Willa Cather, Nebraskan author and 1895 graduate
+of the University of Nebraska–Lincoln;
+George Beadle, Nobel Prize–winning biologist;
+and Roscoe Pound, legal scholar, dean of
+the University of Nebraska Law College, and
+dean of Harvard Law School.</p>
+    
+<p><ref target="http://gildedage.unl.edu//">Gilded Age Plains City</ref> website.</p>    
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.028">Herminghaus, Ernst</ref>; <ref n="egp.arc.036">Nebraska State Capitol</ref> / <hi rend="smallcaps">LITERARY TRADITIONS</hi>:
+<ref n="egp.lt.009">Cather, Willa</ref> / <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>:
+<ref n="egp.pg.007">Bryan, William Jennings</ref> / <hi rend="smallcaps">WAR</hi>:
+<ref n="egp.war.034">Pershing, John J.</ref></p>
+
+<closer>
+<signed>N. Brito Mutunayagam<lb/>
+Abigail Posie Davis<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clerk of the Legislature, ed. <title level="m">Nebraska Blue Book 1998</title>.
+1999. Lincoln <hi rend="smallcaps">NE</hi>: Unicameral Information Office, 1999.</bibl>
+<bibl>Copple, Neal. <title level="m">Tower on the Plains: Lincoln's Centennial History, 1859-1959</title>. Lincoln <hi rend="smallcaps">NE</hi>: Lincoln Centennial Commission
+Publishers, 1959.</bibl> <bibl>McKee, James L. <title level="m">Lincoln, the Prairie Capital: An Illustrated History</title>. Woodland Hills <hi rend="smallcaps">CA</hi>:
+Windsor Publications, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

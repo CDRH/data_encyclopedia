@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Okipa</hi></title>
+<title level="m" type="sub"></title>
+<author>Leslie V. Tischauser</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tischauser, Leslie V.">Leslie V. Tischauser</author>. <title level="a">"<hi rend="italic">Okipa</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">753</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">OKIPA</hi></head>
+
+<p>The <hi rend="italic">Okipa</hi> was the most powerful religious
+ceremony of the Mandan people of North Dakota.
+The four-day ceremony was performed
+every year during the summer. It retold the
+history of the creation of the Earth and all
+living things. The main characters are the
+Okipa Maker, or Lone Man, who created the
+Mandan and gave them their rituals; <hi rend="italic">Hoita</hi>, or
+Speckled Eagle, who created the animals; and
+<hi rend="italic">Oxinhede</hi>, the Foolish One, who did not believe
+in the power of Okipa and was cast out of
+the village at the end. These three dancers are
+joined by others impersonating buffalo, bald
+eagles, holy women, swans, snakes, grizzly
+bears, night, day, wolves, coyotes, meadowlarks,
+and antelopes. They are supported by
+drummers playing sacred turtle drums.</p>
+
+<p>The dancers performed inside the Okipa
+lodge, which was filled by men fasting, praying,
+and seeking visions. Sacred bundles, containing
+objects such as buffalo hair, a stuffed
+raven, a porcupine headdress, buffalo teeth,
+and a warbonnet of raven and swan feathers,
+were also presented. These objects represented
+key elements in the history of the people.
+The younger men generally underwent torture
+to demonstrate their bravery. Long wooden
+skewers were pushed through cuts in the skin
+on their backs or chests, and they were hung by
+ropes from beams. Their bodies were weighted
+down with buffalo skulls hung from other
+skewers thrust into their thighs and calves. The
+torment was extreme, but crying out was a sign
+of cowardice, and those best able to stand the
+pain became Mandan leaders. Women were
+not allowed inside the lodge, although some
+would sit on the roof, where they would fast.</p>
+
+<p>The purpose of the ceremony was to rea.
+rm the bond between the people and the
+natural world and to unify the Mandans
+through a ritual of suffering and bloodshed.
+The Okipa had been performed for hundreds
+of years when the artist George Catlin witnessed
+the ceremony in 1832. The Okipa was
+probably last held on Fort Berthold Reservation
+in 1889 or 1890, after which it was suppressed
+by the United States.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.061">Mandans</ref>.</p>
+
+<closer>
+<signed>Leslie V. Tischauser<lb/>
+Prairie State College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bowers, Alfred. <title level="m">Mandan Social and Ceremonial Organization</title>.
+Chicago: University of Chicago Press, 1950.</bibl> <bibl>McHugh,
+Tom. <title level="m">The Time of the Buffalo</title>. Lincoln: University of Nebraska
+Press, 1972.</bibl> <bibl>Meyer, Roy W. <title level="m">The Village Indians of
+the Upper Missouri: The Mandan, Hidatsas, and Arikaras</title>.
+Lincoln: University of Nebraska Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

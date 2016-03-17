@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Landon, Alfred (1887-1987)</title>
+<title level="m" type="sub"></title>
+<author>Burdett A. Loomis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Loomis, Burdett A.">Burdett A. Loomis</author>. <title level="a">"Landon, Alfred (1887-1987)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">671</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LANDON, ALFRED (1887-1987)</head>
+
+<p>Best remembered for his landslide defeat by
+Franklin D. Roosevelt in the 1936 presidential
+election, Alf Landon played a major role in
+Kansas Republican politics from the early
+1900s through his death in Topeka&#8211;at age
+100&#8211;on October 12, 1987.</p>
+
+<p>Born in West Middlesex in the western
+Pennsylvania oil country on September 9,
+1887, Landon moved with his family to Kansas
+when the oil industry sought to exploit the
+huge Mid-Continent deposits of the Southern
+Plains. An astute businessman, Landon accumulated
+an oil-based fortune by the 1920s,
+and he increasingly turned his attention to Republican
+politics, first behind the scenes, then
+as state party chairman, and finally as governor
+during the mid-Depression years (1933
+through 1937).</p>
+
+<p>Landon generally supported the Progressive
+side of Republican politics, which he practiced
+in a low-key and congenial style that emphasized
+bridging differences without compromising
+principles. As governor, he worked well
+with the Roosevelt administration on agricultural,
+petroleum, and welfare issues, among
+others. Moreover, he lowered taxes and reformed
+local government finances.</p>
+
+<p>In 1935 Landon easily won reelection, the
+only Republican governor in the nation to do
+so. This success, in conjunction with his capacity
+to bring together various party factions,
+made him an attractive candidate for the 1936
+Republican presidential nomination. Landon
+represented new leadership for the "Grand
+Old Party," and he won the nomination with
+an almost unanimous vote of the convention
+delegates. Landon waged an energetic and
+responsible campaign, but Roosevelt overwhelmed
+him in a defeat of historic proportions.
+Landon received 38 percent of the major
+party vote and won only eight electoral votes
+(Maine and Vermont). For Landon, the results
+would serve as his political epitaph for
+the public at large, but he would remain active
+in national, international, and Republican
+Party affairs for most of the next fifty years.</p>
+
+<p>Landon's internationalism came to the fore
+as he articulated measured support for much
+of Roosevelt's foreign policy in the late 1930s
+and through the war years. He continued to
+speak on international issues in the postwar
+era, adopting positions that emphasized the
+value of the United Nations and the need
+to think seriously about world peace. At the
+same time, he remained active in the Republican
+Party, often seeking to influence the outcomes
+of state and national decisions. However,
+by the 1950s, with his failure to back
+fellow Kansan Dwight Eisenhower for the Republican
+presidential nomination, Landon
+had become an outsider at both the state and
+national levels.</p>
+
+<p>For the last thirty years of his life Landon
+played the role of a Republican elder statesman
+and was an advocate for strengthening international
+trade. A lifelong partisan, Landon
+won bipartisan admiration for his independence,
+experience, and civility. And he would
+spend his last years observing the successes of
+his daughter, Nancy Landon Kassebaum, as
+she served with distinction in the U.S. Senate
+and practiced the kind of moderate Republicanism
+that he had long championed.</p>
+
+<closer>
+<signed>Burdett A. Loomis<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Landon, Alfred M. <title level="m">America at the Crossroads</title>. Port Washington
+<hi rend="smallcaps">NY</hi>: Kennikat Press, 1971.</bibl> <bibl>McCoy, Donald R. <title level="m">Landon
+of Kansas</title>. Lincoln: University of Nebraska Press, 1996.</bibl>
+<bibl>Palmer, Frederick. <title level="m">This Man Landon</title>. New York: Dodd,
+Mead and Company, 1936.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

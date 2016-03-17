@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Territory Bands</title>
+<title level="m" type="sub"></title>
+<author>Chuck Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Chuck">Chuck Berg</author>. <title level="a">"Territory Bands."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">548</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TERRITORY BANDS</head>
+
+<p>The term <hi rend="italic">territory band</hi> refers to those Plains
+and midwestern dance bands of the 1920s and
+1930s that played throughout an expansive
+geographic area extending from Texas in the
+south to Nebraska in the north and from St.
+Louis in the east to Denver in the west. Typically,
+territory bands were headquartered in
+the region's major cities, principally, Kansas
+City, Oklahoma City, Dallas, Houston,
+Omaha, St. Louis, and Denver. These urban
+centers, responding to demands for Jazz Age
+and Swing Era dance music as well as accompaniments
+for "silent" films, supported large,
+diversified musical communities. Traveling
+bands, drawn from such big city talent pools,
+were assembled by bookers for strings of onenighters
+at rural dance halls in the small towns
+of the surrounding "territory." Unfortunately,
+the history of territory bands, especially during
+the 1920s, is sketchy because these ensembles
+seldom, if ever, had opportunities to
+record. Among the more than 100 traveling
+dance bands active in the 1920s were those of
+Alphonso Trent (Dallas), Doc Ross (Oklahoma
+City), Troy Floyd (San Antonio), Walter
+Page (Oklahoma City and Kansas City), and
+Jesse Stone (Kansas City).</p>
+
+<p>In the 1930s, with the Plains hit hard by the
+Great Depression, economic necessity brought
+many of the region's best musicians to Kansas
+City, a wide-open town where whiskey and jazz
+flowed twenty-four hours a day, thanks to political
+boss Tom Pendergast. Aside from supporting
+its own vibrant nightlife, Kansas City
+became the center for the area's territory
+bands. This concentration of so much jazz talent
+was significant in consolidating a distinctive
+Kansas City style. Erasing the last influences
+of the contrapuntal New Orleans
+tradition by replacing tuba with string bass
+and banjo with guitar and by expanding the
+size of groups from combos to big bands, the
+easygoing and swinging Kansas City style also
+capitalized on blues and riff-based ensembles,
+which, while pleasing dancers, also encouraged
+virtuoso soloing. During the 1930s, the
+Kansas City-based bands of Bennie Moten,
+Walter Page, Count Basie, and Jay McShann all
+took their turns touring the Plains as territory
+bands.</p>
+
+<closer>
+<signed>Chuck Berg<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kansas City Jazz Museum. <title level="m">Kansas City . . . and All That's Jazz</title>. Kansas City <hi rend="smallcaps">MO</hi>: Andrew McMeel Publishing, 1999.</bibl>
+<bibl>Pearson, Nathan W., Jr. <title level="m">Goin' to Kansas City</title>. Urbana: University
+of Illinois Press, 1988.</bibl> <bibl>Russell, Ross. <title level="m">Jazz Style in Kansas City and the Southwest</title>. Berkeley: University of
+California Press, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

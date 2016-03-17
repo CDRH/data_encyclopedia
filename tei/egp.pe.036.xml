@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Llano Estacado</title>
+<title level="m" type="sub"></title>
+<author>Otis W. Templer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Templer, Otis W.">Otis W. Templer</author>. <title level="a">"Llano Estacado."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">634</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LLANO ESTACADO</head>
+
+<p>The Llano Estacado is that part of the High
+Plains south of the Canadian River in northwest
+Texas and eastern New Mexico. Encompassing
+more than 30,000 square miles, this
+vast, semiarid tableland is one of the flattest
+parts of the United States. Its surface
+slopes gently toward the southeast at about
+eight to ten feet per mile, and elevations range
+from around 2,500 feet on the eastern and
+southern margins to more than 4,200 feet in
+the northwest.</p>
+
+<p>The Llano is a coalescent alluvial plain
+composed of Tertiary and Pleistocene deposits
+carried east from the Rocky Mountains by
+east.west trending streams. This alluvium
+also forms the massive Ogallala Aquifer that
+underlies the Llano and is the region's major
+water source. Later the Llano was isolated hydrologically
+from the rest of the High Plains
+by the downcutting of the Canadian River and
+was deprived of runoff from the Rockies by
+the headward erosion and stream piracy of
+the Pecos River. Distinct physical boundaries
+mark three sides: the rugged valley of the Canadian
+River in the north and the prominent
+Caprock and Mescalero Escarpments on the
+east and west respectively. To the south, the
+Llano merges imperceptibly with the Edwards
+Plateau. The surface of the Llano is covered
+with widespread eolian deposits of sands,
+marls, and loams. Sand sheets and dunes are
+found in many places, with the largest dune
+field extending across the New Mexican Llano
+into Bailey and Lamb Counties, Texas. Among
+the Llano's topographic features are numerous
+playa basins and a few shallow draws that
+drain southeastward and form the headwaters
+of the Red, Brazos, and Colorado Rivers.
+These intermittent streams have cut scenic
+canyons into the eastern escarpment, most
+notably Palo Duro Canyon. Nearly all runoff
+on the Llano, however, accumulates in the
+thousands of ephemeral, freshwater playa
+lakes, which capture as much as two to three
+million acre-feet of water annually, although
+most of it soon evaporates.</p>
+
+<p>Several theories explain the origin of the
+name Llano Estacado, though none is universally
+accepted. At present, a favored theory
+is that "estacado" refers to the palisaded or
+stockaded appearance of the caprock in many
+places, especially the west-facing escarpment
+in New Mexico.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.021">Playa Lakes</ref>.</p>
+
+<closer>
+<signed>Otis W. Templer<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hunt, Charles B. <title level="m">Natural Regions of the United States and
+Canada</title>. San Francisco: W. H. Freeman and Company,
+1974.</bibl> <bibl>Leatherwood, Art, and Otis W. Templer. "The Llano
+Estacado: A Geographic Overview." In <title level="m">Land of the Underground
+Rain: Water Usage on the High Plains</title>, edited by
+Donald W. Whisenhunt. Portales, <hi rend="smallcaps">NM</hi>: Eastern New Mexico
+State University, 1974: 12–22.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

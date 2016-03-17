@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hopper, Dennis (b. 1936)</title>
+<title level="m" type="sub"></title>
+<author>Karen L. Durst</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Durst, Karen L.">Karen L. Durst</author>. <title level="a">"Hopper, Dennis (b. 1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">269-270</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOPPER, DENNIS (b. 1936)</head>
+<figure n="egp.fil.030" rend="granted">
+<figDesc>Dennis Hopper</figDesc>
+</figure>    
+
+<p>Dennis Hopper's childhood (he was born on
+May 17, 1936, in Dodge City, Kansas) hardly
+foreshadowed the alienated, counterculture
+hero he would come to be known as in films of
+the 1960s and 1970s. In his early teens a family
+relocation to California made possible his
+pursuit of a film career. After high school
+graduation Hopper was awarded a scholarship
+to San Diego's Old Globe Theatre, where
+he appeared in a number of Shakespearean
+roles.</p>
+
+<p>In the 1950s Warner Bros. cast him in a series
+of supporting roles with James Dean (<title>Rebel without a Cause</title> [1955]; <title>Giant</title> [1956]).
+Dean's acting style greatly influenced Hopper,
+who would later move to New York in order to
+study method acting at the Actors Studio. He
+also began a new career as a photographer, a
+move specifically calculated to teach him the
+art of filmmaking and a choice that would
+bring him artistic recognition.</p>
+
+<p>In 1969 Hopper directed and costarred in
+the acclaimed Easy Rider, filmed from a script
+he had coauthored with Peter Fonda. <title>Easy Rider</title> won the prize for best film by a new
+director at the Cannes Film Festival. Impressed
+by the low-budget, high-grossing film,
+Hollywood gave Hopper another chance to
+direct. The opportunity was squandered on
+<title>The Last Movie</title> (1971), an unsuccessful film
+that cost Hopper his studio credibility. He
+continued to work in films, including <title>Apocalypse Now</title> (1979), but by 1984 Hopper's history
+of substance abuse climaxed with his
+commitment to a psychiatric hospital.</p>
+
+<p>Two years later he began another comeback.
+In 1986 Hopper won an Academy Award
+nomination for his role in <title>Hoosiers</title> and a best
+supporting actor award from the National Society
+of Film Critics for his malevolent role in
+<title>Blue Velvet</title>. A year later he directed Colors, his
+first feature film in sixteen years. Hopper continues
+to work regularly as a creative artist,
+most notably, as a character actor.</p>
+
+<closer>
+<signed>Karen L. Durst<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Katz, Ephraim. <title level="m">The Film Encyclopedia</title>. New York: Harper
+Collins, 1994.</bibl> <bibl>Rodriguez, Elena. <title level="m">Dennis Hopper: A Method to His Madness</title>. New York: St. Martin's Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

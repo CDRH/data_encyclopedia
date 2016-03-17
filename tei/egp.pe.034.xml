@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Insects</title>
+<title level="m" type="sub"></title>
+<author>Leon Higley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Higley, Leon">Leon Higley</author>. <title level="a">"Insects."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">633-634</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INSECTS</head>
+
+<p>The Great Plains of North America, like every
+other terrestrial ecosystem, has always depended
+upon insects for its existence. Insects
+are essential for maintaining plant life on the
+Plains through movement of nutrients, improving
+soil, accelerating organic decay, and
+pollinating plants. Additionally, insects form
+the foundation of the animal food web, upon
+which many species depend. As Plains ecosystems
+have given way to agroecosystems, the
+importance of insects has been altered, yet it
+still remains.</p>
+
+<p>Insects are, by far, the most diverse animals
+on earth, and this is as true of the Plains as it is
+of the tropics. More than 100,000 insect species
+are known to exist in North America, and
+of these at least tens of thousands occur in the
+Great Plains. Although most insect groups are
+represented on the Plains, probably the most
+common are the insect orders Orthoptera
+(grasshoppers and crickets), Hemiptera (true
+bugs, various insects with sucking mouthparts),
+Diptera (true flies), Coleoptera (beetles),
+Lepidoptera (butterflies and moths),
+and Hymenoptera (ants, bees, and wasps).</p>
+
+<p>The intimate association of insects and
+plants is essential for maintaining prairies. Soil
+structure and nutrient flow depend largely on
+the action of ants in moving material from the
+soil surface to plant root zones. A complex of
+dung beetle (scarab) species is essential for the
+rapid decomposition of animal dung, originally
+from herds of bison and now from herds
+of cattle. Similarly, other species of beetles and
+flies are crucial in recycling dead animal tissue.
+Finally, many prairie plants depend on insect
+pollinators, especially various species of native
+bees. Certainly not all associations of insects in
+the Great Plains have been beneficial or benign.
+Periodic grasshopper plagues removed
+so much vegetation that many larger herbivores,
+like bison, subsequently starved. Also
+biting flies and various internal and external
+insect parasites tormented animals, including
+humans. The plants of the Plains, however,
+cannot exist without their associated insects.</p>
+
+<p>As some plant species have diminished or
+disappeared, so too have their associated insects.
+This is especially true for many prairie butterflies,
+which have a limited range of host
+plants. The reduction of the prairie has also led
+to the decline of other Plains animals and, therefore,
+of the insects which depend upon them.
+The American burying beetle (<hi rend="italic">Nicophorus
+americus</hi>), an endangered insect species once
+found in all of eastern North America, now
+only occurs in scattered populations in the
+Great Plains (plus one remnant population in
+Rhode Island). Whether or not the decline of
+this species is associated with the decline of
+specific host carrion or other changes in habitat
+is unclear. Sometimes, as with prairie butterflies
+and moths, the loss of plant species can
+be clearly associated with loss of their associated
+insects. In other instances, the relationships
+are more problematic. One of the most
+striking mysteries involves the disappearance
+of the Rocky Mountain locust (<hi rend="italic">Melanoplus
+spretus Walsh</hi>) that swept across the Great
+Plains in massive swarms of billions through
+the 1870s but apparently became extinct by the
+early 1900s. It seems likely that changes in habitat,
+possibly through agriculture and loss of
+egg-laying sites, explain the extinction of this
+grasshopper.</p>
+
+<p>Continuing threats to insect biodiversity of
+the Plains also are associated with habitat
+change and loss. The management of existing
+prairies is of key importance in maintaining
+biodiversity. In particular fire and its negative
+impact on invertebrate communities has become
+a serious issue in managing remnant
+prairies. Similarly identifying and protecting
+other unique Plains habitats is another compelling
+issue for maintaining insect biodiversity.
+For example, one of the most endangered
+insects in the United States, the Salt Creek tiger
+beetle (<hi rend="italic">Cicindela nevadica lincolniana</hi>), is a
+member of a complex of tiger beetle species
+that occur exclusively in salt marshes of the
+Eastern Great Plains. The decline of these insects
+directly follows from the destruction of
+salt marsh habitats through agriculture and
+urbanization.</p>
+
+<p>Human use of the Great Plains has profoundly influenced the insect fauna, probably
+in ways we can never completely recognize
+(given that the Plains was substantially changed
+before its insect fauna was thoroughly studied).
+The destruction of the great bison herds
+and the ecosystems of which they were a part
+undoubtedly altered insect diversity and abundance.
+In general, urbanization and agriculture
+have reduced insect biodiversity. Agroecosystems
+are simplified as compared to natural
+ecosystems. This simplification leads to reduced
+species diversity, but may also result in
+large population increases of individual species,
+such as the corn rootworm beetles. Agriculture
+and urbanization also introduced
+many nonnative insects to the Great Plains,
+principally domestic species and pest species
+associated with crop plants, and this is a continuing
+process.</p>
+
+<p>The introduction of nonnative plants such
+as crops not only leads to the introduction of
+new insects but also to the adaptation of native
+insects to these new crops. For example,
+with the introduction of soybean in the 1930s
+and 1940s, a native beetle, <hi rend="italic">Cerotoma trifurcata</hi>
+(bean leaf beetle), rapidly moved from native
+leguminous hosts to become a soybean pest. A
+more striking example of this adaptation is
+the beetle <hi rend="italic">Leptinotarsa decemlineata</hi> switching
+hosts from one solanaceous plant, buffalo bur,
+to another, potato. This insect, now known as
+the Colorado potato beetle, is one of the most
+severe potato pests throughout the world (and
+holds the dubious distinction of being one of
+the insect species most resistant to insecticides).
+It diffused from the Central Great
+Plains in the 1870s to most potato-growing
+regions of the world in less than a century,
+highlighting the influence of trade and human
+commerce on insect distributions.</p>
+
+<p>Human interactions with insects largely
+have been confrontational rather than appreciative.
+One exception is that many Native
+peoples of the Great Plains recognized the importance
+of insects as an essential feature of
+nature and speak to the importance of insects
+in their oral traditions. Some Native people
+also ate insects, such as grasshoppers and
+crickets, as an occasional feature of their diet.
+For European American settlers of the Plains,
+insects were either ignored or viewed as pests.
+Black flies and mosquitoes were constant irritants,
+and insect-borne diseases like malaria
+and yellow fever were widespread in at least
+the Eastern Great Plains in the 1800s. Although
+these diseases no longer occur in the
+Great Plains, various encephalitis viruses,
+transmitted by mosquitoes, and Lyme disease,
+transmitted by ticks, still do present human
+health risks. Insects, especially through outbreaks
+of grasshoppers, crickets, and armyworms,
+also were a serious impediment to
+crop production as European American agriculture
+moved onto the Great Plains. Insects
+are still a significant factor in agriculture on
+the Plains, not only through exceptional pest
+outbreaks, but also through the routine occurrence
+of many pest species.</p>
+
+<p>The future of insect biodiversity on the
+Plains is inexorably tied to the conservation
+of their habitats. The legacy of western attitudes
+toward insects, reinforced by potential
+health and agricultural risks from insects, is
+that insects are mostly ignored or despised.
+However, insects are an essential element of
+the Great Plains. Their fate, for good or ill,
+will mirror that of the Great Plains ecosystem
+itself.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.026">Insect Lore</ref>.</p>
+
+<closer>
+<signed>Leon Higley<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Costello, D. F. <title level="m">The Prairie World</title>. New York: Thomas Y.
+Crowell Co. 1969.</bibl> <bibl>Huggins, D. G. "Insects and Their Relatives."
+In <title level="m">Natural Kansas</title>, edited by J. T. Collins. Lawrence:
+University Press of Kansas, 1985: 115–29.</bibl> <bibl>O'Toole, C. <title level="m">The
+Encyclopedia of Insects</title>. New York: Facts on File Publications,
+1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

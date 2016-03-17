@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Northwest Irrigation Act</title>
+<title level="m" type="sub"></title>
+<author>Ted D. Regehr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Regehr, Ted D.">Ted D. Regehr</author>. <title level="a">"Northwest Irrigation Act."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">856</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORTHWEST IRRIGATION ACT</head>
+
+<p>The Northwest Irrigation Act, amending and
+consolidating the Northwest Irrigation Acts of
+1894 and 1895, was passed by the Canadian
+federal government in 1898. It defined and
+provided for the regulation and control of water
+rights in the territories that became the
+provinces of Saskatchewan and Alberta in
+1905. Drought conditions in the 1880s and
+1890s, together with the arrival of Mormon
+settlers familiar with irrigation techniques
+and increased interest in irrigation by the Canadian
+Pacific Railway, had made it necessary
+for the federal government to regulate the orderly
+use of the water resources of the semiarid
+Southern Canadian Prairies.</p>
+
+<p>The Northwest Irrigation Act unequivocally
+revoked or rescinded common law riparian
+rights, declaring that the water in all streams,
+lakes, ponds, springs, or other sources belongs
+to the Crown. It then defined the conditions
+under which federal officials could grant water
+rights or concessions to companies or individuals
+for a variety of uses. Those applying for
+water rights for irrigation purposes had to define
+the quantity of water required, the specific
+lands to be irrigated, and the irrigation works
+to be constructed. Successful applicants were
+given indisputable title to the water granted
+them under their licenses, provided that they
+used it only in accordance with the terms and
+conditions of their application. The licensees
+also enjoyed rights of expropriation of land
+needed for the development of approved
+works. But failure to develop the works, or
+misuse of the water, could result in the revocation
+of the rights granted. Decisions of government
+officials regarding revocations were final
+and without right of appeal to the courts.</p>
+
+<p>Creation of the new provinces of Alberta
+and Saskatchewan in 1905 necessitated passage
+of a new federal irrigation act that granted the
+new provinces some very limited local powers
+but left regulation of water resources in the
+new provinces in federal hands. In 1930 the
+federal government transferred control of the
+natural resources in Alberta and Saskatchewan
+to those provinces but retained significant
+control over water resources under the
+terms of a new Water Resources Act.</p>
+
+<p>Supporters of the Northwest Irrigation Act,
+and of later Canadian legislation regulating
+the use of water for irrigation purposes, insist
+that the clear enunciation of basic principles
+and easily understood and enforceable detailed
+regulations resulted in an almost complete
+absence of the kind of litigation pertaining
+to irrigation laws in other, mainly U.S.,
+jurisdictions.</p>
+
+<closer>
+<signed>Ted D. Regehr<lb/>
+University of Sasketchewan and University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dawson, A. S. <title level="m">Irrigation Development in Western Canada,
+Address to the Calgary Board of Trade, April 15, 1921</title>. Calgary:
+Calgary Board of Trade, 1921.</bibl> <bibl>U.S. Department of
+Agriculture. <title level="m">Irrigation Laws of the Northwest Territories of
+Canada and of Wyoming</title>. J. S. Dennis. Washington <hi rend="smallcaps">DC</hi>:
+Government Printing Office, 1901.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.017 SYSTEM "egp.fil.017.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Days of Heaven</hi></title>
+<title level="m" type="sub"></title>
+<author>June Perry Levine</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Levine, June Perry">June Perry Levine</author>. <title level="a">"<hi rend="italic">Days of Heaven</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">264-265</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">DAYS OF HEAVEN</hi></head>
+
+<figure n="egp.fil.017" rend="granted">
+<figDesc>Days of Heaven</figDesc>
+</figure>
+
+<p><title>Days of Heaven</title>, written and directed by Terrence
+Malick and released in 1978, is perhaps
+the most pictorially beautiful depiction of the
+Great Plains ever created on film. Set in the
+Texas Panhandle at the onset of World War I
+but actually filmed in the wheat fields of Alberta,
+the film reflects Malick's sensitivity to a
+landscape he knows well, having worked on
+the wheat harvest as a teenager, following it
+from his native Texas north to Canada.</p>
+
+<p>Like his first film, <title>Badlands</title> (1973), which
+was based on the Charles Starkweather/Caril
+Fugate murder spree across Nebraska in the
+late 1950s, <title>Days of Heaven</title> employs voice-over
+narration, emphasizes the setting, and centers
+on poor and uneducated characters. But <title>Days of Heaven</title> is more generalized and distanced,
+almost mythic. This quality is effected by a
+number of elements: the plot, based on the
+tragic love triangle of Bill, Abby, and "the
+Farmer," unfolds episodically but with implacable
+inevitability; there is a preponderance of
+long shots; dialogue is held to a minimum;
+water, fire, and a plague of locusts are important
+to the visual presentation; the characters
+are often backlit (with the sun behind them,
+they are virtually silhouetted) and thus depersonalized;
+and much of the shooting was done
+at the "magic hour" right after sunset, producing
+a clear and lonely light.</p>
+
+<p>Nestor Almendros, the film's internationally
+renowned cinematographer, explained that
+<title>Days of Heaven</title> was shot in Alberta because it
+was a Hutterite area, largely untouched by
+modern influences. The Hutterites' wheat was
+longer than conventional wheat varieties, their
+silos were red, and collectors among them were
+in possession of steam tractors and cutters.
+This landscape evoked the Plains of the early
+twentieth century.</p>
+
+<p>Perhaps because of this pastoralism, some
+critics have thought that the film lacks any
+political view of the impoverished farmworkers,
+but this judgment is debatable. The film's
+title sequence is a montage of black-and-white
+still photographs of turn-of-the-century urban
+poor people taken by Lewis Hine, among
+other noted photographers, followed by the
+opening sequence of a Chicago steel mill that
+shows Bill (Richard Gere) in an argument
+with the foreman that leads to his flight by
+freight train to the wheat fields. In the fields
+we see harvesters' pay docked by the farm
+foreman for a "short line" a little while before
+the Farmer's accountant tells him that he's becoming
+the richest man in the county. The
+voice-over of Bill's sister Linda (Linda Manz)
+includes lines such as "the rich got it figured
+out" and "some got more than they need, others
+less." This is not to suggest that <title>Days of Heaven</title> is primarily a progressive political
+film; rather, the issue of class is an aspect of
+the whole.</p>
+
+<p>If <title>Days of Heaven</title> has a problem it is with
+the whole. Its elliptical plot&#8211;the love story of
+Bill, Abby (Brooke Adams), and the Farmer
+(Sam Shepard)&#8211;does not sustain the tenor of
+the film because the characters lack depth of
+development. What is compelling is the cycle
+of Plains seasons&#8211;the harvest, winter snow,
+the emergence of spring shoots&#8211;with its eloquently
+rendered evocation of the natural
+order.</p>
+
+<closer>
+<signed>June Perry Levine<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Denby, David. "Museum Piece." <title level="j">New York</title> (September 25,
+1978): 138–40.</bibl> <bibl>Fox, Terry Curtis. "The Last Rays of Light."
+<title level="j">Film Comment</title> (1978): 27–28.</bibl> <bibl>Riley, Brooks. "Nestor Almendros
+Interviewed." <title level="j">Film Comment</title> (1978): 28–31.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

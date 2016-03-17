@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.asam.022 SYSTEM "egp.asam.022.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Vietnamese</title>
+<title level="m" type="sub"></title>
+<author>Janet E. Benson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Benson, Janet E.">Janet E. Benson</author>. <title level="a">"Vietnamese."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">147-148</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VIETNAMESE</head>
+
+<figure n="egp.asam.022" rend="granted">
+<figDesc>Vietnamese fan dancers, Garden City, Kansas, ca. 1990</figDesc>
+</figure>
+
+<p>Significant numbers of Vietnamese first appeared
+in the American and Canadian Great
+Plains following the fall of the U.S.-backed
+Saigon government in 1975 and the resettlement
+of the first wave of Southeast Asian refugees
+in America. Many of these early refugees
+were educated military officers or professionals
+who had worked closely with Americans
+in Vietnam. In Kansas, Catholic sponsors
+helped the first newcomers obtain jobs and
+eventually establish businesses, while Catholic
+refugees provided clergy for the priesthood
+and sent their children to Catholic schools.
+Other denominations or interfaith councils
+have also provided continuing help and support
+to newcomers, as well as educating an
+often-unfriendly public about the reasons for
+refugee presence in Plains communities.</p>
+
+<p>Government policy in both Canada and the
+United States at first emphasized dispersal of
+the refugees to encourage assimilation and
+avoid overburdening individual communities.
+The availability of sponsors and employment
+determined locations for refugee resettlement.
+After initial placement, however, many refugees
+made their own decisions about where to
+live and work, and most preferred to live in
+such areas as eastern Canada and California,
+which quickly developed sizable Vietnamese
+communities. With the exception of Texas,
+which has consistently hosted the secondlargest
+Vietnamese population in the United
+States since 1980, American Great Plains populations
+of Vietnamese are generally low today
+(less than 1 percent of state populations),
+though they may be higher in some localities
+and especially urban settings.</p>
+
+<p>The situation is rather different in the Canadian
+Prairie Provinces. According to the
+1991 census, of the 94,255 Vietnamese living in
+Canada, 20,210 lived in the Prairie Provinces,
+and 15,135 in Alberta alone. Almost all live in
+the larger urban centers and many operate
+restaurants or other small businesses. One significant
+difference between the American and
+Canadian situations is that there was already a
+core of approximately 1,500 young and welleducated
+Vietnamese in Canada in 1975. They
+had come as students to study at French Canadian
+universities, and they early established a
+strong cultural and religious presence. Subsequently,
+the Vietnamese integrated relatively
+easily into Canadian economic, social, and
+cultural life.</p>
+
+<p>Settling near relatives or friends was nearly
+always a consideration for newcomers, as
+were employment opportunities. Refugees to
+the American Great Plains sought manufacturing
+or other jobs in Kansas City, Wichita,
+and Denver, while meatpacking plants in
+smaller communities presented opportunities
+for others. Limited in their work options by
+the language barrier, as well as by problems of
+transferring skills and verifying credentials,
+refugees arriving during the 1970s and 1980s
+struggled to support themselves. Meatpacking,
+though unpleasant and dangerous, allowed
+newcomers to accumulate the capital to
+buy a house, start a business, or extend their
+education and training; meatpackers deliberately
+recruited refugees as a source of cheap,
+docile labor. One of the earliest groups of Vietnamese
+to arrive in Kansas was sponsored by a
+meatpacking plant near Wichita. Others soon
+followed, and the expansion of meatpacking in
+southwest Kansas in the 1980s brought several
+thousand Vietnamese to the small towns of
+Liberal, Dodge City, and Garden City. In addition
+to the smaller meatpacking towns, urban
+areas throughout the Great Plains, such as Lincoln,
+Nebraska, quickly developed Vietnamese
+populations.</p>
+
+<p>The first-wave pioneers who arrived in 1975
+were followed in the 1980s by a prolonged and
+socially diverse flow of Vietnamese and other
+Southeast Asian refugees, the so-called boat
+people who fled from communist Vietnam on
+fishing boats and other barely seaworthy craft.
+Vietnamese refugees included Catholics and
+Buddhists, highly educated professionals, and
+relatively less educated farmers and fisher folk
+from rural areas. The refugees faced severe
+challenges, ranging from near-universal feelings
+of grief and survivor guilt due to their loss
+of or separation from close family members to
+the frustrations of making a living in an unfamiliar
+and sometimes hostile environment.
+In spite of these difficulties, most Vietnamese
+have survived&#8211;and some have prospered&#8211;
+due to extremely hard work and the mutual
+support of family and friends.</p>
+
+<p>By the end of the 1980s Vietnamese were
+moving out of the meatpacking towns of
+southwest Kansas to other states and locations:
+some to California to rejoin relatives
+and friends, others to Texas or Louisiana to
+take up shrimping or seafood processing.
+Some who left later returned, either to Wichita,
+home to a large Vietnamese population, or
+to one of the meatpacking towns to earn more
+capital. Parents discouraged by their own attempts
+to move beyond low-wage, entry-level
+jobs saw the education of their children as a
+primary goal.</p>
+
+<p>At the beginning of the twentieth-first century
+the flow of Vietnamese with the legal status
+of refugee has almost ended, though for
+many years former refugees, now citizens,
+have been able to sponsor family members as
+immigrants to both Canada and the United
+States. Urban Vietnamese populations are
+growing from both natural increase and immigration.
+The most fortunate early arrivals
+have established successful businesses, educated
+children through college, and are in
+some cases ready to retire. In Alberta, Vietnamese
+are now represented in the provincial
+legislature. A whole generation of Vietnamese
+American children has grown up in the Great
+Plains, as evidenced by the Vietnamese student
+associations at most universities in this
+region.</p>
+
+<closer>
+<signed>Janet E. Benson<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Benson, Janet E. "Garden City, Kansas: Vietnamese Refugees,
+Mexican Immigrants, and the Changing Character of
+a Community." In <title level="m">Manifest Destinies: Americanizing Immigrants and Internationalizing Americans</title>, edited by
+David W. Haines and Carol A. Mortland. Westport <hi rend="smallcaps">CT</hi>:
+Praeger Publishers, 2001: 39–54.</bibl> <bibl>Dorais, Louis-Jacques.
+<title level="m">The Cambodians, Laotians and Vietnamese in Canada</title>. Ottawa:
+Canadian Historical Association, 2000.</bibl> <bibl>Stull, Donald
+D., Janet Benson, Michael J. Broadway, Arthur L.
+Campa, Ken C. Erickson, and Mark A. Gray. <title>Changing Relations: Newcomers and Established Residents in Garden City, Kansas</title>. Report no. 172. Lawrence: University of
+Kansas Institute for Public Policy and Business Research,
+1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

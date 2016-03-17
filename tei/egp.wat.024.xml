@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Report on the Lands of the Arid Region</hi></title>
+<title level="m" type="sub"></title>
+<author>Donald Worster</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Worster, Donald">Donald Worster</author>. <title level="a">"<hi rend="italic">Report on the Lands of the Arid Region</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">860</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">REPORT ON THE LANDS OF THE ARID REGION</hi></head>
+
+<p>One of the most famous documents in American
+environmental history, the <title level="m">Report on the
+Lands of the Arid Region of the United States</title>
+(1878) was less than 200 pages long. The authors
+were members of the Geographical and
+Geological Survey of the Rocky Mountain Region,
+under the direction of John Wesley
+Powell, intrepid explorer of the Colorado
+River and the Grand Canyon. Powell's own
+contribution to their report to Congress was
+the first two chapters, which were characteristically
+bold and visionary.</p>
+
+<p>The nation was moving into a vast region
+marked by aridity, Powell warned, and the traditional
+system for disposing of the public domain
+to private citizens&#8211;the 160-acre farming
+homestead&#8211;was badly adapted to that condition.
+Powell relied on data collected by the
+Smithsonian showing that beyond the 100th
+meridian rainfall was less than twenty inches a
+year, on average, which was insu.cient for
+most crops. Successful settlement would require
+laws that encouraged smaller-scale farms
+based on communal irrigation and, more generally,
+laws that encouraged a pastoral economy
+of sheep and cattle ranches.</p>
+
+<p>Separating the arid from the humid region
+was the Great Plains (which Powell called the
+Sub-humid Region), stretching over nearly
+one-tenth of the country. He predicted that
+much agricultural wealth would come out of
+this "beautiful prairie country," whose rich
+soils seemed ready for the plow. He foresaw,
+however, that the Plains would experience
+many disastrous droughts, leaving people disappointed
+and bankrupt, and he recommended
+developing surface irrigation to mitigate
+some of this uncertainty.</p>
+
+<closer>
+<signed>Donald Worster<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Stegner, Wallace. <title level="m">Beyond the Hundredth Meridian: John
+Wesley Powell and the Second Opening of the American
+West</title>. Boston: Houghton Mifflin, 1954.</bibl> <bibl>Worster, Donald.
+<title level="m">An Unsettled Country: Changing Landscapes of the American
+West</title>. Albuquerque: University of New Mexico, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

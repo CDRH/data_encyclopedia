@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Missionaries</title>
+<title level="m" type="sub"></title>
+<author>Robert W. Galler Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Galler, Jr., Robert W.">Robert W. Galler Jr.</author>. <title level="a">"Indian Missionaries."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">747-749</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN MISSIONARIES</head>
+
+<p>Christian missionaries promoted strategies to
+transform Native American communities in
+the Great Plains. By the end of the nineteenth
+century few reservations and reserves claimed
+no Protestant or Catholic presence. Over time,
+tribal members selectively accepted certain
+cultural components while actively preserving
+Native traditions. Intercultural relations involved
+individuals acting within dozens of
+tribal and denominational traditions, not conflicts
+between monolithic "Indian" or "missionary"
+perspectives.</p>
+
+<p>Missionary contact with Great Plains tribes
+increased during the nineteenth century. Organized
+in 1810, the interdenominational American
+Board of Commissioners of Foreign Missions
+(<hi rend="smallcaps">ABCFM</hi>) led the way among Protestant
+missionary organizations. In 1819 Congress established
+a "civilization fund," appropriating
+$10,000 annually to support assimilation programs
+for Native Americans. Missionaries, spiritually
+motivated by the Second Great Awakening
+of the 1820s and 1830s and partially supported
+by federal funds, flocked to Indian
+Country. When Congress passed the Indian
+Removal Act (1830) and forcibly relocated
+many eastern tribes to the Plains, Christian
+representatives followed close behind to minister
+to relocated tribes as well as to Indians. In
+1838 Baptist missionary Evan Jones and Cherokee
+minister Jesse Bushyhead led two of the
+Cherokee removal parties to Indian Territory.</p>
+
+<p>Missionaries exerted little influence over
+tribal members during early interactions. In
+fact, Christian ministers often lived on the
+hospitality of tribal leaders. In 1834 <hi rend="smallcaps">ABCFM</hi>-sponsored
+ministers Samuel Allis and John
+Dunbar joined the Pawnees during their winter
+buffalo hunt in the Central Plains. During
+this five-month journey the missionaries lived
+beholden to tribal members for linguistic and
+cultural education, as well as for food and
+shelter. They developed a better understanding
+of Pawnee ways during the next few years,
+but claimed no conversions. Pawnee leaders
+showed interest in the missionaries but ignored
+their appeals to abandon their semi-nomadic
+lifestyle.</p>
+
+<p>Nineteenth-century missionaries arrived in
+the Great Plains with little experience in intercultural
+relations. Religious emissaries were
+drawn from Roman Catholic, Methodist, Baptist,
+Presbyterian, Lutheran, Mormon, Episcopal,
+Quaker, and other denominations. Many
+had extensive educational backgrounds by
+nineteenth-century standards. In the Plains
+they endured harsh weather, epidemics, limited
+support, and cultural isolation. They
+proved incapable, however, of recognizing the
+vitality of Native American societies. Instead,
+their culturally tainted vision saw tribal members
+as "lazy," "childlike," and "corrupt" members
+of "offensive" cultural traditions. Some
+missionaries disagreed on whether they should
+first promote Christianity or "civilization"
+within tribal communities. None questioned
+the premise of advocating both. Many, including
+Rev. John West, an Anglican stationed in
+southern Manitoba during the 1820s, considered
+principles of Christian mission work as
+indistinguishable from civilization programs.</p>
+
+<p>Despite ethnocentric biases, religious leaders
+advocated the potential equality of all Christians.
+Missionaries provided tribes with support
+for their bodies and minds while hoping to cultivate
+Christian souls. Jotham Meeker served the
+Ottawas in Franklin County, Kansas, for more
+than twenty years as a physician and Baptist
+minister. Isabel Crawford taught domestic skills
+at a remote Kiowa camp in western Oklahoma
+during the late nineteenth and early twentieth
+centuries. Catholic sisterhoods, including the
+Grey Nuns, Sisters of the Presentation, Benedictines,
+and Franciscans, taught in mission
+schools and developed health-care facilities.</p>
+
+<p>Missionaries found no single assimilation
+formula that would work for all Native Americans.
+The effectiveness of programs varied
+even within divisions of the same tribe. Distinctive
+tribal histories and missionaries' personalities
+produced different outcomes at
+each mission station. Historic contacts with
+European Americans, community locations,
+tribal leadership structures, and other variables
+influenced tribal acceptance, or rejection,
+of the Christian agenda. Missionary flexibility,
+communication skills, and attitudes
+affected tribal responses. In the 1830s, Jesuits
+recognized a failed mission to the Potawatomis
+in Council Bluffs, Iowa, at the same time
+that they recorded success with Potawatomis
+at Sugar Creek, Kansas. Similarly, during the
+1870s, Quaker representatives had varying
+success with their efforts among the Pawnees,
+Otoe-Missourias, and Omahas of Nebraska.</p>
+
+<p>Missionaries did not always practice truly
+Christian behavior. President Ulysses Grant's
+"Peace Policy" (1869) restricted reservations
+to a single Christian denomination, reinforcing
+denominational competition for tribal
+support. Self-serving actions often came at the
+expense of tribal interests. During the 1860s,
+Baptist leaders colluded with federal agents to
+defraud Ottawas of thousands of acres of their
+east-central Kansas land under the guise of
+creating an Indian university. Despite varied
+commentary from former students about
+their boarding-school experiences, countless
+stories reveal physical and emotional abuse at
+these institutions.</p>
+
+<p>Why did tribal members seek relationships
+with missionaries? Some recognized the spiritual
+power of Christian emissaries. The Blackfoot,
+for instance, described eminent Jesuit
+missionary Pierre-Jean De Smet as "the man
+who talks to the Great Spirit." Others saw missionaries
+of different denominations as potential
+allies, capable of supporting them against
+unpopular federal agents and assimilation
+programs. After their removal to Kansas in the
+1820s, Ohio Shawnees sided with Baptist missionaries
+while relatives from Missouri cultivated
+the support of Methodists. On the Lakotas'
+Pine Ridge Reservation in the 1880s,
+American Horse's people generally turned to
+Episcopalians while Red Cloud's folk allied
+with Jesuit Catholics. In this way, missionary
+support reinforced preexistent tribal divisions.</p>
+
+<p>Religious leaders often promoted tribal traditions
+at the expense of the federal assimilation
+agenda in order to gain converts. Some
+missions promoted "English only" rules for
+students in boarding schools while perpetuating
+adult use of tribal languages. Many missionaries
+learned tribal languages to cultivate
+support for their Christian message. <hi rend="smallcaps">ABCFM</hi>
+missionary Stephen Riggs, impatient for the
+Santee Sioux to understand English, learned
+the Dakota language to preach Christianity.
+He also published a Dakota grammar and dictionary
+in 1851 and <title level="m">Dakota Odowan</title>, a hymnbook
+in 1853. By the end of his life in 1883, he
+had published a translation of the Bible in
+Dakota. Presbyterian missionaries Samuel Irvin
+and William Hamilton unintentionally
+supported Iowa and Sac traditions. Their recorded
+observations of these tribal cultures
+from 1837 to 1853 stand today as significant
+ethnographic sources despite their obvious
+ethnocentric biases. Methodist Rev. John Mc-Dougall
+in southern Alberta went so far as to
+argue against the Canadian policy of suppressing
+the Sun Dance and Thirst Dance on the
+grounds of religious liberty.</p>
+
+<p>Tribal members also crossed cultural barriers.
+Over time, many joined Christian denominations,
+even serving within organizational
+structures as true "Indian" missionaries.
+Still, they retained their tribal identities. Kickapoo
+leader Kennekuk cloaked himself in Methodist
+garb while promoting a nativist agenda.
+The Kickapoo prophet used his prominence to
+delay for fourteen years his people's removal
+from their Illinois homelands to Kansas. In
+addition, he promoted religious traditions that
+incorporated rituals and beliefs that drew his
+people, as well as his Potawatomi converts, beyond
+Methodist norms. Despite his persistent
+Lakota identity, Black Elk served as a Catholic
+catechist on the Pine Ridge Reservation.</p>
+
+<p>Canadian religious leaders, perhaps even
+more than their American counterparts, promoted
+the cultivation of Native missionaries.
+Dakota tribal members John Thunder and Peter
+Hunter, of the Birdtail Creek Reserve in
+southern Manitoba, gained employment from
+the Foreign Mission Committee of the Presbyterian
+Church. From 1887 to 1912 they served
+as ministers to their Dakota people in the
+Northern Great Plains. Both men used their
+missionary offices to improve their people's
+status within Canadian and American societies.
+In these capacities, Thunder and Hunter
+preached Christianity in the Dakota language
+and promoted an agenda aimed at improved
+conditions for Native peoples. Some Indian
+missionaries crossed tribal lines to spread the
+Christian message. Ojibwa-born Shahwanegezhick
+of Ontario, who took the name Henry
+Bird Steinhauer, introduced Methodist tradition
+to the Crees of Alberta.</p>
+
+<p>Over time, Native Americans across the
+Great Plains incorporated Christian traditions
+into their tribal identities. Missionaries erred,
+however, in their estimation that they could
+replace tribal traditions with Christianity. On
+the Omaha Reservation in Nebraska, prominent
+La Flesche family members claimed elements
+of Presbyterian tradition that did not
+clash with their tribal identities. Some contemporary
+Native Americans choose to blend
+tribal traditions with Christianity by praying
+to Jesus in a sweat lodge and the Great Spirit
+in churches. Other Native Americans see no
+need for religious exclusivity. They distinctly
+practice tribal, Christian, and Native American
+Church traditions throughout their lives.
+Many contemporary tribal members still essentially
+ignore Christian traditions.</p>
+
+<p>Missionary practices changed in tone during
+the twentieth century. By the 1920s some
+Christian denominations grew more tolerant
+of certain tribal traditions. Following World
+War II, urban ministries arose to work with
+tribal members drawn to cities for economic
+and educational opportunities. The later decades
+of the century witnessed declining ministerial
+staff and revived interest in Native
+American communities, leading to increased
+missionary alliances. Pine Ridge, South Dakota,
+and Bismarck, North Dakota, now host
+ecumenical ministries serving tribal members
+from different denominational backgrounds.
+Ironically, many contemporary clergy grow
+increasingly involved in tribal rituals, to the
+point of suggesting potential Christian "conversion"
+to Native American traditions.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.008">Assimilation Policy</ref>.</p>
+
+<closer>
+<signed>Robert W. Galler Jr.<lb/>
+Western Michigan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Beaver, R. Pierce. "Protestant Churches and the Indians."
+In <title level="m">Handbook of North American Indians</title>, edited by William C. Sturtevant. Vol. 4: <title level="m">History of Indian-White Relations</title>,
+edited by Wilcomb Washburn. Washington <hi rend="smallcaps">DC</hi>:
+Smithsonian Institution, 1988: 430–58.</bibl> <bibl>Bowden, Henry
+Warner. <title level="m">American Indians and Christian Missions: Studies
+in Cultural Conflict</title>. Chicago: University of Chicago Press,
+1981.</bibl> <bibl>Burns, Robert I., S.J. "Roman Catholic Missions in
+the Northwest." In <title level="m">Handbook of North American Indians</title>,
+edited by William C. Sturtevant. Vol. 4: <title level="m">History of Indian-White Relations</title>, edited by Wilcomb Washburn. Washington <hi rend="smallcaps">DC</hi>: Smithsonian Institution, 1988: 494–500.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

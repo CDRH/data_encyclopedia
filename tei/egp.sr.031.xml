@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ice Hockey</title>
+<title level="m" type="sub"></title>
+<author>Lisa M. DeChano</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="DeChano, Lisa M.">Lisa M. DeChano</author>. <title level="a">"Ice Hockey."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">777</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ICE HOCKEY</head>
+
+<p>Ice hockey has its roots in Europe. Several versions
+of the sport were played for more than
+100 years before they were introduced in North
+America. British soldiers garrisoned at Kingston,
+Ontario, were the first to play a form
+of hockey, called shinny, in the mid-1800s.
+Ice shinny, in conjunction with the various
+other European forms of the game, evolved
+into modern ice hockey. Prior to 1917 there
+was one exclusively professional league, the
+Ontario Professional League, and many amateur
+leagues. The creation of the National
+Hockey League (<hi rend="smallcaps">NHL</hi>) brought the sharpest
+shooters, quickest goalies, and hardest hitters
+into one league.</p>
+
+<p>The Great Plains is the hotbed for ice hockey.
+Two-thirds of all Canadian <hi rend="smallcaps">NHL</hi> players come
+from the Prairie Provinces. Saskatchewan is the
+province with the highest percentage of players
+in the <hi rend="smallcaps">NHL</hi>, with Alberta and Manitoba also
+having major representation. In the United
+States, most of the American-born <hi rend="smallcaps">NHL</hi> players
+hail from a core region extending from North
+Dakota to New England. Many Plains cities
+host or have hosted several <hi rend="smallcaps">NHL</hi> teams: Kansas
+City, Missouri; Winnipeg, Manitoba; Calgary
+and Edmonton, Alberta; and Denver, Colorado.
+The World Hockey Association (<hi rend="smallcaps">WHA</hi>),
+which lasted from 1972 to 1979, also included
+teams in the Plains cities of Calgary, Edmonton,
+and Winnipeg.</p>
+
+<p>The Hockey Hall of Fame has inducted
+many players from the Plains. Manitoba, with
+eighteen, has the most inductees of the Prairie
+Provinces. Hockey greats such as Mervyn
+"Red" Dutton (1958 inductee), player and <hi rend="smallcaps">NHL</hi>
+president (1943-46), and Terrance "Terry"
+Sawchuck (1971 inductee), one of the greatest
+goalkeepers in hockey history, top the list of
+Manitobans in the Hall of Fame. Saskatchewan
+boasts fifteen inductees, including one of
+the most prominent players, "Mr. Hockey"
+Gordie Howe (1972 inductee); longtime Detroit
+Red Wings star Eddie Shore (1947 inductee),
+the only defenseman to win the Hart Trophy
+for most valuable player four times; and,
+most recently, Bryan Trottier (1997 inductee),
+who in the early 1980s led the New York Islanders
+to four consecutive Stanley Cup victories.
+Alberta has seven inductees in the Hall of
+Fame, including John Bucyk (1981 inductee),
+longtime star of the Boston Bruins, and Bill
+Gadsby (1970 inductee), three-time first team
+and three-time second team all-star. Kansas is
+the only Plains state to have a hometown
+player inducted into the Hall. Silas "Si" Griffis,
+known during his hockey tenure as the fastest
+man in hockey, was inducted in 1950 for his
+play with the Kenora Thistles (1902-6) and
+the Vancouver Millionaires (1911-18).</p>
+
+<p>Amateur hockey has long been an important
+part of Great Plains culture. Many high
+school players from the core regions go on to
+play collegiate hockey. The Western Collegiate
+Hockey League (<hi rend="smallcaps">WCHA</hi>) is one of the foremost
+college hockey leagues in the United States,
+winning thirty national titles since 1951. The
+University of North Dakota currently owns the
+record for all-time winning percentage in National
+Collegiate Athletic Association (<hi rend="smallcaps">NCAA</hi>)
+tournament play. The <hi rend="smallcaps">NHL</hi> drafts a large proportion
+of players while they are still in high
+school, or the players are drafted before they
+graduate from college. The <hi rend="smallcaps">WCHA</hi> has produced
+more than 275 <hi rend="smallcaps">NHL</hi> players and 140
+Olympic hockey players. In 1997 the wcha
+placed more than 350 players in the <hi rend="smallcaps">NHL</hi>, more
+than any other collegiate league. Many wellknown
+<hi rend="smallcaps">NHL</hi> players, including Jack McCarten,
+the first U.S. <hi rend="smallcaps">NHL</hi> player, Tony Esposito, Ed
+Belfour, and Brett Hull played in the wcha. In
+Canada the Prairie Provinces host eleven of the
+eighteen teams in the World Hockey League
+(<hi rend="smallcaps">WHL</hi>). Manitoba supports the volunteer actions
+of Hockey Manitoba, which promotes ice
+hockey in the province at every age. Recently,
+the organization began clinics for female
+hockey players.</p>
+
+<p>Local Plains culture has also been greatly
+influenced by the sport. By 1905 ice hockey
+had filtered into every corner of Canada, making
+it a major component of winter activity.
+Many leagues were set up, often with support
+from local schools and churches because of
+hockey's importance in the education of boys.
+Everywhere in the Prairie Provinces boys are
+found practicing their skills year-round and
+watching <hi rend="smallcaps">NHL</hi> games, aspiring to be the next
+Gordie Howe or Wayne Gretzky.</p>
+
+<closer>
+<signed>Lisa M. DeChano<lb/>
+Western Michigan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>MacFarlane, Brian. <title level="m">60 Years of Hockey: The Intimate Story
+behind North America's Fastest, Most Exciting Sport</title>. Complete
+Statistics and Records. Toronto: McGraw Hill Ryerson,
+1976.</bibl> <bibl>Metcalfe, Alan. <title level="m">Canada Learns to Play: The
+Emergence of Organized Sport, 1807-1914</title>. Toronto: Mc-
+Clelland and Stewart, 1987.</bibl> <bibl>The National Hockey League.
+<title level="m">The Official Guide and Record Book, 1995-1996</title>. Chicago:
+Triumph Books, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

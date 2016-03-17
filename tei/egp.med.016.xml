@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Edmonton Journal</hi></title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"<hi rend="italic">Edmonton Journal</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">511</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">EDMONTON JOURNAL</hi></head>
+
+<p>The first 1,000 copies of the <title level="j">Edmonton Journal</title>
+rolled off the presses at the back of the Shamrock
+Fruit Store on November 11, 1903. The
+paper's founders were John Macpherson, Arthur
+Moore, and J. W. Cunningham, and the
+<title level="j">Journal</title> faced tough competition from the
+well-established <title level="j">Edmonton Bulletin</title>. In fact,
+the <title level="j">Journal</title> failed to show a profit for five
+years. By 2002 the <title level="j">Journal</title> employed 894 staff
+and had an average daily circulation of 145,000
+copies.</p>
+
+<p>The <title level="j">Journal</title> grew with Edmonton, which
+was incorporated as a city in 1904. From its
+inception the <title level="j">Journal</title> sided with the Conservative
+Party and therefore against the <title level="j">Bulletin</title>,
+whose co-owner, Frank Oliver, was a Liberal
+cabinet minister. The <title level="j">Journal</title> also was a champion
+of the development of the "new Northwest,"
+a booster for the city and region, especially
+when economic times were hard in the
+1920s and 1930s.</p>
+
+<p>Under the control of John Imrie, who was
+publisher from 1921 to 1941, the <title level="j">Journal</title> moved
+into a handsome new building on Bellamy
+Hill in 1921; branched out into radio, launching
+<hi rend="smallcaps">CJCA</hi>, Alberta's first radio station, in 1922;
+and won a Pulitzer Prize in 1938, the first time
+such an award had been made outside the
+United States. The honor was given for the
+paper's defense of freedom of the press in resisting
+William Aberhart's Social Credit government's
+bill to bring newspapers under government
+control. The <title level="j">Journal</title> battled the bill
+in front-page editorials and all the way to the
+Supreme Court, which ruled against the government
+on March 4, 1938.</p>
+
+<p>On January 20, 1951, the <title level="j">Bulletin</title> stopped its
+presses for good, leaving the <title level="j">Journal</title> as Edmonton's
+only daily newspaper until April 2,
+1978, when the <title level="j">Edmonton Sun</title>, a morning tabloid,
+printed its first edition. The <title level="j">Journal</title>'s facilities
+were improved to keep pace with its
+expanded circulation, which had reached
+95,881 in 1956. An addition doubled the size of
+the paper's building in 1952, a press building
+was added in 1955, and in 1980 the opening of
+the Eastgate production plant, complete with
+offset presses, inaugurated the modern era of
+the <title level="j">Edmonton Journal</title>. For five years, from
+September 2, 1980, to April 8, 1985, the <title level="j">Journal</title>
+put out both evening and morning editions,
+but thereafter, in keeping with nationwide
+trends, the paper published only a morning
+edition.</p>
+
+<p>Recent years have seen the construction of a
+new fifteen-million-dollar office complex,
+which involved the demolition of the old 1921
+structure, a landmark that city planners did
+not want to see erased. (Parts of the old facade
+were incorporated into the new structure.)
+The <title level="j">Journal</title> also put $1 million into becoming
+part owner of the Edmonton Oilers, demonstrating
+again that Edmonton's leading paper
+not only reports the news of the city and region
+but also is part of that news.</p>
+
+<closer>
+<signed>Daivd J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

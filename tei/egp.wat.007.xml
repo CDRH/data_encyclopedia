@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Doctrine of Equity</title>
+<title level="m" type="sub"></title>
+<author>Theron Josephson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Josephson, Theron">Theron Josephson</author>. <title level="a">"Doctrine of Equity."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">851-852</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOCTRINE OF EQUITY</head>
+
+<p>The doctrine of equity is a principle of inter-jurisdictional
+water allocation developed by
+the U.S. Supreme Court in response to interstate
+water conflicts. It is a doctrine of necessity
+because of the juxtaposition of the legal
+theory allowing each state to develop its own
+form of water law against the physical reality
+that streams flow from one state to another.
+The doctrine states that when there is a disagreement
+over the water use of an interstate
+stream, the court must fashion an equitable
+apportionment of the water that serves the
+needs of water users in both states. Equitable
+apportionment of the water is not based on
+any mathematical formula but on a fair consideration
+of all the interests involved.</p>
+
+<p>The doctrine originated in the Great Plains,
+where water flows not only from west to east
+but also from appropriation water law jurisdictions to riparian water law jurisdictions.
+Water allocation and consumptive uses of water
+by an upstream state have significant consequences
+when downstream states seek to use
+water of the same stream. Such was the case
+with the states of Colorado and Kansas. In 1901
+Kansas sued Colorado on behalf of water users
+of the Arkansas River in western Kansas, alleging
+that Colorado, through its appropriation
+law, had encouraged its citizens to consume
+the water of the Arkansas to the detriment of
+the people in Kansas. Colorado countered,
+maintaining that as an independent state it had
+the right to use all the water it needed, even to
+the detriment of Kansas residents. By 1904, the
+case, <title>Kansas v. Colorado</title>, had reached the U.S.
+Supreme Court. In 1907 the Supreme Court
+rejected both positions. Justice David Brewer, a
+native of Kansas, wrote the court's opinion.
+While the Court did not find that Colorado
+had injured residents of southwestern Kansas
+to any great degree, it did establish the principle
+of the "equality of right," which fashioned a
+remedy requiring courts to ensure each state
+an equitable opportunity to use interstate
+stream water. This balancing of relative economic
+advantages continues to determine decisions
+on interstate water disputes.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.009">Brewer, David</ref>.</p>
+
+<closer>
+<signed>Theron Josephson<lb/>
+Ferris State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dunbar, Robert G. <title level="m">Forging New Rights in Western Water</title>.
+Lincoln: University of Nebraska Press, 1983.</bibl> <bibl>Hutchins, W.
+A. <title level="m">Water Rights in the Nineteen Western States</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1974.</bibl> <bibl>Trelease, Frank
+J., and George A. Gould. <title level="m">Cases and Materials on Water
+Law</title>, 4th ed. St. Paul <hi rend="smallcaps">MN</hi>: West Publishing Company, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

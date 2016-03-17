@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.tra.002 SYSTEM "egp.tra.002.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Automobiles</title>
+<title level="m" type="sub"></title>
+<author>Michael D. Green</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Green, Michael D.">Michael D. Green</author>. <title level="a">"Automobiles."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">798-799</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AUTOMOBILES</head>
+
+<figure n="egp.tra.002" rend="granted">
+<figDesc>Fritchie Electric on cross-country trip, Denver, Colorado, 1908</figDesc>
+</figure>
+
+<p>Automobility revolutionized life in the Great
+Plains. Marked by vast distances and low population
+widely scattered on farms and ranches,
+the region was characterized by isolation, loneliness,
+and provincialism. Before 1900, railroads
+controlled transportation on the Plains.
+To be viable, farms had to be close to rail lines.
+Crops and cattle went to market on the rails;
+goods and equipment arrived the same way.
+Residents of the Plains, on horseback or in
+carriages and wagons, rarely traveled outside
+a ten- or twelve-mile radius. Automobility
+meant personally controlled freedom to travel,
+and for Plains families, cars and trucks opened
+new economic and social worlds.</p>
+
+<p>Rural Americans were initially suspicious of
+automobiles. Expensive, fast, noisy, unreliable,
+dangerous, the playthings of the urban rich, it
+was hard to imagine that they could ever have
+value in the lives of country folk. The town
+council of Mitchell, South Dakota, expressed
+the thoughts of many when it banned automobiles
+from within town limits. But by 1905
+cars had become more reliable and less expensive.
+Henry Ford, who had founded his car
+company two years before, concluded that the
+secret to success in the automobile business
+lay in the production of a light, rugged,
+powerful, inexpensive car that virtually anyone
+could afford. In 1908 he introduced the
+Model T.</p>
+
+<p>The touring car, a five-passenger vehicle
+with a canvas top and side curtains, was the
+staple of Model T production. With 22 horsepower
+to pull 1,200 pounds, the car could go
+virtually anywhere and do practically anything.
+Cowboys ran cattle in Model Ts, and
+farmers carried grain and calves to market in
+them. Model Ts put Plains farmers and ranchers
+on wheels and introduced them to a whole
+new world.</p>
+
+<p>Throughout its production, from 1908 to
+1927, virtually the only thing that changed
+about a Model T was its price, which declined
+from $850 to $290. Other models were available,
+including the popular two-seat runabout,
+which was even less expensive, and a
+much more costly sedan, but the touring car
+outsold them all and became by far the most
+common car on the roads.</p>
+
+<p>Great Plains farmers and ranchers, enjoying
+remarkable prosperity prior to the 1920s,
+snapped cars up in numbers that astonished
+everybody. In 1910 the ratio of adult population
+to cars was 65 to 1 in Nebraska and 72 to 1
+in North Dakota, ranking them fourth and
+fifth in the nation. Kansas and South Dakota
+were fourteenth and nineteenth. In the early
+1920s, after millions of cars had been sold, the
+rankings told a similar story&#8211;Nebraska and
+Kansas were third and fourth, South Dakota
+was seventh. By 1936 five Great Plains states
+were in the top ten in car ownership as a proportion
+of population, with Wyoming in third
+place with a population to motor vehicle ratio
+of 3 to 1. The national average in 1936 was
+nearly 5 to 1. Such figures document the extraordinary
+popularity&#8211;and necessity&#8211;of
+motor vehicles among the residents of the
+Great Plains. Purchasing cars and trucks in
+much larger numbers than buyers elsewhere,
+they were targeted by the automakers as the
+best market in the country.</p>
+
+<p>Prior to 1930, over half of these vehicles
+were Fords. Chevrolet rapidly gained preeminence,
+however, thanks to the introduction in
+1929 of a six-cylinder engine that came in
+four-door sedan trim for only $675. Ford
+never regained its earlier dominance of the
+market, even with its introduction in 1932 of
+an efficient and powerful <hi rend="smallcaps">V</hi>8. Between the two
+there was little room left for other makes, although
+hopeful Great Plains entrepreneurs
+entered the automobile business. At least 142
+firms organized to manufacture cars and
+trucks for sale in the exploding local market.
+Some, such as the Great Smith of Topeka and
+the Patriot of Lincoln, enjoyed brief success,
+but none could effectively compete.</p>
+
+<p>Car ownership liberated Plains residents
+from the isolation and loneliness of life and
+expanded their world beyond the limitations
+imposed by horse-drawn travel and stationary
+rails. At the same time, the freedom of movement
+drastically changed Great Plains society.
+One-room schools gave way to consolidated
+county schools; country doctors moved to
+towns, opened offices, and associated themselves
+with local hospitals; and crossroads general
+stores closed while farm families whizzed
+by on their way to department stores in town.
+Town churches absorbed rural members while
+country churches withered. Indeed, towns became
+the focus of rural life.</p>
+
+<p>At the same time, fertile land too distant
+from rail lines to be profitable could now be
+farmed, and with acreage once devoted to keeping
+horses put into market production, yields
+soared. The overproduction and collapsing
+prices of the 1920s were, in part, also the result
+of automobility. The transformation of the
+Plains was the result of the desires of thousands
+of individuals to free themselves from the
+dreary loneliness of life in isolation. Automobiles
+made that transformation possible.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.006">Automotive</ref> /
+<hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.044">Riding Around</ref>.</p>
+
+<closer>
+<signed>Michael D. Green<lb/>
+University of North Carolina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berger, Michael L. <title level="m">The Devil Wagon in God's Country: The
+Automobile and Social Change in Rural America, 1893–1929</title>.
+Hamden <hi rend="smallcaps">CT</hi>: Archon Books, 1979.</bibl> <bibl>Flink, James J. <title level="m">The
+Automobile Age</title>. Cambridge <hi rend="smallcaps">MA</hi>: <hi rend="smallcaps">MIT</hi> Press, 1988.</bibl> <bibl>Wik,
+Reynold M. <title level="m">Henry Ford and Grass-Roots America</title>. Ann
+Arbor: University of Michigan Press, 1972.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

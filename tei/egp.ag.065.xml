@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.065 SYSTEM "egp.ag.065.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.065">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suitcase Farming</title>
+<title level="m" type="sub"></title>
+<author>Leslie Hewes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.065</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hewes, Leslie">Leslie Hewes</author>. <title level="a">"Suitcase Farming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">52-53</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUITCASE FARMING</head>
+
+<figure n="egp.ag.065" rend="granted">
+<figDesc>Breaking sod in Greely County, Kansas, May 1925</figDesc>
+</figure>
+
+<p>Suitcase farming was, and to a limited degree
+still is, carried on by farmers living more than
+one county away from the land they farm. The
+term was used as early as 1930 by the county
+agent for Greeley County, in western Kansas,
+although its characteristics were not defined.
+The pattern, or basic ecology, of early suitcase
+farming can be generalized in this way:
+Cheap level grazing land in a zone of recurring
+drought, a moderate distance west of established
+wheat country that was already largely
+mechanized, was invaded by farmers with
+tractors and other farm machinery in a speculative
+westward advance. The plow-up was so
+substantial that a suitcase-farming frontier
+can be recognized that included most of westcentral
+and southwestern Kansas and small
+areas in Colorado.</p>
+
+<p>After an interruption by the drought and
+depression of the 1930s, and the restrictions of
+World War II, including gasoline rationing
+and scarcity of machinery and parts, a second
+advance of similar character carried wheat
+farming still farther west, mainly into eastcentral
+Colorado. Kiowa County was affected
+most. Farmers from northwestern Oklahoma,
+the Texas Panhandle, and urban bases in front
+of the Rockies, in some cases former residents,
+were involved, along with Kansans.</p>
+
+<p>The decline in suitcase farming, due to unprofitable
+operation, preference for local operators,
+and locally to irrigation, already apparent
+in the 1960s, has continued, so that
+now suitcase farming is mainly a fleeting
+memory in the history of settlement and agriculture
+in the Central Great Plains. In aiding
+great plow-ups, suitcase farming doubtless
+contributed to Dust Bowl conditions in the
+1930s and in the mid-1950s, but probably its
+most lasting effect was to extend the production
+of hard winter wheat westward several
+hundred miles.</p>
+
+<closer>
+<signed>Leslie Hewes<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hewes, Leslie. <title level="m">The Suitcase Farming Frontier: A Study in the Historical Geography of the Central Great Plains</title>. Lincoln:
+University of Nebraska Press, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

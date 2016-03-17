@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.046 SYSTEM "egp.ct.046.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">San Angelo, Texas</title>
+<title level="m" type="sub"></title>
+<author>Elvis E. Flemming</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Flemming, Elvis E.">Elvis E. Flemming</author>. <title level="a">"San Angelo, Texas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">182-183</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAN ANGELO, TEXAS</head>
+
+<figure n="egp.ct.046">
+<figDesc>San Angelo, Texas, ca. 1886</figDesc>
+</figure>
+
+<p>The city of San Angelo is located at the confluence
+of the North and South Concho Rivers
+near where the 100th meridian and the thirtyfirst
+line of latitude intersect. This part of
+Texas was once the homeland of the Jumano
+Indians. The region around this modern-day
+city became a center of European activity in
+the 1620s, when Spanish missionaries began
+ministering to local Indian groups. The permanent
+settlement of San Angelo may be
+dated to 1867, when the U.S. government established
+Fort Concho as part of a series of
+forts intended to protect westering settlers. In
+1870 a San Antonio entrepreneur named Bart
+DeWitt purchased land along the Concho
+River (and opposite Fort Concho) with intentions
+of founding a town, but the village struggled
+in its early years. Initially, it survived by
+meeting the numerous needs of military personnel
+and their families.</p>
+
+<p>One reason why San Angelo struggled during
+its early years was that most local commercial
+establishments were located at the nearby
+village of Ben Ficklin, the center of a stage
+line extending into California. But a devastating
+flood in 1882 destroyed that tough little
+way station, and six years later the Santa Fe
+Railroad connected San Angelo to the outside
+world and ensured its growth. The city by the
+Conchos flourished.</p>
+
+<p>While Fort Concho had provided much of
+the economic stimulus for San Angelo during
+its early days, that ended when the federal
+government closed the installation in 1889. (In
+the 1980s and 1990s city o.cials restored the
+fort. It is now a main point of interest for
+tourists.) By the late nineteenth century, San
+Angelo had become a major center for sheep
+and cattle ranching. In the early 1900s farmers
+in surrounding areas began growing cotton,
+and that enterprise also proved profitable.
+Wildcatters struck oil in areas close to the city
+in the early 1920s, and the oil industry stimulated
+economic growth: banks, department
+stores, construction, and real estate activity
+boomed. The San Angelo economy early became
+diversified, and diversification has been
+sustained with the later addition of more than
+120 manufacturing plants, modern medical
+facilities, and a military presence in the form
+of Goodfellow Air Force Base.</p>
+
+<p>Among the notable figures who have played
+a hand in shaping the city's destiny is Margaret
+A. Shannon, a philanthropist whose large fortune
+funded the establishment of the Shannon
+Medical Center in 1932; it remains among the
+most important medical facilities in West
+Texas. After World War II, Houston Harte arrived
+in the city to become the editor of the
+San Angelo Standard-Times. He became involved
+in historic preservation, founded his
+own profitable private businesses, and participated
+in numerous civic causes. During a
+period of almost three decades in the late
+twentieth century, Dr. Lloyd D. Vincent transformed
+the local junior college into Angelo
+State University, which had an enrollment of
+6,300 in 2000.</p>
+
+<p>San Angelo's population growth has reflected
+its economic development. Between
+1920 and 1930, as the oil boom struck, the
+city's population more than doubled to 25,309.
+The establishment of Goodfellow Air Force
+Base in 1950 resulted in another growth spurt,
+with the population climbing to 52,093 by
+1950. The diverse economy and San Angelo's
+attractiveness as a retirement center have kept
+the population curve rising&#8211;to 73,240 in 1980,
+84,474 in 1990, and 88,439 in 2000.</p>
+
+<closer>
+<signed>Elvis E. Fleming<lb/>
+Historical Society for Southeast New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clemens, Gus. <title level="m">The Concho Country</title>. San Antonio: Mulberry
+Books, 1980.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

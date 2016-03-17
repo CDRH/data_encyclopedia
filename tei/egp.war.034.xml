@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.war.034 SYSTEM "egp.war.034.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pershing, John J. (1860-1948)</title>
+<title level="m" type="sub"></title>
+<author>Mark Van Rhyn</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Van Rhyn, Mark">Mark Van Rhyn</author>. <title level="a">"Pershing, John J. (1860-1948)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">833-834</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PERSHING, JOHN J. (1860-1948)</head>
+
+<figure n="egp.war.034" rend="granted">
+<figDesc>Gen. John J. Pershing shakes hands with army soldier at U.S. Army General Hospital No. 21 (now called Fitzsimons), January 13, 1920</figDesc>
+</figure>
+
+<p>Spanning America's emergence as a world
+power, John Joseph Pershing's military career
+began in the Great Plains as a junior cavalry
+officer in 1886 and concluded as army chief
+of staff in 1924. Born September 13, 1860, in
+Laclede, Missouri, Pershing graduated from
+the U.S. Military Academy at West Point in
+1886. Following duty in South Dakota and in
+the Southwest, he served as military science
+professor at the University of Nebraska from
+1891 to 1895, founding the drill team now
+famed as the Pershing Rifles. He taught Willa
+Cather and included Roscoe Pound and William
+Jennings Bryan among his friends. He
+married Frances Warren, daughter of Wyoming
+senator Francis Warren, in 1905.</p>
+
+<p>The Spanish-American and Philippine-American
+Wars proved Pershing's first career
+break, when he came to future president Theodore
+Roosevelt's attention in Cuba and then
+performed well in the Philippine Islands. Promoted
+over 862 senior officers to brigadier
+general in 1906, Pershing gained national
+prominence in 1916 with command of the
+punitive expedition against Mexican revolutionary
+Pancho Villa. Meanwhile, on August
+27, 1915, Pershing lost his wife and three of his
+four children in a fire at their house at San
+Francisco's Presidio.</p>
+
+<p>Pershing moved onto the international stage
+after President Woodrow Wilson selected him
+to command the American Expeditionary
+Force when the United States entered World
+War I in April 1917. Despite its late entrance
+into the war, the army played a vital role, assisting
+in blunting Germany's offensives in March
+and July of 1918, then successfully attacking the
+Saint Mihiel salient and in the Meuse-Argonne
+sector as the war ended.</p>
+
+<p>Promoted to general of the armies on September 3, 1919, Pershing ended his career
+in 1924 as chief of staã. He retired to chair
+the American Battle Monuments Commission
+and perform ceremonial duties. On September
+2, 1946, he secretly married Michiline
+Resco. Pershing died in Washington <hi rend="smallcaps">DC</hi> on
+July 15, 1948.</p>
+
+<closer>
+<signed>Mark Van Rhyn<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Smythe, Donald. <title level="m">Pershing, General of the Armies</title>. Bloomington:
+Indiana University Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Industrial Workers of the World</title>
+<title level="m" type="sub"></title>
+<author>Ted Grossardt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grossardt, Ted">Ted Grossardt</author>. <title level="a">"Industrial Workers of the World."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">714</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDUSTRIAL WORKERS OF THE WORLD</head>
+
+<p>The Industrial Workers of the World (<hi rend="smallcaps">IWW</hi>),
+or Wobblies, originated in Chicago in 1905 as a
+loose amalgam of labor and political entities,
+principally the Western Federation of Miners
+(<hi rend="smallcaps">WFM</hi>) and various socialist political parties.
+The union aspired to organize all workers by
+industry (hence the name "Industrial") instead
+of by skill categories, as did trade unions
+like the American Federation of Labor. Led by
+"Big Bill" Haywood from the <hi rend="smallcaps">WFM</hi>, the Wobblies
+moved from organizing eastern factories
+full of unskilled immigrants and women in
+the early years to organizing the huge migrant
+labor force in the western United States that
+worked in the extractive industries of lumbering,
+mining and petroleum, and agriculture.
+Immigrant, homeless, relying on the railroads
+for transportation, and camping on the edges
+of towns in so-called jungles, the migrant
+worker was the ultimate invisible person. The
+Wobblies created an organization that enlisted
+migrant workers as the foot soldiers in their
+"army of the revolution."</p>
+
+<p>The <hi rend="smallcaps">IWW</hi> did not see itself as a political party
+and eschewed involvement with any political
+system. Rather, it favored "direct action"&#8211;the
+use of labor action to solve labor problems.
+Rich in symbolism, and using a variety of visual
+images to present its story to a largely
+immigrant and often illiterate audience, the
+Wobblies became identified by the black cat
+and the French wooden shoe (<hi rend="italic">sabot</hi>), the symbol
+for sabotage. Although the Wobbly newspaper
+<title level="j">Solidarity</title> hinted broadly at the advantages
+of sabotage for realizing goals, it is
+not clear to what extent sabotage was actually
+practiced.</p>
+
+<p>In the Great Plains, the Wobblies reached
+their greatest extent and impact just prior to
+the World War I with a concerted effort to
+organize migrant wheat harvesters, the socalled
+bindlestiffs. They used a "contagion"
+method of organizing, where any new member
+could sign up additional new members.
+Capitalizing on the fact that railroads were
+really the only means of long-distance transportation,
+Wobblies took control of boxcars,
+organizing everyone in the car as the freight
+trains moved from town to town. Small-town
+sheriffs had no idea what to do when boxcar
+after boxcar loaded with singing, shouting
+Wobblies landed in their town. If they arrested
+one or two for disturbing the peace, the rest of
+the union would surround the jail and demand
+release. Employers were unaccustomed
+to having migrant workers band together to
+demand higher pay.</p>
+
+<p>Between 1915 and 1917 the <hi rend="smallcaps">IWW</hi> swept across
+the Plains like a prairie fire. By the summer of
+1916 the <hi rend="smallcaps">IWW</hi> was collecting dues from more
+than 18,000 migrant harvesters, and its organizers
+boasted of an "800-mile picket line"
+from Oklahoma to South Dakota. The Wobblies'
+mobility, developed from many years of
+practice as migrants, allowed them to appear
+to be everywhere at once.</p>
+
+<p>After the onset of World War I, the image of
+the saboteur was used effectively against the
+union by state and federal agencies. When the
+Wobblies attempted to capture, in the form of
+increased wages, some of the money being fed
+into wartime industry, they were accused of
+sympathizing with Germany. Following the
+success of the Russian Revolution in 1917, the
+"army of the revolution" was dealt a serious
+blow by a series of coordinated government
+raids on <hi rend="smallcaps">IWW</hi> headquarters across the United
+States in September of that year. Hundreds of
+iww leaders were arrested and tried for treason
+and other charges, draining the union's
+coffers. Wichita, Kansas, became infamous for
+its rotating jail cells, in which at least one
+Wobbly died and many more wasted away
+waiting for trial. Big Bill Haywood emigrated
+to communist Russia following the war.</p>
+
+<p>Ultimately, the advent of combine wheat
+harvesters obviated the need for huge numbers
+of migrant laborers, and the adoption of the
+automobile split migrants into small groups
+that could not be organized as effectively as
+entire boxcar loads. By the late 1920s the <hi rend="italic">I
+Won't Works</hi>, as the Wobblies were nicknamed,
+were little more than an exciting memory in
+the Great Plains.</p>
+
+<closer>
+<signed>Ted Grossardt<lb/>
+University of Kentucky</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brissenden, Paul F. <title level="m">The I.W.W.: A Study of American Syndicalism</title>.
+New York: Columbia University, 1919.</bibl> <bibl>Kornbluh,
+Joyce L. <title level="m">Rebel Voices: An I.W.W. Anthology</title>. Ann Arbor:
+University of Michigan Press, 1965.</bibl> <bibl>Sellars, Nigel Anthony.
+<title level="m">Oil, Wheat, and Wobblies: The Industrial Workers of the
+World in Oklahoma, 1905–1930</title>. Norman: University of
+Oklahoma Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

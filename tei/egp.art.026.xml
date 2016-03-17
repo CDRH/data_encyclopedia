@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gilder, Robert (1856-1940)</title>
+<title level="m" type="sub"></title>
+<author>Martha H. Kennedy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kennedy, Martha H.">Martha H. Kennedy</author>. <title level="a">"Gilder, Robert (1856-1940)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">117</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GILDER, ROBERT (1856-1940)</head>
+
+<p>Robert Fletcher Gilder once identified himself
+as a journeyman printer by trade, despite the
+fact that he had a successful career as a professional
+journalist in Omaha, Nebraska, and
+achieved lasting recognition as an artist and
+archaeologist. He painted many Nebraska and
+western landscapes that were admired, exhibited,
+and collected during his lifetime.
+Gilder's paintings capture many aspects of the
+beauty and subtle variety of the Plains landscape
+and contribute notably to the region's
+artistic legacy.</p>
+
+<p>Born October 6, 1856, the son of a minister,
+in Flushing, Long Island, New York, Gilder
+attended public schools in Newark and New
+Jersey and the Gunnery School in Washington,
+Connecticut. He studied painting under
+August Will, a Jersey City painter of urban
+scenes who directed a school in New York
+City. After arriving in Omaha in 1887, Gilder
+worked at the <title level="j">Omaha World Herald</title>, first as a
+typesetter, then as a reporter and editor for the
+newspaper during a career of nearly twentyfive
+years before he retired in 1919.</p>
+
+<p>The extent of Gilder's formal artistic training
+with Will remains unknown; he may have
+been largely self-taught. Friend and fellow Nebraska
+artist Augustus Dunbier (1888–1977)
+believed Gilder may have been influenced by
+Omaha artist J. Laurie Wallace. He often
+worked outdoors and drew inspiration primarily
+from the Missouri River basin, especially
+the Fontenelle Forest area. He also made
+many paintings of the desert landscape of Arizona
+as well as scenes in California and Connecticut.
+His technique can be described as
+impressionist in that he concentrated on the
+atmosphere or feel of particular places, sought
+to capture their natural appearances during
+brief periods of time, and used bright pigments
+in broken, broad brushwork. In an untitled
+winter landscape of 1914 he sensitively
+rendered the season's cold pale light, which
+casts faint shadows of trees on a riverbank. In
+<title>Shadow of the Bridge</title> (n.d.), a view of Omaha
+seen from across the Missouri River, the blue
+shadows of the bridge cut bold diagonals
+across the canvas to the blue horizontal of
+the river, above which the city skyline rises.
+Known especially for his winter landscapes,
+which were avidly collected by Omahans,
+Gilder also painted autumn and spring scenes.
+An example such as <title>Passing Storm</title> (c. 1916),
+with its heavy lavender gray clouds lifting to
+disclose clear sky, reveals his skillful use of
+color, brush strokes, and composition to depict
+rapidly shifting atmospheric conditions.
+Broad and broken brushwork, strong but not
+overstated color, and tight composition characterize
+many of his best paintings.</p>
+
+<p>Gilder exhibited regularly at Whitmore's
+Art Gallery in Omaha and had his work shown
+in Arizona, California, St. Paul, Minnesota,
+and New York City. Modest, energetic, and
+consistent in the quality of his work even late
+in his life, he produced thirty-four paintings
+the summer before he died in Omaha on
+March 7, 1940. Nebraska's major art museums,
+private collections, and several public schools
+hold examples of his work, in addition to
+Amherst College and the St. Paul Institute.</p>
+
+ <p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: 
+<ref n="egp.med.035"><hi rend="italic">Omaha World-Herald</hi></ref>.</p>
+
+<closer>
+<signed>Sarah Erwin<lb/>
+Gilcrease Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gerdts, William H. <title level="m">The Plains States and the West: Art across America: Regional Painting in America</title>. New York:
+Abbeville Press, 1990.</bibl> <bibl>Geske, Norman A. <title level="m">Art and Artists in Nebraska</title>. Lincoln: Sheldon Memorial Art Gallery in Association
+with the Center for Great Plains Studies, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

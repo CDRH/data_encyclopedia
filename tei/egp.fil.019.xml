@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Disney, Walt (1901-1966)</title>
+<title level="m" type="sub"></title>
+<author>John C. Tibbetts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tibbetts, John C.">John C. Tibbetts</author>. <title level="a">"Disney, Walt (1901-1966)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">265</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Disney, Walt (1901-1966)</head>
+<figure n="egp.fil.019" rend="granted" type="noclick">
+<figDesc>Walt Disney</figDesc>
+</figure>        
+
+<p>After creating Mickey Mouse in 1928, Walt
+Disney proceeded in his cartoons, movies,
+television shows, and theme parks to establish
+an entertainment empire, dedicated to recreating
+American popular culture in Disney's
+own image. Walt was essentially a product of
+his midwestern upbringing. Born in Chicago
+on December 5, 1901, the fourth son of Elias
+and Flora Disney, he grew up in two Missouri
+towns, rural Marceline and urban Kansas City,
+where he acquired the background experience
+and moral outlook&#8211;Protestant values, indomitable
+self-reliance, a sturdy work ethic,
+and a distrust of outsiders&#8211;that would pervade
+all of his work.</p>
+
+<p>Disney began as a cartoonist and animator
+from 1921 to 1923 for Kansas City Film Ad and
+for his own company, Laugh-O-Gram, producing
+animated advertisements for local theaters
+and a series of fairy tales for national
+distribution. Before he left Kansas City for
+good in 1923, he had gathered around him a
+circle of friends and associates who would,
+either as colleagues or eventual competitors,
+follow him to Los Angeles and collectively
+change the face of American animation: Ub
+Iwerks (thereafter Disney's chief technical supervisor),
+theater organist Carl Stalling (who
+would later join the Warner Bros. cartoon unit
+as its principal composer), Fritz Freleng (later
+a cartoon producer for Warner Bros. and for
+his own Depatie-Freleng company), and
+Hugh Harmon and Rudolph Ising (later the
+heads of Harmon-Ising animation, which
+originated the Bosco cartoons and the <title>Merrie Melodies</title> series for Warner Bros.).</p>
+
+<p>In important respects, Walt never really left
+Kansas City and the Midwest behind. By all
+accounts, his early years working on his father's
+farm near Marceline, Missouri, were
+filled with pain and hardship, dominated by
+his abusive father. Yet he transformed and idealized
+this miserable experience into a fantasy
+of life in a picturesque, turn-of-the-century
+small town&#8211;with its town square, bandstand,
+and quaint shop fronts&#8211;that appears in virtually
+all the Mickey Mouse cartoons (beginning
+with Steamboat Willie in 1928) and in
+dozens of live-action feature films and television
+shows, including <title>So Dear to My Heart</title>
+(1946), <title>Pollyanna</title> (1960), <title>Mary Poppins</title> (1964),
+and the Mickey Mouse Club series in the 1950s.
+Significantly, it was Marceline's Main Street
+that Disney reconstituted into the "Main
+Street" of the theme parks in Anaheim, Orlando,
+Paris, and Tokyo, the only area through
+which every visitor must pass. This obsession
+with order and detestation of dirt points up
+the midwesterner's ambivalent attitude toward
+the soil, the fertile ground from which
+both food springs and encroaching weeds
+must be cleared away, and it is most graphically
+demonstrated in the substantial amount
+of screen time (fully one-third of the total
+film) devoted to Snow White's instructions to
+the Seven Dwarfs about how best to clean up
+their cottage. Walt insisted with equal fervor
+on tidying and cultivating his own media image
+as a plainspoken interpreter of cultural
+artifacts like classical music and great works
+of literature, diluting and packaging them in
+forms accessible to the great American mass
+audience. Although he died on December 16,
+1966, this process, dubbed the "Disneyfication"
+of America, continues. He embodies
+the energy that once settled the New World,
+plowed it under, paved it over, and pushed its
+frontiers ever westward and that now busily
+reconfigures it into myth and memory.</p>
+
+<closer>
+<signed>John C. Tibbetts<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schickel, Richard. <title level="m">The Disney Version</title>. New York: Simon
+and Schuster, 1968.</bibl> <bibl>Shortridge, James R. <title level="m">The Middle West: Its Meaning in American Culture</title>. Lawrence: University
+Press of Kansas, 1989.</bibl> <bibl>Smoodin, Eric, ed. <title level="m">Disney Discourse: Producing the Magic Kingdom</title>. New York: Frederick Ungar,
+1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Counting Coup</title>
+<title level="m" type="sub"></title>
+<author>Anthony R. McGinnis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McGinnis, Anthony R.">Anthony R. McGinnis</author>. <title level="a">"Counting Coup."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">825</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COUNTING COUP</head>
+<figure n="egp.war.013" rend="granted">
+<figDesc>A depiction of counting coup</figDesc>
+</figure>
+
+<p>Counting coup, or striking an enemy, was the
+highest honor earned by warriors participating
+in the intertribal wars of the Great Plains.
+Native peoples recognized precise systems of
+graduated war honors, and usually the greatest
+exploit was counting coup. Key to a man's
+success in Plains combat was demonstrating
+his own courage by proving superiority over
+his opponent and, in a competitive sense, over
+his own comrades. Killing was part of war, but
+showing courage in the process was more important
+for individual status. This was best
+accomplished by risking one's life in charging
+the enemy on foot or horseback to get close
+enough to touch or strike him with the hand,
+a weapon, or a "coupstick."</p>
+
+<p>Humiliating the enemy also played a part in
+this fighting, as illustrated by an account from
+the Jesuit missionary Father Pierre-Jean De
+Smet. In De Smet's 1848 visit to the Oglala
+Lakotas, the Oglala leader Red Fish related to
+the priest how his men had just suffered a
+disgraceful defeat at the hands of the Crows.
+The Crows killed ten Oglalas, then chased the
+others for a distance. The Crows then were
+content merely to repeatedly count coup on
+their enemies with clubs and sticks, thus demonstrating
+to the Oglalas that they were not
+worth the ammunition needed to kill them.</p>
+
+<p>Counting coup carried over into the battles
+against American troops. For example, the
+Northern Cheyenne warrior Wooden Leg related
+how, as a young man at the Battle of the
+Little Bighorn, he and his friend Little Bird
+chased a soldier across the river, counting coup
+on him with their whips and grabbing his carbine.
+They did not kill him, said Wooden Leg,
+because after counting coup it did not seem
+particularly brave, and besides, it would waste
+bullets. Counting coup, then, was the epitome
+of a type of warfare that pitted the skill and
+daring of one man against another.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.014">De Smet, Pierre-Jean</ref>.</p>
+
+<closer>
+<signed>Anthony R. McGinnis<lb/>
+Lyons, Colorado</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McGinnis, Anthony R. <title level="m">Counting Coup and Cutting Horses:
+Intertribal Warfare on the Northern Plains, 1738–1889</title>.
+Evergreen <hi rend="smallcaps">CO</hi>: Cordillera Press, Inc., 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

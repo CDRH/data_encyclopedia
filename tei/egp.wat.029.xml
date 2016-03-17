@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sandhills Lakes</title>
+<title level="m" type="sub"></title>
+<author>David C. Gosselin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gosselin, David C.">David C. Gosselin</author>. <title level="a">"Sandhills Lake."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">862-863</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANDHILLS LAKES</head>
+
+<p>In the Nebraska Sandhills, there are an estimated
+175 square miles of shallow lakes and
+ponds, about 100 square miles of marsh, and
+more than 1,500 square miles of subirrigated
+meadows. These water-dominated landscape
+features make the Sandhills the second most
+productive waterfowl region in the United
+States. Lakes and wetlands occur where lowlying,
+flat valley floors between grass-stabilized
+sand dunes intersect the vast groundwater resource
+of the High Plains, or Ogallala, Aquifer.
+There is little or no surface water runoff into
+these lakes. Sandhills lakes range in size from
+less than 10 acres to more than 800 acres. Lake
+areas fluctuate seasonally, depending on the
+dynamic interaction of climatic and hydrologic
+processes. The deepest Sandhills lake is
+Blue Lake in Garden County, which is about
+fifteen feet deep. More characteristic depths
+are between two and four feet.</p>
+
+<p>Chemical data indicate that the lakes are
+compositionally diverse, ranging from fresh
+to brine (total dissolved solids vary from less
+than 200 milligrams per liter to more than
+100,000 milligrams per liter). Alkalinity, as
+calcium carbonate, ranges from less than 200
+to greater than 100,000 milligrams per liter;
+pH is usually greater than 8.0. Groundwater,
+primarily derived from local precipitation, is
+the principal source of water and dissolved
+solids for the lakes. Differences in the chemistry
+between lakes are a function of local hydrologic
+variability, related to the magnitude
+of inflow and outflow of water from a lake and
+the age of the lake.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIROMENT</hi>: <ref n="egp.pe.053">Sandhills</ref>.</p>
+
+<closer>
+<signed>David C. Gosselin<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gosselin, David C. "Major-ion Chemistry of Compositionally
+Diverse Lakes, Western Nebraska, U.S.A.: Implications
+for Paleoclimatic Interpretations." <title level="j">Journal of
+Paleolimnology</title> 17 (1997): 33–49.</bibl> <bibl>Rundquist, Donald C.
+<title level="m">Wetland Inventories of Nebraska's Sandhills</title>. Resource Report
+9, Conservation and Survey Division, University of
+Nebraska–Lincoln, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

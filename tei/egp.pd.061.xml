@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.061">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Woodsworth, James Shaver (1874-1942)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.061</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Woodsworth, James Shaver (1874-1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">728</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOODSWORTH, JAMES SHAVER (1874-1942)</head>
+
+<p>Methodist minister, politician, and social reformer,
+James Shaver Woodsworth was born
+on July 29, 1874, near Toronto, Ontario. He
+moved with his family to the Great Plains in
+1882 when his Methodist minister father took
+a new position in Winnipeg. Woodsworth followed
+his father into the ministry; he was ordained
+in 1896 and worked for several years as
+a circuit rider in the Manitoba Plains. In 1899
+he traveled to Oxford, England, where he
+studied for two years and worked in settlement
+houses in the slums of East London. The
+extreme poverty and dire living conditions he
+witnessed had a profound impact on the minister;
+thereafter he became a proponent of the
+"Social Gospel" and strived to improve the
+living conditions of the poor. By 1904 he was
+back in the Great Plains, working with immigrants
+in the slums of Winnipeg's North End.
+For almost ten years he operated a settlement
+house called the All Peoples Mission. He also
+wrote extensively on the plight of poor immigrants
+and the working class, producing two
+books, <title level="m">Strangers within Our Gates</title> (1909) and
+<title level="m">My Neighbor</title> (1911).</p>
+
+<p>World War I marked a turning point in
+Woodsworth's career. As a staunch pacifist, he
+opposed Canadian involvement in the war
+and spoke openly about his views. He particularly
+despised the draft and the participation
+of Methodist ministers as recruiters. Because
+of his vocal opposition, Woodsworth
+lost his government job and, unable to find
+work as a minister in Winnipeg, was forced to
+move his family to Vancouver. There he became
+became increasingly more politicized, as he
+worked on the docks, joined the longshoremen's
+union, and wrote for labor newspapers.
+In June 1919, while visiting Winnipeg, he was
+arrested for writing "seditious" editorials during
+the Winnipeg General Strike. Woodsworth's
+arrest and his widely read coverage
+and criticism of the government's handling of
+the strike boosted his popularity among Canada's
+working class. In 1921 he was elected to
+Canada's House of Commons as a member of
+Manitoba's Independent Labour Party. As a
+legislator, Woodsworth became one of Canada's
+leading social reformers; among other
+reforms, he helped create Canada's Old-Age
+Pension Plan. In 1932 he helped form the Cooperative
+Commonwealth Federation (forerunner
+to the New Democratic Party), a political
+party comprised largely of labor, farmer,
+and socialist groups from western Canada. He
+served as the party's chair and its parliamentary
+leader until his death.</p>
+
+<p>World War II was Woodsworth's final political
+battle. Once again, he opposed Canadian
+involvement, and in 1939 he was the only
+member of the House of Commons to vote
+against a declaration of war. Despite Woodsworth's
+opposition to the war, he remained
+party chairman and was elected in 1940 to another
+term in the House of Commons. Weakened
+by ill health, however, Woodsworth returned
+with his wife to the family home in
+Vancouver, where he died on March 21, 1942.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.014">Cooperative Commonwealth Federation</ref>.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mills, Allen George. <title level="m">Fool for Christ: The Political Thought of
+J. S. Woodsworth</title>. Toronto: University of Toronto Press,
+1991.</bibl> <bibl>Woodsworth, James Shaver. <title level="m">My Neighbor: A Study of
+City Conditions, a Plea for Social Service</title>. Toronto: Missionary
+Society of the Methodist Church, 1911.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.075 SYSTEM "egp.ag.075.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.075">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wheat</title>
+<title level="m" type="sub"></title>
+<author>Patrick J. McCluskey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.075</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McCluskey, Patrick J.">Patrick J. McCluskey</author>. <title level="a">"Wheat."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">56-57</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WHEAT</head>
+
+<figure n="egp.ag.075" rend="granted">
+<figDesc>Wheat harvest near Chilocco, Oklahoma, July 1984</figDesc>
+</figure>
+
+<p>What is commonly recognized as a kernel of
+wheat is the caryopsis or fruit of a plant of
+the genus <hi rend="italic">Triticum</hi> from the grass family
+(Gramineae). Biologically the purpose of the
+caryopsis is to reproduce the plant. Humans
+recognized the food value of wheat, which today
+is one of the most important cultivated
+crops in the world. Commercially in the
+United States, wheat is classified based on seed
+coat color (red or white), kernel texture (hard
+or soft), and growth habit (winter or spring).
+In the Great Plains three market classes of
+wheat are typically grown: hard red winter
+wheat, hard red spring wheat, and durum
+wheat. Hard red winter and hard red spring
+wheats (species <hi rend="italic">Triticum aestivum</hi> L.) are
+called common or hexaploid wheats and have
+forty-two chromosomes; durum wheat (<hi rend="italic">Triticum
+durum</hi> Desf.) is a tetraploid wheat having
+twenty-eight chromosomes. Hard white
+wheat, with winter and spring habit cultivars,
+is another market class of wheat that
+is increasing in commercial popularity in the
+Plains.</p>
+
+<p>Cultivation of wheat in the Central Great
+Plains began in earnest when Russian Mennonite
+immigrants brought the hard red winter
+wheat variety (Turkey Red) to Kansas
+around 1874, although wheat was grown in
+Kansas prior to this. Turkey Red proved to
+be well suited to the environment of southcentral
+Kansas and diffused from there. Agricultural
+records from 1900 show that Turkey
+Red (or its sibling Crimea) was also grown
+in Nebraska and Oklahoma Territory. Today
+Colorado, Kansas, Oklahoma, Nebraska, and
+Texas primarily grow hard red winter wheat.
+Texas and Oklahoma, and to a lesser extent
+Kansas, also use wheat stands for grazing cattle.
+Montana and South Dakota grow both
+hard red winter and hard red spring wheats (as
+well as some durum wheat) with records of
+such cultivation dating from 1841 in Montana
+and the 1890s in South Dakota. North Dakota
+produces hard red spring and durum wheat;
+records indicate production of Fife and Bluestem
+hard red spring types as early as 1879.
+Production of wheat in the Canadian Prairie
+Provinces started after the Dominion Lands
+Act of 1872 and the westward expansion of the
+Canadian Pacific Railway brought in settlers.
+Hard red spring and durum wheats are primarily
+grown because of the short growing
+season in the region. The Prairie Provinces
+now produce hard red spring wheats, spring
+white wheats, durum wheats, and some red
+winter wheats.</p>
+
+<p>Conditions under which wheat is grown
+are extremely diverse throughout the Plains.
+Wide ranges exist in rainfall amounts, altitude,
+daytime and nighttime temperatures,
+soil conditions, and farming practices. Also,
+the types and severity of diseases and insects
+that attack wheat are many and varied. Winter
+wheat is planted in fall and harvested in late
+spring to early summer; it requires a cold period
+in order to produce grain in the spring
+(vernalization) but must possess tolerance to
+adverse winter conditions (winter hardiness).
+Wheat is usually harvested when the moisture
+content is about 10 to 16 percent. Winter
+wheat harvest typically begins in May in Texas
+and is usually handled by custom harvest
+crews with combines who move north as the
+grain ripens. Spring wheat and durum wheat
+are planted in April or May then harvested in
+late summer. In the Canadian Prairie Provinces,
+seeding occurs during May and June.
+Harvest can begin as early as August and usually
+runs well into September. Swathing,
+where wheat is cut at physiological maturity
+then threshed after drying in the sun, is a
+common harvesting practice on smaller farms
+in North Dakota and Canada; however, combining
+of wheat is increasing there.</p>
+
+<p>Grain yield is influenced by both genetic
+and environmental factors. Average yield
+ranges from twenty to forty bushels per acre
+across the Plains, though in 1997 yields as high
+as eighty bushels per acre were reported. Major
+increases in grain yield occurred when
+farmers shifted from tall to semidwarf varieties,
+which produce less straw and more kernels
+per plant. The short stature plants are also
+sturdier thus more resistant to lodging (falling
+over). This transition began in the late 1960s
+in the Northern Great Plains and was completed
+in the Southern Great Plains by the
+early 1980s. Once wheat is harvested, it is
+stored on the farm or taken directly to an elevator
+for storage or sale. On-farm storage is
+more prevalent in the Northern Plains. In
+1997, approximately 79 million seeded acres
+produced nearly 65 million metric tons of
+wheat in the Great Plains.</p>
+
+<p>While much of the wheat is consumed domestically,
+both the United States and Canada
+are major exporters. Domestic uses include
+animal feed, starch and gluten production, industrial
+applications, seed wheat, and most
+importantly, milling into bakery flours. Hard
+winter and hard spring wheats are noted for
+having high protein content and are typically
+used for making pan and hearth breads, hard
+rolls, bagels, buns, other yeast leavened products,
+and all-purpose flour. Durum wheat
+is used almost exclusively for making pasta
+products such as spaghetti and macaroni. In
+an average year, about 40 percent of the wheat
+grown in the Great Plains is exported. International
+customers purchase U.S. and Canadian
+wheat for such products as pan and
+hearth breads, French breads, steamed breads,
+chapatis, flat breads, Asian style noodles, pasta
+products, and indigenous traditional foods.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi> <ref n="egp.ind.025">Grain Processing</ref>; <ref n="egp.ind.056">Swather</ref>.</p>
+
+<closer>
+<signed>Patrick J. McCluskey<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bartholomew, David M. et al. <title level="m">Marketing Kansas Wheat</title>.
+Kansas State Board of Agriculture, 1959.</bibl> <bibl>Pomeranz, Y.
+<title level="m">Wheat: Chemistry and Technology</title>. St. Paul: American Association
+of Cereal Chemists, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

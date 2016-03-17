@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Durant, Thomas (1820-1885)</title>
+<title level="m" type="sub"></title>
+<author>Alan H. Grey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gery, Alan H.">Alan H. Grey</author>. <title level="a">"Durant, Thomas (1820-1885)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">801</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DURANT, THOMAS (1820-1885)</head>
+
+<p>Thomas Clark Durant was born in Lee, Massachusetts,
+on February 6, 1820. He graduated
+from Albany Medical College in 1840 and
+married Heloise Hannah Timbrel in 1847.
+They had two children. Durant briefly served
+as a professor of medicine at Albany Medical
+College but subsequently channeled his energy
+into business. A railroad promoter and
+contractor, Thomas Durant's importance to
+the Great Plains lies in his controlling of route
+choice and construction as vice president of
+the Union Pacific Railroad.</p>
+
+<p>To encourage what Robert W. Fogel has
+called a "premature enterprise," in 1862, 1864,
+and 1866 Congress provided incentives and set
+standards for a transcontinental railroad. The
+Union Pacific was organized to gain the promised
+loans and land. Besides his vice presidency
+in the Union Pacific, Durant had major
+financial interests in the companies he used to
+grade and lay the track, companies that were
+paid in money and Union Pacific stock.</p>
+
+<p>With ongoing control of the company assured,
+the contractors, through Durant, chose
+a line that maximized construction profits
+with little concern for potential traffic or later
+operating costs and profits. In the race with
+the Central Pacific for subsidized mileage, the
+Union Pacific did not go through the existing
+Plains settlement at Denver. The expected expenses
+and slow progress of a line pushed
+through the rugged mountains to the west
+were too great. On the Plains Durant's chosen
+route followed the Platte River to Lodgepole
+Creek and the relatively easy Gangplank over
+the Laramie Range. As Congress intended, the
+railroad strengthened Council Bluffs and
+Omaha, but it was Durant's direction that
+founded new towns westward to Cheyenne
+and beyond.</p>
+
+<p>Following charges of defrauding the Union
+Pacific Durant was dropped from the company's
+directorate in May 1869. In 1870 he sold
+almost all of his Union Pacific stock. Much of
+his fortune was lost in the panic of 1873. With
+his health deteriorating, Durant retired to the
+Adirondacks. He died at North Creek, New
+York, on October 15, 1885.</p>
+
+<closer>
+<signed>Alan H. Grey<lb/>
+Provo, Utah</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dodge, Grenville M. <title level="m">How We Built the Union Pacific Railway</title>.
+Washington dc: Government Printing Office, 1910.</bibl>
+<bibl>Hirshon, Stanley P. <title level="m">Grenville M. Dodge: Soldier, Politician,
+Railroad Pioneer</title>. Bloomington: Indiana University Press,
+1967.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

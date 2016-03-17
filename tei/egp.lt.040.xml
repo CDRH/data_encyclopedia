@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Malin, James C. (1893-1979)</title>
+<title level="m" type="sub"></title>
+<author>Allan G. Bogue</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bogue, Allan G.">Allan G. Bogue</author>. <title level="a">"Malin, James C. (1893-1979)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">483-484</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MALIN, JAMES C. (1893-1979)</head>
+
+<p>A distinguished historian of the Great Plains,
+James Malin was born on the homestead of his
+father, Jared Nelson Malin, near Edgeley,
+North Dakota, on February 8, 1893, and lived
+there and at nearby Kulm while his father was
+by turns farmer, store clerk, real estate and
+agricultural implement salesman, sheep man,
+and lay preacher. The family moved to Edwards
+County, Kansas, in 1903. Young Malin
+experienced Plains country farming and sheepherding
+at first hand as well as life in Lewis,
+Kansas, before entering Baker University at
+Baldwin City, Kansas, in 1910. Initially enrolled
+as a mathematics major, he switched to history
+and also completed the equivalent of majors in
+philosophy and biology before his graduation
+in 1914. After periods of high school teaching,
+graduate study at the University of Kansas, and
+military service, he completed a doctorate and
+joined the history department at the University
+of Kansas in 1921. He retired in 1963. He
+long served as associate editor of the <title level="j">Kansas Historical Quarterly</title> and was president of the
+Agricultural History Society, the Kansas Historical
+Society, and the Kansas History Teachers
+Association. A fellow of the American Association
+for the Advancement of Science, he
+served on committees of major associations in
+American history, geography, and American
+studies.</p>
+
+<p>Malin wrote fifteen books, more than 100
+articles, and many book reviews. He prepared
+two survey texts during his early career and
+later published in the philosophy of history,
+but most of his publications deal with the history
+of his native state and the adjacent grasslands
+of the Plains. Several of Malin's books
+focus on the regional and national politics involved
+in establishing Kansas Territory and the
+subsequent state: <title level="m">Indian Policy and Westward Expansion</title> (1921), <title level="m">John Brown and the Legend of Fifty-Six</title> (1942), and <title level="m">The Nebraska Question, 1852–1854</title> (1953). In the early 1930s he began to
+investigate the accommodation of European
+Americans to the subhumid environment of
+the grasslands, innovating methods for studying population turnover and community development
+and investigating relevant research
+in other disciplines. He described his results as
+"history from the bottom up" in articles and
+books such as "The Turnover of Farm Population
+in Kansas" (<title level="j">Kansas Historical Quarterly</title>,
+1935), <title level="m">Winter Wheat in the Golden Belt of Kansas: A Study in Adaptation to Subhumid Geographical Environment</title> (1940; reprint, 1944),
+"Dust Storms, 1850–1900" (<title level="j">Kansas Historical Quarterly</title>, 1946), and <title level="m">The Grassland of North America: Prolegomena to Its History</title> (1947).</p>
+
+<p>Malin significantly advanced understanding
+of the history of the North American grassland
+regions. He particularly illuminated the factors
+underlying mid-nineteenth-century Indian
+policy, the activity of political factions in
+territorial Kansas, the Kansas-Nebraska Act,
+settler and agricultural adaptation, the incidence
+of dust storms, and the influence of
+science and technology in shaping regional
+development. He was the first American historian
+to make extensive use of federal and state
+census returns at the farm level. Alone among
+western historians of his generation, he drew
+heavily on ecological research, and he believed
+that ecology paralleled history in its objectives.
+However, he disputed some of the generalizations
+of ecologist Frederic Clements and his
+followers concerning the American grasslands.</p>
+
+<p>Sensitive to editorial oversight, Malin published
+most of his own books during the last
+third of his career, a practice that impeded the
+circulation of his ideas. Malin died on January
+16, 1979, at Lawrence, Kansas.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.030">Grasses</ref> / <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.036">Kansas-Nebraska Act</ref>.</p>
+
+<closer>
+<signed>Allan G. Bogue<lb/>
+University of Wisconsin-Madison</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bogue, Allan G. "James C. Malin: A Voice from the Grassland."
+In <title level="m">Writing Western History: Essays on Major Western Historians</title>, edited by Richard W. Etulain. Albuquerque:
+University of New Mexico Press, 1991: 215–46.</bibl> <bibl>Malin,
+James C. <title level="m">History and Ecology: Studies of the Grassland</title>,
+edited by Robert P. Swierenga. Lincoln: University of Nebraska
+Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

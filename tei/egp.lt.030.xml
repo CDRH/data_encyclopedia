@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Inge, William (1913-1973)</title>
+<title level="m" type="sub"></title>
+<author>Elizabeth A. Turner</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Turner, Elizabeth A.">Elizabeth A. Turner</author>. <title level="a">"Inge, William (1913-1973)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">480</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INGE, WILLIAM (1913-1973)</head>
+
+<p>Born on May 3, 1913, in Independence, Kansas,
+William Inge is best remembered for four theatrical
+successes: <title level="m">Come Back, Little Sheba</title>
+(1950), the Pulitzer Prize winner <title level="m">Picnic</title> (1953),
+<title level="m">Bus Stop</title> (1955), and <title level="m">The Dark at the Top of the Stairs</title> (1957). Inge's portraits made him the first
+successful playwright to re-create small-town
+Plains life, including its hypocrisy and oppressive
+judgments. His characters frequently find
+that they must settle for life as it is and not as
+they wish it to be.</p>
+
+<p>Before his success with <title level="m">Come Back, Little Sheba</title>, which was produced on Broadway in
+1950, Inge had worked in a number of occupations,
+none of which satisfied him. He labored
+on a highway crew, as an English teacher in the
+Columbus (Kansas) High School in 1937–38,
+as an instructor at Stephens College in Columbia,
+Missouri, from 1938 to 1943, and as a
+drama critic for the <title level="j">St. Louis Star-Times</title> from
+1943 to 1946. He once told an interviewer that
+he felt out of place in Kansas and did not claim
+it as his past until he moved to New York.</p>
+
+<p>Even after his success with <title level="m">Come Back, Little Sheba</title> and the three plays that followed, Inge
+was plagued by self-doubts. In 1959 <title level="m">A Loss of Roses</title> failed critically and financially, and Inge
+retreated to Florida and began work on his
+script Splendor in the Grass, for which he won
+an Academy Award in 1961. Inge returned
+to drama with <title level="m">Natural Affection</title> (1963) and
+<title level="m">Where's Daddy?</title> (1966), but both were unsuccessful,
+confirming his fears that he could not
+live up to his four Broadway plays of the 1950s.
+Inge then turned to fiction, hoping to avoid the
+negative criticism that devastated him. He
+published two novels, <title level="m">Good Luck, Miss Wyckoff</title>
+(1970) and <title level="m">My Son Is a Splendid Driver</title> (1971),
+but again his work was largely rejected. His
+earlier anxieties and depression, compounded
+by chronic alcoholism, left him with an overwhelming
+pessimism, and on June 10, 1973, in
+Los Angeles, he killed himself. Inge felt that he
+could no longer write, and without writing he
+did not want to live. Although some of his
+characters manage to settle for a qualified happiness,
+Inge was unable to make a similar compromise.
+He was buried in his hometown.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.061"><title>Splendor in the Grass</title></ref>.</p>
+
+<closer>
+<signed>Elizabeth A. Turner<lb/>
+William Rainey Harper College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Shuman, R. Baird. <title level="m">William Inge</title>. Boston: Twayne, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

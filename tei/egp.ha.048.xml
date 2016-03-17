@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Zamora, Bernice (b. 1938)</title>
+<title level="m" type="sub"></title>
+<author>Sharla Hutchison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hutchison, Sharla">Sharla Hutchison</author>. <title level="a">"Zamora, Bernice (b. 1938)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">369</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ZAMORA, BERNICE (b. 1938)</head>
+
+<p>Chicana poet Bernice Zamora is best known
+for her collection of poems, Restless Serpents.
+First published in 1976, this collection established
+Zamora's reputation as an important
+poet. Zamora was born on January 20,
+1938, in the small rural community of Aguilar,
+Colorado, where her family roots extend back
+several generations. Her parents, Victor and
+Marjorie Ortiz, eventually moved the family
+to Pueblo. The influence of the southern Colorado
+landscape and its rugged terrain of
+mountains and volcanoes would become a
+lasting feature in her work, as would the regional
+culture.</p>
+
+<p>Zamora received her bachelor of arts degree
+from Southern Colorado University in 1970,
+her master of arts degree from Colorado State
+University in 1972, and her doctorate from
+Stanford University in 1986. In addition to her
+career as a poet, Zamora has taught classes in
+Chicano studies, ethnic studies, and literature
+at the University of California at Berkeley,
+University of San Francisco, Santa Clara University,
+and Stanford University. Zamora has
+also coedited anthologies of Chicano writing.
+Her collected poems in <title level="m">Restless Serpents</title> were
+republished with a series of new poems under
+the title, <title level="m">Releasing Serpents</title>, in 1994.</p>
+
+<p>A variety of themes and influences culminate
+in Zamora's poetry: Chicano cultural traditions,
+gender discrimination, cultural suppression,
+labor exploitation, spiritual questions,
+identity conflict, and love. The regional
+setting of southern Colorado and, more generally,
+the American Southwest, figures prominently
+in her work as she explores such questions.
+Chicano writers often locate Aztlan,
+the homeland of the Aztecs, within the region
+of northern New Mexico and southern Colorado.
+Zamora integrates Aztec references and
+images in her writing as she explores themes
+and questions about cultural heritage and the
+effects of colonization in the contemporary
+world of the American Southwest.</p>
+
+<closer>
+<signed>Sharla Hutchison<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruce-Novoa, Juan. <title level="m">Chicano Poetry: A Response to Chaos</title>.
+Austin: University of Texas Press, 1982.</bibl> <bibl>S&#225;nchez, Marta
+Ester. <title level="m">Contemporary Chicana Poetry: A Critical Approach to an Emerging Literature</title>. Berkeley: University of California
+Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

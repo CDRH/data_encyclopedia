@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Lone Wolf v. Hitchcock</hi></title>
+<title level="m" type="sub"></title>
+<author>C. Blue Clark</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Clark, C. Blue">C. Blue Clark</author>. <title level="a">"<hi rend="italic">Lone Wolf v. Hitchcock</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">456</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">LONE WOLF V. HITCHCOCK</hi></head>
+
+<p><hi rend="italic">Lone Wolf v. Hitchcock</hi> (1903) was a U.S. Supreme
+Court decision that abrogated Native
+American treaty rights and underscored congressional
+supremacy (called plenary power)
+over Indian affairs. Plaintiffs Lone Wolf and
+several other Indians had sued the defendant,
+Interior Secretary Ethan Allen Hitchcock,
+to block allotment of the Kiowa-Comanche-
+Apache Reservation in southwestern Oklahoma.
+Kiowa claims, including the condition
+of article 12 of the Medicine Lodge Treaty
+(1867) forbidding cession of Indian land unless
+approved by three-fourths of the tribe's male
+members, were sidestepped in the Court's
+opinion. In 1900 Congress had approved a
+modified 1892 allotment agreement that did
+not contain sufficient signatures, even with
+forgeries, and Lone Wolf and his supporters
+sought judicial relief. Their case had been rejected
+in federal court in Washington dc and in
+the District of Columbia Court of Appeals.</p>
+
+<p>The decision was the culmination of a
+century-long congressional assault on Indian
+land and treaty rights. The Court held that
+congressional guardianship over Indian reservation
+property could not be limited by an
+Indian treaty and cited its own decree in <hi rend="italic">Cherokee
+Nation v. Georgia</hi> (1831) that Congress
+possessed complete administrative power over
+Indian tribal property. Referring to the earlier
+decision in <hi rend="italic">United States v. Kagama</hi> (1886), the
+justices upheld congressional supremacy over
+the nation's "Indian wards," called paternalism,
+ruling that congressional plenary authority
+over Indian relations was not subject to
+judicial oversight or review, since such congressional
+power was political.</p>
+
+<p>The Court's decision had reverberations far
+from Lone Wolf's own reservation, which was
+quickly allotted. The unallotted "surplus" was
+opened to a tide of non-Indian settlers, who
+rapidly engulfed tribal lands. Although Indian
+land division had been under way before the
+opinion, the judicial pronouncement spurred
+a frenzy of allotment. Indian land loss increased,
+not least on reservations on the
+Northern Great Plains. Indian Office abuses of
+Indian land, resources, and rights increased in
+the ensuing years. Indian nations sank deeper
+into the mire of wardship, subject to virtually
+unlimited federal authority. The plenary doctrine
+of <hi rend="italic">Lone Wolf</hi> dominated federal Indian
+law and Indian policy for more than half a
+century. The decree set back the efforts of humanitarian
+reformers, who advocated modifications
+in Indian policy. At the same time in
+the nation's history, the United States acquired
+its first overseas possessions, following the
+conclusion of the Spanish-American War. U.S.
+authorities viewed local island independence
+in the same light as that of continental Native
+American tribal independence, as the attitudes
+visible in the <hi rend="italic">Lone Wolf</hi> litigation were applied
+narrowly to the new possessions.</p>
+
+<p>Although officially repudiated in the judicial
+system since 1980 (<hi rend="italic">United States v. Sioux
+Nation of Indians</hi>), the doctrine periodically
+has been resurrected in defense of denying Indian
+rights, such as in Indian religious freedom
+rights and those dealing with sacred sites.
+The Indian trust funds scandal at the end of
+the 1990s, involving Bureau of Indian Affairs
+mismanagement of Indian trust money, was
+also a long-postponed but direct outgrowth of
+the <hi rend="italic">Lone Wolf</hi> decision and its attendant bureaucratic
+mind-set.</p>
+
+<closer>
+<signed>C. Blue Clark<lb/>
+Oklahaoma City University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clark, Blue. <title level="m">Lone Wolf v. Hitchcock: Treaty Rights and Indian Law at the End of the Nineteenth Century</title>. Lincoln:
+University of Nebraska Press, 1994.</bibl> <bibl>Wilkins, David E.
+<title level="m">American Indian Sovereignty and the U.S. Supreme Court: The Masking of Justice</title>. Austin: University of Texas Press,
+1998.</bibl> <bibl>Wyatt, Kathryn C. "The Supreme Court, Lyng, and
+the Lone Wolf Principle." <title level="j">Chicago-Kent Law Review</title> 65
+(1989): 623–55.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

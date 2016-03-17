@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Oral Traditions</title>
+<title level="m" type="sub"></title>
+<author>Barbara W. Sommer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sommer, Barbara W.">Barbara W. Sommer</author>. <title level="a">"Oral Traditions."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">488-489</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ORAL TRADITIONS</head>
+
+<p>Oral traditions are a body of unwritten information
+and messages preserved in memory and
+repeated through succeeding generations. In the
+Great Plains, this information was originally
+held by Native Americans. Oral traditions have
+preserved much of the early history of the
+Plains. Statements repeated from generation
+to generation, often combining lore and fact,
+retained information about human migrations,
+conflicts among peoples, and changes in
+societal patterns during the period that preceded
+European contact. Information and
+lore, sometimes contained in stories with
+moral messages, were preserved about specific
+places and geographical landmarks. The repeated
+telling of this material, both for entertainment
+and the maintenance of community
+identity, preserved the knowledge.</p>
+
+<p>European American migration to the Plains
+brought people who, though they carried with
+them their own set of oral traditions, often did
+not understand the importance of Native
+American oral traditions. Although much traditional
+knowledge was lost, some survived in
+oral form or became part of the written history
+of the area. For example, in 1930 Nebraska
+poet John G. Neihardt traveled to the Pine
+Ridge Agency in South Dakota to interview
+Oglala Lakota holy man Black Elk. The resulting
+book, <title level="m">Black Elk Speaks</title>, though shaped
+and written by Neihardt, is an important and
+revered repository of Lakota belief and history
+from about 1850 to 1890.</p>
+
+<p>Mari Sandoz drew on stories she had heard
+as a child from Native American visitors to her
+family's remote ranch in the Sand Hills of Nebraska
+when she wrote <title level="m">Crazy Horse</title> and other
+books about Native Americans. Authors such
+as Gerald Vizenor and N. Scott Momaday rely
+on the oral tradition while working to identify
+its role in modern literature. Most recent poetry,
+fiction, and history of Native Americans
+on the Plains contains information drawn
+from oral traditions.</p>
+
+<p>Oral history&#8211;as opposed to oral traditions
+&#8211;began in the late 1930s with the advent of
+modern technology and the availability of recording
+equipment. Although oral history is
+the collection of first-hand information from a
+person, its collection techniques, including the
+use of a tape recorder and a trained interviewer,
+have been adapted for use in documenting
+oral traditions. Interviews with
+Native Americans in collections held at institutions
+such as the University of Oklahoma and
+the University of South Dakota are examples.</p>
+
+<p>Information based on or drawn from oral
+sources has grown with each succeeding movement
+of people into the Plains. Stories about
+the Oregon Trail, the Pony Express, contact between
+Native Americans and European Americans,
+pioneer settlement, cattle drives, and
+professions such as store keeping, soldiering,
+and teaching, among many others, have become
+part of the Plains oral tradition and are
+preserved in universities, historical societies,
+and local archives. Oral traditions continue to
+provide insight into the history of the Great
+Plains and the changes that have occurred
+throughout the years. Documented and defined
+by modern research methods, as in Ian
+Frazier's <title level="m">Great Plains</title>, they help provide a
+unique source of information that extends beyond
+the written record, retaining the words
+and stories of and about people and places that
+might otherwise have been lost.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.033">Plains Indian Narratives</ref>.</p>
+
+<closer>
+<signed>Barbara W. Sommer<lb/>
+BWS Associates</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blaeser, Kimberly M. <title level="m">Gerald Vizenor: Writing in the Oral Tradition</title>. Norman: University of Oklahoma Press, 1996.</bibl>
+<bibl>Vansina, Jan. <title level="m">Oral Tradition as History</title>. Madison: University
+of Wisconsin Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

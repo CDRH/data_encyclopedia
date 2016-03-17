@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Cowboys</title>
+<title level="m" type="sub"></title>
+<author>Peter Iverson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Iverson, Peter">Peter Iverson</author>. <title level="a">"Indian Cowboys."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">577</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN COWBOYS</head>
+
+<p>Plains Indians have been cowboys for a long
+time. Their involvement in the cattle industry
+of the region began in the late nineteenth century
+and continues to the present. Indian men
+and women have also been involved for an
+extended period of time in the world of rodeo.
+Their participation in ranching and rodeo is
+significant both in economic and cultural
+terms.</p>
+
+<p>After the American Civil War, cattle ranching
+played an important role in the economic
+development of the Plains. This development
+came at considerable cost. Native communities
+lost millions of acres through treaties,
+agreements, land allotment, land cessions, and
+long-term leases. With bison hunting no
+longer possible, Plains Indian peoples had to
+find alternative means to sustain themselves.
+Cattle ranching offered Indian men a chance to
+ride, an alternative to farming, and an opportunity
+to demonstrate both competence and
+generosity. Cattle could be given as presents,
+used to feed people at a gathering, and employed
+to teach young people about responsibility
+and reciprocity. Given their needs and
+given the success their new neighbors were
+enjoying, it is not surprising that so many Indian
+individuals and communities turned to
+cattle ranching. Some, like Quanah Parker,
+knew spectacular, if too brief, success. Others
+started ranches that continue to our own day.
+Many Native cowboys also found work as cowboys
+on ranches owned by non-Indians.</p>
+
+<p>Progress in the Indian cattle industry during
+the twentieth century was limited by fluctuating
+federal policies and market conditions, as
+well as the problems of fractionated land-ownership
+because of the division of allotted
+land through inheritance and sale. Nonetheless,
+many Indian ranchers continue in the
+business, either through tribal or community
+enterprises or as individuals. They know the
+same satisfactions and experience the same
+problems as their non-Indian counterparts.
+Access to better legal counsel has permitted
+tribes in many instances to obtain more equitable
+leases or to promote ranching by tribal
+members.</p>
+
+<p>Plains Indian rodeo dates back to the turn of
+the century. At agricultural fairs at the Crow
+Indian Reservation and elsewhere, rodeos began
+to be featured as prominent components
+of annual gatherings. The Crows took great
+pride in their abilities and accomplishments
+as bronc riders. At Rosebud and other reservations
+in the Dakotas, Lakota cowboys also
+demonstrated their talents in various rodeos.
+The best Indian cowboys, like Sam Bird in
+Ground (Crow) and George Defender (Standing
+Rock Sioux), captured world championship
+titles early in the twentieth century. Tom
+Three Persons (Blood) won instant immortality
+by riding Midnight in the first Calgary
+Stampede rodeo in 1912.</p>
+
+<p>The Plains Indian rodeo tradition continues.
+Plains Indian cowgirls and cowboys
+participate in regional competitions, often instructed
+and judged by relatives eager to pass
+along their love for the sport, and they have
+also enjoyed considerable success in the Indian
+National Finals Rodeo. Names like Gladstone
+and Guardipee, Bird and Bruised Head are
+immediately recognizable to all those who
+cherish the history and heritage of Indian
+rodeo.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.019">Cattle Ranching</ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.012">Crow Fair</ref>; <ref n="egp.sr.045">Rodeo</ref>.</p>
+
+<closer>
+<signed>Peter Iverson<lb/>
+Arizona State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dempsey, Hugh A. <title level="m">Tom Three Persons: Legend of an Indian
+Cowboy</title>. Saskatoon: Purich Publishing, 1997.</bibl> <bibl>Iverson, Peter.
+<title level="m">When Indians Became Cowboys: Native Peoples and
+Cattle Ranching in the American West</title>. Norman: University
+of Oklahoma Press, 1994.</bibl> <bibl>Iverson, Peter, and Linda Mac-
+Cannell. <title level="m">Riders from the West: Portraits of Indian Rodeo</title>.
+Seattle: University of Washington Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

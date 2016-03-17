@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ea.012 SYSTEM "egp.ea.012.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">German Russians</title>
+<title level="m" type="sub"></title>
+<author>Renee M. Laegreid</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Laegreid, Renee M.">Renee M. Laegreid</author>. <title level="a">"German Russians."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">232</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GERMAN RUSSIANS</head>
+
+<figure n="egp.ea.012" rend="granted">
+<figDesc>German Russians hoeing beets somewhere in western Nebraska, early 1910s.</figDesc>
+</figure>
+
+<p>German Russians are a unique group of Germans
+who lived in Russia after the 1760s and
+began their immigration onto the Great Plains
+in the 1870s. In 1762 Catherine the Great of
+Russia launched an aggressive campaign to
+entice skilled farmers into the Volga region to
+turn the area into a productive agricultural
+region and to create a human buffer zone
+against the persistent threat of Asian marauders.
+She offered transportation money
+and various privileges: freedom of religion, no
+military service, protection of culture and language,
+and the option to leave if they became
+unhappy with their situation. Approximately
+23,184 settlers took advantage of the offer. The
+greatest number came from areas heavily
+damaged by years of war&#8211;Hess, the Rhineland,
+and the Palatinate. Between 1764 and
+1768, 104 mother colonies along the Volga
+River were settled. Between 1804 and 1824
+more Germans, mostly from the Danzig region
+of West Prussia, accepted the same privileges
+from Czar Alexander I and began farming
+colonies along the north littoral of the
+Black Sea.</p>
+
+<p>In the late 1860s, as the trend toward nationalism
+swept across Europe, Alexander II
+began to rescind German Russian privileges;
+by 1871 the only privilege left was their opportunity
+to leave. The first wave of emigration
+out of Russia corresponded with the grace period
+before conscription into the Russian
+army began. Between 1873 and 1914 approximately
+115,000 German Russians immigrated
+to the United States and about 150,000 to
+western Canada.</p>
+
+<p>German Russians settled in the Great Plains
+as they had in Russia, according to their Evangelical,
+Catholic, or Mennonite faith. In towns
+where German Russians from more than one
+village congregated they tended to cluster together,
+reproducing their home villages in
+Russia, and for the first few generations there
+was little intermarriage between groups. The
+tradition of large families also continued&#8211;
+eight children or more was not uncommon.</p>
+
+<p>Railroad companies were instrumental in
+moving the German Russians onto the Plains
+with offers of cheap land. The land tenure system
+in Russia, however, often determined the
+ability to farm in the Plains. Those from the
+Volga region lived under the muir system,
+where land was held in common by the colony
+and distributed according to family size.
+Without money from land sales in Russia to
+purchase railroad land, and with homesteading
+mostly taken, Volga Germans often found
+work in Plains railroad towns as day laborers
+or as migrant farm workers. Over time, some
+families were able to save enough money to
+purchase farms.</p>
+
+<p>Terms of immigration to Russia during the
+era of Alexander I did allow Black Sea German
+Russians to buy and sell land. Although not
+wealthy, these German Russians often purchased
+farmland or started businesses in town
+when they arrived in the Plains. Those who
+worked the land found the Plains environmentally
+similar to their Russian homeland,
+and the crops and agricultural practices they
+had developed to cope with those semiarid
+conditions worked well on their new Plains
+farms.</p>
+
+<p>According to 1910 U.S. census data (here aggregated
+by country), of the approximately
+101,808 German Russians who lived in the
+states that are wholly or partly in the Great
+Plains region, nearly 85 percent lived in
+the Plains proper. The largest concentration
+of German Russians was in North Dakota
+(31,910), followed by Kansas (15,311), South Dakota
+(13,189), and Nebraska (13,020). Of the
+states in which the Great Plains is only partly
+included, 5,138 German Russians lived in the
+Colorado Plains from a state total of 13,616;
+78 percent of Oklahoma's German Russians
+(4,159) found land in the Plains after Oklahoma
+Territory opened up to white settlement;
+and 60 percent of Montana's German Russian
+population (1,309), 76 percent of Wyoming's
+(578), and 46 percent of New Mexico's (106)
+lived in the Plains portions of those states.</p>
+
+<p>Accurate statistical data on German Russians
+immigrating to Canada are more difficult
+to determine. It is estimated, however,
+that by 1910 approximately 44 percent of all
+German settlers in western Canada were Germans
+from Russia. Movement into Canada
+began in 1874 when Mennonite settlers, denied
+their request for closed, block settlements
+in the United States, chose to settle the Prairies
+of southern Manitoba. Although disapproving
+of block settlements, the Canadian government
+was anxious to populate the new
+province and granted the Mennonites their
+request. This set the precedent for the creation
+of a mosaic of sizable ethnic islands in the
+Canadian Prairies. While some mixed-group
+settlements were established, most of the German
+Russian groups settled in block communities
+that were based on religion&#8211;Catholic,
+Evangelical, or Mennonite&#8211;and area of origin
+in Russia—Black Sea or Volga region.</p>
+
+<p>The success of the Mennonite farmers attracted
+the attention of prospective immigrants
+from Russia as well as second- and
+third-generation German Russians from the
+United States. By 1962 Saskatchewan had 132
+German Russian settlements, Manitoba had
+27 settlements (and also the largest number of
+mixed settlements within a province), and Alberta
+had 14 German Russian settlements.</p>
+
+<p>Overall, Black Sea Germans found it easier
+than Volga Germans to assimilate into Plains
+communities. Because of their location in
+Russia close to the trade centers of the Black
+Sea, they were more familiar with modern
+capitalist trends. The Volga Germans, by contrast,
+had lived isolated in the interior for almost
+100 years. Their lack of familiarity with
+capitalist society inhibited assimilation. Their
+reluctance to learn English, as well as their
+premodern work habits&#8211;pulling children out
+of school to work and women working alongside
+men in the beet fields&#8211;were significant
+factors in the discrimination against them.</p>
+
+<p>Until 1914, as immigrants worked frantically
+to bring other family members out of
+Russia, the flow of new Germans from Russia
+onto the Plains helped to replenish their Old
+World culture. World War I effectively ended
+immigration and encouraged assimilation;
+however, strong German Russian communities
+still exist.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.005">Black Sea German Architecture</ref>; <ref n="egp.arc.051">Volga German Architecture</ref>.</p>
+
+<closer>
+<signed>Renee M. Laegreid<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bassler, Gerhard. <title level="m">The German Canadian Mosaic Today and Yesterday: Identity, Roots, and Heritage</title>. Ottawa:
+German-Canadian Congress, 1991.</bibl> <bibl>Hale, Douglas. <title level="m">The Germans from Russia in Oklahoma</title>. Norman: University of
+Oklahoma Press, 1980.</bibl> <bibl>Koch, Fred C. <title level="m">The Volga Germans in Russia and the Americas from 1763 to the Present</title>. University
+Park: Pennsylvania State University Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

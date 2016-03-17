@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pickett, Bill (1870-1932)</title>
+<title level="m" type="sub"></title>
+<author>Richard W. Slatta</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Slatta, Richard W.">Richard W. Slatta</author>. <title level="a">"Pickett, Bill (1870-1932)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">20</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PICKETT, BILL (1870-1932)</head>
+
+<p>Credited with inventing bulldogging (steer
+wrestling), Willie M. "Bill" Pickett performed
+with Wild West shows and rodeos for several
+decades. In recognition of his athletic prowess
+and crowd-pleasing abilities, in 1971 he became
+the first African American cowboy inducted
+into the National Rodeo Cowboy Hall
+of Fame in Oklahoma City.</p>
+
+<p>One of thirteen children, Pickett was born
+in Travis County, Texas, thirty miles northwest
+of Austin. His ancestry was African American,
+Caucasian, and Cherokee. Growing up in
+rural Texas ranch country, Will, as he was
+known in his youth, learned to read brands
+and toss a rope. By his own account, one day he
+watched a small dog bite a cow's lip and successfully
+control the large animal. Pickett decided
+that he could do likewise and first demonstrated
+his lip-biting technique to a group of
+cowboys in 1881.</p>
+
+<p>Pickett worked on various central Texas
+ranches during the late 1880s and 1890s. He
+married Maggie Turner in 1890 and together
+they raised nine children. In partnership with
+his brothers, he started the Pickett Brothers
+Bronco Busters and Rough Riders Association
+in Taylor, Texas, advertising that "We ride and
+break all wild horses with much care. Catching
+and taming wild cattle a specialty."</p>
+
+<p>During the early 1900s Pickett demonstrated
+his toothy bulldogging technique at
+county fairs and other gatherings throughout
+the Great Plains. In 1904 he performed at
+Cheyenne Frontier Days. The following year
+Pickett joined the famous Miller Brothers'
+101 Ranch Wild West Show. Over the next several
+years he performed with Tom Mix, Guy
+Weadick, Milt Hinkle, and other Wild West
+show stars. Later Pickett estimated that he
+bulldogged some 5,000 steers during his long
+career.</p>
+
+<p>While working with the 101 outfit, Pickett
+became known as Bill rather than Will. Strong,
+athletic, compact (five feet seven inches, 145
+pounds), and mustachioed, he dressed like a
+Spanish bullfighter. The 101 program listed
+him as "the Dusky Demon who throws steers
+with his teeth." In late 1908 he brashly agreed
+to take on a Mexican fighting bull. The bull
+gored both Pickett and his prized mount
+Spradley, one of several times that Pickett was
+injured.</p>
+
+<p>In the 1920s Pickett mostly retired from
+competitive bulldogging but continued to
+give exhibitions. He starred in a few Western
+movies that showcased his rodeo feats. Pickett
+returned to work for Zack Miller and continued
+to break horses. His wife's death in
+March 1929 devastated Pickett, but he continued
+to work on the Miller ranch. He died at
+the 101 Ranch on April 2, 1932, after being
+kicked in the head by a horse. Miller's eulogy
+aptly summarized Pickett's achievements as
+the "greatest sweat and dirt cowhand that ever
+lived&#8211;bar none."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: 
+<ref n="egp.fil.048">Miller Brothers</ref> / 
+<hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.061">Wild West Shows</ref>.</p>
+
+
+<closer>
+<signed>Richard W. Slatta<lb/>
+North Carolina State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hanes, Bailey C. <title level="m">Bill Pickett: Bulldogger</title>. Norman: University
+of Oklahoma Press, 1977, 1989.</bibl> <bibl>Johnson, Cecil. <title level="m">Guts:
+Legendary Black Rodeo Cowboy Bill Pickett</title>. Fort Worth:
+Summit Group, 1994.</bibl> <bibl>Russell, Don. <title level="m">The Wild West: A History
+of the Wild West Shows</title>. Fort Worth: Amon Carter
+Museum, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

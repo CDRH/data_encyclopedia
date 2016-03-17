@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.gen.035 SYSTEM "egp.gen.035.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Slaughter, Linda (1843-1911)</title>
+<title level="m" type="sub"></title>
+<author>Barbara Handy-Marchello</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Handy-Marchello, Barbara">Barbara Handy-Marchello</author>. <title level="a">"Salughter, Linda (1843-1911)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">336-337</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SLAUGHTER, LINDA (1843-1911)</head>
+
+<figure n="egp.gen.035" rend="granted">
+<figDesc>Linda Slaughter, ca. 1880.</figDesc>
+</figure>
+
+<p>Linda Warfel Slaughter was a journalist, historian,
+and women's rights advocate in North
+Dakota. Born February 1, 1843, in Cadiz, Ohio,
+and educated at Oberlin College, she settled in
+Bismarck in 1872. She was appointed superintendent
+of schools for Burleigh County in
+1873. Though women could not vote at that
+time, she was elected to the position several
+more times until 1882. In 1876 Slaughter was
+appointed deputy superintendent of public
+instruction for Dakota Territory.</p>
+
+<p>Slaughter wrote regularly for the <title level="j">Bismarck Tribune</title> and other papers. Her fiction was
+thinly disguised commentary on social life in
+the military and the politics of the Indian
+campaigns. Her essays at first criticized women's
+public suffrage and temperance activities
+and advocated "true womanhood" as women's
+proper role.</p>
+
+<p>By the late 1880s Slaughter was a Washington
+correspondent for Dakota Territory newspapers.
+By then embracing the women's rights
+movement, she served as vice president of the
+Woman's National Press Association, attended
+the 1888 meeting of the International Council
+of Women, served on the national executive
+committee of the National Woman Suffrage
+Association, supported Belva Lockwood's
+presidential campaigns, and became an organizer
+for the Knights of Labor. In 1892 Slaughter
+attended the Populist Party convention,
+becoming the first woman to vote in a national
+convention for a presidential candidate.</p>
+
+<p>In 1889 Slaughter organized the Ladies' Historical
+Society of Bismarck and North Dakota.
+As president, she collected and preserved records
+of North Dakota's early history. In 1895
+she negotiated a merger with the fledgling
+State Historical Society, assuring women the
+right to vote and hold office in the new organization.</p>
+
+<p>Slaughter continued to write history until
+very late in her life. Her last articles, four on
+Sitting Bull for <title level="j">Sports Afield</title> (1903–4) and a
+lengthy piece for the State Historical Society
+(1906), are on early settlement, military activity,
+and Indian resistance. She died in St.
+Cloud, Minnesota, on July 3, 1911.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.005"><title level="j">Bismarck Tribune</title></ref>.</p>
+
+<closer>
+<signed>Barbara Handy-Marchello<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burgum, Jessamine Slaughter. <title level="m">Zezula, or Pioneer Days of the Smokey Water Country</title>. Valley City <hi rend="smallcaps">ND</hi>: Getchell and
+Nielsen, 1937.</bibl> <bibl>Slaughter, Linda Warfel. <title level="m">Fortress to Farm or Twenty-three Years on the Frontier</title>, edited by Hazel Eastman.
+New York: Exposition Press, 1972.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

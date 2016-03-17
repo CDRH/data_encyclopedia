@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rogers, Will (1879-1935)</title>
+<title level="m" type="sub"></title>
+<author>Douglas Gomery</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gomery, Douglas">Douglas Gomery</author>. <title level="a">"Rogers, Will (1879-1935)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">278</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROGERS, WILL (1879-1935)</head>
+<figure n="egp.fil.058" rend="granted">
+<figDesc>Will Rogers in Steamboat Round the Bend</figDesc>
+</figure>     
+
+<p>Will Rogers was more than a movie star; he was
+one of the greatest American show business
+personalities of the first third of the twentieth
+century. Born William Penn Adair Rogers at
+Oolagah in Indian Territory, now Oklahoma,
+on November 4, 1879, he entered show business
+in a turn-of-the-century Wild West show,
+already helping construct the myths of the
+values and spirit of the Old West of his childhood.
+Audiences loved him, and so producers
+brought him to New York City. By 1912 he was
+bringing the humor of the Great Plains to
+Broadway; through the late 1910s and early
+1920s he reigned as the top attraction of the
+Ziegfeld Follies. This led to authorship of some
+4,000 newspaper columns; a series of influential
+articles for the <title level="j">Saturday Evening Post</title>; popular
+phonograph records; six books, including
+<title level="m">The Cowboy Philosopher on the Peace Conference</title>
+(1919) and <title level="m">Letters of a Self-Made Diplomat to His President</title> (1926); an <hi rend="smallcaps">NBC</hi> radio show;
+and ultimately to world fame as a Hollywood
+movie star.</p>
+
+<p>Rogers did not instantly rise to motion picture
+stardom. Famed producer Samuel Goldwyn
+signed him to play in silent films, and
+between 1918 and 1922 he essayed cowboy
+roles, but his career went nowhere. He needed
+his verbal wit and humor; silent film titles
+never captured his presence. While he spent
+most of his adult life outside the Great Plains,
+surely his homespun humor was based on a
+persona of straightforward, unpretentious
+traits developed from his childhood. For the
+remainder of the silent film era, Will Rogers
+returned to the vaudeville stage&#8211;except for
+completing a handful of silent short subjects
+for Hollywood's Hal Roach Studios.</p>
+
+<p>The coming of talkies enabled Rogers to
+shine. During the bleak years of the Great Depression
+he came to represent the common
+person, the casual humorist and raconteur,
+the man who clung to the folkways of a mythical
+nineteenth-century America that seemed
+so long ago.</p>
+
+<p>From 1930 on Will Rogers was Fox Films'
+most important movie star. John Ford, the
+great American film director, best understood
+Rogers's image and persona and fully exploited
+them in a series of hometown tales
+that were as popular as any set of films made
+during the Great Depression: <title>Doctor Bull</title>
+(1933), <title>Judge Priest</title> (1934), and Rogers's best
+film, <title>Steamboat 'round the Bend</title> (1935). Sadly,
+Rogers's best was his last, and he was at the
+height of his motion picture popularity when
+he died in an airplane crash at Point Barrow,
+Alaska, on August 15, 1935. His final two films,
+<title>In Old Kentucky</title> and <title>Steamboat 'round the Bend</title>, were released after the actor's death by
+the major studio he helped create, Twentieth
+Century Fox.</p>
+
+<closer>
+<signed>Douglas Gomery<lb/>
+University of Maryland</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rogers, Will. <title level="m">The Autobiography of Will Rogers</title>. Boston:
+Houghton Mifflin, 1949.</bibl> <bibl>Rollins, Peter C. <title level="m">Will Rogers: A Bio-Bibliography</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 1984.</bibl>
+<bibl>Yagoda, Ben. <title level="m">Will Rogers: A Biography</title>. New York: Alfred
+A. Knopf, 1993.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

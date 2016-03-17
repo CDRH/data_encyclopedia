@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crosby, Bob (1897-1947)</title>
+<title level="m" type="sub"></title>
+<author>Richard C. Rattenbury</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rattenbury, Richard C.">Richard C. Rattenbury</author>. <title level="a">"Crosby, Bob (1897-1947)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">769</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROSBY, BOB (1897-1947)</head>
+
+<p>Among the best and most colorful steer ropers
+and all-around hands in early rodeo, Bob
+Crosby was born on February 27, 1897, in
+Midland, Texas. Raised around Kenna, New
+Mexico, he developed into a seasoned cowhand
+prior to becoming a rodeo contestant in
+1923 at New York's Yankee Stadium.</p>
+
+<p>Known as "Wild Horse Bob" on the circuit,
+Crosby always competed aggressively. In 1925,
+1927, and again in 1928 he captured the combined
+all-around titles at both Pendleton and
+Cheyenne, thus retiring the coveted Roosevelt
+Trophy. This remarkable feat&#8211;amassing the
+most cumulative points among the broncriding,
+steer-roping, bulldogging, and wild
+horse-racing events&#8211;amounted to three
+world championships in the era before official
+titles were declared.</p>
+
+<p>Bob Crosby specialized in the roping events.
+He won the calf-roping title at Madison Square
+Garden three times and the steer-roping title
+twice at Cheyenne and four times at Pendleton.
+In the late 1930s and 1940s, while operating
+his Cross B Ranch near Roswell, New Mexico,
+Cosby took part in a series of celebrated,
+matched steer ropings against Carl Arnold and
+the Weir brothers. He is remembered for his
+lucky black hat, his string of great roping
+horses, and his tenacity in competing and winning
+even with serious injuries.</p>
+
+<p>Once declared the "King of the Cowboys"
+by <title level="j">Life</title> magazine, Wild Horse Bob Crosby
+died in a Jeep accident near his New Mexico
+ranch on October 20, 1947. He was inducted
+into the National Cowboy and Western Heritage
+Museum's Rodeo Hall of Fame in 1966.</p>
+
+<closer>
+<signed>Richard C. Rattenbury<lb/>
+National Cowboy and Western Heritage Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bob Crosby, Biographical File, National Cowboy and
+Western Heritage Museum Archives, Oklahoma City.</bibl> <bibl>Porter,
+Willard H. <title level="m">Who's Who in Rodeo</title>. Oklahoma City: Powder
+River Book Company, 1982.</bibl> <bibl>Westermeier, Clifford P.
+<title level="m">Man, Beast, Dust: The Story of Rodeo</title>. Lincoln: University
+of Nebraska Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sheldon, Charles (1857-1946)</title>
+<title level="m" type="sub"></title>
+<author>Richard Allen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Allen, Richard">Richard Allen</author>. <title level="a">"Sheldon, Charles (1857-1946)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">757</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SHELDON, CHARLES (1857-1946)</head>
+
+<p>Born February 26, 1857, at Wellsville, New
+York, son of a poor congregational preacher,
+Charles Monroe Sheldon was the author of
+some thirty Christian social novels, including
+<title level="m">In His Steps</title> (1897), a phenomenally successful
+instructional novel. His latter youth was
+spent in the Dakotas. Subsequently educated
+at Brown University and Andover Theological
+Seminary, he ministered at Waterbury, Vermont,
+for two years before accepting a call to
+Central Congregational Church in Topeka,
+Kansas (1889), where he remained for the rest
+of his life.</p>
+
+<p>Sheldon began writing in his teens and seems
+never to have stopped. At Central Church he
+delivered Sunday evening serial sermons dealing
+in a fictional manner with the challenge to
+church and society of a host of contemporary
+ills: unemployment, poverty, the alienation of
+upper and lower classes, exploitation by landlords,
+racial discrimination, the menace of the
+liquor trade, sensationalism in the media, corruption
+at city hall, labor extremists and radical
+nostrums, hypocrisy in the churches, and the
+failure of philanthropy and the gospel of wealth
+to cure an ailing world. First published by installment
+in religious magazines and then as
+full novels, Sheldon's works reflected his own
+unceasing activism as a social reformist minister.
+He made an indelible impact, bringing
+the larger world of Christian social reform
+to Topeka and the Great Plains and making
+the region's single most important contribution
+to the popular Christian social movement
+that was at the core of early-twentieth-century
+progressivism.</p>
+
+<p><title level="m">In His Steps</title> was the best-seller among a
+growing genre of Christian social novels welling
+up out of the 1870s and 1880s, whose success
+owed much to the widespread Protestant
+proscription of reading secular fiction but
+probably owed more to the anxiety among
+middle- and upper-class Protestants in the face
+of dramatic social changes undermining both
+their sense of community and their sense of
+social control. Entirely unsophisticated in plot,
+characterization, theology, or social analysis,
+the novels prescribed a simple, enduring formula:
+"What would Jesus do?" Sheldon presented
+the resulting encounter of upper- and
+middle-class Protestants with working-class
+America in unabashedly sentimental and
+melodramatic terms that touched the consciences
+of millions.</p>
+
+<p>Sheldon gave no sign of the radical Christian
+socialism of George Herron in Iowa or
+W. D. P. Bliss in Boston, with whom he, however,
+had considerable contact, and he seems
+not to have recognized the strain of labor
+Christianity among labor leaders like Eugene
+Debs, although he saw more potential in the
+working class than was normally allowed in
+midcentury Christian novels. Like his counterpart
+best-selling western Canadian Christian
+social novelist Ralph Connor (Rev. C. W.
+Gordon), Sheldon's locus of social progress lay
+in changing the hearts of persons of standing,
+which linked him in certain ways with the
+contemporary revivalism of Dwight Moody.
+Sheldon died in Topeka on February 24, 1946,
+after a long, active retirement increasingly
+focused on the cause of world peace.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.020">Gordon, Charles W.</ref></p>
+
+<closer>
+<signed>Richard Allen<lb/>
+Hamilton, Ontario</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Boyer, Paul S. "In His Steps: A Reappraisal." <title level="j">American
+Quarterly</title> 23 (Apr. 1971): 60–78.</bibl> <bibl>Ferr&#233;, John P. <title level="m">A Social
+Gospel for Millions: The Religious Bestsellers of Charles
+Sheldon, Charles Gordon, and Harold Bell Wright</title>. Bowling
+Green <hi rend="smallcaps">OH</hi>: Bowling Green State University Press, 1988.</bibl>
+<bibl>Miller, Timothy. <title level="m">Following in His Steps. A Biography of
+Charles M. Sheldon</title>. Knoxville: University of Tennessee
+Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

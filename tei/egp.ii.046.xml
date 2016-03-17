@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Potts, Jerry (ca. 1840-1896)</title>
+<title level="m" type="sub"></title>
+<author>Hugh A. Dempsey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dempsey, Hugh A.">Hugh A. Dempsey</author>. <title level="a">"Potts, Jerry (ca. 1840-1896)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">394</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POTTS, JERRY (ca. 1840-1896)</head>
+
+<p><persName reg="Potts, Jerry">Jerry Potts</persName> was a frontiersman who is generally credited with guiding the <orgName rend="law" key="law.nwmp" reg="North-West Mounted Police">North-West Mounted Police</orgName> to a safe haven when they were completing their trek to the <geogName rend="region" reg="Canadian West">Canadian West</geogName> in 1874 and with having a long and colorful career as their interpreter and guide.</p>
+
+<p><persName reg="Potts, jerry">Potts</persName> was born at <placeName rend="fort" key="fort.mt.mck" reg="Fort McKenzie">Fort McKenzie</placeName> on the <geogName rend="river" reg="Missouri River">Missouri River</geogName> about 1840, the son of <persName reg="Potts, Andrew R.">Andrew R. Potts</persName>, an <orgName rend="business" key="bus.afc" reg="American Fur Company">American Fur Company</orgName> clerk, and <persName reg="Namopi'si (Crooked Back)">Namopi'si, or Crooked Back</persName>, a Blood Indian. His father was killed shortly after the boy's birth, and young <persName reg="Potts, Jerry">Potts</persName> was adopted by <persName reg="Harvey, Alexander">Alexander Harvey</persName> and later by <persName reg="Dawson, Andrew">Andrew Dawson</persName>. At the age of twenty-three he killed <persName reg="Primeau, Antoine">Antoine Primeau</persName> at <placeName rend="fort" key="fort.mt.gal" reg="Fort Galpin">Fort Galpin</placeName> and then began to spend more time with his mother's people. During this time he was given the Blackfoot name of <persName reg="Potts, Jerry">Kyiyokosi, or Bear Child</persName>.</p>
+
+<p>During the 1860s he took part in several Indian skirmishes, including a major battle between <orgName rend="tribe" key="tri.bla" reg="Blackfoot">Blackfoot</orgName> and <orgName rend="tribe" key="tri.cre" reg="Cree">Crees</orgName> in which almost 300 of the enemy were killed. <persName reg="Potts, Jerry">Potts</persName> took sixteen scalps during the battle. When the <orgName rend="law" key="law.nwmp" reg="North-West Mounted Police">North-West Mounted Police</orgName> marched west in 1874 to bring law and order to the Canadian territory, they became lost and took refuge near the <geogName rend="region" reg="Sweetgrass Hills">Sweetgrass Hills</geogName>. <persName reg="Potts, Jerry">Potts</persName> was engaged as guide and led them to a site where they built Fort Macleod.</p>
+
+<p><persName reg="Potts, Jerry">Potts</persName> remained with the police until his death at <placeName rend="settlement" key="ab.fm" reg="Fort Macleod, Alberta">Fort Macleod</placeName> on July 14, 1896. He was famous for his unerring ability to find his way on the Prairies, even during blizzards, and for his help in maintaining friendly relations between the <orgName rend="law" key="law.nwmp" reg="North-West Mounted Police">Mounted Police</orgName> and Indians of the <orgName rend="tribe" key="tri.bc" reg="Blackfoot Confederacy">Blackfoot confederacy</orgName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.038">North-West Mounted Police</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Hugh A. Dempsey<lb/>
+Calgary, Alberta</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Dempsey, Hugh A. <title level="m">Jerry Potts, Plainsman</title>. Calgary: Glenbow Museum, 1966.</bibl> <bibl>Steele, Samuel B. <title level="m">Forty Years in Canada</title>. London: Herbert Jenkins, 1915.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Canadian Plains Research Center</title>
+<title level="m" type="sub"></title>
+<author>David A. Gauthier</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gauthier, David A.">David A. Gauthier</author>. <title level="a">"Canadian Plains Research Center."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">199-200</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CANADIAN PLAINS RESEARCH CENTER</head>
+
+<p>The Canadian Plains Research Center (<hi rend="smallcaps">CPRC</hi>)
+is the longest serving research institute at
+the University of Regina, Saskatchewan, with a
+broad mandate to develop an understanding
+and appreciation of the Canadian Plains region.
+The center also cooperates with U.S.
+scholars on issues relevant to the broader
+North American Great Plains.</p>
+
+<p><hi rend="smallcaps">CPRC</hi> works to develop a community of students
+of the region, including staff from Prairie
+universities, governments, and other institutions
+and members of an interested public;
+to provide services to Prairie institutions and
+researchers; to study and help solve problems
+of the region, its people, and its resources; and
+to initiate, undertake, encourage, and support
+research and scholarly work on all aspects of
+Prairie life.</p>
+
+<p>The center delivers four specific programs.
+The Canadian Plains Studies Program is a
+graduate program that facilitates the interdisciplinary
+studies of students pursuing their
+masters and doctorates on topics relevant to
+the Canadian Plains. More than thirty-five
+students have been supported through the
+program. The Research Fellow Program, established
+in 1983, has provided support to
+more than forty scholars conducting research
+relevant to the Canadian Plains. The Publication
+Division is a university press, established
+in 1973, that publishes eight to ten scholarly
+books per year, with a total of more than 130
+titles. The press also publishes <hi rend="italic">Prairie Forum</hi>,
+a multidisciplinary journal on topics of relevance
+to the Canadian Plains region. Finally,
+the Geographic Information Systems Division
+is a group of research and technical staff and
+facilities that support education and research
+in the spatial distribution of resources, both
+physical and cultural.</p>
+
+<p>As part of its original and continuing education
+and community outreach mandate, the
+cprc also organizes, facilitates, and partners
+with other organizations in delivering
+numerous conferences, symposia, workshops,
+lectures, meetings, and seminars. The cprc
+also presents the Woodrow Lloyd Occasional
+Seminar Series, in which leading scholars
+present topics relevant to the Canadian Plains,
+and administers a trust fund dedicated to advancing
+communication and education about
+conservation issues in Saskatchewan.</p>
+
+<p><ref target="http://www.cprc.ca/">Canadian Plains Research Center</ref> website.</p>
+
+<closer>
+<signed>David A. Gauthier<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

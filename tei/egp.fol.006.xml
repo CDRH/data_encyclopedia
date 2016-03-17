@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Chinook Stories</title>
+<title level="m" type="sub"></title>
+<author>Peter S. Morris</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morris, Peter S.">Peter S. Morris</author>. <title level="a">"Chinook Stories."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">292-293</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHINOOK STORIES</head>
+
+<p>A dry, westerly wind, the adiabatically warmed
+chinook blows down the eastern face of the
+Rocky Mountains onto the adjacent foothills
+and plains. While capable of blowing any season
+of the year, the chinook's presence is most
+salient during the winter, when its relative
+warmth provides a stark contrast to frigid
+continental-polar air masses. Its ability to melt
+and sublimate away thick coverings of snow in
+a matter of days or even hours has led to the
+common but apocryphal story that chinook is
+an "Indian" word for "snow eater." In fact, the
+Great Plains chinook owes its name to the Pacific
+Northwest fur trade, where a vaguely similar
+westerly breeze flowed up the lower Columbia
+River from the vicinity of the Chinook
+Indian villages; British Canadian and American
+settlers transplanted the chinook name
+first to the interior Columbia Plain and then,
+by the 1880s, to the northwestern Great Plains.</p>
+
+<p>The dramatic changes in winter weather the
+chinook can bring have made it the inspiration
+of regional folklore and imagery. Frances
+Fraser, for example, recounts a Blackfoot story
+of a boy who gained status among his band by
+freeing the wind from the custody of the bear
+in the mountains: "[E]ver since then, the snow
+can be deep, and the cold bitter, but, in a short
+while, the Chinook will come blowing over the
+mountains, and everyone is happy again." The
+first white settlers likewise celebrated the chinook,
+making its snow-removing capabilities
+the stuff of regional environmental legend.
+Among the frontier yarns that were spun was
+the story of the man who hitched his team of
+horses to a post one snowy evening only to
+awake the next morning to find his horses dangling
+from the church steeple. Another oftentold
+story describes a horse-drawn sleigh racing
+a chinook home: as the horses struggled
+through chest-deep snow, the front runners of
+the sleigh sloshed through mud while the back
+runners kicked up dust. Another variant of this
+story has the man driving the sleigh in front
+suffering frostbite while his children in back
+catch sunstroke. More than just a source of
+amusement, Plains ranchers touted the chinook's
+snow-removing capabilities as an ally
+that made available nutritious winter grasses
+to tender-snouted cattle, thus reducing&#8211;or
+eliminating, as some mistakenly believed—the
+need for cut hay and winter shelter. The brutal
+winter of 1886–87 tragically demonstrated that
+such wishful thinking was naive. As the region's
+open-range herds were decimated by
+blizzard conditions, ranchers cast a yearning
+eye toward the western mountains, sentiments
+which the <title level="j">Yellowstone Journal and Live Stock Reporter</title> captured in a short ad: "<hi rend="smallcaps">WANTED</hi>&#8211;A
+rip-roaring, snow-eating, polar-paralyzing
+chinook. . . . Must have it!" Later, the winter of
+1885–87 would be eulogized by Montana cowboy
+artist Charles M. Russell in a simple sketch
+of a rib-exposed steer called "Waiting for a
+Chinook."</p>
+
+<p>While its effects are not entirely benign,
+with property-damaging gusts that can desiccate
+and erode farmers' soils, the chinook
+continued to be celebrated throughout the
+twentieth century as a welcome winter relief.
+Such celebration of the mild chinook has been
+particularly pronounced in southern Alberta,
+which local boosters, only partially tongue-incheek,
+describe as Canada's "Banana Belt,"
+and which the regional tourism industry officially
+markets as "Chinook Country." The
+chinook also is a well-recognized presence
+among the communities along Colorado's
+Front Range, even serving for a few years
+(1969-72) as the name for a Denver-based underground
+weekly newspaper; as explained in
+the inaugural issue, <title level="j">Chinook</title> was chosen because
+it is a "warm wind that comes from the
+mountains. It sometimes brings great upheaval,
+but more often it brings gentle warmth
+and good vibrations."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.018">Chinooks</ref>.</p>
+
+<closer>
+<signed>Peter S. Morris<lb/>
+Santa Monica College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burrows, Alvin T. "The Chinook Winds." <title level="j">Journal of Geography</title>
+2 (1903): 124–36.</bibl> <bibl>Fraser, Frances. <title level="m">The Bear Who Stole the Chinook: Tales from the Blackfoot</title>. Vancouver: Douglas
+and McIntyre, 1990.</bibl> <bibl>Morris, Peter S. "Regional Ideas and
+the Montana-Alberta Borderlands." <title level="j">Geographical Review</title>
+89 (1999): 469–90.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

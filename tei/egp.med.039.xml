@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sevareid, Eric (1912-1992)</title>
+<title level="m" type="sub"></title>
+<author>Raymond A. Schroth</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schroth, Raymond A.">Raymond A. Schroth</author>. <title level="a">"Sevareid, Eric (1912-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">520</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SEVAREID, ERIC (1912-1992)</head>
+
+<p>Like many writers who grew up in frontier
+towns and achieved national reputations, Eric
+Sevareid, cbs World War II correspondent
+and tv commentator of the 1960s and 1970s,
+viewed his youth in Velva, North Dakota
+(population 800), with ambivalence. As a
+small boy he climbed the surrounding hills
+and gazed over the wheat fields, gaining an
+early sense of the infiniteness of his human
+possibilities. In his memoir, <title level="m">Not So Wild a Dream</title> (1946), he idealizes Velva as a symbol
+of the spirit of democracy that won World
+War II. But after moving to Minneapolis at the
+age of twelve in 1926, following his father's
+bank failure, he returned only three times,
+twice as a magazine or <hi rend="smallcaps">TV</hi> journalist to write
+about himself.</p>
+
+<p>Born Arnold Eric Sevareid on November
+26, 1912, son of Alfred Eric Sevareid, a local
+banker, and Clara Hougen, daughter of a Norwegian
+Lutheran minister and a regal woman
+who encouraged him to read widely, Sevareid
+inherited Norwegian reticence and Lutheran
+moral integrity.</p>
+
+<p>Young Sevareid crammed more adventure
+into his youth than most men experience in a
+lifetime. At seventeen, with an older boy, Walter
+Port, he paddled a canoe 2,000 miles from
+Minneapolis to the Hudson Bay. He rode the
+rails to California during the Great Depression
+to work for the summer in a gold mine.
+At the University of Minnesota his greatest
+love was the student paper, the <title level="j">Minnesota Daily</title>, and his greatest disappointment was
+not being named editor because, he was convinced,
+the university president resented his
+opposition to <hi rend="smallcaps">ROTC</hi>. As a cub reporter for the
+<title level="j">Minneapolis Star</title> he saw the local establishment's
+use of police power to brutally suppress
+the truckers strike as one face of domestic
+fascism; the other face was the Silver Shirts
+movement, which Sevareid exposed in a series
+for the <title level="j">Minneapolis Journal</title>.</p>
+
+<p>In 1935 he married Lois Finger, the law student
+daughter of the university's track coach,
+and they moved to Paris, where Sevareid became
+a reporter for the Paris edition of the
+<title level="j">New York Herald</title>. Impressed by his coverage
+of a murder trial, <hi rend="smallcaps">CBS</hi>'s London-based Edward
+R. Murrow invited him to join the news team
+&#8211;eventually including William L. Shirer, Charles
+Collingwood, Winston Burdett, and Howard
+K. Smith and known as "Murrow's Boys"&#8211;that
+he was putting together to cover the outbreak
+of World War II. Lois, who had just given birth
+to twins, Peter and Michael, returned home as
+Sevareid covered the fall of Paris, which he
+described as "a beautiful woman in a coma, not
+knowing or asking why."</p>
+
+<p>Sevareid joined Murrow in London and endured
+the blitz, then rejoined his family in
+Washington, amazed to discover that his broadcasts
+from France and England had made him
+a celebrity. When his plane crashed in the
+jungles of Burma on his way to China, he and
+his party survived two weeks among the Naga
+tribesmen, and he emerged more famous than
+ever. He returned to the European front and
+covered North Africa, the Italian campaign,
+the invasion of southern France, and the final
+thrust across the Rhine into Germany.</p>
+
+<p>In the 1950s, in his <hi rend="smallcaps">CBS</hi> evening radio news
+commentaries, Sevareid developed a unique
+journalistic form, the carefully wrought brief
+commentary that was erudite without being
+pedantic, eloquent but clear. He moved reluctantly
+into television, because the lights made
+him nervous and because he resented the image
+being more powerful than the words. But
+his final two-minute commentaries on Walter
+Cronkite's <title><hi rend="smallcaps">CBS</hi> Evening News</title>, rendered more
+effective by his dignified appearance, made
+him one of the most respected American journalists.
+His high points were in his condemnations
+of the Vietnam War, his defense of freedom
+of the press in response to an attack from
+Vice President Spiro Agnew, and his Watergate
+commentaries.</p>
+
+<p>In 1959, unable to cope with Lois's manic
+depression, he fled to Europe with Belen Marshall,
+a Cuban songwriter whom he married
+in 1963. They had a daughter, Cristina, and
+were divorced in 1973. Later, following retirement
+in 1977, he married Suzanne St. Pierre,
+a producer for <title>60 Minutes</title>. He died in his
+Georgetown home of stomach cancer on July
+9, 1992. Visitors to his rustic country cabin
+outside Warrenton, Virginia, saw how much it
+recalled the North Dakota frontier.</p>
+
+<closer>
+<signed>Raymond A. Schroth<lb/>
+Fordham College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schroth, Raymond A. <title level="m">The American Journey of Eric Sevareid</title>.
+South Royalton <hi rend="smallcaps">VT</hi>: Steerforth Press, 1995.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

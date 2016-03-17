@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Harris, LaDonna (b. 1930)</title>
+<title level="m" type="sub"></title>
+<author>H. Henrietta Stockel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stockel, H. Henrietta">H. Henrietta Stockel</author>. <title level="a">"Harris, LaDonna (b. 1930)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">574</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HARRIS, LADONNA (b. 1930)</head>
+<figure n="egp.na.033" rend="granted" type="noclick">
+<figDesc>LaDonna Harris in regalia</figDesc>
+</figure>
+
+<p>LaDonna Harris, a Comanche woman born in
+1930 in Walters, Oklahoma, is a well-known
+political activist. Once shy and retiring, but
+nonetheless aware of the inequities of being an
+Indian in America, LaDonna blossomed during
+her marriage to Fred R. Harris, who was
+later a U.S. senator from Oklahoma and candidate
+for president. She put her personality
+and many talents to work as the founder of
+Oklahomans for Indian Opportunity (<hi rend="smallcaps">OIO</hi>), a
+Native American charitable and educational
+nonprofit organization. <hi rend="smallcaps">OIO</hi> expanded into
+civil rights activities in the 1960s and was the
+forerunner of Americans for Indian Opportunity,
+with its flagship Ambassadors program,
+a nationwide project headed by Harris.
+The Ambassadors project takes some of the
+nation's brightest and most promising young
+Indian professionals through an intensive
+one-year program aimed at rekindling and reinforcing
+the use of the tribal values in a modern
+context.</p>
+
+<p>Harris's work takes her all over the country,
+including Washington <hi rend="smallcaps">DC</hi>, where she is well
+known in Congress as a fighter for, and defender
+of, Indian rights and programs. She is
+in demand as a speaker, both locally and nationally,
+and frequently leaves her home in
+Bernalillo, New Mexico, to travel in support of
+Indian issues. Publicly acknowledged by various
+Indian and non-Indian organizations as a
+successful activist, LaDonna remains at heart
+a Comanche woman and returns frequently to
+her Oklahoma roots, often accompanied by
+one or more of her three adult children and
+one grandchild, to draw strength and vitality
+from her heritage.</p>
+
+<closer>
+<signed>H. Henrietta Stockel</signed>
+Cochise College</closer>
+</div1>
+
+<div1>
+<bibl>Harris, LaDonna. <title level="m">LaDonna Harris: A Comanche Life</title>, edited
+by H. Henrietta Stockel. Lincoln: University of Nebraska
+Press, 2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

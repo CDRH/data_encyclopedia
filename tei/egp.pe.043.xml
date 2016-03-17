@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Niobrara Ecotone</title>
+<title level="m" type="sub"></title>
+<author>Allen A. Steuter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.043</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Steuter, Allen A.">Allen A. Steuter</author>. <title level="a">"Niobrara Ecotone."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">635</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NIOBRARA ECOTONE</head>
+
+<p>The Niobrara ecotone, along the Niobrara
+River in north-central Nebraska, is an area of
+transition between habitats, plants, and animals
+with more eastern, western, southern,
+and northern distributions. The ecotone is
+most dramatic from the mouth of Minnechaduza
+Creek on the Fort Niobrara National
+Wildlife Refuge to the mouth of Plum Creek
+north of Ainsworth. In this fifty-mile stretch,
+the Niobrara flows through a gently rolling
+grassland in a wooded canyon nearly 400 feet
+deep. The canyon has developed during the
+last 20,000 years as local uplifting of the
+earth's surface has been countered by the actively
+downcutting Niobrara River. Several
+geological formations are exposed, leading to
+an array of soils, slopes, and sun angles. The
+ecotone is a mosaic of habitats on wet-to-dry
+and warm-to-cool sites, with shallow-to-deep
+and fertile-to-sterile soils.</p>
+
+<p>South of the river, paper birch (<hi rend="smallcaps">Betula papyrifera</hi>)
+and aspen (<hi rend="smallcaps">Populus tremuloidesgrandidentata</hi>)
+stands, with northern mannagrass
+(<hi rend="smallcaps">Glyceria borealis</hi>) and green orchids
+(Habenaria hyperborea) in the understory,
+grade into eastern deciduous woodland featuring
+basswood (<hi rend="smallcaps">Tilia americana</hi>), hop hornbeam
+(<hi rend="smallcaps">Ostrya virginiana</hi>), and hazelnut (<hi rend="smallcaps">Corylus
+americana</hi>). These woodlands are replaced
+by mesic tallgrass prairie stands on subirrigated
+low terraces, and bur oak (<hi rend="smallcaps">Quercus macrocarpa</hi>)&#8211;
+ponderosa pine (<hi rend="smallcaps">Pinus ponderosa</hi>)
+savanna and then Sandhills prairie on the dry
+upper slopes. North of the river the ecotone is a
+transition from western coniferous woodland
+dominated by ponderosa pine to northern
+mixed-grass prairie. Riparian woodlands,
+shrub lands, wetlands, and riverine habitats
+occur on the valley floor.</p>
+
+<p>The Niobrara ecotone is particularly rich in
+species because of the many transitions between
+the distinct woodland, grassland, and
+wetland habitats in a relatively small area. The
+ecotone supports nearly two-thirds of the vascular
+plant species, more than half of the
+mammal and bird species, more than a third
+of the butterfly species, and more than a quarter
+of the fish species found in Nebraska.
+Fifty-five moss and eighty-six lichen species
+have been collected within the ecotone.</p>
+
+<p>Whether on the canyon slopes and terraces
+or in the valley bottom, the forces of moving
+water, fire, and grazing continue to maintain
+this dynamic mosaic. Interestingly a northwest
+to southeast flowing river of the Miocene
+epoch (5 to 24 million years ago) also supported
+an impressive ecotone in what is now
+the middle Niobrara Valley. The fossil remains
+of a diverse group of browsers, grazers, predators,
+and aquatic species are represented in
+numerous quarries excavated in the contemporary
+Niobrara ecotone.</p>
+
+<closer>
+<signed>Allen A. Steuter<lb/>
+The Nature Conservancy</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kaul, Robert B., Gail E. Kantak, and Steven P. Churchill.
+"The Niobrara River Valley, a Postglacial Migration Corridor
+and Refugium of Forest Plants and Animals in the
+Grasslands of Central North America." <title level="j">The Botanical Review</title>
+54 (1988): 44–81.</bibl> <bibl>Steuter, Allen A., Bruce Jasch, Joel
+Ihnen, and Larry L. Tieszen. "Woodland/Grassland
+Boundary Changes in the Middle Niobrara Valley of Nebraska
+Identified by Delta Carbon 13 Values of Soil Organic
+Matter." <title level="j">American Midland Naturalist</title> 124 (1990): 301–8.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

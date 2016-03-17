@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Morris, Wright (1910-1998)</title>
+<title level="m" type="sub"></title>
+<author>Joseph J. Wydeven</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wydeven, Joseph J.">Joseph J. Wydeven</author>. <title level="a">"Morris, Wright (1910-1998)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">486</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MORRIS, WRIGHT (1910-1998)</head>
+
+<p>Wright Morris, novelist and photographer,
+was born in Central City, Nebraska, on January
+6, 1910. His mother died when he was six
+days old. Morris lived with his father in towns
+along the Platte and in Omaha before moving
+to Chicago in 1924. In subsequent years, Morris
+traveled widely in Mexico and Europe before
+settling in Mill Valley, California, where
+he died on April 25, 1998.</p>
+
+<p>Of his more than thirty books, Morris is
+best known for his photo-texts and the novels
+that probe origins, identity, and the significance
+of the Plains in shaping human character
+and experience. Morris's tone of inquiry is
+cogently expressed in the photo-text novel
+<title level="m">The Home Place</title> (1948) by protagonist Clyde
+Muncy: "There's too much sky out here . . .
+too much horizontal, . . . so that the exclamation,
+the perpendicular, had to come. Anyone
+who was born and raised on the plains knows
+that the high false front on the Feed Store, and
+the white water tower, are not a question of
+vanity. It's a problem of being. Of knowing
+you are there." Muncy's nostalgia is tempered
+in <title level="m">The World in the Attic</title> (1949) by nausea, an
+emotional reaction that warns him against excessive
+indulgence in the past. In later novels
+Morris examines, with comic compassion, the
+consciousness of those who live where "there
+is no place to hide"&#8211;even, in <title level="m">Ceremony in Lone Tree</title> (1960), from the likes of mass murderer
+Charles Starkweather.</p>
+
+<p>In his final novel, <title level="m">Plains Song for Female Voices</title> (1980), Sharon Atkins comes to understand
+that complete "escape" from the Plains
+is impossible. Morris explores his own umbilical
+connections to Nebraska in the photo-text
+<title level="m">God's Country and My People</title> (1968) and
+his memoir, <title level="m">Will's Boy</title> (1981). At its best, his
+words and photographs salvage the post-
+Depression era from dissolution by time and
+human fallibility.</p>
+
+<closer>
+<signed>Joseph J. Wydeven<lb/>
+Bellevue University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Knoll, Robert, ed. <title level="m">Conversations with Wright Morris: Critical Views and Responses</title>. Lincoln: University of Nebraska
+Press, 1977.</bibl> <bibl>Wydeven, Joseph J. <title level="m">Wright Morris Revisited</title>.
+Boston: Twayne, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

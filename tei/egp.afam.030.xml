@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McShann, Jay (b. 1916)</title>
+<title level="m" type="sub"></title>
+<author>Randall Snyder</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Snyder, Randall">Randall Snyder</author>. <title level="a">"McShann, Jay (b. 1916)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">17-18</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCSHANN, JAY (b. 1916)</head>
+<figure n="egp.afam.030" rend="granted" type="noclick">
+<figDesc>Jay McShann at the piano</figDesc>
+</figure>    
+
+<p>Emerging in the 1930s from the blues-drenched
+soil of eastern Oklahoma, Jay McShann quickly
+established himself as a dominant Kansas City
+pianist, rivaled only by Mary Lou Williams
+and Count Basie. His "band that swung the
+blues" formed in 1939 and included some of
+the finest musicians of the area. It was this
+band's recordings, in 1941, that gave Charlie
+Parker his first national exposure. McShann
+continues to be active at the beginning of the
+new millennium, his diverse styles constituting
+a lexicon of twentieth-century jazz and
+blues pianism.</p>
+
+<p>Jay McShann was born in Muskogee, Oklahoma,
+on January 12, 1916. Muskogee, a town
+of 30,000, was also the home of guitarist Barney
+Kessel, bassist Aaron Bell, and tenor saxophonist
+Don Byas, all important jazz men. It
+was with Byas that McShann began his professional
+career in 1931; by 1937 he was fronting
+his own bands in the Kansas City area.
+By then, McShann had become a versatile pianist,
+combining his blues background of barrelhouse
+and boogie-woogie (influenced by
+Pete Johnson) with a percussive, jazz comping
+style characterized by dense, chordal textures.
+Though most associate McShann with small
+groups, particularly those with bassist Gene
+Ramey and drummer Gus Johnson, his most
+famous band, formed in 1939, was a large ensemble
+that boasted such outstanding sidemen
+as trumpeters Orville "Piggy" Minor and
+Buddy Anderson, trombonist Bob Mabane,
+and saxophonist Charlie Parker, as well as
+blues shouter Walter Brown. Later recordings
+for Decca in Wichita, Kansas, and Dallas,
+Texas, yielded such classic numbers as "Swingmatism,"
+"Confessin' the Blues," and "Hootie
+Blues," several of which contained the protobop
+solos of nineteen-year-old Charlie "Yardbird"
+Parker.</p>
+
+<p>Bolstered by the success of the Decca recordings,
+especially "Confessin'," which sold
+over 5 million copies, McShann moved to New
+York in 1942 to open at the Savoy opposite
+Lucky Millinder's orchestra. McShann's powerful
+blues-style-based jazz was still relatively
+unknown outside the Midwest, but the band
+garnered rave reviews from the critics. McShann
+returned to the recording studio in
+1942, adding "Sepian Stomp" and "Jumpin'
+the Blues" to jazz posterity. After this session,
+the band began to break up, and McShann
+was drafted in 1944.</p>
+
+<p>Returning to music after the war, McShann
+preferred playing with small groups, working
+as leader and accompanist with such artists
+as blues shouters Big Joe Turner and Jimmy
+Witherspoon and swing violinist Claude "Fiddler"
+Williams. In 1959 McShann returned to
+Kansas City, which is still his home. Much of
+his playing, including at many major European
+jazz festivals, was with Williams and
+drummer Paul Gunther. McShann also began
+to develop his singing, fashioning a raspy
+blues timbre reminiscent of Turner and Walter
+Brown. In 1978 he was featured with the
+Lincoln (Nebraska) Symphony Orchestra in
+Robert Beadell's work <title>Variations for Jazz Trio, Flugelhorn and Strings</title>. Also that year, accompanied
+by Paul Gunther and Randy Snyder on
+bass, McShann was profiled in <title>Hootie's Blues</title>,
+a film by Bart Becker and Michael Farrell. McShann
+is also a major participant in the documentary
+<title>The Last of the Blue Devils</title> (1979). In
+honor of his contribution to music in Kansas
+City, by proclamation of the governor, March
+3, 1979, was designated "Jay McShann Day."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: 
+<ref n="egp.ct.028">Kansas City, Kansas and Missouri</ref> / 
+<hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.025">Kansas City Jazz</ref>.</p>
+
+
+<closer>
+<signed>Randall Snyder<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

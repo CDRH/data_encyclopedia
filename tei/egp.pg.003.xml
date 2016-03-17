@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.003 SYSTEM "egp.pg.003.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Alberta</title>
+<title level="m" type="sub"></title>
+<author>Howard A. Leeson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Leeson, Howard A.">Howard A. Leeson</author>. <title level="a">"Alberta."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">653-654</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALBERTA</head>
+
+<figure n="egp.pg.003" rend="granted">
+<figDesc>Alberta Legislature building, Edmonton</figDesc>
+</figure>
+
+<p>Anchoring the northwestern edge of the Great
+Plains and nestled against the Rocky Mountains,
+the province of Alberta, Canada, is a
+unique blend of European and North American
+influences, a blend that has produced a
+political system characterized by strong leaders,
+strong political parties, and strong governments.
+Interestingly, this uniqueness can
+be traced to the influence of those who settled
+the Great Plains on both sides of the forty-ninth
+parallel. It is a prime example of how
+geography and human migration have intersected
+to produce new political behavior.</p>
+
+<p>Canada is a federal state. Like other federations
+it has a system of government that constitutionally
+divides power between central
+and constituent governments. In Canada the
+latter are called provinces. The institutions of
+government are modeled largely on the British
+parliamentary system as it existed in the
+nineteenth century. There is an elected legislature
+in each province, with a cabinet consisting
+of a premier and ministers who are members
+of the House. Although the Queen is
+nominally the provincial head of state, in
+practice this position is occupied by an appointed
+official called the lieutenant governor.
+Elections are held on a regular basis, usually
+every four years, and are contested by several
+political parties, many of which have unique
+roots in the province.</p>
+
+<p>Alberta was created in 1905 as one of the
+new provinces carved out of the old Northwest
+Territories, which had stretched from
+Manitoba north to the Arctic Ocean and west
+and south to the Rocky Mountains. For political
+reasons the Liberal government of Sir Wilfrid
+Laurier ignored the advice of those supporting
+a single province and created several
+provinces instead. The result was Alberta,
+Saskatchewan, and an enlarged Manitoba, increasing
+the number of provinces in Canada
+by two.</p>
+
+<p>Initially the politics of Alberta followed the
+traditional British and Canadian model, with
+elections contested by the Liberal and Conservative
+Parties. The Liberals, under the leadership
+of A. C. Rutherford, were in power between
+1905 and 1921. However, powerful social
+and economic forces, together with the influx
+of settlers from the midwestern United States,
+changed the system dramatically after World
+War I.</p>
+
+<p>Alberta, like most of the Great Plains jurisdictions,
+was a society rooted in the agricultural
+development of the incredibly fertile
+land of the Prairies. It was a society largely
+dependent on the production and export of
+grains. As with any such society, it was subject
+to the boom and bust cycle of a single industry.
+Thus, when prices for agricultural products
+dropped dramatically after 1919, farmers
+and their supporters looked for solutions to
+the economic crisis.</p>
+
+<p>They found their solution in radical populist
+politics. The person most responsible
+for promoting this approach was Henry Wise
+Wood, an immigrant from the midwestern
+United States, who brought with him strong
+ideas about individualism and group government.
+These found resonance and took root in
+the Alberta of the 1920s. Together with other
+farmers he founded the United Farmers of Alberta
+(<hi rend="smallcaps">UFA</hi>), a movement that contested and
+won the 1921 election. In defeating the Liberals
+the UFA began a trend that continues to this
+day. No political party that has been elected to
+govern Alberta has ever returned to power after
+it was defeated.</p>
+
+<p>Populist politics dominated the Alberta
+scene from 1921 until after World War II. In
+the mid-1930s the UFA faltered as a result of a
+series of internal scandals. It was completely
+wiped out in the 1935 election. Its place in
+government was taken by a new political party
+called Social Credit, which ran for the first
+time in that year under the leadership of William
+Aberhart, a Protestant minister. Social
+Credit won a stunning landslide victory in its
+first electoral contest.</p>
+
+<p>Although Social Credit was a populist party,
+it differed in many important respects from its
+predecessor. Its basic ideology was taken from
+the teachings of Maj. Clifford Douglas, an
+Englishman who proposed a comprehensive
+monetary policy for dealing with the role of
+government in society. While these ideas were
+soon discarded in practice, the party continued
+to espouse them in theory until the late
+1960s. Finally, while the UFA had been radical
+democrats, Social Credit was more plebiscitarian
+and less tolerant of political dissent. After
+the death of Aberhart in 1943 the party
+elected E. C. Manning, a prot&#233;g&#233; of his. (In
+2000 his son, E. P. Manning, headed the Reform
+Party at the national level in Canada.)
+Social Credit stayed in power until 1971.</p>
+
+<p>The discovery and exploitation of huge oil
+and gas reserves in Alberta after World War II
+dramatically changed the economic and social
+landscape of Alberta. In twenty years the
+province moved from a largely rural agricultural
+society to an urban, resource-based
+community. This brought with it some political
+changes. In 1971, after thirty-five years in
+office, the Social Credit Party was defeated.
+Peter Lougheed, a Calgary lawyer, led the new
+Progressive Conservative government. It was
+strongly particularistic and protective of the
+oil industry and its benefits. It had several
+confrontations with the federal government
+over natural resources and the revenue from
+them.</p>
+
+<p>After 1982, when the New Democratic Party
+under Grant Notley became the Official Opposition,
+politics in the province seemed to be
+adjusting to a left-right division. Notley's
+death in 1984, and the inability of his successors
+to hold on to their position, however,
+resulted in a return to one-party dominance.
+The Liberal Party, which has not regained
+power since 1921, is now the Official Opposition,
+but the Progressive Conservative Party
+has been firmly in office for twenty-seven
+years.</p>
+
+<p>The history of politics in Alberta has been
+dominated by two characteristics. The first is a
+strong sense of political alienation. Albertans
+have tended to see their role in Canada as undervalued
+and ignored. This strong sense of
+grievance has led them to elect representatives
+who are prepared to "fight for Alberta and the
+west." The second is the plebiscitarian nature
+of politics in the province. Most governments
+have received strong mandates, with little opposition.
+However, once rejected, parties have
+forever remained excluded. In a sense, despite
+the present strong economic base and the obvious
+wealth of the province, Albertans continue
+to exhibit the political behavior of an
+earlier, more marginal time. Grievance and
+alienation, once instilled in a political culture,
+are difficult to remove.</p>
+
+<p>The politics of Alberta today is as fascinating
+as it was at the turn of the twentieth century.
+It is a prime example of how the geographical
+features and settlement patterns of
+the North American Great Plains have shaped
+social and political behavior to create unique
+and interesting societies.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.046">Petroleum, Canada</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.002">Aberhart, William</ref>.</p>
+
+<closer>
+<signed>Howard A. Leeson<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Calderola, Carle. <title level="m">Society and Politics in Alberta</title>. Toronto:
+Methuen, 1979.</bibl> <bibl>Dyck, Rand. <title level="m">Provincial Politics in Canada</title>.
+Scarborough, Ontario: Prentice-Hall Canada, Inc., 1995.</bibl>
+<bibl>MacGregor, James G. <title level="m">A History of Alberta</title>. Edmonton:
+Hurtig Publishers, 1972.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

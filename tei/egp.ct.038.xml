@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pierre, South Dakota</title>
+<title level="m" type="sub"></title>
+<author>Edward Patrick Hogan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hogan, Edward Patrick">Edward Patrick Hogan</author>. <title level="a">"Pierre, South Dakota."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">178</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PIERRE, SOUTH DAKOTA</head>
+
+<p>Pierre (pronounced "pier") is located in central
+South Dakota on the eastern bank of the
+Missouri River. Its sister city, Fort Pierre, is
+across the river on the western bank. Incorporated
+in 1883, Pierre is both the state capital
+of South Dakota (since 1889) and the seat
+of Hughes County. The boundary dividing
+mountain and central time zones follows the
+Missouri River, placing Pierre and Fort Pierre
+in different time zones.</p>
+
+<p>The area around Pierre was originally a major
+fortified center of the Arikara Indians. In
+1804 Lewis and Clark held council with three
+Teton Sioux chiefs at the mouth of the Teton
+(Bad) River near the future site of Pierre. In
+1832 the American Fur Company established
+Fort Pierre at the site. The fort was a major
+trading post for the middle Missouri River region
+until 1855, when it was sold to the U.S.
+Army. During the Black Hills gold rush (1876–
+85) Pierre was a transportation and freighting
+outpost for miners and supplies. The city
+boomed with the arrival of the railroad in
+1880, becoming an important commercial
+center for the local farm and ranch economy.
+Pierre has continued to grow in population,
+increasing from 3,235 in 1890 to 13,876 in 2000.</p>
+
+<p>Today Pierre's economy centers on state and
+county government, agriculture (primarily
+grains and beef cattle), tourism, and recreation
+(fishing and hunting). State government
+is the city's most important economic activity.
+Products manufactured in Pierre include electrical
+and irrigation equipment. Printing is
+also a major economic activity.</p>
+
+<p>Located six miles north-northwest of Pierre
+is the Oahe Dam, the eighth largest dam in the
+world by volume. The dam is a major flood-control
+and power production unit on the
+Missouri River; the power plant has a total
+peaking capacity of 826,000 kilowatts. Behind
+the 245-foot-high dam is Lake Oahe. Its waters
+stretch 231 miles upstream and cover 374,000
+acres of land.</p>
+
+<p>The city is served by the Pierre Regional
+Airport, the Dakota, Minnesota, and Eastern
+Railroad, and U.S. Highways 14 and 83. Pierre
+is home to the Indian Learning Center, a
+boarding school for Native Americans in
+grades one through eight. The region is also
+served by Capital University Center, which
+provides access to programs from three state
+universities. Major tourism and recreation attractions
+in Pierre and the surrounding area
+include the Cultural Heritage Center, the
+South Dakota Discovery Center and Aquarium,
+the state capitol, the Fighting Stallions
+Memorial, the Verendrye Museum (in Fort
+Pierre), the Oahe Dam and Visitors Center,
+the Farm Island State Recreation Area, and the
+Fort Pierre National Grassland.</p>
+
+<closer>
+<signed>Edward Patrick Hogan<lb/>
+South Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hogan, Edward Patrick, and Erin Hogan Fouberg. <title level="m">The Geography of South Dakota</title>. Sioux Falls <hi rend="smallcaps">SD</hi>: Center for
+Western Studies, 1998.</bibl> <bibl>Schell, Herbert S. <title level="m">The History of South Dakota</title>. Lincoln: University of Nebraska Press, 1968.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

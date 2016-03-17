@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">White Primary</title>
+<title level="m" type="sub"></title>
+<author>Michael W. Combs</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Combs, Michael W.">Michael W. Combs</author>. <title level="a">"White Primary."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">465</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WHITE PRIMARY</head>
+
+<p>After Reconstruction, southern states began a
+campaign to disfranchise African American
+voters in order to eliminate the Republican
+Party from Southern politics and safeguard
+white supremacy. Various methods were used,
+including poll taxes, literacy tests, and violence,
+but by the 1920s a widely used method
+of disfranchisement was the white primary. As
+a political device, legitimized by state statutes,
+the white primary effectively eliminated African
+American voters from the electoral process
+by barring them from primary elections.</p>
+
+<p>In 1923 the intensity of opposition to the
+white primary increased when Texas abandoned
+the white primary by party rule and
+enacted a law that prohibited the participation
+of African Americans in a Democratic primary
+election. From the 1920s through the 1950s the
+<hi rend="smallcaps">NAACP</hi> waged a systematic legal campaign
+against the white primary, arguing that it violated
+the Fourteenth and Fifteenth Amendments.
+When the <hi rend="smallcaps">NAACP</hi> prevailed in the U.S.
+Supreme Court, supporters of white primary
+statutes returned to state legislatures and enacted
+laws that they thought would pass constitutional
+muster. The Supreme Court upheld
+Texas's white primary statute in <hi rend="italic">Grovey v.
+Townsend</hi> (1935), holding that the Democratic
+Party was a voluntary, private organization
+that could determine its own membership
+qualifications.</p>
+
+<p>During the 1940s and 1950s the Supreme
+Court began to chip away at the legality of
+the white primary more decisively. In <hi rend="italic">United
+States v. Classic</hi> (1941), for example, the Supreme
+Court reversed the Townsend precedent,
+arguing that the Constitution secured
+the right to vote. In 1944 the Supreme Court
+further eroded the power of the Texas white
+primary in <hi rend="italic">Smith v. Allwright</hi>, ruling that the
+state had violated the Constitution by providing
+ballots at primary elections. This decision
+largely ended the white primary in Texas. Between
+1940 and 1947 the number of registered
+African American voters in Texas jumped
+from 30,000 to 100,000. Finally, in <hi rend="italic">Terry v.
+Adams</hi> (1953), the Supreme Court prohibited
+the legacies of the white primary, insisting that
+the scope of the Fifteenth Amendment included
+any election in which public issues are
+decided or public officials are elected. In the
+end, the persistence of the <hi rend="smallcaps">NAACP</hi> and the willingness
+of the Supreme Court to create a more
+democratic society eradicated the white primary
+as a disfranchisement device.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.014">Civil Rights</ref>.</p>
+
+<closer>
+<signed>Michael W. Combs<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Combs, Michael W. "The Supreme Court and African
+Americans: Personnel and Policy Transformations." <title level="j">Howard Law Journal</title> 36 (1993): 139–84.</bibl> <bibl>Key, V. O., Jr. <title level="j">Southern Politics</title>. New York: Vintage Books, 1949.</bibl> <bibl>Woodward, C.
+Vann. <title level="m">The Strange Career of Jim Crow</title>. New York: Oxford
+University Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

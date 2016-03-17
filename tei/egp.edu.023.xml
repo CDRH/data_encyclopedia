@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Libraries</title>
+<title level="m" type="sub"></title>
+<author>Andrew B. Wertheimer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wertheimer, Andrew B.">Andrew B. Wertheimer</author>. <title level="a">"Libraries."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">205-206</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LIBRARIES</head>
+
+<p>Little is known of the earliest libraries in the
+Great Plains, but they probably resembled antebellum
+collections elsewhere in book-scarce
+frontier communities. Nascent frontier communities
+established private libraries such
+as those in the village of Omaha, Nebraska,
+where in 1856 residents wanted to boost settlement
+and provide competition for saloons.
+These libraries laid the foundations for public
+libraries once legislation allowed for municipal
+support of publicly held, free-circulating
+libraries.</p>
+
+<p>By the time settlers migrated to the Great
+Plains, the library movement in North America
+was already maturing from its British and
+Colonial New England origins as parochial,
+mercantile, and social into a profession led by
+public and college librarians. Events such as
+the establishment of the American Library Association
+(<hi rend="smallcaps">ALA</hi>) in 1876 and Melvil Dewey's
+founding of the first modern library school at
+Columbia University eight years later signified
+this homogenization of "library economy,"
+which Dewey summarized as providing "the
+best reading for the largest number at the least
+expense."</p>
+
+<p>Development of libraries varied in each
+community, often depending on the energy
+of social reformers possessed by the "library
+spirit." Many libraries owe their origins to
+women's clubs, which raised funds for reading
+rooms by memberships, lectures, and bake
+sales before turning their library over to the
+city. Such gifts were often prompted by the
+desire for matching grants offered by Andrew
+Carnegie and other philanthropists to construct
+local temples of knowledge.</p>
+
+<p>Statehood was another factor in the growth
+of libraries, as legislatures allowed communities
+to raise mill levies for their support.
+This legislation varied in each jurisdiction.
+In Oklahoma, for example, school districts
+were originally charged with library operation
+in 1889. It wasn't until 1901 that the territorial
+legislature allowed cities with a population
+over 2,500 to charge a mill levy to support
+publicly held libraries. The small size
+of many Great Plains communities likely retarded
+library development, because numerous
+communities could only afford small
+collections that opened for just a few hours
+and were staffed by "born" librarians rather
+than trained ones.</p>
+
+<p>The establishment of the Laramie County
+Library in Cheyenne, Wyoming, in 1886 pioneered
+the first county library system, which
+since has become the model for modern library
+service in North America. In Saskatchewan
+the province not only allowed municipalities
+to tax for library support in 1905 but
+also offered an additional grant; however, library
+development was slow until the province's
+Commonwealth Cooperative Federation
+government created the Regional Library
+in 1950. Readers in the Southern Great Plains
+were further disadvantaged by Jim Crow laws,
+which segregated libraries and left many African
+Americans without access. For example,
+racial conflict, masquerading as an anti-
+Communist crusade, led to the downfall of
+Bartlesville, Oklahoma, librarian Ruth Brown
+in 1950. After thirty years of service, Brown
+was fired for ostensibly circulating subversive
+materials, but the real reason was her affiliation
+with the Congress of Racial Equality.</p>
+
+<p>State library commissions were also strong
+promoters of public libraries. For example,
+North Dakota's Public Library Commission,
+established in 1907, operated traveling libraries
+(cases with sixty books or fewer on loan to
+communities for up to six months) and advised
+communities on library development.
+These traveling libraries contributed to the
+hunger for reading in rural parts of the state. A
+year later the commission established the Legislative
+Reference Bureau, which was based on
+Wisconsin's progressive example. However, in
+1919 the commission became involved in a political
+fight between the Nonpartisan League
+and opponents over "socialistic" books in
+traveling libraries. As a result of the weakened
+Library Commission and the end of Carnegie
+grants to libraries, little progress was made in
+providing service to rural parts of North Dakota
+until counties received permission to operate
+libraries in 1945. Sparse populations and
+an aversion to taxes, though, meant that few
+such initiatives passed until the 1955 Library
+Services Act, which supported rural library
+development as part of federal initiatives during
+the cold war to improve education and
+literacy. Throughout the Great Plains, federal
+aid through the <hi rend="smallcaps">WPA</hi> and other agencies created
+during the Great Depression provided extension
+librarians to many rural communities
+that previously were without service.</p>
+
+<p>Among the first libraries in the Plains were
+state and territorial ones that grew on the exchange
+of government documents. The dates
+of establishment for these early libraries are
+Texas (1846), New Mexico (1850), Kansas
+(1855), Nebraska (1856), Colorado (1863),
+South Dakota (1865), Montana (1865), Manitoba
+(1870), Wyoming (1871), Oklahoma
+(1893), Alberta (1906), North Dakota (1907),
+and Saskatchewan (1953). Other special libraries
+in the Great Plains also developed, including
+law libraries, medical libraries, and corporate
+information centers. The history of the
+Great Plains is preserved in many state and
+provincial historical society libraries and archives
+as well as in the Dwight D. Eisenhower
+Library and Museum (Abilene, Kansas), the
+Johnson Presidential Library (College Park,
+Texas), and the Bush Presidential Library
+(Austin, Texas), which are operated by the National
+Archives and Records Administration.
+These libraries, together with local and academic
+libraries, are repositories for books, periodicals,
+and archival papers that encompass
+the print culture of the Great Plains.</p>
+
+<p>The largest collections in the Plains are
+those of the research universities of the states
+and provinces. In good years these libraries
+grew along with their fledgling institutions of
+higher learning. Indeed, their growth was instrumental
+in the growth of all Plains libraries,
+because their librarians taught in the pioneering
+programs of library schools, pioneered library
+legislation on the state level, and encouraged
+the state library associations that
+fostered professional librarianship. Research
+libraries at state schools, inspired by the vision
+of the Morrill Act of 1862, not only provide
+material for students and faculty but also offer
+service to citizens through reference assistance
+and book circulation via interlibrary loan.
+Special collections and archives at research libraries
+contribute to the preservation of the
+cultural life of the Great Plains. The extensive
+papers and correspondence of writer Mari
+Sandoz, for example, are at the University of
+Nebraska-Lincoln. The Harry Ransom Humanities
+Research Center at the University of
+Texas at Austin is one of the world's richest
+collections of archives and manuscripts, including
+those of New Mexico author Alice
+Corbin Henderson, and papers of writers
+D. H. Lawrence, Tennessee Williams, Isaac
+Bashevis Singer, and publisher Alfred A.
+Knopf. Some of the more important special
+collections at Canadian university libraries include
+the papers of the Thistledown and Turnstone
+regional literary presses and the diaries
+of Icelandic immigrant Simon Simonarson at
+the University of Manitoba, members of the
+Regina Five art movement at the University of
+Regina, and author W. O. Mitchell at the University
+of Calgary.</p>
+
+<p>Professional education for librarianship has
+been available in the Great Plains since Gertrude
+Shawan established a ten-week sequence
+at Kansas State Normal School (later Emporia
+State University) in 1902. It was typical of
+the apprentice classes run by larger public and
+academic libraries from which early library
+workers were recruited. Unlike many schools
+that were closed as education became more
+professional, the School of Library and Information
+Management at Emporia State University
+survived and now offers professional
+master's and doctoral degrees. Library science
+was also taught at the University of Denver
+between 1932 and 1985 and again after 1995.
+The predecessor to the School of Library and
+Information Studies at the University of Oklahoma
+was established in 1929, and the University
+of Alberta established a graduate program
+in 1968. Texas is unique in that it has three
+professional schools, two at the University
+of North Texas in Denton and one at the University
+of Texas at Austin. Many other colleges,
+especially normal schools, once offered
+teacher-librarian courses to prepare school librarians,
+but these were not graduate programs
+accredited by the <hi rend="smallcaps">ALA</hi>.</p>
+
+<p>Although recent library literature focuses
+on technological developments, historical reflection
+suggests that libraries' traditional
+functions of providing access to information
+and recreation perhaps have not changed
+greatly. However, libraries and archives are increasingly
+faced with questions of how to preserve
+both digital and paper records of life in
+the Great Plains as well as offer access to the
+wider world.</p>
+
+<closer>
+<signed>Andrew B. Wertheimer<lb/>
+University of Wisconsin-Madison</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Passet, Joanne E. <hi rend="italic">Cultural Crusaders: Women Librarians in
+the American West, 1900–1917</hi>. Albuquerque: University of
+New Mexico Press, 1994.</bibl> <bibl>Robbins, Louise S. <hi rend="italic">The Dismissal
+of Miss Ruth Brown: Civil Rights, Censorship and the American
+Library</hi>. Norman: University of Oklahoma Press,
+2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

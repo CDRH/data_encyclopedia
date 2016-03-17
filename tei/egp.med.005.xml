@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Bismarck Tribune</hi></title>
+<title level="m" type="sub"></title>
+<author>Ross F. Collins</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Collins, Ross F.">Ross F. Collins</author>. <title level="a">"<hi rend="italic">Bismarck Tribune</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">506-507</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">BISMARCK TRIBUNE</hi></head>
+
+<p>The <title level="j">Bismarck Tribune</title> was established in 1873,
+the first newspaper in Dakota Territory. The
+remote northern half of Dakota Territory saw
+few permanent European American settlers
+until the Northern Pacific Railroad reached
+the Plains in the early 1870s. In the spring of
+1873 a young Civil War veteran sensed an opportunity
+behind the railroad construction
+crews. Clement A. Lounsberry had worked for
+several Minnesota newspapers. In May 1873,
+after his coverage of Minnesota's state legislature
+ended, he moved printing equipment by
+the first railcar into Bismarck. Issue number
+one of the <title level="j">Bismarck Tribune</title> was published in
+July.</p>
+
+<p>Most new western towns built around the
+advancing railroad attracted bawdy houses
+and lawless drifters, and early Bismarck was
+no exception. "Colonel" Lounsberry, who
+kept his old Civil War rank, as was the fashion
+at the time, hoped to establish order through
+editorial. Lounsberry asked for a "vigilance
+committee" to respond to town troublemakers.
+Dance-hall proprietors Dave Mullen and
+Jack O'Neil perceived this as a threat. Heavily
+armed, they confronted Lounsberry at the <title level="j">Tribune</title>
+office. In characteristic words of the
+"fighting editor" common to the western
+frontier, Lounsberry claimed he challenged
+them to go ahead and shoot, boasting that he
+had "heard bullets fly before." The saloon
+owners demurred, however, and merely asked
+him to refrain from issuing attacks in their
+direction.</p>
+
+<p>The <title level="j">Tribune</title> began publishing daily in 1881.
+Always a relatively small daily (1996 circulation
+was 31,161), it nevertheless became nationally
+known for its coverage of two events.
+In 1937 it received a Pulitzer Prize for its series
+"Self-Help in the Dust Bowl," aimed at farmers
+battling the droughts of the 1930s. Better
+known, however, is its renown as the first
+newspaper to break the story of "Custer's Last
+Stand." Gen. George Armstrong Custer left for
+his last battle from Fort Abraham Lincoln,
+near Bismarck. Lounsberry sent along reporter
+Mark Kellogg. Kellogg became one of
+the casualties of the famous June 25, 1876, battle.
+His bloodstained notes found their way
+back to Bismarck, where Lounsberry hogged
+the town's single telegraph line for twenty-two
+hours to transmit the story as sometime correspondent
+for the <title level="j">New York Tribune</title>. The
+eastern editors at first did not believe him,
+however, and held the story long enough for
+Lounsberry's own paper to get the scoop.</p>
+
+<p>Lounsberry remained publisher until 1884,
+when he sold the paper to Marshall Jewell,
+who had been job shop manager. While still a
+relatively small daily by national standards,
+the <title level="j">Tribune</title> has traditionally distributed over
+a vast geographical area in a sparsely populated
+state. By a 1960s comparison, the <title level="j">Tribune</title>
+still counted a geographic circulation twice
+that of newspapers in similarly sized eastern
+cities. Because the Bismarck paper reached so
+far, however, distribution costs were also three
+times higher.</p>
+
+<p>In the first quarter of the twentieth century
+the <title level="j">Tribune</title> faced competition from five other
+newspapers publishing from the state capital.
+Even in 1930 its circulation was only 6,000,
+compared to 11,000 claimed by the German-language
+weekly <title level="j">Der Staats-Anzeiger</title>. By 1970,
+however, the <title level="j">Tribune</title> claimed 17,086 subscribers
+and the German-language paper only
+989. Today the <title level="j">Tribune</title> is the third largest daily
+in the state after the <title level="j">Grand Forks Herald</title> and
+<title level="j">Fargo-Moorhead Forum</title>. It is owned by Lee
+Enterprises.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>Ross F. Collins</signed>
+North Dakota State University</closer>
+</div1>
+
+<div1>
+<bibl>Lounsberry, Clement A. <title level="m">North Dakota: History and People</title>.
+Chicago: S. J. Clarke Publishing Company, 1917.</bibl> <bibl>Robinson,
+Elwyn. <title level="m">History of North Dakota</title>. Fargo: Institute for
+Regional Studies, North Dakota State University, 1995.</bibl>
+<bibl>Schmidt, Paul C. "The Press in North Dakota." <title level="j">North Dakota History</title> 31 (1964): 216–22.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

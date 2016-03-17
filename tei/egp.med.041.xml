@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Small-Town Newspapers</title>
+<title level="m" type="sub"></title>
+<author>Gloria B. Freeland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Freeland, Gloria B.">Gloria B. Freeland</author>. <title level="a">"Small-Town Newspapers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">520-521</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SMALL-TOWN NEWSPAPERS</head>
+
+<p>There are hundreds if not thousands of smalltown
+newspapers scattered throughout the
+Great Plains, and they play an important role
+in the health and vitality of their communities.
+In the Canadian Plains, for example,
+the Saskatchewan Weekly Newspapers Association
+is composed of eighty weekly newspapers
+reaching more than 500,000 readers.
+The Alberta Weekly Newspapers Association
+is about eighty years old and has 102 member
+newspapers scattered throughout Alberta and
+into the Northwest Territories. Some papers
+have a history that goes back to the 1800s; others
+are brand new.</p>
+
+<p>Traditionally, the community newspaper
+was defined as a nondaily publication serving a
+small community. However, as markets, business
+models, and technologies have changed
+over the years, it is no longer feasible to distinguish
+community newspapers based upon
+frequency or circulation size. A community
+newspaper may be published once a week, several
+times a week, or daily. With the emergence
+of the Internet, some community newspapers
+exist only in cyberspace. Regardless of frequency
+or method of distribution, most community
+newspapers are committed to providing
+local information and related services that
+serve and strengthen their communities.</p>
+
+<p>In frontier days, as people moved west, so
+too did newspapers, largely because of the
+portability and durability of the flatbed press.
+A newspaper became one of the earliest marks
+of a new Plains community. When a newspaper
+arrived in Leavenworth, Kansas Territory,
+in 1854, for example, the town consisted
+of four tents. Denver's <title level="j">Rocky Mountain News</title>
+was first published in 1859 in a saloon attic.
+Legh and Frederick Freeman, two former
+Confederate telegraph operators, started the
+<title level="j">Kearney Herald</title> at Fort Kearny in Nebraska in
+1865, then traveled west with the construction
+of the Union Pacific, setting up their press at
+every new railhead. They first published their
+<title level="j">Frontier Index</title> in North Platte and then continued
+into Dakota Territory (later Wyoming
+Territory).</p>
+
+<p>Evangelists and social activists also pioneered
+publishing in the Great Plains. Outspoken
+former lawyers, preachers, teachers,
+politicians, farmers, miners, and others tried
+their hand at journalism. A local editor could
+inspire voters and make himself an important
+figure in the community. Most editors were
+men, but women also participated in the region's
+journalism, first as editors' wives and
+then leading the papers after their husbands
+died. Carry Nation, with her <title level="j">Smasher's Mail</title>,
+published in Medicine Lodge, Kansas, in the
+first years of the twentieth century, promoted
+temperance and prohibition. Woman suffrage
+and feminism found early champions in western
+newspapers.</p>
+
+<p>Editors were expected to serve the local interests
+of their communities by campaigning
+for territorial status or statehood, for railroads,
+and for or against the abolition of slavery.
+Marriages, deaths, births, social events,
+prairie fires, lodge meetings, and rumors of
+gold and silver strikes were included, along
+with stories of local gunfights. One famous
+story was the <title level="j">Bismarck Tribune</title>'s account of
+George Armstrong Custer's defeat at the Battle
+of the Little Bighorn in 1876, an account based
+on notes retrieved from the body of accompanying
+reporter Mark Kellogg.</p>
+
+<p>Papers in the West were known for their
+quirky independence. One radical publication
+that broke through to a mass audience was
+<title level="j">Appeal to Reason</title>, published in Girard, Kansas.
+In 1912 it had a circulation of 750,000. Another
+small-town newspaper that transcended local
+importance was the <title level="j">Emporia Gazette</title>, published
+by William Allen White from 1895 to
+1944.</p>
+
+<p>Until the late 1800s, little thought was given
+to training editors and reporters. For more
+than a century, the emphasis was on printing,
+and future editors learned to set type under
+the apprentice system. But there were some
+modest efforts at training. In the 1840s young
+Native American students in Indian Territory
+were being trained in printing, and as early as
+1848 girls at the Park Hill Seminary were producing
+a school paper, the <title level="j">Cherokee Rosebud</title>.
+Printing in Indian Territory started with the
+<title level="j">Cherokee Almanac</title>, which began publishing in
+1835 at Tahlequah. Another Native American
+newspaper, the <title level="j">Shawnee Sun</title>, began in 1835
+at Shawnee Mission in what would become
+Kansas. Basic training manuals for journalists
+existed in the 1860s, and as early as 1873 Kansas
+State College offered printing classes for rural
+publishers.</p>
+
+<p>Rural free delivery in 1896 made it possible
+for large dailies to reach into rural areas, and
+people predicted the end of rural weeklies. Instead,
+a special emphasis on local coverage actually
+strengthened the small-town papers because
+they no longer had to devote space to
+world or national events. During World War I
+local newspapers promoted war bonds, Red
+Cross campaigns, salvage efforts, and recruitment
+programs. Personnel problems developed
+as printers and editors went off to war,
+and many times wives had to fill in. In the
+1920s, despite competition for advertising
+from radio, many small newspapers, with better
+equipment and better business methods,
+attained solid footing in their communities.
+This did not prevent a large number of failures
+during the Great Depression. Newspaper editors
+went back to the old system of bartering
+because their readers could not afford to buy
+the paper and businesses could not afford to
+advertise. Still, the Depression was a time of
+leadership for many small-town papers. Editorials
+called for community efforts to overcome
+local problems and promoted optimism.
+Papers closed again when World War II
+broke out, while others carried on with wives,
+sisters, and mothers assuming the responsibilities
+of publishing. Newspapers were considered
+vital to the war effort because of their
+ability to maintain morale on the home front.
+When veterans returned home, they flocked
+to universities, and interest in journalism careers
+rose, in large part because of the experiences
+of wartime correspondents.</p>
+
+<p>The years after World War II saw a revolution
+in production methods and a change in
+the organization of the publishing business
+that greatly affected community newspapers.
+In the 1950s the change from metal to film
+production accelerated, especially at nondaily
+newspapers, which could more easily make
+the switch since they had fewer machines&#8211;
+and people&#8211;to deal with. Since new production
+processes made it easier to start a paper
+and suburban expansion increased the need
+for more papers, another development, the
+newspaper chain, brought change to community
+newspaper management. Computers in
+the newsroom, the development of digital
+cameras, and the convergence of print, audio,
+and video on the Internet combined to make
+the last few years of the twentieth century an
+exciting time for those involved in small-town
+newspapers. As with any changes, some newspapers
+embraced the new technologies, while
+others tried to avoid them.</p>
+
+<p>But the one constant in small-town newspapers
+is that they strive to provide people
+with local news about their schools, government,
+clubs, and activities. They continue to
+announce births, deaths, weddings, and anniversaries.
+Editors of small-town newspapers
+know that if they chronicle people's lives and
+the events around them, people will read their
+papers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.049">Small Towns</ref> / 
+<hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.007"><hi rend="italic"><title level="j">Appeal to Reason</title></hi></ref>; <ref n="egp.pd.036">Nation, Carry</ref>.</p>
+
+<closer>
+<signed>Gloria B. Freeland<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">America's Premier Community Newspapers</title>. Arlington <hi rend="smallcaps">VA</hi>:
+National Newspaper Association, 1998.</bibl> <bibl>Karolevitz, Robert
+E. <title level="m">From Quill to Computer: The Story of America's Community Newspapers</title>. Freeman <hi rend="smallcaps">SD</hi>: Pine Hill Press, 1985.</bibl>
+<bibl>Sloan, William David, James G. Stovall, and James D.
+Startt. <title level="m">The Media in America: A History</title>. Scottsdale <hi rend="smallcaps">AZ</hi>:
+Publishing Horizons, 1993.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

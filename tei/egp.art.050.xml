@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Regina Five</title>
+<title level="m" type="sub"></title>
+<author>Donna Bowman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bowman, Donna">Donna Bowman</author>. <title level="a">"Regina Five."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">127</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">REGINA FIVE</head>
+
+<p>The Regina Five were a loose group of abstract
+painters based in Regina, Saskatchewan, although
+only three were natives of the Prairies.
+The members were Ronald Bloore (b. 1925),
+Ted Godwin (b. 1933), Kenneth Lochhead (b.
+1926), Arthur McKay (b. 1926), and Douglas
+Morton (b. 1926). They took their name from
+a 1961 exhibition organized by the National
+Gallery of Canada, <hi rend="smallcaps">Five Painters from Regina</hi>.
+All were associated with the art school at the
+University of Saskatchewan, Regina Campus,
+or with its annual artists' workshops at Emma
+Lake, Saskatchewan. Lochhead, the head of the
+school, and McKay, an instructor, were instrumental
+in recruiting important American artists
+and art critics to lead the summer workshops.
+Abstract artist Barnett Newman and
+critic and abstract proponent Clement Greenberg
+particularly influenced the Regina Five.</p>
+
+<p>The five did not think of themselves as a
+group and indeed had markedly different
+styles, although they had certain similarities
+such as the use of flat, muted color. For the
+space of roughly three years, from 1961 to 1964,
+they were considered very avant-garde. Art
+critics marveled at the fact that they came from
+the isolated Prairies. Then, in 1964, two of the
+group left Regina, and Lochhead and McKay
+had works in Clement Greenberg's badly received
+Los Angeles show. From that point the
+group lost its influence, and its members went
+on to pursue separate careers. At Expo 67 only
+two of their works were shown&#8211;in the section
+for historic Canadian art.</p>
+
+
+<closer>
+<signed>Donna Bowman<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Chabun, Will. "'The Regina Five': Art, Politics and History."
+<title level="j">Regina Leader Post</title>, February 8, 1997: A7.</bibl> <bibl><title>Five Painters from Regina</title>. Exhibition Catalog. Ottawa: National
+Gallery of Canada, 1961.</bibl> <bibl>Leclerc, Denise. <title level="m">The Crisis of Abstraction in Canada: The 1950s</title>. Ottawa: National Gallery
+of Canada, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

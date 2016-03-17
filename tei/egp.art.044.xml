@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Traditional Art</title>
+<title level="m" type="sub"></title>
+<author>Mary Jane Schneider</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schneider, Mary Jane">Mary Jane Schneider</author>. <title level="a">"Native American Traditional Art."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">125</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN TRADITIONAL ART</head>
+
+<p>Before Europeans introduced glass beads,
+metal cones, ribbons, and cloth, Plains Indians
+decorated themselves, their clothes,
+and their household belongings with paint,
+stone, bone and shell beads, animal teeth, and
+other natural materials. They also carved and
+painted human and animal figures and various
+symbolic designs on boulders and rock
+walls. In the Central and Northern Plains,
+some groups used stones to create outline figures
+of medicine wheels, humans, and animals.
+Shells with faces carved in them and
+sculptures of buffalo demonstrate that carving,
+although a minor art form, was done before
+the introduction of metal tools.</p>
+
+<p>The great diversity in rock-art styles suggests
+that there were many different tribes or
+groups inhabiting the Plains. Each region
+has its own distinct style, and scholars have
+named and described the works from each
+area. In the northwestern Plains, works believed
+to date from between 1000 and 1700
+have a recognizable Plains Indian style that
+connects well to later art forms. Called "Ceremonial"
+by scholars, the early designs consist
+of simple outline figures of humans and animals.
+Some humans are depicted with rectangular
+bodies, V-shaped necklines, and
+round heads. Others have large round bodies
+with arms and legs. The decorations on the
+bodies suggest that they represent shields, and
+the designs are referred to as shield-bearing
+warriors. Animals are shown with elongated,
+rounded bodies with stick legs and welldefined
+horns or antlers. Symbolic ribs often
+appear inside the animal bodies.</p>
+
+<p>Later rock art continued the stick-figure
+techniques but presents them in much more
+action oriented scenes. This style has been
+called "Biographical." Hunting and battle
+scenes seem to tell stories of actual events.
+Scenes dating from postcontact times show
+rectangular-bodied, round-headed warriors
+brandishing guns and riding horses. Similar
+scenes appear on the earliest known buffalo
+robes and men's shirts. A robe collected by
+Meriwether Lewis and William Clark on their
+trip up the Missouri River in 1804 shows
+the same kind of round-headed, rectangularbodied
+stick figures as the rock art.</p>
+
+<p>The earliest art, whether rock art or items
+collected by visitors to the tribes, contains the
+basic elements of Plains Indian art and shows
+that the attitudes and aesthetics were very different
+from European art. Unlike European
+art, which included large paintings, sculptures,
+and buildings designed to be regarded
+as art, Plains Indian art was an integral part
+of everyday life. Dresses, robes, moccasins,
+tipis, and rawhide containers were functional
+whether they were decorated or not, but the
+decorations enhanced the object and brought
+pleasure to the people who saw and used
+them. Both men and women took pride in
+being well dressed and living among beautiful
+things.</p>
+
+<p>The designs that were used on clothing and
+household objects often had spiritual or sacred
+aspects that connected the creator or the
+user to tribal beliefs about the world. Plains
+Indian cosmologies were highly complex, and
+very simple abstract designs may have had
+multiple meanings. One common Northern
+Plains design was a circle composed of elongated
+triangles painted to look like feathers.
+The feathered circle represented both the sun
+and the eagle-feather headdress worn by a
+successful warrior.</p>
+
+<p>Colors were associated with directions, and
+directions were associated with sacred beings,
+whose behavior influenced humans. Using the
+right color could bring blessings from the
+spiritual beings. Many different Plains tribes
+believed that the thunderbird, often shown
+as a winged, hourglass-shaped figure, caused
+thunder by shaking its wings. If the bird appeared
+to a man in a vision or dream, the man
+could depict the being on a shield, and this
+would protect him and increase his chances of
+success in hunting and warfare.</p>
+
+<p>Native American art also differed from European
+art in its lack of concern with realism.
+Today, many people still think that an artist
+should be able to make a tree look just like a
+tree, but Plains Indians did not think that way.
+Because the designs often represented mystical
+or cosmological elements, realism was not
+a concern. Depicting a thunderbird as an
+hourglass had the same meaning as showing a
+bird with widespread wings. Nor was realism
+necessary to meet the needs of biographical
+art. A stick figure wearing a distinctive headdress
+or carrying a unique shield was immediately
+recognizable. Since realism was not a
+goal, European ideas of perspective and spatial
+ordering were not a part of Native American
+art. When a man painted his war exploits
+on his robe, he placed the scenes anywhere he
+thought they looked best, paying little attention
+to the shape of the robe or how the activities
+would be seen by others. Because
+Plains Indian art was so different from what
+people trained in the European tradition were
+used to, they considered the Indigenous art
+childlike or primitive and paid little attention
+to its meaning.</p>
+
+<p>Another characteristic of Plains Indian art
+was the fairly strict division between art made
+and used by men and art made and used
+by women. Although men and women sometimes
+cooperated, women usually painted or
+quilled very balanced, controlled geometric
+designs on dresses, moccasins, robes, bags,
+and containers. Men were responsible for the
+human and animal figures that appeared in
+the biographical or cosmological art, but
+women's art had sacred meanings too. Designs
+placed on women's clothes symbolized prayers
+for a long life and healthy children. Quillwork
+was considered a sacred art that a woman had
+to have the right to do, or disaster would result.
+Cheyenne and Lakota women gained the
+right to do quillwork by becoming members
+of societies in which the art was taught. A
+woman who excelled in quillwork or other
+women's arts was publicly honored in the
+same way as a successful warrior.</p>
+
+<p>The advent of glass beads and other new
+materials brought changes to the arts, but
+these were not as immediate or as far-reaching
+as one might think. Traditional ideas about art
+were maintained. Women skilled in sewing
+porcupine quills found that glass beads were
+not much different and continued to use the
+old designs. In the Southern Plains, where the
+porcupine was not found and quillwork had
+not been developed, the tribes made sparing
+use of beads and continued to color their
+clothes with yellow or green paint. In the Central
+and Northern Plains, however, tribes like
+the Lakotas and Assiniboines covered large
+portions of their garments with beaded designs
+reminiscent of quillwork. In painting,
+Indian men adopted the European idea of
+shading to make forms more realistic but did
+not use perspective or focal points in their
+work. In the middle to late nineteenth century
+men began to use paint, colored pencils, and
+crayons on paper to record scenes of tribal
+life. Called ledger paintings because many
+were done on the lined pages taken from account
+books, these works continued the traditions
+of earlier times and formed a link to
+modern Plains Indian painting.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.026">Native American Gender Roles</ref>.</p>
+
+
+<closer>
+<signed>Mary Jane Schneider<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berlo, Janet, ed. <title level="m">Plains Indian Drawings, 1865–1935: Pages from a Visual History</title>. New York: Harry N. Abrams, 1996.</bibl>
+<bibl>Berlo, Janet, and Ruth B. Phillips. <title level="m">Native North American Art</title>. New York: Oxford University Press, 1998.</bibl> <bibl>Keyser,
+James. "A Lexicon for Historic Plains Indian Rock Art:
+Increasing Interpretive Potential." <title level="j">Plains Anthropologist</title> 32
+(1987): 43–71.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

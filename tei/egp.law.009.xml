@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brewer, David (1837-1910)</title>
+<title level="m" type="sub"></title>
+<author>Harold S. Herd</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Herd, Harold S.">Harold S. Herd</author>. <title level="a">"Brewer, David (1837-1910)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">447-448</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BREWER, DAVID (1837-1910)</head>
+
+<p>David J. Brewer was born in Smyrna, Asia
+Minor, on June 20, 1837, the fourth child of
+Josiah and Amelia Brewer. Josiah was a Congregational
+missionary; Amelia was from the
+Field family of Massachusetts, one of the nation's
+prominent legal families. At the age
+of fourteen David entered Wesleyan College,
+then transferred to Yale after two years. He
+graduated fourth in his class in 1856. His focus
+was on becoming a lawyer, which led him to
+his uncle David's office in Albany, where he
+read law for a year. He then enrolled in Albany
+Law School and graduated in February 1858.</p>
+
+<p>During law school, David Brewer became
+sympathetic to the abolitionist cause and opposed
+to the Kansas-Nebraska Act. The Dred
+Scott decision added to his frustration. He decided
+to forgo the security of his uncle's law
+office and seek his destiny at the focal point
+of the free-state/slavery conflict&#8211;Kansas Territory.
+He chose the thriving frontier town
+of Leavenworth as the place to practice law.
+Brewer's judicial career commenced with his
+election to probate judge in 1862. After two
+years in that office, he was elected district
+judge of Leavenworth and Wyandotte Counties.
+He took a two-year break from the judiciary
+in 1868 to be the county prosecutor, then
+was elected justice of the Kansas Supreme
+Court in 1870, serving until 1884. Justice
+Brewer wrote opinions on fraudulent county
+elections; fraudulent bonds in Comanche
+County issued before it was populated; bond
+issues for building railroads; railroad regulation;
+and the criminal conviction of a cattle
+rustler captured by Bat Masterson, sheriff at
+Dodge City. In a child custody case he established
+the precedent that the welfare of the
+child was controlling. He also fostered woman's
+rights by ordering that a woman could
+hold an elective office even though she could
+not vote.</p>
+
+<p>David Brewer's work in courts and in the
+communities of Kansas brought him such favorable
+attention that in 1884 President Chester
+A. Arthur appointed him federal circuit
+court judge for the eighth circuit, comprising
+the states of Nebraska, Minnesota, Iowa,
+Missouri, Kansas, Colorado, and Arkansas.
+He served there until 1889. As circuit judge,
+Brewer handled a variety of cases. His most
+controversial decisions were the Wabash Railroad
+receivership and the injunctions he issued
+against labor unions. His most high-profile
+decisions were the Maxwell Land Company
+cases in New Mexico and Colorado.</p>
+
+<p>When Justice Stanley Matthews of the U.S.
+Supreme Court died in 1889, President Benjamin
+Harrison appointed Brewer to the vacancy.
+He served on the Supreme Court until
+1910, writing 533 majority opinions and 57 dissents
+and concurring in 8 cases. One of his
+most important decisions was in the Plains
+case <hi rend="italic">Kansas v. Colorado</hi> (1904), the beginning
+of a continuing dispute over Arkansas River
+water. Here Brewer established some interstate
+common law in prescribing an equitable
+apportionment of benefits.</p>
+
+<p>As a noted public speaker in great demand
+across the country, Justice Brewer was an outspoken
+advocate for peace. He made exceptions
+for the Civil War and Spanish-American
+War on the grounds they were for the noble
+causes of freeing the slaves and Cubans. He
+gave unselfishly of his time and dedicated his
+life to his beliefs. He was complex and sometimes
+paradoxical, but his faith in the individual
+was consistent. He thought the true end of
+government was the protection of the individual,
+since the majority has the power to take
+care of itself. He died on March 27, 1910, and
+was buried in Mount Muncie Cemetery, Leavenworth,
+Kansas.</p>
+
+<closer>
+<signed>Harold S. Herd<lb/>
+Washburn University School of Law</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Broadhead, Michael J. <title level="m">David J. Brewer: The Life of a Supreme Court Justice, 1837–1910</title>. Carbondale: Southern Illinois
+University Press, 1994.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

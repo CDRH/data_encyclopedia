@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Strong, Anna Louise (1885-1970)</title>
+<title level="m" type="sub"></title>
+<author>Molly Spitzer Frost</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Frost, Molly Spitzer">Molly Spitzer Frost</author>. <title level="a">"Strong, Anna Louise (1885-1970)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">723-724</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STRONG, ANNA LOUISE (1885-1970)</head>
+
+<p>Anna Louise Strong was a foreign correspondent
+and social activist whose midwestern
+idealism and pioneering spirit led her to extended
+stays in Russia and China. Although
+never a member of the Communist Party, she
+sympathized with the Communist cause and
+wrote of its struggles with a vibrant naivete,
+believing that a new era of human progress
+had arrived.</p>
+
+<p>Anna Louise Strong was born on November
+25, 1885, in a two-room parsonage in
+Friend, Nebraska, where her father, Sydney
+Strong, was a Congregational minister who
+was deeply involved in progressive movements.
+When she was not yet two, family lore
+relates, a late summer cyclone lifted her from
+the front yard and deposited her, relatively unscathed,
+in the cow pasture some distance
+away&#8211;an archetypal Plains experience.</p>
+
+<p>Sydney Strong's ministry took the family to
+various midwestern locations such as Cincinnati,
+Ohio, and Oak Park, Illinois. A diligent
+and precocious student, Anna finished high
+school at fifteen, graduated from Oberlin College
+summa cum laude, and became, at age
+twenty-three, the youngest woman to receive a
+doctorate from the University of Chicago.</p>
+
+<p>In Kansas City in 1911, Strong was director
+of the Child Welfare Exhibit Program, an organization
+dedicated to improving the wellbeing
+of urban children. It was there that she
+embraced socialism and decided to devote her
+life to progressive social causes. In 1919, as editor
+of the <title level="j">Seattle Union Record</title>, she played an
+important role in the Seattle General Strike. In
+1921 she traveled to the new Soviet Union,
+which became her principal home until 1949,
+when she was expelled by Stalin as a suspected
+spy. During this time she made yearly trips
+and lecture tours back to the United States,
+while also covering revolutionary developments
+in China, Mexico, and Spain. Shunned
+by both the American right and left and labeled
+a Soviet spy during the McCarthy era,
+she lived and wrote in California until she decided
+to take up residence in China in 1958.</p>
+
+<p>Strong was warmly received by the Chinese
+Communist leaders, who saw her as a valuable
+propaganda mouthpiece they could use in
+their dealings with the West. She had interviewed
+Mao Tse-tung in 1946 at the Communist
+headquarters in Yenan, where he first used
+the term "paper tiger" to refer to Western imperialists.
+Her death in Beijing in March 1970
+was an occasion for public mourning and a
+state funeral. She is buried in the Revolutionary
+Martyrs' Cemetery in Beijing.</p>
+
+<closer>
+<signed>Molly Spitzer Frost<lb/>
+George Washington University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Strong, Anna Louise. <title level="m">China's Millions</title>. New York: Coward-McCann,
+1928.</bibl> <bibl>Strong, Anna Louise. <title level="m">I Change Worlds</title>. New
+York: Holt, Rinehart and Winston, 1935.</bibl> <bibl>Strong, Tracy, and
+Helene Keyssar. <title level="m">Right in Her Soul: The Life of Anna Louise
+Strong</title>. New York: Random House, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

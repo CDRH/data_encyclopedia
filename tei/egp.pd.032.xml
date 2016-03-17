@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lease, Mary Elizabeth (1853-1933)</title>
+<title level="m" type="sub"></title>
+<author>Rebecca Edwards</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Edwards, Rebecca">Rebecca Edwards</author>. <title level="a">"Lease, Mary Elizabeth (1853-1933)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">716</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LEASE, MARY ELIZABETH (1853-1933)</head>
+
+<p>In the heyday of the Populist Party, 1890–96,
+Mary Lease was one of the most prominent
+women in America, celebrated as the "Kansas
+Joan of Arc." She was born on September 11,
+1853, in Ridgway, Pennsylvania, the daughter of
+Irish immigrants. Her father died as a Union
+prisoner of war, a calamity that plunged the
+family into poverty. In 1870 his widow sent
+twenty-year-old Mary to teach at Osage Mission,
+Kansas, where she married local pharmacist
+Charles Lease in 1873. The couple lost
+everything in the Panic of 1873 and moved to
+Denison, Texas. While her husband shifted
+from job to job, Lease took in washing and
+bore six children, two of whom died in infancy.
+She also joined the temperance movement and
+discovered her talent as an orator.</p>
+
+<p>In the 1880s the family moved to Wichita,
+where Lease became a Knights of Labor organizer
+and women's suffrage advocate, as well
+as one of the first women to pass the Kansas
+bar. When the Populist Party formed in 1890,
+it seemed poised to address a broad range of
+Lease's concerns, and she plunged into the
+campaign. Her speeches were famously fiery,
+though she did not&#8211;as myth has it&#8211;urge
+farmers to "raise less corn and more hell."</p>
+
+<p>Lease's agenda did not match those of many
+other Populist leaders. Denouncing those who
+cooperated with Democrats, she also offended
+anti-imperialists with her 1895 book, <title level="m">The
+Problem of Civilization Solved</title>, advocating U.S.
+colonization of Latin America. In 1896 Lease
+declared herself a socialist but stumped reluctantly
+for William Jennings Bryan. After Bryan's
+defeat, Lease divorced her husband and
+moved with her children to New York, where
+she worked as a lawyer and lecturer until her
+death on October 30, 1933.</p>
+
+<p>Though Lease repudiated the Populists, she
+left an enduring legacy from her years in the
+Plains. According to reports from an 1890
+convention, it was she who gave the People's
+Party its name. She inspired novelist Hamlin
+Garland to fictionalize her in <title level="m">A Spoil of Office</title>
+(1893). The first woman to be appointed a
+state superintendent of charities (by a Populist
+governor in Kansas), she blended with passion
+the advocacy of women's rights, overseas expansion,
+and domestic economic reform.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.063">Populists (People's Party)</ref>.</p>
+
+<closer>
+<signed>Rebecca Edwards<lb/>
+Vassar College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blumberg, Dorothy Rose. "Mary Elizabeth Lease, Populist
+Orator: A Profile." <title level="j">Kansas History</title> 1 (1978): 3-15.</bibl> <bibl>Clanton,
+O. Gene. "Intolerant Populist? The Disaffection of Mary
+Elizabeth Lease." <title level="j">Kansas Historical Quarterly</title> 34 (1968):
+189-200.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Field Matrons</title>
+<title level="m" type="sub"></title>
+<author>Lisa E. Emmerich</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Emmerich, Lisa E.">Lisa E. Emmerich</author>. <title level="a">"Field Matrons."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">328-329</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FIELD MATRONS</head>
+
+<p>Field matrons worked for the U.S. Bureau of
+Indian Affairs (<hi rend="smallcaps">BIA</hi>) between 1890 and 1938
+in a campaign designed to introduce Native
+American women to Victorian, middle-class
+culture. Like the destruction of the collective
+land base by allotment, the disruption of families
+by the removal of children to Indian
+schools, and the steady diminution of sovereignty
+by federal encroachments, the domestic
+education of Native American women became,
+in the hands of the field matrons, yet
+another tool to destroy tribalism. Convinced
+that it was possible to "kill the Indian and save
+the woman [<hi rend="italic">sic</hi>]," the bia looked to the field
+matrons to promote assimilation in reservation
+communities across the American West.</p>
+
+<p>By the last decades of the nineteenth century,
+Canadian and American policymakers
+and reform advocates active in Indian affairs
+agreed that wholesale "civilization" was the
+only way to ensure the survival of those remaining
+Native populations located in the
+western provinces and states. Only in the
+United States, though, did a woman-specific
+assimilation strategy develop. To teach Indian
+women "to respect and love and seek the ways
+of White women," the <hi rend="smallcaps">BIA</hi> worked with members
+of Congress, reformers, and missionary
+activists to create the field matron program.</p>
+
+<p>Sent into the field in 1890, the field matrons
+eventually worked in nearly every tribal community
+in the Great Plains, as well as across
+the West. Those women first employed by the
+bia in the late nineteenth century exemplified
+the era's "certified civilizers." Caucasian, middle
+class, and single, they were imbued with
+Christian missionary spirit. As field matrons
+they spread among the Indians the American
+gospel of cleanliness, godliness, corsets, femininity,
+homebound domesticity, and woman's
+proper sphere. In the early twentieth century, however, the composition of the group
+changed. The American women becoming
+field matrons after 1900 coupled their reformist
+ambition to "do good" with their personal
+desire to "do well" financially as <hi rend="smallcaps">BIA</hi> employees.
+From the end of World War I until
+1938, women motivated by economic gain
+rather than rescue dominated the field matron
+corps.</p>
+
+<p>While the bia heartily encouraged Native
+women to become advocates for assimilation
+in their homes and communities, it only reluctantly
+included them as full partners in
+the field matron program. The same ethnocentrism
+that skewed American and Canadian
+perspectives on Indian traditionalism resulted
+in restrictions on the employment of "civilized"
+tribal women. The <hi rend="smallcaps">BIA</hi> rarely accepted
+Native adoptions of the "American way" as
+trustworthy because, at base, it was deeply
+suspicious of the very process of cultural
+change it hoped to promote. The agency restricted
+tribal women to the position of assistant
+field matron and only appointed them
+between 1895 and 1905. Most of these women
+served in tribal communities located in the
+Great Plains.</p>
+
+<p>The decision to phase out the field matron
+program in the 1930s reflected both the waning
+significance of Victorian domesticity and the
+desperate need in reservation communities for
+medical expertise. Appalling public health
+conditions plagued Native Americans in both
+the United States and Canada during the late
+nineteenth and early twentieth centuries. In
+the United States, tuberculosis and trachoma
+ran rampant; infant and child morbidity and
+mortality robbed tribal communities of their
+future generations; and destitution revealed itself
+in malnutrition and hopelessness. Field
+matrons struggled to adapt their positions by
+teaching seminars on epidemic diseases and
+prenatal care instead of homemaking. Their
+efforts saved lives but also led the <hi rend="smallcaps">BIA</hi> to conclude
+that trained nurses were more valuable
+than assimilation advocates. After 1938 field
+nurses replaced field matrons as "civilization"
+took a backseat to Indian public health education
+and care in the United States.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: 
+<ref n="egp.na.008">Assimilation Policy</ref>.</p>
+
+<closer>
+<signed>Lisa E. Emmerich<lb/>
+California State University, Chico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bannan, Helen M. "'True Womanhood on the Reservation':
+Field Matrons in the United States Indian Service."
+<title><hi rend="smallcaps">SIROW</hi></title> Working Paper No. 19. Tucson: University of Arizona,
+1984.</bibl> <bibl>Emmerich, Lisa E. "'Right in the Midst of My
+Own People': Native American Women and the Field Matron
+Program." <title level="j">American Indian Quarterly</title> 15 (1990): 201-
+16.</bibl> <bibl>Emmerich, Lisa E. "'To Respect and Love and Seek the
+Ways of White Women': Field Matrons, the Office of Indian
+Affairs, and Civilization Policy, 1890-1938," Ph.D.
+diss., University of Maryland, 1987.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

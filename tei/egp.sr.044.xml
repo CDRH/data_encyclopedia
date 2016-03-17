@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Riding Around</title>
+<title level="m" type="sub"></title>
+<author>Pamela H. Brink</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brink, Pamela H.">Brink, Pamela H.</author>. <title level="a">"Riding Around."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">784</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIDING AROUND</head>
+
+<p>Riding around is a time-honored rural recreation
+in the Great Plains. When evening
+comes, families like to pile in the car and take a
+leisurely drive down familiar country roads to
+shake off the cares of the day. A multigenerational
+activity lasting about an hour at a time,
+riding around, in its purest form, has no particular
+destination or set purpose. It is primarily
+a way for families and sometimes close
+friends to enjoy each other's company and the
+countryside they know and love. It is also a
+tried-and-true technique for putting babies to
+sleep and a traditional time for humming or
+singing favorite old songs.</p>
+
+<p>Riding around is a simple celebration of
+loved ones, the landscape, and the seasons. In
+the summer, when a high evening wind comes
+up to blow away the heat of the day, riding
+around might easily include appreciative observations
+of a corn, grain sorghum, or sunflower
+crop nearing harvest, the aroma of alfalfa
+in bloom, or the slow meander of a hawk
+also making evening rounds. Autumn weather
+is a natural enticement for outings that can't
+help but include cottonwood groves and a maple
+tree or two decked out for the season.
+Winter and spring are traditional wheat times,
+when every inch of growth in the crop draws
+attention, admiration, and sometimes great
+worry.</p>
+
+<p>Riding around is not always an evening activity.
+Some families and friends like to take a
+drive in the very early morning or after church
+on Sunday. However, evening is the preferred
+time. It seems that nothing else inspires Plains
+people quite so consistently as a sunset sweeping
+the sky, and taking to the country roads is
+one of the most satisfying ways to experience
+the drama of a Great Plains sunset. Taking to
+the country roads is also one of the most satisfying
+ways to participate in the unencumbered
+landscape of the region and enjoy the spirit of
+freedom it engenders. Since the introduction
+of the automobile, riding around has been a
+distinctive Plains tradition. It remains today
+the same undemanding, meditative recreation
+rooted in a rural lifestyle that keeps people
+close to each other and close to the land.</p>
+
+<closer>
+<signed>Pamela H. Brink<lb/>
+Associated Authors and Editors, Inc.</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

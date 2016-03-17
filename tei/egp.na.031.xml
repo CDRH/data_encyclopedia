@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gros Ventres</title>
+<title level="m" type="sub"></title>
+<author>Walter C. Fleming</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fleming, Walter C.">Walter C. Fleming</author>. <title level="a">"Gros Ventres."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">572-573</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GROS VENTRES</head>
+
+<p>The Gros Ventres are an Algonquian-speaking
+people from the area of the Great Plains between
+the Missouri River, Montana, and the
+Saskatchewan River in the Canadian Prairies.
+Their own name is <hi rend="italic">A'aninin</hi> or <hi rend="italic">A'ani</hi>, meaning
+"Clay People," derived from their belief
+that they were made from white clay found on
+the river bottoms.</p>
+
+<p>The Gros Ventres are among the least known
+tribes of the Northern Plains, partly the consequence
+of mistaken identity. The name Gros
+Ventre ("Big Belly" in French) is a misnomer
+that originated from a mistranslation of the
+gesture for the A'aninin in the Plains sign language.
+The Crees referred to the Gros Ventres
+as the Water Falls People, Falls Indians, or
+Rapid Indians because the tribe occupied territory
+inclusive of the southern branch of the
+Saskatchewan River, where rapids are frequent.
+The sign for them was the passing of the
+hands over the body like water falling. This
+was mistranslated as a sign representing a large
+stomach, and hence they became known as the
+Big Bellies, or Gros Ventres. Adding to the confusion,
+the Gros Ventres are also known as the
+"Atsinas" in some ethnological sources, a
+Blackfoot word meaning "Belly People." To
+distinguish them from the Hidatsas, also
+known as the Gros Ventres, sometimes they
+were called the "Gros Ventre of the Prairies."</p>
+
+<p>Earliest mention of the Gros Ventres places
+them in the region of the Saskatchewan River
+in the eighteenth century, far removed from
+their kindred, the Arapahos. When and where
+these two tribes split is not known. Trappers
+and traders of the Hudson's Bay Company
+and the North West Company located the
+Gros Ventres on the South Saskatchewan
+River between 1775 and 1790. As the Gros Ventres
+ventured farther west and south, they
+quickly adopted the lifestyle of the Northern
+Plains. They became mobile and followed the
+buffalo herds for their primary source of food
+and clothing. They lived in easily moved tipis
+and excelled at the elaborate and beautiful
+beadwork and quillwork of that region.</p>
+
+<p>Like other Plains tribes, the Gros Ventres'
+spiritual practices were rich and complex.
+Their principal tribal ceremony was the Sun
+Dance, or "Sacrifice Dance." Their major religious
+possessions were sacred pipes. The
+Gros Ventres once possessed ten such pipes,
+but now have only two; the Flat Pipe and the
+Chief Medicine Pipe, or Feathered Pipe, are
+revered as a direct link to the supernatural.
+Each spring, the two medicine pipes are used
+to secure blessings from the One Above.</p>
+
+<p>During the early part of the nineteenth century,
+the Gros Ventres were driven farther
+south to the Missouri River country by the
+Crees and Assiniboines. In the 1820s one band
+of the Gros Ventres joined the Arapahos in the
+Cimarron Valley, in the present-day Oklahoma
+Panhandle. The Gros Ventres band remained
+there for five years before traveling
+back north in 1833.</p>
+
+<p>The reunited Gros Ventres took up a precarious
+position on the Northern Plains, settling
+in an area between the Blackfoot to the
+west, the Assiniboines to the east, and the
+Crows toward the south. Smallpox epidemics
+had struck the tribe in 1781, 1801, and 1829, significantly
+reducing their numbers. The great
+smallpox epidemic of 1837–38 devastated the
+Blackfoot and the Assiniboines but left the
+Gros Ventres and the Crows comparatively
+undisturbed. The Crows proved an enduring
+enemy, and warfare continued between the
+two tribes even into the reservation period.</p>
+
+<p>Unlike many other Northern Plains tribes,
+the Gros Ventres generally remained on good
+terms with non-Indians. They patronized the
+American traders at Fort McKenzie and were
+considered among the more receptive tribes in
+the region. Jesuit missionaries, including Father
+Pierre-Jean De Smet and Father Nicolas
+Point, made sporadic visits to the Gros Ventres
+and found them generally amicable but
+resistant to Christianization. Isaac Stephens,
+governor of Washington Territory, held council
+with the Gros Ventres, as part of the Blackfoot
+nation, in 1855, out of which came a treaty
+formalizing relations between the tribe and
+the United States and pressing for intertribal
+peace on the Northern Plains.</p>
+
+<p>Gold was discovered in what is now Montana
+in 1862, bringing more and more non-
+Indians through the hunting territories that
+supported the Blackfeet, Assiniboines, Crows,
+and Gros Ventres. The completion of the
+Union Pacific Railroad in 1869, and the Northern
+Pacific Railroad in 1883, brought increasing
+numbers of settlers and made the region less
+remote. The impact of such rapid settlement
+greatly reduced the game herds, particularly
+the bison, already dwindling in numbers. The
+last of the buffalo herds had disappeared from
+the Northern Plains by the time the Gros Ventres
+were confined to the Fort Belknap Reservation
+in north-central Montana in 1888. At
+that time, their population stood at 964, and
+their tribal numbers fell to a low of 576 in 1900.</p>
+
+<p>In 1935 the tribe reorganized its government,
+the Fort Belknap Indian Community
+Council, under the terms of the Wheeler-
+Howard Act (Indian Reorganization Act). In
+the twentieth century the tribe petitioned the
+U.S. government for compensation for questionable
+land transfers in the nineteenth century
+and battled with mining corporations in
+an effort to maintain its land base and protect
+the environment. Despite sharing the Fort
+Belknap Reservation with the Assiniboines,
+the Gros Ventres have worked to maintain a
+distinct culture. There are now few fluent
+Gros Ventre speakers; however a vigorous
+program to teach the language begins in primary
+school and culminates in classes at a local
+community college. Their economy is agriculturally
+based, but the federal and tribal
+governments remain the primary employers,
+and unemployment remains high. In 2000 the
+Gros Ventres numbered some 3,000 members,
+the majority living on the 652,593-acre Fort
+Belknap Reservation.</p>
+
+<closer>
+<signed>Walter C. Fleming<lb/>
+Montana State University-Bozeman</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bryan, William L., Jr. <title level="m">Montana's Indians: Yesterday and
+Today</title>. Helena <hi rend="smallcaps">MT</hi>: American and World Geographic Publishing,
+1996.</bibl> <bibl>Flannery, Regina. <title level="m">The Gros Ventre of Montana:
+Part I, Social Life</title>. Washington <hi rend="smallcaps">DC</hi>: Catholic University
+of America Press, 1953.</bibl> <bibl>Horse Capture, George, ed. <title level="m">The
+Seven Visions of Bull Lodge</title>. Lincoln: University of Nebraska
+Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.041.01 SYSTEM "egp.art.041.01.jpg" NDATA jpeg>
+<!ENTITY egp.art.041.02 SYSTEM "egp.art.041.02.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kane, Paul (1810-1871)</title>
+<title level="m" type="sub"></title>
+<author>Louisa Iarocci</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lister, Kenneth R.">Kenneth R. Lister</author>. <title level="a">"Kane, Paul (1810-1871)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">123-124</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KANE, PAUL (1810–1871)</head>
+
+<figure n="egp.art.041.01" rend="granted">
+<figDesc>Paul Kane. Cree Indians Travelling. Plains Cree. North Saskatchewan River, 1848–1856. Oil, (912.1.49).</figDesc>
+</figure>
+
+<figure n="egp.art.041.02" rend="granted">
+<figDesc>Paul Kane. Cree Indians Travelling. Plains Cree. North Saskatchewan River, September 1846. Pencil on paper</figDesc>
+</figure>
+
+<p>Paul Kane is regarded as one of the founding
+fathers of Canadian art. Born at Mallow, Ireland,
+on September 3, 1810, he immigrated to
+Upper Canada with his family around 1819.
+He started his artistic career in the 1820s as a
+decorative furniture painter and later advertised
+as a coach, sign, and house painter. By
+the second half of the 1830s he was making his
+living as an itinerant portrait painter in a
+number of American cities, including Detroit,
+Michigan, and Mobile, Alabama. Kane traveled
+in Europe from 1841 through 1843 studying
+great art, a tour that was the fulfillment of
+a long-cherished dream. Following a brief return
+to portrait work in the United States,
+Kane arrived back in Canada in 1845 with a
+mission that would remain his passion for the
+remainder of his life.</p>
+
+<p>Between 1845 and 1848 Kane undertook two
+westward journeys from Toronto to sketch the
+western landscape and the manners and customs of the First Peoples. He returned to
+Toronto with more than 500 landscape and
+cultural heritage sketches and within one
+month opened an exhibition of 240 sketches.
+This display was Kane's first solo exhibition
+and one of the first public one-person exhibitions
+to be held in Canada. He received high
+praise in newspaper reviews, and the exhibition
+increased public appreciation for Canadian
+painting.</p>
+
+<p>Field sketches, however, were only the first
+step toward the fulfillment of Kane's vision.
+That vision was realized through the patronage
+of the Honorable George William Allan,
+barrister, senator, mayor of Toronto, and
+president of the Western Canada Savings and
+Loan Company who gave Kane the resources
+he needed to produce a cycle of 100 paintings
+to serve as his record of mid-nineteenth-century
+landscapes and Indigenous life.</p>
+
+<p>Kane's second journey, from 1846 to 1848,
+took him as far west as the Pacific Ocean. He
+spent thirteen months on the Plains sketching
+the Métis, Sioux, Crees, Assiniboines, and
+Blackfoot. More than 160 sketches executed in
+pencil, watercolor, and oil on paper represent
+invaluable documents of mid-nineteenthcentury
+Plains Indian culture and landscape.
+The sketches also inspired the oil paintings
+that he later executed in his Toronto studio,
+but these, rendered in the contemporary European
+romantic style, are considerably less
+important as historical records.</p>
+
+<p>In June 1846 Kane arrived at the Red River
+Settlement on the Red and the Assiniboine
+Rivers. Kane's sketch of the settlement represents
+a view from the bank of the Red River
+and depicts a number of significant landmarks,
+such as the St. Boniface Cathedral and
+Upper Fort Garry. The oil painting (1848–56)
+represents a similar scene, although the viewer
+has been securely placed back from the river.
+The cattle shed and log raft in the foreground
+and the distant buildings of settlement and
+commerce in the middle ground embody
+"progress" and a tamed landscape.</p>
+
+<p>The oil painting <title>Indian Summer on the Saskatchewan</title> (1848–56) exemplifies Kane's
+desire to represent the scenery of the Plains.
+The oil image is inspired by nature, and details
+are taken from field sketches; however,
+the balanced placement of the trees and valley
+banks, the easy slope into the distance, and the
+pervasive yellow glow endow the painting
+with a melancholy, retrospective cast characteristic
+of romantic artistic conventions.</p>
+
+<p>Kane's tendency to depict the romantic is
+likewise shown in the oil painting <title>Cree Indians Travelling</title> (1848–56). The 1846 sketch of the
+same title is the basis for the oil painting, although
+in the painting Kane made a number
+of changes to the overall composition. The
+vegetation and human activity in the foreground
+as well as the middle-ground break of
+color between the landscape and the sky are
+conventions in the picturesque style and illustrate
+Kane's subjective vision and his rendering
+of the imaginative truth.</p>
+
+<p>In his oil paintings, although they are informed
+by his sketches, Kane harmonized
+with expressions of current artistic conventions.
+In his field sketches, on the other hand,
+Kane left a record rich with depictions of
+Plains landscape and cultural history. The artist
+died in Toronto on February 20, 1871.</p>
+
+<closer>
+<signed>Kenneth R. Lister<lb/>
+Royal Ontario Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Harper, J. Russell. <title level="m">Paul Kane's Frontier</title>. Fort Worth: Amon
+Carter Museum of Western Art, 1971.</bibl> <bibl>Kane, Paul. <title level="m">Wanderings of an Artist among the Indians of North America</title>.
+Mineola <hi rend="smallcaps">NY</hi>: Dover, 1996.</bibl> <bibl>MacLaren, I. S. "Journal of Paul
+Kane's Western Travels." <title level="j">American Art Journal</title> 21 (1989):
+23–62.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

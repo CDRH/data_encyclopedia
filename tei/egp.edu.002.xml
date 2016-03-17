@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Abbot, Edith (1876-1957)</title>
+<title level="m" type="sub"></title>
+<author>John Sorensen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sorensen, John">John Sorensen</author>. <title level="a">"Abbot, Edith (1876-1957)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">198</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ABBOTT, EDITH (1876-1957)</head>
+
+<p>Edith Abbott was among the most important
+Americans who were involved in the establishment
+of social work as a profession&#8211;a profession
+akin to those of law, medicine, and
+theology, requiring not merely the "good intentions"
+of its practitioners but a scrupulous
+intellectual education and a rigorous practical
+training. As the first woman to become the
+dean of a major American university graduate
+school (University of Chicago, School of Social
+Service Administration), Abbott prepared
+several generations of social servants to assume
+what she called "the grave responsibility
+of interfering with the lives of human beings."</p>
+
+<p>Abbott was born in Grand Island, Nebraska,
+on September 26, 1876. She grew up
+in a family of social activists that included
+her younger sister (and lifelong professional
+colleague), Grace Abbott, the great American
+champion of children's rights. Edith and
+Grace Abbott were the daughters of Elizabeth
+Griffen, an early leader of the Nebraska suffrage
+movement, and of O. A. Abbott, a pioneer
+lawyer who was the first lieutenant governor
+of Nebraska. Describing the sisters'
+unusual upbringing amid family guests such
+as Susan B. Anthony and Lucy Stone, Edith
+Abbott later said, "We were brought up to
+stand by our guns, popular or not&#8211;and if unpopular,
+so much the better!"</p>
+
+<p>In 1906 Edith Abbott, having earned a doctorate
+in economics at the University of Chicago,
+was awarded a trip to England, where
+she lived in a settlement house and came into
+contact with the famed socialists Beatrice and
+Sidney Webb of the Fabian Society. Abbott's
+successful studies in London led to a teaching
+post at Wellesley College in Massachusetts
+and, soon thereafter, the opportunity to return
+to Chicago to become a resident of Jane
+Addams's Hull House.</p>
+
+<p>Edith Abbott's first book, the influential
+<hi rend="italic">Women in Industry</hi>, was published in 1910. It
+was at about this same time that she joined the
+faculty of the Chicago School of Civics and
+Philanthropy. She was a key figure in the 1920
+effort to move this institution of social work
+training to the University of Chicago, where
+it was renamed the School of Social Service
+Administration (<hi rend="smallcaps">SSA</hi>). Abbott thereafter
+led the ssa to become one of the first programs
+of social work&#8211;perhaps the very first&#8211;
+at a great American university. She became
+dean of the school in 1924.</p>
+
+<p>For many years, through the Great Depression,
+Edith Abbott worked closely with
+her sister, Grace (then the highest-ranking
+woman in the federal government), to combat
+a wide array of social ills. It was through their
+joint efforts that many early forms of social
+welfare, some of which have been credited
+with leading to the New Deal programs that
+helped end the Great Depression, were begun.
+The Abbott sisters formed a complementary
+team, with each providing an invaluable and
+unique service. As Edith Abbott put it, "I
+could assemble the facts and write a report,
+but Grace had the gift of applying the proper
+legislative remedy."</p>
+
+<p>Edith Abbott continued to publish important
+books on immigration, the tenements of
+Chicago, American pioneers in social welfare,
+and the philosophy of social welfare education.
+She was the cofounder in 1927 of the
+publication <hi rend="italic">Social Service Review</hi> and was also
+its longtime editor; she was named president
+of the American Association of Schools of Social
+Work from 1925 to 1927; she was appointed
+to the Wickersham Commission (the
+National Committee on Law Enforcement
+and Observance) in the late 1920s; and she was
+the president of the National Conference of
+Social Work in 1937.</p>
+
+<p>In 1942 Abbott retired from her position as
+dean of the ssa. She served as dean emeritus
+and continued teaching until 1952, when she
+returned to her hometown, where she died on
+July 29, 1957.</p>
+
+<p>At the time of Edith Abbott's death, Wayne
+McMillen of <hi rend="italic">Social Service Review</hi> wrote,
+"History will include her name among the
+handful of leaders who have made enduring
+contributions to the field of education. Social
+work has now taken its place as an established
+profession. She more than any other one person
+gave direction to the education required
+for that profession. Posterity will not forget
+achievements such as these."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.002">Abbott, Grace</ref>.</p>
+
+<closer>
+<signed>John Sorensen<lb/>
+New York, New York</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Papers of Grace and Edith Abbott, Regenstein Library,
+University of Chicago. Costin, Lela. <hi rend="italic">Two Sisters for Social
+Justice: A Biography of Grace and Edith Abbott</hi>. Urbana:
+University of Illinois Press, 1983.</bibl> <bibl>Sorensen, John. "My Sister
+and Comrade: A Radio Portrait of Grace Abbott." Nebraska
+Public Radio, Lincoln, 1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

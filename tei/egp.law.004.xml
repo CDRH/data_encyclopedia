@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Anti-Corporate Farming Laws</title>
+<title level="m" type="sub"></title>
+<author>Nancy L. Thompson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thompson, Nancy L.">Nancy L. Thompson</author>. <title level="a">"Anti-Corporate Farming Laws."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">445-446</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ANTI-CORPORATE FARMING LAWS</head>
+
+<p>Corporate farming has long been considered
+by some to be an economic, environmental,
+and social threat to family farmers. Advocates
+of diversified, family-owned and -operated
+farms point to fifty years of research that indicates
+that corporate agriculture leads to
+negative conditions in rural communities, including
+population decline, lower per capita
+income, fewer community services, and environmental
+pollution. During the 1930s, one
+response to the growth of large corporate
+farms in the Great Plains was the adoption of
+laws prohibiting corporations from owning
+farmland or participating in farming activities.
+The first such law was adopted in Kansas
+in 1931, followed shortly thereafter by one enacted
+in North Dakota in 1932.</p>
+
+<p>In the 1970s other anti.corporate farming
+laws were adopted in Iowa, Minnesota, Missouri,
+Oklahoma, South Dakota, and Wisconsin.
+When Kansas and North Dakota enacted
+amendments to their anti-corporate farming
+statutes in 1981, the laws in all eight states became
+similar in content and form. Beginning
+in the mid-1970s, several attempts were made
+in the Nebraska legislature to pass an anti-
+corporate farming statute, but the efforts
+failed. As a result, a citizen petition was begun,
+and in November 1982 Nebraska became the
+first state to have its anti-corporate farming
+law placed in the constitution by citizens
+rather than adopted through statute by a legislature.
+In 1998 the citizens of South Dakota
+also amended their constitution through the
+petition process with an anti-corporate farming
+law patterned after Nebraska's.</p>
+
+<p>While the anti-corporate farming laws in all
+nine states contain similar language and a variety
+of exemptions allowing certain corporations
+to engage in farming or to own farmland,
+the laws also differ considerably. For instance,
+the definition of a family farm corporation,
+whether the law allows so-called authorized
+farm corporations, and whether the law prohibits
+the ownership of livestock as well as
+farmland are all key issues in interpreting these
+laws. For instance, in Iowa there are few restrictions
+on who may qualify as a family farm
+corporation other than a requirement that 60
+percent of the corporation's income must
+come from farming. But in Nebraska and
+South Dakota, one of the family members
+must either reside on the farm or be actively
+engaged in the day-to-day labor and management
+of the farm in order to qualify for an
+exemption.</p>
+
+<p>Debate over the effectiveness and wisdom
+of anti-corporate farming laws has intensified
+in recent years as agriculture has become
+more specialized and concentrated, especially
+in livestock production. Opponents
+of anti-corporate farming laws claim the laws
+limit competition. Proponents of strong anti.
+corporate farming laws, however, argue that
+the tax advantages and limited liability available
+to corporations give them an unfair advantage
+over individual farmers. Family farm
+advocates contrast the growth of large, corporately
+owned operations in states without
+anti-corporate farming laws with the relative
+health of family farming in states such as Nebraska
+that have tough restrictions on corporate
+farms.</p>
+
+<p>Controversy over anti–corporate farming
+laws is expected to persist as the structure of
+agriculture continues to impact the well-being
+of rural communities throughout the Great
+Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.023">Corporate Farming</ref>.</p>
+
+<closer>
+<signed>Nancy L. Thompson<lb/>
+South Sioux City, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Pedersen, Donald B., and Keith G. Meyer. <title level="m">Agricultural Law in a Nutshell</title>. St. Paul <hi rend="smallcaps">MN</hi>: West Publishing, 1995.</bibl>
+<bibl>Stayton, Brian F. "A Legislative Experiment in Rural Culture:
+The Anti-Corporate Farming Statutes." <hi rend="smallcaps">UMKC</hi> <title level="m">Law Review</title> 59 (1991): 679-93.</bibl> <bibl>Thompson, Nancy L. <title level="m">Raising Hogs in Nebraska Legally: A Farmer's Guide to Pork Production under Initiative 300</title>. Walthill <hi rend="smallcaps">NE</hi>: Center for Rural
+Affairs, 1998.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

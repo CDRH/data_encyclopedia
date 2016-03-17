@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Unitarianism</title>
+<title level="m" type="sub"></title>
+<author>Phillip Hewett</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hewett, Phillip">Phillip Hewett</author>. <title level="a">"Unitarianism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">758-759</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UNITARIANISM</head>
+
+<p>The Unitarian movement originated in
+sixteenth-century Europe among radical Christians
+who affirmed the undivided unity of
+God and promoted a form of religion in
+which human unity would be based upon individual
+freedom and reliance upon reason
+and conscience. In New England the movement
+emerged early in the nineteenth century,
+but it was slow in spreading westward, being
+predominant among the middle class and well
+educated, and therefore ill adapted to frontier
+conditions. The same was not true of a parallel
+movement, the Universalists, but by the time
+they reached the Great Plains in the 1860s,
+they had already lost much of their momentum.
+In 1961 the Unitarians and Universalists
+merged to form the Unitarian Universalist Association,
+though most individual congregations
+retained their single name.</p>
+
+<p>Early Unitarian attempts at extension into
+the Great Plains bore fruit only in the major
+cities, all of which had congregations by the
+end of the nineteenth century. The first was at
+Omaha in 1869; the largest, that in Tulsa, was
+exceptional in not having been founded until
+1921. Fellowships that now exist in smaller
+communities have all been established or reestablished
+since 1950. The congregation in
+Sioux Falls may serve as an example. It mushroomed
+in 1887, erecting a fine stone church,
+but was forced by the economic depression to
+disband ten years later, bequeathing its building
+to the city as a public library. The present
+congregation dates from 1961. The inclusion
+of both Unitarians and Universalists in the
+original Sioux Falls congregation was typical
+for the Great Plains but unusual elsewhere. So
+also was the fact that it was founded and led
+by women ministers at a time when these constituted
+no more than a tiny fraction of the
+active ministry in either denomination as
+a whole.</p>
+
+<p>A third characteristic shared by all congregations
+in the Plains was that they were
+from the outset much more theologically radical
+than their coreligionists on the East Coast,
+who continued to maintain a more or less exclusively
+Christian emphasis. Thus, the new
+"Bond of Union" adopted by the Omaha congregation
+in 1890 simply affirmed moral and
+religious purpose rather than making any specific
+statement of belief. Such openness paved
+the way for the strong emergence of nontheistic
+humanism in the congregations of the
+Great Plains during the twentieth century.</p>
+
+<p>Unitarians have typically worked in projects
+for the betterment of the entire community.
+An outstanding leader in this field was
+Arthur L. Westerly, a minister in Lincoln, Nebraska
+(1908–19 and 1929–42), who was active
+in a wide variety of civic projects and social
+reforms. The Joslyn family in Omaha likewise
+contributed heavily to the artistic and musical
+life of the community.</p>
+
+<p>The congregations have been composed
+chiefly of persons coming from other parts of
+North America rather than from overseas.
+The only exceptions were small-scale movements
+among Scandinavian immigrants and a
+much more substantial one among the Icelanders
+who settled in North Dakota and the
+Prairie Provinces of Canada. The Icelandic
+Unitarian Church in Winnipeg was founded
+in 1891, and until the 1920s most Unitarians in
+Manitoba and Saskatchewan attended services
+conducted in Icelandic.</p>
+
+<p>Unitarians have been large in influence but
+not in numbers, and this has been markedly
+true in the Great Plains. Figures from 1998
+show between 8,000 and 9,000 congregational
+members, of whom about 750 are in Canada.</p>
+
+<closer>
+<signed>Philip Hewett<lb/>
+Unitarian Church of Vancouver, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gudmundson, V. Emil. <title level="m">The Icelandic Unitarian Connection</title>.
+Winnipeg: Wheatfield Press, 1984.</bibl> <bibl>Lyttle, Charles H.
+<title level="m">Freedom Moves West</title>. Boston: Beacon Press, 1952.</bibl> <bibl>Tucker,
+Cynthia Grant. <title level="m">Prophetic Sisterhood</title>. Boston: Beacon Press,
+1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

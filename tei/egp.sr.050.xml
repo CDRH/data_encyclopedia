@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sport Hunting</title>
+<title level="m" type="sub"></title>
+<author>J. Scott Taylor</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Taylor, J. Scott">J. Scott Taylor</author>. <title level="a">"Sport Hunting."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">786-787</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SPORT HUNTING</head>
+
+<p>Although the cultural influence of hunting today
+bears little resemblance to that experienced
+by Native Americans prior to European
+American settlement, the human desire to
+hunt still dictates the seasonal activities of millions
+of Great Plains inhabitants. These outings
+not only affect hunters personally but also
+generate revenue for rural economies and political
+momentum for wildlife conservation.</p>
+
+<p>As elsewhere, hunting in the Great Plains is
+shaped by the diversity of game species present.
+Owing to the region's paucity of exclusive
+endemic bird and mammal species (i.e., those
+found in the region and nowhere else), only
+greater and lesser prairie chickens are hunted
+exclusively in the Great Plains. However, because
+the Plains encompass a zone where both
+eastern and western species intermingle, the
+region boasts perhaps the richest array of
+game animals and hunting opportunities in
+North America. Primary large game mammals
+include white-tailed deer, mule deer, and
+pronghorn antelope, with elk, moose, and
+bighorn sheep occurring mainly in the montane
+western or wooded northern peripheries
+of the region. Furbearers such as coyote and
+raccoon and small mammals such as cottontails
+and fox squirrel are also widely hunted.
+Primary game birds include ring-necked
+pheasant, northern bobwhite, prairie grouse
+(sharp-tailed grouse, sage grouse, and greater
+and lesser prairie chickens), gray partridge,
+scaled quail, wild turkey, mourning dove,
+sandhill crane, and several species of ducks
+and geese.</p>
+
+<p>Opportunities to pursue these species are
+enjoyed by more than two million hunters living
+in states and provinces lying entirely or
+partly within the Great Plains and by hundreds
+of thousands more traveling from outside the
+region. In the Plains states and provinces,
+about 10 percent of the resident population
+hunts (more than 90 percent of them males),
+spending a total of 45 million days afield per
+year. About 74 percent of Plains states hunters
+pursue big game, 42 percent pursue resident
+small game birds and mammals, and 28 percent
+hunt migratory birds. In all, hunters
+spend more than $3.7 billion per year during
+the course of their activities in the Great Plains.</p>
+
+<p>The considerable economic and social impacts
+of hunting have affected regional biodiversity
+and governmental responsibilities
+for wildlife conservation. License fees and
+excise taxes paid on hunting equipment are
+spent by state and provincial wildlife agencies
+to buy land for habitat protection and public
+access, improve habitat on private land, and
+enforce wildlife-related laws. These funds
+have also been used to restore species such as
+elk and wild turkey in areas of the Great Plains
+where they had been absent for decades. Furthermore,
+the ring-necked pheasant and gray
+partridge, native to Asia and Europe, respectively,
+were introduced in the Great Plains by
+wildlife agencies and private individuals in the
+early 1900s to provide additional hunting opportunities.
+Both species thrived in agricultural
+areas not generally habitable by native
+game birds and have become firmly established.
+In particular, the ring-necked pheasant
+is now perhaps the most ubiquitous and well
+recognized of the region's small game species
+and is responsible for much of the revenue
+and days afield associated with Great Plains
+upland bird hunting. As a rather ironic testament
+to its cultural importance, the Asian native
+is the state bird of South Dakota.</p>
+
+<p>Hunting-related customs and laws vary
+markedly within the Great Plains. For example,
+Kansas hunters traditionally shoot prairie
+chickens in late fall as they fly into crop fields
+to feed, whereas Nebraskans traditionally
+walk through rangeland and shoot them as
+they flush. However, perhaps most important
+are regional differences in methods used to
+gain access to hunt on private land, because
+this is where most hunting occurs in the Great
+Plains. In Texas, hunters (particularly those
+pursuing deer, quail, and turkey) are generally
+expected not only to gain trespass permission
+but also to pay the landowner a daily or seasonal
+access fee. Conversely, in North Dakota,
+hunters may hunt private land without the
+permission of the landowner unless the land
+has been clearly posted otherwise. Obviously,
+these variations in private land access can have
+significant effects on hunter participation and
+expenditures.</p>
+
+<p>As might be expected from the diversity in
+species and customs, there is also variation in
+the reasons people hunt in the Plains. Residents
+hunt as part of family or community
+traditions, for food, to experience a tangible
+connection with nature, or as a combination
+of these and other motivations unique to each
+individual. Hunters from outside the Plains
+come for all the above reasons as well as to
+take advantage of a quality or diversity of
+hunting opportunities unavailable where they
+live. Regardless of the reasons, people will
+likely always hunt and in turn value places that
+best provide the necessary ingredients for that
+experience. Judged by this standard, the Great
+Plains is one of the most highly regarded
+hunting regions in North America.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.040">Hunting</ref>.</p>
+
+<closer>
+<signed>J. Scott Taylor<lb/>
+Nebraska Game and Parks Commission</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Federal-Provincial Task Force for the 1987 National Survey
+on the Importance of Wildlife to Canadians. <title level="m">The Importance
+of Wildlife to Canadians in 1987: Highlights of a National
+Survey</title>. Publ. <hi rend="smallcaps">CW</hi>66-103/1989<hi rend="smallcaps">E</hi>, 1989.</bibl> <bibl>Kellert, Stephen
+R. "Attitudes and Characteristics of Hunters and
+Antihunters." <title level="j">Transactions of the Forty-Third North American
+Wildlife and Natural Resources Conference</title> 43 (1978):
+412–23.</bibl> <bibl>U.S. Department of the Interior, Fish and Wildlife
+Service, and U.S. Department of Commerce, Bureau of
+the Census. <title level="m">1996 National Survey of Fishing, Hunting, and
+Wildlife-Associated Recreation</title>. Publ. <hi rend="smallcaps">FHW</hi>/96 <hi rend="smallcaps">NAT</hi>, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Carhenge</title>
+<title level="m" type="sub"></title>
+<author>Mary Ann Vinton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vinton, Mary Ann">Mary Ann Vinton</author>. <title level="a">"Carhenge."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">380</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CARHENGE</head>
+<figure n="egp.ii.011" rend="granted">
+<figDesc>Alliance, Nebraska's "Carhenge"</figDesc>
+</figure>
+
+<p><placeName rend="monument" key="mon.car" reg="Carhenge">Carhenge</placeName> is a remarkable piece of outdoor sculpture in a field just north of <placeName rend="settlement" key="ne.all" reg="Alliance, Nebraska">Alliance, Nebraska</placeName>. The piece is composed of thirty-eight cars, dating from the 1950s and 1960s, painted gray, with some upended and partly buried in the ground so that the arrangement of the cars is roughly similar to the arrangement of the stones in <placeName rend="monument" key="mon.sto" reg="Stonehenge">Stonehenge</placeName>, the ancient monument in <placeName rend="country" key="eng" reg="England">England</placeName>.</p>
+
+<p><persName reg="Reinders, Jim">Jim Reinders</persName> and other family members were inspired to create an automotive representation of <placeName rend="monument" key="mon.sto" reg="Stonehenge">Stonehenge</placeName> on <persName reg="Reinders, Jim">Reinders</persName>'s farm during a family reunion in 1987. The sculpture generated some controversy, with neighbors calling for a junkyard fence to enclose what they perceived as an eyesore on the rural landscape. The conflict was resolved when the city council of <placeName rend="settlement" key="ne.all" reg="Alliance, Nebraska">Alliance</placeName> granted a zoning variance, and the site became a popular tourist attraction. It is visited by about 80,000 people annually and is maintained by a nonprofit group, <orgName rend="nonprofit" key="np.foc" reg="Friends of Carhenge">Friends of Carhenge</orgName>. The ten-acre site is two and a half miles north of <placeName rend="settlement" key="ne.all" reg="Alliance, Nebraska">Alliance</placeName> on <placeName rend="highway" key="high.us385" reg="U.S. Highway 385">U.S. Highway 385</placeName>. The site has parking, shaded picnic tables, and paths for visitors to wander among the cars. Like <placeName rend="monument" key="mon.sto" reg="Stonehenge">Stonehenge</placeName>, <placeName rend="monument" key="mon.car" reg="Carhenge">Carhenge</placeName> is home to a number of ceremonies and solstice celebrations.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.038">Roadside Attractions</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Mary Ann Vinton<lb/>
+Creighton University</hi></signed>
+</closer>
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

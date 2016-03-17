@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Soybeans</title>
+<title level="m" type="sub"></title>
+<author>Stephen C. Mason</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.062</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mason, Stephen C.">Stephen C. Mason</author>. <title level="a">"Soybeans."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">51-52</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SOYBEANS</head>
+
+<p>Soybean (<hi rend="italic">Glycine max</hi>), native to China, is a
+relatively new crop to the Great Plains, where
+there was no appreciable production prior to
+1950. Since 1950, the production area has increased
+rapidly to more than 12 million acres
+in the U.S. Great Plains in 1998, which is about
+18 percent of the national production area.
+The production is largely in the eastern Great
+Plains, due to the higher annual precipitation
+and the greater likelihood of rainfall during
+the critical pod elongation stage, which occurs
+in early August. Little soybean production occurs
+in the western Great Plains and the Canadian Prairie Provinces because of the short
+growing season (in the north), low annual
+precipitation, and low probability of rainfall
+during early August. Major production problems
+are water and high-temperature stress
+during the growing season. Only a few insect
+and pest problems cause sporadic yield losses.
+The most common pest problems are Phytophthora
+root and stem rot, bean leaf beetle,
+and soybean cyst nematode.</p>
+
+<p>Since soybean is grown most widely in
+the eastern Great Plains, it does not overlap
+greatly with the region's large wheat acreage.
+Soybean is most commonly grown as a rotational
+dryland crop with corn, grain sorghum,
+and winter wheat, and is the third most important
+grain crop in the region, following
+wheat and corn. Soybean is produced as a cash
+crop, with the production being shipped by
+rail or truck to crushing plants. The major
+food end products are cooking oil, margarine,
+shortening, and emulsifiers. Soybean is also
+widely used as a high protein livestock feed
+supplement. Nonfood end uses include plastics
+and coatings, lubricants, diesel fuel substitute,
+carrier for pesticides, dust suppressant
+in grain handling, and printing ink.</p>
+
+<p>The soybean production area within the
+Great Plains is concentrated in Nebraska and
+South Dakota, with 60 percent of the total,
+while production in Oklahoma and Texas is
+quite small. The highest yields&#8211;45 bushels per
+acre in 1998&#8211;are in Nebraska, largely because
+approximately one-third of the soybean production
+area is irrigated. Yields of approximately
+25 bushels per acre are common in
+North Dakota, Oklahoma, and Texas. Soybean
+yields in the Great Plains average approximately
+10 percent less than in the Corn Belt
+states, where higher, more uniformly distributed
+annual precipitation occurs.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.043">Oilseeds</ref>.</p>
+
+<closer>
+<signed>Stephen C. Mason<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wilcox, J. R., ed. <title level="m">Soybeans: Improvement, Production, and Uses</title>. Madison <hi rend="smallcaps">WI</hi>: American Society of Agronomy, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Montana v. United States</hi></title>
+<title level="m" type="sub"></title>
+<author>Mark R. Scherer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Scherer, Mark R.">Mark R. Scherer</author>. <title level="a">"<hi rend="italic">Montana v. United States</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">457-458</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">MONTANA V. UNITED STATES</hi></head>
+
+<p>In <hi rend="italic">Montana v. United States</hi> (1981), the U.S.
+Supreme Court ruled that the Crow Tribe of
+Montana did not possess the inherent sovereign
+power to regulate hunting and fishing
+by nonmembers of the tribe on lands owned
+by non-Indians within its reservation boundaries. The decision arose out of a dispute between
+the Crows and the state of Montana
+over the question of which entity had jurisdiction
+to control hunting and fishing within
+the reservation boundaries and primarily
+focused on the right to regulate fishing and
+duck hunting on and around the Big Horn
+River, which flows through the Crow reservation.
+The Crows based their claim on their
+inherent powers of tribal sovereignty and the
+language of the various treaties that created
+their reservation and, they argued, gave them
+ownership of the bed of the Big Horn River.
+Montana, on the other hand, argued that it
+took title to the riverbed at the time it became
+a state and that it had always maintained the
+authority to regulate hunting and fishing by
+non-Indians within the reservation.</p>
+
+<p>In an attempt to resolve the conflict, the
+United States, acting as trustee for the tribe,
+initiated a lawsuit in 1975 seeking a judicial
+resolution of both the threshold question of
+title to the riverbed and the accompanying
+jurisdictional dispute over hunting and fishing
+rights. The federal district court ruled in
+favor of Montana, holding that the state rather
+than the Crows owned the banks and bed of
+the Big Horn River. The Ninth Circuit Court
+of Appeals reversed the district court's decision,
+holding, with some qualifications, that
+the treaties establishing the Crow Reservation
+had vested title to the riverbed in the United
+States as trustee for the tribe and that the
+Crows could regulate hunting and fishing
+within the reservation by nonmembers. In its
+1981 decision, the Supreme Court reversed the
+court of appeals, essentially restoring the district
+court's judgment in favor of the state of
+Montana.</p>
+
+<p>Two components of the ruling are key. On
+the question of title to the riverbed, the Court
+held that, notwithstanding certain ostensibly
+contradictory language in the 1851 and 1868
+treaties by which the Crow Reservation was
+formed, title to the riverbed passed to the state
+of Montana upon its admission into the Union
+in 1889. With respect to the broader issues
+of inherent tribal sovereignty, the Court acknowledged
+that Indian tribes still maintain
+certain powers of self-government but went
+on to hold that those powers extend only to
+the control of "internal relations." Extension
+of tribal power beyond the realm of internal
+tribal matters, the Court ruled, would be "inconsistent
+with the dependent status of the
+tribes." Finding that control of hunting and
+fishing by nonmembers on lands no longer
+owned by the tribe (but still within its reservation)
+bears "no clear relationship to tribal selfgovernment
+or internal relations," the Court
+held that the Crows did not possess the "retained
+inherent sovereignty" to regulate those
+activities.</p>
+
+<p>The <hi rend="italic">Montana</hi> decision and others like it are
+universally perceived by Native Americans
+and their supporters as troubling judicial assaults
+on the remnants of tribal sovereignty,
+confirming the extremely fragile nature of
+that sovereignty and reiterating the ultimate
+power of the federal government to define the
+precise scope and extent of Indian powers of
+self-determination.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.024">Crows</ref>.</p>
+
+<closer>
+<signed>Mark R. Scherer<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bloxham, Steven John. "Tribal Sovereignty: An Analysis of
+Montana v. United States." <title level="j">American Indian Law Review</title> 8
+(1980): 175–81.</bibl> <bibl>Canby, William C., Jr. <title level="m">American Indian Law in a Nutshell</title>. 3rd ed. St. Paul <hi rend="smallcaps">MN</hi>: West Group, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

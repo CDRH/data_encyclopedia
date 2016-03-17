@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Berdache</hi></title>
+<title level="m" type="sub"></title>
+<author>Will Roscoe</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Roscoe, Will">Will Roscoe</author>. <title level="a">"<hi rend="italic">Berdache</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">324-325</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">BERDACHE</hi></head>
+
+<p>In the seventeenth and eighteenth centuries,
+French explorers, traders, and missionaries in
+the Mississippi Valley occasionally encountered
+Native Americans who could be classified
+neither as men nor women. They called
+such individuals <hi rend="italic">berdaches</hi>, a French term for
+younger partners in male homosexual relationships.
+In fact, Plains Indian berdaches are
+best described as occupying an alternative or
+third gender role, in which traits of men and
+women are combined with those unique to
+berdache status. Male berdaches did women's
+work, cross-dressed or combined male and female
+clothing, and formed relationships with
+non-berdache men.</p>
+
+<p>Plains Indian women often engaged in
+hunting and warfare, but a female role equivalent
+to that of male berdaches, although
+common west of the Rockies, has been documented
+in the Plains only among the Cheyennes
+(the <hi rend="italic">hetaneman</hi>). Even so, some Plains
+Indian women became notable warriors and
+leaders and behaved much like berdaches. In
+the early nineteenth century, Running Eagle of
+the Piegans wore male clothing on war parties,
+while Woman Chief of the Crows had four
+wives.</p>
+
+<p>Male berdaches were known among the
+Arapahos (<hi rend="italic">hoxuxun&#243;</hi>), Arikaras, Assiniboines
+(<hi rend="italic">wi<hi rend="superscript">n</hi>kta<hi rend="superscript">n</hi>'</hi>), Blackfoot (<hi rend="italic">ake:&#347;kassi</hi>), Cheyennes
+(<hi rend="italic">he'eman</hi>), Comanches, Plains Crees (<hi rend="italic">ayekkwe</hi>),
+Crows (bot&#233;), Gros Ventres, Hidatsas
+(<hi rend="italic">mi&#225;ti</hi>), Kansas (<hi rend="italic">mi<hi rend="superscript">n</hi>quge</hi>), Kiowas, Mandans
+(<hi rend="italic">mihdeke</hi>), Plains Ojibwas (<hi rend="italic">agokwa</hi>),
+Omahas (<hi rend="italic">mi<hi rend="superscript">n</hi>quga</hi>), Osages (<hi rend="italic">mixu'ga</hi>), Otoes
+(<hi rend="italic">mixo'ge</hi>), Pawnees, Poncas (<hi rend="italic">mi<hi rend="superscript">n</hi>quga</hi>), Potawatomis
+(<hi rend="italic">m'nuktokwae</hi>), Quapaws, Winnebagos
+(<hi rend="italic">shi&#233;ngge</hi>), and the various Siouan-speaking
+tribes (<hi rend="italic">winkte</hi>, Lakota; <hi rend="italic">winkta</hi>, Dakota). The
+two most common reasons cited for individuals
+becoming berdaches were childhood preference
+for work of the other sex and/or certain
+dreams or visions. The Lakotas credited dreams
+of Double Woman with influencing men to become
+<hi rend="italic">winkte</hi>; others credited the Moon. Such
+dreams also conveyed valued skills&#8211;in particular,
+proficiency in women's arts, such as quilling,
+tanning, and beading. Among the Dakotas
+the saying "fine possessions like a berdache's"
+was the highest compliment one could pay a
+household.</p>
+
+<p>Berdaches often had distinct religious roles.
+A Crow bot&#233; selected the central pole used in
+constructing Sun Dance lodges. Cheyenne
+he'eman directed the tribe's most important
+ceremony, the scalp dance. In Hidatsa villages,
+miáti were an "organized group" of as many as
+fifteen to twenty-five, treated as a "special class
+of religious leaders." In several tribes, berdaches
+were shamans and healers. Other skills
+attributed to berdaches included the ability
+to foretell the future and convey luck by bestowing
+obscene nicknames (Lakota), make
+love magic (Pawnee), and arrange marriages
+(Cheyenne). By reputation, many Plains berdaches
+were sexually active. George Catlin illustrated
+a Sauk and Fox dance in which a
+berdache is the central figure surrounded by
+"her" male lovers. Dakota warriors sometimes
+visited berdaches before joining war parties in
+the belief that such encounters augmented
+their masculine ferocity. Prominent warriors
+and chiefs, including the Omaha American
+Horse and the Lakota Crazy Horse, had berdaches
+among their wives.</p>
+
+<p>Some observers have explained berdache
+roles as niches for males unable to fulfill rigorous
+standards of Plains masculinity. But as Dakotas
+told anthropologist Ruth Landes, a distinction
+was made between men afraid to join
+war parties and berdaches, who "had a dream."
+In fact, Plains berdaches were active in all aspects
+of warfare, from providing assistance on
+war parties to leading war ceremonies and entering
+battles (and some Dakota berdaches
+hunted, even as they maintained tipis that
+women envied). When the Hidatsa chief Four
+Bears encountered a Lakota winkte, and his
+arrow failed to penetrate his robe, the winkte
+exclaimed, "You can't kill me for I am holy.
+I will strike coups on you with my digging
+stick." In 1866 a winkte predicted the success of
+Lakota and Cheyenne forces against the Americans
+at Fort Phil Kearny. In 1876 the Crow bot&#233;
+Finds Them and Kills Them killed a Lakota
+warrior in the Battle of the Rosebud.</p>
+
+<p>In the reservation period, American missionaries
+denounced berdaches, government
+agents forced them to do men's work, and
+boarding-school teachers punished children
+for inappropriate gender behavior. As European
+American attitudes toward homosexuality
+were adopted in Indian communities, families
+often intervened to prevent their own
+members from becoming (or behaving like)
+berdaches. Nonetheless, traditional berdaches
+like Finds Them and Kills Them successfully
+resisted efforts to change their lifestyles. In
+the 1980s anthropologist Walter Williams
+found individuals on Plains reservations still
+performing traditional functions of the berdache
+role.</p>
+
+<p>In the 1990s the term "two-spirit" was introduced
+by Native Americans as an alternative
+to berdache, and traditional third gender
+roles became the subject of renewed interest
+among Natives and non-Natives alike. As Michael
+Red Earth, a gay-identified Dakota,
+writes, "Once I realized that this respect and
+acceptance was a legacy of our traditional Native
+past, I was empowered to present my
+whole self to the world and reassume the responsibilities
+of being a two-spirited person."</p>
+
+<closer>
+<signed>Will Roscoe<lb/>
+California Institute of Integral Studies</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jacobs, Sue-Ellen, Wesley Thomas, and Sabine Lang, eds.
+<title level="m">Two-Spirit People: Native American Gender Identity, Sexuality, and Spirituality</title>. Urbana: University of Illinois
+Press, 1997.</bibl> <bibl>Roscoe, Will. <title level="m">Changing Ones: Third and Fourth Genders in Native North America</title>. New York: St.
+Martin's Press, 1998.</bibl> <bibl>Williams, Walter L. <title level="m">The Spirit and the Flesh: Sexual Diversity in American Indian Culture</title>. Boston:
+Beacon Press, 1986.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

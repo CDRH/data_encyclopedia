@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.000 SYSTEM "egp.ii.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Images and Icons</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>    
+    
+<div1 type="contents">
+
+<head>Images and Icons</head>
+
+<figure n="egp.ii.000" rend="granted">
+<figDesc>Mount Rushmore National Memorial, 1936</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.ii.001">Images and Icons</ref></item>
+<item><ref n="egp.law.007">Billy the Kid</ref></item>
+<item><ref n="egp.ii.003">Boomers</ref></item>
+<item><ref n="egp.ii.004">Boot Hill</ref></item>
+<item><ref n="egp.law.008">Bonnie and Clyde</ref></item>
+<item><ref n="egp.ii.006">Breadbasket of North America</ref></item>
+<item><ref n="egp.ii.007">Buffalo Chips</ref></item>
+<item><ref n="egp.ii.008">Buffalo Commons</ref></item>
+<item><ref n="egp.gen.006">Calamity Jane</ref></item>
+<item><ref n="egp.ii.010">Canadian Mosaic</ref></item>
+<item><ref n="egp.ii.011">Carhenge</ref></item>
+<item><ref n="egp.ii.012">Cody, Buffalo Bill</ref></item>
+<item><ref n="egp.ii.013">Colony of the East</ref></item>
+<item><ref n="egp.ii.014">Corn Palace</ref></item>
+<item><ref n="egp.ii.015">Cowboy Culture</ref></item>
+<item><ref n="egp.ii.016">Crazy Horse Memorial</ref></item>
+<item><ref n="egp.ii.017">Custer, George Armstrong</ref></item>
+<item><ref n="egp.ii.018">Deadwood, South Dakota</ref></item>
+<item><ref n="egp.ii.019">Dodge City, Kansas</ref></item>
+<item><ref n="egp.ii.020">Earp, Wyatt</ref></item>
+<item><ref n="egp.ii.021">Emptiness</ref></item>
+<item><ref n="egp.ii.022">Fertile Belt</ref></item>
+<item><ref n="egp.ii.023">Flatness</ref></item>
+<item><ref n="egp.ii.024">Flyover Country</ref></item>
+<item><ref n="egp.ii.025">Friday Night Football</ref></item>
+<item><ref n="egp.ii.026">Frontier Violence</ref></item>
+<item><ref n="egp.ii.027">Gale, Dorothy</ref></item>
+<item><ref n="egp.ii.028">The Garden</ref></item>
+<item><ref n="egp.ii.029">Geographic Center of the United States</ref></item>
+<item><ref n="egp.ct.024">Ghost Towns</ref></item>
+<item><ref n="egp.ii.031">Grant, Cuthbert</ref></item>
+<item><ref n="egp.ii.032">Great American Desert</ref></item>
+<item><ref n="egp.ii.033">Gunslingers</ref></item>
+<item><ref n="egp.ii.034">Hickok, Wild Bill</ref></item>
+<item><ref n="egp.ii.035">Holliday, Doc</ref></item>
+<item><ref n="egp.ii.036">Homestead National Monument of America</ref></item>
+<item><ref n="egp.ii.037">International Peace Garden</ref></item>
+<item><ref n="egp.ii.038">Last Best West</ref></item>
+<item><ref n="egp.ii.039">Longhorn Cattle</ref></item>
+<item><ref n="egp.afam.027">Love, Nat <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.ii.041">Mad Pioneer Women</ref></item>
+<item><ref n="egp.ii.042">Missile Silos</ref></item>
+<item><ref n="egp.ii.043">Mount Rushmore National Memorial</ref></item>
+<item><ref n="egp.ii.044">Okies</ref></item>
+<item><ref n="egp.ii.045">Pastoral Region</ref></item>
+<item><ref n="egp.ii.046">Potts, Jerry</ref></item>
+<item><ref n="egp.ii.047">Promotional Literature</ref></item>
+<item><ref n="egp.ii.048">Quivira</ref></item>
+<item><ref n="egp.ii.049">Rainfall Follows the Plow</ref></item>
+<item><ref n="egp.ii.050">Remington, Frederic</ref></item>
+<item><ref n="egp.fol.038">Roadside Attractions <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.ii.052">Roswell Aliens</ref></item>
+<item><ref n="egp.ii.053">Roughnecks and Roustabouts</ref></item>
+<item><ref n="egp.ii.054">State and Province Symbols</ref></item>
+<item><ref n="egp.sr.053">Sturgis Motorcycle Rally <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.ii.056">Tree Planting and Climate Change</ref></item>
+<item><ref n="egp.ii.057">Wall Drug</ref></item>
+<item><ref n="egp.fil.064">Westerns</ref></item>
+<item><ref n="egp.ii.059">West River Country</ref></item>
+<item><ref n="egp.wat.040">Wild and Scenic Rivers. <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.ii.061">Wild West Shows</ref></item>
+<item><ref n="egp.ii.062">Windmills</ref></item>
+<item><ref n="egp.fil.065">The Wizard of Oz <hi rend="italic">See</hi> <hi rend="smallcaps">Film</hi></ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

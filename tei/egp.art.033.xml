@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Houser, Allan (1914-1994)</title>
+<title level="m" type="sub"></title>
+<author>Joyce M. Szabo</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Szabo, Joyce M.">Joyce M. Szabo</author>. <title level="a">"Houser, Allan (1914-1994)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">120</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOUSER, ALLAN (1914-1994)</head>
+
+<p>One of the most influential Native American
+artists of the twentieth century, Houser was of
+Chiricahua heritage; his grandfather was warchief
+Mangus Coloradas, and his granduncle
+was Geronimo. Houser was born in Apache,
+Oklahoma, on June 30, 1914, and grew up near
+Fort Sill. His early life was filled with stories
+of Chiricahua resistance. In the 1930s he attended
+the Indian School in Santa Fe, working
+with Dorothy Dunn in the Studio. The
+flat, two-dimensional painting style developed
+there was too restrictive for Houser, although
+he executed various Studio-style murals, including
+some in the Department of the Interior
+Building in Washington dc. He studied
+muralism with Olaf Nordmark, who suggested
+that he turn to sculpture. Beginning in wood,
+Houser quickly explored other materials, including
+bronze, marble, and steel. He taught at
+the Inter-Mountain Boarding School in Utah
+between 1951 and 1961 and in Santa Fe at the
+new Institute of American Indian Arts from
+1962 to 1975. The institute was founded on
+principles that Houser held to be deeply important:
+that Native American artists should
+be encouraged to explore their cultural heritage
+as well as to create art in keeping with
+their own individual goals and self-expression.
+At sixty-one, he officially stopped teaching to
+devote his energies to his own art, but he never
+stopped helping students.</p>
+
+<p>Numerous awards filled his life, including
+a Guggenheim Fellowship (1948) and the
+French Palmes d'Acad&#233;miques (1954) for his
+exemplary work as both artist and teacher. He
+was inducted into the Oklahoma Hall of Fame
+and, in 1992, was the first Native American to
+receive the National Medal of Arts. His unceasing
+experimentation and creativity were
+expressed in subject matter that ranged from
+representations of Native figures of the past to
+contemporary abstractions without recognizable
+imagery. Houser died on August 22, 1994,
+in Santa Fe.</p>
+
+
+<closer>
+<signed>Joyce M. Szabo<lb/>
+University of New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">Allan Houser (Ha-o-zous): A Life in Art</title>. Exhibition Catalog.
+Santa Fe: Museum of New Mexico, 1991.</bibl> <bibl>Perlman,
+Barbara H. <title level="m">Allan Houser (Ha-o-zous)</title>. Boston: David R.
+Godine, 1987.</bibl> <bibl><title level="m">The Studio of Allan Houser</title>. Exhibition Catalog.
+Santa Fe: Wheelwright Museum of the American
+Indian, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

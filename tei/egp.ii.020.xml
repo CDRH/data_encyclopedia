@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.020 SYSTEM "egp.ii.020.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Earp, Wyatt (1848&#8211;1929)</title>
+<title level="m" type="sub"></title>
+<author>Derrick S. Ward</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ward, Derrick S.">Derrick S. Ward</author>. <title level="a">"Earp, Wyatt (1848&#8211;1929)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">384</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EARP, WYATT (1848-1929)</head>
+
+<figure n="egp.ii.020" rend="granted">
+<figDesc><persName reg="Earp, Wyatt">Wyatt Earp</persName></figDesc>
+</figure>
+
+<p>Peace officer, gambler, stagecoach driver, buffalo hunter, and businessman, <persName reg="Earp, Wyatt">Wyatt Earp</persName> was a legend in his own time and has since been the subject of countless books, articles, and motion pictures. Portrayed as the prototypical frontier lawman, Earp is one of the most popular, heroic, and enduring images of the <geogName rend="region" reg="American West">American West</geogName>.</p>
+
+<p><persName reg="Earp, Wyatt">Wyatt Berry Stapp Earp</persName> was born on March 19, 1848, in <placeName rend="settlement" key="il.mon" reg="Monmouth, Illinois">Monmouth, Illinois</placeName>, to <persName reg="Earp, Nicholas">Nicholas</persName> and <persName reg="Earp, Virginia">Virginia Earp</persName>. A farmer, lawyer, and deputy sheriff, <persName reg="Earp, Nicholas">Nicholas Earp</persName> raised <persName reg="Earp, Wyatt">Wyatt</persName> to respect the law. <persName reg="Earp, Wyatt">Wyatt</persName> grew up in <placeName rend="settlement" key="ia.pel" reg="Pella, Iowa">Pella, Iowa</placeName>, then moved with his family to <placeName rend="state" key="ca" reg="California">California</placeName> in 1864. There he took a job in 1865 with the Banning Stage Line, driving the hazardous sixty miles between <placeName rend="settlement" key="ca.sb" reg="San Bernardino, California">San Bernardino</placeName> and <placeName rend="settlement" key="ca.la" reg="Los Angeles, California">Los Angeles</placeName>. In 1868, at the age of twenty, <persName reg="Earp, Wyatt">Earp</persName> operated his own freighting business, delivering supplies for <orgName rend="railroad" key="rail.upr" reg="Union Pacific Railroad">Union Pacific</orgName> construction crews in <placeName rend="state" key="wy" reg="Wyoming">Wyoming</placeName>.</p>
+
+<p>In November 1869 <persName reg="Earp, Wyatt">Earp</persName> replaced his father, who had moved the family back to <placeName rend="state" key="mo" reg="Missouri">Missouri</placeName> the previous year, as constable of <placeName rend="settlement" key="mo.lt" reg="Lamar Township, Missouri">Lamar Township</placeName> in <placeName rend="county" key="co.mo.bar" reg="Barton County, Missouri">Barton County</placeName>. He married <persName reg="Sutherland, Urilla">Urilla Sutherland</persName> at <placeName rend="settlement" key="mo.lt" reg="Lamar Township, Missouri">Lamar</placeName> in 1870, but his wife died soon thereafter. Widowed at the age of twenty-two, <persName reg="Earp, Wyatt">Earp</persName> opted for a life of adventure, heading to the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, where he spent most of the time from 1871 to 1873 hunting buffalo. During the summer of 1873 <persName reg="Earp, Wyatt">Earp</persName> lived in the <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> cattle towns, and in April 1875 he briefly served as a peace officer in <placeName rend="settlement" key="ks.wic" reg="Wichita">Wichita</placeName>. Contrary to the popular image of <persName reg="Earp, Wyatt">Earp</persName> as a prolific gunfighter, there is no documented case of him being involved in a gunfight before the infamous "showdown" at the <hi rend="smallcaps">OK</hi> Corral in <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone, Arizona</placeName>. Over six feet tall, <persName reg="Earp, Wyatt">Earp</persName> typically subdued drunks and toughs with firm persuasion or a sharp crack to the back of the head with his revolver, a practice known as "buffaloing."</p>
+
+<p>After leaving Wichita in April 1876, <persName reg="Earp, Wyatt">Earp</persName>'s next stop was <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge City</placeName>, sometimes called the "Wickedest City in America." The practical duties and challenges facing lawmen in <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge</placeName> were similar to those in <placeName rend="settlement" key="ks.wic" reg="Wichita, Kansas">Wichita</placeName>: disarming cowboys, keeping the revelry and vice confined to a designated part of town, handling routine street crime, and maintaining peace and order. <persName reg="Earp, Wyatt">Earp</persName> was praised regularly by the local press for his work on the <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge City</placeName> police force from 1876 to 1879.</p>
+
+<p><persName reg="Earp, Wyatt">Earp</persName> left <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge City</placeName> in the winter of 1879, settling with his brothers <persName reg="Earp, James">James</persName>, <persName reg="Earp, Virgil">Virgil</persName>, and <persName reg="Earp, Morgan">Morgan</persName> in <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone, Arizona Territory</placeName>. There, <persName reg="Earp, Wyatt">Earp</persName> worked for <placeName rend="business" key="bus.wf" reg="Wells Fargo">Wells Fargo</placeName>, held an interest in the <placeName rend="business" key="bus.os" reg="Oriental Saloon">Oriental Saloon</placeName>, and served as <placeName rend="county" key="co.az.pim" reg="Pima County, Arizona">Pima County</placeName> deputy sheriff. He maintained a close friendship with dentist, gambler, and suspected highwayman <persName reg="Holliday, John Henry (Doc)">John Henry "Doc" Holliday</persName>. On October 26, 1881, growing bad blood between the Earps and members of a group of local hard cases and rustlers, the Clanton-led "cowboy faction," erupted in the legendary confrontation outside <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone</placeName>'s <hi rend="smallcaps">OK</hi> Corral, leaving <persName reg="Clanton, Billy">Billy Clanton</persName> and brothers <persName reg="Clanton, Frank">Frank</persName> and <persName reg="McLaury, Tom">Tom McLaury</persName> dead. Accounts suggest that <persName reg="Earp, Wyatt">Earp</persName> fired the fatal shot that killed <persName reg="McLaury, Frank">Frank McLaury</persName>. <persName reg="Clanton, Billy">Clanton</persName> sympathizers later took revenge on the Earps, wounding <persName reg="Earp, Virgil">Virgil</persName> and killing <persName reg="Earp, Morgan">Morgan</persName> in separate ambushes. In turn, <persName reg="Earp, Wyatt">Wyatt</persName>, who was appointed U.S. deputy marshal after the attack on <persName reg="Earp, Virgil">Virgil</persName>, is rumored to have killed <persName reg="Stilwell, Frank">Frank Stilwell</persName>, <persName reg="Earp, Morgan">Morgan</persName>'s suspected assassin.</p>
+
+<p>If not for the gunfight at the <hi rend="smallcaps">OK</hi> Corral, <persName reg="Earp, Wyatt">Wyatt Earp</persName> might only have been a colorful historical footnote. The transformation of <persName reg="Earp, Wyatt">Earp</persName> into a folk hero began with the nationwide newspaper coverage of the gunfight and its aftermath and evolved through the writings of <persName reg="Masterson, Bat">Bat Masterson</persName> and <persName reg="Earp, Wyatt">Earp</persName> biographer <persName reg="Lake, Stuart N.">Stuart N. Lake</persName>, whose 1931 <hi rend="italic">Wyatt Earp: Frontier Marshal</hi> is the source of many of the tall tales embellishing, idealizing, and romanticizing the historical <persName reg="Earp, Wyatt">Earp</persName>. <persName reg="Earp, Wyatt">Earp</persName> spent the years after <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone</placeName> pursuing a variety of business ventures and died peacefully in <placeName rend="settlement" key="ca.la" reg="Los Angeles, California">Los Angeles, California</placeName>, on January 13, 1929.</p>
+
+<p>The historical <persName reg="Earp, Wyatt">Earp</persName> was a complex individual and certainly no angel. He was tough, pragmatic, and independent, reflecting his environment and times. As a <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> peace officer, <persName reg="Earp, Wyatt">Earp</persName> was respected more than feared, making him an effective lawman. After the layers of legend and myth are peeled back, the <persName reg="Earp, Wyatt">Wyatt Earp</persName> of history remains a strong, compelling symbol of <placeName rend="country" key="usa" reg="United States of America">America</placeName>'s frontier heritage.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.066">Wyatt Earp Films</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Derrick S. Ward<lb/>
+Ventura, California</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Boyer, Glenn G. <title level="m">I Married Wyatt Earp: The Recollections of Josephine Sarah Marcus Earp</title>. Stamford <hi rend="smallcaps">CT</hi>: Longmeadow Press, 1994.</bibl> <bibl>Lake, Stuart N. <title level="m">Wyatt Earp: Frontier Marshal</title>. Boston: Houghton Mifflin Company, 1931.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

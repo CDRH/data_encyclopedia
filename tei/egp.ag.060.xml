@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.060">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Soil Bank</title>
+<title level="m" type="sub"></title>
+<author>Edward J. Deibert</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.060</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Deibert, Edward J.">Edward J. Deibert</author>. <title level="a">"Soil Bank."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">50-51</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SOIL BANK</head>
+
+<p>The Soil Bank Program was conceived in the
+early 1950s when grain storage facilities full of
+crop surpluses dotted rural America. Surpluses
+lowered prices and reduced farm income,
+and a program was needed to stabilize
+the market. In 1956, Congress passed the Soil
+Bank Act to reduce surpluses by lowering
+acres of the major crops, thus keeping production
+in line with demand, and to encourage
+conservation of soil, water, and forest resources.
+Spring and winter wheat, corn, grain
+sorghum, and cotton were the majors crops
+targeted for reduction in the Great Plains.</p>
+
+<p>One part of the program, acreage reserve,
+was a temporary measure to reduce surpluses
+by making cash payments for crops taken out
+of production. These yearly set-aside acres
+were left idle and could not be cropped,
+hayed, or pastured. The program also included
+a voluntary conservation effort, often
+referred to as the Soil Bank, which was a longterm
+process aimed at diverting crop production
+land to conservation uses.</p>
+
+<p>Under the Soil Bank Program, the Agricultural
+Stabilization and Conservation Service
+(<hi rend="smallcaps">ASC</hi>) entered into three- to ten-year contracts
+with landowners to set aside planted acres.
+The farmers received in return an annual payment
+based on the quality of the land (average
+payment was around $12 per acre). They
+agreed to maintain the land in an approved
+conservation practice (predominantly grass in
+the Great Plains) and not harvest a crop, cut
+timber or hay, or graze the area. Nearly 29
+million acres were placed in the Soil Bank program,
+the majority of which were located in
+the Great Plains. Texas and North Dakota had
+the highest participation in the program, putting
+aside as much as 10 percent of their total
+cropland. More than 300,000 contracts with
+an annual payment exceeding $300 million
+occurred in some years.</p>
+
+<p>The Soil Bank provided a guaranteed, riskfree
+farm income with little work. Because the
+amount of acres that could be contracted was
+not limited, the program had negative social
+and economic effects on many parts of the
+Plains. Decreased agricultural production resulted
+in reduced crop handling services and
+processing activities. Landowners in the Soil
+Bank Program often moved outside the area,
+taking along spendable income, or sometimes
+competed for off-farm employment. Local resentment
+developed against Soil Bank farmers
+who retired all their land and received payment
+for doing nothing. The positive impacts
+included crop surplus reduction, conservation
+of soil and water, and development of
+wildlife habitat.</p>
+
+<closer>
+<signed>Edward J. Deibert<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

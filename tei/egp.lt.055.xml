@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.055">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ostenso, Martha (1900-1963)</title>
+<title level="m" type="sub"></title>
+<author>Dick Harrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.055</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harrison, Dick">Dick Harrison</author>. <title level="a">"Ostenso, Martha (1900-1963)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">488-489</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OSTENSO, MARTHA (1900-1963)</head>
+<figure n="egp.lt.055" rend="granted" type="noclick">
+<figDesc>Author Martha Ostenso (Minnesota State Historical Society)</figDesc>
+</figure>
+
+<p>Martha Ostenso was a Minnesota novelist
+often claimed by Canadians because she lived
+in Canada for six years and set four of her
+novels there. She was born in Norway on September
+17, 1900, to Sigurd and Olina Tungeland
+Ostenso, who migrated to the Midwest in
+1902. After the family moved to Manitoba in
+1915, Ostenso taught briefly in the interlake
+area north of Winnipeg. She attended the
+University of Manitoba for two years before
+following her creative writing teacher, Douglas
+Durkin, to New York in 1921. Himself a
+novelist, Durkin is said to have collaborated
+with Ostenso in all her novels, including <title level="m">Wild Geese</title>, which won the Dodd Mead First Novel
+Award in 1925. Together they produced a
+dozen popular novels under her name over
+the next thirty years, including <title level="m">The Young May Moon</title> (1929), <title level="m">The Mandrake Root</title> (1938), and
+<title level="m">O River, Remember</title> (1943). They reportedly
+earned up to $40,000 annually and kept a
+house in Beverly Hills where they socialized
+with stars such as Douglas Fairbanks Jr., Mary
+Pickford, and Henry Fonda, who starred in a
+1941 Hollywood remake of <title level="m">Wild Geese</title>.</p>
+
+<p>Ostenso's best novel, <title level="m">Wild Geese</title>, depicts a
+tyrannical Prairie patriarch overthrown by the
+suppressed vitality and moral courage of the
+women in his family. Hailed as an early contribution
+to Prairie realism, the novel draws
+much of its power from its romantic characterization.
+Ostenso's other novels, set mainly
+in the rural Midwest, portray family conflicts
+and the darker reaches of romantic love and
+often exhibit the author's gift for creating
+powerful female characters. Ostenso died in
+Seattle on November 24, 1963.</p>
+
+<closer>
+<signed>Dick Harrison<lb/>
+Sechelt, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Atherton, Stanley S. "Martha Ostenso (1900–63)." In <title level="m">Canadian Writers and Their Works</title>, 4: 210–53, Fiction series,
+edited by Robert Lecker, Jack David, and Ellen Quigley.
+Toronto: <hi rend="smallcaps">ECW</hi> Press, 1991.</bibl> <bibl>Baldwin, Charles C. <title level="m">Martha Ostenso: Daughter of the Vikings</title>. New York: Dodd, Mead,
+1930.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

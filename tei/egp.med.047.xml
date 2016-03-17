@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trillin, Calvin (b. 1935)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Trillin, Calvin (b. 1935)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">523</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRILLIN, CALVIN (b. 1935)</head>
+
+<p>Journalist, critic, and novelist Calvin Trillin
+was born on December 5, 1935, and raised in a
+middle-class neighborhood in Kansas City,
+Missouri. Even now, after decades of living in
+Greenwich Village in New York City, he still
+regards Kansas City as his primary point of
+reference.</p>
+
+<p>Trillin's mother and father (so tenderly recollected
+in his 1996 book, <title level="m">Messages from My Father</title>) were second-generation grocers whose
+own parents had immigrated from Lithuania
+and the Ukraine, respectively. Trillin's father
+brought him up to aspire to greater things than
+being a grocer, yet it was his father's quiet messages
+and example that had the greatest effect
+on Trillin.</p>
+
+<p>In 1953 Trillin did what his father had always
+planned for him and left for Yale, where
+he edited the <title level="j">Yale Daily News</title>. He graduated in
+1957. Trillin's first job was as a "floating" journalist
+with Time, writing on subjects as diverse
+as medicine and religion. In 1963 he
+moved to the <title level="j">New Yorker</title> as a staff writer, and
+there he quickly established his reputation as a
+first-rate essayist and journalist. In 1978 he
+joined the <title level="j">Nation</title> as a columnist; since 1990 he
+has also contributed light but scathing political
+verse to that magazine.</p>
+
+<p>Trillin has written on a wide range of subjects
+in his columns, novels, plays, and poems:
+politics, murder, growing up, food, and American
+places. Some of his pieces in the Great
+Plains, for example, his essay on the small
+town of Protection, Kansas, which for a brief
+time flourished on the manufacture of concertina
+barbed wire for use in Vietnam and
+then reverted to its normal state of barely
+"holding its own" (<title level="j">U.S. Journal</title>, 1971), are
+filled with Trillin's empathy for ordinary people.
+Others, like his explication of the sordid
+relationships behind brutal murders in Emporia,
+Kansas, in 1983, undermining its "frontporch"
+image (<title level="j">American Stories</title>, 1991), are
+prime examples of tough investigative reporting.
+But Trillin is perhaps best known for his
+political commentary, which generally employs
+understated humor to lay bare hypocrisies
+and injustices and to bring inflated egos
+down to size. Like his father before him, Calvin
+Trillin has always "given good weight."</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>"Trillin, Calvin (Marshall)." In <title level="j">Contemporary Authors</title>,
+New Revision series, 67: 349–53. Detroit: Gale Research.
+1981.</bibl> <bibl>Trillin, Calvin. <title level="m">Messages from My Father</title>. New York:
+Farrar, Straus, and Giroux, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

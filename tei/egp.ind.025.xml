@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Grain Processing</title>
+<title level="m" type="sub"></title>
+<author>Brendan J. Donnelly</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Donnelly, Brendan J.">Brendan J. Donnelly</author>. <title level="a">"Grain Processing."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">420-421</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRAIN PROCESSING</head>
+
+<p>The Great Plains of the United States and
+Canada form one huge production engine for
+barley, wheat, and sorghum. Wheat is by far
+the dominant cereal grain produced, which
+explains why the Great Plains is commonly
+referred to as the "Breadbasket of the World."
+There are three classes of wheat produced in
+the region. Eastern Alberta, Saskatchewan,
+southwestern Manitoba, northeastern Montana,
+North Dakota, northwestern Minnesota,
+and northern South Dakota are the major
+production area for hard red spring wheat and
+durum wheat. Hard red spring wheat is a
+high-protein wheat used as a blending wheat
+to upgrade the quality of lower-quality wheats
+and is also the source of flour for specialty
+breads such as hard rolls. Durum wheat is the
+source of semolina, a granular product used in
+the production of high-quality pasta products.
+The Plains states from South Dakota to
+Texas and from Montana to Colorado are the
+source of hard red winter wheat, a slightly
+lower protein wheat than hard red spring
+wheat. The flour from hard red winter wheat
+is used primarily in the production of pan
+breads.</p>
+
+<p>In 1998 the United States produced an estimated
+total of 69.61 million metric tons of
+wheat. This included hard red winter wheat,
+hard red spring wheat, soft red winter wheat,
+soft white wheat, and durum wheat. The
+Great Plains states of the United States produced
+46.14 million metric tons, or 72 percent
+of that total. Total wheat production in Canada
+in 1998 was 24.40 million metric tons,
+with the Prairie Provinces producing 93 percent
+of that total.</p>
+
+<p>The number of flour mills and total milling
+capacity in the United States for 1997 were 195
+and 1,395,323 hundredweights (cwts), respectively.
+Much of the milling of the wheats produced
+in the Great Plains is done either within
+or relatively close to the grain production
+states. Plains states had the following number
+of mills and flour production capacity in 1997:
+Colorado (4; 22,000 cwts); Kansas (18; 154,640
+cwts); Montana (4; 16,880 cwts); Nebraska (5;
+26,570 cwts); North Dakota (1; 19,000 cwts);
+Oklahoma (4; 31,200 cwts); South Dakota (1;
+4,000 cwts); and Texas (8; 64,560 cwts). This
+gives a combined total of 45 flour mills and
+milling capacity of 338,850 cwts. There is a
+similar concentration of durum milling in the
+Plains, with North Dakota (4; 19,555 cwts) the
+leading state. In all, seven of the twenty-three
+durum mills in the country are in North Dakota,
+Montana, and Nebraska. The Prairie
+Provinces are also an important location for
+both flour and semolina production. Close to
+30 percent of the flour and 40 percent of the
+semolina milling capacity of Canada are in
+Alberta, Saskatchewan, and Manitoba.</p>
+
+<p>The three major flour-milling companies in
+the U.S. Great Plain states are Archer Daniels
+Midland Milling Company, ConAgra Grain
+Processing Company, and Cargill Foods Flour
+Milling. In the Prairie Provinces the leading
+companies are Archer Daniels Midland Milling
+Company, <hi rend="smallcaps">CSP</hi> Foods, and Robin Hood
+Multifoods, Inc. The three major durummilling
+companies operating in or close to the
+U.S. portion of the Plains states are Archer
+Daniels Midland Milling Company, General
+Mills, and Harvest States. In the Prairie Provinces,
+durum-milling companies include Ellison
+Milling Company and Robin Hood Multifoods,
+Inc.</p>
+
+<p>Wheat milling and flour extraction have
+come a long way from the days of stone grinding.
+Today wheat milling is a high-throughput,
+automated process that extracts flour
+from the wheat in high volume to meet the
+needs of the baking industry. An average
+bushel of wheat weighs sixty pounds, from
+which the miller hopes to "extract" about
+forty-five pounds of flour (75 percent) and
+fifteen pounds of millfeed (25 percent).</p>
+
+<p>When wheat arrives at the mill by truck,
+ship, barge, or rail, samples are taken to ensure
+it meets purchase quality specifications
+for milling and baking or other end use needs.
+Results from inspection and quality testing
+determine how the wheat will be handled and
+stored. The wheat is blended and stored in
+large bins on the basis of the desired end
+product. Grain storage is a critical component
+of wheat handling to ensure it does not go out
+of condition prior to milling.</p>
+
+<p>The first step in the milling process is to
+clean the wheat of extraneous material picked
+up in the harvesting process. Foreign materials
+such as metal, sticks, stones, straw, seeds, and
+other grains are removed in steps by a magnetic
+separator, vibrating screens, a destoner, a
+disc separator, and a scourer. Once the wheat is
+cleaned, water is added to it in precise amounts
+in a process called tempering. This is done to
+toughen the bran and mellow the inner portion
+of the wheat kernel (the endosperm), facilitating
+separation of the kernel components.
+Tempered wheat is stored in bins for twelve to
+twenty-four hours, depending on the class of
+the wheat. After proper tempering, the wheat
+passes through an impact scourer (entoleter)
+that breaks apart and removes unsound kernels
+and then moves to the grinding bins (large
+hoppers that feed the wheat to the grinding
+rolls).</p>
+
+<p>Mill rolls are corrugated and paired, and
+they counterrotate at different speeds. One
+pass between the first break rolls begins the
+separation of the bran, endosperm, and germ.
+Feeding the tempered wheat to the first break
+rolls begins a gradual reduction process
+whereby middlings or coarse particles of endosperm
+are graded and separated from the
+bran by sieves and purifiers. Each size is returned
+to appropriate rollers, and the process
+is repeated until the desired flour is produced.
+The flour is then bleached and enriched with
+three B vitamins (thiamin, niacin, and riboflavin),
+iron, and folic acid. Family flour for retail
+sale is packed in 5-, 10-, or 25-pound bags.
+Bakery flour may be packed in 50- or 100-
+pound bags or shipped in bulk trucks or railcars.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.075">Wheat</ref>.</p>
+
+<closer>
+<signed>Brendan J. Donnelly<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">Grain and Milling Annual</title>. Kansas City <hi rend="smallcaps">MO</hi>: Sosland Publishing
+Company, 1998.</bibl> <bibl><title level="m">1998 Crop Quality Report</title>. Washington
+<hi rend="smallcaps">DC</hi>: U.S. Wheat Associates, Inc., 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

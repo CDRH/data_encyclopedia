@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Czech Architecture</title>
+<title level="m" type="sub"></title>
+<author>David Murphy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Murphy, David">David Murphy</author>. <title level="a">"Czech Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">73-74</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CZECH ARCHITECTURE</head>
+
+<p>Ethnic Czechs from the historic provinces of
+Bohemia and Moravia brought diverse architectural
+traditions to the Great Plains. They
+were part of a general emigration that began
+after the Peasant Uprising of 1848 and surged
+after emigration became legal in 1867. Czechs
+on the Plains clustered in large settlements in
+southeastern and south-central South Dakota,
+north-central and northwestern Kansas, and
+all over Nebraska. Later settlements were
+established in central and north-central Oklahoma.
+The diversity of their architectural tradition
+resulted from many factors but primarily
+from the dominance of the emigration
+by small farmers and cottagers with their varied
+provincial cultures.</p>
+
+<p>An ancient preference for log construction
+was transferred to the Plains by skilled Czech
+carpenters. Log dwellings(rouben)were
+characterized by wall beams planked on the
+inside and outside faces, then set with full
+dovetail notches and chink spaces between the
+beams. Interior log partitions were dovetailed
+through the exterior walls, and many structures
+utilized mortised vertical timbers for
+door and window jambs. Several incorporated
+the old common rafter roof with tie beams,
+while most adopted the simple American rafter
+roof secured to the wall plates. Outbuildings
+were often built in the same fashion,
+though for these other variants also occurred,
+such as saddle, V, and full dovetail corner timbering
+on unplanked beams.</p>
+
+<p>Some Moravians built earthen walls for
+their dwellings(rouben). The most common
+technique utilized unfired clay brick, but
+puddled clay and rammed earth were not uncommon.
+As Czechs adopted light frame construction,
+brick, puddled-clay, and lime mortars
+were used as nogging between the studs
+for stability and thermal mass. Other masonry
+construction was utilized by Czechs from both
+provinces. Skilled masons commonly employed
+rubble, coursed rubble, and occasionally
+ashlar work for limestone walls. High
+Plains Czechs in Kansas built with sod.</p>
+
+<p>Though considerable provincial variation
+in house type existed in the way of room size,
+configuration, and nomenclature, the distinctive
+Czech tradition is evident as variations on
+the quintessential Czech house (Stredocesk), a type common in the heart of Bohemia.
+Its tripartite arrangement was comprised of a main room or hall
+(tnice), a narrow central entrance chamber
+and fire room, and a small storage
+chamber (komora). In old times it was
+subdivided to provide for a kitchen (cern)(kuchyn) at the back, but on the Plains that
+practice was abandoned with the adoption of
+American cast-iron stoves. The Pechan house
+in Yankton County, South Dakota, is the only
+tripartite dwelling known to have subdivided
+a kitchen in this manner.</p>
+
+<p>Numerous first-generation houses were
+built as single-room dwellings comprised exclusively
+of the svetnice; these often became
+the basis for an expanded house. Two-room
+variations (dvojd) were the most
+popular, with both an old type and a new American type
+(komora) being built in large
+numbers. The latter type simply eliminated
+the technologically redundant and moved
+the single threshold to the big room. This
+dwelling was similar to another ancient type
+that included doors into both rooms. Derived
+from the house with attached stall, on the
+Plains the smaller space of this double-door
+type took the role of principal room.</p>
+
+<p>In most Czech lands, houses were oriented
+with their narrow gable ends facing the public
+street. Typically symmetrical, this gabled facade
+continued to be built as the "front"
+wall in North America. If decoration was present
+at all, it was focused on this gable. On
+the Plains, where farms were dispersed rather
+than tightly clustered into rural villages, the
+front gable was often reoriented to the rear,
+where it faced the farmyard. Thresholds were
+in the side of the house, also oriented toward
+the farmyard or toward a small courtyard if in
+an urban setting.</p>
+
+<p>The old practice of attaching farm buildings
+to the house and creating single-unit
+courtyard farmsteads was abandoned on the
+Plains, where land seemed limitless. Following
+American practices, farm buildings were built
+as detached structures, though often these
+were initially modeled along traditional lines;
+separate stables, cowsheds, and hay barns
+were built instead of the single multifunctional
+American barn. The first "barn" in Valley
+County, Nebraska, was a traditional threestall
+stable with walls raised half a story in
+height to accommodate a diminutive hayloft.
+Other remnant examples of the old practices
+exist, such as the Veselhouse with its attached
+cowshed in Knox County, Nebraska,
+and the long Merkwan "barn" in Bon Homme
+County, South Dakota, with its linearly attached
+storeroom, cowshed, and stables.</p>
+
+<p>Early modernized houses retained traditional
+characteristics while becoming modestly
+enlarged. Most common was the one-and-
+one-half-story cross-wing house (uhlov), which provided bedrooms in the loft
+and a kitchen, parlor, and chamber (storage
+room, often with a bed) on the first floor. Typically,
+this house was still built with a single
+threshold, now into the kitchen, the new principal
+room of the modern dwelling. By the
+early twentieth century other houses were
+copied from American models, though interiors
+often continued to accommodate traditional
+living practices by emphasizing kitchens
+and dining rooms as principal spaces.
+These houses also continued to be built with
+facades facing the farmyard.</p>
+
+<p>Also distinctive was the public landscape
+created by the ideologically diverse Czechs,
+who included freethinkers, Catholics, and
+Protestants. Old animosities among these
+groups produced separate cemeteries, which
+served symbolic, ceremonial, and even nationalistic
+functions. A fourth kind, a community
+cemetery with a more inclusive intent (Cesko-
+Slovansk hrbitov), initiated efforts at ethnic
+cohesiveness. Many of the cemeteries, particularly
+the national cemeteries of the freethinkers
+(Cesko-Nrodni hrbitov), were distinctly
+designed and landscaped, while others also exhibited
+homeland features such as curbed
+and planted graves, cast- and wrought-iron
+crosses, and Hussite iconography. Elaborately
+crafted iron entrance gates were typical.</p>
+
+<p>While church architecture was primarily
+denominationally derived, freethinking and
+Sokol (gymnastic society) halls often followed
+popular Czech styles. The most distinctive of
+these were latter-day American versions of the
+provincial baroque style (venkovsk&#233; barok)
+that had become popular in the Czech agricultural
+villages after enclosure. The overt nationalistic
+associations of these designs on the
+Plains were in direct contrast to the Renaissance
+Revival of the elite national movement
+in Bohemia, where the baroque carried negative
+associations with the Counter Reformation.
+Many variations on the baroque were
+built, from the simple lunette fronts of halls
+such as Sladkovsk at Pishelville (1882), to the
+modeled facade and doubly curved dormer of
+the 1903 Hora hall at Verdigre, both in
+Nebraska.</p>
+
+<p>Built following the multifunctional model
+of the vernacular opera house (albeit in a distinctly
+noncommercial mode), the public
+halls of Sokols and Czech fraternal organizations
+served a variety of community needs,
+including dances, speeches, funerals, gymnastics,
+and banquets. Most contained full stage
+facilities for the popular Czech national theatrical
+performances. These interiors focused
+on a proscenium arch with its locally painted
+curtains, which usually portrayed Czech landscapes
+and symbolic scenes. Few new halls
+have been built since the 1880–1920 period,
+but most of those extant are still in use.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.005">Czechs</ref>.</p>
+
+<closer>
+<signed>David Murphy<lb/>
+Nebraska State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frolec, V&#225;clav, and Josef Vaeka. <title level="m">Encyclopedie lidov&#225; architektura</title>.
+Praha: <hi rend="smallcaps">SNTL</hi>—Nakladatelstv&#237; technick&#233; literatury,
+and <hi rend="smallcaps">ALFA</hi>—Vydavatel'stvo technickej a ekonomickej literat&#250;ry,
+1983.</bibl> <bibl>Murphy, David. "Dramatic Expressions:
+Czech Theatre Curtains in Nebraska." <title level="j">Nebraska History</title> 74
+(1993): 168–82.</bibl> <bibl>Murphy, David. "<hi rend="italic">Jejich Antonie</hi>: Czechs,
+the Land, Cather, and the Pavelka Farmstead." <title level="j">Great Plains Quarterly</title> 14 (1994): 85–106.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Canola</title>
+<title level="m" type="sub"></title>
+<author>Lenis A. Nelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nelson, Lenis A.">Lenis A. Nelson</author>. <title level="a">"Canola."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">37</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CANOLA</head>
+
+<p>Canola is the product of several species of the
+<hi rend="italic">Brassica</hi> genus (primarily <hi rend="italic">B. campestris</hi> and <hi rend="italic">B.
+napus</hi>). The name is derived from <hi rend="italic">CAN</hi>adian
+<hi rend="italic">O</hi>il <hi rend="italic">L</hi>ow <hi rend="italic">A</hi>cid. First commercially cultivated in
+Canada in the 1970s, canola is rapeseed which
+has had erucic acid and glucosinolates removed
+through breeding and selection. Production
+in the Great Plains is concentrated in
+the Prairie Provinces. In 1997 Saskatchewan
+led in both acreage (5.6 million acres) and
+production (2.7 million tons), closely followed
+by Alberta (4 million acres and 2 million
+tons), and more distantly by Manitoba
+(2.3 million acres and 1.4 million tons). By
+comparison, relatively small amounts of canola
+are grown in adjacent areas of North Dakota
+and Montana, but virtually none is
+grown farther south in the Great Plains.</p>
+
+<p>Canola plants can be either fall-sown or
+spring-sown. When seeded in the fall, canola
+grows until cold weather makes it go dormant.
+It begins to grow again early in the spring.
+Fall-sown canola is more productive if it can
+survive the winter. Breeding work is being
+done to increase winter survival. The plants
+bloom in early May with small yellow flowers.
+The small, dark, shiny seed is similar to the
+mustard seed.</p>
+
+<p>Canola is raised for the production of oil
+and protein. The oil is marketed as a "heart
+healthy" cooking oil because of its favorable
+fatty acid profile. The meal that remains after
+extracting the oil is high in protein and is used
+as an animal feed supplement.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.043">Oilseeds</ref>.</p>
+
+<closer>
+<signed>Lenis A. Nelson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

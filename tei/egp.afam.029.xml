@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.029 SYSTEM "egp.afam.029.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McDaniel, Hattie (1895-1952)</title>
+<title level="m" type="sub"></title>
+<author>Carlton Jackson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jackson, Carlton">Carlton Jackson</author>. <title level="a">"McDaniel, Hattie (1895-1952)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">17</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCDANIEL, HATTIE (1895-1952)</head>
+
+<figure n="egp.afam.029" rend="granted">
+<figDesc>Hattie McDaniel, 1939</figDesc>
+</figure>
+
+<p>In the post&#8211;Civil War period, Kansas became
+the new promised land for recently freed
+slaves. This was John Brown country, and African
+Americans believed they would be treated
+more fairly here than in the South. They traveled
+by railroads, rivers, and on foot. The Missouri,
+Kansas, and Texas Railroad ran through
+Emporia, with easy transfers to the Atchison,
+Topeka, and Santa Fe Railroad for points west,
+including Wichita and Fort Collins. Two of the
+black settlers who came to Wichita, Kansas,
+were Mr. and Mrs. Henry McDaniel. Henry,
+originally from Virginia, and Susan (nee Holbrook),
+from Tennessee, ultimately had a family
+of thirteen children, most of whom died at
+birth or shortly thereafter. Their youngest,
+Hattie, was born on June 10, 1895. The family
+moved to other places in the Great Plains: first
+to Fort Collins, Colorado, and then to Denver,
+the city Hattie McDaniel always considered to
+be her hometown.</p>
+
+<p>Hattie became an internationally known
+movie star. She began her professional career
+in a band; she was the first African American
+woman to sing on the radio. She started appearing
+in movies in the early 1930s. Her
+greatest film achievement was her role as
+Mammy in <title>Gone with the Wind</title> (1939), for
+which she won an Academy Award for best
+supporting actor. This was the first time an
+African American had won an Oscar. Altogether,
+she played in about 100 films, with
+only half of them attributed. After <title>Gone with the Wind</title>, Hattie was much in demand, and she made at least one movie a year during the
+1940s (except 1945), including <title>In This Our Life</title>
+(1942) and <title>Since You Went Away</title> (1944).</p>
+
+<p>In 1947 she began starring in <title>Beulah</title>, which
+became the most popular radio program in
+the United States. She was scheduled for a television
+version of <title>Beulah</title> but fell ill with breast
+cancer. Hattie McDaniel died on October 26,
+1952, and was buried in Rosedale Cemetery in
+Los Angeles.</p>
+
+
+<closer>
+<signed>Carlton Jackson<lb/>
+Western Kentucky University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jackson, Carlton. <title level="m">Hattie: The Life of Hattie McDaniel</title>. Lanham
+<hi rend="smallcaps">MD</hi>: Madison Books, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

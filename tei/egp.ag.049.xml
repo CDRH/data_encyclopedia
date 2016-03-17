@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Land Institute</title>
+<title level="m" type="sub"></title>
+<author>Marty Bender</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bender, Marty">Marty Bender</author>. <title level="a">"The Land Institute."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">47</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THE LAND INSTITUTE</head>
+
+<p>The Land Institute is a nonprofit organization
+that was established in 1976 on 370 acres near
+Salina, Kansas. It operates four programs devoted
+to sustainable agriculture and human
+communities.</p>
+
+<p>The research program in Natural Systems
+Agriculture (<hi rend="smallcaps">NSA</hi>) has been exploring a new
+agricultural model that mimics the native
+prairie ecosystem in order to develop a biodiverse,
+perennial grain agriculture that preserves
+soil, requires minimal or no fossil fuel
+inputs, yields adequately, and does not rely on
+harmful synthetic chemicals for fertility or
+pest management. A formal advisory board of
+sixty-four researchers in the fields of agronomy,
+ecology, and other sciences assists in setting
+the program's research agenda. <hi rend="smallcaps">NSA</hi> fellowships
+are offered to graduate students
+to foster relevant research done either at
+the fellow's home institution or at the Land
+Institute.</p>
+
+<p>Since 1992 the Sunshine Farm Research
+Program has been investigating the possibilities
+of farming without fossil fuels, synthetic
+fertilizers, or pesticides by using renewable
+energy technologies and innovative management
+practices to raise crops and livestock
+typical of Great Plains agriculture. The goal of
+this ten-year project is to examine the energetics
+of food production and its ecological
+costs.</p>
+
+<p>The Intern Program, begun in 1983, annually
+provides stipends for eight graduatelevel
+students who spend ten months as research
+assistants in <hi rend="smallcaps">NSA</hi> and the Sunshine
+Farm. The program focuses on the broader
+issues of sustainable society and agriculture as
+well.</p>
+
+<p>The Rural Community Studies Program,
+situated in the small town of Matfield Green
+in the Kansas Flint Hills, has been examining
+community viability along ecological lines
+rather than conventional economic ones. The
+program aims to maximize possibilities for
+cultural innovation in rural agricultural communities.
+Recent efforts include a small conference
+center, an education program for
+teachers and school administrators, and research
+into "ecological community accounting"
+that will measure the flow of energy and
+materials into and out of the community.</p>
+
+<closer>
+<signed>Marty Bender<lb/>
+The Land Institute</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jackson, Wes. <title level="m">Becoming Native to this Place</title>. Lexington:
+University Press of Kentucky, 1994.</bibl> <bibl>Soule, Judith D., and
+Jon K. Piper. <title level="m">Farming in Nature's Image</title>. Washington <hi rend="smallcaps">DC</hi>:
+Island Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

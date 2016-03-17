@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Barbed Wire</title>
+<title level="m" type="sub"></title>
+<author>Anne Dingus</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dingus, Anne">Anne Dingus</author>. <title level="a">"Barbed Wire."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">35</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BARBED WIRE</head>
+
+<p>Barbed wire signaled the end of the Old West
+and the beginning of modern ranching. Its
+advent during the 1870s and 1880s sounded the
+death knell for the trail drive and the open
+range and allowed the expansion of farming.
+Cattlemen at first resented barbed wire, but
+after a decade of wrangling over access to water
+and grasslands and waging fence-cutting
+wars, they acknowledged its benefits and
+adopted the newfangled fencing.</p>
+
+<p>No single person invented barbed wire, but
+in 1874 Joseph F. Glidden of DeKalb, Illinois,
+was the first to receive a patent for his innovation,
+a double strand of twisted wire interspersed
+with shorter lengths wrapped around
+it to form barbs. A few run-ins with the barbs
+convinced even stubborn critters to avoid the
+fence. Glidden dubbed his design "the Winner,"
+a name that proved prophetic. He joined
+forces with a local merchant, Isaac L. Ellwood,
+to manufacture the Winner; soon they
+counted among their customers 150 railroad
+companies, who used the fence to protect
+their tracks from herds running free. Eventually
+more than a thousand barbed-wire designs
+flooded the market, many with colorful
+names such as Split Diamond, Necktie, Buckthorn,
+Arrow Plate, and Spur-Rowel.</p>
+
+<p>In one persuasive incident in downtown San
+Antonio in 1878, barbed-wire salesman John
+W. "Bet-a-Million" Gates successfully corralled
+a herd of rambunctious longhorns inside
+a fence of Glidden's wire, which, he
+bragged, was "light as air, stronger than
+whisky, and cheap as dirt." Ranchers all across
+the Great Plains had to acknowledge that
+Gates's claims were true. They also appreciated
+barbed wire's availability in a region short
+on wood for fences, its resilience in extreme
+weather, and its ease of installation. Most importantly,
+it permitted the selective breeding
+of stock. The legendary plainsman Charles
+Goodnight, for example, was able to maintain
+a pure strain of imported English Herefords
+and to develop the "cattalo," a buffalo-shorthorn
+cross.</p>
+
+<p>Not all of the consequences of barbed wire
+were good. Large outfits could better afford
+both the fencing and the labor to erect it;
+smaller-scale ranchers were enraged to find
+themselves cut off, overnight, from once-public
+water holes, pastures, and trails. In
+Texas angry cowboys struck back at cattle
+barons with nighttime wire-snipping raids. By
+1883 the attacks had escalated into violence,
+forcing the Texas Rangers to patrol dozens of
+hot spots and prompting the state legislature
+to declare fence cutting a felony (a law that
+still stands today). And during severe blizzards
+throughout the Plains, drift fences&#8211;
+intended to prevent herds from drifting off
+the ranch&#8211;instead proved fatal to livestock,
+which headed south by instinct, only to pile
+up at the wire and freeze by the thousands.</p>
+
+<p>Today barbed wire is a fixture of the Great
+Plains. Cowboys have long counted among
+their regular duties the erection, inspection,
+and repair of fence line. The open range has
+long been closed, but barbed wire's story is
+preserved in two archives, the Kansas Barbed
+Wire Museum in LaCrosse and the Devil's
+Rope Museum in McLean, Texas.</p>
+
+<closer>
+<signed>Anne Dingus<lb/>
+Austin, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McCallum, Henry D., and Frances T. McCallum. <title level="m">The Wire
+That Fenced the West</title>. Norman: University of Oklahoma
+Press, 1965.</bibl> <bibl>Slatta, Richard W. <title level="m">The Cowboy Encyclopedia</title>.
+New York: W. W. Norton &amp; Company, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

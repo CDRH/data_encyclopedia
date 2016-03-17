@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Military Bases</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Military Bases."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">832</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILITARY BASES</head>
+
+<p>The Great Plains, with wide-open spaces permitting
+weapons testing and troop maneuvers
+in empty areas and flight practice under clear
+skies, as well as interior-of-the-continent security,
+is a major military region. From Offutt
+Air Force Base just south of Omaha, Nebraska,
+the United States Strategic Command
+(<hi rend="smallcaps">USSTRATCOM</hi>) wields its awesome power over
+a vast arsenal of bombers, missiles, submarines,
+subsidiary bases, and about 119,000 military
+and civilian personnel worldwide. The
+Canadian Land Command is also Plainsbased,
+with its headquarters at Winnipeg,
+Manitoba. Altogether, in 1995, there were fifty-seven
+military bases in the Great Plains, their
+distribution reaching from Canadian Forces
+Air Base at Cold Lake, Alberta, to Laughlin Air
+Force Base at Del Rio, Texas. These bases include
+air force, army, or land command, national
+guard and reserves, as well as military
+medical centers, training sites, arsenals, and
+combat ranges. (Recruiting stations, though
+they are strictly speaking also bases, are excluded
+from this count.)</p>
+
+<p>Some of the bases are massive, both in terms
+of personnel and extent. In 1995 Fort Carson
+Army Base, for example, on the south side of
+Colorado Springs, Colorado, had 16,200 active
+duty personnel and stretched over 373,000
+acres, and Fort Sill Army Base at Lawton,
+Oklahoma, had 17,795 men and women on
+active duty. Eight other bases had more than
+5,000 active personnel. Some bases, however,
+have only small maintenance staffs. Pueblo
+Army Depot, fourteen miles to the east of
+Pueblo, Colorado, has two people on active
+duty, and the Cornhusker Army Ordnance
+Plant at Grand Island, Nebraska, has a lonely
+staff of one.</p>
+
+<p>Military bases, as frontier forts, had proliferated
+in the Great Plains in the 1860s and
+1870s at the height of the Indian wars. Most
+of these posts were closed by the 1890s as the
+Indians, defeated more by famine and disease
+than in battle, were restricted to reservations.
+Some of the contemporary bases, however,
+link back to nineteenth-century military posts.
+Fort Leavenworth Army Base, at Leavenworth,
+Kansas, was founded in 1827, and Fort Riley,
+just west of Manhattan, Kansas, has been an
+army base since 1853. Military installations
+again proliferated during World Wars I and II,
+but most were disassembled when the wars
+ended. Others were continued: seventeen of
+the contemporary American bases were established
+from 1941 to 1943. These include Goodfellow
+Air Force Base near San Angelo, Texas;
+Cannon Air Force Base near Clovis, New Mexico;
+and Ellsworth Air Force Base near Rapid
+City, South Dakota.</p>
+
+<p>The larger military bases are substantial settlements
+in their own right. Fort Carson, in
+addition to its active personnel, employed
+more than 4,000 civilians in 1989 and was
+home to 39,000 family members. There were
+four schools on the base, a day-care center for
+287 children, a 195-bed hospital, and various
+stores. Relatively few Plains towns can boast a
+population and array of services like this.</p>
+
+<p>Because military bases are such an integral
+part of the settlement fabric in many parts of
+the Great Plains, a base closing can be calamitous
+to the functioning of nearby communities.
+Recent closures include Canadian Forces
+bases in Penhold and Calgary, Alberta, Lowry
+Air Force Base in Denver, and Carswell Air
+Force Base in Fort Worth, Texas. Some proposed
+closures were resisted. Goodfellow Air
+Force Base was scheduled to be closed in 1978.
+It was saved by the energetic campaigning of a
+"Blitz Committee," formed by the San Angelo
+City Council, aided by the behind-the-scenes
+lobbying of Sen. John Tower. Nevertheless, a
+military base is a precarious foundation for
+the local economy, particularly in phases of
+reduced government expenditures.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cragg, Dan. <title level="m">Guide to Military Installations</title>. Harrisburg <hi rend="smallcaps">PA</hi>:
+Stackpole Books, 1988.</bibl> <bibl>Evinger, William. <title level="m">Directory of
+United States Military Bases Worldwide</title>. Phoenix: Oryx
+Press, 1995.</bibl> <bibl>Hoover, Karl D. <title level="m">Base Closure: Politics or National
+Defense Issue? Goodfellow Air Force Base, Texas,
+1978-1981</title>. San Angelo <hi rend="smallcaps">TX</hi>: Headquarters Air Training
+Command History and Research Office, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

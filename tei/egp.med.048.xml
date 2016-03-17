@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.med.048 SYSTEM "egp.med.048.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Western Producer</hi></title>
+<title level="m" type="sub"></title>
+<author>Kerry Badgley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Badgley, Kerry">Kerry Badgley</author>. <title level="a">"<hi rend="italic">Western Producer</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">523-524</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<figure n="egp.med.048" rend="granted">
+<figDesc>Western Producer, Saskatoon</figDesc>
+</figure>
+
+
+<div1>
+<head type="main"><hi rend="italic">WESTERN PRODUCER</hi></head>
+
+<p>A Saskatoon-based weekly newspaper founded
+in 1924, the <title level="j">Western Producer</title> began publishing
+in 1923 as the <title level="j">Progressive</title>. Founders Harris
+Turner and Pat Waldren proposed establishing
+a newspaper to the Saskatchewan Grain Growers
+Association (<hi rend="smallcaps">SGGA</hi>), which eventually endorsed
+the venture, providing $7,000 in loans
+and 5,000 subscribers. In return, the SGGA was
+granted three places on the five-member editorial
+board. To encourage members of the
+recently created Saskatchewan Wheat Pool
+(<hi rend="smallcaps">SWP</hi>) to subscribe and to avoid association
+with the federal Progressive Party, the paper's
+name was changed, printing its first edition
+under the <title level="j">Western Producer</title> banner in September
+1924.</p>
+
+<p>Despite the influence of the <hi rend="smallcaps">SGGA</hi>, the <title level="j">Western Producer</title> became known for its objective,
+nonpartisan, high-quality reporting. Among
+its many influential journalists was Violet
+McNaughton, a prominent <hi rend="smallcaps">SGGA</hi> member and
+woman's rights advocate.</p>
+
+<p>The Great Depression created hardships for
+the <title level="j">Western Producer</title>. Subscriptions began
+falling, and, in order to avoid ruin, the <hi rend="smallcaps">SWP</hi>
+purchased the paper in 1931, operating it as a
+subsidiary. Despite the <title level="j">Western Producer</title>'s
+problems, it retained more than 100,000 subscribers
+during the Depression years. In the
+1950s the <title level="j">Western Producer</title> ventured into book
+publishing. Its first monograph appeared in
+1958 and led to the creation of Western Producer
+Prairie Books. By 1983 more than 100
+books on several Prairie topics had been
+printed. Budgetary constraints, however, led
+to the dissolution of the press in the 1990s.</p>
+
+<p>The <title level="j">Western Producer</title> continues to perform
+vital economic, political, and social functions.
+In addition to providing agricultural news, the
+paper includes sections for youth, women, and
+rural society in general. The <title level="j">Western Producer</title>
+has had a considerable influence on Prairie
+society and simultaneously embodies Prairie
+farmers' independence and cooperative spirit.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.057">Saskatchewan Wheat Pool</ref>.</p>
+
+<closer>
+<signed>Edward Badgley<lb/>
+National Archives of Canada</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fairbairn, Garry Lawrence. <title level="m">From Prairie Roots: The Remarkable Story of the Saskatchewan Wheat Pool</title>. Saskatoon,
+Saskatchewan: Western Producer Prairie Books,
+1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

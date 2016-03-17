@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Guthrie, A. B., Jr. (1901-1991)</title>
+<title level="m" type="sub"></title>
+<author>Paul T. Bryant</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bryant, Paul T.">Paul T. Bryant</author>. <title level="a">"Guthrie, A. B., Jr. (1901-1991)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">479</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GUTHRIE, A. B., JR. (1901-1991)</head>
+
+<p>Alfred Bertram Guthrie Jr. is best known for
+his cycle of six novels spanning the exploration
+and settlement of the West from the days
+of the fur trade through the mid–twentieth
+century (<title level="m">The Big Sky</title>, 1947; <title level="m">The Way West</title>,
+1949; <title level="m">These Thousand Hills</title>, 1956; <title level="m">Arfive</title>, 1971;
+<title level="m">Last Valley</title>, 1975; <title level="m">Fair Land, Fair Land</title>, 1982).
+He also produced six relatively slight mystery
+novels, the screenplays for Shane and <title level="m">The Kentuckian</title>,
+a children's book, a volume of poetry,
+and short stories. All the fiction, except the
+last mystery, are set in the Plains of eastern
+Montana and at the edge of the Rocky Mountains.
+His autobiography, <title level="m">The Blue Hen's Chick</title>
+(1965), reveals the influence of the "Big Sky
+Country" on his vision of the westward movement
+and the consequences of the closing of
+the frontier.</p>
+
+<p>Guthrie was born January 13, 1901, in Bedford,
+Indiana, but moved with his family to
+Choteau, Montana, six months later. Like his
+father, he felt a sense of freedom on the Plains
+and in the mountains, and he made the Choteau
+area the hub of his fiction. The landscape
+is significant in all his fiction, and space is a
+persistent theme.</p>
+
+<p>After graduation from the University of
+Montana, Guthrie worked at a variety of jobs,
+including as a newspaper reporter in Lexington,
+Kentucky. In 1944 a Nieman Fellowship
+to Harvard gave him the opportunity to
+work on <title level="m">The Big Sky</title>. After publication of his
+second novel, The Way West, he left newspaper
+work and returned to Montana to write
+fiction. He died in Choteau on April 26, 1991.</p>
+
+<closer>
+<signed>Paul T. Bryant<lb/>
+Radford, Virginia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bryant, Paul T. "External Characterization in The Big Sky."
+<title level="j">Western American Literature</title> 31 (1996): 195–210.</bibl> <bibl>Ford,
+Thomas W. <title level="m">A. B. Guthrie, Jr</title>. Boston: Twayne, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.000 SYSTEM "egp.pg.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Politics and Government</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Politics and Government</head>
+
+<figure n="egp.pg.000" rend="granted">
+<figDesc>John Diefenbaker</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.pg.001">Politics and Government</ref></item>
+<item><ref n="egp.pg.002">Abbott, Grace</ref></item>
+<item><ref n="egp.pg.003">Alberta</ref></item>
+<item><ref n="egp.ha.003">Baca, Polly <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.pg.005">Bellmon, Henry</ref></item>
+<item><ref n="egp.pg.006">Bennett, Richard B.</ref></item>
+<item><ref n="egp.pg.007">Bryan, William Jennings</ref></item>
+<item><ref n="egp.pg.008">Bush, George H. W.</ref></item>
+<item><ref n="egp.pg.009">Bush, George W.</ref></item>
+<item><ref n="egp.ha.008">Chavez, Linda <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.pg.011">Civil Divisions of Government</ref></item>
+<item><ref n="egp.pg.012">Clark, Joe</ref></item>
+<item><ref n="egp.pg.013">Colorado</ref></item>
+<item><ref n="egp.pg.014">Cooperative Commonwealth Federation</ref></item>
+<item><ref n="egp.ct.015">County Seats <hi rend="italic">See</hi> <hi rend="smallcaps">Cities and Towns</hi></ref></item>
+<item><ref n="egp.pg.016">Democratic Party</ref></item>
+<item><ref n="egp.pg.017">Diefenbaker, John</ref></item>
+<item><ref n="egp.pg.018">Direct Democracy</ref></item>
+<item><ref n="egp.pg.019">Dole, Bob</ref></item>
+<item><ref n="egp.pg.020">Douglas, Tommy</ref></item>
+<item><ref n="egp.pg.021">Eisenhower, Dwight D.</ref></item>
+<item><ref n="egp.pg.022">Fall, Albert</ref></item>
+<item><ref n="egp.pg.023">Federal Government, Canada</ref></item>
+<item><ref n="egp.pg.024">Federal Government, United States</ref></item>
+<item><ref n="egp.pg.025">Ferguson, James and Miriam</ref></item>
+<item><ref n="egp.pg.026">Ford, Gerald</ref></item>
+<item><ref n="egp.pg.027">Forty-ninth Parallel</ref></item>
+<item><ref n="egp.pg.028">Frazier, Lynn</ref></item>
+<item><ref n="egp.ag.042">Gardiner, Jimmy <hi rend="italic">See</hi> <hi rend="smallcaps">Agriculture</hi></ref></item>
+<item><ref n="egp.pg.030">Hogg, James</ref></item>
+<item><ref n="egp.pg.031">Humphrey, Hubert</ref></item>
+<item><ref n="egp.pg.032">Indian Agents</ref></item>
+<item><ref n="egp.pg.033">Indian Country</ref></item>
+<item><ref n="egp.pg.034">Johnson, Lyndon Baines</ref></item>
+<item><ref n="egp.pg.035">Kansas</ref></item>
+<item><ref n="egp.pg.036">Kansas-Nebraska Act</ref></item>
+<item><ref n="egp.pg.037">Kasselbaum, Nancy</ref></item>
+<item><ref n="egp.pg.038">Landon, Alfred</ref></item>
+<item><ref n="egp.pg.039">Langer, William</ref></item>
+<item><ref n="egp.pg.040">Lemke, William</ref></item>
+<item><ref n="egp.pg.041">Liberal Party</ref></item>
+<item><ref n="egp.pg.042">Lougheed, Edgar Peter</ref></item>
+<item><ref n="egp.pg.043">Louisiana Purchase</ref></item>
+<item><ref n="egp.pg.044">Manitoba</ref></item>
+<item><ref n="egp.pg.045">Mansfield, Mike</ref></item>
+<item><ref n="egp.pg.046">McGovern, George</ref></item>
+<item><ref n="egp.pg.047">Meighen, Arthur</ref></item>
+<item><ref n="egp.pg.048">Monroney, Mike</ref></item>
+<item><ref n="egp.pg.049">Montana</ref></item>
+<item><ref n="egp.pg.050">Morton, J. Sterling</ref></item>
+<item><ref n="egp.pg.051">Mundt, Karl</ref></item>
+<item><ref n="egp.pg.052">National Progressive Party</ref></item>
+<item><ref n="egp.pg.053">Nebraska</ref></item>
+<item><ref n="egp.pg.054">New Deal</ref></item>
+<item><ref n="egp.pg.055">New Democratic Party</ref></item>
+<item><ref n="egp.pg.056">New Mexico</ref></item>
+<item><ref n="egp.pg.057">Norbeck, Peter</ref></item>
+<item><ref n="egp.pg.058">Norris, George W.</ref></item>
+<item><ref n="egp.pg.059">North Dakota</ref></item>
+<item><ref n="egp.pg.060">Nye, Gerald</ref></item>
+<item><ref n="egp.pg.061">Oklahoma</ref></item>
+<item><ref n="egp.pg.062">Pettigrew, Richard</ref></item>
+<item><ref n="egp.pg.063">Populists (People's Party)</ref></item>
+<item><ref n="egp.ag.053">Prairie Farm Rehabilitation Administration <hi rend="italic">See</hi> <hi rend="smallcaps">Agriculture</hi></ref></item>
+<item><ref n="egp.pg.065">Progressive Conservative Party</ref></item>
+<item><ref n="egp.pg.066">Railroad Politics</ref></item>
+<item><ref n="egp.pg.067">Rankin, Jeannette</ref></item>
+<item><ref n="egp.pg.068">Reform Party</ref></item>
+<item><ref n="egp.pg.069">Republican Party</ref></item>
+<item><ref n="egp.ha.036">Richardson, Bill<hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.pg.071">Ross, Nellie Tayloe</ref></item>
+<item><ref n="egp.gen.032">Salter, Susanna <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.pg.073">Saskatchewan</ref></item>
+<item><ref n="egp.pg.074">Sifton, Clifford</ref></item>
+<item><ref n="egp.pg.075">Silver Republicans</ref></item>
+<item><ref n="egp.pg.076">Sorensen, Ted</ref></item>
+<item><ref n="egp.pg.077">South Dakota</ref></item>
+<item><ref n="egp.na.110">Sovereignty <hi rend="italic">See</hi> <hi rend="smallcaps">Native Americans</hi></ref></item>
+<item><ref n="egp.ag.068">Swan, Alexander <hi rend="italic">See</hi> <hi rend="smallcaps">Agriculture</hi></ref></item>
+<item><ref n="egp.pg.080">Teller, Henry</ref></item>
+<item><ref n="egp.pg.081">Texas</ref></item>
+<item><ref n="egp.pg.082">Texas Republic</ref></item>
+<item><ref n="egp.pg.083">Tribal Governments, Contemporary</ref></item>
+<item><ref n="egp.pg.084">Voting Patterns, Canada</ref></item>
+<item><ref n="egp.pg.085">Voting Patterns, United States</ref></item>
+<item><ref n="egp.pg.086">Warren, Francis</ref></item>
+<item><ref n="egp.afam.043">Watts, J. C.</ref> <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></item>
+<item><ref n="egp.afam.044">Webb, Wellington and Wilma <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.pg.089">Wyoming</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

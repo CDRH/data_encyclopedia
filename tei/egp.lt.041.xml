@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mandel, Eli (1922-1992)</title>
+<title level="m" type="sub"></title>
+<author>William H. New</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="New, William H.">William H. New</author>. <title level="a">"Mandel, Eli (1922-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">484</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MANDEL, ELI (1922-1992)</head>
+
+<p>Elias Wolf Mandel, the Canadian poet and critic,
+was born to a Jewish family in Estevan, Saskatchewan,
+on December 3, 1922. He grew up
+there and in Regina, and he was always influenced
+by his western origins. He first left the
+Prairies in 1943, when he served in Europe with
+the Canadian Army Medical Corps. Returning
+in 1945, he completed his bachelor's (1949) and
+master's (1950) at the University of Saskatchewan
+in Saskatoon, then left again to complete a
+doctorate (on the writings of Christopher
+Smart) at the University of Toronto (1957).
+Mandel's academic appointments took him to
+St. Jean (Quebec), Edmonton (Alberta), and
+(after his separation from his first wife, the
+poet Miriam Mandel) to York University in
+Toronto, where he remained as professor of
+English and humanities from 1967 until he suffered
+a major stroke in 1989. He died on September
+3, 1992.</p>
+
+<p>Author and editor of twenty books, Mandel
+acquired a substantial reputation as a theorist
+of Canadian poetry (as in <title level="m">Another Time</title>, 1977,
+and the anthology <title level="m">Contexts of Canadian Criticism</title>,
+1971) and as a poet. Early commentaries
+on his work (e.g., on <title level="m">Black and Secret Man</title>,
+1964) described it as mythic, seeing in it the
+influence of Northrop Frye. Later commentary,
+responding to <title level="m">Stony Plain</title> (1973), <title level="m">Out of Place</title> (1977, with photographs by his second
+wife, the critic Ann Mandel), <title level="m">Life Sentence</title>
+(1981), and <title level="m">Dreaming Backwards</title> (selected
+poems, 1981), recognized that the influences
+on his work are more wide-ranging. Mandel's
+interest in mysticism, his wit, and his fascination
+with doubles, ambiguity, chaos, and the
+paradox of being an individual in a socially
+interdependent world, for example, derive
+from his personal travels (in India, Spain,
+Peru), his readings in George Steiner and others,
+and his Jewish Prairie heritage. Increasingly,
+he meditated on what this heritage
+meant to him, not so much as a set of received
+religious traditions but as an accumulation of
+memories that he associates with place.</p>
+
+<closer>
+<signed>William H. New<lb/>
+University of British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cooley, Dennis. <title level="m">Eli Mandel and His Works</title>. Toronto: <hi rend="smallcaps">ECW</hi>
+Press, 1992.</bibl> <bibl>New, W. H. "Interim Conclusion: Reading Eli
+Mandel's 'The Madwomen of the Plaza de Mayo.'" In <title level="m">Inside the Poem</title>, edited by W. H. New. Toronto: Oxford
+University Press, 1992: 160–64.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

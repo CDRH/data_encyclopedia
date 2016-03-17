@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.011 SYSTEM "egp.afam.011.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brown, "Aunt" Clara (1803-1885)</title>
+<title level="m" type="sub"></title>
+<author>Thomas J. Noel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Noel, Thomas J.">Thomas J. Noel</author>. <title level="a">"Brown, "Aunt" Clara (1803-1885)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">12</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BROWN, "AUNT" CLARA (1803-1885)</head>
+
+<figure n="egp.afam.011" rend="granted">
+<figDesc>"Aunt" Clara Brown, between 1875 and 1880</figDesc>
+</figure>
+
+<p>"Aunt" Clara Brown was born in Tennessee
+in 1803 to slave parents, who were sold to
+separate owners when she was only three. She
+went with her mother to the home of Ambrose
+Smith, a farmer in Logan County, Kentucky.
+Smith, a kindly man and a devout
+Methodist, took Clara and her mother to his
+church services.</p>
+
+<p>Clara was eighteen and a tall, strong woman
+with warm brown eyes when the Smiths
+bought an eighteen-year-old carpenter slave,
+Richard. When he and Clara fell in love, they
+were encouraged to marry and produce children
+to work the Smiths' farm. They were separated
+when Clara was sold to George Brown.
+Following southern custom, she, like other
+mature female slaves, was called "Aunt" and
+given the last name of her new owner. The
+Browns liked Clara's intelligence and spunk
+and helped her buy her freedom. She moved
+to St. Louis, where Missouri law protected free
+blacks. She later went with the Browns when
+they emigrated to Kansas. There she joined a
+wagon train headed to Colorado, earning her
+way as a cook. She arrived at Denver in June
+of 1859.</p>
+
+<p>Denver's first-recorded black woman, Aunt
+Clara opened a shop as a laundress, worked
+hard, and scraped together $5,000 to go back
+to Logan County, Kentucky, to look for her
+husband, children, and friends. She returned
+to Colorado with one daughter and other relatives
+and friends newly freed from bondage.</p>
+
+<p>Aunt Clara moved to Central City and resumed
+her laundering work, toiling long
+hours and denying herself any luxuries. With
+the money she saved she funded the construction
+of St. James Methodist Church,
+which thrives to this day. She died in her sleep
+on October 23, 1885. At her burial at Denver's
+Riverside Cemetery, Colorado governor James
+B. Grant, Denver mayor John L. Routt, and
+other dignitaries praised Aunt Clara as "the
+kind old friend whose heart always responded
+to the cry of distress, and who, rising from the
+humble position of slave to the angelic type of
+noble woman, won our sympathy and commanded
+our respect."</p>
+
+<closer>
+<signed>Thomas J. Noel<lb/>
+University of Colorado at Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruyn, Kathleen. <title level="m">"Aunt" Clara Brown: Story of a Black
+Pioneer</title>. Boulder: Pruett Publishing Co., 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

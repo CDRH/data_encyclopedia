@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Territory of New Mexico v. Yee Shun</title>
+<title level="m" type="sub"></title>
+<author>John R. Wunder</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wunder, John R.">John R. Wunder</author>. <title level="a">"Territory of New Mexico v. Yee Shun."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">146-147</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TERRITORY OF NEW MEXICO V. YEE SHUN</head>
+
+<p><title>Territory of New Mexico v. Yee Shun</title> (1884) is
+a landmark case that established the right
+of Chinese Americans to participate in the
+American constitutional system. For the first
+time, an American court of last resort guaranteed
+non-Christian Chinese and other Asian
+Americans the right to testify in courts of law.</p>
+
+<p>On the evening of February 24, 1882, a
+young Chinese man, Yee Shun, exited a train in
+Las Vegas, New Mexico Territory, and walked
+to a nearby laundry. He had been on his way to
+a job at a Las Vegas hotel but had decided instead
+to travel on to Albuquerque. He stopped
+in Las Vegas because he wanted to make sure
+that his mail could be forwarded, and so he
+sought to find his local contact. There were
+four Chinese men gathered at the laundry. The
+owner indicated that he could escort Yee Shun
+to meet his friend, but before he could do so,
+another Chinese man, Jim Lee, came into
+the room from the back and two shots rang
+out. Jim Lee was shot dead, the owner was
+wounded, and the others, including Yee Shun,
+escaped. Yee Shun was apprehended and
+charged with second-degree murder.</p>
+
+<p>At the trial, crucial testimony came from
+Jo Chinaman, one of the men who had been
+present inside the laundry. He testified that
+he had seen Yee Shun pull out a gun and shoot
+Jim Lee. Before his damning testimony, Jo
+Chinaman had been asked if he was a Christian
+and whether he understood the oath to
+tell the truth. He replied that he was not a
+Christian and that he did not understand the
+oath, but that he would tell the truth. The
+judge deemed this sufficient to allow the testimony,
+and a jury of twelve Mexican Americans
+found Yee Shun guilty of murder. Yee
+Shun's attorney appealed the verdict to the
+New Mexico Territory Supreme Court on the
+basis that Chinese witnesses who were not
+Christians could not take the oath, and therefore
+their testimony could not be allowed. It
+should also be noted that Jo Chinaman had
+been at the laundry to force the owner to sell,
+and when the police arrived he said he knew
+nothing about the murder.</p>
+
+<p>The territorial Supreme Court heard the
+case and decided that Chinese could in fact
+testify in New Mexico's courts as long as the
+court inquired as to the custom the witness
+would invoke in his culture when testifying
+and confirmed that the witness believed an
+oath to be binding on his conscience. After <title>Yee Shun</title> more states and territories soon began to
+allow Chinese to testify in their courts. Prior
+to the decision, only Nebraska, Colorado, and
+Texas in the Great Plains protected the Chinese
+right to testify, and they did so through
+their state constitutions. The only other western
+states guaranteeing Chinese testimony
+were Nevada and Oregon. Only Kansas continued
+to question whether Chinese Americans
+might testify at all. In 1909 Nebraska used
+the <title>Yee Shun</title> decision to guarantee the right
+of Japanese Americans to testify in American
+courts, the first such decision made by a state
+or federal court.</p>
+
+<p>For Yee Shun, this important breakthrough
+in Asian American civil rights was of no avail.
+He was sentenced to life in prison and transported
+to Leavenworth, Kansas (New Mexico
+did not have a secure prison and contracted
+with the state of Kansas to hold its prisoners).
+Yee Shun then lost his appeal, and sometime
+after being informed of this decision, in the
+early morning hours of September 11, 1884, he
+committed suicide by hanging himself in his
+cell with a rope fashioned from his bed linens.</p>
+
+<closer>
+<signed>John R. Wunder<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wunder, John R. "Chinese in Trouble: Criminal Law and
+Race on the Trans-Mississippi West Frontier." <title level="j">Western Historical Quarterly</title> 17 (1986): 25–41.</bibl> <bibl>Wunder, John R.
+"<title>Territory of New Mexico v. Yee Shun</title> (1882): A Turning
+Point in Chinese Legal Relationships in the Trans-
+Mississippi West." <title level="j">New Mexico Historical Review</title> 65 (1990):
+305–18.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

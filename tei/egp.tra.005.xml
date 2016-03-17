@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bozeman Trail</title>
+<title level="m" type="sub"></title>
+<author>Jay H. Buckley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Buckley, Jay H.">Jay H. Buckley</author>. <title level="a">"Bozeman Trail."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">800</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BOZEMAN TRAIL</head>
+
+<p>The Bozeman Trail served as the most direct
+route from Julesburg, Colorado, through the
+Powder River Country to the gold fields of Montana
+in the mid-1860s. Mapped and marked by
+John M. Bozeman and John M. Jacobs, the road
+veered northwest from the Oregon-California
+Trail at Bridger's Ferry (Fort Fetterman after
+1867) on the North Platte River in eastern Wyoming,
+skirted the Big Horn Mountains to the
+Yellowstone River valley, and crossed Bozeman
+Pass to Virginia City, Montana.</p>
+
+<p>Lakotas, enraged by this invasion of their
+hunting grounds, attacked travelers along the
+route. The U.S. army provided protection with
+military escorts and by establishing Forts
+Reno, Phil Kearny, and C. F. Smith in 1866.
+Nevertheless, Lakota, Cheyenne, and Arapaho
+warriors continued warring against construction
+parties and wagon trains. The Native
+Americans experienced both dramatic victories
+and demoralizing defeats. Following their
+Sun Dance in the summer of 1867, the Lakotas
+planned to destroy all the forts. Their advantage
+disappeared when the army replaced their
+muzzle-loaders with the more accurate, fastershooting
+Springfield breech-loading rifles.
+During two decisive conflicts in August 1867,
+the Hayfield fight near Fort C. F. Smith and the
+Wagon Box fight near Fort Phil Kearny, small
+military detachments repelled overwhelming
+numbers of Indian attackers. In 1868 Red
+Cloud signed the Fort Laramie Treaty, agreeing
+to settle his Lakotas on the Great Sioux Reservation.
+In return, the United States abandoned
+the Bozeman Trail.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.044">Sioux Wars</ref>.</p>
+
+<closer>
+<signed>Jay H. Buckley<lb/>
+Brigham Young University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hebard, Grace R., and Earl A. Brininstool. <title level="m">The Bozeman
+Trail: Historical Accounts of the Blazing of the Overland
+Routes into the Northwest, and the Fights with Red Cloud's
+Warriors</title>. Lincoln: University of Nebraska Press, 1990.</bibl>
+<bibl>Murray, Robert A. <title level="m">The Bozeman Trail: Highway of History</title>.
+Boulder <hi rend="smallcaps">CO</hi>: Pruett Publishing Company, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

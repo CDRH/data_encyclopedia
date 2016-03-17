@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mad Pioneer Women</title>
+<title level="m" type="sub"></title>
+<author>Nancy B. Johnson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Johnson, Nancy B.">Nancy B. Johnson</author>. <title level="a">"Mad Pioneer Women."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">392</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MAD PIONEER WOMEN</head>
+
+<p>Shaped by the spoken and written word, the image of mad pioneer women has been handed down from generation to generation, perpetuating the notion that a large segment of women failed to endure the hardships of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> settlement experience and were driven insane. Documented accounts include women who suffered depression, took to their beds, committed suicide, killed their children, were locked away in back rooms and attics, and were sent to and died in asylums. Often buried in unmarked graves, their illnesses became dark family secrets, and their individual stories are lost to history.</p>
+
+<p>Although based on fact, the idea that it was primarily women who were driven to madness by the isolation, hardships, and environment of the settlement experience is misleading. Madness was not unique to women, to those isolated in rural environments, to those in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, or even to those in America. During the nineteenth century, mental disorders and insanity were not only experienced in the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> and <placeName rend="country" key="can" reg="Canada">Canada</placeName> but also appeared to be widespread and were feared to be rapidly increasing in western European countries, including <placeName rend="country" key="eng" reg="England">England</placeName> and <placeName rend="country" key="fr" reg="France">France</placeName>.</p>
+
+<p>The federal census of 1880 suggests that, for undetermined reasons, the number of persons regarded to be insane increased greatly in the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> during the latter part of the nineteenth century. By 1880 most of the insane had been committed to institutions. There were nearly 140 asylums in the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>; 7 were in the <geogName rend="region" reg="Great Plains">Plains</geogName> states. In <placeName rend="country" key="ne" reg="Nebraska">Nebraska</placeName> the 1880 population was 452,402, and 450 of them were recorded as insane. One half of those were women.</p>
+
+<p>As the <geogName rend="region" reg="Great Plains">Great Plains</geogName> was settled, the building of insane asylums took place as part of the region's development. However, the establishment of insane asylums was not only a response to peculiar frontier needs but also a reflection of the movement to organize special hospitals for the mentally ill across <placeName rend="country" key="usa" reg="United States of America">America</placeName>. Legislative bodies often dealt with widely publicized appropriations for facilities as well as accusations of abuses concerning the mentally ill. Well-meant reforms in the treatment of the insane were undertaken; they generally failed in the face of overcrowding and aging facilities. The life of an occupant was usually one of desolation; as time passed this was accepted as the norm.</p>
+
+<p>Nineteenth-century explanations of pioneer women's mental disorders include the deaths of family members, physical and emotional abuse, substance abuse, poverty, and worry as well as family histories of mental illness. The illnesses of men were often credited to disappointment in love, financial difficulties, and physical illness. Causes of mental illnesses listed by one <geogName rend="region" reg="Great Plains">Plains</geogName> institution in the settlement years included mania, dementia, general paralysis, melancholia, and intemperance.</p>
+
+<p>Today, cultural change is listed as a major cause of mental disorders. <geogName rend="region" reg="Great Plains">Great Plains</geogName> pioneer women and men experienced great cultural change in an environment that became a constant reminder of that change. Some were not strong enough to withstand the change and became part of the image of those who were called mad.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Nancy B. Johnson<lb/>
+Central City, Nebraska</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Grob, Gerald N. <title level="m">Mental Illness and American Society, 1875–1940</title>. Princeton <hi rend="smallcaps">NJ</hi>: Princeton University Press, 1983.</bibl> <bibl>Johnson, Nancy B. "<title level="a">Crazy Quilt Legacy: Uncovering Myths of Women's Madness on the Plains</title>." Master's thesis, University of Nebraska at Kearney, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

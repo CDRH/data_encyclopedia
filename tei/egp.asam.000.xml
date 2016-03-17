@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.asam.000 SYSTEM "egp.asam.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Asian Americans</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+
+<div1 type="contents">
+
+<head>Asian Americans</head>
+
+<figure n="egp.asam.000" rend="granted">
+<figDesc>City commissioners and local Chinese delegation, Calgary, Alberta, October 13, 1901</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.asam.001">Asian Americans</ref></item>
+<item><ref n="egp.asam.002">Amache Internment Camp</ref></item>
+<item><ref n="egp.asam.003">Asian Canadians</ref></item>
+<item><ref n="egp.asam.004">Asian Exclusion Legislation</ref></item>
+<item><ref n="egp.rel.008">Buddhism. <hi rend="italic">See</hi> <hi rend="smallcaps">Religion</hi></ref></item>
+<item><ref n="egp.asam.006">Calgary Chinatown</ref></item>
+<item><ref n="egp.asam.007">Chinese</ref></item>
+<item><ref n="egp.asam.008">Deadwood Chinatown</ref></item>
+<item><ref n="egp.asam.009">Denver Buddhist Temple</ref></item>
+<item><ref n="egp.asam.010">Denver Chinatown</ref></item>
+<item><ref n="egp.asam.011">Denver's Anti-Chinese Riot</ref></item>
+<item><ref n="egp.asam.012">Female Employment Act</ref></item>
+<item><ref n="egp.asam.013">Hosokawa, William</ref></item>
+<item><ref n="egp.asam.014">Japanese</ref></item>
+<item><ref n="egp.asam.015">Kano, Father Hiram Hisanori</ref></item>
+<item><ref n="egp.asam.016">Kogawa, Joy Nozomi</ref></item>
+<item><ref n="egp.asam.017">National Japanese American Student Relocation Council</ref></item>
+<item><ref n="egp.asam.018">Nikka Yuko Garden</ref></item>
+<item><ref n="egp.asam.019">Poison Porridge Case</ref></item>
+<item><ref n="egp.asam.020">Sou, Chin lin</ref></item>
+<item><ref n="egp.asam.021"><title>Territory of New Mexico v. Yee Shun</title></ref></item>
+<item><ref n="egp.asam.022">Vietnamese</ref></item>
+<item><ref n="egp.asam.023">Wong, Fee Lee (Wing Tsue)</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

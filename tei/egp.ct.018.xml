@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.018 SYSTEM "egp.ct.018.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver, Colorado</title>
+<title level="m" type="sub"></title>
+<author>Thomas J. Noel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Noel, Thomas J.">Thomas J. Noel</author>. <title level="a">"Denver, Colorado."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">166</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DENVER, COLORADO</head>
+
+<figure n="egp.ct.018" rend="granted">
+<figDesc>Denver, Colorado</figDesc>
+</figure>
+
+<p>Denver, the capital of Colorado, was established
+by a party of prospectors on November
+22, 1858, after gold was discovered at the confluence
+of Cherry Creek and the South Platte
+River. The town founders named the dusty
+crossroads after James W. Denver, governor
+of Kansas Territory, of which eastern Colorado
+was then a part. Other gold discoveries
+sparked a mass migration of some 100,000
+people in 1859–60, leading the federal government
+to establish Colorado Territory in 1861.</p>
+
+<p>The "Mile High City's" aggressive leadership,
+spearheaded by William N. Byers,
+founding editor of the Rocky Mountain News,
+and Territorial Governor John Evans, insisted
+on the removal of the original inhabitants,
+Cheyennes and Arapahos, from the area. Denverites
+then built a network of railroads that
+made their town the banking, minting, supply,
+and processing center for Colorado and
+neighboring states. Between 1870, when the
+first railroads arrived, and 1890, Denver's population
+grew from 4,759 to 106,713. In a single
+generation it became the second most populous
+city in the West, second only to San Francisco.
+Although initially founded as the main
+supply town for Rocky Mountain mining
+camps, Denver also emerged as a hub for High
+Plains agriculture, with breweries, bakeries,
+and meatpacking and other food-processing
+plants as well as farm and ranch equipment,
+barbed-wire, and windmill manufacturing.</p>
+
+<p>Economic depression during the 1890s and
+repeal of the Sherman Silver Purchase Act
+in 1893 abruptly ended Denver's first boom.
+Growth began again after 1900 but at a slower
+rate. Stockyards, brickyards, canneries, flour
+mills, and leather and rubber production
+powered the city. Of the many Denver-area
+breweries, only Coors has survived, and it is
+now the nation's third largest producer.</p>
+
+<p>Regional or national headquarters of many
+oil and gas firms fueled much of Denver's
+post.World War II growth and resulted in an
+eruption of forty- and fifty-story high-rises
+downtown in the 1970s. Denver's economic
+base has also come to include skiing and tourism,
+electronics, computers, aviation, and the
+nation's largest telecommunications center. As
+the regional center of a vast mountain and
+Plains hinterland, Denver boasts more federal
+employees than any city except Washington
+dc. Since the 1940s, the large federal center,
+augmented by state and local government
+jobs, has stabilized the city's boom-and-bust
+cycle, but an overreliance on a nonrenewable
+resource returned to haunt the city during the
+1980s oil bust. When the price of crude oil
+dropped from $39 to $9 a barrel, Denver sank
+into a depression, losing population and experiencing
+the highest office vacancy rate in the
+nation. Prosperity has since returned.</p>
+
+<p>Visually, Denver is notable for its predominance
+of single-family housing and its brick
+buildings. Good brick clay underlies much of
+the area, while local construction lumber is
+soft, scarce, and inferior. Even in the poorest
+residential neighborhoods, single-family detached
+housing prevails, reflecting the western
+interest in "elbow room" as well as the spacious,
+relatively flat High Plains site, where
+sprawling growth in all directions except west
+is unimpeded by geographic obstacles.</p>
+
+<p>Denver always has been obsessed with transportation
+systems. Fear of being bypassed began
+early when railroads and later airlines
+originally avoided Denver because of the
+14,000-foot-high Rocky Mountain barrier just
+west of town. To secure Denver's place on national
+transportation maps, the city opened a
+new five-billion-dollar airport in 1995. The
+fifty-five-square-mile Denver International
+Airport is the nation's largest in terms of area
+and capacity for growth, prompting boosters
+to call it the world's largest. Denver is a sprawling
+city in a state of long distances and mountainous
+obstacles. To tackle those distances and
+tough terrain, Coloradoans have become dependent
+on cars. Denver has one of the highest
+per capita motor vehicle ownership rates in the
+country, with almost one licensed vehicle for
+every man, woman, and child. In the 1990s
+Denver built an outer ring of freeways, which
+immediately became congested. Even after the
+Regional Transportation District began building
+a light-rail system, highway congestion has
+remained the number one complaint of many
+Denverites.</p>
+
+<p>By 2000 the metro area had reached a population
+of 2.1 million, three-fourths of whom
+live in the suburban counties of Adams, Arapahoe,
+Boulder, Denver, Douglas, and Jefferson.
+Roughly 20 percent of the core city population
+have a Spanish surname, 13 percent are African
+American, 2 percent Asian, and 1 percent Native
+American. Denver has elected Latino
+(Federico Pena, 1983-91) and African American
+(Wellington Webb, 1991-2003) mayors in
+recent years and has enjoyed relatively smooth
+race relations. Notable institutions in the city
+include the Denver Museum of Natural History,
+the Denver Public Library, the Colorado
+History Museum, the Denver Art Museum,
+and the Denver Center for the Performing Arts
+as well as the U.S. Mint and major-league baseball,
+basketball, football, hockey, and soccer
+teams.</p>
+
+<p>The "Rocky Mountain Metropolis" boomed
+during the 1990s as the eastern suburb of Aurora
+became Colorado's third largest city and
+the western suburb of Lakewood became the
+fourth largest. Even the core city and county of
+Denver gained population in the 1990s for the
+first time since the 1970s, climbing to 555,000 in
+the 2000 census. Thanks to landmark districts
+preserving venerable business and residential
+areas as well as the 1990s opening in the core
+South Platte River valley of Coors Baseball
+Field, Elitch Gardens Amusement Park, Ocean
+Journey Aquarium, the Pepsi Athletic Center,
+and many new housing projects, downtown
+Denver is booming along with its suburban
+fringe at the dawn of the twenty-first century.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.044">Webb, Wellington and Wilma</ref> / <hi rend="smallcaps">ASIAN AMERICANS</hi>: <ref n="egp.asam.010">Denver Chinatown</ref> / 
+<hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.032">Pe&#241;a, Federico</ref> / <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.015"><hi rend="italic">Denver Post</hi></ref>.</p>
+
+<closer>
+<signed>Thomas J. Noel<lb/>
+University of Colorado at Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Leonard, Stephen J., and Thomas J. Noel. <title level="m">Denver: Mining Camp to Metropolis</title>. Niwot: University Press of Colorado,
+1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

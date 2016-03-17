@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State and Provincial Capitols</title>
+<title level="m" type="sub"></title>
+<author>William Paul Thompson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thompson, William Paul">William Paul Thompson</author>. <title level="a">"State and Provincial Capitols."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">95</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STATE AND PROVINCIAL CAPITOLS</head>
+
+<p>Capitols in the Great Plains region include
+eight in the United States and three in Canada.
+They range in date of design from 1866 to 1932,
+spanning the Gilded Age, the neoclassicism of
+the American Renaissance, and international
+modernism. All three of the Canadian capitols
+are unicameral, as is the Nebraska State Capitol,
+the only example in the United States. The
+others are bicameral.</p>
+
+<p>Soon after becoming a state, the Kansas legislature
+formed a Capitol Commission in 1866
+and elected Col. J. G. Haskell to the post of
+state architect. He provided a design to be
+built in parts (it took nearly fifty years to complete)
+in Topeka based largely on the plan of
+the United States Capitol. It included two
+wings, one each for House and Senate, and a
+central block topped by a dome on a columned
+drum. The same model was used in
+1886 for Elijah E. Myers's Colorado Capitol in
+Denver; for David W. Gibbs's plan for the capitol
+in Cheyenne, Wyoming, completed in
+1890; for Charles E. Bell and J. H. Kent's design
+used in 1898 in Helena, Montana; and for
+Charles E. Bell's plan for the South Dakota
+Capitol in Pierre in 1907. The model was followed
+in Oklahoma City in a 1914 design by
+Solomon Layton and S. Wemyss Smith, although
+that capitol lacked the planned dome
+until 2002. The neoclassical vocabulary and
+central dome of these plans were also used
+in the three Canadian provincial legislative
+buildings: by Edward and William S. Maxwell
+in 1907 in Regina, Saskatchewan; by A. M.
+Jeffers and John Chalmers in Edmonton, Alberta,
+in 1908; and by Frank W. Simon in Winnipeg,
+Manitoba, in 1912.</p>
+
+<p>The two capitols to break with this tradition
+are those designed by Bertram Grosvenor
+Goodhue in Lincoln, Nebraska, in 1922 and by
+John Holabird and John W. Root Jr. in Bismarck,
+North Dakota, in 1932. Each uses an
+office-tower block above a base block rather
+than a dome. Each breaks with neoclassicism,
+the former in a style that combines ancient,
+Byzantine, classical, and Gothic elements and
+the latter in a strongly modernist idiom, the
+International Style.</p>
+
+<p>A key problem for all the architects of capitols
+was how to represent the unique identity
+of the state or province. The most common
+method was to use local materials.stone for
+both interiors and exteriors and sometimes
+wood for interiors. Despite a legislature's preference
+for the fashionable architectural styles
+of the era and a respect for precedents in British,
+American, and French political traditions,
+architects did not want to repeat their predecessors,
+especially their own earlier designs.
+Thus, Bell in South Dakota and Myers
+in Michigan in 1871, Texas in 1882, and finally
+Colorado in 1886 developed, varied, and refined
+earlier efforts.</p>
+
+<p>Another key means of state identity was
+ornamentation. Sculptures (e.g., oil wells,
+wheat, bison), adorn these architectural
+frames. Murals are the most popular means
+of presenting the stories of the pioneers. A
+key element in most capitols is a figure atop
+the dome. Golden men and women are most
+common, especially those representing classical
+deities; in some cases, Native peoples are
+also depicted, usually in postures of nobility.
+All plans provide a variety of ways for visiting
+citizens to be impressed by the grandeur of
+their political entity while allowing politicians
+and bureaucrats to work largely unseen by the
+public.</p>
+
+<p>Great Plains capitols are unique in three respects.
+First, because the three Canadian Prairie
+buildings were designed within five years of
+each other, they are different from other earlier
+or later provincial capitols. Second, the
+materials and ornamentation reflect each capitol's
+regional identity. Finally, originality is
+greatly evident in the Great Plains capitols,
+especially in Oklahoma City, Bismarck, and
+Lincoln. State legislatures preferred to choose
+local architects. Despite the fact that the most
+renowned architects of their day were not chosen,
+some of the most exuberant and innovative
+capitols in North America were erected.</p>
+
+<closer>
+<signed>William Paul Thompson<lb/>
+University of Manitoba</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hitchcock, Henry Russell, and William Steele. <title level="m">Temples of Democracy</title>. New York: Harcourt Brace Jovanovich, 1976.</bibl>
+<bibl>Kalman, Harold. <title level="m">A History of Canadian Architecture</title>. Toronto:
+Oxford University Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

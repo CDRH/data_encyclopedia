@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.049 SYSTEM "egp.fil.049.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Movie Houses</title>
+<title level="m" type="sub"></title>
+<author>Andy Wilkinson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wilkinson, Andy">Andy Wilkinson</author>. <title level="a">"Movie Houses."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">274</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MOVIE HOUSES</head>
+
+<figure n="egp.fil.049" rend="granted">
+<figDesc>Blair Theatre, Belleville, Kansas</figDesc>
+</figure>
+
+<p>The first regular cinema opened in Pittsburgh,
+Pennsylvania, in 1905. Movie houses began
+appearing in the Great Plains shortly thereafter;
+for example, the newly incorporated town
+of Lubbock, Texas, boasted its first movie
+house, the Orpheum, in 1909. By World War I
+movie houses were common fixtures in communities
+across the Plains.</p>
+
+<p>As in the rest of the nation, movie houses
+provided entertainment for Plains folk, that is,
+when proprietors could get films. Early newspaper
+ads promised nightly shows during the
+week and matinees on Saturday, tempered
+with the caveat "when available." Nevertheless,
+even irregular movie schedules provided
+substantially more entertainment than other
+sources. Radio would not be widespread on
+the Plains for another two decades, television
+for another four. Though many small communities
+had an opera house, which mostly
+hosted musicals and drama and variety shows,
+regular performances were difficult to support,
+and traveling companies&#8211;tent shows
+and circuses&#8211;came to town no more than
+once or twice a year.</p>
+
+<p>Besides, the movies provided a different
+kind of entertainment, and that difference was
+important to the isolated peoples of the Plains.
+First, the occasion of seeing a movie was a
+social event in and of itself, a time and place
+to visit with widely scattered neighbors and
+friends. But while the movie house was a great
+place to socialize, Plains folk also found there
+satisfaction for their staunch independence,
+that collective character trait that more than
+any other marks this peculiar American tribe.
+In the anonymous darkness of the theater, separated
+by armrests, with all eyes turned toward
+the images flickering on the screen, moviegoers
+could escape to a bigger world, a world of
+their own choosing. Unlike the traveling shows
+and local stage offerings, which catered to narrow
+regional tastes and attitudes, motion pictures
+were crafted for a wide audience. There
+were new and novel sights and new and novel
+ideas. In the movie house, the warm smell
+of buttered popcorn and the soft mechanical
+purr of the projector meant magic. If it was
+hard to keep 'em down on the farm after
+they'd seen Paree, it was harder still when
+Paris, and London and Rome and New York,
+could be seen almost anytime without leaving
+the county, and for little more than a dime.</p>
+
+<p>But because motion pictures came along at
+roughly the same time that settlements were
+still appearing on parts of the Plains, movie
+houses also had a practical side. Early on,
+they provided much-needed facilities for public
+use, with local governments, churches,
+schools, and civic clubs all relying upon them
+for meeting space. Soon they became important
+to the local economy, bringing people to
+town, then giving them something to do when
+they got there. Before long, a nice, modern
+movie house became a necessity to chambers
+of commerce and other community boosters.
+Rounding out the practical side of things,
+movie newsreels were an important source for
+national and international news until television
+made them obsolete.</p>
+
+<p>Movie houses retained their central place in
+Great Plains communities, both large and
+small, through the Dust Bowl, the Great Depression,
+and two world wars. In the cities,
+they remain today in roughly the same
+numbers. In Lubbock, for instance, the number
+of inhabitants per movie screen&#8211;a not-so-
+scientific but commonsense yardstick&#8211;has
+stayed consistently between 3,000 and 4,000
+over the past ninety years.</p>
+
+<p>That said, movie houses themselves have all
+but disappeared. The newsreels are gone. And
+if the movies themselves still serve Plains peoples,
+that service is offered in the sterility of
+the modern multiscreen cinema or the isolation
+of the television set. In the cities, small
+neighborhood theaters have been replaced by
+large multiscreen facilities. Outside the cities,
+movie theaters of any kind are rare. Too many
+people have moved away, and those who remain
+rent videotapes and purchase satellite
+receivers.</p>
+
+<p>Yet the movie house isn't quite dead. In
+Lubbock there's the Cactus; in Claude, Texas,
+the Gem, which was featured in the movie
+<title>Hud</title>; in Dalhart, Texas, it's the La Rita; and in
+McCook, Nebraska, the Fox. In communities
+across the Plains, large and small, old theaters
+are being renovated and put back to use,
+though not for the showing of motion pictures.
+Instead, they're providing venues for
+plays and concerts and other live performances,
+and, once again, bragging rights for
+their towns. Even the Royal Theater, the subject
+of Larry McMurtry's <title>The Last Picture Show</title>, is being rebuilt as an arts center for the
+town of Archer City, Texas. Perhaps there's
+some magic still.</p>
+
+<closer>
+<signed>Andy Wilkinson<lb/>
+Lubbock, Texas</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

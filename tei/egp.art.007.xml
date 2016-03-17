@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bugbee, H. D. (1900-1963)</title>
+<title level="m" type="sub"></title>
+<author>Michael R. Grauer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grauer, Michael R.">Michael R. Grauer</author>. <title level="a">"Bugbee, H. D. (1900-1963)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">112</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUGBEE, H. D. (1900-1963)</head>
+
+<p>At the suggestion of his cousin, cattleman T. S.
+Bugbee, Harold Dow Bugbee came to Clarendon
+in the Texas Panhandle from Lexington,
+Massachusetts (where he was born on August
+15, 1900), with his parents in 1914. He studied
+at Texas <hi rend="smallcaps">A&amp;M</hi> College in 1917 and the Cumming
+School of Art in Des Moines, Iowa, in 1920.
+Each fall, until the late 1930s, Bugbee traveled
+to Taos to paint with his fellow artists "Buck"
+Dunton, Frank Hoffman, Leon Gaspard, and
+Ralph Meyers, often packing into the mountains
+to paint with either Meyers or Dunton.
+Advised by Panhandle-Plains cattlemen Frank
+Collinson and Charles Goodnight and inspired
+by the example of his idol, Charles M.
+Russell, Bugbee portrayed historic and then-contemporary
+Southern Plains life, including
+cowboys, Native Americans, and flora and
+fauna of the region.</p>
+
+<p>By the mid-1920s galleries in Denver, Chicago,
+Kansas City, and New York handled
+Bugbee's work. In 1933, with the Great Depression
+and decreasing picture sales, Bugbee
+turned to magazine illustration, a practice
+he maintained for some eighteen years. He
+did pen-and-ink illustrations for <title level="j">Ranch Romances</title>,
+<title level="j">Western Stories</title>, <title level="j">Country Gentleman</title>,
+and <title level="j">Field and Stream</title>, among others. Additionally,
+Bugbee also illustrated a number of
+significant books on western history, including
+J. Evetts Haley's <title level="m">Charles Goodnight: Cowman and Plainsman</title> (1936), Willie N. Lewis's
+<title level="m">Between Sun and Sod</title> (1938), and S. Omar Barker's
+<title level="m">Songs of the Saddlemen</title> (1954). He also
+continued to make easel paintings.</p>
+
+<p>Under Roosevelt's New Deal, Bugbee painted
+the first of five murals for the Panhandle-
+Plains Historical Museum's Pioneer Hall in
+1934. He later painted additional murals for the
+Amarillo Army Air Field and a set of murals on
+Native American life for the Panhandle-Plains
+Historical Museum. He exhibited at the Tri-
+State Fair at Amarillo, the Fort Worth Frontier
+Centennial Exposition in 1936, the Greater
+Texas and Pan-American Exposition at Dallas
+in 1937, and in the annual West Texas art exhibitions
+in Fort Worth. He also had numerous
+solo exhibitions in Texas and exhibited in
+Taos. In 1951 Bugbee became the first curator of
+art at Panhandle-Plains, a position he held until
+his death at Clarendon on March 27, 1963.
+More than 230 Bugbee works are part of the
+museum's collection.</p>
+
+<closer>
+<signed>Michael R. Grauer<lb/>
+Panhandle-Plains Historical Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McClure, C. Boone. "Harold Dow Bugbee: A Biographical
+Sketch." <title level="j">Panhandle-Plains Historical Review</title> 30 (1957): 55–
+67.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

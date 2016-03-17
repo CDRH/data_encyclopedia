@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stagecoaches</title>
+<title level="m" type="sub"></title>
+<author>William E. Lass</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lass, William E.">William E. Lass</author>. <title level="a">"Stagecoaches."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">811</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STAGECOACHES</head>
+
+<p>Stagecoaches were vehicles that transported
+passengers, mail, and light freight over designated
+routes. Patterned after the English
+coach and four, which was introduced into the
+American colonies, the name of the vehicles
+described both the enclosed carriage and traveling
+in stages between stations.</p>
+
+<p>Stagecoaching in the Great Plains was stimulated
+by the California gold rush and the
+need for faster service than could be supplied
+by wagons. In 1857 James E. Birch of the California
+Stage Company contracted with the
+federal government to run a biweekly mail
+service over the 1,500-mile route from San Antonio,
+Texas, to San Diego, California. But the
+next year the contract was awarded to the Butterfield
+Overland Mail. After the outbreak of
+the Civil War the Overland Mail was transferred
+to the central or California route that
+ran through the Platte River valley and South
+Pass. Butterfield subcontracted with Russell,
+Majors and Waddell, the leading overland
+freighters, to run stages from the Missouri
+River to the recently opened Colorado gold
+fields. After the bankruptcy of Russell, Majors
+and Waddell, Ben Holladay, who came to be
+known as the Stagecoach King, dominated the
+business for several years before selling out
+to Wells, Fargo and Company in 1866. Wells
+Fargo and many local companies adjusted to
+the construction of transcontinental railroads
+by providing feeder service to those lines.
+Stagecoaching was finally discontinued after
+the establishment of railroad networks.</p>
+
+<p>The Concord, manufactured in Concord,
+New Hampshire, was the most famous stagecoach.
+Because of its large size, rugged construction,
+and attractiveness, it was preferred
+by large companies. As a symbol of frontier
+life the stagecoach has captured the popular
+imagination, which continues to be fed by
+movies and television.</p>
+
+<closer>
+<signed>William E. Lass<lb/>
+Mankato State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Greeley, Horace. <title level="m">An Overland Journey from New York to
+San Francisco in the Summer of 1859</title>. New York: C. M.
+Saxton, Barker and Company, 1860.</bibl> <bibl>Winther, Oscar Osburn.
+<title level="m">The Transportation Frontier: Trans-Mississippi West,
+1865–1890</title>. New York: Holt, Rinehart and Winston, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

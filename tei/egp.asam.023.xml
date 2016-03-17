@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.asam.023 SYSTEM "egp.asam.023.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wong, Fee Lee (Wing Tsue) (ca. 1846-1921)</title>
+<title level="m" type="sub"></title>
+<author>Rena Webb</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Webb, Rena">Rena Webb</author>. <title level="a">"Wong, Fee Lee (Wing Tsue) (ca. 1846-1921)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">148</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WONG, FEE LEE (WING TSUE) (ca. 1846-1921)</head>
+
+<figure n="egp.asam.023" rend="granted">
+<figDesc>Wong Family</figDesc>
+</figure>
+
+<p>Between 1848 and 1900 some 200,000 Cantonese
+were brought to the United States by
+labor contractors. Put to work at menial jobs
+in mining camps and on railroad construction
+crews, they moved eastward from California
+in the wake of new gold strikes. Some of them,
+including Fee Lee Wong, found their way to
+the Black Hills of Dakota Territory during the
+1875–76 gold rush.</p>
+
+<p>Hundreds of gold-hungry prospectors hastily
+erected rough cabins and tents along
+Whitewood and Deadwood Creeks in narrow
+Deadwood Gulch. By the late 1800s the north
+end of the mining camp's main street was a
+noisy, bustling Chinese village where Fee Lee
+Wong, better known as Wing Tsue, established
+his thriving business. His shop at 566 Main
+Street stocked a wide selection of Chinese
+foods and herbs, novelties, silk, tea, porcelain,
+and other luxury import gifts. Wing Tsue's
+name was listed in the 1880 census along with
+212 other Chinese, most of them young men in
+their twenties and thirties. Actual numbers
+were probably much higher.</p>
+
+<p>Although most of Deadwood's Chinese returned
+home or moved on to larger cities as
+the gold rush waned, Wing Tsue remained for
+forty years, becoming a prominent and respected
+businessman. When he brought his
+wife, Hal Shek Wong, from China, he announced
+she would be pleased to receive wives
+of his white business friends in their home on
+New Year's Day. In her book <title level="m">Old Deadwood Days</title>, Estelline Bennett described the luxuriously
+appointed Wong home and said Mrs.
+Wing Tsue herself was "the loveliest bit of exquisite
+china I ever saw."</p>
+
+<p>The Wong children, two sons and four
+daughters, attended Deadwood's public
+schools and Sunday schools. Records of
+Mount Moriah Cemetery show the burial of
+an eleven-month-old child of Wing Tsue on
+January 30, 1895, and the removal of the body
+in 1904. Another daughter, born in 1900, died
+in 1902.</p>
+
+<p>According to a family biography compiled
+by his grandson, Wing Tsue took his family
+back to China in 1902, then had difficulty reentering
+the United States two years later. Intervention
+by a U.S. congressman allowed
+him to return to Deadwood. The First National
+Bank of Deadwood bought the Wing
+Tsue building for $1,055 in 1915 when the Chinese
+merchant defaulted on the loan. The
+family left Deadwood for the final time in
+1919, after Wing Tsue suffered a stroke at a
+meeting of the Society of Black Hills Pioneers.
+He died in Canton, China, in 1921 at the age of
+seventy-five.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.018">Deadwood, South Dakota</ref>.</p>
+
+<closer>
+<signed>Rena Webb<lb/>
+Rapid City, South Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bennett, Estelline. <title level="m">Old Deadwood Days</title>. New York: J. H.
+Sears, 1928.</bibl> <bibl>Fielder, Mildred. <title level="m">The Chinese in the Black Hills</title>. Deadwood <hi rend="smallcaps">SD</hi>: Centennial Distributors, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agricultural Adjustment Administration</title>
+<title level="m" type="sub"></title>
+<author>James Marten</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Marten, James">James Marten</author>. <title level="a">"Agricultural Adjustment Administration."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">32-33</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AGRICULTURAL ADJUSTMENT ADMINISTRATION</head>
+
+<p>A decade-long agricultural depression sparked
+by plunging crop and livestock prices inspired
+President Franklin D. Roosevelt and New Deal
+reformers in 1933 to implement the Agricultural
+Adjustment Administration, the first
+federal program to limit agricultural production.
+The dramatic expansion of exports
+during World War I&#8211;beef exports increased
+more than 100 percent, wheat exports more
+than doubled, and oats exports soared more
+than 2,400 percent&#8211;led to record prices and
+the cultivation of millions of acres of previously
+unused land. With peace and the recovery
+of European agriculture, demand and
+prices dropped quickly: corn fell from $1.20
+per bushel in 1917 to 26 cents in 1921, while
+wheat, hogs, and cattle fell to prewar averages.
+At the same time, the earning power of the
+nation's farmers declined, land prices plummeted,
+and thousands of Great Plains banks
+failed.</p>
+
+<p>The generally booming national economy
+made it easy to ignore the farmers' plight, but
+when the stock market crash of 1929 sparked
+the Great Depression, the Democratic administration
+elected in 1932 turned its attention to
+agriculture, passing the Agricultural Adjustment
+Act (<hi rend="smallcaps">AAA</hi>) during the frantic "100 Days."
+The bill drew on earlier attempts to help farmers
+achieve parity, a complex formula in which
+the prices farmers earned for their products
+would fluctuate depending on the prices of
+goods they bought, with the years 1909–14
+considered "normal." Previous attempts, such
+as the McNary-Haugen Bill, had proven politically
+untenable, but the mounting crisis in
+agriculture forced Roosevelt to take the dramatic
+step of involving, for the first time, the
+federal government directly in the economic
+decisions made by farmers. The aaa initially
+paid farmers to reduce production of seven
+major commodities&#8211;including corn, cotton,
+and wheat&#8211;and later added eight more, including
+cattle. Administered by county extension
+agents and farmers committees, the program
+was paid for by a tax on processors of
+agricultural products.</p>
+
+<p>Farmers welcomed the government checks
+that helped them survive the drought and
+grasshoppers plaguing the Great Plains in the
+1930s; in some areas, 80 to 90 percent of the
+population relied on federal relief. Of particular
+value to Plains farmers were the massive
+livestock-buying programs of the mid-1930s.
+Responding to the unprecedented drought
+and dust storms of 1934 and 1935, the government
+purchased seven million cattle, sending
+them to greener pastures or slaughtering and
+distributing them to needy families through
+other federal agencies. Despite the popularity
+of these government payouts, rising food
+prices, payments that tended to favor landlords
+over tenants, and the failure of the aaa
+to raise prices to anything actually approaching
+parity limited the overall success of the
+program.</p>
+
+<p>The Supreme Court ruled the <hi rend="smallcaps">AAA</hi> unconstitutional
+in <title>United States v. Butler</title> (1936),
+but Congress quickly replaced it with the Soil
+Conservation and Domestic Allotment Act
+and with a second Agricultural Adjustment
+Act in 1938. The <hi rend="smallcaps">AAA</hi> and its successors continued
+to focus primarily on commercial producers,
+sustained the policies of acreage limitation
+and price supports in the form of
+government loans, and helped convert marginal
+croplands to grass and forage for livestock.
+This massive government involvement
+in the economic lives of Great Plains farmers
+is the most prominent legacy of the <hi rend="smallcaps">AAA</hi>.</p>
+
+<p><hi rend="italic">See</hi> also <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>James Marten<lb/>
+Marquette University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Danbom, David B. <title level="m">Born in the Country: A History of Rural
+America</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns Hopkins University Press,
+1995.</bibl> <bibl>Lowitt, Richard. <title level="m">The New Deal and the West</title>. Bloomington:
+Indiana University Press, 1984.</bibl> <bibl>Perkins, Van L. <title level="m">Crisis
+in Agriculture: The Agricultural Adjustment Administration
+and the New Deal, 1933</title>. Berkeley: University of
+California Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

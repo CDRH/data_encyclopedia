@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.rel.005 SYSTEM "egp.rel.005.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Black Elk, Nicholas (1866-1950)</title>
+<title level="m" type="sub"></title>
+<author>Clyde Holler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Holler, Clyde">Clyde Holler</author>. <title level="a">"Black Elk, Nicholas (1866-1950)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">736-737</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLACK ELK, NICHOLAS (1866-1950)</head>
+
+<figure n="egp.rel.005" rend="granted">
+<figDesc>Nicholas Black Elk and family, between 1890 and 1910</figDesc>
+</figure>
+
+<p>Black Elk was probably the most influential
+Native American leader of the twentieth century.
+His influence flows from the enduring
+beauty and power of his religious teachings,
+his lifetime of engagement with the problems
+of his people, and the galvanizing effect of the
+book <title level="m">Black Elk Speaks</title> on the revival of traditional
+religion and culture.</p>
+
+<p>Black Elk was probably born in 1866, the
+first year after the Civil War. The end of the war
+brought western expansion, which led to aggressive
+efforts to confine and assimilate the
+Plains tribes. Black Elk's early years were spent
+living the old nomadic life, and he was present
+at the Custer fight on the Little Big Horn in
+1876. He announced his vocation as a holy man
+by performing the Horse Dance in 1881, but
+after the government outlawed the Sun Dance
+and Native healing practices in 1883, his profession
+could only be practiced underground. Almost
+all Black Elk's working life as a holy man
+was spent in this repressive context, and his
+religious thought is in part a response to the
+dominant culture's oppression, missioniza
+tion, and social engineering. In 1887 Black Elk
+enlisted with Buffalo Bill Cody and traveled to
+Europe with his Wild West Show. On his return
+to the Pine Ridge Reservation in 1889, he
+became a leader of the Ghost Dance. When the
+government responded with troops, Black Elk
+called for armed resistance, and he was present
+at the Wounded Knee Massacre in 1890.</p>
+
+<p>After Wounded Knee, Black Elk seems to have
+continued with his medicine practice. In 1904 he
+accepted Catholicism and became active as a
+catechist, a position that allowed him to regain a
+public leadership role. He mastered reservation
+Catholicism through conversations with the
+Jesuits, including Eugene Buechel, who cites
+Black Elk in his Lakota dictionary. In 1931 Black
+Elk was interviewed by poet John G. Neihardt,
+which resulted in <title level="m">Black Elk Speaks</title> (1932). The
+book strained Black Elk's relationship with the
+Jesuits, and he subsequently worked at the
+Duhamel Sioux Pageant, demonstrating traditional
+rituals. In 1944 Neihardt interviewed
+Black Elk for <title level="m">When the Tree Flowered</title> (1951). In
+1947–48 Black Elk gave an account of Lakota
+ritual to Joseph Epes Brown that became <title level="m">The
+Sacred Pipe</title> (1953), which provides a Lakota
+parallel to the seven sacraments and asserts the
+equal validity of Christianity and traditional
+religion. Black Elk died at Manderson, South
+Dakota, on August 17, 1950.</p>
+
+<p>Scholarly work on Black Elk has tended to
+focus on the authenticity and adequacy of
+Neihardt's portrait of Black Elk as a traditionalist
+in <title level="m">Black Elk Speaks</title> and on the related
+issue of the extent of Black Elk's commitment
+to Catholicism. (The authenticity of <title level="m">The Sacred
+Pipe</title> is a growing topic of discussion.) At
+one pole of the debate, Michael F. Steltenkamp's
+<title level="m">Black Elk: Holy Man of the Oglala</title>
+(1993) portrays Black Elk as a progressive
+Catholic who retains little meaningful commitment
+to traditional religion. At the other
+pole, Julian Rice's <title level="m">Black Elk's Story: Distinguishing
+Its Lakota Purpose</title> (1991) portrays
+Black Elk's involvement in Catholicism as
+strategic, a response to oppression. Although
+this debate is illuminating, it is also misleading,
+because Black Elk retained a lifelong commitment
+to the central intention of the Ghost
+Dance, the revitalization of traditional culture
+through religious ritual. In terms of culture,
+Black Elk was undoubtedly a nativist, and the
+symbolism and hope of the Ghost Dance is
+seldom far from his teaching. On the other
+hand, his engagement with Catholicism shows
+that he could assimilate a very different set of
+religious symbols, something that seems to
+have been far easier for him than for academic
+observers obsessed with the colonialist search
+for authenticity.</p>
+
+<p>Black Elk was not the broken old man who
+mourns the death of the dream at the end of
+<title level="m">Black Elk Speaks</title>. Nor was he anybody's anthropological
+informant, a passive source of
+information on the past. For Black Elk, the
+dream never died, and he always spoke to the
+Lakota present. In the simplest terms, he was a
+leader of his people during a time of troubles,
+and those troubles should certainly not be forgotten
+in evaluating his life and work. Black
+Elk was one of the most gifted spokesmen for
+the Lakota wisdom tradition, and his farseeing
+literary collaborations have disseminated
+his teachings far beyond their original cultural
+horizon. Lakota holy men still teach the great
+lessons of this tradition&#8211;respect for sacred
+power, the relatedness of all beings, and care
+for the earth&#8211;and they still draw on Black
+Elk's legacy, which continues to confront and
+challenge European ways of viewing humanity,
+society, and the cosmos.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.052">Neihardt, John G.</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.056">Wounded Knee Massacre</ref>.</p>
+
+<closer>
+<signed>Clyde Holler<lb/>
+Morganton, Georgia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>DeMallie, Raymond J., ed. <title level="m">The Sixth Grandfather: Black
+Elk's Teachings Given to John G. Neihardt</title>. Lincoln: University
+of Nebraska Press, 1984.</bibl> <bibl>Holler, Clyde. <title level="m">Black Elk's Religion:
+The Sun Dance and Lakota Catholicism</title>. Syracuse <hi rend="smallcaps">NY</hi>:
+Syracuse University Press, 1995.</bibl> <bibl>Holler, Clyde, ed. <title level="m">The
+Black Elk Reader</title>. Syracuse <hi rend="smallcaps">NY</hi>: Syracuse University Press,
+2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

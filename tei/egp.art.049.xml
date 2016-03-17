@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Reaugh, Frank (1860-1945)</title>
+<title level="m" type="sub"></title>
+<author>Michael R. Grauer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grauer, Michael R.">Michael R. Grauer</author>. <title level="a">"Reaugh, Frank (1860-1945)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">126-127</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">REAUGH, FRANK (1860-1945)</head>
+
+<p>Called the "dean of Texas painters," Frank
+Reaugh was born near Jacksonville, Illinois,
+on December 29, 1860. In 1876 he and his family
+settled on a farm near Terrell, Texas. His
+mother taught him natural history, and his
+father taught him to work with his hands.
+Later, Frank made his own picture frames and
+patented several inventions.</p>
+
+<p>Reaugh honed his skills by copying reproductions
+from popular magazines, and he
+taught himself cattle and sheep anatomy.
+He also sketched longhorn cattle that were
+brought up from South Texas to fatten on the
+prairies nearby. As early as 1883 Reaugh began
+sketching&#8211;often from the saddle&#8211;cattle
+drives and roundups near Wichita Falls. He
+later enlarged and refined his sketches in his
+studio, creating paintings such as <title>The One-O Roundup</title> (1894). Reaugh's formal studies began
+at the St. Louis School of Fine Arts in
+1884–85 and continued at the Académie Julian
+in Paris in 1888–89. While in Europe he copied
+paintings in the Louvre and studied paintings
+in Belgium and Holland. Reaugh exhibited
+widely, including at the World's Columbian
+Exposition, the National Academy of
+Design, the Pennsylvania Academy of the Fine
+Arts, the Chicago Art Institute, and the Louisiana
+Purchase Exposition. He also joined the
+Society of Western Artists, exhibiting with
+them all over the United States.</p>
+
+<p>Reaugh continued his annual sketching
+trips to the Texas Plains until he was almost
+eighty. He had been taking students, including
+Alexandre Hogue and Florence McClung, on
+trips there since 1910. Reaugh died in Dallas
+on May 6, 1945, and is buried in the Terrell
+cemetery. The Panhandle-Plains Historical
+Museum at Canyon, Texas, is the repository
+for Reaugh's works and papers.</p>
+
+<closer>
+<signed>Michael R. Grauer<lb/>
+Panhandle-Plains Historical Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Grauer, Michael R. "Frank Reaugh: The Dean of Texas
+Artists." <title level="j">Persimmon Hill</title> (1994): 50–55. Haley, J. Evetts.
+F. Reaugh: Man and Artist. El Paso <hi rend="smallcaps">TX</hi>: Herzog, 1960.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

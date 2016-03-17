@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pueblo, Colorado</title>
+<title level="m" type="sub"></title>
+<author>Frederick C. Matusiak</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Matusiak, Frederick C.">Frederick C. Matusiak</author>. <title level="a">"Pueblo, Colorado."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">178</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PUEBLO, COLORADO</head>
+
+<p>Pueblo, at an elevation of 4,695 feet, is located
+in southern Colorado, 40 miles south of Colorado
+Springs and 110 miles south of Denver.
+Over the years, Pueblo has experienced a slow
+but steady growth to a population of 102,319 in
+2000. Latinos comprise approximately 50 percent
+of the city's population. The remainder
+is extremely diverse, and diversity has been
+a common theme since the city's inception.
+While the city has been aggressive in pursuing
+economic development in recent years, most
+locals do not want to see a dramatic population
+increase. Part of Pueblo's attractiveness is
+its manageable size combined with its urban
+amenities.</p>
+
+<p>Pueblo has a rich history. Its location at
+the junction of Fountain Creek and the Arkansas
+River has made it suitable for settlements.
+As early as the sixteenth century Spaniards
+were in the area. The French established a
+trading post around 1740. In the late fall of
+1806, after the United States acquired the region
+through the Louisiana Purchase, Zebulon
+Pike set up a defensive position in what is now
+Pueblo before beginning his unsuccessful attempt
+to climb the mountain that bears his
+name, Pikes Peak. In the 1840s fur traders built
+Fort Pueblo, and, later in the decade, the explorer
+John C. Fr&#233;mont visited the area. In a
+sad incident in 1854 Ute Indians massacred a
+group of settlers at Fort Pueblo. The name
+Pueblo would continue with the establishment
+of the city in the 1860s. As is often the case,
+the city planning was an imprecise process. It
+was not until the twentieth century that three
+distinct settlements became one town. In the
+twentieth century Pueblo's greatest disaster
+was the flood of 1921, during which there was a
+catastrophic loss of life and property.</p>
+
+<p>Following the gold rush of the late 1850s
+Pueblo became a natural site for ranching,
+farming, and sheepherding. The arrival of
+the railroad in 1876 created a varied economy.
+Gen. William Jackson Palmer, a prominent
+southern Colorado entrepreneur and the
+founder of Colorado Springs, played a prominent
+role in constructing a steelworks. Completed
+in 1882, the steelworks and its laborers
+have had an integral role in the economic and
+social life of the city. At times, more than
+half of Pueblo's population worked in the steel
+mill. More recently, Pueblo's economy has become
+more diversified. Some of the largest
+employers are in the medical, educational,
+industrial, governmental, and telemarketing
+fields. Pueblo is also home to the U.S. Army
+Chemical Depot, the Federal Consumer Information
+Office, and the University of Southern
+Colorado. In politics, Pueblo has developed
+into a Democratic enclave in a generally
+Republican state. The city is usually a campaign
+stop for national Democratic figures.</p>
+
+<p>Notable personalities include Thomas M.
+Bowen, a hard-drinking lawyer who received
+the Medal of Honor during the Civil War and
+eventually became a judge and U.S. senator.
+Ed "Dutch" Clark was an all-American football
+player who set rushing records that stood
+for over thirty years with the Detroit Lions.
+Points of interest in the Pueblo area include
+Lake Pueblo State Park, San Isabel National
+Forest, and the City Park complex (which includes
+the Pueblo Zoo). Pueblo is also home
+to the Colorado State Fair.</p>
+
+<closer>
+<signed>Frederick C. Matusiak<lb/>
+University of Southern Colorado</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dodds, Joanne West. <title level="m">They All Came to Pueblo: A Social History</title>. Virginia Beach <hi rend="smallcaps">VA</hi>: Donning Company Publishers,
+1994.</bibl> <bibl>Stone, Wilber Fisk, ed. <title level="m">History of Colorado</title>.
+Chicago: S. J. Clarke Publishing Company, 1918.</bibl> <bibl>Whittaker,
+Milo Lee. <title level="m">Pathbreakers and Pioneers of the Pueblo Region</title>. Pueblo: Franklin Press, 1917.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.004 SYSTEM "egp.arc.004.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Barns</title>
+<title level="m" type="sub"></title>
+<author>Mary H. Humstone</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Humstone, Mary H.">Mary H. Humstone</author>. <title level="a">"Barns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">68-69</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BARNS</head>
+
+<figure n="egp.arc.004" rend="granted">
+<figDesc>Dairy barn, Kranzburg, South Dakota</figDesc>
+</figure>
+
+<p>The barn is the defining architectural feature
+and the central focus of the Great Plains farm.
+Most Great Plains barns were multipurpose
+buildings designed for hay storage and shelter
+for draft horses and cows. Variations include
+dairy (milking) barns, sheep barns, and barns
+designed primarily for grain storage.</p>
+
+<p>Barn design is influenced by the origins and
+traditions of the barn owner and builder, the
+type of agriculture for which the barn is used,
+and the building materials that are available
+locally. The first settlers in the Great Plains
+brought with them barn-building traditions
+Dairy barn, Kranzburg, South Dakota
+from Europe and eastern North America, but
+the scarcity of timber in the Great Plains inhibited
+the building of the large, multistory,
+multipurpose, timber-frame barns that were
+common farther east. Post-and-beam barns
+constructed of heavy timbers with mortise-and-
+tenon joints are rare in the Great Plains.</p>
+
+<p>Barn building in the Great Plains did not
+really take off until the coming of the railroads,
+which increased the availability of dimension
+lumber and wire nails. These changes in transportation
+and building technology, combined
+with the invention of the hay fork and hay
+track for loading hay in the barn, resulted in
+a revolution in barn design. The old, heavy,
+timber-frame construction was abandoned in
+favor of the lighter, more versatile balloon
+framing using dimension lumber.</p>
+
+<p>The typical late-nineteenth- to early-twentieth-
+century barn of the Great Plains is a
+rectangular two-story structure, consisting of
+a low-ceilinged main floor topped by a huge
+haymow. The main floor is divided into stalls
+for draft horses or mules and a few dairy cows
+as well as bins for grain. The development
+of the double-sloped gambrel roof, which is
+most frequently associated with barns today,
+allowed as much as 50 percent more hay storage
+than the single-sloped gable roof and
+eliminated crossbeams, allowing for efficient
+use of a hay track to load hay. The desire for
+ever larger clearspan space in the haymow
+eventually led to the development of arched
+roofs constructed of rounded trusses, which
+became popular in the first few decades of the
+twentieth century.</p>
+
+<p>Another common barn design in the Great
+Plains is the midwestern three-bay barn, also
+called the feeder barn or hay barn. This light
+timber-frame barn is divided into three sections,
+or bays, under a long, sloping gable
+roof. The center section is used for floor-to-ceiling
+hay storage. The two side bays hold
+stalls for animals and sometimes bins for
+grain storage. This style of barn was popular
+with farmers whose main need was for a dry
+storage area for hay rather than for livestock
+shelter.</p>
+
+<p>Land-grant universities had a widespread
+influence on early-twentieth-century barn design
+in the Great Plains. Agricultural engineers
+developed innovative building designs
+for all types of farming purposes. They designed
+special barns for housing dairy cows,
+hogs, and horses and for storing hay, grain,
+and machinery and distributed the plans to
+farmers nationwide through the cooperative
+extension service. With the availability
+of ready-made plans and even mail-order
+barns, barn design became more standardized
+throughout the country, although regional
+variations and ethnic building traditions continued
+well into the twentieth century. The
+stone barns in the Flint Hills of Kansas and the
+log barns of the Laramie Plains of Wyoming
+are two examples of Plains regional variations
+based on available building materials and local
+building traditions.</p>
+
+<p>An example of the influence of the landgrant
+universities is the Wisconsin dairy barn.
+Although dairy farming is not extensive in the
+Great Plains, this standard dairy barn still appears
+as a feature of the Great Plains landscape.
+Built to specifications provided by the
+University of Wisconsin–Madison, the dairy
+barn is distinguished by its rectangular shape
+(generally, 36 feet wide and up to 100 feet
+long), north-south orientation, and rows of
+small windows along the basement walls. The
+low stable area, designed for milking cows,
+was topped by a large gambrel roof, which
+provided ample storage space for hay. As silos
+gained popularity in the late nineteenth century,
+they were attached to the end or the side
+of the dairy barn.</p>
+
+<p>Round and polygonal barns were also designed
+by agricultural engineers at land-grant
+universities and promoted as efficient for
+milking cows and feeding cattle. Although
+these unusual barns are not common, all
+Plains states have a few examples. Most are
+now considered local landmarks, and many
+have been actively preserved.</p>
+
+<p>Most barns were built by farmers themselves,
+sometimes with the help of professional
+barn builders. Some builders developed
+distinctive styles that can still be recognized
+in certain localities. While most barns have
+little ornamentation, elements of architectural
+styles such as Italianate scroll work, Gothic
+pointed gables, and even western false fronts
+were sometimes incorporated into barn design.
+Some barns also display evidence of regional
+craftsmanship in brick, stone, and
+woodwork. Cupolas, used for ventilation,
+provided the farmer or barn builder with an
+opportunity to add a special flourish to the
+barn to distinguish it from those around it.</p>
+
+<p>By the 1950s construction of the multistory
+barn had virtually ceased and was replaced by
+the single-story pole barn. Unlike the traditional
+American barns, which housed several
+activities under one roof, modern pole barns
+are specifically designed for a single purpose.
+They feature huge, open interior spaces, allowing
+easy access for large machinery. In
+spite of the predominance of metal-clad pole
+buildings on farms across North America, the
+traditional gambrel-roofed barn persists as
+the symbol of American agriculture, appearing
+in everything from advertising of farm
+products to logos of agricultural organizations
+and corporations.</p>
+
+<p>The decline in the number of farms and in
+farm acreage in the Great Plains has resulted
+in the loss of many traditional barns. Even on
+working farms, these barns face an uncertain
+future. Barns designed specifically for the
+storage of loose hay or the hand milking of
+cows outgrew their original usefulness decades
+ago. When the tractor replaced the draft
+horse for plowing and other farm chores,
+stalls for horses were no longer needed. Farmers
+found haymows ine.cient and sometimes
+structurally inadequate for storing baled hay.
+As agriculture became more specialized, many
+farmers sold their livestock altogether, and
+barns that had once been the center of the
+farm operation stood empty.</p>
+
+<p>In spite of the widespread loss, there are still
+many traditional barns in use across the Great
+Plains. Some have remained in constant use
+and have been adapted to fit the changes in
+agricultural practice and technology. For instance,
+on many dairy farms, wooden stalls
+gave way to stanchions and later free stalls,
+and mechanical milking and waste removal
+systems were added and improved over the
+years. In some cases a new milking parlor
+was built, and the old barn is now used for
+housing dry heifers and raising calves. In the
+Northern Plains, where many farmers have
+sold all their livestock and produce only crops,
+traditional barns have been converted to store
+large quantities of hay or grain or to shelter
+farm equipment. These changes usually involve
+enlarging doorways and sometimes raising
+or removing the haymow floor to open up
+the interior space.</p>
+
+<p>The sheer size of barns and their simple,
+functional design have made them treasured
+architectural landmarks as well as utilitarian
+structures. While many barns have been lost
+to development or neglect, a significant number
+of farmers across the country have maintained
+their older barns and adapted them for
+modern farming uses.</p>
+
+<closer>
+<signed>Mary H. Humstone<lb/>
+National Trust for Historic Preservation</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gyrisco, Geoffrey M., ed. <title level="m">The Farm Landscape: A Bibliography of the Architecture and Archaeology of Farmsteads and Settlements in Wisconsin and in the Areas of Origin of Its Settlers in the United States and Europe</title>. Madison: State
+Historical Society of Wisconsin, 1997.</bibl> <bibl>Halsted, Byron
+David. <title level="m">Barn Plans and Outbuildings</title>. New York: Orange
+Judd Company, 1918.</bibl> <bibl>Noble, Allen G., and Hubert G. H.
+Wilheim, eds. <title level="m">Barns of the Midwest</title>. Athens: Ohio University
+Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Buffett, Warren (b. 1930)</title>
+<title level="m" type="sub"></title>
+<author>Thomas Johansen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Johansen, Thomas">Thomas Johansen</author>. <title level="a">"Buffett, Warren (b. 1930)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">412-413</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Buffett, Warren (b. 1930)</head>
+
+<p>Warren Edward Buffett, businessman and investor,
+was born August 30, 1930, in Omaha,
+Nebraska, to Howard Homan Buffett and
+Leila Stahl Buffett. He is the youngest of three
+children, with sisters Doris and Roberta. In
+1952 he married Susan Thompson. They have
+three children, Susan, Howard, and Peter. In
+2000 Buffett was the second wealthiest individual
+in the United States.</p>
+
+<p>Buffett attended elementary school in
+Omaha, then junior high school and high
+school in Washington dc while his father
+served as a congressman from Nebraska. During
+this time, he became interested in business
+and pursued a variety of money-making ventures,
+including a newspaper route, a pinball
+machine business, a Rolls Royce rental business,
+and used golf ball sales. He also purchased
+forty acres of farmland for $1,200 in
+his home state, Nebraska. When he graduated
+from high school, Buffett had about $6,000 in
+savings.</p>
+
+<p>In 1947 he enrolled in the Wharton School of
+Business at the University of Pennsylvania. After
+two years, he transferred to the University
+of Nebraska-Lincoln and graduated in 1950
+with a degree in business. During his senior
+year, he read <title level="m">The Intelligent Investor</title> by Benjamin
+Graham, a finance professor at Columbia
+University in New York. Having tried various
+investment strategies, Buffett became
+intrigued and enrolled in the graduate program
+at Columbia to study under Benjamin
+Graham. In 1951 he graduated with a master's
+degree and applied for a job at Graham-Newman,
+an investment firm. Graham turned him
+down, so Buffett returned to Omaha to work
+for his father's brokerage firm. In 1954 Graham
+offered Buffett a job that he accepted. Two
+years later, Graham-Newman closed, and Buffett
+again returned to Omaha. At that time,
+Buffett started his own investment company,
+the Buffett Partnership, with $100 of his own
+money and $105,000 contributed by seven limited
+partners.</p>
+
+<p>In 1962 Buffett began investing in Berkshire
+Hathaway, a textile mill located in New Bedford,
+Massachusetts, gaining control of the
+firm in 1965. Instead of reinvesting money in
+textiles, Buffett used capital to invest in other
+companies. Disappointed with opportunities
+in the stock market, Buffett ended the partnership
+in 1969, suggesting to his partners that
+they either cash out, remain invested with
+Berkshire Hathaway, or invest in a fund managed
+by a classmate from Columbia, William
+Ruane. Buffett retained his shares in Berkshire
+Hathaway and is currently the chairman and
+chief executive officer. Berkshire Hathaway,
+no longer a textile company, is a holding company
+with investments in Coca-Cola, Gillette,
+the <title level="j">Washington Post</title>, Disney, and other wellknown
+firms. It also owns the Nebraska Furniture
+Mart, Borsheim's jewelry store, See's
+Candies, geico insurance, Dairy Queen International,
+and several other businesses.</p>
+
+<p>From 1955 to 1969 the partnership earned
+an astounding 29.5 percent annual compound
+rate of return. Since Buffett gained control of
+Berkshire Hathaway, the average annual gain
+in net worth is approximately 25 percent compared
+to the average percentage gain in the
+S&amp;P 500 of approximately 13 percent. His personal
+wealth has grown from $9,800 at the
+time he left Columbia University to about $30
+billion in 2000.</p>
+
+<p>Benjamin Graham, Philip Fisher, and Buffett's
+current partner, Charlie Munger, have
+influenced Buffett's investment philosophy.
+Buffett learned from Graham quantitative
+techniques and the importance of margin of
+safety, which is the difference between the
+market value and the intrinsic value of a business.
+Fisher and Munger stress the importance
+of business economics and management. Buffett,
+who uses aspects of both quantitative and
+qualitative techniques, believes that an investor
+should understand the business, not worry
+about stock market volatility, and should buy
+when the market price is significantly less than
+the intrinsic value of the business.</p>
+
+<p>Buffett achieves success with hard work,
+diligence, dedication, honesty, enthusiasm,
+and humility. These characteristics reflect the
+spirit and heritage of the Great Plains people.
+A native Nebraskan, Warren Edward Buffett
+has earned a place in history as one of the
+greatest investors of all time.</p>
+
+<closer>
+<signed>Thomas Johansen<lb/>
+Fort Hays State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hagstrom, Robert G., Jr. <title level="m">The Warren Buffett Way</title>. New
+York: John Wiley and Sons, 1995.</bibl> <bibl>Kilpatrick, Andrew. <title level="m">Of Permanent Value: The Warren Buffett Story</title>. Birmingham:
+<hi rend="smallcaps">AKPE</hi>, 1998.</bibl> <bibl>Lowenstein, Roger. <title level="m">Buffett: The Making of an American Capitalist</title>. New York: Doubleday, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

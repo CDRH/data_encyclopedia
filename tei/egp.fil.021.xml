@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fairbanks, Douglas, Sr. (1883-1939)</title>
+<title level="m" type="sub"></title>
+<author>John C. Tibbetts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tibbetts, John C.">John C. Tibbetts</author>. <title level="a">"Fairbanks, Douglas, Sr. (1883-1939)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">266</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FAIRBANKS, DOUGLAS, SR. (1883-1939)</head>
+<figure n="egp.fil.021" rend="granted">
+<figDesc>Douglas Fairbanks in The Thief of Bagdad (1924)</figDesc>
+</figure>    
+
+<p>A major force in the motion picture industry
+in the 1910s and 1920s, Douglas Fairbanks is
+best remembered for his swashbuckling costume
+pictures. He was born Douglas Elton Ulman
+on May 23, 1883, in Denver, Colorado, the
+last of three children to Ella and H. Charles
+Ulman. After his father deserted the family, he
+was raised by his mother, who reassumed the
+surname of her first husband, Fairbanks. The
+family relocated to New York City in 1900, and
+young Doug began appearing in a succession
+of light comedies on Broadway. By 1914 he had
+established himself as a leading performer in
+satiric comedies like <title>The Show Shop</title> and <title>The New Henrietta</title>.</p>
+
+<p>Lured to Hollywood in 1915, his buoyant
+optimism and physical agility transferred easily
+to the motion picture screen. In just his first
+year at Triangle.Fine Arts, the spectacular success
+of open-air adventures like <title>The Lamb</title> (1915) and <title>The Good Bad Man</title> (1916) and farcical comedies like <title>His Picture in the Papers</title> and <title>American Aristocracy</title> (1916) encouraged him to
+form his own production company, the Douglas
+Fairbanks Film Corporation. Two years
+later he joined Mary Pickford (soon to become
+his second wife), Charles Chaplin, and D. W.
+Griffith at United Artists, through which he
+released his legendary swashbuckling costume
+pictures, including <title>The Mask of Zorro</title> (1920),
+<title>The Three Musketeers</title> (1921), <title>Robin Hood</title>
+(1922), <title>The Thief of Bagdad</title> (1924), and <title>The Black Pirate</title> (1926). After the box office failure
+of his first talkie, <title>The Taming of the Shrew</title>
+(1929), costarring Mary Pickford, his career
+trajectory faltered, and he retired from the
+screen after making <title>The Private Life of Don Juan</title> (1934) in England. Restless to the end, he
+divorced Pickford in 1936, married again a year
+later, and, after years of traveling and a series of
+half-hearted business ventures, died in his
+sleep of a heart attack in the early morning
+hours of December 12, 1939.</p>
+
+<p>Fairbanks remains the very embodiment of
+energy and optimism. In action and philosophy
+his was the poetry of pose, the strut of
+sentiment. He was an equal opportunity enthusiast
+who played no favorites in the democracy
+of delights. He pulled high-fives with
+the world and claimed its privileges. An influential
+businessman as well as a film celebrity,
+he helped found the Academy of Motion Picture
+Arts and Sciences (serving as its first president),
+promoted the importation and distribution
+in America of international art
+house films like Eisenstein's <title>Potemkin</title> (1925),
+and encouraged technical innovations in the
+film industry like the Technicolor process
+(which he employed in <title>The Black Pirate</title>).</p>
+
+<p>His upbringing in Colorado and stage training
+in New York City lent his work a peculiar
+blend of western vigor and eastern attitude.
+Particularly in the cycle of Westerns he made
+from 1915 to 1919, East meets West and civilization
+collides with nature in imaginative and
+entertaining ways. In pictures like <title>The Lamb and The Mollycoddle</title> (1920), he's an effete aristocrat
+tested by the rigors of cowboy life. In
+<title>The Good Bad Man</title> and <title>The Half Breed</title> (1916)
+he's a bandit and an Indian, respectively, seeking
+the legitimacy of society. And in <title>Wild and Woolly</title> (1917) and <title>Knickerbocker Buckaroo</title>
+(1919) he erases altogether the boundaries that
+separate the cowboy from the clubman. Shot
+on locations in prairie Kansas, the desert
+Southwest, and the Grand Canyon, these films
+provide spectacular scenic arenas for his
+boundless energies and flamboyant acrobatics.
+In a typical moment from The Mollycoddle, he
+stands poised on the rim of the Grand Canyon,
+suddenly raises his hands, and shouts, "Hurrah
+for God!" It's a defining moment.</p>
+
+<closer>
+<signed>John C. Tibbetts<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schickel, Richard. <title level="m">His Picture in the Papers</title>. New York:
+Charterhouse, 1973.</bibl> <bibl>Tibbetts, John C. "The Choreography
+of Hope: The Films of Douglas Fairbanks, Sr." <title level="j">Film Comment</title>
+32 (1996): 50–55.</bibl> <bibl>Tibbetts, John C., and James M.
+Welsh. <title level="j">His Majesty the American: The Films of Douglas Fairbanks, Sr.</title> Cranbury <hi rend="smallcaps">NJ</hi>: A. S. Barnes, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.060">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nye, Gerald (1892-1971)</title>
+<title level="m" type="sub"></title>
+<author>Theodore B. Pedeliski</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.060</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pedeliski, Theodore B.">Theodore B. Pedeliski</author>. <title level="a">"Nye, Gerald (1892-1971)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">682</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NYE, GERALD (1892-1971)</head>
+
+<p>Sen. Gerald P. Nye of North Dakota gained
+prominence as one of the most outspoken of
+Great Plains isolationists in the pre–World
+War II period. Born in Wisconsin on December
+19, 1892, Nye moved to North Dakota in
+1916 and became a small-town newspaper
+publisher. In 1924 he was an unsuccessful independent
+candidate for Congress. When Sen.
+Edwin F. Ladd of North Dakota died in 1926,
+Nye emerged as the dark horse interim appointment
+of Gov. Arthur G. Sorlie. He won
+his first election on a platform of "North Dakota
+for North Dakotans." In his first term he
+voiced typical populist conspiracy themes of
+the exploitation of farmers and little people by
+big business and banks. In the early 1930s he
+supported Father Charles Coughlin and his
+goal to control the evils of capitalism and Dr.
+Francis Townsend's plan to give every person
+over sixty a pension of $200 a month. He initially
+supported the National Recovery Administration
+but then felt it had been completely
+co-opted by industry.</p>
+
+<p>In 1933 Nye gained national prominence by
+heading an investigation of the munitions industry
+in which he cast the industry as profiteers
+and warmongers. The late 1930s saw
+Nye's isolationist views come to fruition in the
+Neutrality Acts of 1936 and 1937. After war
+broke out in Europe in 1939, Nye worked with
+the America First Committee and protested
+any efforts to aid Britain or defend our freedoms
+on the high seas. He even sought to investigate
+the movie industry, especially Jewish
+film producers, alleging bias in demonizing
+Germany. Pearl Harbor undercut Nye's support.
+He mellowed his views to offer support
+for the war, but in 1944 he was defeated. His
+defeat was less over the war issue than such
+local issues such as his divorce and hasty reremarriage,
+his Chevy Chase lifestyle, and his
+failure to bring home the bacon to the home
+folks. He died in Washington <hi rend="smallcaps">DC</hi> on July 18,
+1971.</p>
+
+<closer>
+<signed>Theodore B. Pedeliski<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cole, Wayne. <title level="m">Senator Gerald P. Nye and American Foreign
+Relations</title>. Minneapolis: University of Minnesota Press,
+1962.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Internet</title>
+<title level="m" type="sub"></title>
+<author>Stephen E. Reichenbach</author>
+<author>Carol Farnham</author>
+<author>Dale Finkelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reichenbach, Stephen E.">Stephen E. Reichenbach</author>, <author n="Farnham, Carol">Carol Farnham</author>, and <author n="Finkelson, Dale">Dale Finkelson</author>. <title level="a">"Internet."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">515</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INTERNET</head>
+
+<p>The information age has early roots on the
+edge of the Great Plains with the work of John
+V. Atanasoff, a professor at Iowa State College
+(now Iowa State University), who led the development
+of the first all-electronic computer
+in 1940. The growth of the information age in
+the Great Plains is especially evident in the
+spread of the global computer network known
+as the Internet.</p>
+
+<p>The National Science Foundation's <hi rend="smallcaps">NSFNET</hi>,
+established in 1986, was instrumental in the
+rise of the Internet from its beginnings in the
+Department of Defense to its place as a worldwide
+communications system. The <hi rend="smallcaps">NSFNET</hi>
+was envisioned as a national computer network
+to connect researchers at universities to
+the newly established supercomputer centers
+and to each other. The network design consisted
+of regional networks connected to a national
+backbone. The <hi rend="smallcaps">NSFNET</hi> was remarkably
+successful and became the basis of the modern
+Internet. In the summer of 1986 the <hi rend="smallcaps">NSF</hi>
+funded the creation of <hi rend="smallcaps">MID</hi>net, a regional network
+in the heart of the Great Plains. The
+original <hi rend="smallcaps">NSF</hi> grant recipients were eleven universities
+(predominantly land-grant institutions)
+in Arkansas, Iowa, Kansas, Missouri,
+Nebraska, Oklahoma, and South Dakota. In
+September 1987 <hi rend="smallcaps">MID</hi>net became the first regional
+network to be fully operational.</p>
+
+<p>The first midnet network consisted of leased
+lines operating at 56 kilobits per second (Kb/s)
+connecting routers using the <hi rend="smallcaps">TCP/IP</hi> protocol
+at each campus to the <hi rend="smallcaps">NSFNET</hi> backbone
+through the National Center for Supercomputing
+Applications (<hi rend="smallcaps">NCSA</hi>) at the University
+of Illinois. Because of the land-grant character
+of the <hi rend="smallcaps">MID</hi>net consortium, all but one of the
+member institutions were located in relatively
+small cities lacking 56 Kb/s service. "Special
+assembly" by <hi rend="smallcaps">AT&amp;T</hi>, the contractor for the
+communications lines, caused considerable
+expense and some delay, but final installation
+and testing of the lines were completed in September
+1987, and midnet became operational.</p>
+
+<p>The <hi rend="smallcaps">NSFNET</hi> and <hi rend="smallcaps">MID</hi>net grew quickly. By
+1989 the <hi rend="smallcaps">NSFNET</hi> backbone had been upgraded
+to 1.544 Kb/s (T1) with the <hi rend="smallcaps">MID</hi>net hub at the
+University of Nebraska–Lincoln. Although
+<hi rend="smallcaps">MID</hi>net began as a university research network
+with a grant spearheaded by Doug Gale at the
+University of Nebraska–Lincoln, it was soon
+evident that success would take the Internet
+far beyond its initial purpose.</p>
+
+<p>midnet shifted from being a universitybased
+organization to nonprofit status in 1992.
+Two years later, <hi rend="smallcaps">MID</hi>net was acquired by Global
+Internet, a Palo Alto start-up company whose
+Network Services Division later was acquired
+by Verio in 1997. Similarly, the <hi rend="smallcaps">NSFNET</hi> was
+commercialized with the formation of the Internic
+in 1993 and its transfer to the private
+sector in 1995. Many businesses in the Great
+Plains contributed to the commercial development
+of the Internet. For example, <hi rend="smallcaps">MFS</hi> Communications
+of Omaha, Nebraska, pioneered
+fiber-optic networks in metropolitan areas
+around the world and established early commercial
+network access points (<hi rend="smallcaps">NAPS</hi>); and
+Ameritrade, also based in Omaha, began popularizing
+stock trading on the Internet in 1995.</p>
+
+<p>The Great Plains Network (<hi rend="smallcaps">GPN</hi>) is the
+next-generation, regional, "Internet 2" network
+for research and instruction. <hi rend="smallcaps">GPN</hi> was
+founded in 1997, with many of the original
+midnet institutions. The increase in speed
+from the 56 Kb/s rate of the original midnet to
+the 155 megabits/second (Mb/s) <hi rend="smallcaps">OC</hi>3 and 622
+Mb/s <hi rend="smallcaps">OC</hi>12 rates of the <hi rend="smallcaps">GPN</hi> illustrates the great
+and rapid progress of the Internet in the Great
+Plains.</p>
+
+<p>The information age will influence greatly
+the future of the Great Plains. The Internet allows
+instant, broad communication of work,
+commerce, education, medical care, and entertainment,
+thus bridging in new ways the
+distances that both isolate and insulate residents
+of the Great Plains. This brings opportunities
+for benefits and risks of loss. The opportunities
+are in decentralization, allowing
+Great Plains residents to engage from distant
+locales in many more new and diverse activities.
+Given this new access, for example, the
+feasibility of economic enterprises locating in
+formerly stagnant small Plains towns is significantly
+enhanced. The risks are that communication
+technologies also create dynamics for
+efficiency that foster centralization of smaller
+enterprises from remote areas and for a general
+homogenization of regional distinctions.</p>
+
+<closer>
+<signed>Stephen E. Reichenbach<lb/>
+University of Nebraska-Lincoln<lb/>
+Carol Farnham<lb/>
+Lincoln, Nebraska<lb/>
+Dale Finkelson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

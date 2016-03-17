@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.037 SYSTEM "egp.ct.037.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Omaha, Nebraska</title>
+<title level="m" type="sub"></title>
+<author>Harl A. Dalstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Darlstrom, Harl A.">Harl A. Dalstrom</author>. <title level="a">"Omaha, Nebraska."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">177-178</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OMAHA, NEBRASKA</head>
+
+<figure n="egp.ct.037" rend="granted">
+<figDesc>Omaha, Nebraska, 1900</figDesc>
+</figure>
+
+<p>Omaha was founded in 1854, but its roots date
+from 1846, when the westbound Mormons entered
+the area. From 1846 to 1848 Winter Quarters,
+in modern northern Omaha, was the
+Mormon departure point for the Salt Lake valley.
+Because Winter Quarters was on Omaha
+Indian land, the Mormons were eventually
+obliged to make their nearby settlement of
+Kanesville, Iowa, their jumping-off point. In
+1853 Kanesville was renamed Council Bluffs,
+and, although the Mormon preeminence in
+the community passed, the town remained a
+gateway to the Platte River valley, the easiest
+overland route west.</p>
+
+<p>The Kansas-Nebraska Act of 1854 unleashed
+the energies of town-site promoters who saw
+great futures for communities on the western
+bank of the Missouri River. Omaha, Nebraska
+Territory, was the product of such promoters
+in Council Bluffs. A short distance south of
+Omaha was Bellevue, a trading post, Indian
+agency, and mission dating from the early
+1820s. This settlement's established position
+made it a logical site for the territorial capital,
+but Governor Francis Burt's death soon after
+his arrival in Bellevue aided Omaha's ambitions.
+Acting Governor Thomas B. Cuming Jr.
+championed Omaha, where he convened the
+first territorial legislature in 1855. Despite opposition
+from residents south of the Platte,
+Omaha remained Nebraska's capital until
+statehood in 1867.</p>
+
+<p>The capital was crucial to Omaha's early development;
+moreover, proximity to the Platte
+valley made the town an outfitting point for
+westbound travelers and a center of stagecoach
+operations and wagon freighting. The
+Rocky Mountain mining boom in 1859 created
+close ties between Omaha and Denver. Down
+the Missouri, Nebraska City became the territory's
+principal wagon-freighting center and
+Omaha's key rival. However, in 1863 President
+Lincoln designated Iowa's border adjoining
+Omaha as the eastern terminus of the Union
+Pacific Railroad. The construction of that
+line between 1865 and 1869 assured Omaha's
+leadership in Nebraska and its regional
+importance.</p>
+
+<p>Railroads now tied Council Bluffs to Chicago,
+and the completion of the Union Pacific
+bridge between Omaha and Council Bluffs in
+1872 secured the future of both communities
+as rail centers. The construction of other
+trans-Missouri lines soon expanded Omaha's
+trade sector beyond the service area of the
+Union Pacific and augmented Omaha's ties to
+the Plains and the West. These links enabled
+Omaha to become a smelting center and were
+the prelude to the building of the Union
+Stockyards in 1884 and South Omaha's rapid
+evolution as a packing center.</p>
+
+<p>The 1880s brought the greatest population
+increase in Nebraska's history, and Omaha
+more than tripled in size. Hard times in the
+1890s halted this boom, yet the "Magic City"
+of South Omaha, driven by meatpacking,
+grew more than threefold. Indeed, the problems
+of the nineties encouraged Omaha to
+create the Knights of Ak-Sar-Ben (reverse
+spelling of Nebraska), a civic group that fostered
+closer relations with the city's trade area.
+From its founding in 1893, the Commercial
+Club (now the Greater Omaha Chamber of
+Commerce) promoted business ties between
+Omaha and other towns in Nebraska and adjoining
+states and took an active interest in
+the region's agriculture. Extolling western development,
+in 1898 Omaha hosted the Trans-
+Mississippi and International Exposition,
+which drew some 2.6 million people.</p>
+
+<p>In 1900 Omaha, with a population of
+102,555, ranked behind San Francisco, Kansas
+City, and Denver as the fourth largest trans-
+Missouri city, just ahead of Los Angeles. Despite
+its recent origin, South Omaha had a
+population of 26,001. The establishment of
+the Omaha Grain Exchange in 1903 and growing
+wholesale enterprises further emphasized
+the city's ties to the Central Plains. Omaha
+absorbed South Omaha in 1915, and with
+its established economic base, the city grew
+gradually.</p>
+
+<p>In 1910 some 53.7 percent of Omaha's residents
+and about 64.2 percent of South Omaha's
+residents were foreign-born white or had
+at least one parent born outside the United
+States. Persons of German, Scandinavian,
+Czech, Irish, Polish, and Italian background
+were numerous. The African American population
+increased significantly between 1910
+and 1920. South Omaha's anti-Greek riot in
+1909 and the lynching of African American
+men in 1891 and 1919 in Omaha were the worst
+manifestations of ethnic prejudice. As the
+civil rights movement grew during the mid–
+twentieth century, African Americans sought
+an end to employment and housing discrimination.
+There were serious episodes of racial
+confrontation in 1966, 1968, and 1969. As
+the twentieth century closed, the key development
+in Omaha's ethnic profile was a growing
+Hispanic population.</p>
+
+<p>Preparation for World War II brought the
+Glenn L. Martin Bomber Plant to Fort Crook,
+adjoining Bellevue. At its peak, the plant employed
+14,572 workers, and its closing at war's
+end briefly threatened the local economy.
+However, the cold war and the establishment
+of Strategic Air Command headquarters at
+Offutt Air Force Base on the plant's site kept
+the Bellevue-Omaha area crucial to American
+defense. This major military presence outlasted
+the cold war, and Bellevue's growth became
+part of the general development of metropolitan
+Omaha. From a 1940 population of
+1,184, Bellevue grew steadily and has become
+Nebraska's third largest city.</p>
+
+<p>By 1955 Omaha was the world's leading livestock
+market and meat-processing center, but
+between 1967 and 1976 labor costs, outdated
+plants, and environmental problems resulted
+in a drastic decline in the local packing industry.
+Marketing changes contributed to the end
+of the Omaha Grain Exchange in 1985 and the
+departure of the stockyards in 1999. Yet diversity
+continued to mark Omaha's economic development
+as service enterprises flourished.
+Information technology became a major feature
+of the city's livelihood, although at times
+Omaha's location has been a challenge to its
+growth as a corporate headquarters. In 2000
+the metropolitan area had a population of
+629,294.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.032">Omaha Race Riot</ref> / <hi rend="smallcaps">MEDIA</hi>: <title level="j"><ref n="egp.med.035"><hi rend="italic">Omaha World-Herald</hi></ref></title> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.046">Strategic Air Command</ref>.</p>
+
+<closer>
+<signed>Harl A. Dalstrom<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Larsen, Lawrence H., and Barbara J. Cottrell. <title level="m">The Gate City: A History of Omaha</title>. Lincoln: University of Nebraska
+Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

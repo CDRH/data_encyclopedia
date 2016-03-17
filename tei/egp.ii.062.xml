@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.062 SYSTEM "egp.ii.062.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Windmills</title>
+<title level="m" type="sub"></title>
+<author>T. Lindsay Baker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.062</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Baker, T. Lindsay">T. Lindsay Baker</author>. <title level="a">"Windmills."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">400</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">WINDMILLS</head>
+
+<figure n="egp.ii.062" rend="granted">
+<figDesc>"Currie" windmill pumping water for livestock in Lincoln County, Colorado</figDesc>
+</figure>
+
+<p>Windmills are machines designed to convert the force of the wind into power to be used by humans. In the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, windmills were used, and continue to be used, primarily to pump water for consumption by people and domestic animals. Windmill installations typically consist of the actual wind machine and a tower (derrick) to support it in the air.</p>
+
+<p>Most windmills used in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> were of self-governing design. This means that they automatically turned to face changing wind directions and automatically controlled their own speeds of operation to avoid destruction from centrifugal force during high winds. The first commercially successful selfgoverning windmills in America were invented and patented in 1854 by <persName reg="Hallady, Daniel">Daniel Halladay</persName> in <placeName rend="state" key="ct" reg="Connecticut">Connecticut</placeName>. By 1863 the factory producing <persName reg="Hallady, Daniel">Halladay</persName>'s wind machines had relocated to <placeName rend="state" key="il" reg="Illinois">Illinois</placeName>, closer to a growing market for windmills in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> and <geogName rend="region" reg="The Midwest">Midwest</geogName>.</p>
+
+<p>Windmills started to appear in considerable numbers in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> during the 1870s, but the heyday for their use spanned the decades from the 1880s to the 1920s. Dozens of companies produced them. In time, tens of thousands of these wind machines came into use, principally for pumping water from drilled wells. A small minority of the early windmills converted the force of the wind into rotary power for operating small farm machines such as feed grinders, corn shellers, and wood saws.</p>
+
+<p>The initial windmills in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> employed wheels and vanes made from wood, combined with cast iron and steel mechanical components. Manufacturers painted them in bright colors similar to other farm machines. All-metal windmills began appearing in the 1870s, but it was not until the 1890s that they came into widespread use. Production of steel windmills gradually supplanted that of "wooden" mills, although the latter remained available commercially into the 1940s. Starting in the 1920s, some residents of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> began using specially designed wind machines to produce electricity principally for domestic use.</p>
+
+<p>Over the years windmills became visual icons in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. One reason for this phenomenon probably stemmed from their appearance. Windmills on their towers constituted some of the very few vertical elements in the otherwise horizontal <geogName rend="region" reg="Great Plains">Plains</geogName> environment. Furthermore, many residents of the region associate fond remembrances with windmills and their life-giving water, from cool drinks after long hours of field work to the experience of learning to swim in livestockwatering reservoirs. Many <geogName rend="region" reg="Great Plains">Plains</geogName> residents to this day express their emotional attachments to windmills as historical and aesthetic survivals connected with earlier times.</p>
+
+<p>Several economic and technological factors contributed to the decline in use of traditional windmills in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. The first major competition the wind machines met came from small internal combustion engines, used by some farmers and ranchers for mechanical work, including pumping of water supplies. The decline of agricultural commodity prices in 1921, following World War I, reduced the ability of people to purchase new windmills, a situation that worsened with general economic depression during the 1930s. The passage of the 1935 Rural Electrification Act enabled many rural people in the <geogName rend="region" reg="Great Plains">Plains</geogName> to begin securing comparatively inexpensive electricity, which they then often used to operate power pumps, further decreasing demand for windmills.</p>
+
+<p>In the half-century following World War II, windmills remained prominent elements of the built environment in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. In most counties in the <geogName rend="region" reg="Great Plains">Plains</geogName> "windmillers" still continue their business of installing and repairing windmills, which remain available from manufacturers both in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> and beyond. Because of personal sentiment, many residents in the region have carefully preserved historic windmills as tangible links with their past.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.061">Wind Energy</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">T. Lindsay Baker<lb/>
+Hill College</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Baker, T. Lindsay. <title level="m">A Field Guide to American Windmills</title>. Norman: University of Oklahoma Press, 1985.</bibl> <bibl>Eide, A. Clyde. "<title level="a">Free as the Wind</title>." <title level="j">Nebraska History</title> 51 (spring 1970): 25–41.</bibl> <bibl><title level="j">Windmillers' Gazette</title> (1982–present).</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

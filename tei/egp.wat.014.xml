@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mead, Elwood (1858-1936)</title>
+<title level="m" type="sub"></title>
+<author>Gordon W. Fassett</author>
+<author>Anne MacKinnon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fassett, Gordon W.">Gordon W. Fassett</author> and <author n="MacKinnon, Anne">Anne MacKinnon</author>. <title level="a">"Mead, Elwood (1858-1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">855-856</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MEAD, ELWOOD (1858-1936)</head>
+
+<p>Elwood Mead was born on a farm near Patriot,
+Indiana, on January 16, 1858, and was
+educated at Purdue University. He would go
+on to write the laws (though they were seldom
+adopted in full) that became the late-nineteenth-century
+model for water management in Great Plains and Rocky Mountain
+states. Mead ended his career as commissioner
+of the U.S. Bureau of Reclamation.</p>
+
+<p>Mead first became interested in irrigation
+in Colorado when he taught math and physics
+at Fort Collins in 1882. He was appointed assistant
+state engineer in 1885. Three years later
+he became the first territorial engineer of Wyoming.
+In 1889–90, at the age of thirty-one,
+Mead wrote the water law in the constitution
+and statutes for the new state of Wyoming,
+aiming to avoid other western states' mistakes
+and create a new system of active state ownership
+and supervision of water. Mead believed
+water law could foster strong agricultural
+communities, and he sought to eliminate
+speculation in water rights. Under Mead's system,
+putting water to use and filing a claim
+could not create a legal right to use water, as
+had been the case in most of the West. He
+required water users to obtain state permits;
+the permits could be denied if a project was
+deemed unwise. A panel of engineers served as
+the primary tribunal in matters of establishment,
+loss, and change of water rights. Water
+rights were tied to actual use on designated
+land to avoid speculation, a concern that
+means cautious analysis of transfers of water
+rights in Wyoming even today.</p>
+
+<p>Mead's system was influential throughout
+the Great Plains, Rocky Mountains, and Canada.
+Nebraska adopted the entire system; most
+states (for example, Oklahoma, North Dakota,
+and South Dakota) balked at supplanting
+judges with engineers and adopted only
+the permit system portion.</p>
+
+<p>Mead left Wyoming in 1898 for a career in
+what he called social engineering&#8211;designing
+irrigation colonies and promoting rural settlement
+programs in Australia, California, and
+Washington State. He became commissioner
+of the Bureau of Reclamation in 1924. He later
+mentored New Dealers on rural community
+building and masterminded the Hoover Dam
+(creating his giant namesake Lake Mead) on
+the Colorado River. Mead died in Washington
+<hi rend="smallcaps">DC</hi> on January 16, 1936.</p>
+
+<closer>
+<signed>Gordon W. Fassett<lb/>
+Cheyenne, Wyoming<lb/>
+Anne MacKinnon<lb/>
+Casper, Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kluger, James R. <title level="m">Turning on Water with a Shovel: The
+Career of Elwood Mead</title>. Albuquerque: University of New
+Mexico Press, 1992.</bibl> <bibl>Mead, Elwood. Papers, 1900–42. Water
+Resources Center Archives, University of California,
+Berkeley.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Friday Night Football</title>
+<title level="m" type="sub"></title>
+<author>Peter Maslowski</author>
+<author>John R. Wunder</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Maslowski, Peter">Peter Maslowski</author> and <author n="Wunder, John R.">John R. Wunder</author>. <title level="a">"Friday Night Football."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">386&#8211;387</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FRIDAY NIGHT FOOTBALL</head>
+
+<p>The old adage that "it's only a game" might apply to checkers or slow-pitch softball but not to Friday night high school football. As immortalized in <persName reg="Bissinger, H. G.">H. G. Bissinger</persName>'s <hi rend="italic">Friday Night Lights</hi>, which follows <placeName rend="school" key="sch.phs" reg="Permian High School">Permian High School</placeName> in <placeName rend="settlement" key="tex.ode" reg="Odessa, Texas">Odessa, Texas</placeName>, during the 1988 season, football is not just a game. Instead, football galvanized the community, held it together, and gave it a way to express itself. As exemplified by football, <placeName rend="settlement" key="tx.ode" reg="Odessa, Texas">Odessa</placeName>'s values were not pretty. Racism and sexism afflicted the town, which inadequately funded a school system that exempted athletes from even minimal academic achievement, and football was a quasi-religious experience bordering on fanaticism: the 20,000-seat stadium was a shrine that worshipers packed to capacity; star players were deities; and away games became pilgrimages.</p>
+
+<p>But <placeName rend="state" key="tx" reg="Texas">Texas</placeName> is an exception, and even within the <placeName rend="state" key="tx" reg="Texas">Lone Star State</placeName>, <geogName rend="region" reg="West Texas">West Texas</geogName>'s devotion to football is extreme. Few if any other states are so football crazy. In 1997 163,298 boys played the game there; the next closest was <placeName rend="state" key="ca" reg="California">California</placeName>, with fewer than 93,000, and no other state had more than 50,000. Indeed, during the last several decades interest in football has declined nationwide, falling behind both soccer and basketball in terms of participation among six- to seventeen-year-olds. The <geogName rend="region" reg="Great Plains">Plains</geogName> states were not immune to the trend. In the mid-1970s as many as 4,000 people attended games at tiny <placeName rend="settlement" key="ok.but" reg="Butner, Oklahoma">Butner, Oklahoma</placeName>, but in 1996 the school board abolished football without protest from players or fans. During the 1970s in <placeName rend="settlement" key="ne.lin" reg="Lincoln, Nebraska">Lincoln, Nebraska</placeName>, <placeName rend="stadium" key="stad.sf" reg="Seacrest Field">Seacrest Field</placeName> filled its 10,000-seat stadium for intense intracity rivalries, but in the mid-1990s no more than 4,000 fans attended such games.</p>
+
+<p>Despite these and other similar examples of fading interest, football remains vibrant across the <geogName rend="region" reg="Great Plains">Plains</geogName>, where high schools play the game in multiple formations. All <geogName rend="region" reg="Great Plains">Plains</geogName> states have eleven-man teams, but two also play nine-man (<placeName rend="state" key="nd" reg="North Dakota">North</placeName> and <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName>), five field eightman squads (<placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName>, <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName>, <placeName rend="state" key="mt" reg="Montana">Montana</placeName>, <placeName rend="state" key="co" reg="Colorado">Colorado</placeName>), and five play six-man football (<placeName rend="state" key="tx" reg="Texas">Texas</placeName>, <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName>, <placeName rend="state" key="mt" reg="Montana">Montana</placeName>, <placeName rend="state" key="co" reg="Colorado">Colorado</placeName>). Canadian schools field twelve-, nine-, and six-man teams.</p>
+
+<p>Each variation comes with different rules, ranging from the size of the field to which players are eligible to catch a pass, as well as a distinct ambience. For instance, in Canadian six-man football the quarterback can directly advance the ball, while in American six-man he must first lateral or hand off before he can get the pigskin back and then advance it. Within the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>, during eleven-man games fans sit throughout the contest and are a considerable distance from the action. But most people watch six-man football standing up, and up close; even though the grandstands are tiny they usually remain half-empty, because fans prefer to mill along the "fences" (often nothing more substantial than a single strand of rope), which are only a few yards from the sidelines. During inclement weather, six-man fans may take refuge in their vehicles, which are parked facing the field and so close to it that they still provide a better view of the game than many people have at large, eleven-man stadiums. When a good play occurs, blaring horns replace cheers as a way of "voicing" approval.</p>
+
+<p>In most <geogName rend="region" reg="Great Plains">Plains</geogName> towns Friday night lights illuminate a praiseworthy community spirit. Football does indeed bind a community together, especially since the sport involves not only the players but also band members (who usually outnumber the football players), cheerleaders, and spirit squads, with the latter two groups often representing a female elite with a privileged status comparable to that of the players. Families and friends of all the participants mingle in the bleachers, along the sidelines, and at the concession stand, discussing the weather, the crops, business, children, marriages and funerals, their fears, and their dreams.</p>
+
+<p>Yet even in the most admirable circumstances Friday night football hides a dark underside, because players pay a price while undertaking their community-building role. Beneath the glamour lurks untold hours of enervating practice and immense pain, both spiritual and physical. For the losers&#8211;young, aggressive, testosterone-laden teenagers who often believe their virility is at stake on the gridiron&#8211;defeat can be agonizing, perhaps as hurtful as the broken bones, torn ligaments, and concussions that routinely accompany high school football. Of course, even here the sport reflects <geogName rend="region" reg="Great Plains">Great Plains</geogName> values, the fervent belief that pain and sacrifice and an intimate knowledge of both success and failure can build character in the best sense of the word, resulting in good citizens.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.018">Football, American</ref>; <ref n="egp.sr.019">Football, Canadian</ref>; <ref n="egp.sr.020">Football, Six-Man</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Peter Maslowski<lb/>
+John R. Wunder<lb/>
+University of Nebraska-Lincoln</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Bissinger, H. G. <title level="m">Friday Night Lights: A Town, a Team, and a Dream</title>. New York: HarperCollins, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

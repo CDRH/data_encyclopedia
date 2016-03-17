@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Folk Dance</title>
+<title level="m" type="sub"></title>
+<author>Enid Cocke</author>
+<author>Susan Sanders</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cocke, Enid">Enid Cocke</author> and <author n="Sanders, Susan">Susan Sanders</author>. <title level="a">"Folk Dance."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">297</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FOLK DANCE</head>
+
+<p>Folk dance in the Great Plains has its roots in
+many traditions and reflects the history and
+culture of its peoples. Native American dances,
+with their origins in ritual, ceremonies, and
+initiation, were passed on from one generation
+to another. European folk dances evolved in
+the same way, although they came to serve a
+social rather than ritual function. In some
+Plains communities, a specific ethnic identity
+has continued unbroken to the present. In
+Lindsborg, Kansas, for example, descendants
+of Swedish settlers still maintain their tradition
+of Swedish music, dance, and festivals. Modern
+technology and communication bring an everwidening
+mix of dance from other lands,
+which reflects the universality of folk dance
+and the diversity of the American and Canadian
+nations. However, some uniquely North
+American forms of folk dance developed in the
+Great Plains.</p>
+
+<p>The settlers who entered the Great Plains in
+the nineteenth century brought the dance
+forms that they knew: the quadrille and the
+popular couple dances of the time. Farther
+east, the quadrille, a dance performed by four
+couples in a square formation, had become
+increasingly complex. A specific quadrille, the
+Standard Lancers, for instance, consisted of
+five different sections; thus, people felt the
+need of formal instruction under a dancing
+master to learn and memorize the sequence of
+figures. A second source of what evolved into
+square dancing in the Plains was the big circle
+dances of the Appalachian region. In these
+dances, alternate couples moved out to the
+couple on their right, performed a few figures
+with them, and then moved on to the next
+couple. A third feature of the square dance was
+the caller. Since dancing masters and dancing
+schools were not available to the pioneers,
+dancers relied on one person to call out the
+figures. These figures were performed in a
+four-couple square rather than a big circle, but
+they still had the visiting-couple format, in
+which one couple went out and danced various
+figures with each of the other couples in succession.
+Interspersed with the square dances
+were couple dances consisting of simple patterns
+danced to the rhythms that had become
+popular in nineteenth-century Europe: the
+waltz, polka, schottische, and a version of the
+mazurka called the Varsouvienne.</p>
+
+<p>In the Southern Great Plains these same
+square dances and couple dances were featured,
+but there was also a strand of folk dance
+coming up from Mexico. Both Spanish colonial
+dances and dances of Mexican influence
+were popular, many of them done to waltz or
+polka music. The "fandango," or Spanish ball,
+was a popular assembly where dancing and
+socializing took place. However, the opposition
+of the churches to dancing was particularly
+strong in Texas, Oklahoma, and Kansas,
+resulting in the flourishing of "play parties"
+instead of dances. Another factor in this region
+was the great distances that separated
+people, as well as the scarcity of both musicians
+and women. On the great cattle ranches
+of West Texas, people would come from fifty
+miles around if a fiddler were found and a
+dance scheduled. The furniture would be
+taken out of the largest room in the house, and
+the dancing would continue until dawn. Given
+the gender ratio, men would either wait their
+turn to dance or put on an apron or tie a scarf
+around their arm and dance the woman's part.
+With regional variations, these same square
+dances and couple dances took hold throughout
+the Great Plains, including the Canadian
+Prairie Provinces. In addition to private
+homes, granges and military posts provided
+settings for dances and social gatherings.</p>
+
+<p>In the twentieth century these dance forms
+continued in pockets throughout the Great
+Plains, but a new approach to folk dancing
+developed. Researchers, teachers, and recreation
+leaders revived the dances of the previous
+century and made them popular once
+again, but this time as a recreational activity.
+Researchers also collected ethnic dances in
+Europe and brought them again to the United
+States. Over time, square dancing evolved into
+a highly organized activity with a long sequence
+of lessons required before dancers
+could join clubs.</p>
+
+<p>A folk dance that is currently popular in the
+Plains states is the contra dance, a "longways"
+dance in which couples face each other in long
+lines. Contra dancing, which originated in
+England and was popular in colonial America,
+employs figures used in square dancing but
+keeps them to a limited number. It endured in
+New England and has now become popular
+across the country. A major feature of contra
+dancing is the use of live, rather than recorded,
+music. In the Canadian provinces,
+club square dancing and international folk are
+the predominant folk dance activities. All the
+current folk dance forms&#8211;contra, square, and
+international folk&#8211;are sustained by local associations
+as well as regional and national organizations,
+some of which produce annual
+festivals to further promote their activity.</p>
+
+<closer>
+<signed>Enid Cocke<lb/>
+Manhattan, Kansas<lb/>
+Susan Sanders<lb/>
+Lawrence, Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Casey, Betty. <title level="m">Dance across Texas</title>. Austin: University of
+Texas Press, 1985.</bibl> <bibl>Harris, Jane A., Anne M. Pittman, Marlys
+S. Waller, and Cathy L. Dark. <title level="m">Dance a While</title>. Boston: Allyn
+and Bacon, 2000.</bibl> <bibl>Shaw, Lloyd. <title level="m">Cowboy Dances</title>. Caldwell
+id: Caxton Printers, 1939.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Odessa, Texas</title>
+<title level="m" type="sub"></title>
+<author>Linda D. Brown</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brown, Linda D.">Linda D. Brown</author>. <title level="a">"Odessa, Texas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">175</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ODESSA, TEXAS</head>
+
+<p>Odessa is a city of 95,700 inhabitants, located
+centrally in the Permian Basin of West Texas.
+It sits nearly equidistant from both El Paso
+and Fort Worth and serves as the county seat
+for Ector County. The city, which shares its
+name with Odessa, Ukraine, started as 640
+acres in Survey 27 in 1876. Jay Gould's Texas
+and Pacific Railroad Company, which reached
+the survey in 1881, provided the impetus for
+further settlement. In 1886, when the population
+was only sixty, the Texas and Pacific
+transferred the acreage to John Hoge of Ohio,
+who then formed the Odessa Land and Townsite
+Company. Advertising in 1888 about the
+new town of Odessa on the Staked Plain of
+West Texas ensured eastern readers of cheap
+homes, provisions for religious and educational
+facilities, and the intentional absence of
+saloons. By 1890 there were 224 inhabitants;
+thirty-five years later, there were still only 750
+residents of Odessa.</p>
+
+<p>Population growth accelerated with the
+1926 discovery of oil in Ector County and subsequent
+discoveries in nearby counties. The
+industry that emerged had its origins in
+the Permian Sea, which covered the area before
+dinosaurs made their appearance on the
+earth. As the waters eventually receded, the
+decaying plant and animal life became over
+time the future oil reserves. It was not until
+after the worst of the Depression that the burgeoning
+petroleum industry came into its real
+strength. Odessa's proximity to the oil fields
+and railroad made it the choice location to
+service and supply the wells, and Odessa and
+Midland together are jointly referred to as
+the Petroplex. Additionally, Odessans have experimented
+since initial settlement with livestock
+ventures. Early attempts at sheep raising
+failed due to barbed wire, which closed off the
+range. Cattle ranching strengthened over time
+and remains a vibrant business today. Football
+was introduced to the town in 1923 to encourage
+young men to stay in school. Today,
+Odessa is nationally known for its highly competitive
+football program: Permian High captured
+the Texas state high school title six
+times from 1964 to 1991, and Odessa High was
+champion in 1946.</p>
+
+<p>In 1927 the town became a city when it incorporated,
+receiving its charter and electing
+its first mayor. But its development and growth
+still came in spurts, largely dependent on the
+oil economy and available accommodation.
+Such booms and busts continue to influence
+the area. It was during one such boom in 1948
+that President George H. W. Bush and his family
+lived and worked in Odessa. They spent one
+year in the city before moving to Midland.</p>
+
+<p>Modern Odessa, while still dependent on
+oil and cattle, continues to evolve. The Permian
+Basin International Oil Show, first begun
+in 1940, continues to be held biennially,
+but Odessa is also working to diversify its
+economy by attracting other businesses and
+industries. And although the city's first college
+was burned to the ground in 1892, possibly in
+response to the saloon debate, today there are
+two thriving institutions of higher learning:
+Odessa College and the University of Texas of
+the Permian Basin. Possibly, the area's oldest
+point of interest is the meteor crater created
+some 20,000 years ago but only declared a national
+landmark in 1965: the Odessa Crater
+measures 550 feet in diameter and is purported
+to be the second largest in the country.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.025">Friday Night Football</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.047">Petroleum, United States</ref>.</p>
+
+<closer>
+<signed>Linda D. Brown<lb/>
+Odessa College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Justice, Glenn. <title level="m">Odessa: An Illustrated History</title>. Chatsworth
+<hi rend="smallcaps">CA</hi>: Windsor Publications, 1991.</bibl> <bibl>Sheppard, John Ben.
+<title level="m">Odessa 100: An Informal History</title>. Odessa <hi rend="smallcaps">TX</hi>: Exchange
+Club, 1981.</bibl> <bibl><title level="m">Texas: The New Town of Odessa</title>. Odessa <hi rend="smallcaps">TX</hi>:
+Odessa Land and Townsite Company, 1888.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Shivarees</title>
+<title level="m" type="sub"></title>
+<author>Michael Taft</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Taft, Michael">Michael Taft</author>. <title level="a">"Shivarees."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">313-314</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SHIVAREES</head>
+
+<p>Known also as serenading or belling, a shivaree
+is a noisy, rowdy, and often bawdy community
+celebration of a marriage. On the
+wedding night, friends and neighbors would
+gather outside the couple's bedroom window
+banging pots and pans, playing musical instruments,
+sometimes shooting off guns, and
+demanding entrance to the newlyweds' home.
+Once inside, the group might play practical
+jokes on the couple, such as taking the labels
+off cans, tying bells to the bedsprings, or
+bringing livestock into the house. The tradition
+might also include kidnapping one or
+both of the newlyweds, tying them to trees,
+dunking them in horse troughs, riding them
+around town, abandoning them in the countryside,
+or otherwise disrupting and delaying
+the wedding night. Despite this rough treatment,
+newlyweds were expected to act as gracious
+hosts by offering the group food, drink,
+and hospitality&#8211;or by paying the revelers to
+leave.</p>
+
+<p>While the tradition as practiced in the
+Plains was usually a celebration in which the
+community showed its approval of the marriage,
+the European roots of this custom were
+often far from benign. The original "charivari"
+was usually a form of rough justice
+wherein neighbors showed their displeasure
+over an unequal marriage, an improper remarriage,
+adultery, or a marriage in which
+there was spousal abuse. In this older tradition,
+the newlyweds might be publicly humiliated
+(such as forced to ride backward on a
+donkey), beaten, or even killed. As a custom in
+the Plains during the nineteenth and early
+twentieth centuries, however, the shivaree became
+associated with neighborliness, community
+spirit, and the recognition of marriage as
+a stabilizing factor in frontier society.</p>
+
+<closer>
+<signed>Michael Taft<lb/>
+American Folklife Center<lb/>
+Library of Congress</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dary, David. <title level="m">Seeking Pleasure in the Old West</title>. Lawrence:
+University Press of Kansas, 1995.</bibl> <bibl>Johnson, Loretta T.
+"Charivari/Shivaree: A European Folk Ritual on the American
+Plains." <title level="j">Journal of Interdisciplinary History</title> 20 (1990):
+371–87.</bibl> <bibl>Kinsella, W. P. "Dangerous Consequences." In <title level="m">The Secret of the Northern Lights</title>. Saskatoon: Thistledown
+Press, 1998: 55–66.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

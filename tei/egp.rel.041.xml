@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Quakers</title>
+<title level="m" type="sub"></title>
+<author>Leroy Brightup</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brightup, Leroy">Leroy Brightup</author>. <title level="a">"Quakers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">754-755</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">QUAKERS</head>
+
+<p>Quaker settlements began to appear in the
+Great Plains in Kansas in the 1850s when families
+moved together from Quaker communities
+in Indiana and Iowa. Lured by the prospect
+of choice land, they were also motivated
+by benevolent concern for Native Americans
+and the opportunity of voting against slavery
+in this newly opened territory. Homes and
+churches were constructed of logs and prairie
+sod.</p>
+
+<p>Historically, Quaker worship consisted of a
+simple gathering in silence, without clergy,
+planned program, or sacrament. Worshipers
+prayed or spoke as they felt moved by God.
+Influenced by frontier revivalism, many Quakers
+in the latter third of the 1800s embraced the
+evangelistic methods and pastoral leadership
+characteristic of others. Thereafter, much of
+the spread of Quakerism in rural Oklahoma
+and Nebraska reflected this new development.</p>
+
+<p>Maintaining the dignity and equality of all
+persons and leadership by women as well as
+men have been encouraged. Numerous Quaker
+schools across Kansas, Oklahoma, and Nebraska
+made education available before the advent
+of public schools. Not limited to Quakers, Barclay
+College (Haviland, Kansas) and Friends
+University (Wichita, Kansas) continue to provide
+education at the adult level. Work with
+Native Americans, initiated in Kansas at Shawnee
+Mission (1836), continued in Nebraska in
+the late 1860s, when Quakers were appointed
+as agents to the Pawnees, Omahas, and Otoe-
+Missourias, and subsequently in Oklahoma and
+New Mexico.</p>
+
+<p>Approximately a dozen isolated Quaker
+Meetings (worship groups) can be found in
+Nebraska, and there is a small, unprogrammed
+group in each of the five major cities of the
+Prairie Provinces of Canada. The highest concentration
+of Quakers in the Great Plains,
+however, is found in southern Kansas, northern
+Oklahoma, and southeastern Colorado,
+where the pastoral leadership style of worship
+tends to prevail. Membership among Quakers
+within the Great Plains is approximately 6,000,
+with about 75 percent located in Kansas and
+Oklahoma.</p>
+
+<closer>
+<signed>Leroy Brightup<lb/>
+Friends University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barbour, Hugh, and J. William Frost. <title level="m">The Quakers</title>. Richmond
+<hi rend="smallcaps">IN</hi>: Friends United Press, 1994.</bibl> <bibl>Dorland, Arthur
+Garratt. <title level="m">The Quakers in Canada: A History</title>. Toronto: Ryerson
+Press, 1968.</bibl> <bibl>Elliott, Errol T. <title level="m">Quakers on the American
+Frontier</title>. Richmond <hi rend="smallcaps">IN</hi>: Friends United Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

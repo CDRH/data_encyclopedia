@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pecos Bill</title>
+<title level="m" type="sub"></title>
+<author>F. E. Abernethy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Abernethy, F. E.">F. E. Abernethy</author>. <title level="a">"Pecos Bill."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">307</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PECOS BILL</head>
+
+<p>Pecos Bill is a semilegendary cowboy-culture
+hero of the Southwest. According to tales, Bill
+was the strongest, meanest cowboy west of the
+Pecos River, the greatest roper and bronc
+buster and gunfighter. He rode a panther that
+weighed as much as three steers and a yearling
+and used a rattlesnake for a quirt. He invented
+calf roping and branding and built the first six-shooter.
+He could ride a cyclone while rolling
+a cigarette with one hand. He dug the Rio
+Grande one droughty year so he could get water
+from the Gulf of Mexico up to the Pecos.
+He staked out New Mexico for his ranch
+spread and used Arizona as a calf pasture. He
+became the mythical cowboy supertype.</p>
+
+<p>Bill was born in the early 1830s of pioneer
+Texas stock. When another family settled fifty
+miles downriver, his family moved west because
+of the crowded conditions. Bill fell out
+of the wagon when it was crossing the Pecos,
+and because there were so many kids in the
+family, his folks did not miss him until it was
+too late to go back. Bill was raised by coyotes,
+and for food he ran down deer and jackrabbits.
+Bill was ten years old when a cowboy rode
+up on him while he was squeezing two bears
+to death to get meat for supper. The cowboy
+finally convinced Bill that he was human by
+pointing out that he had no tail. So Bill threw
+in with humans and began the adventures that
+have earned him literary and folkloric fame.</p>
+
+<p>Pecos Bill first came to literary life in an article
+by journalist Edward O'Reilly in <title level="j">The Century Magazine</title> in October 1923. O'Reilly claims
+to have heard stories about Pecos Bill in his
+childhood and from cowboys sitting around
+the chuck wagon. In 1934 Mody Boatright took
+O'Reilly's stories and expanded them into
+three chapters of his <title level="m">Tall Tales from Texas Cow Camps</title>. Because the only known means of dissemination
+of Pecos Bill tales has been in published
+literature, some scholars question the
+validity of Pecos Bill as a true folk character.
+The final authority on Texas legends, J. Frank
+Dobie of the Texas Folklore Society, asserted
+that Pecos Bill was unknown before O'Reilly's
+article. Dobie based his judgment on his own
+encyclopedic knowledge of southwestern folklore
+and on the fact that O'Reilly once admitted,
+in a lawsuit against a writer who plagiarized
+his article, that he had invented Pecos
+Bill. Pecos Bill seems to have been more the
+product of journalism than folklore.</p>
+
+<closer>
+<signed>F. E. Abernethy<lb/>
+Stephen F. Austin State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Boatright, Mody. <title level="m">Tall Tales from Texas Cow Camps</title>. Dallas:
+Southwest Press, 1934.</bibl> <bibl>Botkin, B. A. "The Saga of Pecos
+Bill." In <title level="m">A Treasury of American Folklore</title>. New York:
+Crown Publishers, Inc., 1944: 180–85.</bibl> <bibl>O'Reilly, Edward.
+"The Saga of Pecos Bill." <title level="j">The Century Magazine</title> 106 (1923):
+827–33.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

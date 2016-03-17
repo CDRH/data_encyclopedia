@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fonda, Henry (1906-1982)</title>
+<title level="m" type="sub"></title>
+<author>Chuck Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Chuck">Chuck Berg</author>. <title level="a">"Fonda, Henry (1906-1982)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">267</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FONDA, HENRY (1906-1982)</head>
+<figure n="egp.fil.023" rend="granted" type="noclick">
+<figDesc>Henry Fonda</figDesc>
+</figure>     
+
+<p>Henry Jaynes Fonda, one of America's most
+beloved screen actors, won the admiration of
+film fans around the world with an unassuming
+acting style that was engagingly forthright
+and sincere. From his Hollywood debut in
+<title>The Farmer Takes a Wife</title> (1935) to his Oscarwinning
+performance in <title>On Golden Pond</title>
+(1981), Fonda projected a clear-eyed integrity
+that compelled him to seek the truth and
+stand up for the little guy.</p>
+
+<p>Born in Grand Island, Nebraska, on May 16,
+1906, Fonda moved with his family to Omaha
+when he was six months old. Intent on a career
+in journalism, he enrolled at the University
+of Minnesota. He dropped out after two
+years and returned to Omaha and a job as an
+office boy. In 1925 a friend of the family&#8211;the
+mother of then one-year-old Marlon Brando
+&#8211;asked him to act in an amateur production
+at the Omaha Community Playhouse. Entranced
+by the theater, Fonda quit his office
+job to work with the company for three years.</p>
+
+<p>In 1928 Fonda headed to New York to seek
+his fortune as a professional actor. After several
+minor Broadway roles, he achieved stardom
+in <title>The Farmer Takes a Wife</title>, his first film
+role. As a young Hollywood leading man,
+Fonda at first played opposite established female
+stars such as Bette Davis in <title>Jezebel</title> (1938).
+The defining moment for Fonda's career came
+in director John Ford's <title>The Young Mr. Lincoln</title>
+(1939), a role that allowed the actor's aura of
+midwestern honesty and thoughtful compassion
+to shine. Other now classic films capitalizing
+on Fonda's quiet heroism include <title>The Grapes of Wrath</title> (1940),<title>The Ox-Bow Incident</title>
+(1943), <title>My Darling Clementine</title> (1946), <title>Twelve Angry Men</title> (1957), and <title>Fail Safe</title> (1964).</p>
+
+<p>Although his international celebrity was a
+result of his status as a Hollywood star, Fonda's
+true love was theater, and in 1948 he returned
+to Broadway for three long-running hit plays,
+<title>Mr. Roberts</title> (1948), <title>Point of No Return</title> (1951), and <title>The Caine Mutiny Court-Martial</title> (1954).
+Fonda might never have appeared in movies
+again had it not been for John Ford, who insisted
+that he reprise his role of Mr. Roberts for
+the 1955 film adaptation. Thereafter, Fonda
+shuttled back and forth between New York and
+Los Angeles. Among his last triumphs were the
+one-man Broadway show <title>Clarence Darrow</title> (1974) and his cutting-against-the-grain villain in film director Sergio Leone's epic <title>Once Upon a Time in the West</title> (1969).</p>
+
+<p>In 1981, when he was sick and dying, Fonda
+agreed to film the adaptation of <title>On Golden Pond</title>, which costarred and was produced by
+his daughter Jane. Teamed with Katharine
+Hepburn in what proved to be his final role,
+Fonda was hailed by the critics, the public,
+and the Academy of Motion Picture Arts and
+Sciences, which awarded him a best actor Oscar.
+Fonda also is the father of actor-producer
+Peter Fonda. Henry Fonda, who was granted a
+Life Achievement Award by the American
+Film Institute in 1978, died in Los Angeles on
+August 12, 1982.</p>
+
+<closer>
+<signed>Chuck Berg<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fonda, Henry. <title level="m">My Life: As Told to Howard Teichman</title>. New
+York: New American Library, 1981.</bibl> <bibl>Sweeny, Kevin. <title level="m">Henry Fonda: A Bio-Bibliography</title>. New York: Greenwood Press,
+1992.</bibl> <bibl>Thomas, Tony. <title level="m">The Films of Henry Fonda</title>. Secaucus
+<hi rend="smallcaps">NJ</hi>: Citadel Press, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

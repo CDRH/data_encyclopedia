@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Appeal to Reason</hi></title>
+<title level="m" type="sub"></title>
+<author>Virgil W. Dean</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dean, Virgil W.">Virgil W. Dean</author>. <title level="a">"<hi rend="italic">Appeal to Reason</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">707</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">APPEAL TO REASON</hi></head>
+
+<p>First published by Julius A. Wayland at Kansas
+City on August 31, 1895, <title level="j">Appeal to Reason</title> was a
+four-page socialist weekly. In February 1897
+Wayland moved the paper to the southeast
+Kansas coal-mining town of Girard. There,
+drawing on the talents of some fine editors
+and numerous nationally known socialist
+thinkers and writers, the <title level="j">Appeal</title> became the
+leading socialist publication in the United
+States, with a circulation of 760,000 at its peak
+in 1913.</p>
+
+<p>Throughout its history, the <title level="j">Appeal</title> highlighted
+the evils of capitalism and the promise
+of a socialist society. It fashioned itself the
+champion of a uniquely American brand of
+socialism and was tremendously successful
+because it combined this epigrammatic socialism
+with the right amount of muckraking,
+scandal, and circulation hustle. During the
+first decade of the twentieth century, American
+socialist leader Eugene Debs worked as a
+staff writer for <title level="j">Appeal to Reason</title>, and the paper
+introduced its readers to Upton Sinclair's
+attack on poor and unsanitary working conditions
+in the meatpacking industry. A serialized
+version of Sinclair's <title level="m">The Jungle</title> first appeared
+in Wayland's weekly, beginning on February
+25, 1905.</p>
+
+<p>Upon the death of J. A. Wayland by suicide
+in November 1912, Fred D. Warren, who had
+been working as editor for some years, continued
+publishing the <title level="j">Appeal</title>. He was succeeded
+by Walter H. Wayland, son of the
+founder, Louis Kopelin, and then Emmanuel
+Haldeman-Julius. <title level="j">Appeal to Reason</title> and its editors
+came under frequent attack by federal
+authorities during the years leading up to
+World War I. Some detractors labeled it the
+"Squeal for Treason," while Theodore Roosevelt
+branded it a "vituperative organ of propaganda,
+anarchy and bloodshed." Nevertheless,
+to the chagrin of many socialists, <title level="j">Appeal to
+Reason</title> supported President Woodrow Wilson
+and the crusade to "make the world safe for
+democracy." It continued its advocacy of socialism
+and the international movement but
+changed its name to the <title level="j">New Appeal</title>.</p>
+
+<p>Soon after the war ended, the paper reverted
+back to its old title. It had, however, lost
+much of its zeal and readership and wilted
+under the anti-Red reaction of the early twenties.
+<title level="j">Appeal to Reason</title> was discontinued in
+1922, but its last editor, Haldeman-Julius, continued
+the paper's long-standing effort to educate
+the masses through his immensely popular
+Little Blue Book series, which brought
+quality literature to the public in inexpensive
+pocket books.</p>
+
+<closer>
+<signed>Virgil W. Dean<lb/>
+Kansas State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="j">Appeal to Reason</title>, Kansas City <hi rend="smallcaps">MO</hi>, Kansas City <hi rend="smallcaps">KS</hi>, and
+Girard <hi rend="smallcaps">KS</hi>, 1895–1922, Library and Archives Division,
+Kansas State Historical Society, Topeka <hi rend="smallcaps">KS</hi>.</bibl> <bibl>Shore, Elliott.
+<title level="m">Talkin' Socialism: J. A. Wayland and the Role of the Press in
+American Radicalism, 1890–1912</title>. Lawrence: University
+Press of Kansas, 1988.</bibl> <bibl>Wayland, Julius Augustus. Collection.
+Pittsburg State University Library, Pittsburg <hi rend="smallcaps">KS</hi>.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

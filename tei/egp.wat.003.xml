@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bow River Irrigation Project</title>
+<title level="m" type="sub"></title>
+<author>Ted D. Regehr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Regehr, Ted D.">Ted D. Regehr</author>. <title level="a">"Bow River Irrigation Project."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">851</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BOW RIVER IRRIGATION PROJECT</head>
+
+<p>The Bow River Irrigation Project developed
+the waters of the Bow River for irrigation purposes
+in the semiarid districts of south-central
+Alberta. It was not the first irrigation project
+in western Canada, but eventually it became
+one of the largest. The project serves an area of
+530,000 acres of land lying between the cities
+of Medicine Hat, Calgary, and Lethbridge in
+southern Alberta and has brought approximately
+210,000 acres under irrigation.</p>
+
+<p>The Bow River Irrigation Project traces its
+origins to the Grand Forks Cattle Company,
+which was incorporated in 1903. That company
+was a successful ranching operation, but
+in 1906 its operations were taken over by the
+Robins Irrigation Company, which applied to
+the federal government of Canada for authority
+to purchase 151,180 acres of land as well as
+for water rights to develop irrigation works
+for 95,143 acres of that land. Di.culties in
+raising the required capital resulted in a reorganization
+under which the Southern Alberta
+Land Company acquired the assets of the former
+Grand Forks Cattle Company and of the
+Robins Irrigation Company.</p>
+
+<p>The Southern Alberta Land Company began
+construction of water diversion works in
+1909, but failure or legal inability to sell irrigation
+lands before it had completed construction
+of all the irrigation works, coupled with a
+major accident at one of its headgates and a
+severe tightening of the financial markets in
+London just before the outbreak of World
+War I, forced the Southern Alberta Land
+Company into receivership in June 1914. Difficult
+and legally contentious negotiations resulted
+in acquisition of the assets and obligations
+of the Southern Alberta Land Company
+by the Canada Land and Irrigation Company
+in 1917.</p>
+
+<p>Water for irrigation purposes was first delivered
+by the Canada Land and Irrigation Company
+in 1920, but severely depressed prices for
+wheat in 1922–23, and even more disastrous
+drought and commodity price declines after
+1929, made it impossible for the company to
+meet its financial obligations. Its operations
+were taken over in 1935 by the Prairie Farm
+Rehabilitation Administration (<hi rend="smallcaps">PFRA</hi>), which
+continues to operate the huge irrigation works
+today.</p>
+
+<p>The Bow River Irrigation Project brought
+the benefits of irrigation to more than 200,000
+acres of arid and semiarid prairie. Irrigation
+has dramatically increased the productive capacity
+of vast tracts of prairie lands, but, at
+least in dry years, those irrigation projects
+have exhausted the available water supplies.
+They now threaten the ecology of the entire
+Bow River drainage basin.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.053">Prairie Farm Rehabilitation Administration</ref>.</p>
+
+<closer>
+<signed>Ted D. Regehr<lb/>
+University of Saskatchewan and University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gilpin, John. <title level="m">Prairie Promises: History of the Bow River
+Irrigation District</title>. Vauxhall, Alberta: Bow River Irrigation
+District, 1976.</bibl> <bibl>Kirk, D. W. <title level="m">The Bow River Irrigation Project:
+The History and Development of the Bow River Irrigation
+Project up to and Including Its Purchase by the Government
+of Canada in 1950</title>. Regina, Saskatchewan: Prairie Farm
+Rehabilitation Administration, 1955.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gordon, Charles W. (1860-1937)</title>
+<title level="m" type="sub"></title>
+<author>Dick Harrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harrison, Dick">Dick Harrison</author>. <title level="a">"Gordon, Charles W. (1860-1937)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">478-479</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GORDON, CHARLES W. (1860-1937)</head>
+<figure n="egp.lt.020" rend="granted" type="noclick">
+<figDesc>Photograph of Charles William Gordon</figDesc>
+</figure>    
+
+<p>Charles William Gordon was Canada's first
+best-selling novelist. Born on September 13,
+1860, in Glengarry County, Ontario, to Mary
+Robertson Gordon and Scots missionary Daniel
+Gordon, Charles was educated at universities
+in Toronto and Edinburgh, earning a
+doctor of divinity. He served as a Methodist
+missionary in pioneer settlements west of Calgary
+from 1890 to 1893, then as pastor of St.
+Stephen's Church in Winnipeg until his death
+on October 31, 1937.</p>
+
+<p>Gordon began writing moral tales under
+the pseudonym "Ralph Connor" to promote
+missionary work, but because he happened to
+be a gifted storyteller, his first three books,
+<title level="m">Black Rock</title> (1898), <title level="m">The Sky Pilot</title> (1899), and
+<title level="m">The Man from Glengarry</title> (1901), sold over five
+million copies&#8211;an unheard-of number for a
+Canadian author. He wrote twenty more, and
+for a time his popularity could be compared
+to Zane Grey's. Gordon counted national
+leaders such as Wilfrid Laurier, Theodore
+Roosevelt, and Woodrow Wilson among his
+readers and friends and was himself one of
+Canada's most prominent citizens, providing
+leadership in national and international
+organizations.</p>
+
+<p>Not surprisingly, the Reverend Gordon's
+romances were didactic, promoting the values
+of muscular Christianity, the Social Gospel,
+and the Empire. Their patriarchal, imperialist,
+and ethnocentric assumptions render them
+worse than irrelevant today, but Gordon did
+embrace the more liberal social and political
+ideas of his time, including public ownership
+of certain industries.</p>
+
+<p>Only a few of Gordon's romances are set on
+the Plains or in the foothills, including <title level="m">The Foreigner</title> (1909) and <title level="m">Corporal Cameron of the North West Mounted Police</title> (1912). <title level="m">The Sky Pilot</title>
+epitomizes these Western stories, depicting
+a young tenderfoot missionary winning over
+the blasphemous ranch hands by proving he is
+straight and manly. In Gordon's marriage of
+East and West, counter to the American frontier
+formula, western vitality is tamed by eastern
+refinement.</p>
+
+<closer>
+<signed>Dick Harrison<lb/>
+Sechelt, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lennox, John. "Charles W. Gordon ["Ralph Connor"]
+(1860–1937)." In <title level="m">Canadian Writers and Their Works</title>, Fiction
+series, vol. 3, edited by Robert Lecker, Jack David, and
+Ellen Quigley. Toronto: <hi rend="smallcaps">ECW</hi>, 1988: 102–59.</bibl> <bibl>Thompson, J.
+Lee, and John H. Thompson. "Ralph Connor and the
+Canadian Identity." <title level="j">Queens Quarterly</title> 79 (1972): 159–70.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

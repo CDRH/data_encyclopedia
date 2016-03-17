@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.wat.027 SYSTEM "egp.wat.027.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rivers</title>
+<title level="m" type="sub"></title>
+<author>Paul R. Jordan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jordan, Paul R.">Paul R. Jordan</author>. <title level="a">"Rivers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">861-862</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIVERS</head>
+
+<figure n="egp.wat.027" rend="granted">
+<figDesc>Platte River State Park, Nebraska, May 1989</figDesc>
+</figure>
+
+
+<head type="sub">Data for Selected Rivers</head>
+
+<table rows="17" cols="4">
+<row><cell role="desc">Gaging station name</cell> <cell role="desc">Drainage area (square kilometers)</cell> <cell role="desc">Period of discharge analysis</cell> <cell role="desc">Average discharge (cubic meters per second)</cell></row>
+<milestone unit="smallbar"/>
+
+<row><cell role="desc">Missouri River at St. Joseph, Missouri</cell> <cell role="data">1,100,000</cell> <cell role="data">1958-96</cell> <cell role="data">1,300</cell></row>
+<row><cell role="desc">Missouri River at Bismarck, North Dakota</cell> <cell role="data">480,000</cell> <cell role="data">1954-96</cell> <cell role="data">650</cell></row>
+<row><cell role="desc">Missouri River near Culbertson, Montana</cell> <cell role="data">240,000</cell> <cell role="data">1958-95</cell> <cell role="data">300</cell></row>
+<row><cell role="desc">Platte River at Louisville, Nebraska</cell> <cell role="data">220,000</cell> <cell role="data">1953-96</cell> <cell role="data">200</cell></row>
+<row><cell role="desc">Yellowstone River near Sidney, Montana</cell> <cell role="data">180,000</cell> <cell role="data">1967-96</cell> <cell role="data">360</cell></row>
+<row><cell role="desc">Kansas River at DeSoto, Kansas</cell> <cell role="data">150,000</cell> <cell role="data">1918-97</cell> <cell role="data">210</cell></row>
+<row><cell role="desc">South Saskatchewan River at St. Louis, Saskatchewan</cell> <cell role="data">150,000</cell> <cell role="data">1980-96</cell> <cell role="data">190</cell></row>
+<row><cell role="desc">Arkansas River at Ralston, Oklahoma</cell> <cell role="data">140,000</cell> <cell role="data">1977-95</cell> <cell role="data">170</cell></row>
+<row><cell role="desc">North Saskatchewan River at Prince Alberta, Saskatchewan</cell> <cell role="data">130,000</cell> <cell role="data">1980-96</cell> <cell role="data">230</cell></row>
+<row><cell role="desc">Red River of the North at Emerson, Manitoba</cell> <cell role="data">100,000</cell> <cell role="data">1912-95</cell> <cell role="data">100</cell></row>
+<row><cell role="desc">Colorado River at Austin, Texas</cell> <cell role="data">100,000</cell> <cell role="data">1937-96</cell> <cell role="data">55</cell></row>
+<row><cell role="desc">Red River near Gainesville, Texas</cell> <cell role="data">80,000</cell> <cell role="data">1937-97</cell> <cell role="data">94</cell></row>
+<row><cell role="desc">Pecos River near Girvin, Texas</cell> <cell role="data">77,000</cell> <cell role="data">1939-96</cell> <cell role="data">2</cell></row>
+<row><cell role="desc">Brazos River near Glen Rose, Texas</cell> <cell role="data">67,000</cell> <cell role="data">1970-96</cell> <cell role="data">34</cell></row>
+<row><cell role="desc">Canadian River at Purcell, Oklahoma</cell> <cell role="data">67,000</cell> <cell role="data">1980-95</cell> <cell role="data">22</cell></row>
+<row><cell role="desc">Cheyenne River at Cherry Creek, South Dakota</cell> <cell role="data">62,000</cell> <cell role="data">1961-94</cell> <cell role="data">23</cell></row>
+<milestone unit="smallbar"/>
+</table>
+
+
+<p>Characteristics of rivers in the Great Plains
+reflect the climatic transition from arid environments
+in the lee of the Rocky Mountains
+eastward to subhumid and humid tallgrass
+prairies. There is much less runoff to the rivers
+in the western than in the eastern Great Plains;
+for example, yearly runoff averages 0.2 inch in
+eastern Colorado compared to eight inches in
+eastern Kansas.</p>
+
+<p>About one-half of the major Plains rivers
+begin in the Rocky Mountains at altitudes of
+8,000 to 11,000 feet and receive substantial
+flows from mountain snowmelt. After entering
+the Great Plains, most of those rivers contribute
+some of their flows to extensive irrigation
+projects. Rivers originating in the Plains
+generally have less flow available in their western
+reaches, where water for irrigation is most
+needed. The characteristics of the major rivers
+are summarized below from north to south in
+the Great Plains.</p>
+
+<p><hi rend="italic">Kis-is-ska-tche-wan</hi>, which means "swift
+flowing," was the Cree Indian name for the
+North and South Saskatchewan Rivers. Rapid
+flow and flood conditions are most extreme in
+June or July of years when snowmelt in the
+mountains coincides with major rainstorms
+in the foothills. Dominating water resources
+development in Saskatchewan is Lake Diefenbaker,
+which was created by Gardiner Dam on
+the South Saskatchewan and serves a variety
+of purposes, including electricity generation,
+irrigation, and recreation.</p>
+
+<p>The Assiniboine River receives flow from
+large tributaries, including the Qu'Appelle
+and Souris Rivers, before joining the Red
+River of the North. A connection with the
+South Saskatchewan has existed since the late
+1960s when the water level of Lake Diefenbaker
+has been high enough for water to be
+released to the Qu'Appelle River.</p>
+
+<p>From its origin in western Montana to its
+confluence with the Mississippi River, the
+Missouri is the longest river in the United
+States and has the second largest drainage
+area. Early writers described the Missouri as a
+muddy and a hungry river, constantly eating
+at its banks. A strong current would tear away
+an entire strip of forest, blocking the river
+with tree trunks that hindered navigation.
+Control works have since reduced these characteristics,
+but landowners along the banks
+where the river is not impounded still become
+apprehensive every time the river rises. The
+Missouri provides water supplies for Great
+Falls, Montana, Omaha, Nebraska, and St.
+Joseph and Kansas City, Missouri. It also provides
+irrigation water and hydroelectric power
+from six reservoirs on the main stem upstream
+from Sioux City, Iowa. The reservoirs in North
+and South Dakota extend so far along the river
+that less than a quarter of the river's length in
+those states has not been inundated.</p>
+
+<p>Snowdrifts on the side of Yount's Peak, near
+Yellowstone National Park, melt to produce
+streams that combine into the Yellowstone
+River, which has the upstream half of its drainage
+area outside the Great Plains. After making
+a journey of more than 671 miles and providing
+water supply for the city of Billings, the Yellowstone
+joins the Missouri at the Montana–North Dakota boundary.</p>
+
+<p>Although tributaries of the North and South
+Platte Rivers are less than ten miles apart in
+northern Colorado, the course of the rivers
+diverges through Wyoming and Colorado until
+they finally flow near each other in Nebraska
+and join at the city of North Platte. The Platte
+River then flows eastward 310 miles across Nebraska
+to join the Missouri River at Plattsmouth.
+The Platte and its largest branches provide
+irrigation water for vast acreages of crops.
+The South Platte and tributaries provide part
+of Denver's water supply. Between Lincoln and
+Omaha, the Platte provides Lincoln's water
+supply and part of Omaha's supply by contributing
+induced recharge to wells in the adjoining
+alluvium.</p>
+
+<p>The Kansas River has the fifteenth largest
+drainage area in the United States; however,
+the river bearing that name has a length of
+only 185 miles. Topeka, Lawrence, and much
+of Johnson County, including the densely
+populated suburbs of Kansas City, obtain water
+supplies from the Kansas River.</p>
+
+<p>The Arkansas River is the sixth longest in
+the United States and has the ninth largest
+drainage area. It supplies water for Pueblo,
+Aurora, and Colorado Springs, and for extensive
+irrigation. In western Kansas during
+much of the year it is nearly dry. In eastern
+Oklahoma, the Arkansas receives the Canadian
+River, which, with tributaries, provides
+about half of the water supply for Oklahoma
+City.</p>
+
+<p>The headwaters of the Red River are in the
+New Mexico part of the level, arid Llano Estacado.
+Eastward, the Red River forms much
+of the Oklahoma-Texas boundary, and tributaries
+provide the Wichita Falls water supply.
+Similarly the Brazos and Colorado Rivers begin
+on the Llano Estacado, supplying Waco
+and Austin near the eastern edge of the Great
+Plains.</p>
+
+<p>Developments on several rivers have resulted
+in both benefits and unwelcome changes. Well-documented
+changes include degradation of
+riverbeds downstream from dams and large reductions
+in channel width of some rivers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.039">Water Transportation</ref>.</p>
+
+<closer>
+<signed>Paul R. Jordan<lb/>
+Lawrence, Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bartlett, Richard A., ed. <title level="m">Rolling Rivers</title>. New York: McGraw-Hill, 1984.</bibl>
+<bibl>Department of the Interior, Geological Survey. <title level="m">National Water Summary 1985—Hydrologic Events
+and Surface-Water Resources</title>. Reston <hi rend="smallcaps">VA</hi>: Water-Supply Paper
+2300, 1986.</bibl> <bibl>Richards, J. Howard, and Ka Iu Fung, eds.
+<title level="m">Atlas of Saskatchewan</title>. Saskatoon: University of Saskatchewan,
+1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

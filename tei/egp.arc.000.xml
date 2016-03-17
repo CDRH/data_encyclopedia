@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.000 SYSTEM "egp.arc.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Architecture</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="contents">
+
+<head>Architecture</head>
+
+<figure n="egp.arc.000" rend="granted">
+<figDesc>Old Germantown bank, Garland, Nebraska</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.arc.001">Architecture</ref></item>
+<item><ref n="egp.arc.002">Arboretums</ref></item>
+<item><ref n="egp.arc.003">Baled Biomass Buildings</ref></item>
+<item><ref n="egp.arc.004">Barns</ref></item>
+<item><ref n="egp.arc.005">Black Sea German Architecture</ref></item>
+<item><ref n="egp.arc.006">Brick Masonry</ref></item>
+<item><ref n="egp.arc.007">Cemeteries</ref></item>
+<item><ref n="egp.arc.008">Clay Construction</ref></item>
+<item><ref n="egp.arc.009">Cold War Architecture</ref></item>
+<item><ref n="egp.arc.010">Commercial Architecture</ref></item>
+<item><ref n="egp.ii.014">Corn Palace. <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>  
+<item><ref n="egp.arc.012">Country Club Plaza</ref></item>
+<item><ref n="egp.arc.013">Czech Architecture</ref></item>
+<item><ref n="egp.arc.014">Danish Architecture</ref></item>
+<item><ref n="egp.arc.015">Davis and Wilson</ref></item>
+<item><ref n="egp.arc.016">Depression Architecture</ref></item>
+<item><ref n="egp.arc.017">Dow, Wallace</ref></item>
+<item><ref n="egp.arc.018">Dubois, William</ref></item>
+<item><ref n="egp.arc.020">Earth Lodges</ref></item>
+<item><ref n="egp.arc.058">Farmsteads</ref></item>
+<item><ref n="egp.arc.021">Finnish Architecture</ref></item>
+<item><ref n="egp.arc.022">Fort Architecture</ref></item>
+<item><ref n="egp.arc.023">Foucart, Joseph</ref></item>
+<item><ref n="egp.arc.024">German Architecture</ref></item>
+<item><ref n="egp.arc.025">Goff, Bruce</ref></item>
+<item><ref n="egp.arc.026">Grain Elevators</ref></item>
+<item><ref n="egp.arc.027">Greene, Herb</ref></item>
+<item><ref n="egp.arc.028">Herminghaus, Ernst</ref></item>
+<item><ref n="egp.arc.029">Hispanic Architecture</ref></item>
+<item><ref n="egp.arc.030">Kimball, Thomas Rogers</ref></item>
+<item><ref n="egp.arc.031">Landscape Architecture</ref></item>
+<item><ref n="egp.arc.032">Layton, Solomon</ref></item>
+<item><ref n="egp.arc.033">Literary Architecture</ref></item>
+<item><ref n="egp.arc.034">Native American Contemporary Architecture</ref></item>
+<item><ref n="egp.arc.035">Native American Traditional Architecture</ref></item>
+<item><ref n="egp.arc.036">Nebraska State Capitol</ref></item>
+<item><ref n="egp.arc.037">Public Buildings</ref></item>
+<item><ref n="egp.arc.038">Railroad Depots</ref></item>
+<item><ref n="egp.arc.039">Ranch Architecture</ref></item>
+<item><ref n="egp.arc.040">Religious Architecture</ref></item>
+<item><ref n="egp.arc.041">Roadside Architecture</ref></item>
+<item><ref n="egp.arc.042">Schwarz, Joseph</ref></item>
+<item><ref n="egp.arc.043">Sod-Wall Construction</ref></item>
+<item><ref n="egp.arc.044">State and Provincial Capitols</ref></item>
+<item><ref n="egp.arc.045">Stone Masonry</ref></item>
+<item><ref n="egp.arc.046">Swedish Architecture</ref></item>
+<item><ref n="egp.arc.047">Tankhouses</ref></item>
+<item><ref n="egp.arc.048">Tipis</ref></item>
+<item><ref n="egp.arc.049">Tourist Architecture</ref></item>
+<item><ref n="egp.arc.050">Trading Posts</ref></item>
+<item><ref n="egp.arc.051">Ukranian Architecture</ref></item>
+<item><ref n="egp.arc.052">Volga German Architecture</ref></item>
+<item><ref n="egp.arc.053">Warehouse Districts</ref></item>
+<item><ref n="egp.wat.037">Water Towers. <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.ii.062">Windmills. <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.arc.056">Wooden Frames</ref></item>
+<item><ref n="egp.arc.057">Wright, Frank Lloyd</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

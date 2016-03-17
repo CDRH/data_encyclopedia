@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Howling Wolf (1849-1927)</title>
+<title level="m" type="sub"></title>
+<author>Joyce M. Szabo</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Szabo, Joyce M.">Joyce M. Szabo</author>. <title level="a">"Howling Wolf (1849-1927)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">121</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOWLING WOLF (1849-1927)</head>
+<figure n="egp.art.035" rend="granted">
+<figDesc>"Howling Wolf, Southern Cheyenne, picture taken while imprisoned at Fort Marion in Florida, circa 1876"</figDesc>
+</figure>
+
+<p>Active in the Southern Plains wars, then incarcerated
+at Fort Marion in St. Augustine, Florida,
+between 1875 and 1878, Howling Wolf was
+a Southern Cheyenne warrior and noted artist
+who was born in 1849. He and his father, Eagle
+Head, were undoubtedly at the Sand Creek
+Massacre in 1864, and Howling Wolf subsequently
+engaged in various battles, successfully
+counting coup or completing his first
+culturally recognized brave action on a war
+party led by the Bowstring warrior Lame Bull
+in May 1867. Howling Wolf became a secondary
+Bowstring leader before being selected,
+together with seventy-one other Southern
+Plains warriors and chiefs, for exile to Fort
+Marion, Florida.</p>
+
+<p>Arguably the single most important Plains
+artist who worked on paper during the late
+nineteenth century, Howling Wolf is the only
+artist known to have created drawings during
+the prereservation era, on the reservation, and
+at Fort Marion. Using available paper, often
+lined accountants' ledgers, Plains men drew
+images of their battles and horse raids in
+much the same manner they did on hide
+robes. Howling Wolf 's drawings from the first
+half of the 1870s not only reflect Plains systems
+of representation, with emphasis on the identity
+of protagonists and important actions,
+but also demonstrate experimental creativity
+and great skill. At Fort Marion he, like many
+of the younger prisoners, made drawings for
+various reasons, including to sell to tourists.
+His Florida drawings are generally nostalgic
+views of home or records of the men's new
+experiences rather than battle images. The few
+drawings he made following his release in
+mid-1878 demonstrate additional changes in
+subject and style that may be attributed to
+the vastly different life of the reservation and
+to many of the unique experiences he had in
+the East. Howling Wolf died in Oklahoma on
+July 5, 1927.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: Sand Creek Massacre.</p>
+
+
+<closer>
+<signed>Joyce M. Szabo<lb/>
+University of New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Petersen, Karen Daniels. <title level="m">Howling Wolf: A Cheyenne Warrior's Graphic Interpretation of His People</title>. Palo Alto <hi rend="smallcaps">CA</hi>:
+American West Publishing Company, 1968.</bibl> <bibl>Szabo, Joyce
+M. <title level="m">Howling Wolf and the History of Ledger Art</title>. Albuquerque:
+University of New Mexico Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

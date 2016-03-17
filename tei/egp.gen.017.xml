@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hayes, Kate Simpson (1856-1945)</title>
+<title level="m" type="sub"></title>
+<author>Constance A. Maguire</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Maguire, Constance A.">Constance A. Maguire</author>. <title level="a">"Hayes, Kate Simpson (1856-1945)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">330</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HAYES, KATE SIMPSON (1856-1945)</head>
+<figure n="egp.gen.017" rend="granted">
+<figDesc>Portrait photograph of Kate Simpson Hayes (University of Saskatchewan-Regina)</figDesc>
+</figure>    
+
+<p>Kate Simpson Hayes, one of the earliest woman
+authors and journalists in western Canada,
+was born in Dalhousie, New Brunswick, in
+1856 and died on January 15, 1945, in Victoria,
+British Columbia. Hayes arrived at Prince Albert
+in 1879. In the mid-1880s, after her marriage
+failed, she took her two young children
+and moved to the small Canadian Prairie town
+of Regina. There she met Nicholas Flood
+Davin, and their nine-year intimate relationship
+resulted in the birth of two children out of
+wedlock.</p>
+
+<p>Following a brief period as proprietress of
+her own millinery shop, Hayes worked as librarian
+for the territorial legislature and wrote
+for the <title level="j">Regina Leader</title> newspaper. Much of her
+work was written under the pseudonym "Mary
+Markwell." In 1889 she spent several months in
+North Dakota, reporting on fairs, harvest conditions,
+and fashion trends. Hayes also wrote
+plays and comedic sketches, which were performed
+in a number of prairie communities.
+Her first book, <title level="m">Prairie Pot-Pourri</title>, a collection
+of poems, stories, and a children's play, was
+published in 1895. In 1900 Hayes moved to
+Winnipeg, where she edited the women's page
+of the <title level="j">Manitoba Free Press</title> (later <title level="j">Winnipeg Free Press</title>) until 1906. She then traveled to Britain,
+where she worked for the Canadian Pacific
+Railway, promoting the emigration of women
+to western Canada. Kate Hayes was a charter
+member of the Canadian Women's Press Club
+in 1904 and served as club president in 1906-7.
+Her newspaper columns reveal her conservative
+social views, including her opposition to
+women's suffrage. Hayes contributed to the
+<title level="j">Manitoba Free Press</title> until 1909, and during
+1910-11 was women's editor of the <title level="j">Ottawa Free Press</title>. For the remainder of her life Kate Hayes
+continued to write, supporting herself with her
+pen until well into her senior years.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.050"><title level="j"><hi rend="italic">Winnipeg Free Press</hi></title></ref>.</p>
+
+<closer>
+<signed>Constance A. Maguire<lb/>
+Regina, Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hayes, Catherine Simpson. Papers. r-215. Saskatchewan
+Archives Board, Regina, Saskatchewan, Canada.</bibl> <bibl>Maguire,
+Constance A. "Kate Simpson Hayes, Agnes Agatha Hammell,
+and the ‘Slur of Illegiimacy.'" <title level="j">Saskatchewan History</title>
+50 (1998): 7–23.</bibl> <bibl>Maguire, Constance A. "'Leaving the
+Hearth Fire Untended': Women and Public Pursuits in the
+Journalism of Kate Simpson Hayes." <title level="j">Prairie Forum</title> 23
+(1998): 67–92.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

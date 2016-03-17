@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bland, Salem (1859-1950)</title>
+<title level="m" type="sub"></title>
+<author>Clyde Holler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Allen, Richard">Richard Allen</author>. <title level="a">"Bland, Salem (1859-1950)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">737</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLAND, SALEM (1859-1950)</head>
+
+<p>Born August 26, 1859, in Lachute, Quebec, and
+educated in that province, Salem Goldworth
+Bland moved to Winnipeg, Manitoba, in 1903
+to teach New Testament and church history at
+Wesley College after twenty years as a popular
+Methodist minister in eastern Ontario and
+Quebec. Over the next sixteen years he had a
+remarkable impact across the Prairie Provinces,
+where he was in great demand as a
+preacher of uncommon eloquence and as a
+popularizer of liberal theology and the Social
+Gospel. Well-read in secular as in theological
+matters, he was at once a proponent of German
+historical critics of the Bible like Adolf
+Harnack and of reform Darwinists like Henry
+Drummond and Benjamin Kidd. He became
+increasingly radical as a result of his association
+with agrarian, labor, and social reform
+activists. His outspokenness about the exploitation
+of Prairie farmers by the grain trade
+and of Winnipeg newcomers by employers
+and landlords who were often active churchmen
+led to a falling out with wealthy laymen
+who had at first welcomed him.</p>
+
+<p>Invited to address the convention of the
+Saskatchewan Grain Growers Association in
+1913, he sparked an abortive move toward
+third-party politics. His dismissal from Wesley
+College in 1917 on grounds of financial restraint
+was an academic freedom cause celebre
+across the West. For a time he was a columnist
+for the <title level="j">Grain Growers Guide</title> and a lecturer on
+the Chautauqua circuit. He was courted to
+run in the wartime election of 1917 but deferred
+to a returned soldier, Major G. W. Andrews,
+thus signaling the high hopes he held
+for a major social and political reconstruction
+after the war under the inspiration of returning
+soldiers. He would express this view in a
+small but wide-ranging and controversial
+book, <title level="m">The New Christianity</title> (1920). Thought
+by some to be one of the instigators of the
+Winnipeg General Strike of mid-1919, he had
+by that time moved to a Toronto pastorate and
+would soon begin a twenty-year career as a
+regular columnist for the <title level="j">Toronto Daily Star</title>
+under the byline of "The Observer." He died
+in Toronto on February 6, 1950.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.024">Grain Growers Associations</ref>.</p>
+
+<closer>
+<signed>Richard Allen<lb/>
+Hamilton, Ontario</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Allen, Richard. "Salem Bland and the Spirituality of the
+Social Gospel: Winnipeg and the West, 1903–1913." In
+<title level="m">Prairie Spirit: Perspectives on the Heritage of the United
+Church of Canada in the West</title>, edited by Dennis L. Butcher,
+Catherine Macdonald, Margaret McPherson, Raymond
+Smith, and A. McKibbon Watts. Winnipeg: University of
+Manitoba Press, 1985: 217–32.</bibl> <bibl>Allen, Richard. <title level="m">The Social
+Passion: Religion and Social Reform in Canada</title>. Toronto:
+University of Toronto Press, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

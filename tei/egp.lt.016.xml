@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dust Bowl Literature</title>
+<title level="m" type="sub"></title>
+<author>Brad Lookingbill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lookingbill, Brad">Brad Lookingbill</author>. <title level="a">"Dust Bowl Literature."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">477-478</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUST BOWL LITERATURE</head>
+
+<p>During the 1930s a number of literary texts
+illustrated drought, dusters, and economic
+depression through powerful stories and contributed
+to aesthetic movements for social realism
+and cultural regionalism.</p>
+
+<p>John Steinbeck's 1939 novel, <title level="m">The Grapes of Wrath</title>, inspired the nation with its tale of
+a tenant-farm family, the Joads, who lost
+their home in eastern Oklahoma and searched
+for a more promising land in California. The
+novel accentuated human dignity and courage
+against a mechanistic, exploitative social system.
+In 1937 Frederick Manfred wrote the first
+draft of his novel <title level="m">The Golden Bowl</title>, which
+was published in 1944. He portrayed a spirited
+resistance to fate in the Northern Plains by
+focusing on Maury Grant, a wandering protagonist
+who returned to the Dust Bowl and
+started the cycle of conquest again. After embracing
+his fate, he and the Thors, a mythic
+family holding onto a dying land, refused to
+abandon their homestead.</p>
+
+<p>Set within Kansas during the late nineteenth
+century, John Ise's <title level="m">Sod and Stubble: The Story of a Kansas Homestead</title> (1936) recounts a
+familial story of remarkable heroism against
+drought, grasshoppers, fires, dust storms, and
+economic depression. Women homesteaders
+in the Dakotas are featured in Edith Kohl's
+mixed autobiography and novel, <title level="m">The Land of the Burnt Thigh</title> (1938).</p>
+
+<p>Lawrence Svobida, a western Kansas farmer
+turned author, recounted a cautionary tale in
+his 1940 autobiography, <title level="m">An Empire of Dust</title>.
+Though his wheat farm failed to survive the
+dust storms and adverse climate, Svobida
+worked incessantly to win a harvest and to
+keep the land from blowing away. The story
+underscores frustration and pride, but it ends
+in failure.</p>
+
+<p>Paul Sears, a botanist at the University of
+Oklahoma, authored the most significant ecological
+text of the decade. Alarmed by the violent
+dust storms raging across the continent,
+in <title level="m">Deserts on the March</title> (1935) he explained
+how the rapid conquest of North America had
+upset the balance of nature. If the nation was
+headed down such a slippery slope, Sears argued,
+then the assumptions of frontier progress
+required reexamination.</p>
+
+<p>Kenneth Porter's prose and poetry, which
+lament the failures embodied in a dust cloud
+over Kansas, appeared in a number of magazines
+in the 1930s. After the Dust Bowl conditions
+faded from the landscape, Lois Phillips
+Hudson's <title level="m">The Bones of Plenty</title> (1962) and <title level="m">Reapers of the Dust</title> (1964) reinvented empty land,
+solid inhabitants, and frontier myths for subsequent
+generations. Ann Marie Low's <title level="m">Dust Bowl Diary</title> (1984) recalls the difficulties of
+farm life in North Dakota.</p>
+
+<p>Dust bowl literature thus illuminates the
+human fight against extreme temperatures,
+soil erosion, agricultural maladjustment, and
+swirling winds. While the crisis exposed the
+nation to a range of anxieties, literature was a
+vehicle that could bring the Dust Bowl into
+the experiences of readers outside the region.
+Limning a powerful landscape in national
+memory, Dust Bowl literature invented an enduring
+iconography for the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.026"><hi rend="italic">The Grapes of Wrath</hi></ref> / <hi rend="smallcaps">MUSIC</hi>:
+<ref n="egp.mus.019">Guthrie, Woody</ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>:
+<ref n="egp.pe.022">Dust Bowl</ref>.</p>
+
+<closer>
+<signed>Brad Lookingbill<lb/>
+Columbia College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lookingbill, Brad. "The Living and the Dead Land: The
+Great Plains Environment and the Literature of Depression
+America." <title level="j">Heritage of the Great Plains</title> 29 (1996): 38–
+48.</bibl> <bibl>Quantic, Diane Dufva. <title level="m">The Nature of the Place: A Study of Great Plains Fiction</title>. Lincoln: University of Nebraska
+Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

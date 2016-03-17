@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.059">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pollock, Sharon (b. 1936)</title>
+<title level="m" type="sub"></title>
+<author>Donald C. Kerr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.059</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerr, Donald C.">Donald C. Kerr</author>. <title level="a">"Pollock, Sharon (b. 1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">489-490</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POLLOCK, SHARON (b. 1936)</head>
+
+<p>Playwright, actor, and director Sharon Pollock
+was born Mary Sharon Chalmers in Fredericton,
+New Brunswick, on April 19, 1936, the
+eldest daughter of Dr. Everette Chalmers, physician,
+a version of whom is the central character
+in Pollock's most personal play, Doc.
+She was involved in theater in school and in
+amateur companies, ran a box office, and did
+considerable acting, winning best actress in
+the Dominion Drama Festival in 1966. She began
+writing children's plays and plays for radio
+and television and in 1971 wrote her first
+stage play, <title>Compulsory Option</title>. She moved in
+1976 to Calgary, which has been her home
+since, though among other positions she was
+for two years artistic director of Theatre New
+Brunswick.</p>
+
+<p>Pollock made her name with two historical
+dramas: <title level="m">Walsh</title> (1973), about the relationship
+between a Mountie and Chief Sitting Bull and
+the betrayal of the Sioux by the Canadian government
+(the 1983 version is the anthologized
+version); and <title level="m">The Komagata Maru Incident</title>
+(1976), about the rejection by Canada in 1914
+of Sikh refugees aboard a Japanese ship in
+Vancouver harbor.</p>
+
+<p>Pollock's best year was 1980, when she produced
+three plays. <title>One Tiger to a Hill</title> is again
+based on an historical event, a 1975 hostage-taking
+incident at a maximum-security prison. Both <title>Blood Relations</title> and <title>Generations</title> are more personal stories. <title>Blood Relations</title> is based on Lizzie Borden, acquitted in 1882 in Massachusetts of the axe murders of her father and stepmother. <title>Generations</title> is the story of a southern Alberta farm family and the first of Pollock's
+plays not based on external sources.</p>
+
+<p>Of these plays <title>Blood Relations</title> has become
+the most famous, with productions across
+Canada and in other countries. It won Pollock
+her first Governor General's Literary Award
+for drama, repeated in 1986 with <title>Doc</title>. <title>Whiskey Six Cadenza</title>, an extravaganza about the 1920s
+Crow's Nest Pass, was produced in 1983 and
+<title>Doc</title>, a version of Pollock's family life, in 1984,
+both in Calgary. <title>Doc</title> became a nationally produced
+play. Since then a one-woman show,
+<title>Getting It Straight</title> (1990), has had a Toronto
+premiere, and until recently Pollock has been
+running the Garry Theatre in Calgary.</p>
+
+<closer>
+<signed>Donald C. Kerr<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rudakoff, Judith, and Reta Much, eds. <title level="j">Fair Play</title>, 12 <title level="m">Women Speak, Conversations with Canadian Playwrights</title>. Toronto:
+Simon and Pierre, 1980: 208-20.</bibl> <bibl>Zimmerman, Cynthia.
+<title level="m">Playwriting Women: Female Voices in English Canada</title>.
+Toronto: Simon and Pierre, 1994: 61-97.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

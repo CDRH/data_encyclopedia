@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Languages</title>
+<title level="m" type="sub"></title>
+<author>Mark J. Awakuni-Swetland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Awakuni-Swetland, Mark J.">Mark J. Awakuni-Swetland</author>. <title level="a">"Languages."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">581-582</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+
+<head type="main">LANGUAGES</head>
+
+<head type="sub">Classification of Native Languages of the Great Plains</head>
+
+<list>
+<head type="sub">CADDOAN</head>
+<item>Arikara</item>
+<item>Pawnee</item>
+<item>Kitsai</item>
+<item>Wichita</item>
+<item>Caddo</item>
+<item>Jumano (?)</item>
+</list>
+
+<list>
+<head type="sub">ATHAPASKAN</head>
+<item>Sarcee</item>
+<item>Kiowa Apache</item>
+<item>Jicarilla</item>
+<item>Lipan</item>
+<item>Jumano (?)</item>
+</list>
+
+<list>
+<head type="sub">SIOUAN</head>
+<item>Mandan</item>
+<item>Hidatsa</item>
+<item>Crow</item>
+<item>Assiniboine</item>
+<item>Stoney</item>
+<item>Santee-Sisseton</item>
+<item>Yankton-Yanktonai</item>
+<item>Teton</item>
+<item>Iowa</item>
+<item>Otoe</item>
+<item>Missouria</item>
+<item>Winnebago*</item>
+<item>Omaha</item>
+<item>Ponca</item>
+<item>Osage</item>
+<item>Kanza (Kaw)</item>
+<item>Quapaw*</item>
+</list>
+
+<list>
+<head type="sub">ALGONQUIAN</head>
+<item>Blackfoot</item>
+<item>Arapaho</item>
+<item>Atsina</item>
+<item>Cheyenne</item>
+<item>Sutai</item>
+<item>Plains Cree</item>
+<item>Plains Ojibwa</item>
+<item>Kickapoo*</item>
+<item>Fox-Sauk*</item>
+<item>Peoria*</item>
+<item>Miami*</item>
+<item>Kaskaskia*</item>
+<item>Ottawa*</item>
+<item>Potawatomi*</item>
+<item>Shawnee*</item>
+<item>Delaware*</item>
+</list>
+
+<list>
+<head type="sub">IROQUOIAN</head>
+<item>Cherokee*</item>
+<item>Seneca*</item>
+<item>Wyandotte*</item>
+</list>
+
+<list>
+<head type="sub">MUSCOGEAN</head>
+<item>Choctaw*</item>
+<item>Chickasaw*</item>
+<item>Creek*</item>
+<item>Seminole*</item>
+</list>
+
+<list>
+<head type="sub">UTO-AZTECAN</head>
+<item>Shoshone</item>
+<item>Comanche</item>
+<item>Jumano (?)</item>
+</list>
+
+<list>
+<head type="sub">TANOAN</head>
+<item>Kiowa</item>
+<item>Jumano (?)</item>
+</list>
+
+<list>
+<head type="sub">KLAMATH-MODOC</head>
+<item>Modec*</item>
+</list>
+
+<list>
+<head type="sub">SAHAPTIAN</head>
+<item>Nez Perce*</item>
+</list>
+
+<list>
+<head type="sub">ISOLATES</head>
+<item>Tonkawa</item>
+</list>
+
+<p>* Removed to Great Plains by federal order</p>
+
+<p>The Great Plains has long been the home to a
+multitude of distinct Native voices. The language
+of each family, band, community, or
+nation has developed to embrace and describe
+a dynamic life. Through their oral tradition,
+communities transmit a rich heritage of spiritual,
+historical, and practical knowledge to
+their children. The tools of archeologists, linguists,
+and historians can be combined with
+the memories of Native elders to study the
+rise, decline, and survival of these linguistically
+diverse communities. One useful linguistic
+device for organizing the many languages
+of the Great Plains is the "family." It works
+by placing languages and dialects into groups
+that exhibit features suggesting a common linguistic
+origin at some time in the past. Not all
+languages can be so easily categorized. For example,
+the Jumano language family of the
+Southern Plains has been variously identified
+as sharing features with the Athapaskan, Caddoan,
+Uto-Aztecan, and more recently, Tanoan
+language families.</p>
+
+<p>Prior to the European advent of the Great
+Plains in the 1500s, two language families, Caddoan
+and Siouan, were already long represented
+in the region, and several others could be found
+along the perimeter. Caddoan speakers are
+some of the oldest communities of the region to
+survive into contemporary times. They were
+distributed from the Southern Plains (Wichitas,
+Caddos, and Kitsais), through the Central Plains
+(Pawnees), to the Missouri River in the Dakotas
+(Arikaras). Siouian speakers were the Mandans
+and Hidatsas of the middle Missouri River and
+the Crows of the Montana Plains. Except for the
+Crows, these Caddoan and Siouan speakers
+were agriculturalists residing near rivers.</p>
+
+<p>Around the margins of the Great Plains were
+many communities taking seasonal advantage
+of bison resources. They represented a variety of
+language families, including Siouan speakers
+in the north and eastern periphery, Apachean
+Athapaskan speakers along the western edge,
+Uto-Aztecan and Tanoan speakers penetrating
+from the western mountains and moving southward,
+Algonquian speakers across the northern
+regions, and some linguistic isolates such as the
+Tonkawas in the south. The introduction and
+spread of the horse after the 1750s, together with
+increasing pressures from European American
+interests, encouraged many of these groups to
+become full-time Plains residents. Some entered
+into trading arrangements with Plains agriculturalists,
+Puebloans, or Spanish settlements.
+Communication between these diverse groups
+was facilitated by fictive kinship relations established
+through ceremonial adoptions, intermarriage,
+sign language, and the multilingual abilities
+of many Plains residents.</p>
+
+<p>In the 1800s the equestrian nomadic bison
+hunters came to dominate the Great Plains.
+Their lifestyle became the stereotyped image
+of the region, including their use of sign language
+for intergroup communication. While
+there is no evidence of a single unified sign
+system, the dynamics of trade, alliances, and
+warfare created a need for a rich system of
+nonverbal communication. The greater mobility
+and contact with linguistically diverse
+groups in the Great Plains made sign language
+a necessity. Short-term alliances, such as the
+one among the Cheyennes, Sioux, Arapahos,
+Kiowas, Comanches, Apaches, and others
+against the Utes, may have served to standardize
+to some degree the gesture language in use
+by Plains residents.</p>
+
+<p>After 1830 the federal government sanctioned
+the forced removal of many eastern, and some
+western, Native American communities into the
+Great Plains, which dramatically increased the
+linguistic diversity of the region, adding new
+voices from the Siouan, Algonquian, Muscogean,
+Iroquoian, Klamath-Modoc, and Sahaptian
+language families. However, catastrophic
+epidemics and other pressures from
+both inside and outside of the Native communities
+worked against the survival of Indigenous
+languages. Missionary and federal strategies
+of assimilation operated to vilify and
+reduce the use of Native languages and the
+cultural identities and communities they supported.
+The ongoing effect of such policies has
+been the slow strangulation of many Native
+voices. Languages such as Kitsai, Lipan, Missouri,
+Quapaw, and Tonkawa have been silenced,
+while many more have been weakened
+to a whisper.</p>
+
+<p>Language helps to carry a people's history,
+culture, worldview, and wisdom. It is our great
+fortune that a diversity of Native languages has
+survived in the Great Plains. Geographic isolation
+and local willpower have assisted some
+communities in resisting assimilation to an
+English-only existence. Many more communities
+are joining a rising tide of Native American
+language awareness, maintenance, and revival
+efforts. However, their success is not
+guaranteed. Revival strategies vary between
+communities, due to differences in local needs,
+values, and resources. All are faced with the
+daunting task of securing a place for their
+voices when the mainstream language has such
+an overwhelming presence. Without vibrant
+Native voices lifting into the air with song,
+story, and prayer, how can we speak to <hi rend="italic">our</hi>
+children about the history of the Great Plains?</p>
+
+<closer>
+<signed>Mark J. Awakuni-Swetland<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Campbell, Lyle, and Marianne Mithun, eds. <title level="m">The Languages
+of Native America: Historical and Comparative Assessment</title>.
+Austin: University of Texas Press, 1979.</bibl> <bibl>Hollow,
+Robert C., and Douglas R. Parks. "Studies in Plains Linguistics:
+A Review." In <title level="m">Anthropology on the Great Plains</title>,
+edited by W. Raymond Wood and Margot Liberty. Lincoln:
+University of Nebraska Press, 1980: 98–109.</bibl> <bibl>Schlesier,
+Karl H., ed. <title level="m">Plains Indians, <hi rend="smallcaps">A.D.</hi> 500–1500: The Archaeological
+Past of Historic Groups</title>. Norman: University of Oklahoma
+Press, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

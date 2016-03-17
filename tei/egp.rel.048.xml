@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tach&#233;, Alexandre-Antonin (1823-1894)</title>
+<title level="m" type="sub"></title>
+<author>Raymond J. A. Huel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Huel, Raymond J. A.">Raymond J. A. Huel</author>. <title level="a">"Tach&#233;, Alexandre-Antonin (1823-1894)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">758-759</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TACH&#201;, ALEXANDRE-ANTONIN (1823-1894)</head>
+
+<p>Born on July 23, 1823, in Rivi&#232;re-du-Loup,
+Quebec, Alexandre-Antonin Tach&#233; completed
+his classical studies at the Saint Hyacinthe
+College and studied theology at the Seminary
+of Montreal prior to entering the noviciate of
+the Oblates of Mary Immaculate in Longueuil.
+In 1845 he was sent as a subdeacon to serve
+in the Red River missions, thereby becoming
+the first French Canadian Oblate to serve in
+the Canadian Northwest. He was named coadjutor
+bishop of St. Boniface in 1850, bishop
+in 1853, and archbishop in 1871.</p>
+
+<p>As a pioneer missionary and bishop, Tach&#233;
+contributed significantly to the establishment
+of the Catholic Church in western Canada. In
+1870 he was asked by the Canadian government
+to be its mediator during the events
+known as the Red River Resistance. He was
+instrumental in negotiating a settlement but
+later criticized the government for having
+broken its promise to grant a complete amnesty
+to all participants, including Louis Riel.
+Tach&#233; regarded Manitoba as a sister province
+of Quebec, and hence, he and his clergy strove
+incessantly to promote French Canadian immigration
+to the Northwest. He was also a vigilant
+defender of the linguistic and educational
+rights of French-speaking Catholics in
+the Northwest. The last years of Tach&#233;'s life
+were involved in the controversy surrounding
+the abolition of confessional schools in Manitoba
+and the suppression of French as an official
+language. He wrote numerous pamphlets
+and letters denouncing this legislation. He
+died in St. Boniface on June 22, 1894.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.011">French Canadians</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.047">Riel, Louis</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.037">Red River Resistance</ref>.</p>
+
+<closer>
+<signed>Raymond J. A. Huel<lb/>
+University of Lethbridge</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Archives de l'Archidioc&#232;se de Saint-Boniface, Fonds
+Tach&#233;. Dom Paul Beno&#238;t. Vie de Mgr Tach&#233;, Arch&#234;veque de
+Saint-Boniface. Montr&#233;al: Librairie Beauchemin, 1904.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

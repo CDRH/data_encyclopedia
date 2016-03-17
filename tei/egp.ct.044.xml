@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roswell, New Mexico</title>
+<title level="m" type="sub"></title>
+<author>Elvis E. Fleming</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fleming, Elvis E.">Elvis E. Fleming</author>. <title level="a">"Roswell, New Mexico."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">181</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROSWELL, NEW MEXICO</head>
+
+<p>Roswell, the largest New Mexico city in the
+Great Plains, is situated in the Pecos Valley. It
+grew out of the Indian wars and the cattle
+kingdom of the 1860s. The army established
+Fort Stanton in the Mescalero Apache country
+in 1855 and the Bosque Redondo Reservation
+in 1863 at Fort Sumner for Mescaleros and
+Navajos. Texas cattlemen then drove their
+longhorns into the territory to feed the soldiers
+and Indians, with Charles Goodnight
+and Oliver Loving blazing their famous trail in
+1866, followed by John Chisum the next year.
+In 1870 Van Smith built a hotel/saloon and a
+store near the confluence of the Pecos River
+and the Rio Hondo to serve the drovers passing
+through on the cattle trails. He secured a
+post office for Roswell in 1873 and named it for
+his father. Smith did not advance the town,
+but Joseph Lea arrived in 1877 and began to
+develop the area. Later generations would call
+him the "Father of Roswell."</p>
+
+<p>There were few settlers in the area by 1890,
+but events that stimulated growth began that
+year. Well drillers discovered artesian water in
+1890, and farmers started producing excellent
+alfalfa and apples. Residents organized Chaves
+County, incorporated Roswell (population
+343 in 1890), and founded New Mexico Military
+Institute, all in 1891. James Hagerman
+built the Pecos Valley Railway to Roswell from
+the south in 1894, then extended it northeastward
+to Amarillo in 1899. With the local farming
+and outside connections, Roswell's population
+reached 2,049 in 1900, and the town
+government was reorganized as a city in 1903.
+Roswell continued to grow rapidly, reaching
+6,172 in 1910 and 13,482 by 1940.</p>
+
+<p>Roswell Army Airfield (<hi rend="smallcaps">RAAF</hi>) was opened
+in 1942, and the Roswell prisoner of war camp
+billeted 4,800 Germans during World War II.
+In 1947 <hi rend="smallcaps">RAAF</hi> personnel recovered the remains
+of what true believers call an unidentified
+flying object. The "flying saucer" allegedly
+crashed near Roswell, and the aliens on board
+were killed&#8211;the so-called Roswell Incident.
+raaf became Walker Air Force Base (<hi rend="smallcaps">WAFB</hi>) in
+1948. Federal authorities installed missile silos
+around <hi rend="smallcaps">WAFB</hi> in the early 1960s but soon dismantled
+them. The closing of <hi rend="smallcaps">WAFB</hi> in June
+1967 was a tremendous economic blow to Roswell,
+as the declining population figures for
+1960 and 1970—39,593 and 33,908—attest. Undeterred,
+Roswell turned the former base into
+the Roswell Industrial Air Center, with the
+city airport, a bus factory, a college, and many
+other installations. Retirees attracted by the
+salubrious climate have also been an important
+factor in the city's recovery.</p>
+
+<p>Roswell's economy is still dependent upon
+agriculture. Chaves County is a leading producer
+of beef, sheep, wool, alfalfa, and cotton.
+After 1960 area farmers added the production
+of pecans, chilies, and especially dairy products.
+More than forty dairies, most of them
+established after 1980, operate in the Roswell
+area. One of their markets is the world's largest
+mozzarella factory near the city.</p>
+
+<p>An annual celebration of the Roswell Incident
+has made the city a tourist destination
+and stimulated the building of a new convention
+center and many new motels in the 1990s.
+The population stood at 45,293 in 2000.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.052">Roswell Aliens</ref>.</p>
+
+<closer>
+<signed>Elvis E. Fleming<lb/>
+Historical Society for Southeast New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fleming, Elvis E., and Minor S. Huffman, eds. <title level="m">Roundup on the Pecos</title>. Roswell <hi rend="smallcaps">NM</hi>: Chaves County Historical Society,
+1978.</bibl> <bibl>Fleming, Elvis E., and Ernestine Chesser Williams.
+<title level="m">Treasures of History</title>. Roswell <hi rend="smallcaps">NM</hi>: Historical Society for
+Southeast New Mexico, 1991, 1995.</bibl> <bibl>Shinkle, James D. <title level="m">Fifty Years of Roswell History, 1867-1917</title>. Roswell <hi rend="smallcaps">NM</hi>: Hall-
+Poorbaugh Press, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

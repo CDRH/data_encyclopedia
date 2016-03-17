@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lomax, John A. (1867-1948)</title>
+<title level="m" type="sub"></title>
+<author>Nolan Porterfield</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Porterfield, Nolan">Nolan Porterfield</author>. <title level="a">"Lomax, John A. (1867-1948)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">306</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOMAX, JOHN A. (1867-1948)</head>
+<figure n="egp.fol.027" rend="granted">
+<figDesc>John A. Lomax</figDesc>
+</figure>
+    
+<p>Although best known as the folk-song collector
+who found Huddie "Leadbelly" Ledbetter
+in a Louisiana prison, John A. Lomax's pioneering
+role in cultural preservation was established
+more than thirty years earlier with the
+publication of <title level="m">Cowboy Songs and Other Frontier Ballads</title> (1910). Born in Holmes County,
+Mississippi, on September 23, 1867, he was
+scarcely two when his family moved to Texas,
+and he always considered himself a native
+Texan. The social and cultural heritage of the
+Lone Star State was to have a pervasive influence
+on his life's work.</p>
+
+<p>In his youth Lomax attended a small frontier
+"college" in Granbury, Texas, and later
+taught school for a time. In 1895, when he was
+twenty-eight, he entered the University of
+Texas as a freshman and eventually earned two
+degrees there (bachelor of arts, 1897; master of
+arts, 1906). He also attended the University of
+Chicago (1985, 1903) and, ultimately, Harvard
+University (master of arts, 1907), where he
+studied comparative literature and balladry
+under such luminaries as Barrett Wendell and
+George Lyman Kittredge. From 1897 to 1903 he
+served as registrar of the University of Texas,
+and at intervals beginning in 1903 he taught
+English at the Agricultural and Mechanical
+College of Texas (later Texas A&amp;M University).</p>
+
+<p>In 1907, supported by Kittredge and Wendell,
+Lomax began what proved to be one of
+the first serious, systematic efforts to collect
+American folk songs. Traveling through the
+Central Plains and Southwest, sometimes on
+horseback, he gathered and recorded such
+now-famous classics as "Home on the Range,"
+"Git Along Little Dogies," and "The Old Chisholm
+Trail," published three years later, with
+109 others, as <title level="m">Cowboy Songs and Other Frontier Ballads</title>.</p>
+
+<p>Lomax returned to the University of Texas
+in 1910. His association with the university
+shaped both his personal and professional life
+for many years, although he left or was forced
+out of positions there no fewer than three
+times between 1903 and 1925, when he moved
+to Dallas to accept a job as vice president of
+the Republic National Bank. At that point his
+song-collecting activity, which had dwindled
+over the years, seemed finished.</p>
+
+<p>When the Depression struck, Lomax was in
+his sixties, in ill health, and mourning the
+death of his wife. In 1932 his sons, John Jr.
+and Alan, persuaded him to resume his folksong
+lecture tours and fieldwork. Together
+they mapped out a six-month lecture-and-collecting
+tour that took them across the nation,
+restored both Lomax's health and bank
+account, and set the pattern for the next ten
+years of his life. From this work came <title level="m">American Ballads and Folk Songs</title> (1934) and <title level="m">Our Singing Country</title> (1941), which preserved in print
+such national treasures as "Casey Jones," "Rye
+Whiskey," "Amazing Grace," "Cotton-Eyed
+Joe," "Jack o' Diamonds," and many others.</p>
+
+<p>In 1933 Lomax was named curator of the
+Archive of American Folksong at the Library
+of Congress. With support from that institution,
+he and his son Alan made field recording
+trips throughout the 1930s, pioneering the
+use of instantaneous disk recording for that
+purpose and eventually depositing in the archive
+recordings of more than 4,000 folk
+songs. Along the way he found time to conduct
+notorious verbal duels with his critics
+and detractors, to promote Leadbelly, and
+to publish seven more books, including his
+autobiography.</p>
+
+<p>In early 1948 Lomax traveled to Greenville,
+Mississippi, near his birthplace, for a celebration
+in his honor. Before the ceremony could
+begin, he suffered a massive heart attack and
+died two days later, on January 26, 1948.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.012">Cowboy Music</ref>.</p>
+
+<closer>
+<signed>Nolan Porterfield<lb/>
+Bowling Green, Kentucky</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lomax Family Papers. Center for American History, University
+of Texas at Austin. Lomax, John, and Alan Lomax.
+<title level="m">Cowboy Songs and Other Frontier Ballads</title>. New York: Collier
+Books, 1986.</bibl> <bibl>Porterfield, Nolan. <title level="m">Last Cavalier: The Life and Times of John A. Lomax</title>. Urbana: University of Illinois
+Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

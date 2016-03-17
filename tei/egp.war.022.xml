@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Scouts</title>
+<title level="m" type="sub"></title>
+<author>Thomas W. Dunlay</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dunlay, Thomas W.">Thomas W. Dunlay</author>. <title level="a">"Indian Scouts."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">829</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN SCOUTS</head>
+
+<p>From the time of the conquest of Mexico onward,
+Native American–European American
+conflicts in North America were seldom clearcut;
+some Native Americans almost always
+participated on the side of the European
+Americans, and in conflicts between colonizers,
+they were likely to be present on both
+sides. This pattern held true in the campaigns
+fought in the Great Plains. Pueblo auxiliaries
+helped Spanish forces in New Mexico defeat
+the Comanches in the 1780s. Lakota Sioux
+auxiliaries cooperated with Col. Henry Leavenworth's
+expedition against the Arikaras in
+1823, and Cheyenne and Crow scouts rode
+with the regular army in the Ghost Dance
+troubles of 1890–91, the last "Indian war" in
+the West, though they were not present at the
+Wounded Knee Massacre.</p>
+
+<p>The very idea of Native Americans assisting
+European Americans in their conquest has always
+seemed incongruous to some, leading to
+distrust by whites at the time, and later to
+charges by Native Americans that Indian
+scouts and auxiliaries were mercenaries consciously
+betraying their own people. In most
+cases the scouts themselves would have found
+such accusations meaningless and irrelevant.
+They often saw themselves as fighting, beside
+the best available allies, against bitter&#8211;and
+frequently stronger&#8211;enemies who constituted
+the greater immediate menace. This was
+the situation with the Pawnees, Arikaras,
+Crows, and Shoshones who joined the U.S.
+Army against their enemy, the Sioux, in the
+1860s and 1870s. When some Sioux joined up
+to fight other Sioux who were resisting the
+United States, they did so hoping for favorable
+terms for their own bands and for an eventual
+reduction of further suffering by the "hostile"
+bands.</p>
+
+<p>The earliest sustained conflicts between European
+Americans and Plains Indians began
+in Texas in the 1830s. There, frontiersmen and
+Texas Rangers, however bitterly they might
+fight the Kiowas and Comanches, still enlisted
+the aid of Tonkawas, Lipans, and Delawares,
+following a pattern set by frontier rangers and
+Indian fighters in colonial times. As the U.S.
+Army became increasingly involved in conflict
+with the Plains tribes after 1848, they followed
+the frontiersmen's example. The rising tide of
+conflict during and after the Civil War led in
+1866 to a congressional act authorizing the enlistment
+of Indians as scouts, on the same
+terms as regular army soldiers, but for shorter
+terms. As soldiers they could receive pay, rations,
+weapons, and noncommissioned rank,
+and a few received the Medal of Honor for
+bravery. They served not only as individual
+trackers and intelligence gatherers but often in
+large contingents of company or even battalion
+strength. A few units served for extended
+periods of time, notably the Pawnee
+scouts under Maj. Frank North, who took the
+field in 1864 and 1865, served through the
+Sioux and Cheyenne campaigns of the late
+1860s, and campaigned for the last time in the
+Sioux War of 1876–77. They were admired and
+praised by the army commanders they served.</p>
+
+<p>Scouts were valued because of their specialized
+skills and knowledge acquired over a
+lifetime: knowledge of how to follow a trail
+and observe the enemy without being seen,
+knowledge of the country, and ability to identify
+vital information from tracks. These skills
+made it possible for soldiers operating in an
+alien environment to locate and surprise elusive
+enemies in their own country and greatly
+enhanced the ability of the military to carry
+out their mission.</p>
+
+<closer>
+<signed>Thomas W. Dunlay<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dunlay, Thomas W. <title level="m">Wolves for the Blue Soldiers: Indian
+Scouts and Auxiliaries with the United States Army, 1860–98</title>.
+Lincoln: University of Nebraska Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

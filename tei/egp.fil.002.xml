@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Altman, Robert (b. 1925)</title>
+<title level="m" type="sub"></title>
+<author>John C. Tibbetts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tibbetts, john C.">John C. Tibbetts</author>. <title level="a">"Altman, Robert (b. 1925)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">258</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALTMAN, ROBERT (b. 1925)</head>
+
+<p>One of the prime architects of a renaissance
+in American independent filmmaking in the
+1970s, Robert Altman has chronicled in his
+own idiosyncratic way the vagaries and varieties
+of the American experience. He was born
+in Kansas City, Missouri, on February 20,
+1925. He recalls that his formative youthful
+experiences&#8211;particularly his frequenting of
+the jazz districts around 18th and Vine and the
+movie theaters near his Brookside neighborhood
+home&#8211;provided him with what he calls
+his "chips," his "attitudes" toward life and art.</p>
+
+<p>After serving as a B-24 pilot during World
+War II, Altman returned to Kansas City, where
+he began making industrial films for the Calvin
+Company. He made two locally financed
+features, The Delinquents (1956) and <title>The James Dean Story</title> (1957), then departed to Los Angeles,
+where he began directing for the television
+series <title>Alfred Hitchcock Presents</title>, <title>The Rifleman</title>,
+and <title>Combat!</title> His breakthrough film was
+<title>M*A*S*H</title> in 1970, which he quickly followed
+up with several "antigenre" films, <title>McCabe and Mrs. Miller</title> (1971), <title>The Long Goodbye</title> (1973),
+<title><hi rend="italic">Thieves Like Us</hi></title> (1974), and <title><hi rend="italic">Nashville</hi></title> (1975). He
+won the Palme d'Or Award at the Cannes Film
+Festival for <title><hi rend="italic">M*A*S*H</hi></title> and the New York Critics'
+Film Circle Award for best director for
+<title>Nashville</title>.</p>
+
+<p>Altman returned to his hometown in 1996
+to make <title>Kansas City</title>, a portrait of the town's
+milieu of jazz, corrupt politics, and rampant
+gangsterism in the mid-1930s&#8211;a summation
+of his thematic preoccupation with loose ends
+and failed hopes, served up with his trademark
+eccentric, semi-improvisational style
+(which he compares to the solo riffs of the jam
+sessions he heard as a youth in the Kansas City
+clubs). <title>Kansas City</title> may be his most autobiographical
+film, drawn as much from his
+own memories as from the historical record.
+With his characteristic relish for paradox, Altman
+admits the film is hardly factual but insists
+it is "truthful."</p>
+
+<closer>
+<signed>John C. Tibbetts<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jacobs, Diane. <title level="m">Hollywood Renaissance</title>. New York: A. S.
+Barnes and Company, 1977.</bibl> <bibl>McGilligan, Patrick. <title level="m">Robert Altman: Jumping off the Cliff</title>. New York: St. Martin's Press,
+1989.</bibl> <bibl>Tibbetts, John C. "Robert Altman: After Thirty-Five
+Years Still the "Action Painter" of American Cinema." <title level="j">Literature/ Film Quarterly</title> 20 (1992): 36-42.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

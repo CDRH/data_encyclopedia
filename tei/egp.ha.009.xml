@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ha.009 SYSTEM "egp.ha.009.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Ciboleros</hi></title>
+<title level="m" type="sub"></title>
+<author>Jerry A. Padilla</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Padilla, Jerry A.">Jerry A. Padilla</author>. <title level="a">"<hi rend="italic">Ciboleros</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">354</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHAVEZ, LINDA (b. 1947)</head>
+
+<figure n="egp.ha.009" rend="granted">
+<figDesc>Cibolero</figDesc>
+</figure>
+
+<p>Hispanic New Mexican hunters and plainsmen,
+or <hi rend="italic">ciboleros</hi> (from the New Mexican
+Spanish <hi rend="italic">c&#237;bolo</hi>), learned to hunt bison from
+Native American neighbors in order to provide
+winter meat for their home villages. Like
+the Pueblos and Plains Indians, New Mexican
+Hispanos depended on bison during the late
+Spanish colonial, Mexican, and territorial
+eras. The volume and extent of the ciboleros'
+hunts peaked in the first half of the nineteenth
+century and declined thereafter as the bison
+were taken to the brink of extinction.</p>
+
+<p>Ciboleros traditionally hunted bison twice
+a year. The large-scale autumn hunt took
+place after crops were harvested. Expeditions
+from settlements in north-central New Mexico
+and southern Colorado usually took six
+weeks to reach the Southern Great Plains, encounter
+herds, barter with Comanches or
+Kiowas, hunt, secure and preserve meat, and
+return before heavy snowfalls. During these
+autumn hunts, bison were taken for their
+thick robes as well as for their meat.</p>
+
+<p>The summer hunt took place in June, after
+spring planting, by which time meat supplies
+procured the previous autumn were exhausted.
+Bison meat was of utmost importance
+for the common people, allowing them to save
+goat herds for milk and roast kid for special
+occasions. Only the wealthier classes regularly
+partook of domestically raised meats.</p>
+
+<p>Each village had an individual hunter who
+specialized in running bison on horseback.
+Specially trained horses were ridden only by
+the ciboleros and used for only that purpose.
+The lance and bow and arrow were the main
+weapons of the hunt; firearms were few and
+far between in New Mexico until the late nineteenth
+century. It was a skill and profession
+that was handed down from father to son, and
+certain New Mexican families were specialists.
+Hunters from various villages prepared supplies
+for the journey and for barter and furnished
+skinners and camp helpers. The hunters
+gathered at a predesignated place and
+chose a <hi rend="italic">mayordomo</hi>, or foreman, and the expedition
+proceeded in caravans of oxcarts.
+Often Hispanos and Pueblos traveled together
+for mutual safety and cooperation.</p>
+
+<p>The Southern Plains was dominated by the
+Comanches and Kiowas, who maintained
+generally good relations with the Pueblos and
+Hispanos after 1785, when New Mexico governor
+Juan Bautista de Anza decisively defeated
+the Comanches, led by Cuerno Verde, and established
+peace. Barter of New Mexican agricultural
+products with the Native Americans
+created goodwill and allowed the ciboleros to
+enter their traditional hunting lands.</p>
+
+<p>After the bison herds were encountered, each
+cibolero tied a long rope around his waist in
+order to remount if thrown during the chase.
+Commending their souls to God and Santiago
+(Saint James), they rode into the herds. Selecting
+choice animals, they lanced the bison or
+shot arrows, bringing down only as many as
+their villages needed. This was a dangerous
+undertaking, and some ciboleros died from
+being trampled, while others were killed by
+Indians, especially the Cheyennes, who by 1850
+were competing for the diminishing herds.
+The late Cleofes Vigil of San Crist&#243;bal, New
+Mexico&#8211;poet-troubadour, historian, rancher,
+and retired railroad worker&#8211;often performed
+ballads about such fatal accidents.</p>
+
+<p>After enough bison were brought down,
+<hi rend="italic">agregadores</hi> (helpers) and hunters pitched in,
+skinning, slicing, and salting meat. After drying,
+meat was packed in oxcarts for the return.
+All the bison parts were used. Aside from the
+meat, hides were tanned for robes or leather,
+smoked tongues were traded in Mexico, horns
+and bones were made into utensils, and the
+wool was spun into rough cloth or stuffed in
+mattresses.</p>
+
+<p>The late Cipriano Solano (1870–1967) of
+Springer, New Mexico, a retired rancher, recalled
+that near the end of the nineteenth century
+there were remnant bison herds near
+Loma Parda, New Mexico, and he described
+how he had taken a burro to haul the meat
+back after hunting, and how one cibolero
+would provide meat for several families for a
+year. Ciboleros are still remembered in New
+Mexican folk songs, cultural events, and family
+oral traditions.</p>
+
+<closer>
+<signed>Jerry A. Padilla<lb/>
+Taos, New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gregg, Josiah. <title level="m">Commerce of the Prairies</title>. Norman: University
+of Oklahoma Press, 1954.</bibl> <bibl>Kenner, Charles L. <title level="m">A History of New Mexican Plains Indian Relations</title>. Norman: University
+of Oklahoma Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

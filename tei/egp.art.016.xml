@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dunbier, Augustus (1888-1977)</title>
+<title level="m" type="sub"></title>
+<author>Lonie Pierson Dunbier</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dunbier, Lonnie Pierson">Lonnie Pierson Dunbier</author>. <title level="a">"Dunbier, Augustus (1888-1977)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">114-115</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUNBIER, AUGUSTUS (1888-1977)</head>
+
+<p>Augustus W. Dunbier, one of Nebraska's most
+prominent artists in the early and mid–
+twentieth century, was a prolific oil painter
+who maintained studios in Omaha from 1916
+until his death on September 11, 1977. He was
+known for his colorful landscapes, still lifes,
+portraits, and figures in an impressionistic
+style.</p>
+
+<p>Dunbier was born on a farm in Polk County,
+Nebraska, on January 1, 1888. At age sixteen he
+moved with his parents to Germany, where
+from 1907 to 1914 he was enrolled at the Royal
+Academy in Düsseldorf. He later studied at the
+Chicago Art Institute. Dunbier returned to
+Nebraska just before World War I and opened
+his Omaha studio. In 1932 he married Lou
+Eckstrom from Newman Grove, Nebraska,
+and they had one son, Roger.</p>
+
+<p>In Omaha Dunbier earned a living from the
+sale of his paintings, many of them portraits
+of prominent persons, and by teaching at
+the ymca and later from his home studio at
+914 North 49th Avenue. He also conducted
+workshops all over Nebraska except in Lincoln,
+where he appears to have been unwelcome
+because of what was regarded as his
+old-fashioned painting style and his vocal disdain
+of the university's growing modernist art
+collection.</p>
+
+<p>The majority of Dunbier's landscapes, numbering
+several thousand, were painted in his
+home state, where the artist loved the hills and
+trees, lakes and rivers, farm scenes, and city-scapes.
+He completed most of these landscapes
+outdoors, taking no more than several hours
+for each work. In the evenings he frequently
+would carve a frame for the painting made that
+day, and he often commented that it took him
+longer to carve and gild a frame than to paint a
+painting. Paintings by Augustus Dunbier are in
+the Joslyn Art Museum in Omaha, Nebraska,
+the Sheldon Memorial Art Gallery in Lincoln,
+and the Museum of Nebraska Art in Kearney,
+where a Dunbier retrospective exhibition was
+held in 1994.</p>
+
+<closer>
+<signed>Lonnie Pierson Dubier<lb/>
+Scottsdale, Arizona</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hooley, Renee. <title level="j">Western Art Digest</title> 14 (1987): 66–71.</bibl> <bibl>Robinson,
+Natalie U. <title level="j">Southwest Art</title> 18 (1989): 60–64.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

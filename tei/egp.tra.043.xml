@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Yellowstone Trail</title>
+<title level="m" type="sub"></title>
+<author>Mike Bedeau</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.043</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bedeau, Mike">Mike Bedeau</author>. <title level="a">"Yellowstone Trail"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">814</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">YELLOWSTONE TRAIL</head>
+
+<p>The Yellowstone Trail was one of the first
+transcontinental highways. In April 1912 a
+group of local businessmen began to create an
+improved highway from Ipswich, South Dakota,
+to nearby Aberdeen. This effort was led
+by local booster, state senator, and "good
+roads" advocate Joseph W. Parmley. Parmley
+saw that the automobile would come to dominate
+commerce in the years ahead and was
+determined that his town not be left behind.</p>
+
+<p>From this humble beginning the Yellowstone
+Trail Association was organized in October
+1912 to promote a marked highway from
+the Twin Cities to Yellowstone National Park
+via Aberdeen. Boosters along the route began
+painting the association logo&#8211;a yellow circle
+with a black arrow pointing in the direction of
+Yellowstone&#8211;on roadside poles, trees, and
+even rocks. The association achieved a major
+victory in 1914 by successfully lobbying the
+National Park Service to allow private autos
+into Yellowstone Park.</p>
+
+<p>The Yellowstone Trail quickly emerged as
+the most important northern highway and the
+primary auto tourist route to and from Yellowstone.
+During its heyday in the early 1920s
+the Yellowstone Trail Association maintained
+a permanent office in Minneapolis along with
+numerous tourist bureaus in prominent cities
+along the route. Information tents were placed
+at strategic highway junctions to entice travelers
+to take the Yellowstone Trail instead of
+some other route. The Yellowstone Trail Association
+was supported by private memberships
+held by businesses along the route.</p>
+
+<p>Private highway associations began to decline
+in 1926 after the passage of federal highway
+legislation, which established the U.S.
+Route numbering system and placed the federal
+government in the forefront of highway
+construction. With the federal government
+now marking and funding highways, the primary
+functions of the private highway association
+disappeared. In the late 1920s, like so
+many other highway groups, the Yellowstone
+Trail Association fell on hard economic times.
+It was permanently disbanded in 1930.</p>
+
+<closer>
+<signed>Mike Bedeau<lb/>
+Virginia City, Nevada</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

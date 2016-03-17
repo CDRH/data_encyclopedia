@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.052 SYSTEM "egp.ii.052.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roswell Aliens</title>
+<title level="m" type="sub"></title>
+<author>Glenda Shafer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shafer, Glenda">Glenda Shafer</author>. <title level="a">"Roswell Aliens."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">396&#8211;397</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">ROSWELL ALIENS</head>
+
+<figure n="egp.ii.052" rend="granted">
+<figDesc>International UFO Museum and Research Center, Roswell, New Mexico</figDesc>
+</figure>
+
+<p>In early July 1947, an event so spectacular that it sent a shock wave throughout the world occurred in <placeName rend="state" key="nm.ros" reg="Roswell, New Mexico">Roswell, New Mexico</placeName>, and yet another image became associated with the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. The July 8, 1947, issue of the <hi rend="italic">Roswell Daily Record</hi> announced: "<hi rend="smallcaps">RAAF</hi> Captures Flying Saucer on Ranch in Roswell Region." The article referred to the capture of alien bodies and an alien spacecraft that supposedly crashed just outside of <placeName rend="settlement" key="nm.ros" reg="Roswell, New Mexico">Roswell</placeName>. The following day the <hi rend="italic">Roswell Daily Record</hi> reported that the military had emptied the saucer of its occupants. The Roswell Army Airfield first reported capturing a flying saucer and then recanted the story, replacing "flying saucer" with "weather balloon." The U.S. government still maintains that no aliens were found in <placeName rend="settlement" key="nm.ros" reg="Roswell, New Mexico">Roswell</placeName>.</p>
+
+<p><persName reg="Haut, Walter">Walter Haut</persName> and <persName reg="Dennis, Glenn">Glenn Dennis</persName> were active participants in the 1947 event. <persName reg="Haut, Walter">Walter Haut</persName> was the public relations officer assigned to the Roswell Army Airfield. Acting under orders, he reported the initial incident to the <hi rend="italic">Roswell Daily Record</hi>. <persName reg="Dennis, Glenn">Glenn Dennis</persName> was the local mortician. Someone from the airfield contacted <persName reg="Dennis, Glenn">Dennis</persName> and asked him how to preserve a body that had been exposed to the elements and also inquired about the quantity of child-size coffins he had on hand. His curiosity piqued, <persName reg="Dennis, Glenn">Dennis</persName> traveled out to the airfield to see what was going on. Upon his arrival at the airfield hospital, he discovered chaos. When he began to ask questions, he was physically escorted out of the building. Later that day he met with a friend, a nurse from the hospital, and she told him she had seen aliens. She even drew him a picture on the back of a prescription pad. Her drawing has become the standard image of aliens: short, thin, gray in color, with large heads, no hair or ears, large almond-shaped eyes, holes for a nose, a slit for a mouth, and hands with four elongated fingers and suction cups on the inside tips.</p>
+
+<p>The <orgName rend="museum" key="mus.iumrc" reg="International UFO Museum and Research Center">International <hi rend="smallcaps">UFO</hi> Museum and Research Center</orgName> in <placeName rend="settlement" key="nm.ros" reg="Roswell, New Mexico">Roswell, New Mexico</placeName>, cofounded by <persName reg="Haut, Walter">Haut</persName> and <persName reg="Dennis, Glenn">Dennis</persName>, focuses on these events and invites visitors to make up their own minds about what really happened.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Glenda Shafer<lb/>
+International UFO Museum and Research Center</hi></signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

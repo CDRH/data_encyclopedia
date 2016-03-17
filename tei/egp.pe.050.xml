@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rattlesnakes</title>
+<title level="m" type="sub"></title>
+<author>Geoffrey R. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Geoffrey R.">Geoffrey R. Smith</author>. <title level="a">"Rattlesnakes."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">638</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RATTLESNAKES</head>
+<figure n="egp.pe.050" rend="granted">
+<figDesc>A Prairie Rattlesnake</figDesc>
+</figure>
+
+<p>Rattlesnakes (<hi rend="italic">Crotalus</hi> spp. and <hi rend="italic">Sistrurus</hi> spp.)
+are found throughout the Great Plains, with ten
+species (nine <hi rend="italic">Crotalus</hi>, one <hi rend="italic">Sistrurus</hi>) ranging
+from northern Mexico up through the Prairie
+Provinces of Canada. They live in a number of
+diverse habitats, including deserts, grasslands,
+and woodlands. In the Great Plains, rattlesnakes
+are often associated with prairie dog towns.</p>
+
+<p>During winter, large groups of rattlesnakes
+can often be found in hibernacula (cavities or
+burrows where they overwinter), sometimes
+with other species of snakes. Rattlesnakes give
+birth to live young, and litter sizes range from
+one to twenty-five, often depending on the
+size of the female. Rattlesnakes feed on small
+mammals, birds, or in some cases, reptiles and
+amphibians, using infrared sensors located in
+pits in the front of their heads to locate their
+prey (hence the name pit vipers). Rattlesnakes
+have a keen ability to track prey they have
+envenomated and released. The toxicity of rattlesnake
+bites varies with the species and size
+of the snake. Rattlesnake venom causes the
+necrosis of living tissues and, in some species,
+includes neurotoxins that affect the nervous
+system of the prey.</p>
+
+<p>Dangerous and feared, rattlesnakes are
+widely represented in the folklore, myths, art,
+and literature of Native American and European
+American peoples of the Great Plains.
+Their dangerous reputation (often exaggerated)
+has led to such traditions as the "rattlesnake
+roundup" that involves the slaughter
+of many individuals. Roundups, along with
+habitat fragmentation, have resulted in drastic
+consequences for the long-term persistence of
+rattlesnake populations.</p>
+
+<closer>
+<signed>Geoffrey R. Smith<lb/>
+William Jewell College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Klauber, L. M. <title level="m">Rattlesnakes: Their Habits, Life Histories,
+and Influence on Mankind</title>. Berkeley: University of California
+Press, 1956.</bibl> <bibl>Rubio, M. <title level="m">Rattlesnake: Portrait of a Predator</title>.
+Washington <hi rend="smallcaps">DC</hi>: Smithsonian Institution Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

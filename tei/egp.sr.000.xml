@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.000 SYSTEM "egp.sr.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sports and Recreation</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+               
+<div1 type="contents">
+
+<head>Sports and Recreation</head>
+
+<figure n="egp.sr.000" rend="granted">
+<figDesc>Six-man football, McCool Junction, Nebraska, 1998</figDesc>
+</figure>
+
+<list>
+<item><ref n="egp.sr.001">Sports and Recreation</ref></item>
+<item><ref n="egp.sr.002">Alexander, Grover Cleveland</ref></item>
+<item><ref n="egp.sr.003">Baseball</ref></item>
+<item><ref n="egp.afam.007">Baseball, Interracial <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.sr.005">Basketball</ref></item>
+<item><ref n="egp.sr.006">Browning, Kurt</ref></item>
+<item><ref n="egp.sr.007">Calgary Winter Olympics</ref></item>
+<item><ref n="egp.sr.008">Clement, Amanda</ref></item>
+<item><ref n="egp.sr.009">Coaches</ref></item>
+<item><ref n="egp.sr.010">College World Series</ref></item>
+<item><ref n="egp.sr.011">Crosby, Bob</ref></item>
+<item><ref n="egp.sr.012">Crow Fair</ref></item>
+<item><ref n="egp.sr.013">Cunningham, Glenn</ref></item>
+<item><ref n="egp.sr.014">Curling</ref></item>
+<item><ref n="egp.sr.015">Dude Ranching</ref></item>
+<item><ref n="egp.sr.016">Edmonton Grads</ref></item>
+<item><ref n="egp.sr.017">Fishing</ref></item>
+<item><ref n="egp.sr.018">Football, American</ref></item>
+<item><ref n="egp.sr.019">Football, Canadian</ref></item>
+<item><ref n="egp.sr.020">Football, Six-Man</ref></item>
+<item><ref n="egp.ii.025">Friday Night Football <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.sr.022">Gaming</ref></item>
+<item><ref n="egp.sr.023">Gowdy, Curt</ref></item>
+<item><ref n="egp.sr.024">Gretzky, Wayne</ref></item>
+<item><ref n="egp.sr.025">Gymnastics</ref></item>
+<item><ref n="egp.sr.026">Hall of Fame Museums</ref></item>
+<item><ref n="egp.sr.027">Heisman Trophy Winners</ref></item>
+<item><ref n="egp.sr.028">Hogan, Ben</ref></item>
+<item><ref n="egp.sr.029">Hornsby, Rogers</ref></item>
+<item><ref n="egp.sr.030">Howe, Gordie</ref></item>
+<item><ref n="egp.sr.031">Ice Hockey</ref></item>
+<item><ref n="egp.sr.032">Jackson, Phil</ref></item>
+<item><ref n="egp.ha.025">Lopez, Nancy <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.sr.034">Lucas, Barbara</ref></item>
+<item><ref n="egp.sr.035">Mantle, Mickey</ref></item>
+<item><ref n="egp.sr.036">Maris, Roger</ref></item>
+<item><ref n="egp.sr.037">Mills, Billy</ref></item>
+<item><ref n="egp.sr.038">National Forests</ref></item>
+<item><ref n="egp.sr.039">National Grasslands</ref></item>
+<item><ref n="egp.sr.040">National Parks</ref></item>
+<item><ref n="egp.sr.041">National Wildlife Refuges</ref></item>
+<item><ref n="egp.afam.035">Pickett, Bill <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.na.091">Powwows <hi rend="italic">See</hi> <hi rend="smallcaps">Native Americans</hi></ref></item>
+<item><ref n="egp.sr.044">Riding Around</ref></item>
+<item><ref n="egp.sr.045">Rodeo</ref></item>
+<item><ref n="egp.sr.046">Ryun, Jim</ref></item>
+<item><ref n="egp.afam.036">Sanders, Barry <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.afam.037">Sayers, Gale <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.sr.049">Shoulders, Jim</ref></item>
+<item><ref n="egp.sr.050">Sport Hunting</ref></item>
+<item><ref n="egp.sr.051">Stecher, Joe</ref></item>
+<item><ref n="egp.sr.052">Storm Chasing</ref></item>
+<item><ref n="egp.sr.053">Sturgis Motorcycle Rally</ref></item>
+<item><ref n="egp.sr.054">Thorpe, Jim</ref></item>
+<item><ref n="egp.sr.055">Tibbs, Casey</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ind.028 SYSTEM "egp.ind.028.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Homestake Mine</title>
+<title level="m" type="sub"></title>
+<author>Steve Anderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Anderson, Steve">Steve Anderson</author>. <title level="a">"Homestake Mine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">421-422</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOMESTAKE MINE</head>
+
+<figure n="egp.ind.028" rend="granted">
+<figDesc>Homestake Mine, ca. 1930</figDesc>
+</figure>
+
+<p>Homestake Mining Company began operations
+in the Black Hills of Dakota Territory
+(now South Dakota) in 1877 after a group of
+California miners purchased the Golden Star
+and Homestake claims for $70,000. These
+original claims comprised approximately ten
+acres. By 1999 the Homestake Mine had grown
+to more than 8,000 acres of patented claims
+and was the oldest continually operating gold
+mine in the world.</p>
+
+<p>Located in Lead, South Dakota, Homestake
+Mine consisted of an "open cut" surface operation
+as well as an 8,000-foot-deep underground
+mine. Over the years, the Homestake
+Mine produced more than 39 million ounces
+of gold, and there were an additional 4.7 million
+ounces of proven and probable reserves as
+of 1997. In 1998 the Homestake Mine experienced
+major restructuring with the implementation
+of a new operating plan that was
+designed to lower production costs in the underground
+mine from $355 per ounce to $280
+per ounce. The company also spent nearly
+$100 million to reclaim portions of the Whitewood
+Creek Superfund Site that served as a
+tailings and municipal waste dump for nearly
+100 years.</p>
+
+<p>Homestake Mining Company entered the
+New York Stock Exchange in 1977. The company
+had focused solely on gold mining until
+the 1950s and 1960s, when it delved into uranium,
+lead, and zinc mining. The company
+became even more diversified in the early
+1980s, when it purchased fossil fuel developments.
+Homestake also aggressively acquired
+additional gold mines in Australia and Canada
+at this time. In early 2001 Homestake
+ranked as the second largest gold producer in
+the United States.</p>
+
+<p>The Homestake Mine itself, however, has
+experienced an interesting turn of events. Despite
+the new operating plan, falling gold prices
+and depleted reserves led to cutbacks and ultimately
+closure of the mine. The Homestake
+Mining Company removed its last gold ore on
+December 14, 2001, merged with Barrick Gold
+of Toronto, ceased mining operations completely
+on December 31, 2001, then donated the
+mine for use as an astrophysics laboratory. A
+small laboratory run by the University of
+Pennsylvania for nearly twenty years deep in
+the underground mine served as the nucleus
+for this newer, larger National Underground
+Science Laboratory. Work at this new lab
+would focus on the study of subatomic particles
+emitted from the sun, called neutrinos, at a
+depth of 7,400 feet beneath the surface. At this
+depth, interference from background cosmic
+radiation is filtered out, allowing only neutrinos
+to pass through. The laboratory received
+interim funding in the fall of 2001, and a proposal
+for the five-year, 281-million-dollar facility
+was submitted to the National Science
+Foundation in 2001. The final funding decision
+is still pending. The National Underground
+Science Laboratory would hire a number of
+former Homestake employees and bring in astrophysicists
+from all over the world, continuing
+the long and storied legacy of the Homestake
+Mine. As of April 2003, Barrick Gold had
+agreed in principle to donate the mine for use
+as a laboratory, but only if Barrick stockholders
+were protected from environmental liability
+for the property.</p>
+
+<closer>
+<signed>Steve Anderson<lb/>
+Black Hills State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

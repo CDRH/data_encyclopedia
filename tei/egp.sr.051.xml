@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stecher, Joe (1893-1974)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Stecher, Joe (1893-1974)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">787</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STECHER, JOE (1893-1974)</head>
+
+<p>Long before Hulk Hogan, "The Rock," or
+"Stone Cold" Steve Austin wrestled before national
+television audiences, Joe "The Scissors
+King" Stecher grappled for world titles with
+wrestling stalwarts such as Ed "Strangler"
+Lewis, "Masked Marvel" Mort Henderson,
+and "Tiger Man" John Pesak. Born to Bohemian
+immigrants near Dodge, Nebraska, on
+April 4, 1893, Stecher was a three-time world
+champion and, at the age of twenty-two, was
+the youngest man to ever hold the title.</p>
+
+<p>Stecher was a superb athlete. In high school
+he played nearly every sport, excelling at baseball,
+swimming, and wrestling. Stecher developed
+a powerful physique while working on
+the family's 400-acre farm (at the peak of his
+career he stood over six feet and weighed 220
+pounds). He reportedly perfected his signature
+move, the scissor hold, by wrapping his
+powerful legs around 100-pound sacks of
+grain and squeezing until they burst open.</p>
+
+<p>By his senior year in high school Stecher
+was focusing solely on wrestling. In 1912, at the
+age of nineteen, Stecher turned professional
+and quickly became a sensation after a string
+of victories against some of the best wrestlers
+in the nation. By 1915 promoters recognized
+Stecher's potential to become the next great
+champion and organized a championship
+bout in Omaha, Nebraska. On July 5, 1915,
+before a crowd of 15,000 spectators, he defeated
+Charlie Cutler for the world championship.
+Over the next few years Stecher traveled
+the nation in defense of his title, using his
+feared scissors hold on one opponent after another.
+In January 1916, for example, he defeated
+the "Masked Marvel" Mort Henderson
+in New York City. Stecher's first defeat (and
+the loss of his title) came on April 4, 1917, at
+Omaha to Earl Caddock. Stecher regained his
+title from Caddock in 1920 at Madison Square
+Garden in what many experts have called one
+of the greatest matches ever. His second title
+run was short-lived, however, as Ed "Strangler"
+Lewis defeated him ten months later.
+Stecher continued to battle opponents during
+the next five years, and on May 5, 1925, he
+defeated Stanislaus Zbyszko to become the
+first three-time world champion. "The Scissors
+King" defended his final title for another
+three years before losing it on February 20,
+1928, to "Strangler." Although Stecher continued
+to grapple for titles for another six
+years, shoulder injuries and age caught up
+with him, and he never regained his championship
+form.</p>
+
+<p>Stecher retired from wrestling in 1934 at the
+age of forty-one. Shortly thereafter, Stecher's
+wife left with their children, and the exchampion
+suffered a mental breakdown. Mental
+problems plagued Stecher for the remainder
+of his life; his last thirty years were spent in
+an institution in St. Paul, Minnesota. He died
+there on March 29, 1974. In 2000 Joe Stecher
+was inducted into the International Wrestling
+Institute and Museum's Hall of Fame.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

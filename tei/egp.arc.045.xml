@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stone Masonry</title>
+<title level="m" type="sub"></title>
+<author>L. Carl Brandhorst</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brandhorst, L. Carl">L. Carl Brandhorst</author>. <title level="a">"Stone Masonry."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">95-96</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STONE MASONRY</head>
+
+<p>During the early years of settlement, from the
+Provinces of Canada to the Edwards Plateau
+in Texas, the lack of timber forced settlers
+to construct their buildings and fences from
+other local materials. Though sod houses and
+dugouts served in some places, stone, when
+available, was the material of choice.</p>
+
+<p>In central Kansas a Cretaceous limestone
+(Fencepost limestone) lies near the surface on
+the divides and is exposed in stream valleys. It
+forms a layer of uniform thickness of about
+nine inches and, when freshly quarried, is soft
+enough to be sawed, carved, notched, drilled,
+or otherwise worked with simple hand tools.
+The stone's standard thickness and coloration
+and its almost universal use impart to the entire
+region an element of uniformity and a
+unique folk character that have survived to
+the present. Many houses and barns, churches
+and stores, outbuildings and bridges, fences
+and curbstones display the same characteristics
+of color, texture, and dimension.</p>
+
+<p>Quarrying required nothing beyond simple
+hand tools and strong backs. First the overburden
+was removed and the level face of the
+stratum exposed. The drilling buck, a homemade
+rig with sawhorse legs at one end and a
+hand-pedaled drill at the other, was used to
+bore holes into the stratum. Next, wedges,
+called plugs, were driven into the drill holes to
+cleave the rock from its stratum. Once cloven,
+the stone blocks were finished with dressing
+hammers and frequently textured with a variety
+of chisels into a number of simple designs.
+Smooth-textured finishes were ordinarily applied
+to stones to be used in chimneys, window
+and door lintels, and building corners.
+Often the stone for these applications was
+simply scraped smooth and offered an interesting
+contrast to the rough-hewn quality of
+the natural face used for the remainder of
+the building. Occasionally, the face was pitted
+with a punch, imparting a primitive decorative
+feature. Stones were laid one tier upon
+another mortar; powdered shale was used for
+chinking the joints.</p>
+
+<p>The stone houses of central Kansas fall into
+several basic design classes. These include
+the simple cabin, the two-story L or T plan,
+and the one- or two-story square design with
+either mansard or pyramidal roof. Many variations
+appear within these generalized classes,
+but character, individuality, and ethnic affinity
+were achieved by the treatment of the
+appurtenances rather than by any overt distinction
+of the basic design. Stone houses were
+common to most ethnic groups.</p>
+
+<p>With the completion of local rail service
+lines, lumber became competitive with stone,
+and in the late 1920s the use of stone was generally
+discontinued. When it was replaced, the
+old stone house was often left standing to be
+put to a variety of uses. It was, after all, nearly
+as difficult to remove as it had been to build.</p>
+
+<closer>
+<signed>L. Carl Brandhorst<lb/>
+Western Oregon State College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brandhorst, L. Carl. "Settlement and Landscape Change
+on a Subhumid Grassland: Lincoln County, Kansas."
+Ph.D. diss., University of Nebraska, 1974.</bibl> <bibl>Muilenburg,
+Grace, and Ada Swinford. <title level="m">Land of the Postrock</title>. Lawrence:
+University Press of Kansas, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.063 SYSTEM "egp.art.063.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.063">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wolcott, Marion Post (1910-1990)</title>
+<title level="m" type="sub"></title>
+<author>F. Jack Hurley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.063</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hurley, F. Jack">F. Jack Hurley</author>. <title level="a">"Wolcott, Marion Post (1910-1990)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">132</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOLCOTT, MARION POST (1910-1990)</head>
+
+<figure n="egp.art.063" rend="granted">
+<figDesc>Marion Post Wolcott. Freight train and grain elevators in Carter, Montana, August 1931.</figDesc>
+</figure>
+
+<p>Marion Post Wolcott is best known for the
+social documentary photographs she made
+for the Farm Security Administration (<hi rend="smallcaps">FSA</hi>)
+during the later part of the Depression, including
+work in the Great Plains. She was
+born Marion Post in 1910 in Montclair, New
+Jersey. Her older sister Helen was considered
+the more artistic and was encouraged toward
+a career in the arts, becoming well known for
+her portraits of Native Americans done for
+the Department of the Interior in the 1930s
+and 1940s. Marion was sent to a series of
+boarding schools and eventually attended the
+New School for Social Research and New York
+University, intending to teach. On a visit to Vienna
+in 1933 she was introduced to photography
+and was strongly attracted to its immediacy
+and power.</p>
+
+<p>After she returned to the United States Marion
+held a series of jobs until she was hired
+by the <hi rend="smallcaps">FSA</hi> to photograph farm problems
+and general rural life in America. She worked
+for the agency from July 1938 until November
+1941, traveling thousands of miles through the
+South, New England, and the West. On June 6,
+1941, she married Lee Wolcott, an administrator
+for the Department of Agriculture, and, at
+his insistence, her credits were changed on all
+her photographs to retroactively reflect her
+married name.</p>
+
+<p>In the fall of 1941 she set out on her last major
+photographic expedition for the fsa, covering
+Colorado, Nebraska, Montana, Idaho,
+and, briefly, California. Although she was unfamiliar
+with the region, her Plains work is
+some of her best, emphasizing the openness of
+the land and the relative insignificance of the
+human impact upon it. She succeeded in capturing
+the sense of space and distance by using
+roads, telephone poles, long trains, and grain
+elevators as compositional devices.</p>
+
+<p>Wolcott retired from professional photography
+in 1941, raised a family of four children,
+was recognized late in life as a significant contributor
+to American photography, and died
+in 1990.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.037">Farm Security Administration</ref>.</p>
+
+<closer>
+<signed>F. Jack Hurley<lb/>
+University of Memphis</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hurley, F. Jack. <title level="m">Marion Post Wolcott: A Photographic Journey</title>.
+Albuquerque: University of New Mexico Press, 1989.</bibl>
+<bibl>Stein, Sally. <title level="m">Marion Post Wolcott: FSA Photographs</title>. Carmel
+<hi rend="smallcaps">CA</hi>: Friends of Photography, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

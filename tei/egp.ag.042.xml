@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gardiner, Jimmy (1883-1962)</title>
+<title level="m" type="sub"></title>
+<author>David Laycock</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Laycock, David">David Laycock</author>. <title level="a">"Gardiner, Jimmy (1883-1962)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">46</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GARDINER, JIMMY (1883-1962)</head>
+
+<p>James Garfield (Jimmy) Gardiner was born
+on November 30, 1883, in Hibbert Township,
+Ontario. On August 14, 1901, he moved west to
+his uncle's home at Clearwater, Manitoba,
+where he worked as a hired man and finished
+high school. Three years later he moved west
+again, to that part of the Northwest Territories
+that would become Saskatchewan in 1905.</p>
+
+<p>Following twelve years as representative and
+minister in the Saskatchewan legislature, Gardiner
+became premier in 1926. His first premiership,
+lasting until 1929, occurred during a
+period of prosperity in the wheat-based provincial
+economy, while his second, from 1934–
+35, featured a devastated Saskatchewan agricultural
+economy. His move from provincial
+to federal politics in 1935 launched a recordsetting
+twenty-two-year career as Minister of
+Agriculture. Gardiner first focused on creatively
+using the Prairie Farm Rehabilitation
+Act&#8211;with which his name became synonymous&#8211;
+to provide financial, water resource,
+and land-use planning assistance to Prairie
+farmers. Later, he pushed the Agriculture
+Ministry to the front of the national policy
+process, developed close advisory relationships
+with Canada's major farmers' organizations,
+and became the leading voice for agriculture
+in national politics.</p>
+
+<p>Gardiner is also remembered for his use of
+patronage in the Liberal Party machine provincially
+and federally, his political abilities
+within the federal cabinet, and his oratory in
+parliament. As a cautious reformer within
+Canada's dominant political party, he strenuously
+opposed the social democratic Cooperative
+Commonwealth Federation's attempts
+to become the major voice of the
+common people in rural Saskatchewan. Personal
+ambition and a desire to win westerners
+and "the people" back to the Liberal banner
+following the ccf victory in Saskatchewan in
+1944 led him to stand, unsuccessfully, for the
+federal Liberal leadership in 1948. Following
+electoral defeat in 1958, Jimmy Gardiner returned
+to his Saskatchewan farm at Lemberg
+until his death on January 2, 1962.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: 
+<ref n="egp.pg.014">Cooperative Commonwealth Federation.</ref></p>
+
+<closer>
+<signed>David Laycock<lb/>
+Simon Fraser University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Smith, David, and Norman Ward. <title level="m">Jimmy Gardiner: Relentless Liberal</title>. Toronto: University of Toronto Press, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

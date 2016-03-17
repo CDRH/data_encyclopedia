@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Public Law 280</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Public Law 280."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">461-462</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PUBLIC LAW 280</head>
+
+<p>Public Law 280, passed on August 15, 1953,
+ended federal law enforcement on tribal lands
+and brought the tribes of five mandatory
+states&#8211;California, Minnesota, Nebraska, Oregon,
+and Wisconsin&#8211;under state civil and
+criminal jurisdiction. (Alaska was added later.)
+In theory this termination-era legislation was
+applied to these states because their state senators
+had requested the change and because
+tribal leaders had apparently accepted state
+control and federal withdrawal. All other states
+whose constitutions allowed such action were
+given the option to accept jurisdiction over
+their reservations. Congressional testimony
+reveals two primary justifications for the legislation:
+a feeling that a condition of lawlessness
+existed on and near reservations and the belief
+that tribal peoples should be under the same
+laws and law enforcement as the majority population.</p>
+
+<p>Although the federal government traditionally
+administered law on Indian reservations,
+beginning in 1940 it began to give certain
+states partial or total jurisdiction. Among
+these states were Kansas and North Dakota
+(only on the Devils Lake Sioux Reservation).
+Following passage of <hi rend="smallcaps">PL</hi> 280 other Great Plains
+states attempted to accept some form of jurisdiction
+over their reservations. North Dakota
+accepted civil jurisdiction over its tribes, dependent
+upon tribal consent. Significantly, no
+tribe there has consented to state control.
+South Dakota attempted to apply the law multiple
+times, including unilaterally extending
+jurisdiction to its reservations, but, between
+court battles and electoral decisions, it has not
+been successful in this endeavor.</p>
+
+<p>Both states and tribal peoples immediately
+noted problems with the law, problems that
+would lead to virtually continuous disputes
+both in and outside of courtrooms for the
+next four decades as well as jurisdictional uncertainty
+between tribal, city, state, and federal
+law enforcement agencies. State arguments
+against the law were almost universally based
+on the problem of increased cost to local and
+state governments. Tribal complaints centered
+on the fact that the law did not require any
+form of tribal consent.</p>
+
+<p>Nebraska, the lone mandatory Great Plains
+<hi rend="smallcaps">PL</hi> 280 state, experienced such jurisdictional
+and law enforcement difficulties. Home to the
+Omahas and Winnebagos, neither Nebraska
+nor Thurston County (site of the reservations)
+hired additional law enforcement officers
+to replace departing federal officers,
+despite the fact that allotted lands owned by
+tribal members were taxed. With diminished
+law enforcement, crime rose on the reservations.
+In 1957 the state legislature passed a law
+known as the Indian Bounty Act, supplying
+state funds for counties with heavy tribal populations
+and land bases. This act formed the
+basis of later tribal complaints that county officials
+unjustly arrested inordinate numbers of
+Native Americans in order to receive these
+funds.</p>
+
+<p>Because of widespread discontent on all
+sides, Congress included a consent clause to
+pl 280 in the Civil Rights Act of 1968 and also
+allowed states to retrocede jurisdiction back to
+the federal government. It did not give tribal
+peoples in previous <hi rend="smallcaps">PL</hi> 280 states power to demand
+this retrocession, and the prior consent
+clause did not have any bearing on the states
+already affected by <hi rend="smallcaps">PL</hi> 280. Under this change,
+the Omahas and later the Winnebagos successfully
+won retrocession. They have since
+created tribal courts and police and have completed
+cross-deputization and concurrent jurisdiction
+agreements with county, state, and
+federal authorities.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Goldberg, Carol. "Public Law 280: The Limits of State
+Jurisdiction over Indians." <title level="j"><hi rend="smallcaps">UCLA</hi> Law Review</title> 22 (1975):
+535–94.</bibl> <bibl>Hansen, Sandra. "Survey of Civil Jurisdiction in
+Indian Country." <title level="j">American Indian Law Review</title> 16 (1990):
+319–75.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

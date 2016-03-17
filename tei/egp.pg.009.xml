@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bush, George W. (b. 1946)</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Bush, George W. (b. 1946)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">656-657</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUSH, GEORGE W. (b. 1946)</head>
+
+<p>In 2000 George Walker Bush was elected the
+forty-third president of the United States. He
+and John Quincy Adams are the only U.S.
+presidents whose fathers also achieved that
+high office.</p>
+
+<p>Bush was born on July 6, 1946, in New
+Haven, Connecticut, the son of George Herbert
+Walker and Barbara Pierce Bush. At
+the age of two, he moved with his family to
+Odessa, Texas, and shortly thereafter to Midland.
+Following in his father's footsteps, he
+attended Yale University, graduating in 1968.
+He later earned a master of business administration
+degree from Harvard University in
+1975. He served as a pilot in the Texas Air National
+Guard between 1968 and 1973, and married
+Laura Welch of Midland in 1977.</p>
+
+<p>Bush spent much of his early career in the
+oil and gas industry in Texas, although he
+ran unsuccessfully for a seat in the House of
+Representatives in 1978. In the late 1980s he
+worked as an adviser and speechwriter in
+his father's presidential campaign. After his
+father won the election, the younger Bush
+purchased the Texas Rangers professional
+baseball team.</p>
+
+<p>In 1994 Bush ran for governor of Texas. He
+won the Republican nomination and defeated a
+popular incumbent, Democrat Ann Richards,
+in the general election. Bush was a popular governor,
+emphasizing welfare and education reform
+along with strong anticrime measures. He
+was easily reelected in 1998.</p>
+
+<p>In the spring of 2000 Bush began campaigning
+for the Republican presidential nomination.
+Turning back a strong challenge by Sen.
+John McCain of Arizona, Bush won his party's
+nomination. He selected Richard Cheney, former
+Wyoming representative and U.S. secretary
+of defense, as his running mate. In one of
+the closest and most hotly contested presidential
+elections in history, Bush and Cheney defeated
+their Democratic opponents, Vice President
+Al Gore and Sen. Joseph Lieberman. For
+five weeks after Election Day, the outcome
+hung in the balance while allegations of ballot
+irregularities and flawed voting procedures
+were investigated in Florida, whose twenty-five
+electoral votes would determine the outcome.
+Eventually, the U.S. Supreme Court
+ruled in Bush's favor, and the Bush-Cheney
+ticket was elected with a margin of 271 to 266 in
+the Electoral College, despite the fact that
+Gore won approximately half a million more
+popular votes than Bush.</p>
+
+<p>Bush was inaugurated in January 2001. The
+September 11, 2001, terrorist attacks on the
+World Trade Center and the Pentagon soon
+provided a test of Bush's leadership. The administration's
+response to global terrorism,
+including military action in 2001 against the
+al-Qaida network in Afghanistan and the 2003
+invasion of Iraq, proved highly popular, and
+Bush's approval rating remained very high
+into 2003.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruni, Frank. <title level="m">Ambling into History: The Unlikely Odyssey
+of George W. Bush</title>. New York: HarperCollins, 2001.</bibl> <bibl>Hatfield,
+James. <title level="m">Fortunate Son: George W. Bush and the Making
+of an American President</title>. New York: Times Books,
+1999.</bibl> <bibl>Toobin, Jeffrey. <title level="m">Too Close to Call: The Thirty-six-Day
+Battle to Decide the 2000 Election</title>. New York: Random
+House, 2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.098">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Reserves</title>
+<title level="m" type="sub"></title>
+<author>D. Aidan McQuillan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.098</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McQuillan, D. Aidan">D. Aidan McQuillan</author>. <title level="a">"Reserves."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">598-599</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RESERVES</head>
+
+<p>Indian (First Nations) reserves on the Canadian
+Prairies were the outcome of a series of
+treaties negotiated between the new Dominion
+of Canada and Indian leaders whose peoples
+had occupied the Prairies for generations.
+Canada's top priority, when it acquired Rupert's
+Land from the Hudson's Bay Company
+in 1870, was to extinguish Indian title to the
+land and to stabilize the Indian population in
+anticipation of white agricultural settlement.
+The Indians' priority was to preserve their way
+of life in the face of inevitable changes on the
+Canadian Prairies. Consequently, government
+officials and Indian leaders held very different
+views on the purpose of the treaties and
+reserves.</p>
+
+<p>Treaties numbered 1 through 7 were negotiated
+between 1871 and 1877 and covered the
+Prairies of the present-day provinces of Manitoba,
+Saskatchewan, and Alberta. Treaties 1
+and 2 were similar in that each Indian band
+would receive an inalienable reserve of land
+using a ratio of 160 acres per family of five and
+an annuity of $15 per family. Liquor sales were
+prohibited, and schools would be built by the
+government on the reserves. Gifts of livestock,
+farming equipment, and clothing, as well as
+hunting and fishing rights, were mentioned
+verbally during negotiations but were not
+written into the treaties. Subsequently, these
+two treaties were amended in 1875 to bring
+them into line with Treaty 3, which set precedents
+for later treaties. Its terms were: 640
+acres per family of five, annuities of $5 per
+person, a gratuity of $12, a suit of clothes every
+three years, salaries for chiefs and band officers,
+plus gifts of medals and flags. Hunting
+and fishing rights in unsettled areas were formally
+acknowledged, and reserves were to be
+supplied with livestock, farming equipment,
+and seed. Agricultural instruction would be
+provided by the government. The only subsequent
+change was the provision in Treaty 6 of
+a "medicine chest"&#8211;a provision that was then
+extended to the other treaty areas. Provision
+was also made for American Sioux (Lakota)
+refugees from the Battle of the Little Bighorn:
+they received reserves based on eighty acres
+per family of five but no annuities, as they had
+no lands in Canada to cede. The size of all
+reserves was based on population levels during
+the 1870s; no provision was made for subsequent
+population expansion.</p>
+
+<p>Although the government's declared policy
+was assimilation, in practice it was segregation.
+The very concept of a reserve is one of segregation.
+Indians were supposed to select the location
+of their reserves, but government agents
+often intervened and clustered the reserves to
+facilitate bureaucratic administration. In 1882
+all the southern reserves except those in southern
+Alberta were moved north of the Canadian
+Pacific Railroad to avoid further cross-border
+raids with American bands. Agents were to
+terminate the Indians' roaming over the Prairies,
+to teach them farming, and to settle them
+on reserves where they would not interfere
+with white settlement. After the North-West
+Rebellion of 1885, agents increasingly took
+control of affairs on the reserves as the power
+of Indian chiefs was reduced and Indians became
+wards of the government. In the area of
+education the government's practice was indeed
+assimilationist. Schools on the reserves
+were run by Christian missionaries who sought
+to "civilize" and Christianize Indian children
+by stamping out Aboriginal cultural influences.
+These practices worked against the Indian ideal
+of preserving as much of their culture as they
+could on their reserves.</p>
+
+<p>Refusal of the reserve system was scarcely
+an option for Prairie Province Indians in the
+1870s. A smallpox epidemic in the early 1870s,
+followed by rapid disappearance of the bison,
+reduced Indian bands to starvation and dependence
+on government rations for survival.
+Their plight was desperate by 1880, and despite
+the pleas of several chiefs such as Big
+Bear, who argued for Indian unity and renegotiation
+with the government, many accepted
+the government's terms. Big Bear even
+favored clustering of reserves as a step toward
+creating Indian solidarity and preservation of
+Indian culture. But even their hunting and
+fishing rights along the northern margins of
+the Prairies were ignored, as agents sought to
+restrict Indian mobility and to seclude them
+on their reserves. The Indians' distinctive way
+of life was subjected to the crushing pressures
+of starvation: sheer survival was possible only
+on the government's terms. Nevertheless, Indians
+retained significant elements of their
+cultures on these small, inalienable reserves of
+land that had been set aside for them in the
+early 1880s.</p>
+
+<p>Major changes to the reserve system came
+after World War II, in which Indians fought
+bravely in the Canadian armed forces. Veterans
+refused to accept second-class citizenship,
+and a revised Indian Act in 1951 gave
+Indian bands a measure of control for the first
+time. Although the policy of assimilation continued,
+Indians were no longer wards of government
+but were to advance to full rights
+as citizens. Indians now determined who belonged
+to Indian bands and who could live on
+reserves. The Indian Act of 1876 had declared
+that only "status" Indians could reside permanently
+on reserves, and the government reserved
+the right to determine who was a "status
+Indian." Men who lived off the reserve
+could lose their status, and the position of
+women was even more precarious, especially
+those who married non-Indians. Resolution
+of these issues now became a matter for Indian
+bands, although the troublesome problem
+of women's status was not finally resolved
+until 1982, when many women were reinstated
+as band members.</p>
+
+<p>Other changes came more easily. Schools
+were secularized during the 1960s, and by 1970
+Indian bands began to take direct control of
+education. Bands also took financial control
+and increasingly policed their reserves&#8211;public
+consumption of alcohol, for example, was permitted
+in 1970. By the 1980s a pan-Indian
+movement had been established, which linked
+Indian reserves on the Prairies with other reserves
+across Canada, and, as the drive toward
+Aboriginal self-government was launched, Big
+Bear's dream of a century earlier became a
+possibility.</p>
+
+<p>The Canadian government had been determined
+to treat Indians better than the United
+States had. Those lofty goals were never
+achieved, partly through lack of commitment
+by the government in Ottawa and partly
+through internal contradictions in policy, but
+mostly because Indians' wishes were ignored.
+The result was a marginalization of Canadian
+Prairie Indians through segregation similar to
+that of their American cousins for more than
+a century.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.020">Indian Residential Schools, Canada</ref> 
+/ <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.032">Indian Agents</ref>.</p>
+
+<closer>
+<signed>D. Aidan McQuillan</signed>
+University of Toronto</closer>
+</div1>
+
+<div1>
+<bibl>Canada Royal Commission on Aboriginal Peoples. <title level="m">For
+Seven Generations: An Information Legacy of the Royal
+Commission on Aboriginal Peoples</title>. Ottawa: Libraxus, 1997.</bibl>
+<bibl>Dickason, Olive P. <title level="m">Canada's First Nations: A History of
+Founding Peoples from Earliest Times</title>. Toronto: McClelland
+and Stewart Ltd., 1992.</bibl> <bibl>McQuillan, D. Aidan. "Creation
+of Indian Reserves on the Canadian Prairies, 1870–
+1885." <title level="j">Geographical Review</title> 70 (1980): 379–96.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

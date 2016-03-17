@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Landscape Architecture</title>
+<title level="m" type="sub"></title>
+<author>Richard K. Sutton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sutton, Richard K.">Richard K. Sutton</author>. <title level="a">"Landscape Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">85-86</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LANDSCAPE ARCHITECTURE</head>
+
+<p>Landscape architecture is the art and science
+of planning, design, and management of both
+human-made and natural outdoor environments.
+It has strong ties to horticulture, recreation,
+architecture, civil engineering, urban
+planning, natural resources, social sciences,
+humanities, and the arts. Licensure in the profession
+is required in all Great Plains states
+and provinces except Colorado, North Dakota,
+Saskatchewan, and Alberta. Landscape
+architecture focuses on the development of
+landscapes, though significant emphasis in the
+profession also occurs in the preservation and
+management of recreational and historical resources.
+These factors tend to associate landscape
+architecture in the Great Plains with
+larger cities and with notable national, state,
+provincial, and local parks.</p>
+
+<p>Landscape architecture developed in three
+overlapping phases in the Great Plains. The
+first period, from about 1860 to 1920, coincided
+with initial European American settlement
+and involved landscape architects from
+outside the region. During the second phase,
+from about 1920 to 1970, Plains landscape architects
+were often associated with multidisciplinary architecture and engineering
+firms. More recently, a third phase has been
+characterized by work done by landscape architects
+trained in programs in the Great
+Plains.</p>
+
+<p>Early projects in the Great Plains were designed
+by consultants from eastern cities. In
+the late nineteenth century, for example,
+the extensive parks and boulevard system in
+Omaha was planned by H. W. S. Cleveland
+from his Chicago office. During this early period,
+landscape architects were also often involved
+with the beautification of parks developed
+by railroad companies, planning graveyards
+in the "rural cemetery" style, and designing
+gardens for wealthy patrons. Later, during
+the Great Depression, the Work Projects Administration
+hired landscape architects to plan
+state and municipal parks in the Great Plains.
+Mount Rushmore National Memorial and
+Wind Cave National Park in South Dakota, for
+example, are enhanced with good site design
+by landscape architects. The International
+Peace Garden, straddling the forty-ninth parallel
+between Canada and the United States, is
+a particularly special achievement, featuring
+gardens of hardy plants in a severe climate. It
+was designed by Henry Moore.</p>
+
+<p>Landscape architects have been integral in
+improving waterfront areas in Plains cities.
+Combining resource conservation and public
+recreation goals, landscape architects designed
+the Red River Corridor and Winnipeg
+River Walk in Manitoba, the Westcan Center
+in Regina, Saskatoon, river walks in Calgary
+and Edmonton, Alberta, the River Front in
+Wichita, Kansas, and the South Platte River
+Restoration in Denver, Colorado.</p>
+
+<p>The work of Ernst Herminghaus, who designed
+the Nebraska State Capitol grounds
+and Pioneers Park in Lincoln, Nebraska, Gerald
+Kessler, engineer and landscape architect
+with the Kansas City, Missouri, Parks Commission
+who planned that city's parks and
+boulevard system, and the firm of Hare and
+Hare, which coordinated with architect J. C.
+Nichols to create the plaza in Kansas City,
+Missouri, all deserve special mention. Hare
+and Hare was the first significant Great Plains
+landscape architecture firm, and its projects
+can be found throughout the region, including
+plans for Kansas City parks, the University
+of Nebraska campus, the Villa Philbrook in
+Tulsa, and the Civic Center, capitol sites, and
+park system in Oklahoma City.</p>
+
+<p>The first Great Plains university program in
+landscape architecture was founded in 1924 at
+what is now Kansas State University in Manhattan.
+This remained the only Plains program
+until the University of Manitoba in
+Winnipeg initiated one in 1969. Subsequently,
+Texas Tech in Lubbock (1970), the University
+of Colorado–Denver (1981), Colorado State
+University in Fort Collins (1982), Oklahoma
+State University in Stillwater (1983), North
+Dakota State University in Fargo (1991), and
+the University of Oklahoma in Norman (1995)
+have developed accredited programs. Landscape
+architecture in the Great Plains is now
+homegrown.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: 
+<ref n="egp.ii.037">International Peace Garden</ref>.</p>
+
+<closer>
+<signed>Richard K. Sutton<lb/>
+University of Nebraska-Lincoln<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lee, Janice, David Boutros, Charlotte R. White, and Dean
+Wolfenbarger, eds. <title level="m">A Legacy of Design: An Historical Survey of the Kansas City, Missouri Parks and Boulevard System, 1893–1940</title>. Kansas City <hi rend="smallcaps">MO</hi>: Kansas City Center for
+Design Research, 1995.</bibl> <bibl>Tishler, William, ed. <title level="m">Midwestern Landscape Architecture</title>. Urbana: University of Illinois
+Press, 2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

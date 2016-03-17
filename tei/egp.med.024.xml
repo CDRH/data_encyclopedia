@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Immigrant Newspapers</title>
+<title level="m" type="sub"></title>
+<author>Kathleen L. Fimple</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fimple, Kathleen L.">Kathleen L. Fimple</author>. <title level="a">"Immigrant Newspapers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">514</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">IMMIGRANT NEWSPAPERS</head>
+
+<p>Because the settlement of the Great Plains coincided
+with a period of heavy immigration to
+the United States, the immigrant press held
+a prominent position in the region. One of
+the primary roles played by immigrant newspapers
+was to educate the newly arrived. To
+accomplish this, the immigrant papers were
+initially printed in the native language of the
+target audience. Later, as immigrants learned
+to speak English, some papers abandoned the
+native language and converted to English.
+Others printed in both languages, and one,
+Die Staatspresse, was trilingual, printing in
+English, German, and Norwegian. The papers
+provided information about the local community,
+including the culture, economy, and
+government. News was reported on the national
+and international levels, especially targeting
+the immigrants' homeland. Some papers
+even sent reporters to Europe to gather
+information firsthand. It was also common
+for fiction and poetry to be included in the
+papers. Examples of these broad-based papers
+are <title level="j">Den Danske Pionner</title>, a Danish paper published
+in Omaha, and the <title level="j">Dakota Freie Presse</title>,
+a German paper published in a variety of locations
+in the Dakotas and Minnesota.</p>
+
+<p>Other papers served the interests of particular
+groups. Papers for fraternal organizations,
+church groups, labor unions, and political
+parties were published to provide specific
+information for a relatively narrow audience.
+The Slovonic Benevolent Society of Texas, for
+example, published the <title level="j">Vestnik</title> every week in
+West, Texas. The Mennonite was published for
+the Mennonites who lived near Newton, Kansas.
+The monthly <title level="j">Katolicky Delnick</title> was published
+in Dodge, Nebraska, and, as its title suggests,
+it served the Czech Catholic workman.
+Also providing religious information was the
+<title level="j">Ukrainski Visti</title>, serving Ukrainian immigrants
+in and around Edmonton, Alberta.</p>
+
+<p>The impact immigrant newspapers had on
+the lives of their readers was twofold. First, the
+papers aided assimilation into the society and
+culture of the United States. They provided
+information that helped immigrants adjust to
+their new life and to fit in. However, the papers
+also slowed assimilation. By supplying information
+in the native language, the papers
+provided a means for the immigrant to live
+successfully in the United States with little or
+no English. In the early twentieth century, for
+example, the small Kaposvar Colony in Saskatchewan
+supported a Hungarian-language
+paper. Not only did the paper provide information
+in Hungarian, but it was also an advocate
+for cultural preservation issues such as
+Hungarian schools with Hungarian teachers
+to instruct in their native tongue. Some papers
+helped the ethnic community to grow. In his
+paper, <title level="j">Pokrok Zapadu</title>, Omaha resident John
+Rosicky encouraged Czechs in Europe to immigrate
+to Omaha and join the thriving Czech
+community there. Dr. Friedrich Renner, editor
+of the <title level="j">Nebraska Deutsche Zeitung</title>, declared
+that the goal of his paper was to spread the
+news of a territory where there was good land
+and other employment opportunities. He
+mailed copies of each issue to Germany, Austria,
+Alsace, and Lorraine.</p>
+
+<p>Immigrant papers varied greatly in size, frequency
+of publication, location of publication,
+circulation, and longevity. They ranged
+from single page to multipage, from daily to
+monthly, and from a few hundred subscribers
+to several thousand. <title level="j">Den Danske Pionner</title>, for
+example, was the largest of all Danish American
+weeklies, with a mailing list of 40,000 and
+an estimated readership of 100,000. Some
+newspapers were published outside the Plains
+but had wide circulation within the region.
+Others originated in communities on the
+Plains. Many of these were published in the
+larger communities on the periphery of the
+region, such as Omaha and Denver. Smaller
+towns, however, also played a part in the immigrant
+press. Some supported small papers,
+often with short life spans. The <title level="j">Kansas Stats Tiding</title>, for example, survived for only one
+year in the Swedish settlement of Lindsborg,
+Kansas. Other small towns such as West,
+Texas, supported more than one paper, some
+of which were published well into the twentieth
+century.</p>
+
+<p>Immigrant newspapers in the twenty-first
+century serve two audiences. Papers established
+in the nineteenth and early twentieth
+centuries are read primarily by the descendants
+of the original subscribers and those
+who are interested in maintaining their cultural
+heritage. Many of these papers have converted
+to English. The <title level="j">Western News</title>, for example,
+began publishing in Swedish in 1888.
+In 1941 the newspaper converted to a duallanguage
+format (English and Swedish), a
+practice it continues today. A few papers still
+publish in the native language. <title level="j">Der Staats-Anzeiger</title>, begun in 1906, continues to publish
+weekly in German from its Bismarck, North
+Dakota, office. In Omaha, the <title level="j">American Citizen</title>
+still publishes in Italian. New papers have
+emerged, serving a second audience of more
+recent immigrants to the Plains. <title level="j">Viltis</title>, for example,
+has been published in Denver since 1942
+for the Lithuanian population. The weekly
+<title level="j">Rocky Mountain Jiho</title> has published in both
+English and Japanese since 1962. There are also
+numerous papers serving the Latino populations
+of the Central and Southern Plains, although
+many are published in towns lying just
+outside the boundaries of the region.</p>
+
+<closer>
+<signed>Kathleen L. Fimple<lb/>
+Wayne, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Park, Robert E. <title level="m">The Immigrant Press and Its Control</title>.
+New York: Harper and Brothers Publishers, 1922.</bibl> <bibl>Wynar,
+Lubomys R., and Anna T. Wynar. <title level="m">Encyclopedic Directory of Ethnic Newspapers and Periodicals in the United States</title>.
+Littleton <hi rend="smallcaps">CO</hi>: Libraries Unlimited, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

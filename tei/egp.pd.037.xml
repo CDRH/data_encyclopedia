@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">National Congress of American Indians</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"National Congress of American Indians."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">718</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIONAL CONGRESS OF AMERICAN INDIANS</head>
+<figure n="egp.pd.037" rend="granted" type="noclick">
+<figDesc>Logo for the National Congress of American Indians</figDesc>
+</figure>
+
+<p>The National Congress of American Indians
+(<hi rend="smallcaps">NCAI</hi>) is the oldest pan-Indian organization
+in the United States. Its mission is to "inform
+the public and the federal government on
+tribal self-government, treaty rights, and a
+broad range of federal policy issues affecting
+tribal governments." The NCAI provides legal
+aid to protect Indian civil rights and serves as
+a watchdog in protection of treaty rights.</p>
+
+<p>Organized in Denver, Colorado, in 1944 by
+well-educated Native American leaders such as
+D'Arcy McNickle (Flathead), Archie Phinney
+(Nez Perce), and Charles E. Heacock (Sioux),
+the <hi rend="smallcaps">NCAI</hi> battled against the federal government's
+policies of termination of tribal status
+and relocation. The <hi rend="smallcaps">NCAI</hi> also scored an important
+victory in helping create the Indian
+Claims Commission. By the 1960s, with the
+threat of termination fading, the <hi rend="smallcaps">NCAI</hi> focused
+on issues such as poverty and public health.
+However, during the 1960s the <hi rend="smallcaps">NCAI</hi> lost its
+position as the sole voice for Native Americans.
+More radical groups, such as the American
+Indian Movement and the National Indian
+Youth Council, diverged from the moderate
+policies of the <hi rend="smallcaps">NCAI</hi> by taking a more militant
+stand. During the 1980s and 1990s the ncai
+continued to work to protect Native American
+cultural rights and the repatriation of Indian
+artifacts and remains.</p>
+
+<p>The <hi rend="smallcaps">NCAI</hi> has grown from an original membership
+of fifty tribes in 1944 to more than 250
+member tribes in 2001. The <hi rend="smallcaps">NCAI</hi> functions as
+a legislative body, with tribes electing delegates
+to represent them at a national convention.
+With its headquarters in Washington, D.C.,
+the <hi rend="smallcaps">NCAI</hi> continues to operate as a lobbying
+agent on behalf of all Native American peoples.
+Issues concerning the <hi rend="smallcaps">NCAI</hi> in 2001 included
+environmental protection and natural
+resources management, enhancement of Indian
+health, and the protection of Indian cultural
+resources and religious freedom.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cowger, Thomas W. <title level="m">The National Congress of American
+Indians: The Founding Years</title>. Lincoln: University of Nebraska
+Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

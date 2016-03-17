@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.055">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tibbs, Casey (1929-1990)</title>
+<title level="m" type="sub"></title>
+<author>John Michael Duffy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.055</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Duffy, John Michael">John Michael Duffy</author>. <title level="a">"Tibbs, Casey (1929-1990)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">789</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TIBBS, CASEY (1929-1990)</head>
+<figure n="egp.sr.055" rend="granted" type="noclick">
+<figDesc>Casey Tibbs</figDesc>
+</figure> 
+
+<p>The Great Plains is the home of the open
+range cattle kingdom, Wild West shows, and
+an enduring ranching industry, so it is not
+surprising that the region has produced some
+of the greatest rodeo champions ever. One of
+these was Casey Tibbs. Tibbs was born at Mission
+Ridge, South Dakota, on March 5, 1929,
+and grew up as a traditional ranch hand,
+working horses out of his family's log house at
+the mouth of the Cheyenne River. When he
+began hitching-to contests in the 1940s, the
+slightly built Tibbs’s uncanny "rhythm riding"
+drew the derision of older, more powerful
+riders. They could not argue with his success,
+however, and by decade's end Tibbs was the
+youngest world champion in history. As his
+collection of tack and buckles grew in the
+1950s, Tibbs became a darling of the postwar
+decade alongside major-league baseball stars.
+His striking good looks, purple luxury sedans,
+and silk shirts became legendary both in and
+out of rodeo circles.</p>
+
+<p>By the time of his retirement in 1959, Tibbs
+had won eighteen world championships (nine
+Professional Rodeo Cowboys Association and
+nine International Rodeo Association). His
+list of championships was matched only by
+his flamboyant personality. Tibbs had a knack
+for capturing and in some cases creating
+the limelight. In 1951 Life magazine featured
+the photogenic South Dakota cowboy on
+its cover, the only cowboy ever to earn that
+distinction, and set the stage for Tibbs's post-rodeo
+careers in acting and overseas Wild
+West shows. Tibbs died on January 28, 1990, in
+Ramona, California.</p>
+
+<closer>
+<signed>John Michael Duffy<lb/>
+Mission, South Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fredriksson, Kristine. <title level="m">American Rodeo</title>. College Station:
+Texas A&amp;M University, 1985.</bibl> <bibl>Porter, Willard H. <title level="m">Who's
+Who in Rodeo</title>sssss. Oklahoma City: Powder River Book Company,
+1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

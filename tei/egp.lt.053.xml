@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Olsen, Tillie (b. 1913)</title>
+<title level="m" type="sub"></title>
+<author>Linda Ray Pratt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pratt, Linda Ray">Linda Ray Pratt</author>. <title level="a">"Olsen, Tillie (b. 1913)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">488</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OLSEN, TILLIE (b. 1913)</head>
+
+<p>Tillie Olsen, author of <title level="m">Tell Me a Riddle</title>, was
+born Tillie Lerner on a farm near Mead, Nebraska,
+on January 14, 1913. Like many other
+Jewish immigrants in Nebraska, the Lerners
+had left Russia after the failure of the 1905
+revolution. The family moved to Omaha in
+1917. Olsen's parents were active Socialists, and
+her father, Samuel, ran for lieutenant governor
+on the Socialist Party ticket in 1928. Her
+early life was centered in the family's struggle
+to make a living and its radical politics. At
+Central High, Olsen read widely and wrote for
+the school paper but was not a model student.
+She dropped out of high school after joining
+the Young Communist League in 1931. By 1934
+she had moved to San Francisco, where she
+married Jack Olsen and reared four daughters.</p>
+
+<p>Olsen's first story, "The Iron Throat," appeared
+in 1934 in the <title level="m">Partisan Review</title>. The
+story attracted attention, and Olsen participated
+in the 1935 Writers Congress. In the 1940s
+Olsen was active in union and other left-wing
+activities. In 1961, after her mother's death,
+Olsen published <title level="m">Tell Me a Riddle</title>, a collection
+of short fiction. The title story, based on her
+parents' lives, focuses on a mother's memories
+and the family's responses to her impending
+death from cancer. Another story is "I Stand
+Here Ironing." Both stories portray creative
+women whose lives were subdued by the exigencies
+of motherhood. These stories received
+wide critical acclaim and resonated with the
+emerging feminist ideas of the 1970s. In 1974
+Olsen published <title level="m">Yonnondio</title>, a novel of the
+Great Depression she began in the early 1930s.
+<title level="m">Yonnondio</title> also draws on her family history
+and midwestern roots. The novel focuses on
+Mazie, a starry-eyed young girl, who moves
+with her family from the farm to a large meatpacking
+city like Omaha. In 1978 Olsen published
+<title level="m">Silences</title>, a book of nonfiction essays
+about pressures that silence women as writers.</p>
+
+<p>Olsen's fiction won national and international
+notice in the 1970s. She is generally
+considered a major figure among contemporary
+women writers.</p>
+
+<closer>
+<signed>Linda Ray Pratt<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

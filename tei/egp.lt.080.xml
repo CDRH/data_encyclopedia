@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.080">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Western</title>
+<title level="m" type="sub"></title>
+<author>Franz G. Blaha</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.080</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Blaha, Franz G.">Franz G. Blaha</author>. <title level="a">"The Western."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">496-497</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THE WESTERN</head>
+
+<p>The Western, contrary to the mainstream
+novel of the American West by authors like A.
+B. Guthrie Jr., Ole R&#246;lvaag, Willa Cather, and
+Edna Ferber, is a mass-produced subgenre of
+popular literature rigidly defined by a formulaic
+plot, conventional characters, and its setting
+in the Old West, a semimythical place and
+time in American history. Rather than describing
+the settlers' psychological and spiritual relationship
+to the land or giving a realistic picture
+of a particular region of western America,
+the Western is a nostalgic adventure novel,
+drawing on the dialectic struggle between savagery
+and civilization, law and lawlessness, and
+East and West at an imaginary, epic moment
+when the two opposing poles were believed to
+be in a precarious balance. Thus the Western is
+set predominantly in the Great Plains and in
+the mountains and deserts of the Southwest
+during the second half of the nineteenth century.
+According to John Cawelti, the Great
+Plains is a particularly appropriate setting for
+the Western because of the region's openness,
+its inhospitableness to human settlement, its
+extremes of light and climate, as well as its
+grandeur and beauty.</p>
+
+<p>The Western traces its roots to the romantic
+novels of James Fenimore Cooper, notably, his
+Leatherstocking series, which deplores the relentless
+eradication of the "savage but noble"
+Native Americans through the onslaught of
+European American civilization. This romantic
+sympathy for the Native Americans soon
+gave way to the crude juxtaposition of settler
+and savage in the dime novels of the 1860s and
+1870s such as Edward Ellis's <title level="m">Seth Jones; or, The Captives of the Frontier</title> (1860). In Edward L.
+Wheeler's <title level="m">Deadwood Dick on Deck</title> (1878), set
+in the Black Hills, Indians no longer exist even
+as an opposing force.</p>
+
+<p>The basic formula for the contemporary
+Western derives from two sources: semifactual
+accounts of the life of cowboys such as Andy
+Adams's <title level="m">The Log of a Cowboy</title> (1903), a fictional
+diary of a cattle drive from Texas through the
+Great Plains to Montana, and Owen Wister's
+<title level="m">The Virginian: A Horseman of the Plains</title> (1902).
+Set in Wyoming in the 1870s, <title level="m">The Virginian</title>
+introduced to the genre the cowboy hero, the
+tenderfoot narrator, the Code of the West, the
+climactic shootout, and the young schoolteacher
+from the East who tries to civilize the
+hero but ends up being converted to his Western
+values in the end. <title level="m">The Virginian</title> was written
+at a time when the frontier was declared
+closed, when it became clear that American
+society in the twentieth century would be inescapably
+secular, urban, and industrial, when
+gender roles were becoming increasingly
+blurred, and when waves of immigration from
+Europe began to change the ethnic composition
+of the country. Wister's nostalgic glance
+back at a time and place when these trends
+might still have been reversed as well as his
+admonition that the basic values of the Old
+West must be preserved to guide the country in
+the right direction struck a responsive chord in
+a large segment of the population.</p>
+
+<p>The result was countless formulaic imitations
+of the basic ingredients of <title level="m">The Virginian</title>,
+notably by Zane Grey, Max Brand (pen name
+of Frederick Faust), Ernest Haycox, and Louis
+L'Amour. Directing their novels initially at the
+readers of pulp magazines, these writers reduced
+the plot of <title level="m">The Virginian</title> to a heroic
+adventure formula with a limited number of
+variations: the conflict between ranchers and
+settlers or between cattlemen and sheep men,
+the story of the cowboy turned gunfighter, the
+conflict between cavalry and Indians, adventures
+accompanying the construction of the
+transcontinental railroad, and the former
+outlaw-turned-marshal haunted by his past,
+all revolving around a love story. These "romantic"
+Westerns reaffirm the dominance of
+male-dominated western values such as monogamous
+love, instinctive rather than institutional
+Christianity, a patriarchal family
+structure, and the justified use of violence in
+defense of these values. Females are civilizers
+and therefore initially hostile to this code of
+behavior, but they are always converted to accepting
+the male view in the end. Thus Wister's
+attempt to represent the allegorical forces
+vying for dominance in a future American society
+was reduced to a formulaic erotic struggle
+between a western male and an eastern
+female.</p>
+
+<p>This nostalgic fantasy of the victory of male
+western values became more and more unsustainable
+as the vision of the Old West was
+blurred by the counterimage of contemporary
+urban, industrial society. In the 1950s the tone
+of the Western became darker and more cynical,
+the young cowboy heroes giving way to
+jaded older men, mainly sheriffs and marshals,
+confronted with an apathetic population,
+increasingly organized villains, and more
+ambiguously virtuous women. The optimistic
+"myth of foundation" of the romantic Western
+gave way to the "myth of transition," the
+need to save what could be saved of traditional
+western values in a modern world that has lost
+its way. This view is mainly expressed in the
+classic Western films of the period, notably
+<title level="m">High Noon</title> (1952), <title level="m">Shane</title> (1953, based on the
+novel by Jack Schaefer), John Ford's <title level="m">The Man Who Shot Liberty Valance</title> (1962), and <title level="m">Cheyenne Autumn</title> (1964, based on the novel by
+Mari Sandoz).</p>
+
+<p>In the second half of the twentieth century
+the classic formula of the Western came under
+pressure from the counterculture of the 1960s
+and the revisionist New Western historians.
+Minority groups and women began to claim
+their rightful place in western popular fiction,
+and former heroes of the West were now cast in
+the role of villains, as can be seen in Thomas
+Berger's <title level="m">Little Big Man</title> (1964) and the 1990 film
+<title level="m">Dances with Wolves</title>.</p>
+
+<p>Although the traditional popular Western
+has been in decline in print, in film, and on
+television after its heyday in the 1950s, it is too
+early to pronounce it moribund, as some commentators
+have done recently. If anything, the
+Western is moving away from its formulaic,
+ultraconservative past to become a part of the
+more sensitive, diverse mainstream of literature
+about the American West, as evidenced by
+the novels of Larry McMurtry (<title level="m">Leaving Cheyenne</title>,
+1962; <title level="m">Lonesome Dove</title>, 1985) and Elmer
+Kelton (<title level="m">The Day the Cowboys Quit</title>, 1971; <title level="m">The Man Who Rode Midnight</title>, 1987). But for aficionados
+of the more formulaic Westerns,
+there are the excellent, historically well-researched
+Plains Western series of Terry C.
+Johnston (some thirty novels in his Plainsman
+series), Richard S. Wheeler (his Barnaby Sky
+series, which focuses on Plains Indian cultures),
+Tabor Evans (the prolific author of the
+Longarm series), and Harry Combs to ensure
+the continued viability of the most American
+of literary genres.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.016"><hi rend="italic"><title>Dances with Wolves</title></hi></ref>; <ref n="egp.fil.064">Westerns</ref>.</p>
+
+<closer>
+<signed>Franz G. Blaha<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cawelti, John G. <title level="m">The Six-Gun Mystique</title>. Bowling Green
+<hi rend="smallcaps">OH</hi>: Popular Press, 1971.</bibl> <bibl>Durham, Philip, and Everett L.
+Jones. <title level="m">The Western Story: Fact, Fiction, and Myth</title>. New
+York: Harcourt Brace, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

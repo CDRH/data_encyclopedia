@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Union Colony</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Union Colony."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">864</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UNION COLONY</head>
+
+<p>The Union Colony of Greeley, Colorado, was
+one of the most successful irrigation-based
+settlements in the Great Plains. It was organized
+by Horace Greeley, who, following his
+own famous advice, traveled west in 1859 and
+included a visit to Colorado. Ten years later, he
+sent a colleague, Nathan Meeker, to search out
+a suitable site for a colony based on irrigated
+farming. A site near the junction of the Cache
+la Poudre and South Platte Rivers was chosen
+in 1870&#8211;a block of land purchased from the
+Denver Pacific Railroad&#8211;and by May colonists
+were arriving from Chicago, Buffalo,
+Boston, and New York.</p>
+
+<p>Requirements for membership in the colony
+included a $155 fee and a good moral character.
+From the beginning, the success of the
+colony depended upon control of water. In
+exchange for their fee, colonists received a
+farming tract of five, ten, twenty, or forty acres,
+the size increasing with distance from the central
+hub of Greeley, as well as guaranteed water
+rights. Within a month, water was flowing
+through ditches to cultivated fields of wheat,
+corn, and vegetables. Within a year, thirty-six
+miles of main canals had been built, and a grid
+of lateral ditches brought a potential 60,000
+acres within reach of irrigation. The largest
+canal was twenty-seven miles long, thirty feet
+wide, and four and one-half feet deep and carried
+water from the floodplain to the adjacent
+benchlands. The town of Greeley flourished,
+reaching a population of 1,500 in May of 1871.
+The growth was sustained, and by 1873 the
+colony structure was unable to accommodate
+the expansion and was disbanded. However,
+from this successful start, Greeley and the surrounding
+area have remained one of the most
+productive portions of the Colorado Piedmont
+and are still a center of irrigated farming.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Willard, James F. <title level="m">The Union Colony at Greeley, Colorado,
+1869–1871</title>. Boulder: University Press of Colorado, 1918.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

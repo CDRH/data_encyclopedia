@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mores, Marquis de (1858-1896)</title>
+<title level="m" type="sub"></title>
+<author>Janet Daley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Daly, Janet">Janet Daly</author>. <title level="a">"Mores, Marquis de (1858-1896)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">242</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MORES, MARQUIS DE (1858-1896)</head>
+
+<p>The Marquis de Mores was a part-time resident
+of the Badlands of western Dakota Territory
+for only three years, 1883–86, but the
+French nobleman left his mark on the region's
+history. The village he founded and named
+after his wife, Medora, is a thriving tourist site
+where the tall, brick chimney of his meatpacking
+plant still stands as a lonely symbol of his
+ambitious business enterprises.</p>
+
+<p>Born in Paris on June 14, 1858, Antoine-
+Amedee-Marie-Vincent-Amat Manca de Vallombrosa
+was well educated and fluent in English,
+German, and Italian. He fell in love
+with a young American woman, Medora von
+Hoffman, the daughter of a wealthy New York
+banker, and they were married on February
+15, 1882, in Cannes, France. Working in
+his father-in-law's Wall Street bank, de Mores
+looked for investment opportunities, and in
+April 1883 he chose a site near the Little Missouri
+River in the Dakota Badlands as the
+place to make his entrepreneurial dreams a
+reality. He formed a corporation known as the
+Northern Pacific Refrigerated Car Company
+and began buying cattle and building abattoirs,
+a meatpacking plant, and a railway spur
+to provide growing eastern markets with fresh
+meat shipped directly from the range in refrigerated
+railcars. In addition, the Marquis
+built a large home (today known as the Chateau
+de Mores State Historic Site), a hotel, a
+Roman Catholic church, blocks of businesses,
+and a brick home for his in-laws. Many of the
+structures still stand.</p>
+
+<p>The Marquis and his family typically spent
+part of the year, from the late spring to the
+early fall, in Medora, where despite the challenges
+of his cattle and ranching operations,
+the Marquis found time, money, and energy to
+invest in sheep and horses, ship salmon in
+from the Columbia River, and begin a stage
+and freight line between Medora and Deadwood
+in present-day South Dakota. Though
+the Marquis had the financial backing of
+his father-in-law, his many business ventures
+failed: opposition from other meat dealers in
+Chicago and New York limited his beef distribution
+efforts, and the stage line lost its bid
+for the mail contract, which left it unprofitable.
+Though the Marquis participated in
+stockmen's associations and entertained guests
+such as fellow rancher Theodore Roosevelt, he
+could not escape controversy. Charged with
+the 1883 murder of a Badlands cowboy, Riley
+Luffsey, the Marquis was tried and acquitted
+three times. The de Mores family left Medora
+in the fall of 1886, but the Marquis continued
+to attract attention. When he moved from the
+United States to France, his anti-Semitic positions
+and views on social reform brought
+him disapproval and arrest. In June 1896 he
+was killed in North Africa and was buried in
+Cannes, France.</p>
+
+<closer>
+<signed>Janet Daley<lb/>
+State Historical Society of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Arnold O. Goplen. <title level="m">The Career of the Marquis de Mores in the Badlands of North Dakota</title>. Bismarck: State Historical
+Society of North Dakota, 1994.</bibl> <bibl>Virginia Heidenreich-
+Barber, ed. <title level="m">Aristocracy on the Western Frontier: The Legacy of the Marquis de Mores</title>. Bismarck: State Historical Society
+of North Dakota, 1994.</bibl> <bibl>D. Jerome Tweton. "The Marquis
+de Mores and His Dakota Venture: A Study in Failure."
+<title level="j">Journal of the West</title> 6 (1967): 521–34.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

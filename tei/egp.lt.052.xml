@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.lt.052 SYSTEM "egp.lt.052.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Neihardt, John G. (1881-1973)</title>
+<title level="m" type="sub"></title>
+<author>Lori Utecht</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Utecht, Lori">Lori Utecht</author>. <title level="a">"Neihardt, John G. (1881-1973)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">488</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NEIHARDT, JOHN G. (1881-1973)</head>
+
+<figure n="egp.lt.052" rend="granted">
+<figDesc>Black Elk and John G. Neihardt at the Sioux Victory celebration at Pine Ridge, South Dakota, September 1945</figDesc>
+</figure>
+
+<p>John G. Neihardt was born near Sharpsburg,
+Illinois, on January 8, 1881. After living for
+a time in a sod house in western Kansas and
+then in Kansas City, he moved to Wayne, Nebraska,
+where he graduated from Nebraska
+Normal College at age sixteen and wrote and
+published his first book, <title level="m">The Divine Enchantment</title>
+(1900), which was based on Vedanta
+philosophy.</p>
+
+<p>In 1900 Neihardt moved to Bancroft, Nebraska.
+He edited the local newspaper, worked
+as a clerk on the Omaha Reservation, and
+wrote lyric poetry, short stories, and novels.
+<title level="j">Outing Magazine</title> commissioned Neihardt to
+record his experiences on a 2,000-mile trip
+down the Missouri River in 1908, later published
+as <title level="m">The River and I</title> (1910). That same
+year, Neihardt married Mona Martinsen, a
+sculptor and former student of Rodin. They
+had four children: Enid, Sigurd, Hilda, and
+Alice.</p>
+
+<p>Neihardt wrote literary columns for a number
+of newspapers, including the <title level="j">Minneapolis Journal</title> (1911–21) and the <title level="j">St. Louis Post-Dispatch</title>
+(1926–38), producing nearly 3,000 essays and
+reviews. In 1912 Neihardt began work on his
+five-volume epic <title level="m">Cycle of the West</title>. The <title level="m">Cycle</title>,
+completed in 1941, recounts tales of American
+explorers and fur traders of the trans-Missouri
+country (<title level="m">The Song of Hugh Glass</title>, 1915; <title level="m">The Song of the Three Friends</title>, 1919; and <title level="m">The Song of Jedediah Smith</title>, 1941) and of the Native peoples
+dispossessed by those explorers and, later,
+settlers (<title level="m">The Song of the Indian Wars</title>, 1925; <title level="m">The Song of the Messiah</title>, 1935). While researching
+The Song of the Messiah, Neihardt met an
+Oglala Lakota holy man, Black Elk, whose vision
+he recorded in <title level="m">Black Elk Speaks</title> (1932).</p>
+
+<p>In 1921 Neihardt was named poet laureate
+of Nebraska. From 1949 until 1966 he was poet
+in residence and lecturer at the University of
+Missouri. He was working on a second volume
+of his autobiography when he died on
+November 3, 1973, in Lincoln, Nebraska.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.005">Black Elk, Nicholas</ref>.</p>
+
+<closer>
+<signed>Lori Utecht<lb/>
+John G. Neihardt Center</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Aly, Lucile T. <title level="m">John G. Neihardt: A Critical Biography</title>. Amsterdam:
+Rodopi, 1977.</bibl> <bibl>Whitney, Blair. <title level="m">John G. Neihardt</title>.
+Boston: G. K. Hall, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

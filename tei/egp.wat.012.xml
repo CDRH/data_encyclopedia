@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kettle Lakes</title>
+<title level="m" type="sub"></title>
+<author>Thomas C. Winter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Winter, Thomas C.">Thomas C. Winter</author>. <title level="a">"Kettle Lakes."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">855</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KETTLE LAKES</head>
+
+<p>Kettle lakes are a landscape feature characteristic
+of glacial terrain. When glaciers that
+covered the Northern Great Plains melted, the
+rock materials that were incorporated in and
+on top of the glaciers remained on the land
+surface. These materials commonly enclosed
+blocks of glacial ice that took many years to
+melt because they were insulated from solar
+radiation by the surrounding rock materials.
+When the buried ice blocks finally melted,
+they left a depression in the landscape. If the
+area was wet enough to have a high water
+table, the depressions filled with water to form
+kettle lakes. These lakes commonly are isolated
+from one another with respect to surface
+drainage. They accumulate water from precipitation,
+overland runoff, and groundwater,
+and they lose water to evaporation and seepage
+to groundwater.</p>
+
+<p>The region of the Great Plains most recently
+covered by continental glaciers lies within the
+southern parts of Alberta, Saskatchewan, and
+Manitoba in Canada, and north and east of the
+Missouri River in Montana, North Dakota,
+and South Dakota in the United States. Kettle
+lakes, commonly called prairie sloughs in Canada
+and prairie potholes in the United States,
+are a defining landscape feature in this region
+because of their abundance. The great majority
+of kettle lakes are very shallow (less than ten
+feet deep), but a few are nearly as deep as the
+thickness of the glacial deposits that surround
+them (as much as 100 feet deep).</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.029">Glaciation</ref>.</p>
+
+<closer>
+<signed>Thomas C. Winter<lb/>
+U.S. Geological Survey, Denver</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

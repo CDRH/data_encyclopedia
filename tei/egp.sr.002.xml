@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.002 SYSTEM "egp.sr.002.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Alexander, Grover Cleveland (1887-1950)</title>
+<title level="m" type="sub"></title>
+<author>Andrea I. Faling</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Faling, Andrea I.">Andrea I. Faling</author>. <title level="a">"Alexander, Grover Cleveland (1887-1950)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">766</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALEXANDER, GROVER CLEVELAND (1887-1950)</head>
+
+<figure n="egp.sr.002" rend="granted">
+<figDesc>Grover Cleveland Alexander</figDesc>
+</figure>
+
+<p>One of baseball's greatest pitchers, Grover
+Cleveland Alexander was inducted into the
+National Baseball Hall of Fame in 1938. His
+twenty-year career produced 373 victories,
+tying him with Christy Mathewson for most
+victories by a National League pitcher and
+placing him behind only Cy Young and Walter
+Johnson for major-league wins.</p>
+
+<p>The son of an Elba, Nebraska, farmer, Alexander
+was born on February 26, 1887. His
+major-league career began in 1911 with the
+Philadelphia Phillies. At the end of his rookie
+season, he led the league in victories, shutouts,
+complete games, and innings pitched. From
+1913 to 1917 Alexander's record was a stunning
+143 wins and 50 losses. In the 1915 World Series
+he pitched the Phillies' only victory.</p>
+
+<p>From 1919 to 1925 Alexander was the mainstay
+of the Chicago Cubs pitching staff. Placed
+on waivers in 1926, he was picked up by the St.
+Louis Cardinals and helped them clinch a
+pennant. The 1926 World Series against the
+New York Yankees produced Alexander's most
+remembered achievement, as he won two
+games and, in game seven, struck out Tony
+Lazzeri with the bases loaded.</p>
+
+<p>After his 373rd victory in 1929, Alexander
+went on a drinking binge that ended his season.
+With the Phillies in 1930, he lost three
+starts, and his major-league career was over.
+Drinking problems marred his remaining
+years. He died in St. Paul, Nebraska, on November
+4, 1950. A 1952 film biography starring
+Ronald Reagan, <title>The Winning Team</title>, highlighted
+Alexander's 1926 World Series heroics
+while downplaying his alcoholism.</p>
+
+<closer>
+<signed>Andrea I. Faling<lb/>
+Nebraska State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Faling, Andrea I. "His Own Worst Enemy: The Rise and
+Fall of Grover Cleveland Alexander." <title level="j">Nebraska History</title> 71
+(1990): 3–12.</bibl> <bibl>Kavanagh, Jack. <title level="m">Ol' Pete: The Grover Cleveland
+Alexander Story</title>. South Bend <hi rend="smallcaps">IN</hi>: Diamond Communications,
+1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

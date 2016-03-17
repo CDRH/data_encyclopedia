@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.012 SYSTEM "egp.ct.012.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cheyenne, Wyoming</title>
+<title level="m" type="sub"></title>
+<author>Mark Elliott</author>
+<author>Jim Johns</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Elliott, Mark">Mark Elliott</author> and <author n="Johns, Jim">Jim Johns</author>. <title level="a">"Cheyenne, Wyoming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">162-163</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHEYENNE, WYOMING</head>
+
+<figure n="egp.ct.012" rend="granted">
+<figDesc>A stereograph of Cheyenne, Wyoming, 1869</figDesc>
+</figure>
+
+<p>Cheyenne, the capital city of Wyoming, is located
+in Laramie County on the semiarid
+High Plains at an elevation of 6,100 feet. In
+2000 the city's population was 53,000. The
+Union Pacific Railroad gave birth to Cheyenne
+during the summer of 1867 when its chief engineer,
+Maj. Gen. Grenville M. Dodge, selected
+and surveyed the site as a supply depot.
+The city was named for the Cheyenne Indians,
+who ranged in the area and had engaged in
+hostilities with Dodge. The name Cheyenne is
+probably a Lakota term meaning "people of
+different speech" or "red talkers." The town
+literally sprang into existence, engulfed by
+numerous barkeeps, gamblers, merchants,
+and prostitutes who inhabited the "Hell on
+Wheels" communities that traveled with the
+construction gangs of the railroad. By November
+13, 1867, when the first train arrived,
+Cheyenne's population had grown rapidly to
+4,000. At first, the city was part of the Dakota
+Territory, but in 1869 Cheyenne was selected
+as the territorial capital of the newly established
+Wyoming Territory. A few miles northwest
+of the city the army built Fort D. A. Russell
+and Camp Carlin, a major quartermaster
+supply depot.</p>
+
+<p>In 1875, with the discovery of gold in the
+Black Hills, Cheyenne became an outfitting
+center for miners and stage passengers on their
+journey to the mines. The railroad was also
+essential in the development of the prosperous
+Wyoming livestock industry, and Cheyenne
+became the center of the territory's cattle
+boom. Wealthy ranchers built luxurious
+homes in a neighborhood dubbed Millionaires'
+Row and mingled at the elegant Cheyenne
+Club. Because of its rapid birth and ability
+to recover from periodic economic slumps,
+Cheyenne was called the "Magic City of the
+Plains." As the city matured during the territorial
+period (1869–90), it also developed a
+reputation as a social and cultural center. The
+city was notable for its opera house, the Atlas
+Theater, the Cheyenne Club, the Inter-Ocean
+Hotel, numerous retail businesses, and more
+than forty lavish mansions. The success and
+wealth of the city attracted western legends
+such as Wild Bill Hickok, Calamity Jane, Buffalo
+Bill Cody, Tom Horn, and Wyatt Earp,
+who rode shotgun on the Cheyenne–Black
+Hills stage.</p>
+
+<p>Historically, government has been an important
+economic base of Cheyenne, especially
+after the creation of the state of Wyoming
+in 1890. Among the city's prominent
+politicians and judges have been Joseph M.
+Carey, U.S. attorney for the territory of Wyoming,
+justice of the Wyoming Supreme Court,
+territorial delegate to Congress, U.S. senator,
+and Wyoming governor; Willis Van Devanter,
+who held the positions of chief of the territorial
+court and federal court justice and was
+appointed to the U.S. Supreme Court in 1910;
+and Francis E. Warren, a rival to Joseph Carey
+who was perhaps Cheyenne's most distinguished
+citizen. He served as territorial governor,
+first governor of the state of Wyoming,
+and U.S. senator for thirty-seven years.</p>
+
+<p>Transportation has always been an important
+economic and cultural stimulus for Cheyenne.
+For years Cheyenne was a repair terminal
+and passenger depot for the Union
+Pacific. As the railroad's impact on the community
+subsided, Cheyenne benefited from its
+location along the Lincoln Highway, the nation's
+first coast-to-coast automobile thoroughfare,
+and today the city has the advantage
+of being at the junction of Interstates 80 and
+25. Its economic base still includes agriculture,
+cattle, sheep, and the railroad, but its major
+economic benefits derive from the presence
+of federal and state governments and
+Warren Air Force Base. Cheyenne's most important
+tourist attraction is the Frontier Days
+rodeo, popularly known as the "Daddy of 'Em
+All." Regarded as one of the largest and oldest
+continuous rodeos in the country, Frontier
+Days held its first Wild West celebration on
+September 23, 1897.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: 
+<ref n="egp.pg.086">Warren, Francis</ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.045">Rodeo</ref> / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.009">Dodge, Grenville</ref>.</p>
+
+<closer>
+<signed>Mark Elliott<lb/>
+Jim Johns<lb/>
+Laramie County Community College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Adams, Judith. <title level="m">Cheyenne: City of Blue Sky</title>. Northridge <hi rend="smallcaps">CA</hi>:
+Windsor Publications, 1988.</bibl> <bibl>Carley, Maurice, William Dubois,
+and Katherine Halverson. <title level="m">Cheyenne: The Magic City of the Plains</title>. Cheyenne <hi rend="smallcaps">WY</hi>: Cheyenne Centennial Committee,
+1967.</bibl> <bibl>Field, Sharon Lass, ed. <title level="m">History of Cheyenne, Wyoming</title>. Dallas: Curtis Media Corporation, 1989.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

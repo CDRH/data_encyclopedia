@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Douglas, Thomas (Earl of Selkirk) (1771-1820)</title>
+<title level="m" type="sub"></title>
+<author>Anne Kelsch</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kelsch, Anne">Anne Kelsch</author>. <title level="a">"Douglas, Thomas (Earl of Selkirk) (1771-1820)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">229</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOUGLAS, THOMAS (EARL OF SELKIRK) (1771-1820)</head>
+
+<p>Thomas Douglas, Fifth Earl of Selkirk, organized
+the first European settlement colony in
+the Northern Great Plains. He was born at St.
+Mary's Isle, Scotland, on June 20, 1771, the
+youngest son in a large family. In 1806 he was
+elected to the House of Lords, but his main
+interest lay in settlement schemes. In <title level="m">Observations on the Present State of the Highlands of Scotland</title> (1805) Selkirk proposed government-sponsored
+emigration as a solution to poverty
+and potential rebellion incited by "progressive"
+land use. Unable to secure official support,
+he pursued private projects in Upper
+Canada. Selkirk intended to help Highlanders
+who had been displaced by large-scale sheep
+farming to preserve their language, cultural
+identity, and allegiance to the crown by relocating
+them within the British Empire. In
+1811 Selkirk acquired Assiniboia from the Hudson's
+Bay Company, a land grant for peasants
+dispossessed of their homes during the Highland
+clearances. Selkirk's grant encompassed
+116,000 square miles of present-day Manitoba,
+Ontario, Saskatchewan, North Dakota, and
+Minnesota&#8211;an area five times the size of
+Scotland.</p>
+
+<p>Inspired by Sir Alexander McKenzie's glowing
+description in <title level="m">Voyages from Montreal</title>
+(1801), Selkirk focused his efforts on the rich
+agricultural potential of the Red River Valley,
+which fell within the chartered land of the
+Hudson's Bay Company. Selkirk gained influence
+in the company through marriage and
+major stock purchase. With the company experiencing
+financial difficulties, caused in part
+by their rivalry with the North West Company,
+Selkirk successfully argued in favor of
+an agricultural settlement. The Red River Valley
+offered abundant natural resources, was an
+ideal staging ground for fur-rich western regions,
+and settlement would interfere with the
+North West Company's trade. Recruited in the
+Highlands, settlers first arrived at the confluence
+of the Red and Assiniboine Rivers
+(present-day Winnipeg) via Hudson's Bay in
+1812. Despite extreme hardship in an isolated,
+harsh environment, and Selkirk's failure to
+obtain military protection, the population of
+the Red River Settlement grew to several hundred
+by 1816. With aid from local Saulteaux
+and Metis, settlers wintered at the buffalo
+feeding grounds near the confluence of the
+Red and Pembina Rivers, where they constructed
+Fort Daer, the first European settlement
+in present-day North Dakota.</p>
+
+<p>In 1815 Selkirk arrived in North America to
+attend to court proceedings in the escalating
+dispute over jurisdiction between the
+Hudson's Bay and North West Companies.
+Before these issues could be resolved legally,
+the trade feud became violent. In the Seven
+Oaks Massacre on June 19, 1816, M&#233;tis (debatably
+armed and encouraged by Nor'westers)
+burned houses and crops, killing twenty-one
+settlers and dispersing the colony. Selkirk
+spent the summer of 1817 at Red River Settlement
+negotiating a treaty with the Indians and
+trying to secure the colonists' title to the land,
+before returning to Montreal. That year colonists
+returned, greatly encouraged by Selkirk's
+visit to the Red River.</p>
+
+<p>Having taken direct charge in the offensive
+against the North West Company, Selkirk
+overstepped his authority and became deeply
+entangled in an exchange of charges and
+countercharges that would absorb his intellectual
+and financial resources for the brief remainder
+of his life. Weakened by consumption,
+he returned to England in 1818. He
+traveled to France seeking better health but
+died there in 1820. The following year the
+trading companies merged. Although the colony
+continued to face environmental hardships,
+it slowly grew. In the late 1830s Selkirk's
+Settlement began to thrive when an overland
+route tied the settlement to the growing outpost
+of St. Paul on the Mississippi River.</p>
+
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.014">Danish Architecture</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.043">Mount Rushmore National Memorial</ref>.</p>
+
+<closer>
+<signed>Marianne St&#248;len<lb/>
+University of Washington</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bender, H., and B. Flemming Larsen, eds. <title level="m">Danish Emigration to Canada</title>. Aalborg, Denmark: Danes Worldwide Archives,
+1991.</bibl> <bibl>Hvidt, Kristian. <title level="m">Flight to America: The Social Background of 300,000 Danish Emigrants</title>. New York: Academic
+Press, 1975.</bibl> <bibl>Nielsen, George R. <title level="m">The Danish Americans</title>.
+Boston: Twayne Publishers, 1981.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

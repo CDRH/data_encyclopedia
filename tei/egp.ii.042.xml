@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Missile Silos</title>
+<title level="m" type="sub"></title>
+<author>Steve Slate</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Slate, Steve">Steve Slate</author>. <title level="a">"Missile Silos."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">392</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MISSILE SILOS</head>
+<figure n="egp.ii.042" rend="granted">
+<figDesc> </figDesc>
+</figure>
+
+<p>Across the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, from <geogName rend="region" reg="Northern Colorado">northern Colorado</geogName> into <geogName rend="region" reg="Western Nebraska">western Nebraska</geogName> and throughout <placeName rend="state" key="wy" reg="Wyoming">Wyoming</placeName>, <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName>, and <placeName rend="state" key="mt" reg="Montana">Montana</placeName>, are the missile fields of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> nuclear program. Each of the three Strategic Missile Wings at <placeName rend="base" key="base.mt.mafb" reg="Malmstrom Air Force Base">Malmstrom Air Force Base, Montana</placeName>, <placeName rend="base" key="base.wy.fewafb" reg="F. E. Warren Air Force Base">F. E. Warren Air Force Base, Wyoming</placeName>, and <placeName rend="base" key="base.nd.mafb" reg="Minot Air Force Base">Minot Air Force Base, North Dakota</placeName>, has oversight and control over the missile force, which is comprised of Minuteman III and Peacekeeper missiles. Each of these missiles is stored, ready to launch, in its own hardened launch facility, commonly called a missile silo.</p>
+
+<p>Missile silos are scattered across such vast expanses so that potential adversaries would have to target each missile individually. For instance, the missile field of <placeName rend="base" key="base.wy.fewafb" reg="F. E. Warren Air Force Base">F. E. Warren Air Force Base</placeName> includes portions of <geogName rend="region" reg="Western Nebraska">western Nebraska</geogName>, <geogName rend="region" reg="Northern Colorado">northern Colorado</geogName>, and <geogName rend="region" reg="Eastern Wyoming">eastern Wyoming</geogName>, an area of more than 12,000 square miles. A chain-link fence, barbed wire, and an array of motion-detection devices enclose each silo. Armed guards routinely inspect each site and respond immediately to any attempted unauthorized access. Visible from the surface is each silo's 110-ton blast door, which looks like a well-guarded slab of concrete. Stored below is the missile that, in a true launch situation, would emerge after the door was blasted off the silo opening by explosive charges. The missiles are stored underground to provide protection from the elements and from attack. Not much of a silo is visible from above, but the depth of a missile silo that accommodates either a Peacekeeper or Minuteman missile exceeds 100 feet.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.009">Cold War Architecture</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.012">Cold War</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Steve Slate<lb/>
+United States Air Force Academy</hi></signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

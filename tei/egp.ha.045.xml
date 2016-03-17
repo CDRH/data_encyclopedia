@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tafoya, Jos&#233; Piedad (c. 1830-?)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Tafoya, Jos&#233; Piedad (c. 1830-?)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">368-369</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TAFOYA, JOS&#201; PIEDAD (c. 1830-?)</head>
+
+<p>Sometimes called the "Prince of the Comancheros,"
+Jos&#233; Piedad Tafoya was born in northern
+New Mexico around 1830. He was in the
+Great Plains as early as 1859 with his father,
+who was scouting for a survey party along the
+Texas–New Mexico border. Although Tafoya
+owned a large sheep ranch in San Miguel
+County, New Mexico Territory, by the early
+1860s he was heavily involved in the <hi rend="italic">comanchero</hi>
+trade on the Texas Llano Estacado&#8211;
+comancheros traded livestock, horses, and
+manufactured goods with Plains Indians, particularly
+the Comanches. During the Civil War,
+when the U.S. military and the Texas Rangers
+had little control over the Southern Plains, Tafoya
+operated a trading post in present-day
+Briscoe County, Texas, where he traded stolen
+Texas cattle and horses.</p>
+
+<p>Comancheros began losing business during
+the 1870s Plains Indian Wars. Because of their
+knowledge of the Southern Plains and familiarity
+with the Plains Indians, the military enlisted
+or conscripted many comancheros as
+guides, interpreters, and scouts. In 1874 Col.
+Ranald S. Mackenzie allegedly forced Tafoya
+to serve as a scout in the campaigns against the
+Comanches. At the end of the Southern Plains
+Indian Wars, Tafoya and other former comancheros,
+such as Casimero Romero and Juan
+Trujillo, herded sheep in the Texas Panhandle.
+By the early 1880s, however, most had been
+forced out by large cattlemen, and Tafoya
+moved his wife and four children back to his
+ranch in New Mexico. In 1893 the U.S. Court
+of Claims subpoenaed Tafoya and several ex-comancheros
+as witnesses for Indian depredation
+cases. Based upon Tafoya's testimony,
+Charles Goodnight and other Texas ranchers
+were awarded $14,176. Tafoya probably spent
+his remaining years on the family ranch and
+died in obscurity sometime after 1893.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kenner, Charles Leroy. <title level="m">A History of New Mexico–Plains Indian Relations</title>. Norman: University of Oklahoma Press,
+1969.</bibl> <bibl>Rathjen, Frederick W. <title level="m">The Texas Panhandle Frontier</title>.
+Austin: University of Texas Press, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Longhorn Cattle</title>
+<title level="m" type="sub"></title>
+<author>Kenneth C. Dagel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dagel, Kenneth C.">Kenneth C. Dagel</author>. <title level="a">"Longhorn Cattle."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">392</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LONGHORN CATTLE</head>
+<figure n="egp.ii.039" rend="granted">
+<figDesc>Texas Longhorn</figDesc>
+</figure>
+
+<p>The Texas longhorn (<hi rend="italic">Bos texanus</hi>) is a breed of cattle that developed largely from feral Andalusian stock in <geogName rend="region" reg="Southern Texas">southern Texas</geogName>. Along with the cowboys who herded and drove them, the longhorns became an American icon. A headon image of a longhorn, which can have a horn spread of forty inches or more, is emblazoned on countless football helmets, in <placeName rend="state" key="tx" reg="Texas">Texas</placeName> and elsewhere, and on numerous other products. In <placeName rend="state" key="tx" reg="Texas">Texas</placeName> alone, twenty-four schools use the longhorn as their mascot. The mere symbol of the longhorn imparts a sense of the adventure, power, strong will, and independence often associated with the frontier spirit.</p>
+
+<p>The longhorn is descended from cattle first found in the Andalusian area of the <geogName rend="peninsula" reg="Iberian Peninsula">Iberian peninsula</geogName>. Living wild in what is now <geogName rend="region" reg="Southern Texas">southern Texas</geogName> for nearly 350 years produced changes in body style and temperament that came to characterize the Texas longhorn breed. The longhorn is famous for its durability on the open range, its resistance to Texas (splenic) fever, and its high reproductive rate. Thousands were rounded up after the Civil War and driven north on the <placeName rend="trail" key="tra.sha" reg="Shawnee Trail">Shawnee</placeName> (Sedalia), <placeName rend="trail" key="tra.chi" reg="Chisolm Trail">Chisholm</placeName>, <placeName rend="trail" key="tra.wes" reg="Western Trail">Western</placeName>, <placeName rend="trail" key="tra.tex" reg="Texas Trail">Texas</placeName>, and <placeName rend="trail" key="tra.glt" reg="Goodnight-Loving Trail">Goodnight-Loving Trails</placeName> and shipped by rail to eastern markets.</p>
+
+<p>The economic benefits derived from more heavily marbled beef and the desire to own more docile animals inspired ranchers to upgrade their cattle with northern European bloodlines, and longhorn numbers declined dramatically after 1888. Through the efforts of several dedicated ranchers since the 1920s, the longhorn has been reestablished in the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> and is maintained by the <orgName rend="association" key="assoc.tlbaa" reg="Texas Longhorn Breeders Association of America">Texas Longhorn Breeders Association of America</orgName>. The official Texas longhorn herd is kept at <orgName rend="monument" key="mon.fghp" reg="Fort Griffin Historical Park">Fort Griffin Historical Park</orgName> northeast of <placeName rend="settlement" key="ks.abi" reg="Abilene, Kansas">Abilene</placeName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.007">Cattle Trails</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Kenneth C. Dagel<lb/>
+Missouri Western State College</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Dobie, J. Frank. <title level="m">The Longhorns</title>. New York: Grosset and Dunlap, 1941.</bibl> <bibl>Jordan, Terry G. <title level="m">North American Cattle-Ranching Frontiers: Origins, Diffusion, and Differentiation</title>. Albuquerque: University of New Mexico Press, 1993.</bibl> <bibl>Rouse, John E. <title level="m">Cattle of North America</title>. Norman: University of Oklahoma Press, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

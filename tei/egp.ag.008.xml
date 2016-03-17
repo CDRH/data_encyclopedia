@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.008 SYSTEM "egp.ag.008.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Alfalfa</title>
+<title level="m" type="sub"></title>
+<author>Martin A. Massengale</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Massengale, Martin A.">Martin A. Massengale</author>. <title level="a">"Alfalfa."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">34-35</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ALFALFA</head>
+
+<figure n="egp.ag.008" rend="granted">
+<figDesc>Alfalfa harvest, Huntley Irrigation Project, Montana, 1914</figDesc>
+</figure>
+
+<p>Alfalfa (<hi rend="italic">Medicago</hi> sp.), a valuable forage crop,
+is grown widely throughout the Great Plains
+under both irrigated and dryland conditions.
+Alfalfa is a perennial with a deep-penetrating
+taproot, which gives it considerable resistance
+to drought. The plant needs a deep, welldrained
+soil with a pH level that is near neutral
+or slightly above for maximum production.
+When planting alfalfa into soils that have
+not grown the crop for many years, the seeds
+are commonly inoculated with an effective
+strain of <hi rend="italic">Rhizobium</hi> bacteria for nodulation
+and thus nitrogen fixation.</p>
+
+<p>Alfalfa is often characterized into northern,
+southern, or intermediate types based on their
+degree of winter hardiness. The less winterhardy
+types produce higher yields because
+they recover and grow more rapidly after cutting,
+but they will not survive the cold winters
+of the Northern Plains. In the Southern Great
+Plains, where there is a long growing season,
+five to seven cuttings may be taken per year,
+whereas in the north there may be only two or
+three cuttings. In the Northern Plains, where
+winter killing could be a problem, the last cutting
+occurs about four weeks before the first
+killing frost in order for the plants to manufacture
+and store sufficient carbohydrates and
+to develop cold resistance. With the availability
+of new disease-resistant cultivars, better
+adapted to wider climatic conditions, and
+with high levels of soil fertility, greater flexibility
+in fall cutting schedules is possible.</p>
+
+<p>Alfalfa is grown primarily for hay, but it
+is also widely used for pasture. Additional
+uses include ensilage, green chop, dehydrated
+meal, green manure, and seed production. Alfalfa
+hay&#8211;if harvested to preserve its nutritive
+value&#8211;is a highly nutritious and palatable
+feed for livestock. To maintain the high nutritive
+value of the stems and leaves and produce
+high yields, fields are harvested when about
+one-tenth of the stems have open flowers. Alfalfa
+is a superior pasture legume for numerous
+classes of livestock because of its high
+quality, high yield, and wide adaptation. It
+is an economical source of protein and provides
+a greater degree of flexibility in use than
+most forage plants. Grazing-type alfalfa cultivars
+have been developed more recently.
+Compared to cultivars grown for hay, these
+cultivars have broader and deep-set crowns,
+more branched rooting, and do not release all
+regrowth buds at the same time. One disadvantage
+of alfalfa for pasture is that it can
+cause bloat in cattle and sheep; however, bloat
+can be minimized by certain practices, such as
+growing alfalfa in combination with grasses.</p>
+
+<p>Alfalfa is susceptible to various diseases
+and insects. Resistance to many of these pests
+has been incorporated into the new cultivars.
+Most other insects and some diseases
+of economic importance can be controlled
+through the careful use of pesticides and harvest
+management.</p>
+
+<closer>
+<signed>Martin A. Massengale<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Graber, L. F. "A Century of Alfalfa Culture in America."
+<title level="j">Agronomy Journal</title> 42 (1950): 525–33.</bibl> <bibl>Hanson, A. A., ed.
+<title level="m">Alfalfa and Alfalfa Improvement</title>. Madison <hi rend="smallcaps">WI</hi>: American
+Society of Agronomy, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

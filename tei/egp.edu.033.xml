@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pound, Louise (1872-1958)</title>
+<title level="m" type="sub"></title>
+<author>Evelyn Haller</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Haller, Evelyn">Evelyn Haller</author>. <title level="a">"Pound, Louise (1872-1958)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">211-212</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POUND, LOUISE (1872-1958)</head>
+
+<p>Louise Pound was a scholar, teacher, and athlete
+who established the scholarly study of
+American speech and folklore. Pound signed
+her letters with the symbol for the British
+pound sterling with a likely sense of self-approbation.
+She was a pragmatic woman
+who chose to remain at the University of Nebraska
+in the city of her birth (June 30, 1872)
+for half a century despite an international
+reputation.</p>
+
+<p>At a time when ambitious women were not
+welcome in the academy, Pound was aware
+that a strong social and familial base in a relatively
+new western city like Lincoln would give
+her a grounding as firm as the three-story
+house in which she continued to live with her
+sister, Olivia. They had inherited the house
+from their father, Stephen Bosworth Pound, a
+lawyer, district court judge, and state senator,
+and their mother, Laura Biddlecomb Pound.
+The sisters, together with their brother, Roscoe
+(who became a leading legal theorist),
+had been educated at home by their mother,
+whose special interests were German language
+and literature as well as botany, to which she
+contributed by finding previously unidentified
+prairie flowers in the company of her children.
+After two years at the university's preparatory
+Latin school, Pound enrolled as a
+freshman at the university, from which she
+received a bachelor's degree with a diploma in
+music (piano) in 1892, having been class orator
+and poet. Pound earned her master's degree
+from the University of Nebraska in 1895.</p>
+
+<p>Reinforcing her sense of self-worth was
+Pound's astonishing ability at a variety of
+sports, including figure skating. As an undergraduate
+Pound became women's state tennis
+champion and university champion in men's
+singles and doubles, for which she earned a
+man's varsity letter. Pound also earned a string
+of bars for "century runs" (cycling 100 miles
+in twelve hours) and was variously coach, captain,
+and member of a women's basketball
+team that she strongly encouraged to play
+to win. (She later took issue with Mabel Lee
+over women's physical activity for fitness
+rather than for competition.) For more than
+twenty-five years Pound was a ranking women's
+golfer, and in 1955 she became the first
+woman elected to the Nebraska Sports Hall of
+Fame.</p>
+
+<p>Pound's academic capabilities as well as her
+impatience to get things done were signaled
+by her decision to get her doctorate from a
+German university. She went to Heidelberg,
+where she acquired the degree in two semesters
+rather than the usual seven. A considerable
+portion of Pound's academic work may
+be described as taxonomic in methodology (a
+familiar mode for her time), but she was also
+alert to and influenced by what was happening
+in adjacent fields such as botany as it
+was being redefined by Charles Bessey. Despite
+a heavy teaching load at the University
+of Nebraska, Pound published an impressive
+amount of scholarly work distinguished by
+common sense, as can be seen in her amusing
+piece on "Lovers' Leaps" in the posthumously
+published Nebraska Folklore (1959). H. L.
+Mencken acknowledged his debt to her in <hi rend="italic">The
+American Language: An Inquiry into the Development
+of English in the United States</hi> (1962)
+when he wrote that her "early work put the
+study of current American English on its legs."
+That Pound was an advocate of women's education
+is demonstrated by her willingness
+to speak to women's groups throughout the
+state, and she probably influenced many
+mothers to send their daughters to the university.
+As a gadfly she strove to improve the position
+of women at the University of Nebraska.
+In 1955, at eighty-two, she was also elected the
+first woman president of the Modern Language Association, which may have assuaged
+her disappointment at never having been
+chair of the English department, although
+outsiders often assumed she was. Pound died
+in Lincoln on June 28, 1958.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.043">Pound, Roscoe</ref>.</p>
+
+<closer>
+<signed>Evelyn Haller<lb/>
+Doane College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Haller, Evelyn. "Louise Pound's Work in Nebraska Folklore."
+<hi rend="italic">Nebraska Humanist</hi> 7 (1984): 44–47.</bibl> <bibl>Louise Pound
+Papers, Nebraska State Historical Society, Lincoln.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

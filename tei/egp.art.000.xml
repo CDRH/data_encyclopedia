@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.000 SYSTEM "egp.art.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Art</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+
+<div1 type="contents">
+
+<head>Art</head>
+
+<figure n="egp.art.000" rend="granted">
+<figDesc>Robert Lee Penn. Nightshield, 1990. Acrylic on canvas.</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.art.001">Art</ref></item>
+<item><ref n="egp.art.002">Adams, Robert</ref></item>
+<item><ref n="egp.art.003">Allen, Terry</ref></item>
+<item><ref n="egp.art.004">Art Museums</ref></item>
+<item><ref n="egp.pe.005">Audubon, John James</ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Physical Environment</hi></item>
+<item><ref n="egp.art.007">Bodmer, Karl</ref></item>
+<item><ref n="egp.art.007">Bugbee, H. D.</ref></item>
+<item><ref n="egp.art.008">Solomon Butcher</ref></item>
+<item><ref n="egp.art.009">Bywaters, Jerry</ref></item>
+<item><ref n="egp.art.010">Calgary Group</ref></item>
+<item><ref n="egp.art.011">Cameron, Evelyn</ref></item>
+<item><ref n="egp.ii.011">Carhenge <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.art.013"><hi rend="italic">Catlin, George</hi></ref></item>
+<item><ref n="egp.art.014">Curry, John Steuart</ref></item>
+<item><ref n="egp.afam.016">Douglas, Aaron <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.art.016">Dunbier, Augustus</ref></item>
+<item><ref n="egp.art.017">Dunn, Harvey</ref></item>
+<item><ref n="egp.art.018">Dust Bowl Photographers</ref></item>
+<item><ref n="egp.art.019">Emma Lake Artists' Workshops</ref></item>
+<item><ref n="egp.art.020">Evans, Terry</ref></item>
+<item><ref n="egp.art.021">Farny, Henry</ref></item>
+<item><ref n="egp.art.022">FitzGerald, Lionel LeMoine</ref></item>
+<item><ref n="egp.fol.012">Folk Art <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.fol.014">Folk Dance <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.art.025">Gilcrease, Thomas</ref></item>
+<item><ref n="egp.art.026">Gilder, Robert</ref></item>
+<item><ref n="egp.art.027">Gilpin, Laura</ref></item>
+<item><ref n="egp.art.028">Gohlke, Frank</ref></item>
+<item><ref n="egp.art.029">Greener, Charles Theodore</ref></item>
+<item><ref n="egp.art.030">Henri, Robert</ref></item>
+<item><ref n="egp.art.031">Herd, Stan</ref></item>
+<item><ref n="egp.art.032">Hogue, Alexandre</ref></item>
+<item><ref n="egp.art.033">Houser, Allan</ref></item>
+<item><ref n="egp.art.034">Howe, Oscar</ref></item>
+<item><ref n="egp.art.035">Howling Wolf</ref></item>
+<item><ref n="egp.art.036">Jackson, William Henry</ref></item>
+<item><ref n="egp.art.037">Jacobshagen, Keith</ref></item>
+<item><ref n="egp.art.038">Jefferys, Charles W.</ref></item>
+<item><ref n="egp.ha.022">Jimenez, Luis <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></ref></item>
+<item><ref n="egp.art.040">Jones, Joe</ref></item>
+<item><ref n="egp.art.041">Kane, Paul</ref></item>
+<item><ref n="egp.art.042">Kiowa Six</ref></item>
+<item><ref n="egp.art.043">Miller, Alfred Jacob</ref></item>
+<item><ref n="egp.art.044">Native American Traditional Art</ref></item>
+<item><ref n="egp.art.045">O'Keefe, Georgia</ref></item>
+<item><ref n="egp.art.046">Peale, Titian Ramsay</ref></item>
+<item><ref n="egp.art.047">Penn, Robert Lee</ref></item>
+<item><ref n="egp.art.048">Ranney, William</ref></item>
+<item><ref n="egp.art.049">Reaugh, Frank</ref></item>
+<item><ref n="egp.art.050">Regina Five</ref></item>
+<item><ref n="egp.ii.050">Remington, Frederic. <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.art.052">Rindisbacher, Peter</ref></item>
+<item><ref n="egp.art.053">Rock Art</ref></item>
+<item><ref n="egp.art.054">Russell, Andrew J.</ref></item>
+<item><ref n="egp.art.055">Russell, Charles M.</ref></item>
+<item><ref n="egp.art.056">Sandz&#233;n, Sven Birger</ref></item>
+<item><ref n="egp.art.057">Stanley, John Mix</ref></item>
+<item><ref n="egp.art.058">Tallchief, Maria</ref></item>
+<item><ref n="egp.art.059">Thompson, Bradbury</ref></item>
+<item><ref n="egp.art.060">Weidman, Charles</ref></item>
+<item><ref n="egp.art.061">Whittredge, Worthington</ref></item>
+<item><ref n="egp.art.062">Wimar, Carl</ref></item>
+<item><ref n="egp.art.063">Wolcott, Marion Post</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

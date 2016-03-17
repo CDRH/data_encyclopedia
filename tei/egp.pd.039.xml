@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nonpartisan League</title>
+<title level="m" type="sub"></title>
+<author>Kimberly K. Porter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Porter, Kimberly K.">Kimberly K. Porter</author>. <title level="a">"Nonpartisan League."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">718-719</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NONPARTISAN LEAGUE</head>
+
+<p>United by low commodity prices, high interest
+rates, shady practices in the grain trade, and
+thwarted political goals, farmers of North Dakota
+gathered in the spring of 1915 to form the
+Nonpartisan League (<hi rend="smallcaps">NPL</hi>). Coalescing behind
+the impressive oratorical and organizational
+skills of Arthur C. Townley, the <hi rend="smallcaps">NPL</hi> served the
+state, and the nation, as a grand experiment in
+socialist agrarian reform.</p>
+
+<p>After failing as a farmer and as an organizer
+for North Dakota's Socialist Party, Townley
+drifted to Bismarck to observe the 1915 session
+of the state legislature, where representatives
+prepared to debate the creation of a stateowned
+terminal elevator. The elevator was intended
+to give North Dakota farmers a degree
+of control over the marketing of their wheat.
+In the heated debate, Fargo representative
+Treadwell Twitchell allegedly told farmers
+crowding the balcony that "running the state
+was none of their business" and that they
+should "go home and slop the hogs."</p>
+
+<p>Rather than returning home, however,
+Townley met with a number of McHenry
+County farmers to discuss their growing resentment
+and frustration with politics as dominated
+by the grain trade and the railroads. Declaring
+that the end had come for machine politics,
+which left no role for farmers or laborers,
+the assembled men declared the formation of
+the Farmers Nonpartisan Political League, later
+renamed the Nonpartisan League.</p>
+
+<p>Familiar with the failure of third-party political
+movements, Townley determined that
+the <hi rend="smallcaps">NPL</hi> should use existing parties to implement
+the organization's agenda. Accordingly,
+the <hi rend="smallcaps">NPL</hi> sought to endorse candidates from
+either of the major political parties in the
+state's open primaries in order to form a
+"nonpartisan" ticket that farmers could support
+in the November election. To gain farmers'
+support, candidates needed only to promise
+to uphold the <hi rend="smallcaps">NPL</hi>'s ever-growing list of
+demands. By the primary of 1916, the League's
+platform included state ownership of terminal
+elevators, flour mills, cold storage plants, and
+packing plants; formation of a state hail insurance
+program; and establishment of stateowned
+banks that would offer farmers lowinterest
+loans. Additionally, the state would
+inspect grain, exempt farm improvements
+from taxation, and create a program of public
+works for the unemployed.</p>
+
+<p>Despite flooding on primary day that kept
+significant numbers of farmers from the polls,
+<hi rend="smallcaps">NPL</hi>-designated candidates carried all but one
+state office in June 1916. In the November general
+election, the <hi rend="smallcaps">NPL</hi> claimed control of the
+governorship, cabinet, and state house of representatives.
+Its failure to carry the state senate
+stalled the effort to achieve state socialism, but
+the organization's 40,000 members still held
+the day. During the 1917 session, the legislature
+passed into law much of the progressive
+agenda called for by <hi rend="smallcaps">NPL</hi> members. It created a
+much-improved grain grading system, established
+a state highway commission, prohibited
+rate discrimination by railroads, increased aid
+to education, and proposed constitutional
+amendments for female suffrage and the exemption
+of farm improvements from taxation.</p>
+
+<p>In 1918, claiming near total victory, the Nonpartisan
+League began implementing what
+Townley referred to as the "New Day for North
+Dakota." Aided by constitutional amendments
+sponsored by the League and interpreted by an
+<hi rend="smallcaps">NPL</hi>-dominated state supreme court, the organization
+set about its agenda. The <hi rend="smallcaps">NPL</hi> utilized
+the 1919 legislative session to implement much
+of its platform, creating the North Dakota Mill
+and Elevator Association, the Home Building
+Association, the Bank of North Dakota, a statesponsored
+hail insurance program, and an industrial
+commission to oversee the development
+of further state businesses. The 1919 legislative
+session also sponsored progressive
+legislation to provide workman's compensation,
+reduced hours of labor for working
+women, the inspection of coal mines, and limited
+the use of injunctions in labor disputes.</p>
+
+<p>The party's appeal was not limited to North
+Dakota, and over the course of 1918–19 the
+movement expanded into the majority of
+Great Plains and midwestern states. At the
+height of its popularity, the <hi rend="smallcaps">NPL</hi> claimed more
+than 200,000 members in twenty states. Although
+the <hi rend="smallcaps">NPL</hi> never took control of the reins
+of state power elsewhere as it did in North
+Dakota, the political debate in many states
+clearly felt the influence of the organization.</p>
+
+<p>The work of the <hi rend="smallcaps">NPL</hi> did not go unchallenged.
+Increasingly, the league's leadership
+came under attack for malfeasance, socialist
+inclination, and fraud. The primary opposition
+came from a coalition of disaffected businessmen
+and Republicans locked out of their
+own party. Charges from the Independent Voters
+Association, as well as the defection of major
+<hi rend="smallcaps">NPL</hi> officeholders&#8211;Attorney General William
+Langer, Secretary of State Thomas Hall,
+and state auditor Carl Kozitsky&#8211;and the publication
+of the salacious <title level="j">Red Flame</title>, ultimately
+brought the <hi rend="smallcaps">NPL</hi> era in North Dakota to a close.
+Equally detrimental to the cause of continued
+<hi rend="smallcaps">NPL</hi> control was the almost universally poor
+management of the state's new businesses.</p>
+
+<p>On October 28, 1921, npl governor Lynn J.
+Frazier suffered the ignominy of being the first
+state official removed from office under the
+terms of an <hi rend="smallcaps">NPL</hi>-sponsored state constitutional
+amendment. The same recall election witnessed
+the removal of Attorney General William
+Lemke and Commissioner of Agriculture
+John Hagen. North Dakotans, however, voted
+to uphold the principles of state-sponsored
+business. Indeed, much of the program instigated
+by the <hi rend="smallcaps">NPL</hi> remains in place in modernday
+North Dakota.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.028">Frazier, Lynn</ref>; <ref n="egp.pg.039">Langer, William</ref>; <ref n="egp.pg.040">Lemke, William</ref>; <ref n="egp.pg.059">North Dakota</ref>.</p>
+
+<closer>
+<signed>Kimberly K. Porter<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Coleman, Patrick K., and Charles R. Lamb, compilers. <title level="m">The
+Nonpartisan League, 1915–1922: An Annotated Bibliography</title>.
+St. Paul: Minnesota Historical Society Press, 1985.</bibl>
+<bibl>Morlan, Robert L. <title level="m">Political Prairie Fire: The Nonpartisan
+League, 1915–1922</title>. St. Paul: Minnesota Historical Society
+Press, 1985.</bibl> <bibl>Robinson, Elwyn B. <title level="m">History of North Dakota</title>.
+Lincoln: University of Nebraska Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

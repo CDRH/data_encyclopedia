@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Red River Resistance</title>
+<title level="m" type="sub"></title>
+<author>Gerhard J. Ens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ens, Gerhard J.">Gerhard J. Ens</author>. <title level="a">"Red River Resistance."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">835</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RED RIVER RESISTANCE</head>
+
+<p>In 1869 the M&#233;tis of Red River, led by Louis
+Riel, formed a provisional government to stop
+the Canadian annexation of Rupert's Land.
+This territory, encompassing most of today's
+Prairie Provinces, was under Hudson's Bay
+Company rule and was scheduled to be transferred
+to Canada in 1869. During the negotiations
+between the company, the British government,
+and the Canadian government for
+the transfer of sovereignty, no one consulted
+the M&#233;tis, who were the vast majority of the
+12,000 residents in the Red River Settlement in
+the present-day province of Manitoba. Worried
+about their status in the new Dominion,
+the M&#233;tis took matters into their own hands.</p>
+
+<p>During the summer of 1869, the M&#233;tis,
+comprised of English-speaking Protestant
+"mixed-bloods" and French-speaking Catholic
+M&#233;tis, held several public meetings to
+determine how to respond to the proposed
+transfer. Two competing factions emerged.
+One, led by William Dease, argued that the
+M&#233;tis should form a provisional government
+and negotiate with Canada on the basis of
+their Aboriginal rights. Louis Riel and the
+Catholic clergy led a second faction, who argued
+that the transfer represented the annexation
+of Red River Settlement by Protestant
+Ontario and threatened the religious rights of
+the Catholic M&#233;tis. Controlling the largest
+army, and having the Catholic Church on his
+side, Riel triumphed in this power struggle. In
+early November 1869 he seized Upper Fort
+Garry and effective control of the settlement.</p>
+
+<p>Riel and his M&#233;tis supporters suppressed
+internal dissension in the settlement by imprisoning
+dozens of M&#233;tis opponents and Canadians,
+and then forged a consensus by calling
+a number of representative conventions.
+In January 1870 Red River residents elected a
+representative provisional government to negotiate
+the terms of their entry into the Dominion.
+The resulting Manitoba Act of 1870
+created the province of Manitoba, guaranteed
+the property rights of the M&#233;tis, provided for
+bilingual institutions and denominational
+schools to protect the interests of the Catholic
+Church, and granted 1.4 million acres of land
+to M&#233;tis children.</p>
+
+<p>The Manitoba Act and Manitoba's entry
+into the Dominion was a victory for the Red
+River M&#233;tis that Riel was unable to enjoy. During
+the Resistance, which lasted from October
+1869 until August of 1870, Riel's provisional
+government had executed an Ontario Orangeman
+by the name of Thomas Scott. This act
+made it politically impossible for the Canadian
+government to grant Riel's government
+an unconditional amnesty for actions taken
+during the Resistance. Riel fled to the United
+States in August 1870 when Canadian troops
+arrived in Manitoba.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.044">Manitoba</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.047">Riel, Louis</ref>.</p>
+
+<closer>
+<signed>Gerhard J. Ens<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ens, Gerhard J. "Prologue to the Red River Resistance:
+Pre-liminal Politics and the Triumph of Riel." <title level="j">Journal of
+the Canadian Historical Association</title> 5 (1994): 111–23.</bibl> <bibl>Stanley,
+George F. G. <title level="m">Louis Riel</title>. Toronto: Ryerson Press, 1963.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

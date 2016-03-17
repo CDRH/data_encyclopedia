@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crow Fair</title>
+<title level="m" type="sub"></title>
+<author>C. Adrian Heidenreich</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Heidenreich, C. Adrian">C. Adrian Heidenreich</author>. <title level="a">"Crow Fair."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">769-770</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROW FAIR</head>
+<figure n="egp.sr.012" rend="granted">
+<figDesc>Dancers at Crow Fair</figDesc>
+</figure>
+
+<p>Crow Fair, called the "Tipi Capital of the
+World," is an annual event held the third
+weekend in August on the Crow Reservation
+in Montana. It is one of the largest Native
+American events in North America and is run
+by a committee of the Crow tribe. Crow Fair
+combines a celebration of Crow culture, reunion
+of family groups, powwow, rodeo,
+horse racing, and commercial vendors. Native
+Americans of various tribes and many non-Indian
+people, including visitors from around
+the world, gather to celebrate and enjoy themselves.
+There may be 1,000 tipis, along with
+wall tents, pickup campers, trailers, and mobile
+homes. Each family has its own camp
+area, and people visit and eat under arbor
+shades and awnings.</p>
+
+<p>These camps surround an open circular
+dance arbor with bleachers. Immediately
+around the dance arbor are commercial booths
+that serve food as well as sell Native crafts, arts,
+supplies, and children's carnival toys. Social and
+popular dances are held for young people in the
+Round Hall. An all-Indian rodeo and horse
+races are held at the racetrack arena adjacent to
+the fairgrounds. Crow Fair runs four days for
+the tribe and general public. A fifth day is devoted
+to Crow tribal members and their immediate
+friends and includes dances, giveaways,
+feasting, and the Parade Dance around camp
+with a salute to the mountains.</p>
+
+<p>Each morning there is a parade, and spectators
+line the edges of the road, sitting on folding
+chairs, in cars, or in the beds of pickup
+trucks, many holding umbrellas for shade. The
+procession is led by a color guard of Native
+American veterans. The main parade includes
+people on horseback, on foot, and riding on
+cars and floats. Most are dressed in powwow
+finery, wearing traditional Plains regalia, including
+fancy beaded vests, eagle-feather bonnets,
+shawls, and elk tooth dresses, mixed with
+cowboy dress. Many horses are outfitted with
+traditional Crow saddles, beaded or painted
+saddlebags, Pendleton blankets, beaded rifle
+bags, and cradleboards. Vehicles and floats also
+are covered with traditional finery; along the
+sides, draped banners declare titles of tribal or
+family affiliation. The floats have displays such
+as a small tipi and arbor with elders and children
+or a drum group with dancers. The paraders
+smile, wave to the people lining the
+roadside, and throw candy to the children. The
+current Crow Fair princess leads "visiting royalty"
+who have won princess titles at other
+reservations and powwows. Awards are given
+for the best dress outfits, decorated horses,
+and floats.</p>
+
+<p>Drum groups, dancers, and spectators assemble
+at the central dance arbor for the afternoon
+and evening powwow. The grand entry
+is led by an Indian veteran color guard, followed
+by distinguished individuals, honored
+guests and elders, and then male traditional
+dancers, male fancy dancers, women traditional
+dancers, girl's shawl or fancy dancers,
+jingle dress, grass dancers, and tiny tots.
+The powwow includes announcements, jokes,
+dance competitions in various categories and
+age groups, and intertribal and social dances.
+Honor songs and dances, giveaways, and
+adoption and naming ceremonies occur. After
+the powwow, there are sometimes forty-nine
+dances and tipi doorway singing. The all-Indian
+rodeo and horse races are held at the
+nearby racetrack arena. The rodeo includes
+saddle bronc and bareback riding, bull riding,
+bulldogging, calf roping, team roping, and
+barrel racing. Quarter horse and Thoroughbred
+racing are featured. There is much betting
+on the outcomes of the races.</p>
+
+<p>Crow Fair started in 1904, when the Bureau
+of Indian Affairs agent and Crow leaders
+agreed that a country fair format would help
+induce the Crows to become self-supporting
+farmers while at the same time allow the people
+to showcase aspects of Crow culture. Crow
+women exhibited traditional Native foods,
+clothing, and handicrafts. People brought
+ponies, calves, pigs, turkeys, and chickens for
+exhibit as well as potatoes, pumpkins, squash,
+grain, jellies, pies, bread, butter, and cakes.
+Schoolchildren exhibited basketry, embroidery,
+and various crafts and played band music.
+A committee of chiefs and elders scheduled
+entertainment events and arranged a parade,
+foot and horse racing, relay races, rodeo (including
+bucking broncos), and dancing to the
+beat of singers around drums. Storytelling of
+war deeds by veterans, victory dances, sham
+battles and reenactments, and the distribution
+of gifts to tribal members and visitors became
+popular. Prizes were given for the best-pitched
+and decorated tipis, tipi-pitching races, farm
+exhibits, horse work teams and wagons, buggies,
+and races.</p>
+
+<p>Federal Indian policy at that time generally
+forbade traditional singing, dancing, and ceremonies,
+but the combination of agricultural
+assimilation and traditional culture coincided
+with public interest in tourism. Visitors included
+non-Indians as well as members of
+many other tribes. The fair became a successful
+national model for Indian events. After
+World War II the agricultural aspects of Crow
+Fair were dropped, and the combined Crow
+and modern pan-Indian event has grown to
+become one of the most popular cultural celebrations
+in the world.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.024">Crows</ref>; <ref n="egp.na.091">Powwows</ref>.</p>
+
+<closer>
+<signed>C. Adrian Heidenreich<lb/>
+Montana State University, Billings</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title>Baasaxpilua: Northern Plains Celebration</title>. Video. Denver
+Museum of Natural History, 1982.</bibl> <bibl>Loeb, Barbara. "Crow
+Fair." <title level="j">Native Peoples</title> 3 (1990): 16–24.</bibl> <bibl>Wisherd, Edwin L.
+"The Friendly Crows in Festive Panoply." <title level="j">National Geographic</title>
+52 (1927): 315–22.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.059">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">West River Country</title>
+<title level="m" type="sub"></title>
+<author>Paula M. Nelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.059</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nelson, Paula M.">Paula M. Nelson</author>. <title level="a">"West River Country."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">399</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">WEST RIVER COUNTRY</head>
+
+<p>Travelers heading west in <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> on <placeName rend="highway" key="high.i90" reg="Interstate 90">Interstate 90</placeName> confront the geographic and cultural distinctiveness of the "west river country" as they cross the <geogName rend="river" reg="Missouri River">Missouri River</geogName> at <placeName rend="settlement" key="sd.cha" reg="Chamberlain, South Dakota">Chamberlain</placeName>. The countryside they have traversed to that point is farm country, albeit increasingly sweeping, open, and treeless. Its talismans are the nineteenth-century white frame houses, the hipped-roof dairy barns, the fenced fields, the familiar crops of corn and soybeans. West of the river the land is starkly higher, drier, rougher, and emptier. Farms and ranches are far fewer, scattered so widely that travelers might scan the horizon in vain for several miles, looking for a telltale grove to mark human habitation. Farm and ranch buildings, when they do appear, are often less substantial than those east of the river. The twentieth-century homesteading frontier that shaped the west river country left its legacy in the small claim shacks that residents cobbled together to create homes and outbuildings once the boom years ended.</p>
+
+<p>The mystique of the west river country lies in its harsh environment and its dramatic history. The <orgName rend="tribe" key="tri.lak" reg="Lakota">Lakota</orgName> people, nomadic buffalo hunters, skilled horsemen, and feared warriors, claimed the region as their own. When the U.S. government forced them to reservations after Red Cloud's War in 1868, the reservations and west river country became virtually synonymous. The west river country in many minds was the land of "savages." The open range cattle years, though short-lived, brought to the region hard-riding, hard-living ranchers and cowboys who lived without civilization or amenities, wresting their living from cruel nature and glorying in their freedom. The west river country, under their tutelage, became a land associated with physical prowess, self-reliance, and romance.</p>
+
+<p>The final ingredient in the west river mystique came with the homesteading rush after 1900. It brought with it farmers, town builders, speculators, and dreamers&#8211;people who came to transform the land they perceived as both a savage and a romantic wilderness. They hoped to create a productive agricultural paradise. They reduced the size of the reservations, fenced the open range, laid railroad tracks, plowed the tough sod, and built market towns across the prairie. But repeated drought and hard times reshaped and reduced their ambitions until mere survival in the face of hardship became their definition of success. The west river country in the farming years became a land of hard work, struggle, and intense pride, virtues still prized there today.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Paula M. Nelson<lb/>
+University of Wisconsin-Platteville</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Nelson, Paula M. <title level="m">After the West Was Won: Homesteaders and Town Builders in Western South Dakota, 1900–1917</title>. Iowa City: University of Iowa Press, 1986.</bibl> <bibl>Nelson, Paula M. <title level="m">The Prairie Winnows out Its Own: The West River Country of South Dakota in the Years of Depression and Dust</title>. Iowa City: University of Iowa Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Episcopalianism</title>
+<title level="m" type="sub"></title>
+<author>Kern R. Trembath</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Trembath, Kern R.">Kern R. Trembath</author>. <title level="a">"Episcopalianism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">744</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EPISCOPALIANISM</head>
+
+<p>Episcopalians constitute the American branch
+or province of the worldwide Anglican Communion.
+They adopted this name both because
+of the political sensitivities generated
+by the American Revolution and because they
+wished to signal their continuity with that
+Communion and especially its episcopal tradition.
+The Episcopal Church of the USA has
+approximately 2.5 million members, eleven
+seminaries, and 103 dioceses, of which nineteen
+are in the Great Plains. The Anglican
+Church of Canada started in the mid–eighteenth
+century and has nearly 750,000
+members and thirty dioceses, of which nine
+are in the Great Plains. In the United States,
+the largest concentrations of communicants
+are found on the coasts, especially the eastern.</p>
+
+<p>In addition to the episcopal structure that
+apostolically links the modern church to the
+first century, the denomination's other distinctive
+features are its liturgical style and its
+commitment to social justice. Liturgically, the
+Episcopal Church maintains both unity and
+diversity through its Book of Common Prayer.
+Each Anglican province in the world is responsible
+for its own prayer book, which thus
+symbolizes its continuity with the tradition as
+well as local originality. The earliest prayer
+books (1549 and 1552) were produced in England
+largely by Thomas Cranmer, and they
+reflected both Catholic and Reformation theologies,
+as does the Episcopal Church's current
+Book of Common Prayer, last revised in
+1979. Unity and diversity are also embodied by
+the honorific (but not juridical) primacy accorded
+the archbishop of Canterbury.</p>
+
+<p>The church's commitment to social justice
+may be seen in traditional arenas such as civil
+and women's rights. It was the second branch
+within the Anglican Communion to ordain
+women as priests and the first to consecrate
+women as bishops. It can also be discerned in
+what is often called "Anglican methodology"
+or the <hi rend="italic">via media</hi>, which is shorthand for the
+church's commitment to inclusivism wherever
+possible and appropriate. This feature is evident
+in the church's bicameral governing
+structure, a somewhat cumbersome but deliberately
+republican form of governance in
+which laity, priests, and bishops have a significant
+voice. It is also evident in the fact that the
+church did not split over the Civil War. Its
+refusal to take an official stance toward slavery
+has been interpreted by some as weakness, but
+by others as a deliberate avoidance of taking
+any steps that would lead to schism. Regardless,
+the church resumed its prewar pace both
+quickly and peacefully after hostilities ceased.</p>
+
+<p>While Episcopalians moved west along with
+other Christians in the first half of the nineteenth
+century, their dedication to evangelization
+lagged behind that of other denominations.
+This resulted from the denomination's
+authority structure on the one hand and the
+general suspicion of any kind of central authority
+among westerners on the other. In part,
+it also reflected the fact that many of the early
+bishops in the Great Plains were "high church"
+Anglo-Catholics, whereas most priests and
+laypersons were "low church" evangelicals.
+The resulting spirituality, occasionally referred
+to as "evangelical Catholicism," has characterized
+much Episcopal life and character in the
+Great Plains ever since.</p>
+
+<p>The General Convention of 1835 designated
+the church itself as a missionary institution,
+and all of its members as official missionaries
+with regard to westward expansion. Ten years
+later Bishop Jackson Kemper began what one
+biographer called "the most fruitful single
+ministry in the annals of the [Episcopal]
+church." He organized the first dioceses in Indiana,
+Illinois, Missouri, Iowa, Wisconsin,
+Kansas, Nebraska, and Dakota. In the Canadian
+Prairies, the Colonial and Continental
+Church Society ministered to settlers and
+maintained Emmanuel College in Saskatoon
+from 1914 to 1954 for the training of clergy.</p>
+
+<p>Sharing the constants of sparse population,
+inclement weather, and widespread poverty,
+parishes and dioceses grew slowly in the Great
+Plains in the nineteenth century, although
+rather more quickly in the more urban areas.
+However, because of increased immigration
+during the early decades of the twentieth century
+and the economic surge caused by World
+War I, the Plains grew in both industrial and
+agricultural wealth and significance. The Episcopal
+Church's fortunes rose accordingly, even
+though the war itself resulted in the closing of
+various schools and temporarily depressed
+parochial budgets because of the absence of
+soldiers and their contributions.</p>
+
+<p>The Great Depression was disproportionately
+harsh on both church and civil society in
+the Plains, and many dioceses found themselves
+at the bottom of national lists with regard
+to parish offerings, baptisms, ordinations,
+and the like. As with the previous war,
+though, World War II generated an increase in
+the fortunes of the Episcopal Church, though
+there was a general falloff in membership after
+1960 in the Plains and elsewhere. Episcopalians
+remain a relatively small denomination
+in the Great Plains&#8211;ranked sixth or seventh
+by number of churches per state&#8211;and are
+most strongly represented in cities of the eastern
+part of the region. Many counties in the
+western reaches of the Great Plains, especially
+in the panhandles of Texas and Oklahoma and
+in eastern Colorado and western Kansas, have
+no Episcopal churches at all.</p>
+
+<closer>
+<signed>Kern R. Trembath<lb/>
+University of Notre Dame</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Albright, Raymond W. <title level="m">A History of the Protestant Episcopal
+Church</title>. New York: Macmillan Publishing Company,
+1964.</bibl> <bibl>Pritchard, Robert W. <title level="m">A History of the Episcopal
+Church</title>. Harrisburg <hi rend="smallcaps">PA</hi>: Morehouse Publishing, 1991.</bibl> <bibl>Taylor,
+Blanche Mercer. <title level="m">Plenteous Harvest: The Episcopal
+Church in Kansas, 1837–1972</title>. Topeka <hi rend="smallcaps">KS</hi>: Prepared by the
+author for the Diocese of Kansas, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

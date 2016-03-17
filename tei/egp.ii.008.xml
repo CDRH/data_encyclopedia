@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Buffalo Commons</title>
+<title level="m" type="sub"></title>
+<author>Theodore B. Pedeliski</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pedeliski, Theodore B.">Theodore B. Pedeliski</author>. <title level="a">"Buffalo Commons."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">379</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BUFFALO COMMONS</head>
+
+<p>In 1987 <persName reg="Popper, Deborah">Deborah</persName> and <persName reg="Popper, Frank">Frank Popper</persName>, <placeName rend="state" key="nj" reg="New Jersey">New Jersey</placeName>&#8211;based scholars, published an article on the history and environment of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. They saw government homestead and railroad settlement policies as having promoted a settlement of the <geogName rend="region" reg="Great Plains">Plains</geogName> that was far more dense than the resources of the area could support. Droughts of the 1890s and the Dust Bowl years of the 1930s had uprooted a high proportion of <geogName rend="region" reg="Great Plains">Plains</geogName> residents, and subsequent farm consolidation and mechanization of agriculture led to reduced numbers of farmers and a decline in the small towns that relied on them. The Poppers noted that maintenance of the current population involved depletion of the waters and soils of the <geogName rend="region" reg="Great Plains">Plains</geogName> and required subsidization of agriculture. They suggested a government-run environmental restoration project that would relocate inhabitants, replant the grasses, restock native animals, and make large sections of the <geogName rend="region" reg="Great Plains">Plains</geogName> a "buffalo commons."</p>
+
+<p>The buffalo commons proposal reinforced the image of the area between the <geogName rend="river" reg="Missouri River">Missouri River</geogName> and the <geogName rend="range" reg="Front Range">Front Range</geogName> of the <geogName rend="mountains" reg="Rocky Mountains">Rockies</geogName> as an "Empty Quarter" marked by lack of population; vast, dry, and treeless distances; and marginal economic enterprises. With the removal of people and the reintroduction of native fauna and flora, the <geogName rend="region" reg="Great Plains">Plains</geogName> would revert to a primeval prairie, a new Eden attractive to romantic environmentalists.</p>
+
+<p>The Popper proposal has met with intense criticism from many quarters. Principal criticism has focused on deprivatization, an increased governmental role, and failure of the proponents to understand the natural economic adjustments that allow <geogName rend="region" reg="Great Plains">Plains</geogName> resources to be more efficiently utilized by fewer people. The proposals also ignore the noneconomic factors that hold <geogName rend="region" reg="Great Plains">Plains</geogName> communities together, including churches, coffee shops, reading groups, and service clubs, as well as the residents' attachment to the region. While the solution of the federalized buffalo commons has been largely rejected, the ideas have been attempted on a small scale. The <placeName rend="ranch" key="ran.hou" reg="Houche Ranch">Houche Ranch</placeName> in <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> and <persName reg="Turner, Ted">Ted Turner</persName> at his <placeName rend="ranch" key="ran.sp" reg="Spanish Peaks Ranch">Spanish Peaks Ranch</placeName> near <placeName rend="settlement" key="mt.boz" reg="Bozeman, Montana">Bozeman, Montana</placeName>, among others, have attempted to re-create a free buffalo range.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Theodore B. Pedeliski<lb/>
+University of North Dakota</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Popper, Deborah E., and Frank J. Popper. "<title level="a">Great Plains: From Dust to Dust</title>." <title level="j">Planning</title> 53 (1987): 12-18.</bibl> <bibl>Popper, Deborah E., Frank J. Popper, Paul Roebuck, Karen J. Debres, and Bret Wallach. "<title level="a">The Buffalo Commons Debate</title>." <title level="j">Focus</title> 43 (1993): 16-27.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

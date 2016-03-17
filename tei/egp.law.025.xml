@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Leavenworth Penitentiary</title>
+<title level="m" type="sub"></title>
+<author>Todd M. Kerstetter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerstetter, Todd M.">Todd M. Kerstetter</author>. <title level="a">"Leavenworth Penitentiary."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">455</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LEAVENWORTH PENITENTIARY</head>
+
+<p>Leavenworth Penitentiary in eastern Kansas
+was the first of three federal prisons authorized
+during the 1890s to avoid housing federal
+prisoners in state prisons known for scandal
+and mistreatment of inmates. Prisoners
+have been incarcerated in the Leavenworth
+area since before Kansas gained statehood in
+1861. At that time, a territorial jail there became
+the first state penitentiary. Congress established
+the U.S. Army Disciplinary Barracks
+at Fort Leavenworth in 1874. In 1895 Congress
+ordered the military prison transferred to the
+Department of Justice, creating one of the first
+federal prisons for civilian offenders. (The
+U.S. government operated a penitentiary in
+Washington <hi rend="smallcaps">DC</hi> from 1831 to 1862 as well as
+territorial prisons.)</p>
+
+<p>During the next eleven years, inmates
+marched from the fort to a nearby construction
+site on the military reservation where
+they built the Leavenworth Penitentiary according
+to plans drawn by the St. Louis architecture
+firm Eames and Young. The lack of
+skilled labor and the painstaking security
+measures necessitated by using convict laborers
+made for slow progress. Inmates began
+occupying the new facility in 1903, but the
+population did not transfer entirely from the
+military prison until 1906. Construction continued,
+with cell blocks completed by 1919,
+shoe shops by 1926, a brush and broom factory
+by 1928, and the offices and rotunda
+by 1929. The penitentiary became a tourist
+attraction even as it was being built. The arrival
+of 200 tourists from Kansas City in a
+single day in 1910 led the warden to suspend
+tours temporarily. Planners expected 1,200
+cells would accommodate 1,200 prisoners, but
+crowding led officials to abandon that ideal.
+As early as 1915 the prison population reached
+1,800. By 1925 the population had climbed to
+3,262. Continued crowding led to another annexation
+of the Fort Leavenworth Disciplinary
+Barracks from 1929 through 1940. At the
+beginning of the twenty-first century, the penitentiary
+housed 1,726 inmates.</p>
+
+<closer>
+<signed>Todd M. Kerstetter<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Keve, Paul W. <title level="m">Prisons and the American Conscience: A History of U.S. Federal Corrections</title>. Carbondale: Southern Illinois
+University Press, 1991.</bibl> <bibl>McShane, Marilyn D., and
+Frank P. Williams III, eds. <title level="m">Encyclopedia of American Prisons</title>.
+New York: Garland, 1996.</bibl> <bibl>U.S. Department of Justice,
+Bureau of Prisons. <title level="m">The Leavenworth Story</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, n.d.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

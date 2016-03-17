@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gardiner Dam</title>
+<title level="m" type="sub"></title>
+<author>Max Macdonald</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Macdonald, Max">Max Macdonald</author>. <title level="a">"Gardiner Dam."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">853-854</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GARDINER DAM</head>
+
+<p>Located sixty miles south of Saskatoon on the
+South Saskatchewan River, the Gardiner Dam
+was named in honor of federal Minister of
+Agriculture James G. Gardiner, who fought
+for its creation for many years. Construction
+began in 1958 and the dam was completed in
+1967. It is 210 feet in height and 16,700 feet in
+length. Diefenbaker Lake, the reservoir the
+dam created, is 140 miles long with a shoreline
+of about 475 miles; it covers an area of 109,600
+acres and has a total storage capacity of 8 million
+acre feet. At the time of its construction
+the Gardiner Dam, which cost $121 million,
+was second only to the St. Lawrence Seaway in
+terms of Canadian publicly funded projects. A
+Saskatchewan study in 1996 placed the cost in
+today's money at $1 billion. It is the largest
+earth-filled dam in Canada and one of the
+largest in the world.</p>
+
+<p>The political will that fueled the undertaking
+flowed directly from the experience of
+the "dirty thirties." The dam is located in a
+region described by the explorer James Palliser
+in 1859 as being unfit for human habitation,
+an area known for extreme droughts,
+with crop failures expected three years out of
+ten. During the 1930s it was the home of Canada's
+Dust Bowl, when topsoil was torn from
+its base and carried by prevailing westerlies in
+huge black masses, leaving the farmlands barren
+and houses and hedges all but buried.
+Crops were ruined and farm life was left in
+disarray. Some farmers were driven from the
+land and some to madness and suicide. The
+purpose of the Gardiner Dam was to mitigate
+the effects of such drought by supplying irrigation
+as well as providing electrical power,
+urban water supply, flood control, and recreational
+opportunities.</p>
+
+<p>Power generation was the first benefit to
+make an impact. From the moment it went
+online, electricity generation began to produce
+$10 million a year in savings. Urban water
+supply was soon benefiting as well. A secondary
+dam was built upstream from the
+main structure to provide a controlled flow by
+canal running south to serve the needs of
+Moose Jaw and the capital city of Regina.
+Other towns and hamlets and several industrial
+sites are also being serviced, and access to
+water is placed within reach of 40 percent of
+Saskatchewan's population.</p>
+
+<p>The main reservoir and a half dozen satellite
+lakes fed by canals add substantially to recreational
+opportunities: six vacation villages,
+twelve fully developed parks, and three major
+marinas have been established. Flood control
+is generally a minor consideration, but in
+years of high river runoff it is crucially important,
+and in an average year it is responsible
+for a savings of $44,000 in flood damage
+by controlling the flow through the dam's
+spillways.</p>
+
+<p>Irrigation is the most significant aspect of
+the project. There are now almost 100,000
+acres under irrigation, which has resulted in a
+shift to new crop mixtures, notably peas, fava
+beans, pinto beans, lentils, grasses, potatoes,
+rapeseed, mustard, and, in some isolated instances,
+small orchards. Oddly enough, for
+this part of the country, there has been a recent
+move into mint production&#8211;a processing
+plant has been established in the region,
+with all of its production being exported to
+the United States, United Kingdom, as well as
+Japan and other Asian markets. Most of all,
+the project has in large part eliminated the
+fear of drought. As one farmer observed, "In
+the past ten years I have never had a crop
+failure on irrigated land."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.042">Gardiner, Jimmy</ref>.</p>
+
+<closer>
+<signed>Max Macdonald<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fairley, Brad. <title level="m">South Saskatchewan River Basin Study</title>. Regina:
+Canada Department of the Environment, 1997.</bibl>
+<bibl>Kulshreshtha, Suran, et al. <title level="m">Social Evaluation of the South
+Saskatchewan River Project</title>. Ottawa: Queen's Printer, 1988.</bibl>
+<bibl>Macdonald, Max. <title level="m">Oasis for a Desert</title>. Regina: Canadian
+Plains Research Center, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

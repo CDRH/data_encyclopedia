@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.na.081 SYSTEM "egp.na.081.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.081">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Parker, Quanah (ca. 1852-1911)</title>
+<title level="m" type="sub"></title>
+<author>Michael L. Tate</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.081</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tate, Michael L.">Michael L. Tate</author>. <title level="a">"Parker, Quanah (ca. 1852-1911)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">589-590</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PARKER, QUANAH (ca. 1852-1911)</head>
+
+<figure n="egp.na.081" rend="granted">
+<figDesc>Quanah Parker</figDesc>
+</figure>
+
+<p>Born between 1845 and 1852 to the white captive
+Cynthia Ann Parker and the Quahada Comanche
+war chief Peta Nocona, Quanah Parker
+grew up within traditional Comanche
+society, but his later life was marked by a fusion
+of white and Indian ways. By the time of the
+1874.75 Red River War, Quanah had gained
+such a su.cient following that he helped lead
+the momentous attack of as many as 700 Comanches,
+Kiowas, and Southern Cheyennes
+against the two dozen buffalo hunters and
+merchants at the Adobe Walls trading post in
+the Texas Panhandle. The failure of this attack,
+and subsequent army victories on the Staked
+Plains, forced all the Comanches and Kiowas
+to their reservation at Fort Sill in western Indian
+Territory.</p>
+
+<p>Because of his white ancestry and his willingness
+to accept reservation life, Quanah attracted
+the attention of various civilians and
+military officers at Fort Sill. Agent P. B. Hunt
+established him as a band chief, with authority
+to preside over the issuance of beef rations
+and other annuities. This provided Quanah
+with significant leverage among his own people,
+even to the detriment of some of the traditional
+elders. By 1886 he had been appointed
+one of the three judges of the Court of Indian
+Offenses, and he used this position to champion
+an assimilationist course.</p>
+
+<p>Despite his cooperation with white authorities
+and his determination to have his people
+"walk the white man's road," Quanah steadfastly
+honored many Comanche traditions.
+He retained his long hair, participated in ancient
+ceremonies, spoke mostly in the Comanche
+language, and preserved the right of
+polygamous marriage. The fact that he had
+eight wives, five of them at one time, angered
+some important whites, and in 1898 this cost
+him the coveted position of Indian judge. Significantly,
+however, he won his battle to serve
+as a leader of the peyote religion that was expanding
+rapidly among his people.</p>
+
+<p>Even though Quanah drew most of his authority
+as "principal chief" from whites, his
+popularity among Comanches also increased,
+especially because of his diplomatic skills
+in negotiating leasing agreements with Texas
+cattlemen. Although many tribal members
+initially had opposed the leasing of tribal grazing
+lands, the collective income soon guaranteed
+majority support. The greatest challenge
+to the reservation began in 1892 when the
+Jerome Commission called for the allotment
+of tribal lands into individual holdings and
+the sale of all surplus acreage to white settlers.
+Quanah made repeated trips to Washington
+dc to fight this assault on the collective land
+base and Comanche sovereignty, but, yielding
+to the inevitable realities, he negotiated the
+best terms possible and accepted the allotment
+process in 1900.</p>
+
+<p>Throughout the years of reservation life,
+Quanah Parker closely aligned his personal interests
+with those of the broader tribe. He received
+money and other gifts from Texas cattlemen,
+lived in the spacious "star house" built by
+their largess, fenced several thousand acres of
+tribal land for his own cattle herd and to rent to
+whites, and rewarded supporters and family
+members with reservation jobs through supportive
+agents. Yet no one could doubt that
+Quanah had gained more benefits for the tribe
+then any other leader of the era. He died on
+February 11, 1911. His funeral at Lawton, Oklahoma,
+was the largest ever held in that region,
+and was well attended by respectful Indians
+and whites alike.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.002">Adobe Walls, Battle of</ref>.</p>
+
+<closer>
+<signed>Michael L. Tate</signed>
+University of Nebraska at Omaha</closer>
+</div1>
+
+<div1>
+<bibl>Hagan, William T. <title level="m">Quanah Parker, Comanche Chief</title>. Norman:
+University of Oklahoma Press, 1993.</bibl> <bibl>Hagan, William
+T. <title level="m">United States–Comanche Relations: The Reservation
+Years</title>. New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

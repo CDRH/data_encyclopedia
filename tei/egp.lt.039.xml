@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Livesay, Dorothy (1909-1996)</title>
+<title level="m" type="sub"></title>
+<author>Lee Briscoe Thompson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thompson, Lee Briscoe">Lee Briscoe Thompson</author>. <title level="a">"Livesay, Dorothy (1909-1996)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">483</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LIVESAY, DOROTHY (1909-1996)</head>
+
+<p>Born in Winnipeg on October 12, 1909, to journalist
+parents, Dorothy Livesay over some sixty-five
+active writing years published twenty-one
+volumes of poetry, four of fiction and nonfiction
+prose, and a myriad of articles, reviews,
+forewords, agitprop and docudramas, edited
+volumes of the creative writing of others, journalistic
+pieces, and uncollected individual short
+stories and poems. She spent only two phases of
+her life&#8211;her first and sixth decades&#8211;in the
+Prairies and would engage intensely with most
+of the other places she lived&#8211;British Columbia,
+Ontario, New Brunswick, Africa, England, and
+France. But Livesay's writing throughout bore
+the indelible psychic imprint of that first landscape,
+the Canadian Great Plains: its openness
+and multiethnicity were powerful influences on
+her work.</p>
+
+<p>Livesay's family moved to Ontario in 1920,
+but when she was in her twenties, a moderately
+Marxist Livesay passed back through the
+Prairies on a promotional tour for a new leftist
+periodical. Prairie laborers were mobilizing
+to break out of the long-standing grip of the
+Great Depression, which in Canada had hit
+their region the hardest, and Livesay's contact
+with Prairie workers from coal miners to
+sugar beet harvesters encouraged her creative
+combining of art with her agenda for social
+change. That aspect of Prairie inspiration continued
+to inform her thought and technique
+in her subsequent years in British Columbia
+and abroad.</p>
+
+<p>Later in life, a seasoned writer and academic,
+she took two positions as writer in residence
+in the Great Plains: 1968–71 at the University
+of Alberta (Edmonton) and 1974–76 at
+the University of Manitoba. She helped found
+a new literary journal, <title level="j"><hi rend="smallcaps">CV/II</hi></title>, that was a supportive
+venue for emerging Prairie writers. In
+the 1980s she spent summers near the Icelandic
+community at Gimli, Manitoba. These
+years saw a literary revisiting of her Prairie
+origins in some poems of <title level="m">Plainsongs</title> (1969,
+expanded 1971) and particularly in the linked
+stories entitled <title level="m">A Winnipeg Childhood</title> (1973),
+expanded and renamed <title level="m">Beginnings</title> (1988).
+Those stories follow a lightly disguised Dorothy
+("Elizabeth") through a vivid rendering of
+her childhood in a Prairie city, charming readers
+with its descriptive simplicity, its magicrealist
+treatment of the commonplace, and its
+fluid, rhythmic prose.</p>
+
+<p>Livesay absorbed and developed the Canadian
+Prairie's early-twentieth-century optimistic
+vision of infinite possibilities, of a new
+and egalitarian society, passionate and fresh.
+One must note, however, that she also shared
+the no less historical Prairie sense of isolation,
+alienation, exclusion, and marginalization. Yet
+that personal perspective dovetailed productively
+with another Great Plains element, the
+multicultural patchwork of Winnipeg, which
+shaped her lifelong interest in social justice
+and equality and the rights of minorities, a
+conviction embodied in verse dramas such as
+her liberatory treatment of the hitherto reviled
+M&#233;tis leader Louis Riel, "Prophet of the
+New World." The inherent drama of the Prairies,
+its strong horizontals and majestic skyscapes,
+the enormity of spaces and intense
+contrasts of light: all seem connected with
+both Livesay's preoccupation with nature as
+well as her gravitation to polarities and complementarities
+in human relations and the
+universe. Dorothy Livesay died in Victoria,
+British Columbia, on December 29, 1996.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.047">Riel, Louis</ref>.</p>
+
+<closer>
+<signed>Lee Briscoe Thompson<lb/>
+University of Vermont</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Thompson, Lee Briscoe. <title level="m">Dorothy Livesay</title>. Boston: Twayne,
+1987.</bibl> <bibl>University of Manitoba Department of Archives. <title level="m">The Papers of Dorothy Livesay: A Research Tool</title>. Winnipeg:
+University of Manitoba, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Thompson, Era Bell (1905–1986)</title>
+<title level="m" type="sub"></title>
+<author>&#199;igdem &#220;sekes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+ 
+<sourceDesc>
+<bibl><author n="&#220;sekes, &#199;igdem">&#199;igdem &#220;sekes</author>. <title level="a">"Thompson, Era Bell (1905–1986)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">22</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THOMPSON, ERA BELL (1905–1986)</head>
+<figure n="egp.afam.040" rend="granted" type="noclick">
+<figDesc>Era Bell Thompson</figDesc>
+</figure> 
+    
+<p>The distinguished journalist, editor, and author
+Era Bell Thompson was born in Des
+Moines, Iowa, on August 10, 1905. Her family
+moved to Driscoll, North Dakota, in 1917, and
+her "love affair" with the state began. She attended
+the University of North Dakota for two
+years and received her bachelor of arts degree
+from Morningside College in Sioux City,
+Iowa, in 1933. She later pursued graduate study
+at the Medill School of Journalism at Northwestern
+University. Following the publication
+of her early autobiography <title level="m">American Daughter</title>
+(1946), which she wrote while holding a
+Newberry Library Fellowship, John H. Johnson
+hired her in 1947 as associate editor of
+<title level="j">Ebony</title>. She served as the co&#8211;managing editor
+of this magazine from 1951 to 1964, at which
+point she became the international editor of
+Johnson Publishing Company, a position she
+maintained until her death. In 1954 her book
+<title level="m">Africa, Land of My Father</title> appeared, and in
+1963 she co-edited <title level="m">White on Black</title>.</p>
+
+<p>Thompson received honorary doctorate
+degrees from Morningside College (1965) and
+the University of North Dakota (1969). Her
+numerous awards include the Bread Loaf
+Writers Conference Fellowship (1949), National
+Press Club Citation (1961), Iota Phi
+Lambda Outstanding Woman of the Year
+(1965), the Society of Midland Authors' Patron
+Saints Award (1968 for <title level="m">American Daughter</title>),
+and Theodore Roosevelt Roughrider
+Award, North Dakota's highest honor (1976).
+The Black Cultural Center at the University of
+North Dakota was renamed for her in 1979.
+Thompson died on December 30, 1986, and
+was buried in her family's plot in Driscoll,
+North Dakota.</p>
+
+<closer>
+<signed>&#199;igdem &#220;sekes<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderson, Kathie R. "<title level="a">Era Bell Thompson: A North Dakota
+Daughter</title>." <title level="j">North Dakota History</title> (1982): 11–18.</bibl> <bibl>Riley,
+Glenda. "<title level="a">American Daughters: Black Women in the West</title>."
+<title level="j">Montana: The Magazine of Western History</title> 38 (1988):
+14–27.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

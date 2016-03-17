@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.072">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Texas Fever</title>
+<title level="m" type="sub"></title>
+<author>James Hoy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.072</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoy, James">James Hoy</author>. <title level="a">"Texes Fever."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">55</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEXAS FEVER</head>
+
+<p>Texas, or Spanish (as it later came to be
+called), fever was first detected in Pennsylvania
+in 1796, following the delivery of cattle
+from South Carolina. On the Plains, this infectious
+bovine disease, particularly prevalent
+in Texas, was influential in the development of
+the cattle trails and cow towns of the Great
+Plains.</p>
+
+<p>The longhorn cattle from the Southern
+Plains that carried the disease were immune to
+its fatal effects, but the domestic cattle of the
+Midwest were not. The problems caused during
+the 1850s by the smaller droves of cattle
+passing through Missouri on their way to eastern
+markets were multiplied greatly when tens
+of thousands of Texas longhorns were trailed
+to Sedalia in 1866. The hostility of the Missouri
+legislature and local farmers resulted in
+the closing off of Missouri as a shipping point
+and the opening of the Kansas cow towns, led
+by Abilene in 1867.</p>
+
+<p>Dispute over the cause of the disease between
+Texas drovers, whose cattle showed
+no symptoms, and local stockmen, many of
+whose cattle died, led to the establishment of
+quarantine lines that prohibited the importation
+of Texas cattle unless they had been wintered
+over in the north. In 1885 the entire state
+of Kansas was closed to Texas cattle, interrupting
+the trail drives and contributing to the
+demise of the cattle trailing business. The
+cause of the fever&#8211;a tick that was host to a
+microscopic organism that attacked the bovine
+spleen&#8211;was not discovered until 1889.
+Dipping vats and insecticides eventually replaced
+quarantine lines as the most effective
+method of controlling the spread of
+the disease, although the Kansas City stockyards
+maintained separate areas for southern
+and northern cattle well into the twentieth
+century.</p>
+
+<p>One of the last major outbreaks of Texas
+fever on the Plains occurred in 1919 when a
+shipment of faultily dipped Texas cattle arrived
+in Wabaunsee County, Kansas, for summer
+grazing in the Flint Hills.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.007">Cattle Trails</ref>.</p>
+
+<closer>
+<signed>James Hoy<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

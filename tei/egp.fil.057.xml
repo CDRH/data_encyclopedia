@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Red River</hi></title>
+<title level="m" type="sub"></title>
+<author>William M. Wehrbein</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wehrbein, William M.">William M. Wehrbein</author>. <title level="a">"<hi rend="italic">Red River</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">277-278</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">RED RIVER</hi></head>
+<figure n="egp.fil.057" rend="granted" type="noclick">
+<figDesc>Screen shot from Red River (1948)</figDesc>
+</figure>      
+
+<p>This famous motion picture was directed by
+Howard Hawks, with a script by Charles
+Schnee and Bordon Chase (from his <title level="j">Saturday Evening Post</title> serial) and music by Dimitri
+Tiomkin. Released in 1948, <title>Red River</title> featured
+John Wayne, Montgomery Clift, Walter Brennan,
+and Joanne Dru plus a number of actors
+who appeared in Westerns from the silent film
+era through the television era. The film was
+shot at Rain Valley Ranch at Elgin (near Tucson),
+Arizona.</p>
+
+<p>Lying at the intersection of history and
+myth, <title>Red River</title> is the story of the first cattle
+drive along the Chisholm Trail from Texas to
+Abilene, Kansas, and, according to Hawks, the
+story of Texas's famed King Ranch. Beginning
+with one cow, which belongs to the orphaned
+youngster Matt Garth (Clift), and his own
+bull, Tom Dunson (Wayne) builds a herd of
+10,000 cattle on the Red River d ranch north
+of the Rio Grande. But by the end of the Civil
+War there is no market for beef in impoverished
+Texas. In desperation Dunson decides to
+drive his entire herd north to Sedalia, Missouri,
+in spite of the dangers of weather, rustlers,
+Indians, and stampedes. As living and
+working conditions for his cowboys deteriorate,
+Dunson becomes more and more tyrannical.
+In spite of reports of bandits in Missouri
+and the possibility of an alternative market in
+Abilene, he continues to drive his men ruthlessly
+toward the original destination. When
+Dunson threatens to hang two recaptured deserters
+Matt seizes control of the drive. Incensed,
+the wounded Dunson vows to catch
+up and kill him. Later, the drive encounters a
+wagon train of gamblers and women headed
+to Nevada, and cardsharper Tess Millay (Dru)
+falls in love with Matt. When the drive reaches
+Abilene they find the railroad and buyers
+waiting for them, and Matt sells the herd for a
+good price. Dunson arrives the next day.
+However, instead of the gunfight that all had
+expected, neither man will shoot the other. A
+fistfight ensues that Tess halts by firing a pistol.
+Tess points out that their actions indicate that
+Dunson and Matt must actually love each
+other, and in recognition of the successful
+completion of the cattle drive, Dunson volunteers
+to add Matt's "M" to the Red River d
+brand.</p>
+
+<p>While lacking the iconographic images of
+John Ford's Westerns, <title>Red River</title> has a number
+of memorable sequences, including the beginning
+of the cattle drive (a 180-degree pan followed
+by nineteen insert shots of yahooing
+cowboys), the crossing of the Red River, the
+stampede, Wayne reading over the grave of a
+dead cowboy, cattle herds choking the streets
+of Abilene, and the climactic fistfight. As in
+many of Hawks's films, <title>Red River</title> includes
+themes of male camaraderie and professionalism,
+and the primary relationship is not the
+one that includes the actress. The conflict between
+Tom Dunson and Matt Garth is not
+only generational but reflects the tension between
+Dunson's virtue of grim individual determination
+and Matt's "softer" virtues that
+build community.</p>
+
+<closer>
+<signed>William M. Wehrbein<lb/>
+Nebraska Wesleyan University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bogdanovich, Peter. <title level="m">Who the Devil Made It</title>. New York: Alfred
+A. Knopf, 1997.</bibl> <bibl>Mast, Gerald. <title level="m">Howard Hawks, Storyteller</title>.
+New York: Oxford University Press, 1982.</bibl> <bibl>McBride,
+Joseph. <title level="m">Hawks on Hawks</title>. Berkeley: University of California
+Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

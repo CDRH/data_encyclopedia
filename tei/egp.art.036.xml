@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.036 SYSTEM "egp.art.036.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jackson, William Henry (1843-1942)</title>
+<title level="m" type="sub"></title>
+<author>Gary Zaruba</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zaruba, Gary">Gary Zaruba</author>. <title level="a">"Jackson, William Henry (1843-1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">121</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JACKSON, WILLIAM HENRY (1843-1942)</head>
+<figure n="egp.art.036" type="noclick">
+<figDesc>William Henry Jackson, 1924</figDesc>
+</figure>
+
+<p>William Henry Jackson's career as a photographer
+and painter spanned more than
+seventy years, during which he recorded the
+vast beauty of the western landscape, Native
+American life, and the expansion of European
+Americans into the Great Plains and the West.
+According to the family Bible, Jackson was
+born in Keeseville, New York, on April 14,
+1843. He inherited his rootlessness from his
+father, who moved the family six times before
+William Henry was ten. After serving in the
+Civil War with the Twelfth Vermont Volunteers,
+he went to the Great Plains in 1866 and
+worked as a teamster hauling freight out of
+Nebraska City. Jackson made many sketches
+of his early travels in the Great Plains that
+would later serve as references for his paintings.
+With his brother he bought a photography
+studio in Omaha in 1867 and spent the
+next few years photographing local residents,
+the Indigenous peoples, the construction of
+the Union Pacific Railroad, and the settlement
+of the Great Plains. His photographs of the
+Pawnee villages and people around 1870, during
+their final years in Nebraska, are especially
+evocative.</p>
+
+<p>In 1870 he joined the Hayden Geological
+Survey as its official photographer and
+worked for the next eight years documenting
+the West and Southwest. His photographs of
+the Yellowstone area influenced Congress's decision
+to designate the nation's first national
+park in 1872, and his widely distributed photographs
+gave Americans a visual knowledge of
+the Great Plains and West. The quality of
+his work, considering the equipment and glass
+plate developing process of Jackson's time, is
+noteworthy.</p>
+
+<p>From 1879 to the mid-1920s, Jackson devoted
+his career to commercial photography:
+he opened a photography studio in Denver,
+made a photographic survey of railroads
+around the world, contributed frequently to
+<title level="j">Harper's Weekly</title>, served as photographer for
+the World's Columbian Exposition in Chicago,
+and made photographic prints and postcards
+for the Detroit Publishing Company.</p>
+
+<p>After his retirement in 1924, Jackson painted
+numerous watercolors and oil paintings, some
+of which were based on his experiences in the
+Great Plains and West. The oil painting <title>Pawnee Indian Village</title> (1930) is representative. Many
+others were scenes from the Oregon Trail,
+which preceded his own time on the Plains. He
+was mainly self-taught as a painter, although
+his photography experience gave him compositional
+skills, and he had become a close
+associate of the artist Thomas Moran while
+working on the Hayden survey. Jackson's watercolor
+paintings have a singular appearance.
+They are typically small and packed full of
+subject matter, and they have a pale pastel appearance
+created by adding white to the transparent
+medium. He continued painting and
+writing until his death in New York City on
+June 30, 1942.</p>
+
+
+<closer>
+<signed>Gary Zaruba<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hales, Peter B. <title level="m">William Henry Jackson and the Transformation of the American Landscape</title>. Philadelphia: Temple University
+Press, 1988.</bibl> <bibl>Jackson, William Henry. <title level="m">Time Exposure: The Autobiography of William Henry Jackson</title>. New
+York: Putnam's Sons, 1940.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

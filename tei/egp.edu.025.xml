@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">McLaurin v. Oklahoma State Regents</hi></title>
+<title level="m" type="sub"></title>
+<author>James M. Smallwood</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smallwood, James M.">James M. Smallwood</author>. <title level="a">"<hi rend="italic">McLaurin v. Oklahoma State Regents</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">207</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">MCLAURIN V. OKLAHOMA STATE REGENTS</hi></head>
+
+<p>Working with the National Association for the
+Advancement of Colored People (<hi rend="smallcaps">NAACP</hi>),
+black Oklahomans in the 1940s increasingly
+tested laws and state policies that upheld
+segregation, including segregated education.
+While Oklahoma had a relatively small African
+American population (about 8 percent at
+the time of statehood in 1907), a majority
+of early white Oklahomans had southern
+roots and thoroughly embraced the concept
+of white supremacy.</p>
+
+<p>The first legislature, meeting in 1907,
+had established separate schools for African
+Americans and heavy fines for administrators,
+teachers, and students who broke the law. In
+the state's higher education system the allblack
+Langston <hi rend="smallcaps">A&amp;M</hi> College, created during
+the territorial era, offered African Americans
+many programs leading to a bachelor's degree,
+but Langston had no graduate programs. Instead,
+the state provided out-of-state educational
+grants for African American students
+who wished to go to graduate school. Approximately
+2,000 black Oklahomans received
+such grants between 1907 and 1946. However,
+such a system was not acceptable to many of
+the state's African American students, one of
+whom was George McLaurin, an instructor at
+Langston who wished to pursue a graduate
+degree within the state.</p>
+
+<p>McLaurin became a pioneer in the national
+civil rights movement when he, along with
+five other African Americans, applied for admission
+to the all-white University of Oklahoma's
+graduate program in January 1948.
+Denied admission, McLaurin applied again in
+September. Still denied, he sought a remedy in
+federal court, which ordered the university to
+admit McLaurin. The ruling, however, did not
+specifically void the state's segregation laws.</p>
+
+<p>University president George Lynn Cross,
+who did not personally oppose integration,
+worked with regents to admit McLaurin while
+also obeying the state's segregation laws. However,
+the implemented plan was dehumanizing.
+The university made arrangements
+for McLaurin to take his courses in room
+104 in the Carnegie Building. Workers constructed
+an alcove (the <hi rend="smallcaps">NAACP</hi>'s lawyer, Thurgood
+Marshall, who, with Robert L. Carter
+and Amos T. Hall, argued the case before the
+Supreme Court, called it a "broom closet"),
+with wooden railings that separated McLaurin
+from the rest of the class. He had a separate
+entrance and exit to and from the hall. Mc-
+Laurin also found that the university had
+given him a separate-but-equal men's room, a
+separate table in the student union, a separate
+table in the campus cafeteria, and a separate
+library study table with his name on it. These
+arrangements satisfied neither McLaurin nor
+the <hi rend="smallcaps">NAACP</hi>, whose legal appeal argued that
+such on-campus segregation hampered Mc-
+Laurin's ability to study, to take part in class
+discussions, and to interact further with other
+students. On June 5, 1950, the U.S. Supreme
+Court agreed and ordered the university to
+end the on-campus segregation of McLaurin.</p>
+
+<p>With this victory, <hi rend="italic">McLaurin v. Oklahoma</hi>
+joined a train of precedents, including <hi rend="italic">Missouri
+ex. rel. Gaines v. Canada</hi> (1938), <hi rend="italic">Sweatt v.
+Painter</hi> (a 1950 Texas case), and <hi rend="italic">Sipuel v. Board
+of Regents University of Oklahoma</hi> (1945),
+which integrated the University of Oklahoma
+Law School and led to the Supreme Court's
+historic <hi rend="italic">Brown v. The Board of Education of
+Topeka</hi> decision of 1954 and the eventual integration
+of schools nationwide.</p>
+
+<closer>
+<signed>James M. Smallwood<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fisher, Ada Lois Sipuel. <hi rend="italic">Matter of Black and White: The
+Autobiography of Ada Lois Sipuel Fisher</hi>. Norman: University
+of Oklahoma Press, 1996.</bibl> <bibl>Franklin, Jimmie Lewis.
+<hi rend="italic">Journey toward Hope: A History of Blacks in Oklahoma</hi>.
+Norman: University of Oklahoma Press, 1982.</bibl> <bibl>Smallwood,
+James. <hi rend="italic">Blacks in Oklahoma</hi>. Stillwater: Oklahoma State
+University Press, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ea.000 SYSTEM "egp.ea.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">European Americans</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>   
+            
+<div1 type="contents">
+
+<head>European Americans</head>
+
+<figure n="egp.ea.000" rend="granted">
+<figDesc>Youngsters line up for a parade, Lindsborg Celebrations, Lindsborg, Kansas, 1961</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.ea.001">European Americans</ref></item>
+<item><ref n="egp.ea.002">Anglo-Canadians</ref></item>
+<item><ref n="egp.ii.010">Canadian Mosaic</ref></item>
+<item><ref n="egp.ea.004">Cedarvale Communist Community</ref></item>
+<item><ref n="egp.ea.005">Coronado</ref></item>
+<item><ref n="egp.ea.006">Czechs</ref></item>
+<item><ref n="egp.ea.007">Danes</ref></item>
+<item><ref n="egp.ea.008">Douglas, Thomas (Earl of Selkirk)</ref></item>
+<item><ref n="egp.ea.009">Fidler, Peter</ref></item>
+<item><ref n="egp.ea.010">Finns</ref></item>
+<item><ref n="egp.ea.011">French Canadians</ref></item>
+<item><ref n="egp.ea.012">German Russians</ref></item>
+<item><ref n="egp.ea.013">Germans</ref></item>
+<item><ref n="egp.ea.014"><title level="m">Giants in the Earth</title></ref></item>
+<item><ref n="egp.ea.015">Henday, Anthony</ref></item>
+<item><ref n="egp.ea.016">Hungarians</ref></item>
+<item><ref n="egp.ea.017">Icelanders</ref></item>
+<item><ref n="egp.med.024">Immigrant Newspapers. <hi rend="italic">See</hi> <hi rend="smallcaps">Media</hi></ref></item>
+<item><ref n="egp.ea.019">Immigration Boards</ref></item>
+<item><ref n="egp.ea.020">Irish</ref></item>
+<item><ref n="egp.ea.021">Italians</ref></item>
+<item><ref n="egp.ea.022">Jews</ref></item>
+<item><ref n="egp.ea.023">Kelsey, Henry</ref></item>
+<item><ref n="egp.ea.024">Land Laws and Settlement</ref></item>
+<item><ref n="egp.ea.025">Lewis and Clark</ref></item>
+<item><ref n="egp.ea.026">Mallet Brothers</ref></item>
+<item><ref n="egp.ea.027">Maximilian, Prince of Wied-Neuwied</ref></item>
+<item><ref n="egp.ea.028">Mores, Marquis de</ref></item>
+<item><ref n="egp.ea.029">Norwegians</ref></item>
+<item><ref n="egp.ea.030">Poles</ref></item>
+<item><ref n="egp.ea.031">Scots</ref></item>
+<item><ref n="egp.ea.032">Settlement Patterns, Canada</ref></item>
+<item><ref n="egp.ea.033">Settlement Patterns, United States</ref></item>
+<item><ref n="egp.ea.034">Simpson, George</ref></item>
+<item><ref n="egp.ea.035">Spaniards</ref></item>
+<item><ref n="egp.ea.036">Swedes</ref></item>
+<item><ref n="egp.ea.037">Thompson, David</ref></item>
+<item><ref n="egp.ea.038">Ukrainians</ref></item>
+<item><ref n="egp.ea.039">Verendrye Family</ref></item>
+<item><ref n="egp.ea.040">Vial, Pedro de</ref></item>
+<item><ref n="egp.ea.041">Villasur, Pedro de</ref></item>
+<item><ref n="egp.ea.042">Welsh</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

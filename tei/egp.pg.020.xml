@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.020 SYSTEM "egp.pg.020.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Douglas, Tommy (1904-1986)</title>
+<title level="m" type="sub"></title>
+<author>F. Laurie Barron</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brown, F. Laurie">F. Laurie Brown</author>. <title level="a">"Douglas, Tommy (1904-1986)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">662</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOUGLAS, TOMMY (1904-1986)</head>
+
+<figure n="egp.pg.020" rend="granted">
+<figDesc>Tommy Douglas</figDesc>
+</figure>
+
+<p>Thomas Clement Douglas was born in Falkirk,
+Scotland, on October 20, 1904. His family
+moved to Winnipeg, Manitoba, in 1919,
+where he witnessed the Winnipeg General
+Strike. After being ordained a Baptist minister
+in 1930, Douglas moved to Weyburn, Saskatchewan.
+Motivated by the widespread suffering
+he saw during the Depression, he decided
+to pursue a course of political activism.</p>
+
+<p>In 1935 Douglas was elected to the House of
+Commons as a member of the socialist Cooperative
+Commonwealth Federation (<hi rend="smallcaps">CCF</hi>). In
+1944 he resigned from the House of Commons
+to lead the Saskatchewan <hi rend="smallcaps">CCF</hi>, which swept
+to power to become the first socialist government
+in North America. Douglas was premier
+of Saskatchewan for the next seventeen years.</p>
+
+<p>Tommy Douglas was the most beloved premier
+in Saskatchewan history. He was a spellbinding
+orator with a ready wit, whose views
+were informed by the Social Gospel, the notion
+that people should create heaven on earth
+by helping others. He was opposed to doctrinaire
+socialism aimed at overthrowing capitalism;
+instead, he favored state regulation so
+that the "little guy" could compete against
+vested interests. He preached a liberal democratic
+philosophy based on individual rights,
+but more than others of his day, he also supported
+the collective rights of First Nations.</p>
+
+<p>The Douglas government, though not without
+its failures, introduced reforms of seminal
+importance. It was the first in Canada to adopt
+a provincial Bill of Rights. Its social welfare
+legislation, based on human dignity, was the
+most enlightened of its day. It was the first
+provincial government to address the problems
+of Aboriginal peoples. And, over the objections
+of doctors, it created a provincial
+health care system that became a model for the
+rest of Canada.</p>
+
+<p>In 1962 Douglas returned to the House of
+Commons in Ottawa to lead the New Democratic
+Party (<hi rend="smallcaps">NDP</hi>), the successor to the federal
+CCF. He surrendered the leadership of the NDP
+in 1971 and retired from Parliament eight years
+later. Tommy Douglas died in Ottawa on February
+24, 1986.</p>
+
+<closer>
+<signed>F. Laurie Brown<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barron, F. Laurie. <title level="m">Walking in Indian Moccasins: The Native
+Policies of Tommy Douglas and the <hi rend="smallcaps">CCF</hi></title>. Vancouver: University
+of British Columbia Press, 1997.</bibl> <bibl>McLeod, Thomas H.,
+and Ian McLead. <title level="m">Tommy Douglas: The Road to Jerusalem</title>.
+Edmonton: Hurtig Publishers, 1987.</bibl> <bibl>Thomas, Lewis H., ed.
+<title level="m">The Making of a Socialist: The Recollections of T. C. Douglas</title>.
+Edmonton: University of Alberta Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

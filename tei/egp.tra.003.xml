@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.tra.003 SYSTEM "egp.tra.003.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Aviation</title>
+<title level="m" type="sub"></title>
+<author>David Neufeld</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Neufeld, David">David Neufeld</author>. <title level="a">"Aviation."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">799</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AVIATION</head>
+
+<figure n="egp.tra.003" rend="granted">
+<figDesc>Fuel truck and biplane at Denver (Colorado) Municipal Airport, between 1929 and 1935</figDesc>
+</figure>
+
+<p>The history of air transport in the Great Plains
+has been shaped by several factors. The diffuse
+population and moderate size of urban centers
+in the Great Plains, along with the greater
+volume of travel between the larger urban
+centers, limited the development of regional
+air travel and freight. Nevertheless, the technological
+evolution of aircraft, especially the
+increasing reliability of engines, range, and
+load capacity, gradually made air a viable alternative
+to other forms of transport. The evolution
+of the necessary supporting infrastructure
+of airports, navigation aids, and weather
+forecasting also allowed broader public access
+to and confidence in the new airlines. Finally,
+the interplay of private business interests and
+government regulation in both Canada and
+the United States played a central part in the
+character of the new industry and its role in
+the Great Plains.</p>
+
+<p>The high profile of aviation during World
+War I and its legacy of trained pilots and
+cheap surplus aircraft prompted an immediate
+postwar interest in the possibilities of civil
+aviation. This was especially so in the Great
+Plains because of the great distances and limited
+rail connections between urban centers.
+However, the restricted utility of ex–
+war machines and the lack of even the most
+basic support facilities failed to attract capital
+investment.</p>
+
+<p>Nevertheless, the barnstorming of the early
+1920s did play an important role in capturing
+the public's imagination. By the end of the
+decade many Plains municipalities were building
+airports, anxious to connect with the new
+mode of transportation. Federal contributions
+in both Canada and the United States were
+initially limited to the development of aeronautical
+aids in the form of charts and navigation
+beacons and airmail subsidies for the air
+transport industry. In the American Great
+Plains, small interurban airlines were established
+on largely north–south routes to act as
+feeders to the transcontinental railways. Farther
+north, Canadian companies similarly developed
+a north–south network, but there the
+airlines were more involved in air freight, supporting
+the development of a mining industry
+beyond the reach of roads and rail.</p>
+
+<p>Regional aviation was largely left to the private
+sector. However, national interests in a stable
+air transport industry led to a highly regulated
+environment. While this included the
+creation of a Canadian government national
+airline, in both countries it reinforced and institutionalized
+a split between large national
+carriers that crossed the country and regional
+airlines that fed into this larger network.</p>
+
+<p>Civil aviation boomed after World War II,
+fostered by the expanded wartime aviation infrastructure,
+the availability of trained pilots
+and mechanics, and the establishment of a
+successful aircraft manufacturing industry
+within the region. Public confidence in air
+travel also grew, and by the late 1960s air had
+surpassed rail in passenger travel. Government
+regulation remained a prominent feature
+of the industry but was soon to decline in
+importance with consequent changes in air
+transport structure and character.</p>
+
+<p>The expansion of the highway system
+through the 1950s and 1960s, heavily subsidized
+by the national government, began to
+undermine the utility of the short-haul airlines
+that served Great Plains cities. The deregulation
+of the airline industry in the late 1970s and
+1980s also removed government support for
+regional service, and less-profitable service to
+many communities was abandoned. The previous
+separation between national and regional
+carriers dissolved, and smaller companies
+operated in a hub-and-spoke system
+largely centered on cities outside of the Great
+Plains, further eroding levels of service to
+many Plains communities.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.011">Earhart, Amelia</ref>.</p>
+
+<closer>
+<signed>David Neufeld<lb/>
+Parks Canada</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bilstein, Roger E. <title level="m">Flight in America 1900–1983: From the
+Wrights to the Astronauts</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns Hopkins
+University Press, 1984.</bibl> <bibl>Davies, R. E. G. <title level="m">Airlines of the United
+States since 1914</title>. New York: Putnam, 1972.</bibl> <bibl>Main, J. R. K.
+<title level="m">Voyageurs of the Air: A History of Civil Aviation in Canada,
+1858–1967</title>. Ottawa: Canada Department of Transport,
+1967.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

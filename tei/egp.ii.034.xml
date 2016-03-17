@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.034 SYSTEM "egp.ii.034.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wild Bill Hickok</title>
+<title level="m" type="sub"></title>
+<author>Roger D. McGrath</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McGrath, Roger D.">Roger D. McGrath</author>. <title level="a">"Wild Bill Hickok (1837-1876)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">390</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HICKOK, WILD BILL (1837-1876)</head>
+
+<figure n="egp.ii.034" rend="granted">
+<figDesc>Wild Bill Hickok</figDesc>
+</figure>
+
+<p>Born in <placeName rend="state" key="il" reg="Illinois">Illinois</placeName> in 1837 to a farmer and proprietor of a small store, <persName reg="Hickok, James Butler (Wild Bill)">James Butler Hickok</persName> grew up to become a gunfighter and lawman of legendary proportions in the <geogName rend="region" reg="The West">West</geogName>. He served as constable of <placeName rend="settlement" key="ks.mon" reg="Monticello, Kansas">Monticello, Kansas</placeName>, in 1858, then worked as a teamster in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> before serving with the Union army as a wagon master, scout, and spy during the Civil War. Following the war he scouted for Custer's <orgName rend="military" key="mil.sca" reg="Seventh Cavalry">Seventh Cavalry</orgName> and was a deputy U.S. marshal responsible for capturing army deserters and rustlers of government livestock. In August 1869 he was elected sheriff of <placeName rend="county" key="co.ks.ell" reg="Ellis County, Kansas">Ellis County, Kansas</placeName>, but that lasted only three months. During 1871 he was town marshal of <placeName rend="settlement" key="ks.abi" reg="Abilene, Kansas">Abilene</placeName>. The next several years found him guiding Russian nobles on a buffalo hunt, gambling his way from one cow town to another, and performing in <persName reg="Cody, William F.">Buffalo Bill</persName>'s <hi rend="italic">Scouts of the Prairie</hi> theatrical production. In 1876 he joined the rush to the <geogName rend="region" reg="Black Hills">Black Hills</geogName>, but he had no luck prospecting and spent most of his time drinking and gambling in <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>. While playing cards in the <placeName rend="saloon" key="sal.s10" reg="Sallon #10">No. 10 Saloon</placeName> on August 2, 1876, he was shot through the back of the head by <persName reg="McCall, Jack">Jack McCall</persName>. <persName reg="Hickok, James Butler (Wild Bill)">Wild Bill</persName> died instantly, still holding his hand of aces and eights.</p>
+
+<p><persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName> was a legendary figure while still alive. He embraced, perpetuated, and added to his own legend and, alternately, was repulsed by it. He was an enigmatic figure who defies simple analysis. One thing is clear. He was a fearsome gunfighter: his accuracy was extraordinary, he shot equally well with either hand, he had great presence of mind in the face of death, and he gave no quarter. He shot to death seven men, not counting those he killed in the Civil War and in Indian fights.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Roger D. McGrath<lb/>
+Thousand Oaks, California</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Connelley, William Elsey. <title level="m">Wild Bill and His Era</title>. New York: Press of the Pioneers, 1933.</bibl> <bibl>Rosa, Joseph G. <title level="m">They Called Him Wild Bill</title>. Norman: University of Oklahoma Press, 1964.</bibl> <bibl>Rosa, Joseph G. <title level="m">Wild Bill Hickok</title>. Lawrence: University Press of Kansas, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

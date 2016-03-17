@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Automotive</title>
+<title level="m" type="sub"></title>
+<author>Curt McConnell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McConnell, Curt">Curt McConnell</author>. <title level="a">"Automotive."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">410-411</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Automotive</head>
+
+<p>Never a large industry in the Great Plains, automaking
+nonetheless flourished until the 1930s.
+The region's small factories often sold directly to
+motorists, thereby eliminating transportation
+costs and agents' markups, and provided services
+unknown in the East: free driving lessons,
+lifetime warranties, and sometimes a chance for
+customers to help build the car they would own.</p>
+
+<p>Nebraska and Kansas each had half a dozen
+companies that saw serious, sustained production
+prior to World War II. In Kansas,
+Topeka's Smith Automobile Company (1902–
+12) sold 1,200 hand-built autos nationally. The
+Great Smith's advanced semiautomatic transmission,
+built-in icebox, and colorful stunts&#8211;
+climbing Pikes Peak in a blizzard, driving six
+days nonstop on rain-soaked Texas roads&#8211;
+won it many fans.</p>
+
+<p>The lightly populated Dakotas, Montana,
+New Mexico, Oklahoma, and Wyoming saw
+little automaking activity. The popular Montana
+Special, which sold well in Big Sky Country
+from 1911 to 1916, was actually a Minnesota
+product. Denver supplied Colorado's bestknown
+autos: the Colburn, famed for racing,
+and the Fritchle Electric, which Oliver P.
+Fritchle advertised widely in 1908 during a
+grueling trek over bad roads from Lincoln,
+Nebraska, to New York City.</p>
+
+<p>A shift in demand from open to closed cars
+and the advent of the moving assembly line
+forced automakers to invest more heavily in
+machinery, particularly after World War I.
+Consolidation marked the 1920s. Except for a
+few makers of luxury autos (for whom quality,
+not price, was all-important), smaller factories
+failed. A few of the region's automakers
+survived by producing fire engines, truck bodies,
+street cleaners, and other specialty machines.</p>
+
+<p>Now a few large companies dominate the
+automobile industry, and manufacturing is
+concentrated in Ontario, in the case of Canada,
+and in Michigan and Ohio, in the United
+States. Great Plains states accounted for just
+less than 10 percent of U.S. output in 1996.
+General Motors plants in Oklahoma City,
+Arlington, Texas (just east of Fort Worth), and
+Fairfax, Kansas (northeastern Kansas City)
+and the Ford Motor Assembly Plant in Kansas
+City, Missouri, are the hubs of the region's
+production.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.002">Automobiles</ref>.</p>
+
+<closer>
+<signed>Curt McConnell<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kimes, Beverly Rae, and Henry Austin Clark Jr. <title level="m">Standard Catalog of American Cars, 1805–1942</title>. Iola <hi rend="smallcaps">WI</hi>: Krause Publications,
+1989.</bibl> <bibl>McConnell, Curt. <title level="m">Great Cars of the Great Plains</title>. Lincoln: University of Nebraska Press, 1995.</bibl> <bibl><title level="m">Ward's Automotive Yearbook</title>. Southfield <hi rend="smallcaps">MI</hi>: Ward's Communications,
+1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

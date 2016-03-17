@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Immigration Boards</title>
+<title level="m" type="sub"></title>
+<author>Erin McDanal</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McDanal, Erin">Erin McDanal</author>. <title level="a">"Immigration Boards."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">236</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">IMMIGRATION BOARDS</head>
+
+<p>The peopling of the Great Plains in the United
+States was significantly fueled by the promotional
+activities of state and territorial immigration
+boards. Following the Civil War many
+U.S. citizens looked for a fresh start in the
+sparsely populated Plains. Overpopulation
+and a lack of land on which to build a livelihood
+also influenced many Europeans to emigrate
+and create a new life for themselves in
+the opened tracts of the Great Plains. The
+Homestead Act of 1862 provided another major
+impetus by giving any U.S. citizen, or alien
+who intended to become a citizen, 160 acres
+of land.</p>
+
+<p>Developed settlements encouraged law and
+order, provided entrepreneurial opportunities
+in agriculture and industry, and offered better
+methods of reliable transportation for the new
+transplants. The railroads promoted settlement
+by providing land along their tracks and
+by mounting vigorous advertising campaigns.
+Attracting immigrants to the Plains was economically
+important for land companies, as
+well as for the already settled residents of the
+territories and many newly organized states.
+In the early 1870s, for example, the community
+of Yankton paid local merchants who
+were in New York on business to meet incoming
+steamships and make a pitch to immigrants&#8211;
+particularly German Russians, who
+knew how to farm the prairie&#8211;to settle in
+southeastern Dakota Territory. Many state or
+territorial governments established boards or
+bureaus of immigration to foster the settlement
+of the Plains.</p>
+
+<p>The immigration boards advertised primarily
+in the United States and Europe through
+newspapers and pamphlets and by setting up
+exhibits at World Fairs and various conferences.
+Colorado's immigration board was typical
+of these government agencies. In 1872 the
+Territory of Colorado established the Board of
+Immigration to promote Colorado as an attractive
+and desirable locality for those seeking
+homes, to supply immigrants with full and
+authoritative information, and to aid and facilitate
+their journey to the territory. Similarly,
+the Dakota Territory's legislature set up an Immigration
+Bureau in January of 1871, headed by
+a commissioner who published promotional
+pamphlets and spent time in New York competing
+with agents from Kansas and Nebraska
+for potential Plains settlers. The size of the
+bureau was increased to five in 1875, including
+a German who was responsible for immigrants
+disembarking from steamboats in New York
+and from trains in Chicago, and a Norwegian
+who was assigned to attract Scandinavians.
+The bureau operated until 1877, by which
+time immigration had its own momentum,
+prompted by settlers' letters back to the Old
+Country.</p>
+
+<p>For most people, moving to the Great
+Plains was difficult, not least because of the
+environmental challenges. Information about
+the climate and living conditions was particularly
+helpful for many prospective settlers.
+Immigration handbooks and publications
+provided necessary facts, but they
+sometimes exaggerated the qualities of the environment
+and the settlements in order to attract
+more people. These handbooks became
+an important genre of literature throughout
+the latter part of the nineteenth and early part
+of the twentieth centuries. Although the immigration
+boards were not above overrating
+their advertised regions, most agencies published
+credible and honest information so that
+the newcomers would be successful in their
+pursuits. A failed settlement, after all, could
+not significantly contribute to the growth and
+development of the region.</p>
+
+<closer>
+<signed>Erin McDanal<lb/>
+Colorado State Archives</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Board of Immigration. Collection. Colorado State Archives,
+Denver. Greenleaf, Barbara Kaye. <title level="m">America Fever: The Story of American Immigration</title>. New York: Four
+Winds Press, 1970.</bibl> <bibl>Schell, Herbert S. <title level="m">History of South Dakota</title>.
+Lincoln: University of Nebraska Press, 1961.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

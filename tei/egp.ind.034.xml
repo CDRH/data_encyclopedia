@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Karcher, John (1894-1978)</title>
+<title level="m" type="sub"></title>
+<author>Dianna Everett</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Everett, Dianna">Dianna Everett</author>. <title level="a">"Karcher, John (1894-1978)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">424-425</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KARCHER, JOHN (1894-1978)</head>
+
+<p>John Clarence Karcher, inventor of the reflection
+seismograph, was born in Dale, Indiana,
+on April 15, 1894, to Leo and Mary Madlon
+Karcher and was raised on a farm near Hennessey,
+Oklahoma. After graduating from
+Hennessey High School in 1912, he attended
+the University of Oklahoma, where he received
+bachelor's degrees in physics and in
+electrical engineering in 1916. From Oklahoma
+he went to the University of Pennsylvania
+to pursue graduate degrees, completing
+his doctorate in 1918.</p>
+
+<p>From 1917 onward John Karcher combined
+his major area of study, physics, with geology,
+due perhaps to his acquaintance with geologists
+while at Oklahoma. During World War I,
+he collaborated with the U.S. navy in trying to
+develop a method of locating German artillery
+batteries by tracking the sound and seismic
+waves that their firing produced. In the process,
+he was inspired to invent an instrument
+that could map subsurface geologic structures
+by measuring blast-induced vertical vibrations
+in the earth. He subsequently designed,
+built, and patented the reflection seismograph,
+or at least an American version of that
+tool, now an essential aspect of "prospecting"
+for petroleum reservoirs.</p>
+
+<p>In June 1921 Karcher, several University of
+Oklahoma professors, and three Oklahoma
+City oilmen successfully tested the reflection
+seismograph north of Oklahoma City. In 1925
+Karcher combined with Everette L. DeGolyer
+of Amerada Petroleum Corporation to form
+Geophysical Research Corporation. For the
+next few years their crews prospected around
+Seminole, Oklahoma, and finally identified a
+structure likely to contain oil. There, in December
+1928, Amerada successfully activated
+the world's first oil well located by reflection
+seismography.</p>
+
+<p>Karcher's career took off in the late 1920s,
+when he went into the petroleum production
+business. His companies, among them Geophysical
+Service Incorporated (which later
+was sold and renamed Texas Instruments,
+Incorporated), Coronado Corporation, Las
+Tecas Petroleum Company, and Concho Petroleum
+Company, prospected for oil, drilled
+the wells, and marketed the product. Karcher
+received the Anthony F. Lucas Gold Medal,
+given by the American Institute of Mining,
+Metallurgical and Petroleum Engineers, for
+developing the seismograph. John Clarence
+Karcher died in Dallas, Texas, on July 13, 1978.</p>
+
+<closer>
+<signed>Dianna Everett<lb/>
+Oklahoma Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Green, Cecil H. "John Clarence Karcher, 1894–1978, Father
+of the Reflection Seismograph." <title level="j">Geophysics</title> 178 (1979):
+1018–21.</bibl> <bibl>Perdue, Richard M. "John Clarence Karcher." In
+<title level="m">The New Handbook of Texas</title>, edited by Ron Tyler et al., 3:
+1033. Austin: Texas State Historical Association, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

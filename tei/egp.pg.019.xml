@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dole, Bob (b. 1923)</title>
+<title level="m" type="sub"></title>
+<author>Burdett A. Loomis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Loomis, Burdett A.">Burdett A. Loomis</author>. <title level="a">"Dole, Bob (b. 1923)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">661-662</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOLE, BOB (b. 1923)</head>
+
+<p>Born on July 22, 1923, in Russell, Kansas, Robert
+J. "Bob" Dole rose from county attorney to
+become a five-term U.S. senator, chairman of
+the Republican Party (1971–72), Republican
+nominee for vice president (1976), and threetime
+presidential candidate. In 1996 Dole won
+the Republican nomination for president but
+lost in the general election to incumbent President
+Bill Clinton.</p>
+
+<p>Gravely wounded in the last days of World
+War II, Dole returned home to Kansas to rehabilitate
+his shattered body and to complete
+his education. He was elected to the state legislature
+in 1951, even before finishing law school
+at Topeka's Washburn University. Dole impressed
+state Republicans with his prairie conservatism
+and capacity for hard work. In 1960,
+after eight years as Russell County attorney,
+Dole won the Republican nomination for the
+U.S. House, where he served for eight years as
+a solid representative of western Kansas. In
+1968 Republican incumbent Sen. Frank Carlson
+stepped down and encouraged Dole to
+replace him. After a typically energetic campaign,
+Dole won the seat and&#8211;save for a narrow
+victory over Rep. Bill Roy in 1974&#8211;faced
+no serious opposition for the remainder of his
+tenure on Capitol Hill.</p>
+
+<p>A long-time member of the Agriculture and
+Finance Committees, Bob Dole became a national
+political figure in the 1970s. He served as
+chairman of the Republican National Committee
+(<hi rend="smallcaps">RNC</hi>) during the 1972 presidential
+campaign and was President Gerald Ford's
+running mate in 1976. Despite his rnc posi
+tion, Dole played no role in the Watergate affair
+that brought down Richard Nixon's presidency.
+As the vice presidential candidate, Dole
+often took the offensive against the Democrats,
+thus gaining the reputation as a rough
+campaigner.</p>
+
+<p>By the late 1970s Dole had risen through the
+Senate's ranks and had won recognition as an
+effective legislator whose conservatism was
+often tempered with pragmatism. After Republicans
+won control of the Senate in 1980,
+Dole served first as chairman of the Finance
+Committee (1981-84) and then as the Republican
+floor leader (majority leader, 1985-86, 1995-96; minority leader, 1987-94). As a
+Senate leader Dole demonstrated great talents
+and even greater patience in forging majorities
+among his Senate colleagues. Nowhere
+was this clearer than in his role in "saving"
+social security in 1983, as he played a central
+role in putting together a package that was
+acceptable to Republicans and Democrats in
+both houses, as well as to the Reagan White
+House. In 1990, after thirty years of trying,
+Dole won passage of the Americans with Disabilities
+Act, which, with the 1972 food-stamps
+initiative, represent two of his most important
+substantive legislative legacies.</p>
+
+<p>In 1996 Bob Dole won the Republican presidential
+nomination, after which he resigned
+from the Senate to concentrate his attention on
+the presidential race. He proved incapable of
+overcoming a healthy economy and President
+Clinton's strong performance on the campaign
+trail, and he returned to private life as an attorney
+for a prestigious Washington law firm.
+Dole remained active in international affairs&#8211;
+especially on missions to the former Yugoslavia&#8211;
+and in 1997 President Clinton honored
+him with the Presidential Medal of Freedom. In
+addition, Elizabeth Dole's continuing prominence
+as a Republican presidential hopeful kept
+Bob Dole active in national politics beyond his
+own period of officeholding and campaigning.</p>
+
+<closer>
+<signed>Burdett A. Loomis<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cramer, Richard Ben. <title level="m">What It Takes</title>. New York: Random
+House, 1992.</bibl> <bibl>Dole, Bob and Elizabeth. <title level="m">Unlimited Partners</title>.
+New York: Simon and Schuster, 1998.</bibl> <bibl>Thompson, Jake H.
+<title level="m">Bob Dole</title>. New York: Donald Fine, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

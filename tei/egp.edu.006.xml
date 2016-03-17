@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Blanton, Annie Webb (1870-1945)</title>
+<title level="m" type="sub"></title>
+<author>Margaret C. Berry</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berry, Margaret C.">Margaret C. Berry</author>. <title level="a">"Blanton, Annie Webb (1870-1945)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">199</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLANTON, ANNIE WEBB (1870-1945)</head>
+
+<p>Annie Webb Blanton was a recognized international
+leader in education, a teacher, a suffragist,
+and the first woman in Texas elected to
+a statewide office. The twin daughter of early
+Texas pioneers Thomas Lindsay and Eugenia
+Webb Blanton, she was born in Houston on
+August 20, 1870. She had six siblings: her twin,
+Fannie, who died at age twelve, two other sisters,
+and three brothers. After early education
+in Houston and at La Grange (Texas) High
+School, she began teaching in a small school in
+Pine Springs, Fayette County, where her special
+interest in rural education began. In 1888,
+with both parents deceased, she moved to
+Austin and taught in elementary schools and
+later in Austin High School to support herself
+while studying at the University of Texas. She
+graduated in 1899 with a bachelor of literature
+degree.</p>
+
+<p>Blanton taught English in Denton at North
+Texas State Normal (now the University of
+North Texas) from 1901 to 1918. While there
+she was active in the Texas State Teachers Association
+and was elected its first woman president
+in 1916. She also served as vice president
+of the National Education Association for
+three terms, 1917, 1919, and 1921. A strong advocate
+of equal rights for women, she entered
+Texas politics in 1918 and was elected state superintendent
+for public instruction in the first
+election in which Texas women had the right
+to vote. Her accomplishments included adoption
+of a system of free textbooks, revision of
+teacher certification laws, efforts to improve
+rural education, increased salaries for teachers,
+increase in length of the school term, and
+passage of the Better Schools Amendment to
+remove state constitutional limitations on tax
+rates for local school districts.</p>
+
+<p>After serving two terms, Blanton ran unsuccessfully
+for the U.S. Congress in 1922 and
+then returned to the University of Texas at
+Austin for a master's degree in 1923. Here she
+began teaching as adjunct professor of school
+administration. In 1926 she took a leave of
+absence to attend Cornell University for a
+doctorate in rural education and rural sociology,
+which she received in 1927. She returned
+to Austin and in 1933 became professor of
+rural education, the third woman to receive
+the rank of full professor at the University of
+Texas.</p>
+
+<p>In 1929, at her residence in the Faculty
+Women's Club near the campus, she founded
+the Delta Kappa Gamma Society, an honor
+society for women teachers that in 2001 had an
+international membership of 143,951. She was
+author of several books, including textbooks.
+Texas public schools in Austin, Dallas, and
+Odessa and a residence hall at the University
+of Texas bear her name. She died in Austin on
+October 2, 1945, and was buried in Oakwood
+Cemetery.</p>
+
+<closer>
+<signed>Margaret C. Berry<lb/>
+Austin, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cottrell, Debbie Mauldin. <hi rend="italic">Pioneer Woman Educator: The
+Progressive Spirit of Annie Webb Blanton</hi>. College Station:
+Texas A&amp;M University Press, 1994.</bibl> <bibl>Holden, Eunah Temple.
+<hi rend="italic">Our Heritage in the Delta Kappa Gamma Society</hi>. Austin
+<hi rend="smallcaps">TX</hi>: Delta Kappa Gamma Society, 1970.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

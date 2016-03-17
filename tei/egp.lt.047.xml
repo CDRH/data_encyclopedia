@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Momaday, N. Scott (b. 1934)</title>
+<title level="m" type="sub"></title>
+<author>Kenneth M. Roemer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Roemer, Kenneth M.">Kenneth M. Roemer</author>. <title level="a">"Momaday, N. Scott (b. 1934)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">485-486</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MOMADAY, N. SCOTT (b. 1934)</head>
+<figure n="egp.lt.047" rend="granted" type="noclick">
+<figDesc>N. Scott Momaday</figDesc>
+</figure>
+
+<p><title level="m">House Made of Dawn</title> (1968), N. Scott Momaday's
+Pulitzer Prize–winning novel about a
+World War II veteran's experiences at Jemez
+Pueblo and in Los Angeles, was a ground-breaking
+literary event that attracted widespread
+attention to contemporary Native
+American writing as well as to much older
+written and oral Native American literature.
+Since the publication of that novel, Momaday
+has written another, <title level="m">The Ancient Child</title> (1989),
+and has also gained international recognition
+as a poet (<title level="m">The Gourd Dancer</title>, 1976; <title level="m">In the Presence of the Sun: A Gathering of Shields, 1961– 1991</title>, 1992; <title level="m">In the Bear's House</title>, 1999), an autobiographer
+and engaging interviewee (<title level="m">The Way to Rainy Mountain</title>, 1969; <title level="m">The Names: A Memoir</title>, 1976; <title level="m">Ancestral Voice</title>, 1989; <title level="m">Conversations with N. Scott Momaday</title>, 1997), an essayist
+(<title level="m">The Man Made of Words: Essays, Stories, and Passages</title>, 1997), and a respected artist.</p>
+
+<p>Navarre Scott Momaday was born in Lawton,
+Oklahoma, on February 27, 1934. Although
+he has lived most of his life away from
+his birthplace, southwestern Oklahoma and
+other Great Plains landscapes have dominated
+much of his best fiction and poetry. In <title level="m">The Ancient Child</title>, some of his most lyric prose
+poems capture the majesty and seasonal beauties
+of Devil's Tower (Bear Lodge) in Wyoming
+and the Wichita Mountains' high meadows
+in spring. Several fine poems celebrate
+striking aspects of the Plains landscape (the
+"prairie fire" of sunrise in "Plainview 3") and
+Plains culture (<title level="m">The Gourd Dancer</title>, "Rings of
+Bone," and the "Gathering of Shields" prose
+poems).</p>
+
+<p>It is in The Way to Rainy Mountain, however,
+that Momaday offers his most sustained
+and moving testimony to the Great Plains. His
+father's people, the Kiowa, undertook a migration
+300 years ago that traversed the Great
+Plains from the headwaters of the Yellowstone
+River to Rainy Mountain in southwestern
+Oklahoma and continued in later years with
+horseback travels through Texas to Mexico.
+For Momaday, the Plains area of southwestern
+Oklahoma is "a landscape that is incomparable,"
+in part because it grounds and witnesses
+a grand paradox for his father's people, "a time
+that is gone forever, and the human spirit,
+which endures." To capture this landscape in
+twenty-four two-page sections, Momaday created
+three "angles of vision": storytelling (tribal
+narratives and family lore), history-fact, and
+personal experience. Together these viewpoints
+acknowledge the harshness of the Plains
+&#8211;blizzards, a summer heat as fierce as "an
+anvil's edge," tornadoes powered by a wild
+mythical horse&#8211;and document the tragedies
+of his people: 800 Kiowa horse carcasses rotting
+near Fort Sill, thousands of buffalo slaughtered,
+many Kiowas killed and taken into captivity.
+But in memory, in the present, and in the
+sense of sacred play of the three perspectives,
+the vitality of the Kiowa Plains endures in a
+mountain that "burns and shines" in the "early
+sun," in a reverence for the grand wanderings
+of great horsemen, and in the joy of seeing a
+newborn buffalo that adds life to the returning
+buffalo herds. Small wonder that Momaday
+can look at the remote knoll that is Rainy
+Mountain and see a place "where Creation was
+begun."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.055">Kiowas</ref>.</p>
+
+<closer>
+<signed>Kenneth M. Roemer<lb/>
+University of Texas-Arlington</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Roemer, Kenneth M., ed. <title level="m">Approaches to Teaching Momaday's "The Way to Rainy Mountain."</title> New York: Modern
+Language Association, 1988.</bibl> <bibl>Scarberry-Garcia, Susan.
+<title level="m">Landmarks of Healing: A Study of "House Made of Dawn."</title>
+Albuquerque: University of New Mexico Press, 1990.</bibl>
+<bibl>Schubnell, Matthias. N. <title level="m">Scott Momaday: The Cultural and Literary Background</title>. Norman: University of Oklahoma
+Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

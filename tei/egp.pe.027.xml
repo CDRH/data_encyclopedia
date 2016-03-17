@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Flora</title>
+<title level="m" type="sub"></title>
+<author>Kathleen H. Keeler</author>
+<author>James H. Locklear</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Keeler, Kathleen H.">Kathleen H. Keeler</author> and <author n="Locklear, James H.">James H. Locklear</author>. <title level="a">"Flora."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">628-629</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FLORA</head>
+
+<p>More than 2,900 species of vascular plants
+from some 730 genera in 159 families grow in
+the Great Plains. The vast majority (all but 81
+species in 8 families) are angiosperms (flowering
+plants). For plants the Great Plains has
+one of the most stressful climates: hot summers,
+cold winters, frequent droughts, with
+dramatic seasonal and annual variation. Consequently,
+the plants that dominate the region
+are herbaceous grasses and forbs (wildflowers)
+derived from the plant families of temperate
+regions rather than trees or plants from
+families of tropical regions. The families with
+the most genera and species are sunflowers
+(Asteraceae), with more than 100 genera and
+430 species, grasses (Poaceae, 76 genera, 260
+species), sedges (Cyperaceae, 13 genera, 220
+species), and legumes (Fabaceae, 34 genera,
+158 species, or 46 genera, and 178 species if
+Caesalpinaceae and Mimosaceae are included
+in the Fabaceae). The precise numbers are
+subject to revision as taxonomists improve
+their understanding of the flora, but the pattern
+is unlikely to change. Other groups with
+numerous species are mustards (Brassicaceae),
+lilies (Liliaceae), umbels (Apiaceae),
+mints (Lamiaceae), and the penstemon family
+(Scrophulariaceae).</p>
+
+<p>Compared to North American deserts and
+forests, Plains ecosystems formed very recently.
+Consequently, there are only about 100
+endemic species and no endemic genera or
+families. The most common endemic species
+are composites (Asteraceae, 27 species), and
+legumes (Fabaceae, 21 species, especially <hi rend="italic">Astragalus</hi>).
+Surprisingly, there are no endemic
+grasses.</p>
+
+<p>Plants that are naturally rare in this region
+tend to occur in restricted habitats, especially
+at the western edge of the region, or in scattered
+microhabitats, such as salt marshes.
+However, reduction of formerly widespread
+ecosystems such as tallgrass and midgrass
+prairies to tiny fragments is putting many previously
+common species at risk of extinction.
+In addition, changes in land use, such as continuous
+grazing and reduction of fire, pose
+threats to some species: If a plant decreases
+under grazing, or requires fire to prosper, it
+may decline even if the area is otherwise undisturbed
+and well managed. Historically,
+both grazing and fire occurred episodically,
+and some species relied on the changing conditions.</p>
+
+<p>Approximately 12 percent of all Plains species
+have recently been introduced to the region:
+plants from the eastern United States
+(previously excluded by drought, recurrent
+fire, and absence of tree cover), plants from
+the western United States (previously unable
+to cross the mountains), and plants from Europe,
+Asia, and occasionally Africa and South
+America brought by humans. Some of these,
+such as <hi rend="italic">Salsola</hi> (tumbleweeds), are able to invade
+natural ecosystems, but most introduced
+plants remain associated with humans. These
+can be expected to steadily increase in number
+and diversity where human impact increases.
+The introduced plants form the basis for an
+ongoing evolution of the flora, in some cases
+changing in response to Plains conditions,
+and in other cases hybridizing with their native
+relatives to form new varieties and possibly
+species.</p>
+
+<p>Great Plains flora is dominated by perennial
+herbs, plants that die back to the roots
+each winter then resprout in the spring. Trees
+are abundant on the edges of the region and
+in the larger river valleys of the eastern Plains.
+Beyond these areas, trees and shrubs, because
+they are more injured by prairie fires than
+herbs (especially grasses), were historically
+found only in areas protected from fire, such
+as near cliffs or on islands and at bends in
+rivers. A few shrubs&#8211;lead plant (<hi rend="italic">Amorpha
+canescens</hi>), for example&#8211;survive well within
+the open grassland. Others, such as sumac
+(<hi rend="italic">Rhus</hi>) and dogwoods (<hi rend="italic">Cornus</hi>), rapidly increase
+in unburned prairie.</p>
+
+<closer>
+<signed>Kathleen H. Keeler<lb/>
+University of Nebraska-Lincoln<lb/>
+James H. Locklear<lb/>
+Nebraska Statewide Arboretum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Great Plains Flora Association. <title level="m">Flora of the Great Plains</title>.
+Lawrence: University Press of Kansas, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

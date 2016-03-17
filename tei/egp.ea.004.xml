@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cedarvale Communist Community</title>
+<title level="m" type="sub"></title>
+<author>Norman E. Saul</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Saul, Norman E.">Norman E. Saul</author>. <title level="a">"Cedarvale Communist Community."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">227</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CEDARVALE COMMUNIST COMMUNITY</head>
+
+<p>One of the most unusual foreign settlements
+in the Great Plains in the nineteenth century
+was a utopian socialist commune established
+by Russian exiles on former Osage Indian
+lands near Cedarvale in southern Kansas. Its
+inspiration goes back to members of the Russian
+intelligentsia, led by Alexander Herzen
+and Michael Bakunin, and their reception of
+the ideas of French socialists such as Fourier
+and German romantic philosophers during
+the 1830s and 1840s. This generation of thinkers
+was followed by one of activists, inspired
+especially by Nicholas Chernyshevsky and Peter
+Lavrov (the "sons" of Ivan Turgenev's <title level="m">Fathers and Sons</title>), who sought implementation
+of basic reforms and socialist ideals based on
+the example of Russian peasant collectives.
+But this was not easy to accomplish in an autocratic
+empire, even during the relatively liberal
+reign of Alexander II (1855–81). Some,
+therefore, went in search of greater freedom
+for experimentation abroad.</p>
+
+<p>One of these was a former army officer and
+surveyor of Baltic German background, Vladimir
+Geins. Due to American sympathy toward
+Russia during the Crimean War and
+Russian support of the Union during the Civil
+War, literature about the United States was
+abundant. Geins and his wife set out for the
+"land of <hi rend="italic">social</hi> opportunity" in 1868, first settling
+in Jersey City, then joining an established
+commune in Missouri as Wilhelm and Maria
+Frei, which was soon Americanized to William
+and Mary Frey. Owing to disputes among
+the group and the opening up of Osage land,
+the Freys, with a few other American and Russian
+followers, moved to Kansas in 1871 to
+found the "Progressive Communist Community"
+at Cedarvale.</p>
+
+<p>Though small(fifteen members at the
+most)and relatively remote, it became well
+known for its mixture of Russian atheistic
+populists and American Christian socialists,
+its adherence to "modern" ideas such as vegetarianism
+and, for a few, nudism, and its promotional
+and educational efforts. In 1875 Frey
+began publishing <title level="j">The Progressive Communist</title>,
+a monthly newsletter that circulated to other
+communities such as Oneida and Brook
+Farm. The Kansas commune was also distinguished
+by some of its members, such as
+Ukrainian writer Gregory Machtet, Nicholas
+Chaikovsky, who played a leading role in the
+Russian Revolution in 1917, and Vladimir
+Dobroliubov, the brother of Chernyshevsky's
+associate.</p>
+
+<p>In 1879 disagreements and financial pressures
+came to a head, and the community dissolved.
+The Freys lived for a short time at
+the New Odessa colony in Oregon, then spent
+their remaining years in London, from where
+William carried on a widely publicized correspondence
+with Leo Tolstoy. Machtet and
+Chaikovsky returned to Russia to write of
+their experiences and suffer long periods of
+forced exile in Siberia.</p>
+
+<closer>
+<signed>Norman E. Saul<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frey, William. Papers. Manuscript Division, New York
+Public Library, New York. Saul, Norman E. <title level="m">Concord and Conflict: The United States and Russia, 1867–1914</title>. Lawrence:
+University Press of Kansas, 1996.</bibl> <bibl>Yarmolinsky,
+Avrahm. <title level="m">A Russian's American Dream: A Memoir on William Frey</title>. Lawrence: University Press of Kansas, 1965.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

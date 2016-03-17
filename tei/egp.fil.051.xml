@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Northern Lights</hi></title>
+<title level="m" type="sub"></title>
+<author>Eunice Pedersen Johnston</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Johnston, Eunice Pedersen">Eunice Pedersen Johnston</author>. <title level="a">"<hi rend="italic">Northern Lights</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">275</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">NORTHERN LIGHTS</hi></head>
+<figure n="egp.fil.051" rend="granted" type="noclick">
+<figDesc>Nortern Lights (1978) film poster</figDesc>
+</figure>    
+
+<p><title>Northern Lights</title> (1978), an independently produced
+film, tells the story of North Dakota
+farmers who rebel against the economic tyranny
+of the railroads, grain dealers, and bankers
+by working for the election of Nonpartisan
+League candidates in 1916.</p>
+
+<p>A mixture of historical fact and imaginative
+fiction, the film shows why one individual becomes
+involved in a radical, grassroots political
+movement. It begins with shots of Henry
+Martinson, a lifelong socialist who was in his
+nineties at the time the film was made. Martinson
+reminisces about the old days when ‘‘we
+had the powers that be on the run'' and then
+discovers a diary that belonged to the fictional
+Ray Sorenson. The action flashes back to 1915,
+when Ray, his brother John, and their father
+are farming near Crosby, North Dakota. Visiting
+Nonpartisan League members advocate
+political changes that will give farmers more
+control over the grain-marketing process and
+thus ease their economic troubles. At first Ray
+is skeptical, but after his father dies and his
+fianc&#233;e's parents lose their farm, he is motivated
+by these personal losses not only to join
+the league but also to become an organizer,
+recruiting new members and campaigning for
+league candidates. League candidates win the
+primary election of 1916, but John and Ray
+receive a letter notifying them the bank is foreclosing
+on their farm. Martinson concludes
+the film by reporting the league's victory in the
+general election of 1916 and hoping that such
+victories might happen again in the future.</p>
+
+<p>Another major theme of the film is the desire
+to have a personal life and the sacrifice of
+that life required by those who commit themselves
+to a cause. At the beginning of the film,
+Ray proposes to Inga Olsness. However, as Ray
+becomes increasingly involved in league activities,
+they seldom see each other, and their
+relationship deteriorates. Inga tells a friend
+that she no longer loves Ray as she once did,
+and she fears that Ray will always be away
+from home because the struggle will continue
+indefinitely. Ray and Inga might eventually get
+together or they might drift apart, but the disillusioned
+Inga feels they will never be able to
+live the better life for which Ray is struggling.</p>
+
+<p>The film was written, directed, produced,
+and edited by John Hanson and Rob Nilsson
+through Cine Manifest, a San Francisco–
+based film collective that was formed to produce
+socially conscious narrative films. Both
+Hanson and Nilsson have family connections
+in North Dakota. A few actors, including
+Robert Behling, Susan Lynch, and Joe Spano,
+are professionals, but nonprofessional North
+Dakotans play the other roles. Most of the film
+was shot in Crosby and at Bonanzaville, a pioneer
+village in West Fargo, North Dakota.
+The North Dakota Humanities Council contributed
+greatly to the production of the film,
+which was made with an extremely low budget&#8211;
+a little over $300,000. The film premiered
+in Crosby in July 1978 and was shown
+throughout North Dakota and the Midwest
+before being entered in the Cannes Film Festival,
+where it won the Camera d'Or (Golden
+Camera) Award for best first feature film in
+1979.</p>
+
+<p>Although <title>Northern Lights</title> depicts an actual
+political movement, viewers will learn little
+about the Nonpartisan League from it. Martinson,
+an ardent socialist, is not a good representative
+of the league's politics, which were
+much more moderate. None of the league's
+three main leaders&#8211;A. C. Townley, Lynn
+Frazier, and William Lemke&#8211;appears in the
+film (Lemke is not even mentioned), and it
+does little more than hint at why the league
+was in power for only six years. The film has
+been criticized for showing women only in
+subservient, passive roles rather than as partners
+and leaders in the movement. Hanson
+and Nilsson, however, state that their intent
+was to create a social documentary that depicts
+the personal aspects of a political movement
+rather than a historical documentary.</p>
+
+<p>The style of the film is unusual. The dialogue
+is extremely sparse, and sometimes the
+characters speak Norwegian. The film's photography
+captures both intimate family scenes
+and the open spaces of the prairie, and the
+scene that shows people threshing during a
+blizzard is particularly effective. Photographed
+by Judy Irola with 16-mm black-and-white
+film, which created a high-contrast image
+with rich tones and frequent silhouettes,
+the film was later blown up to 35 mm for theatrical
+release, which added to its grainy appearance.
+Irola also used a relatively oldfashioned
+camera style: the camera seldom
+moves, and most action takes place inside the
+frame. These techniques help create a sense
+that the film takes place at a much earlier time,
+and its visual world, which includes hard
+work, struggles against the forces of nature,
+and tough economic times, evokes the theme
+so often repeated in the history of the Great
+Plains&#8211;that of farm families being forced off
+their farms.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.034">Martinson, Harry</ref>; <ref n="egp.pd.039">Nonpartisan League</ref>.</p>
+
+<closer>
+<signed>Eunice Pedersen Johnston<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderegg, Michael. "History, Image, and Meaning in
+'Northern Lights.'" <title level="j">North Dakota History</title> 57 (1990): 14–23.</bibl>
+<bibl>Dempsy, Michael. "'Northern Lights': An Interview with
+John Hanson and Rob Nilsson." <title level="j">Film Quarterly</title> 32 (1979):
+2–10.</bibl> <bibl>Jenkinson, Clay. <title level="m">A Humanities Guide to "Northern Lights."</title> Bismarck: North Dakota Humanities Council,
+1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

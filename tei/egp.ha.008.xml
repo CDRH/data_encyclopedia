@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Chavez, Linda (b. 1947)</title>
+<title level="m" type="sub"></title>
+<author>Roger Clegg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Clegg, Roger">Roger Clegg</author>. <title level="a">"Chavez, Linda (b. 1947)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">353-354</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHAVEZ, LINDA (b. 1947)</head>
+
+<p>Linda Chavez is a prominent conservative intellectual
+and activist. Her ideas on race and
+ethnicity in public policy have made an important
+contribution to the national debate.
+Chavez is a leading critic of "identity politics"
+&#8211;that is, the idea that racial and ethnic classifications
+should play an important role in politics,
+government, and law. Instead, she has
+advocated assimilation and "color-blind" law.</p>
+
+<p>Linda Chavez was born in Albuquerque,
+New Mexico, on June 17, 1947. She grew up in
+Denver, Colorado, and received her bachelor
+of arts degree from the University of Colorado
+in 1970. She married Christopher Gersten,
+who became another important conservative
+activist, in 1967. Chavez began her political
+career as a Democrat but became unhappy
+with the party because she believed it had
+moved too far to the left. She served in the
+Reagan administration, first as director of
+the U.S. Commission on Civil Rights (1983–
+85) and then as director of public liaison in
+the White House (1985). She then ran in 1986
+for the U.S. Senate in Maryland, winning the
+Republican nomination in a crowded field
+but losing in the general election to Barbara
+Mikulski.</p>
+
+<p>Since then Chavez has mainly devoted her
+career to writing and speaking on public policy
+issues. She criticized liberal Hispanic organizations,
+as well as programs like bilingual
+education and affirmative action, in her 1991
+book <title level="m">Out of the Barrio: Toward a New Politics of Hispanic Assimilation</title>. Chavez founded the
+Center for Equal Opportunity in 1995 and
+built the organization into a leading conservative
+think tank. She writes a syndicated weekly
+column, contributes articles to journals and
+magazines, and frequently lectures and appears
+on television and radio.</p>
+
+<closer>
+<signed>Roger Clegg<lb/>
+Center for Equal Opportunity</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Chavez, Linda. "Our Hispanic Predicament." Commentary
+106 (1998): 1–4.</bibl> <bibl>Chavez, Linda. <title level="m">Out of the Barrio: Toward a New Politics of Hispanic Assimilation</title>. New York:
+Basic Books, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

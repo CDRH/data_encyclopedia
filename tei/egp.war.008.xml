@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bleeding Kansas</title>
+<title level="m" type="sub"></title>
+<author>James A. Rawley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rawley, James A.">James A. Rawley</author>. <title level="a">"Bleeding Kansas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">823-824</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLEEDING KANSAS</head>
+ <figure n="egp.war.008" rend="granted">
+<figDesc>Contemporary iconography of the "Bleeding Kansas" political controversy</figDesc>
+</figure>
+
+<p>Bleeding Kansas is the term used to describe
+the violence that flared in Kansas Territory
+from 1855 to 1856 (and continued on a smaller
+scale until 1861). Behind this lay the nation's
+territorial expansion, beginning with the Louisiana
+Purchase in 1803, of which Kansas
+formed a part. Westward migration into the
+Mississippi Valley, steam-powered transportation,
+the prospect of a transcontinental railroad
+through the central United States, an unending
+land hunger, and acquisition of further
+western territory from 1845 to 1848 all spurred
+settlement of the midwestern prairies and
+sharpened the sectional rivalry between slave
+and free states.</p>
+
+<p>In 1854, by the Kansas-Nebraska Act, Congress
+repealed a prohibition on extending
+slavery in the Louisiana Territory north of
+36&#186;30'. The outcome was tumultuous, inaugurated
+by angry debates in Congress and the
+press. There followed the birth of the Republican Party, dedicated to the nonextension of
+slavery, the demise of the nationalist Whig
+Party, and sectional division of the Democratic
+Party, sponsor of the law.</p>
+
+<p>The Kansas-Nebraska Act authorized formation
+of a territorial government in Kansas, lying
+directly west of slaveholding Missouri. Missourians,
+concentrated in the slave-owning,
+hemp-growing northwestern corner, feared that
+formation of a free territory would jeopardize
+their interests. Violence, fraud, murder, rivalry
+for land, and a supine federal response created
+the "Kansas Question," which dominated national
+politics from 1854 to 1858. In 1855 some
+5,000 Missourians helped elect a proslavery legislature.
+Gov. Andrew Reeder declined to repudiate
+the fraud and allowed the legislature to
+establish a proslavery government. Antislavery
+groups drafted a "free-state" constitution, held
+elections, and established an antislavery government.
+Two territorial governments now existed,
+one fraudulent but recognized by President
+Franklin Pierce, the other extralegal and rejected
+by him. Tension erupted into violence in
+November and December 1855 in the "Wakarusa
+War," participated in by 1,500 "border ruffians."
+Temporarily quelled by the territorial governor,
+violence little short of civil war again broke out
+in 1856 when border ru.ans sacked the freestate
+town of Lawrence. In response, a small
+band led by the fanatical abolitionist John
+Brown murdered five proslavery settlers, and
+guerrilla warfare raged. "Bleeding Kansas"
+brought death to about 200 persons and destroyed
+about $2 million in property.</p>
+
+<p>Congress bitterly debated a proslavery constitution,
+refusing to accept it, though it enjoyed
+President James Buchanan's support.
+The national crisis was marked by the nearvictory
+of the newborn Republican Party in the
+presidential election of 1856, the Dred Scott
+decision of the U.S. Supreme Court in 1857,
+which mandated that Congress could not constitutionally
+prohibit slavery in the territories,
+and the Lincoln-Douglas debates in 1858 that
+dramatically argued the territorial question.</p>
+
+<p>Congress referred the proslavery constitution
+to Kansans, resulting in a resounding rejection
+tied to a stipulation that rejection entailed
+postponement of statehood. By the time
+of the vote&#8211;August 2, 1858&#8211;migration of free-state
+settlers had decided the issue. Contrary
+to myth, neither antislavery New Englanders
+nor Deep South settlers affected the result.
+The peopling of Kansas followed a more normal
+migrational pattern. The census of 1860
+showed that all slave states had contributed
+27,440 persons; three free Ohio Valley states&#8211;
+Ohio, Indiana, Illinois&#8211;alone sent 30,929 settlers
+of a total population of 107,204. The
+census ironically disclosed that only two blacks
+lived in Kansas Territory; the next year Kansas
+entered the Union a free state. But the issue of
+federal authority over slavery in the territories
+endured, splitting the nation in 1861.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.036">Kansas-Nebraska Act</ref>.</p>
+
+<closer>
+<signed>James A. Rawley<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rawley, James A. <title level="m">Race and Politics: "Bleeding Kansas" and
+the Coming of the Civil War</title>. Philadelphia: Lippincott, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

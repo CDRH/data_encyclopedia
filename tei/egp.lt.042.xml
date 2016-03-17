@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.lt.042 SYSTEM "egp.lt.042.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">May, Karl (1842-1912)</title>
+<title level="m" type="sub"></title>
+<author>Meredith McCain</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McCain, Meredith">Meredith McCain</author>. <title level="a">"May, Karl (1842-1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">484</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MAY, KARL (1842-1912)</head>
+
+<figure n="egp.lt.042" rend="granted">
+<figDesc>Karl May dressed as "Old Shatterhand"</figDesc>
+</figure>
+
+<p>Among the most popular German writers of
+all times, Karl Friedrich May was born February
+25, 1842, in Ernstthal, Saxony, the fifth
+child of fourteen to impoverished weavers. After
+a difficult youth, May lost the opportunity
+to become a teacher when he was accused of
+the theft of a watch and had to serve a jail
+term. More serious charges of impersonation
+and fraud later sent him back to prison for a
+total of eight years.</p>
+
+<p>When May was released at age thirty-two,
+he was determined to become a writer. By the
+time of his death on March 30, 1912, in Radebeul
+outside Dresden, May was wealthy and
+famous, and his place was firmly established
+in German history. His enormous success (he
+wrote some eighty books) rests on the gripping
+first-person narration of travel stories
+(translated into more than thirty languages),
+many set in the American West and six specifically
+on the Llano Estacado. In May's "Western"
+stories, the narrator, Old Shatterhand, a
+German frontiersman, forms a blood-brother
+bond with a noble, handsome, and intelligent
+Mescalero Apache chief, Winnetou, a character
+who may well be the most beloved figure in
+all of German literature. As described in <title level="m">The Spirit of the Llano Estacado</title> (1887–88), these
+friends ride through dangerous, arid terrain
+and violently shifting weather patterns portrayed
+in vivid detail. In response to his fans'
+clamor, May had cards produced showing him
+dressed in trapper's clothing and signed "Dr.
+Karl May, known as ‘Old Shatterhand.'"</p>
+
+<p>Revelations in the press concerning May's
+prison record and the fact that he had never
+been to the United States when he wrote his
+famous stories assaulted him mercilessly in
+the last years of his life. The question of May's
+sources&#8211;writers who had actually been in
+America, such as the Germans Charles Sealsfield,
+Friedrich Gerstäcker, Balduin M&#246;llhausen,
+and the Irishman Mayne Reid, who spent
+time on the Llano Estacado&#8211;remains a major
+issue.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.036">Llano Estacado</ref>.</p>
+
+<closer>
+<signed>Meredith McClain<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frayling, Christopher. <title level="m">Spaghetti Westerns: Cowboys and Europeans from Karl May to Sergio Leone</title>. London: Routledge
+and Kegan Paul, 1981.</bibl> <bibl>Sammons, Jeffrey L. <title level="m">Ideology, Mimesis, Fantasy: Charles Sealsfield, Friedrich Gerstacker, Karl May, and Other German Novelists of America</title>. Chapel
+Hill: University of North Carolina Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

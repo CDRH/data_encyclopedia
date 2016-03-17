@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Provencher, Joseph-Norbert (1787-1853)</title>
+<title level="m" type="sub"></title>
+<author>James G. Mullens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mullens, James G.">James G. Mullens</author>. <title level="a">"Provencher, Joseph-Norbert (1787-1853)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">754</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PROVENCHER, JOSEPH-NORBERT (1787-1853)</head>
+
+<p>Born on February 12, 1787, at Nicolet, Quebec,
+Joseph-Norbert Provencher (baptized Joseph)
+was ordained in 1811 and served as a curate
+until he was sent to the Red River Settlement
+(Manitoba) in 1818 to establish the Catholic
+Church in the Canadian West. Described as
+moral, humble, tenacious, and devout, Provencher
+was consecrated titular bishop in 1822
+and first bishop of the diocese of the Northwest,
+founded in 1847 at St. Boniface (Manitoba).
+He died there on June 7, 1853.</p>
+
+<p>Bishop Provencher worked tirelessly as an
+ecclesiastic administrator. He built churches
+and schools to serve the newly arriving Irish,
+Scottish, and French Canadian Catholic settlers.
+He sent priests out to the Métis hunters
+and traders to solemnize their mixed-race
+marriages. He created "itinerant missions"
+with priests who traveled with various Plains
+Native peoples, attempting to convert them to
+Christianity&#8211;an endeavor that was largely unsuccessful
+during this period. Provencher even
+sent missionaries as far afield as Lake Athabasca
+and the Pacific Northwest to establish
+the Catholic presence. He skillfully avoided
+conflict with rival Protestant groups and received,
+like them, an annual grant from the
+Hudson's Bay Company to assist in his activities.
+During his career, Provencher made numerous
+trips to Quebec, and two to the United
+States and Europe, to garner Catholic support
+for mission development. In total, Bishop
+Joseph-Norbert Provencher brought thirteen
+secular priests from Quebec and during the
+1840s persuaded both the Oblates of Mary Immaculate
+and the Sisters of Charity of the
+Hôpital Général at Montreal (commonly
+known as the "Grey Nuns") to establish themselves
+in the Canadian West.</p>
+
+<closer>
+<signed>James G. Mullens<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fr&#233;mont, Donatien. <title level="m">Mgr. Provencher et son temps</title>. Winnipeg:
+Editions de Libert&#233;, 1935.</bibl> <bibl>King, Dennis. <title level="m">Joseph Norbert
+Provencher</title>. Winnipeg: Peguis Publishers, 1982.</bibl> <bibl>Provencher,
+Joseph-Norbert. "Lettres de monseigneur Joseph-Norbert
+Provencher, premier &#233;v&#234;que de Saint-Boniface,"
+Soc. Hist. de Saint-Boniface, <title level="j">Bulletin</title> 3 (1913). St. Boniface,
+Manitoba.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

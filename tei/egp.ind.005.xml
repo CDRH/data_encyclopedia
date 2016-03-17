@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">American Fur Company</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"American Fur Company."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">410</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">American Fur Company</head>
+
+<p>Chartered on March 29, 1808, by the New York
+legislature, the American Fur Company was
+John Jacob Astor's bid to establish a fur empire
+that would reach from the Great Lakes to
+the Pacific Northwest. Astor failed to realize
+this ambition (his Pacific Fur Company, a
+worldwide trading scheme pivoted at Fort Astoria
+at the mouth of the Columbia River,
+foundered in 1813), but until it suspended payments
+on September 6, 1842, the American
+Fur Company dominated the fur trade of the
+Great Lakes and the Central and Northern
+Great Plains.</p>
+
+<p>Astor and his right-hand man, Ramsey
+Crooks, were slow to enter the fur trade of
+the Great Plains: their policy always was to
+let others make mistakes first, then move in
+and take over. Their first tentative move was
+made in 1821, when the American Fur Company
+made an arrangement with the St. Louis
+firm of (Bartholomew) Berthold and (Pierre
+Jr.) Chouteau to supply their trade goods.
+Within five years, the American Fur Company
+had absorbed its competition and established
+a virtual monopoly over the fur trade from the
+Platte River to the Canadian boundary and
+from the Missouri River to the Rocky Mountains.
+This monopoly would be periodically
+challenged by pretenders, but the American
+Fur Company had the resources to outprice
+and outlast its opponents and the political
+clout to discredit them.</p>
+
+<p>By 1834 the American Fur Company was
+operating a network of trading posts that
+spanned the Central and Northern Great Plains.
+Three major depots&#8211;Fort Union (1829), at the
+mouth of the Yellowstone; Fort Pierre (1832),
+near the junction of the Cheyenne and Missouri
+Rivers; and Fort Laramie (1834), on the
+North Platte&#8211;were the organizational hubs
+in this system, and numerous regional posts
+served the trade of specific tribes or bands. No
+Native Americans who wanted to trade&#8211;and
+by 1834 they all did&#8211;were without an outlet.
+They were the primary producers in a global
+trading system that began on the Plains with
+the collection and processing of robes and
+pelts and ended in the fur marts of London
+and Leipzig. The Missouri River, with steamboat
+navigation after 1832, was the artery of
+the commerce, and St. Louis was its main control
+point, funneling furs to markets in the
+eastern United States and Europe and trade
+goods from Europe and elsewhere to Native
+American consumers on the Plains. The economic
+system was regulated by a constant flow
+of correspondence from the trading posts
+through St. Louis to Europe and back. The
+American Fur Company kept an agent, Curtis
+M. Lampson, in Europe to monitor market
+conditions and maintained contracts with
+various European firms for the importation
+of, for example, beads (Alessandro Bertolla
+of Venice) and knives and traps (Hiram Culter
+of She.eld). This was truly an international
+enterprise.</p>
+
+<p>In the halcyon years of the early 1830s, the
+American Fur Company was exporting at least
+25,000 bison robes a year from the Great
+Plains. But even then Astor could see the writing
+on the wall. Competition, often involving
+the flagrant use of alcohol as a trade inducement,
+was escalating, and the price for beaver
+pelts was falling as silk became the new preferred
+raw material for top hats. In 1834 Astor,
+old and ailing, sold the Northern Department
+of the American Fur Company to Ramsay
+Crooks and the Western Department to the St.
+Louis firm of Pratte, Chouteau and Company.
+Under the direction of Pierre Chouteau Jr.,
+the fur-trade system established by the American
+Fur Company would continue to operate
+on the Plains until the 1860s, when it was enveloped
+by waves of settlers.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lavender, David. <title level="m">The Fist in the Wilderness</title>. Lincoln: University
+of Nebraska Press, 1998.</bibl> <bibl>Wishart, David. <title level="m">The Fur Trade of the American West, 1807–1840: A Geographic Synthesis</title>.
+Lincoln: University of Nebraska Press, 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Coaches</title>
+<title level="m" type="sub"></title>
+<author>Fred Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred">Fred Shelley</author>. <title level="a">"Coaches."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">768-769</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COACHES</head>
+
+<p>The Great Plains states have produced many
+successful professional and college sports
+coaches. Plains natives have coached their
+teams to numerous national and international
+championships.</p>
+
+<p>Several prominent professional baseball
+managers were born in the Plains. Although
+they were better known as players than as
+managers, Hall of Famers Tris Speaker of
+Hubbard City, Texas, and Rogers Hornsby of
+Winters, Texas, managed world championship
+teams. Speaker's Cleveland Indians won
+the World Series in 1920, and Hornsby's St.
+Louis Cardinals won in 1926. Billy Southworth,
+who was born in Harvard, Nebraska,
+managed the Cardinals to World Series titles
+in 1942 and 1944. Ralph Houk of Larned,
+Kansas, managed the New York Yankees to
+world championships in 1961 and 1962.</p>
+
+<p>George "Sparky" Anderson, born in Rapid
+City, South Dakota, is the only manager to
+win the World Series in both major leagues.
+Anderson won with the Cincinnati Reds in
+1975 and 1976 and with the Detroit Tigers in
+1984. The most successful baseball manager of
+the 1990s was Bobby Cox, a native of Tulsa,
+Oklahoma. Cox managed the Atlanta Braves
+in four World Series, winning in 1995. Mike
+Hargrove of Perryton, Texas, managed the
+Cleveland Indians in the World Series in 1995
+and 1997.</p>
+
+<p>In college football, Tom Osborne, a native
+of Hastings, Nebraska, and coach at the University
+of Nebraska, retired after the 1997 season
+with 254 victories, ranking him sixth
+among all National Collegiate Athletic Association (<hi rend="smallcaps">NCAA</hi>) Division I coaches in history.
+Osborne's Cornhuskers won national championships
+in 1994 and 1995 and shared the title
+in 1997. Frank Leahy, born in O'Neill, Nebraska,
+and raised in Winner, South Dakota,
+coached Notre Dame between 1941 and 1953.
+Leahy's Fighting Irish won national titles in
+1943, 1946, 1947, and 1949. Darrell Royal of
+Hollis, Oklahoma, coached national champions
+at the University of Texas in 1963, 1969,
+and 1970.</p>
+
+<p>Professional basketball's most successful
+coach of recent years, Phil Jackson, was born
+in Deer Lodge, Montana. Under Jackson, the
+Chicago Bulls won National Basketball Association
+(<hi rend="smallcaps">NBA</hi>) titles in 1991, 1992, 1993, 1996,
+1997, and 1998. His regular-season winning
+percentage of .738 (as of 2002) is unmatched
+in <hi rend="smallcaps">NBA</hi> history. Jackson subsequently coached
+the Los Angeles Lakers to the title in 2000,
+2001, and 2002. Another Plains native to earn
+an <hi rend="smallcaps">NBA</hi> title as head coach is Bill Sharman
+of Abilene, Texas, who won with Los Angeles
+in 1971.</p>
+
+<p>The Plains has been an especially fertile
+source of successful college basketball coaches.
+The two winningest men's coaches and the
+winningest women's coach are all from the
+Plains states. Adolph Rupp of Halstead, Kansas,
+coached the University of Kentucky Wildcats
+to <hi rend="smallcaps">NCAA</hi> basketball titles in 1948, 1949, 1951,
+and 1958. Dean Smith, born in Emporia and
+raised in Topeka, Kansas, coached at the University
+of North Carolina from 1962 to 1997.
+Smith's Tar Heels won national championships
+in 1982 and 1993, and Smith holds records
+for most career and most <hi rend="smallcaps">NCAA</hi> tournament
+victories.</p>
+
+<p>Several other <hi rend="smallcaps">NCAA</hi> tournament–winning
+coaches come from the Plains. Everett Shelton
+of Cunningham, Kansas, led Wyoming to the
+<hi rend="smallcaps">NCAA</hi> title in 1943. In 1966 the University of
+Texas at El Paso (then Texas Western), coached
+by Don Haskins of Enid, Oklahoma, became
+the first team with an all–African American
+starting lineup to win the <hi rend="smallcaps">NCAA</hi> title, beating
+Rupp's Kentucky team in the championship
+game. In 1994 El Paso, Texas, native Nolan
+Richardson coached the University of Arkansas
+to the title. Lute Olson of Mayville, North
+Dakota, won the championship with the University
+of Arizona in 1997. Other highly successful
+college basketball coaches from the
+Plains include Eddie Sutton of Bucklin, Kansas,
+Billy Tubbs of Tulsa, Oklahoma, Dale
+Brown of Minot, North Dakota, Gene Keady
+of Larned, Kansas, Ralph Miller of Chanute,
+Kansas, Lou Henson of Okay, Oklahoma, Ted
+Owens of Hollis, Oklahoma, and "Tex" Winter
+of Wellington, Texas. The winningest coach in
+<hi rend="smallcaps">NCAA</hi> women's basketball, Jody Conradt of the
+University of Texas, was born in Goldthwaite,
+Texas. In 1998 Conradt was elected to the Basketball
+Hall of Fame.</p>
+
+<closer>
+<signed>Fred Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Porter, David L., ed. <title level="m">Biographical Dictionary of American
+Sports: Basketball and Other Indoor Sports</title>. Westport <hi rend="smallcaps">CT</hi>:
+Greenwood Press, 1989.</bibl> <bibl>Porter, David L., ed. <title level="m">Biographical
+Dictionary of American Sports: Football</title>. Westport <hi rend="smallcaps">CT</hi>:
+Greenwood Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

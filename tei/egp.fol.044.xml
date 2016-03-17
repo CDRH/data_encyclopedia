@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trickster</title>
+<title level="m" type="sub"></title>
+<author>Anthony Farrington</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Farrington, Anthony">Anthony Farrington</author>. <title level="a">"Trickster."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">315-316</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRICKSTER</head>
+
+<p>The trickster is the embodiment of lawlessness
+and paradox. He is a divine buffoon, a hero
+who breaks taboos, a rebel, a coward, and a
+creator. Trickster helps establish social rules,
+and he deliberately flouts them. He is commonly
+depicted as deceitful and humorous.
+He is amoral, rather than immoral, and he has
+a voracious appetite for food and sex. In his
+traditional and mythic incarnations, he is almost
+always male. As the supreme boundarycrosser,
+trickster is always <hi rend="italic">between</hi> classifications&#8211;
+between what is human and what is
+animal, between what is cultural and what is
+natural.</p>
+
+<p>Native American tricksters tend to be associated
+with animal spirits (such as Coyote,
+Rabbit, or Raven). Their tales are both sacred
+myths and simple folk tales. Among the Indigenous
+peoples of the Great Plains, the trickster's
+name is Old Man (Crow and Blackfoot),
+Iktomi (Lakota), and Veeho (Cheyenne). The
+most common incarnation of the Plains trickster,
+however, is Coyote.</p>
+
+<p>In his various (and strikingly similar) cultural
+guises, trickster is the self-indulgent
+clown who dupes women into having sex with
+him; he steals food from his industrious neighbors;
+he cross-dresses and becomes temporarily
+a woman; he dies and is reborn. As expected,
+his tomfoolery frequently backfires.
+He juggles his eyes and loses them in a tree;
+he accidentally sleeps with his wife; he drowns
+in his own feces; he uses his enormous penis
+to attack a chipmunk (who in turns bites his
+penis off to "human" size). Further, trickster is
+a cultural hero. In some narratives, he creates
+the Earth; he creates animals or substantially
+alters their bodies; he steals tobacco from
+the gods; and, more recently, he tricks the
+white man.</p>
+
+<p>Symbolically, the trickster is always located
+at the periphery of the community (though,
+importantly, never totally separated from
+it). From this "outer" vantage point, trickster
+reveals "inner" communal structures. His
+very presence determines the limits of social
+boundaries. Trickster thus serves as a political
+tool with which to subvert (or endorse) social
+practices. Indeed, trickster continually offers
+us the possibility of transcending (or renewing)
+social codes. As such, trickster is arguably
+an incarnation of creativity itself. At the very
+least, trickster allows us to poke fun at the
+powers that restrain us. He reveals the <hi rend="italic">structure</hi>
+of social structures and offers us glimpses
+of new (and terrifying) world orders. Not surprisingly,
+many contemporary authors use
+tricksterlike characters as creative forces that
+both define and critique dominant cultural
+practices.</p>
+
+<p>Ultimately, the trickster is disturbing, not
+because of his difference but because of his lack
+of difference. As purely a cultural construct,
+the trickster's body is a cultural body&#8211;our
+body. He is always a part of us, and he exists
+only to be interpreted. And when we interpret
+trickster, we interpret ourselves. Even though
+we often attempt to alienate ourselves from the
+trickster&#8211;by making his body grotesque,
+indistinguishable&#8211;wherever we are, there is
+trickster, laughing at what we've become.</p>
+
+<closer>
+<signed>Anthony Farrington<lb/>
+University of Arkansas at Monticello</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Babcock, Barbara. "'A Tolerated Margin of Mess': The
+Trickster and His Tales Reconsidered." In <title level="m">Critical Essays on Native American Literature</title>, edited by Andrew Wiget.
+Boston: G. K. Hall, 1985: 153–84.</bibl> <bibl>Ballinger, Franchot. "Living
+Sideways: Social Themes and Social Relationships in
+Native American Trickster Tales." <title level="j">American Indian Quarterly</title>
+13 (1989): 15–30.</bibl> <bibl>Radin, Paul. <title level="m">The Trickster: a Study in American Indian Mythology</title>. New York: Philosophical Library,
+1956.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

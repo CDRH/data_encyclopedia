@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Edmonton, Alberta</title>
+<title level="m" type="sub"></title>
+<author>Paul Voisey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.021</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Voisey, Paul">Paul Voisey</author>. <title level="a">"Edmonton, Alberta."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">166</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EDMONTON, ALBERTA</head>
+
+<p>Edmonton is the capital of the province of
+Alberta and the dominant urban center for
+the central and northern regions of the province
+and for much of Canada's Far North. In
+1996 the population of the city proper stood at
+616,306 and of the greater metropolitan area at
+862,597.</p>
+
+<p>The city is situated on the North Saskatchewan
+River in the Parkland Belt region of the
+Canadian Prairies. This strategic location
+made it an attractive site for fur trading, and in
+1795 the Hudson's Bay Company built the first
+Fort Edmonton downstream from the present
+city. The last post to bear that name was
+built in 1830, by which time Edmonton had
+emerged as one of the company's most important
+inland depots. Following the transfer of
+company territory to Canada in 1870, speculators
+and merchants promoted Edmonton as a
+future agricultural center, but the first trans-
+Canada railway crossed the Prairies 200 miles
+to the south, where the rival city of Calgary
+emerged. A branch line from Calgary in 1891
+failed to cross the river into Edmonton, giving
+rise to the south-side upstart of Strathcona.
+Few agricultural settlers reached the district,
+with the result that Edmonton-Strathcona had
+a population of only 4,000 by 1901.</p>
+
+<p>The following decade brought explosive
+growth. Two new transcontinental railways
+reached Edmonton, and settlers swarmed into
+the surrounding hinterland. Led by Frank
+Oliver, an Edmonton newspaperman, politician,
+and booster, the city outmaneuvered
+Calgary to become the capital of the new
+province of Alberta in 1905 and the site for the
+University of Alberta in 1909. The construction
+of a high-level railway bridge across the
+river facilitated the amalgamation of Edmonton
+and Strathcona in 1912. By 1916 the population
+of the city had reached 54,000, but by
+then rapid growth had already ended. Most of
+the surrounding hinterland had been settled,
+and a speculative real estate bubble burst in
+1913. Recession gripped the agricultural economy
+after the World War I. Although growth
+and prosperity resumed in the mid-1920s, the
+Great Depression soon brought the return of
+hard times.</p>
+
+<p>World War II stimulated new growth when
+American money and manpower poured into
+the city to launch three major wartime projects:
+the Alaska Highway, which would provide
+an alternate supply route to that state
+safe from Japanese attack; the Canol Pipeline,
+which carried petroleum from northern Canada
+to Alaska; and the North-West Staging
+Route, a series of northern airports constructed
+to shuttle aircraft to the Soviet Union
+under lend-lease. These projects gave the
+city the expertise and economic base to become
+a major oil service center following the
+Leduc strike of 1947. While Calgary remained
+the financial and corporate headquarters for
+the petroleum industry, Edmonton became
+more important for oil field supply, refining,
+petrochemical manufacturing, and pipeline
+construction.</p>
+
+<p>Geographically, the city has sprawled in
+typical North American fashion, with major
+arterial roads leading to suburbs clustered
+around shopping centers. The most impressive
+of these, West Edmonton Mall, was completed
+in stages and in 1985 became the largest
+shopping center in the world. The regional
+planning commission established by the province
+in 1950 also encouraged the development
+of satellite communities beyond the city.
+These included the industrial complex at Fort
+Saskatchewan, the airport center of Leduc,
+and major residential communities like Sherwood
+Park and St. Albert.</p>
+
+<p>While the city attracted many newcomers
+from outside the region, much of its postwar
+growth also came from rural depopulation in
+Alberta. Arrivals from the many ethnic settlements
+in the rural hinterland ended the overwhelming
+dominance of the city by people of
+British origins. Symbolic of this change was
+the populist mayor of Ukrainian descent, William
+Hawrelak, who was elected for various
+terms from the 1950s to the 1970s in spite of
+corruption scandals. Since then, the city has
+also attracted immigrants from the Far East
+and India.</p>
+
+<p>Although the collapse of oil prices in the
+early 1980s jolted the city economically, it
+recovered quickly and began to diversify. Today
+there are many more industries and
+information-based services unrelated to agriculture
+or petroleum. In addition to its economic,
+political, and educational importance,
+the city is also a major cultural and recreational
+center. Attractions include a symphony,
+opera, theater, art galleries, space science
+center, and provincial museum. Festivals
+devoted to culture and recreation are held almost
+continuously throughout the summer
+months, including Klondike Days and the
+Fringe Theater. The city also boasts superb facilities
+for amateur and professional sports,
+and citizens take great pride in the championship
+dynasties established by the Edmonton
+Grads in basketball, the Edmonton Eskimos in
+football, and the Edmonton Oilers in hockey.
+With its steep banks, the river valley remains
+the dominant element in the city landscape,
+and it features vast wilderness parks and golf
+courses connected by a network of recreational
+trails.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.046">Petroleum, Canada</ref> / <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.016"><hi rend="italic">Edmonton Journal</hi></ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.016">Edmonton Grads</ref>.</p>
+
+<closer>
+<signed>Paul Voisey<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hesketh, Bob, and Frances Swyripa, eds. <title level="m">Edmonton: The Life of a City</title>. Edmonton: NeWest Press, 1995.</bibl> <bibl>MacGregor,
+James G. <title level="m">Edmonton: A History</title>. Edmonton: Hurtig, 1975.</bibl>
+<bibl>Smith, P. J., ed. <title level="m">Edmonton: The Emerging Metropolitan Pattern</title>. Victoria: University of Victoria, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

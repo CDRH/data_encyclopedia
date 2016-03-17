@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.065">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Riggs, Rollie Lynn (1899-1954)</title>
+<title level="m" type="sub"></title>
+<author>Daniel Heath Justice</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.065</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Justice, Daniel Heath">Daniel Heath Justice</author>. <title level="a">"Riggs, Rollie Lynn (1899-1954)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">491</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-24</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIGGS, ROLLIE LYNN (1899-1954)</head>
+ <figure n="egp.lt.065" rend="granted">
+<figDesc>"A scene from The Cherokee Night by Lynn Riggs as presented at the Provincetown Playhouse by the Community Theatre Division of the Federal Theatre Project, July 1936"</figDesc>
+</figure>
+
+<p>One of Oklahoma's finest playwrights and poets,
+confidant to Joan Crawford and Bette
+Davis, and critically acclaimed contemporary
+of Eugene O'Neill and Tennessee Williams,
+Rollie Lynn Riggs was an enigma to most who
+knew him during his short life. He spent his
+professional career exploring the unique character
+and spirit of Oklahoma and its precursor,
+Indian Territory, while shrouding his personal
+life from public scrutiny. As an acculturated
+allotment-era Cherokee and a closeted gay
+man in the first part of the twentieth century,
+Riggs traveled across the country and the
+world in search of both artistic acclaim and
+security. The latter eluded him to the end of
+his life.</p>
+
+<p>Born in Indian Territory on August 31, 1899,
+near present-day Claremore, Oklahoma, Riggs
+was educated briefly at the University of Oklahoma
+in Norman and lived at various times in
+Santa Fe, Paris, Chicago, New York, and Hollywood.
+His poetry and plays focus almost exclusively
+on the land and people of rural
+Oklahoma, and he wrote with a dedication
+to respectfully and accurately representing
+the speech, philosophies, and cultures of his
+youth. His poetry follows in much the same
+fashion but also includes deeply reflective and
+melancholy elegies and poems of alienation
+and solitude. His most famous play, <title>Green Grow the Lilacs</title> (1929), became the model in
+1943 for the Rodgers and Hammerstein musical
+<title>Oklahoma!</title> His only play to focus on Indian
+issues was also his favorite: <title>The Cherokee Night</title>
+(1930). Lynn Riggs died in New York City on
+June 29, 1954, of cancer.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.053"><hi rend="italic"><title>Oklahoma!</title></hi></ref></p>
+
+<closer>
+<signed>Daniel Heath Justice<lb/>
+University of Toronto</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Braunlich, Phyllis Cole. <title level="m">Haunted by Home: The Life and Letters of Lynn Riggs</title>. Norman: University of Oklahoma
+Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

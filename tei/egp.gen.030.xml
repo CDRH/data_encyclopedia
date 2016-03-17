@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rodeo Queens</title>
+<title level="m" type="sub"></title>
+<author>Renee M. Laegreid</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Laegreid, Renee M.">Renee M. Laegreid</author>. <title level="a">"Rodeo Queens."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">335-336</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RODEO QUEENS</head>
+
+<p>Rodeo queens appear at rodeos all across the
+Great Plains. Rhinestone tiaras adorning their
+hats, and bedazzling in cowgirl regalia, the
+queens reign over the rough-and-tumble rodeo
+events. The idea of a ceremonial rodeo
+queen might seem oddly out of place among
+the physically demanding performances of
+cowboys and cowgirls, yet the role of the queen
+is inextricably linked with the rise of rodeo as a
+spectator sport in the Great Plains.</p>
+
+<p>The first rodeo queen is believed to have
+made her appearance at the 1910 Pendleton
+Round-Up in Oregon, but it took twenty years
+for the idea to spread. Cheyenne Frontier Days
+in Wyoming became the next well-known
+rodeo to have a queen. It is no accident that the
+first Miss Frontier Days, Miss Jean Nimmo
+Doubois, appeared in 1931. Local businessmen,
+worried that the Depression would keep ticket-buying
+spectators away from the rodeo, devised
+a competition: the young woman who
+sold the most tickets would become queen of
+the rodeo. The selection of a young woman
+from within the community, and one who did
+not compete in rodeo events, but instead used
+her "royal" position to promote the rodeo to
+a broad audience, was an innovation that
+worked well and was widely copied.</p>
+
+<p>During the 1940s hundreds of communities
+throughout the Great Plains began holding
+their own rodeos. Although the method of
+choosing a queen varied widely, their purpose
+was the same&#8211;to help sell tickets. Competition
+was fierce among the towns to pull in
+large crowds, thereby making the rodeo an
+economic success, and rodeo queens worked
+with the town promoters to attract spectators.
+The role the queens played within their communities
+depended on the goals of the community
+sponsoring the rodeo.</p>
+
+<p>In Cheyenne, a large town actively seeking
+regional and national attention, the role of
+queen gradually evolved into a rigorous twoyear
+commitment, with activities planned not
+only in Cheyenne but throughout the country.
+In 1946 Miss Patsy Rogers was selected by the
+Calgary Exhibition and Stampede Board to
+serve as the first Calgary Stampede Queen.
+Miss Rogers represented the Stampede locally,
+regionally by traveling to rodeos in the surrounding
+area, and internationally as a Ranch
+Girl in Gene Autry's Madison Square Garden
+and Boston Gardens rodeos. Nebraska's Big
+Rodeo, held in Burwell, a small community
+hoping to attract spectators from across the
+state, often selected its queens from outside
+Burwell. Ruby Dearmont, Miss Burwell 1949,
+was one of the very few queens selected from
+Burwell itself to represent the rodeo. Most
+common, however, were small-town rodeos
+where local queens appeared at numerous
+civic and social functions in town and traveled
+as visiting royalty to other nearby rodeos. In
+fact, traveling to promote the rodeo is something
+that most past rodeo queens recall as
+an important and exciting part of their responsibilities,
+even if the travel was only to the
+next town.</p>
+
+<p>Another type of queen promotion began in
+the Plains in 1931, when the Texas Cowboy
+Reunion in Stamford held the first sponsor
+contest. In a unique promotional twist, Stamford
+sent out a call to chambers of commerce
+throughout the region to provide girls to participate
+in the sponsor event at the Stamford
+rodeo. Each town was responsible for holding
+a competition to select a hometown representative;
+the winner would then compete at the
+Stamford rodeo in an event specifically designed
+for them. The contestants were judged
+on the appearance of their horse, their costume,
+and horsemanship. The sponsor contests
+held by these other towns were a remarkably
+successful mechanism for publicizing the
+rodeo, and within a few years of its founding
+the Texas Cowboy Reunion was one of the
+largest rodeos in the country.</p>
+
+<p>The original intention of the sponsor contest
+was to "add a little softness to the allmale
+rodeo." However, the horsemanship part
+of the competition became increasingly popular.
+What started as a subjective evaluation
+of the young women's ability to ride around
+three randomly placed barrels evolved into a
+timed event with a standardized cloverleaf
+pattern. Later named barrel racing, this event
+remains popular and highly competitive in
+rodeo today.</p>
+
+<p>A new dimension was added to the rodeo
+queen phenomenon in 1955, when the first
+Miss Rodeo America pageant was held in Casper,
+Wyoming. Since its inception, twenty-two
+of the forty-four Miss Rodeo America queens
+have been from the Great Plains. The first
+Miss Rodeo Canada also made her debut in
+1955. In order to compete for the title, a young
+woman must be sponsored by a Canadian
+pro-rodeo association. The Canadian prorodeo
+circuit is centered in the Plains&#8211;the
+easternmost rodeo is held in Morris, Manitoba&#8211;
+so twenty-six of the thirty-three Miss
+Rodeo Canada queens have been from the region.
+The role of the national queens is to
+travel across their respective countries promoting
+professional rodeo. In the 1960s it became
+increasingly common for Miss Rodeo
+America and Miss Rodeo Canada contestants
+to also participate as athletes in rodeos, usually
+competing in barrel racing events.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.045">Rodeo</ref>.</p>
+
+<closer>
+<signed>Renee M. Laegreid<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>LeCompte, Mary Lou. <title level="m">Cowgirls of the Rodeo: Pioneer Professional Athletes</title>. Urbana: University of Illinois Press,
+1993.</bibl> <bibl>Shelton, Hooper. <title level="m">Fifty Years of a Living Legend: Texas Cowboy Reunion and Oldtimers Association</title>. Stamford <hi rend="smallcaps">TX</hi>:
+Shelton Press, 1979.</bibl> <bibl>Stoeltje, Beverly. "Gender Representations
+in Performance: The Cowgirl and the Hostess." <title level="j">Journal of Folklore Research</title> 25 (1988): 219–41.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

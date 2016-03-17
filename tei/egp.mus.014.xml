@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dixie Chicks</title>
+<title level="m" type="sub"></title>
+<author>Pamela H. Brink</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brink, Pamela H.">Pamela H. Brink</author>. <title level="a">"Dixie Chicks."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">537-538</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DIXIE CHICKS</head>
+<figure n="egp.mus.014" rend="granted">
+<figDesc>The Dixie Chicks</figDesc>
+</figure>    
+
+<p>The Dixie Chicks erupted onto the national
+music scene in 1998 with their major label debut
+album, <title>Wide Open Spaces</title>. Sisters Emily
+Erwin Robison and Martie Erwin Seidel
+founded the group in 1989 with Laura Lynch
+and Robin Macy, gaining regional acclaim as a
+close-harmony bluegrass band that always delivered
+with a honeysuckle sound and virtuoso
+instrumentation. Macy left in 1992 and Lynch
+in 1995. Late in 1995 the Erwin sisters joined
+their solid musicianship with the craggy, soulful
+vocal talents of Lubbock native Natalie
+Maines to develop a musical sound with a decidedly
+West Texas edge that has proved to be
+just the right blend for winning millions of
+new converts as well as die-hard country fans
+to their distinctive interpretation of rocking
+Texas roots music.</p>
+
+<p><title>Wide Open Spaces</title> won a plethora of awards,
+including a Grammy for best country album,
+the National Association of Record Merchandisers
+Award for best-selling recording by a
+new group, and the Country Music Association
+Award for album of the year, among many
+other accolades. In 2002 <title>Wide Open Spaces</title>
+won the group a place in the <title level="m">Guinness Book of World Records</title> for the best-selling country
+debut album of all time.</p>
+
+<p><title>Fly</title>, the band's second album, followed
+close behind their first and won them Grammys,
+<hi rend="italic">Billboard</hi> awards, and Country Music Association
+awards in both 1999 and 2000 for
+their talents and the album. Their 1999 tour
+promoting <title>Fly</title> gained a life of its own, making
+the Dixie Chicks a pop-culture phenomenon,
+with young and enthusiastic audiences flocking to their innovative performance spectaculars
+to hear old-fashioned banjo and fiddle
+music and contemporary lyrics tuned to a
+new age.</p>
+
+<p>The Dixie Chicks are consummate musicians.
+They play their own lead instruments,
+do their own sessions work, and write their
+own songs. With the success of <title>Wide Open Spaces</title> they gained the commercial opportunity
+to write many of the songs they recorded
+on <title>Fly</title>, including "Ready to Run" and
+"Cowboy Take Me Away" by Martie Seidel and
+Marcus Hammon, "Don't Waste Your Heart"
+by Emily Robison and Natalie Maines, "Sin
+Wagon" by Natalie Maines, Emily Robison,
+and Stephany Smith, and "Without You" by
+Natalie Maines and Eric Silver.</p>
+
+<closer>
+<signed>Pamela H. Brink<lb/>
+Associated Authors and Editors, Inc.</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispanic Music</title>
+<title level="m" type="sub"></title>
+<author>John Koegel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Koegel, John">John Koegel</author>. <title level="a">"Hispanic Music."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">539-540</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HISPANIC MUSIC</head>
+
+<p>Most Hispanic communities in the Great
+Plains maintain Mexican and Mexican American
+musical and cultural traditions, including
+musical repertoires, tastes, and practices. The
+maintenance and persistence of musical traditions
+and preferences depends in large part on
+the date of arrival in the area. More recently
+arrived Mexican immigrants bring musical
+styles from their home regions: mariachi music
+from the state of Jalisco, harp music from
+the state of Michoac&#225;n, and border music
+(<hi rend="italic">m&#250;sica norte&#241;a</hi>, featuring the accordion)
+from the northern state of Nuevo Le&#243;n, for
+example. Mexican Americans born in the
+Great Plains perform, listen, and dance to
+mainstream North American popular music
+(rock, rap, pop, blues) and jazz, Tex-Mex musical
+styles, especially the accordion-led <hi rend="italic">conjunto</hi>
+ensemble, and current Latin American
+and Mexican popular and folk music genres:
+Colombian <hi rend="italic">cumbia</hi>, Caribbean salsa, Mexican
+lyric <hi rend="italic">canciones rom&#225;nticas</hi> (love songs), and
+<hi rend="italic">corridos</hi> (contemporary narrative ballads,
+often with a strong social or political orientation).</p>
+
+<p>Mexican, Chicano, and Latino popular musicians
+whose work is well known and appreciated
+in the Great Plains include a wide range of
+artists active in a variety of musical styles: the
+Latin rock group Santana (led by Mexicanborn
+guitarist Carlos Santana); Los Tigres del
+Norte, the <hi rend="italic">m&#250;sica norte&#241;a</hi> band from the state
+of Sinaloa noted for the performance of songs
+with strong social commentary; Panamanian
+salsa musician Ruben Blades; Selena Quintanilla,
+the much-lamented tejana singer; tejano
+<hi rend="italic">conjunto</hi> accordionist Flaco Jim&#233;nez; and <hi rend="italic">tejana</hi>
+singer Lydia Mendoza, among others.</p>
+
+<p>Hispanic Catholic and Protestant sacred
+musical styles in the Great Plains have also
+been influenced by developments in Mexico
+and the Hispanic Southwest. In Spanish-speaking
+congregations, Catholic and Protestant
+sacred musical performance styles and repertoires
+are related to secular styles, though
+with a religious context and message. The influence
+of mainstream North American popular
+secular music styles can certainly be heard
+in Hispanic congregations in Great Plains
+states as elsewhere in the country.</p>
+
+<p>Most of these musical styles and traditions
+remain generally invisible to the mainstream
+majority European American population in
+the Great Plains region. Just as earlier Czech
+and Swedish musical traditions were often
+mysterious to outsiders during the peak years
+of central European and Scandinavian immigration
+to the Great Plains (though everyone
+knew, and knows, the polka), so too are many
+Hispanic musical traditions generally unfamiliar
+to non-Spanish speakers today. Some
+possible exceptions include Mexican mariachi
+music and Tex-Mex <hi rend="italic">conjunto</hi> music, with its
+polka roots.</p>
+
+<p>In addition to the Hispanic community's
+acceptance and use of a heterogeneous mix
+of Mexican, Mexican American, North American,
+and Latin American popular and folk music
+styles, the generally well developed public
+school music education establishment in
+the region embraces and involves students
+of all races and ethnicities, including those
+with Spanish surnames. As the number of Hispanic
+students in schools in Nebraska, Kansas,
+and other Great Plains states grows, so too
+will their representation in marching bands,
+wind ensembles, orchestras, jazz bands, and
+choruses in elementary and secondary schools
+in the region. Much of the repertoire, with its
+emphasis on European and European American
+art and popular music traditions and
+jazz, performed by these musical ensembles
+is situated at a distance from the popular
+and folk music repertoires and styles common
+in Spanish-speaking communities. However,
+musical groups featuring Mexican and Latino
+repertoire (especially mariachi music) have
+been established in some public schools in the
+region (in Fort Worth, for example) in order
+to foster positive self-identification among
+Hispanic students. Nevertheless, one should
+not assume that Hispanic musical life and involvement
+in the Great Plains is limited to only
+one tradition or style. Rather, it should be considered
+as a mosaic made up of many constituent
+and finely nuanced parts.</p>
+
+<closer>
+<signed>John Koegel<lb/>
+California State University, Fullerton</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burr, Ramiro. <title level="m">The Billboard Guide to Tejano and Regional Mexican Music</title>. New York: Billboard Books, 1999.</bibl> <bibl>Garcia,
+Juan R. <title level="m">Mexicans in the Midwest, 1900–1932</title>. Tucson: University
+of Arizona Press, 1996.</bibl> <bibl>Pe&#241;a, Manuel. <title level="m">Musica Tejana:
+The Cultural Economy of Artistic Transformation</title>.
+College Station: Texas A&amp;M University Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

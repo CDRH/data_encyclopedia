@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Gender Roles</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Native American Gender Roles."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">333-334</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN GENDER ROLES</head>
+
+<p>Traditionally, Plains Indian gender roles were
+well defined, and men's and women's responsibilities
+were equally crucial to the functioning,
+even the survival, of their societies. Consequently,
+both men and women were respected
+for doing their jobs well, although this is
+not how early European American observers
+saw it.</p>
+
+<p>Such observers, coming from societies which
+held that women&#8211;gentlewomen, that is&#8211;
+should be cloistered and protected, were
+aghast at the workload that Plains Indian
+women carried. They witnessed them, from
+varying societies and at various times of the
+year, clearing fields, planting, hoeing, and harvesting;
+digging cache pits and storing food;
+erecting and dismantling lodges and tipis; collecting
+wild plants and firewood; cooking,
+hauling water, and washing dishes; transporting
+possessions, generally on foot, on bison
+hunts; making household items, including
+pottery and clothing; and child rearing. This
+workload increased during the first half of
+the nineteenth century as the fur trade raised
+the demands for dressed skins and robes.
+Meanwhile, the European American observers,
+often only transitory travelers, saw Indian
+men sitting around the village or encampment,
+smoking, gambling, perhaps mending
+a weapon or caring for a horse. The men
+seemed to have all the power; the women
+seemed to do all the work.</p>
+
+<p>Visitors who lived with Plains Indians for
+more extended periods of time, including
+early anthropologists like Alice Fletcher, saw
+a much more complex division of labor and
+distribution of authority. There is no doubt
+that Plains Indian women worked hard, but
+they were held in high esteem for the elemental
+role they played in supporting village life.
+Among the farming Indians of the eastern
+Plains at least, women provided most of the
+food in most years; even in the bison-hunting
+societies of the western Plains they provided
+significant amounts of food through collection
+of wild plants and berries, and they processed
+the meat obtained on the hunt.</p>
+
+<p>While it is true that the women generally
+played a subordinate role in ceremonial life
+and lacked formal political power (you will
+look in vain for a Plains Indian woman's signature
+on a treaty with the United States),
+they had types of political power that contemporary
+American women lacked. In the agricultural
+societies&#8211;the Pawnees and Omahas
+of Nebraska, for example&#8211;they owned the
+lodge, tipi, and its contents; the fields, seeds,
+and implements of production; and they had
+the right to trade their surplus crops. On the
+bison hunts they often made the decision on
+where to camp, and in the lodge the senior
+wife (for sororal polygamy was the norm) was
+the main decision maker. Women also had the
+right to divorce, and since they owned the
+lodge, an unkind husband could find himself
+homeless, with only his horse and weapons to
+his name. Women were also held in high esteem
+for their craft work, they played an important
+role in healing (especially in problems
+associated with childbirth), and they took care
+of religious items, a responsibility of the highest
+order.</p>
+
+<p>Men's roles were equally misunderstood by
+early European American travelers. Men were
+responsible for hunting, defensive and aggressive
+warfare, manufacturing of weapons, and
+nearly all societywide political and religious
+operations. Observers who saw Indian men in
+their villages saw them "off work," although
+often they did help the women in the fields or
+in the construction of a lodge. Men's work took
+them away from the village, and it was dangerous.
+They hunted on increasingly contested
+bison ranges and journeyed hundreds of miles
+to enemy encampments to steal horses and to
+win honors. The reciprocity of the gender roles
+is made clear by the hard facts of Indian demography:
+in most, if not all, Plains Indian
+societies in the mid–nineteenth century there
+were far more women than men. Women often
+died at an early age, worn down by a life of hard
+work and frequent childbearing, but men died
+in greater numbers and at earlier ages, victims
+of their dangerous occupations. Only in the
+late nineteenth century, when wars among the
+tribes and with the United States were curtailed,
+did the gender ratios equalize. By that
+time men and women alike were equally likely
+to die from diseases caused by poverty, such as
+tuberculosis.</p>
+
+<p>The gender roles devised over generations
+by traditional Plains Indian societies persisted
+for so long because they worked to keep the
+family and the band or tribe intact. In the
+last decades of the nineteenth century, the Canadian
+and U.S. governments launched a concerted
+attack on the traditional roles of Indian
+men and women: Indian men were to become
+farmers or blacksmiths, and Indian women
+were to become housewives, in keeping with
+European American concepts of "civilized" divisions
+of labor. Indian extended families were
+to be fragmented into nuclear families, each
+occupying an individual allotment. These imposed
+changes were resisted, but Indian men's
+traditional roles were fast disappearing, and
+as the weight of supporting families fell increasingly
+on the women, so did relative
+power. This shift has continued to this day.</p>
+
+<p>On Plains reservations and reserves in the
+early twenty-first century, women are more
+likely than men to have completed high school
+and to hold jobs outside the home. They
+are often the chief providers for the household,
+while Indian men frequently take over
+the child care, cooking, and cleaning. Such
+changes bring with them benefits, such as
+increased authority for women and closer
+father-child relationships for men, but they
+also bring the stresses of added responsibilities
+and altered self-images.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Albers, Patricia, and Beatrice Medicine. <title level="m">The Hidden Half: Studies of Plains Indian Women</title>. Washington <hi rend="smallcaps">DC</hi>: University
+Press of America, 1983.</bibl> <bibl>Billson, Janet Mancini. "Standing
+Tradition on Its Head: Role Reversal among Blood
+Indian Couples." <title level="j">Great Plains Quarterly</title> 11 (1991): 3–22.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

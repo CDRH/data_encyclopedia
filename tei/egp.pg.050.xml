@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Morton, J. Sterling (1832-1902)</title>
+<title level="m" type="sub"></title>
+<author>Harl A. Dalstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dalstrom, Harl A.">Harl A. Dalstrom</author>. <title level="a">"Morton, J. Sterling (1832-1902)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">676-677</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MORTON, J. STERLING (1832-1902)</head>
+
+<p>Born in Adams, New York, on April 22, 1832,
+Morton grew up in Monroe, Michigan, and
+was educated at the University of Michigan.
+He migrated to Bellevue, Nebraska Territory,
+in 1854 and served as clerk of the Nebraska
+Supreme Court. In 1855 he became editor of
+the <title level="j">Nebraska City News</title> and was twice elected
+to the legislature. Morton, a Democrat, was
+secretary of the territory from 1858 to 1861,
+and was briefly acting governor.</p>
+
+<p>The Civil War brought an era of Republican
+domination and political defeats for Morton,
+who came to concentrate upon his newspaper
+work. He championed rural development,
+emphasizing tree planting on the prairies, and
+made his Nebraska City farm a place for forestation
+and agricultural innovations. Upon
+his initiative, the state board of agriculture in
+1872 established Arbor Day as an occasion for
+planting trees. In time, Arbor Day would be
+widely observed. In 1886 Morton, mindful of
+environmental change, urged the Nebraska
+State Historical Society to create an "arboreal
+bureau" which would compile information on
+orchard and forestation projects. A "biography
+of all the planted trees in the state," he
+said, would "lift into view valuable facts and
+render humanity a vast service."</p>
+
+<p>A libertarian, Morton opposed railroad
+regulation, protective tariffs, and prohibition.
+As secretary of agriculture in Grover Cleveland's
+second administration, he stressed frugality
+and civil service while the scientific
+and marketing functions of the U.S. Department
+of Agriculture grew. In the monetary
+struggle of the 1890s, he backed the gold standard
+but failed to prevent William Jennings
+Bryan from committing the Democratic Party
+to free silver.</p>
+
+<p>Morton later established <title level="j">The Conservative</title>,
+a newspaper that heralded his political perspective.
+Although Nebraska would gain renown
+for conservative Republicanism, no one
+better exemplified this conservative heritage
+than Democrat J. Sterling Morton. However,
+his environmentalism was his more prominent
+legacy. He died at the home of his son in
+Lake Forest, Illinois, on April 27, 1902.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.056">Tree Planting and Climate Change</ref>.</p>
+
+<closer>
+<signed>Harl A. Dalstrom<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Olson, James C. J. <title level="m">Sterling Morton</title>. Lincoln: University of
+Nebraska Press, 1942.</bibl> <bibl>Winslow Davis, Kate. "Neighbors to
+the Mortons." <title level="j">Nebraska History</title> 53 (1972): 15–34.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

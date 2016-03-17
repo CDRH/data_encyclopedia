@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Pastores</hi></title>
+<title level="m" type="sub"></title>
+<author>Eileen Johnson</author>
+<author>J. Kent Hicks</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Johnson, Eileen">Eileen Johnson</author> and <author n="Hicks, J. Kent">J. Kent Hicks</author>. <title level="a">"<hi rend="italic">Pastores</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">363-364</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">PASTORES</hi></head>
+
+<p>The <hi rend="italic">pastores</hi> are a little-known Hispanic sheepherding
+group whose homeland was the grasslands
+of north-central New Mexico (<hi rend="italic">Quechero</hi>,
+or Mescalero Plains). Established there by at
+least the early nineteenth century, the pastores
+practiced a transhumance lifestyle with their
+flocks. The long circuits made in search of
+pasturage and water for the flocks took males
+away from their homes for extended periods.
+For these sheepherders, material possessions
+were basic and sparse as they traveled hundreds
+of miles with their sheep. Economically,
+the pastores were part of either the <hi rend="italic">partido</hi>
+system of herd management or a family business
+that owned and managed the flock. The
+New Mexico partido system, adapted from
+that of Spain, was a means of lending capital at
+interest that allowed a sheepherder to build up
+his own flock, thereby moving to the family
+business system.</p>
+
+<p>A burgeoning sheep industry necessitated
+new, open rangelands that were safe from
+raids by Native peoples. Despite risks, pastores
+began their incursion into the upper Canadian
+River valley of eastern New Mexico by
+1849 and the Canadian River valley of the
+Texas Panhandle in the 1860s. In the middle
+1870s, with the removal of the Native peoples
+and near extermination of the bison herds on
+which they depended, the vast grasslands
+of the Texas Panhandle and Southern High
+Plains became open territory. The value of this
+area was realized quickly by the pastores as
+they moved their flocks into the region. Part
+of a longer circuit bringing the flocks back
+to New Mexico, family settlements soon lined
+the Canadian River valley and its tributaries
+in the Texas Panhandle. By 1880, 340 pastores
+were in that area. The pastores established
+small settlements in previously used summer
+grazing pastures with the intention of remaining
+in the area on a year-round basis. Known
+as <hi rend="italic">plazas</hi>, the largest one (founded by Casimero
+Romero in 1876) became the town of
+Tascosa. The Canadian and Red River drainage
+systems were the primary routes for circuits
+and settlements.</p>
+
+<p>Pastores sites have been identified in archeological
+surveys along the middle Pecos
+River near Santa Rosa, New Mexico, and the
+Canadian River valley in the Texas Panhandle.
+Rock corrals were common among a small
+variety of site types. Rock corrals, used by pastores,
+have been found in the eastern canyon
+lands of the Rolling Plains and within the
+drainages and on the uplands of the Southern
+High Plains.</p>
+
+<p>The pastores fashioned a distinctive architecture
+and favored specific topographic and
+environmental settings. Corrals, built for shelter
+and protection, were located where abundant
+pasture and surface water coexisted. The
+locally available rock used in construction also
+influenced structure placement. Corrals, built
+of local materials and without mortar, were of
+variable size and were square, rectangular, or
+oval. Rocks were stacked with the larger ones
+near the bottom and smaller ones on top, and
+the walls were not faced. The corrals constructed
+in the various areas were substantial
+and took time and effort. The majority were
+single-space enclosures, although partitioned
+corrals have also been identified. Machine-cut
+square iron nails (manufactured between 1860
+and 1884) have been commonly found within
+and around the corrals. The settlements made
+efficient use of available resources within a localized
+area while providing a safe haven within
+a controlled pasturage for people and sheep.</p>
+
+<p>Anglo-American cattle ranchers also recognized
+the value of the vast grasslands, which
+they used first as open range and then, by 1881,
+controlled with land titles and barbed-wire
+fencing. Restrictions on free range, several
+harsh winters, and a general atmosphere of
+distrust and dislike between the sheepherders
+and cattlemen led to a rapid decline of pastores
+settlements in the region. By 1887 all the
+plazas were abandoned and most pastores had
+returned to New Mexico.</p>
+
+<p>During their short tenure on the western
+Texas Plains, the pastores were always in
+transition&#8211;from seasonal use to permanent
+settlement to withdrawal from the region.
+Abandonment was not only quick but also
+unexpected, brought about by changes over
+which the pastores had no control. Their influence
+on the regional culture is neither fully
+understood nor appreciated. Nevertheless, the
+pastores' brief presence left its mark on the
+landscape of the region and influenced early
+settlement patterns. Plazas became town sites
+and corrals and camps provided an infrastructure
+for European American reuse and
+settlement of the region.</p>
+
+<closer>
+<signed>Eileen Johnson<lb/>
+J. Kent Hicks<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Archambeau, Ernest R. "Spanish Sheepmen on the Canadian
+at Old Tascosa." <title level="j">Panhandle-Plains Historical Review</title>
+19 (1946): 45–72, 96.</bibl> <bibl>Hicks, J. Kent, and Eileen Johnson.
+"Pastores Presence on the Southern High Plains of Texas."
+<title level="j">Historical Archaeology</title> 34 (2000): 46–60.</bibl> <bibl>Rathjen, Frederick
+W. <title level="m">The Texas Panhandle Frontier</title>. Austin: University of
+Texas Press, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

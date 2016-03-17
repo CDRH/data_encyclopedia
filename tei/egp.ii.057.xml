@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.057 SYSTEM "egp.ii.057.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wall Drug</title>
+<title level="m" type="sub"></title>
+<author>Sheila R. Aaker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Aaker, Sheila R.">Sheila R. Aaker</author>. <title level="a">"Wall Drug."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">398&#8211;399</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-10-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">WALL DRUG</head>
+
+<figure n="egp.ii.057" rend="granted">
+<figDesc>Ted Hustead in front of Wall Drug, ca. 1932</figDesc>
+</figure>
+
+<p><orgName rend="business" key="bus.wd" reg="Wall Drug">Wall Drug</orgName> is a world-famous attraction located in <placeName rend="settlement" key="sd.wal" reg="Wall, South Dakota">Wall, South Dakota</placeName>. The community of Wall is situated on the east "wall" of the <geogName rend="region" reg="Badlands">Badlands</geogName>, just fifty-four miles southeast of <placeName rend="settlement" key="sd.rc" reg="Rapid City, South Dakota">Rapid City</placeName>. <orgName rend="business" key="bus.wd" reg="Wall Drug">Wall Drug</orgName> began as a country pharmacy serving local farmers and ranchers and the residents of a small, western <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> community.</p>
+
+<p>In the early years of the Depression, <persName reg="Hustead, Theodore Edward">Theodore Edward Hustead</persName>, a recent graduate of pharmacy school, purchased the existing drugstore in Wall using a three-thousand-dollar inheritance from his father. Because local farmers and ranchers were dried out, they had little money to spend in town. For a number of years, <persName reg="Hustead, Theodore Edward">Ted</persName> and his wife and partner, <persName reg="Hustead, Dorothy">Dorothy</persName>, noticed a steady stream of autos headed west on <placeName rend="highway" key="high.us16a" reg="U.S. Route 16A">Route 16<hi rend="smallcaps"></hi>A</placeName>. The problem was that very few of these autos were taking the time to pull off the two-lane highway. In the summer of 1936, during a particularly hot spell, <persName reg="Hustead, Dorothy">Dorothy</persName> had the inspiration of offering free ice water to travelers. <persName reg="Hustead, Theodore Edward">Ted</persName> immediately set to work making signs, modeled after the old Burma Shave highway signs. Each phrase of the message was written on a board, and all the boards were then placed along the highway, spaced so that people could read each sign as they drove along. Advertising a free, desirable product to get people into the store proved to be immensely successful. More than sixty years later, with many signs located in far-off places, <orgName rend="business" key="bus.wd" reg="Wall Drug">Wall Drug</orgName> has grown to a 76,000-square-foot complex that includes two malls. A thirsty traveler can still find free ice water there, along with five-cent coffee.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Sheila R. Aaker<lb/>
+Black Hills State University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Hustead, Ted. "<title level="a">Wall and Water</title>." <title level="j">Guideposts</title> (July 1982): 34–37.</bibl> <bibl>Jennings, Dana Close. <title level="m">Free Ice Water! The Story of Wall Drug</title>. Aberdeen <hi rend="smallcaps">SD</hi>: North Plains Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

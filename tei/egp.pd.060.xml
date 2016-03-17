@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.060">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wood, Henry Wise (1860-1941)</title>
+<title level="m" type="sub"></title>
+<author>David J. Hall</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.060</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hall, David J.">David J. Hall</author>. <title level="a">"Wood, Henry Wise (1860-1941)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">727-728</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOOD, HENRY WISE (1860-1941)</head>
+
+<p>Henry Wise Wood was a farmer, first in Missouri
+and then in Alberta. In Canada he became
+a leader in agrarian organizations, had a
+weighty influence on agrarian involvement in
+politics, and was a prominent figure in establishing
+the Alberta Wheat Pool. Born in Ralls
+County, Missouri, on May 31, 1860, Wood was
+educated in a rural school, at a private school
+in Monroe City, and at Christian University
+(later Culver-Stockton College) in Canton,
+Missouri. In 1883 he married Etta Leora Cook,
+and they had four sons. Following three years
+in Texas (1878–81) he returned to Ralls County,
+where he farmed, bred cattle, and joined the
+Farmers and Laborers Union.</p>
+
+<p>By the time he moved to a farm near Carstairs,
+Alberta, in 1905, he was widely read in
+political philosophers such as Karl Marx and
+John Stuart Mill. The failure of American farmers
+to enter politics directly, and the corruption
+of their farm organizations through political
+engagement, convinced him that Canadian
+agrarian movements would share the same fate
+if they embarked on a similar path. Wood was
+elected president of the United Farmers of Alberta
+(<hi rend="smallcaps">UFA</hi>) in 1916 and became president of
+the Canadian Council of Agriculture in 1917.
+His rapid rise in these bodies reflected his energy
+and skill at organization, as well as his
+conviction that the future for farmers lay in
+their willingness to view themselves as an economic
+class, committed to principles of cooperation
+more than of competition, and acting
+effectively to push the goals of farmers upon
+both government and business while avoiding
+the siren call of entering politics directly.</p>
+
+<p>By the end of World War I, however, grassroots
+determination to enter politics left Wood
+no choice but to try to shape the political activity
+in accordance with his ideas: the farmers should
+enter politics as an economic group, which
+would maintain its integrity as a purely agrarian
+entity, but be prepared at the same time to cooperate
+with other economic groups such as labor.
+At all costs they should avoid participating in
+the existing corrupt political system. While the
+<hi rend="smallcaps">UFA</hi> officially supported the Progressive Party,
+formed after World War I to represent the interests
+of farmers at Ottawa, Wood's ideas were
+fundamentally opposed to those of the other
+major farm representative in politics, T. A.
+Crerar of Manitoba. Crerar accepted the basic
+principles of political organization as they existed,
+but he believed that the Progressive Party's
+duty was to pressure the traditional major parties,
+Liberal and Conservative, to adopt policies
+that were in the interest of farmers. Thus, despite
+electing sixty-four members to Parliament
+in 1921 and becoming the second-largest group
+after the governing Liberals, the Progressives
+were divided at their core, and the national
+movement largely disintegrated by the
+mid-1920s. A major factor was Wood's ideological
+intransigence. Nevertheless, within Alberta
+the political wing of the ufa became the government
+in 1921, holding power as essentially a
+farmer government until 1935.</p>
+
+<p>Wood also believed in the ideas of the American
+apostle of cooperation, Aaron Sapiro,
+who spoke often in western Canada in the
+1920s. Indeed, Wood was able to generate the
+cooperation of businessmen, farmers, and the
+Alberta government, all under his leadership
+and that of the <hi rend="smallcaps">UFA</hi>, to form the Alberta Wheat
+Pool, of which Wood became president in 1923.
+From there he was instrumental in the creation
+of pools in Saskatchewan and Manitoba and
+became vice president (1924) of the Central
+Selling Agency, which marketed the wheat of
+the three pools.</p>
+
+<p>Wood retired as president of the ufa in 1931,
+and as president of the Wheat Pool in 1937. In
+1935 he received the Grand Cross of Saint Michael
+and Saint George from King George V,
+recognizing "his services to the cause of agrarian
+unity and cooperation." He died in Calgary
+on June 10, 1941.</p>
+
+<closer>
+<signed>David J. Hall<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Morton, W. L. "The Social Philosophy of Henry Wise
+Wood, the Canadian Agrarian Leader." <title level="j">Agricultural History</title>
+22 (1948): 114–22.</bibl> <bibl>Rolph, William Kirby. <title level="m">Henry Wise
+Wood of Alberta</title>. Toronto: University of Toronto Press,
+1950.</bibl> <bibl>Wood, Henry Wise. Papers. Glenbow Archives. Calgary,
+Alberta.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

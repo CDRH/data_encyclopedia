@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lopez, Nancy (b. 1957)</title>
+<title level="m" type="sub"></title>
+<author>Carl M. Becker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Becker, Carl M.">Carl M. Becker</author>. <title level="a">"Lopez, Nancy (b. 1957)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">360-361</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOPEZ, NANCY (b. 1957)</head>
+
+<p>Born on January 6, 1957, in Torrance, California,
+Nancy Lopez, the daughter of Domingo
+and Marina Lopez, was a "wunderkind" of
+golf. When she was very young the family
+moved to Roswell, New Mexico, where Domingo
+ran an automobile repair shop. At age
+eight, Nancy learned the game of golf, carrying
+her mother's 4-wood and trailing her father
+as he played the arid municipal course.
+She developed an unorthodox swing, taking
+her club back slowly with her arms stretched
+high over her head, pausing, and then unleashing
+a powerful downswing.</p>
+
+<p>Lopez won a Peewee League girls' tournament
+by 110 strokes at age nine (the prize was a
+Barbie doll), the New Mexico Women's Amateur
+Tournament at age twelve, and five national
+and regional junior championships as a
+teenager. As an amateur, she placed second
+in the United States Women's Open in 1975
+and, while attending the University of Tulsa,
+captured five collegiate titles. She turned professional
+in 1977 and in 1978 won nine tournaments,
+a record-setting five in a row, including
+the Ladies Professional Golf Association
+Championship (<hi rend="smallcaps">LPGA</hi>). That year she was the
+leading money-winner, won the Vare Trophy
+for low scoring average, and was named both
+Player of the Year and Rookie of the Year.</p>
+
+<p>Ever flashing a telegenic smile, Lopez infused
+women's golf with an expansive spirit;
+she became, said one observer, "the whole
+sport of women's golf." More women took up
+the game, the media gave increasing coverage
+to the lpga tour, and galleries at lpga events
+multiplied. Heretofore eclipsed by women's
+tennis, gymnastics, and running, women's
+golf was soon equally popular.</p>
+
+<p>Lopez won eight tour events in 1979 but
+slipped comparatively from 1980 through
+1984, claiming two to three titles each year.
+Contributing factors were a failed marriage to
+Tim Melton, her pregnancy following her
+marriage to Ray Knight, a major league baseball
+player, the flattening of her swing, and
+stiffer competition on the tour. She returned
+to preeminence in 1985 when she won five
+tournaments. She attributed her renewed success
+in part to Knight, who, understanding the
+demands facing professional athletes, gave her
+"peace of mind."</p>
+
+<p>Lopez won thirteen championships from
+1986 through 1993 despite cutting her play because
+of two pregnancies and the demands of
+domestic life. After 1993 her scoring average
+remained nearly at old levels, but she did not
+claim another title until 1997. She has been
+named Player of the Year four times and was
+elected to the lpga Hall of Fame in 1987.</p>
+
+<closer>
+<signed>Carl M. Becker<lb/>
+Wright State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Deford, Frank. "Nancy with the Laughing Face." <title level="j">Sports Illustrated</title>, July 10, 1978: 24.</bibl> <bibl>Lopez, Nancy, with Peter
+Schwed. <title level="m">The Education of a Woman Golfer</title>. New York:
+Simon and Schuster, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

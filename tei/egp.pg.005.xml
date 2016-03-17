@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bellmon, Henry (b. 1921)</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelly</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Bellmon, Henry (b. 1921)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">654</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BELLMON, HENRY (b. 1921)</head>
+
+<p>Henry Bellmon, governor and U.S. senator
+from Oklahoma, was the pivotal figure in creating
+Oklahoma's modern two-party politics.
+Bellmon was born on September 3, 1921, on a
+farm near Billings, Noble County, Oklahoma.
+He graduated from Oklahoma <hi rend="smallcaps">A&amp;M</hi> University
+(now Oklahoma State University) in 1942 and
+served with distinction in the U.S. Marine
+Corps during World War II. After the war
+ended, he returned to the family farm and
+became active in local politics. He was elected
+to the Oklahoma legislature in 1946 but was
+defeated for reelection in 1948.</p>
+
+<p>In 1947 Bellmon married Shirley Osborn,
+and for the next fifteen years he concentrated
+on farming and raising his three daughters. In
+1960 he was elected as chair of the Oklahoma
+Republican Party and in that capacity worked
+to make the party competitive at the state and
+local level. Two years later he announced his
+candidacy for governor of Oklahoma. He defeated
+Democrat Bill Atkinson, and in doing so
+became the first Republican governor of Oklahoma
+and the first Republican to be governor
+of any southern state since Reconstruction.</p>
+
+<p>Bellmon was ineligible to succeed himself as
+governor and left office in 1967. The following
+year, he ran for the U.S. Senate and defeated
+incumbent Democrat Mike Monroney. Despite
+his close association with President Richard
+Nixon, Bellmon was reelected over Democrat
+Ed Edmondson in 1974 by a narrow margin.
+During his two terms in the Senate, Bellmon
+rose to become ranking minority member of the
+Senate Budget Committee. He voted a generally
+conservative line but angered doctrinaire conservatives
+with his support for the Panama Canal
+treaty and school integration.</p>
+
+<p>Bellmon declined to run for a third term in
+1980 and returned to Oklahoma. He served as
+a member of the faculty at the University of
+Oklahoma before running for a second term
+as governor in 1986. By winning the election,
+Bellmon became Oklahoma's first Republican
+to win a second term as governor. During his
+second term Bellmon presided over the centennial
+of the Oklahoma Land Run of 1889. He
+continued to steer a moderate course and implemented
+important budgetary and educational
+reforms. Bellmon retired after completing
+his term in 1991, but he remained active in
+local and state political activity. Henry Bellmon
+will be remembered as the architect of
+modern two-party politics in Oklahoma and
+as a governor and senator of independence
+and integrity.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bellmon, Henry. <title level="m">The Life and Times of Henry Bellmon</title>.
+Tulsa <hi rend="smallcaps">OK</hi>: Charter Oak Press. 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.011 SYSTEM "egp.pe.011.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Black Hills</title>
+<title level="m" type="sub"></title>
+<author>Richard G. Reider</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reider, Richard G.">Richard G. Reider</author>. <title level="a">"Black Hills."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">622</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLACK HILLS</head>
+
+<figure n="egp.pe.011" rend="granted">
+<figDesc>Black Hills diagram</figDesc>
+</figure>
+
+<p>The Black Hills is an eroded structural dome
+in northwestern South Dakota and adjacent
+northeastern Wyoming. Elevations range from
+about 3,500 feet along its margins to 7,242 feet
+on Harney Peak near the center. The dome has
+eroded Precambrian crystalline rocks (granite
+and schist) exposed near its center, as at Harney
+Peak and Mount Rushmore National Memorial.
+Younger rocks lie outward from these.
+Among them, soft shales form valleys, whereas
+resistant rocks, such as sandstones and limestones,
+form plateaus, hogbacks, or homoclines.
+Paleozoic limestones, principally the
+Minnekahta limestone (Permian), overlie the
+crystalline units and form the Limestone
+Plateau that covers much of the western half of
+the uplift. Outward from the Paleozoic beds is
+the Spearfish Formation (Triassic) that forms
+the Red Valley (or Racetrack) that entirely rims
+the edges of the Black Hills. Next, the Dakota
+Sandstone (Cretaceous) forms a prominent
+hogback encircling the uplift. Late Mesozoic
+and Tertiary beds comprise the plains beyond
+the hogback.</p>
+
+<p>Limestone caverns are common on the
+Limestone Plateau, as at Jewel Cave National
+Monument and Wind Cave National Park.
+Hot springs occasionally occur along the margins
+of the uplift, as at the town of Hot Springs,
+South Dakota. Numerous laccolithic peaks
+(caused by volcanic intrusions) lie north and
+west of the uplift in South Dakota and Wyoming,
+including Elkhorn Peak, Crow Peak,
+Crook Mountain, and Citadel Rock. Devils
+Tower in Wyoming (a national monument) is
+a volcanic neck and Bear Butte in South Dakota
+is an igneous plug. All these volcanic features
+are Tertiary in age. Gold deposits in the
+Black Hills are associated with the Tertiary
+volcanism.</p>
+
+<p>The Black Hills is dominated by ponderosa
+pine (<hi rend="italic">Pinus ponderosa</hi>) with open parklands
+and valleys covered by grasses. Birch (<hi rend="italic">Betula
+sp.</hi>) and aspen (<hi rend="italic">Populus tremuloides</hi>) are also
+common in higher elevations.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.050"><hi rend="italic">United States v. Sioux Tribe of Indians</hi></ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.040">National Parks</ref>.</p>
+
+<closer>
+<signed>Richard G. Reider<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fenneman, Nevin M. <title level="m">Physiography of Western United
+States</title>. New York: McGraw-Hill Book Company, 1931.</bibl>
+<bibl>Thornbury, W. D. <title level="m">Regional Geomorphology of the United
+States</title>. New York: John Wiley &amp; Sons, 1965.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.war.024 SYSTEM "egp.war.024.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lincoln County War</title>
+<title level="m" type="sub"></title>
+<author>John P. Wilson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wilson, John P.">John P. Wilson</author>. <title level="a">"Lincoln County War."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">830</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LINCOLN COUNTY WAR</head>
+
+<figure n="egp.war.024" rend="granted">
+<figDesc>William H. Bonney (Billy the Kid), ca. 1879</figDesc>
+</figure>
+
+<p>When lawyer Alexander McSween and a young
+Englishman, John H. Tunstall, began competing
+with local merchants Lawrence G. Murphy
+and James Dolan in the tiny community of
+Lincoln, New Mexico, in the late 1870s, the
+result was the Lincoln County War. From February
+18, 1878, to February 18, 1879, the rivals
+fought for economic supremacy, first through
+the legal system and then with bullets, until law
+and order finally collapsed.</p>
+
+<p>Tunstall's murder by a sheriff's posse in February
+1878 prompted his supporters, now
+styled "the Regulators," to regroup around
+McSween. On April 1, Regulators shot Sheriff
+William Brady and his deputy on Lincoln's
+main, and only, street. George W. Peppin replaced
+Brady as sheriff. In the following weeks,
+McSween and his partisans skirmished with
+Peppin's posses. McSween led his Regulators
+back into Lincoln on July 14, and for five days
+the town was rocked with gunfire. Pleas for
+help from a frightened resident brought Lt.
+Col. N. A. M. Dudley and his men from nearby
+Fort Stanton, but Dudley only stood by as
+Sheriff Peppin and his men besieged McSween's
+house. McSween died in a hail of gunfire,
+as a young outlaw going under the name of
+William Bonney, or simply "the Kid," led a
+desperate escape from the burning building.</p>
+
+<p>As a result of the violence, President Rutherford
+Hayes dismissed territorial governor
+Samuel Axell and appointed Lew Wallace, a
+former general (and later, author of <title level="m">Ben Hur</title>),
+in his place. The U.S. Army was brought in to
+help civilian law officers, and the violence
+died away gradually. Governor Wallace's amnesty
+permitted most of the outlaws to go free;
+only William Bonney was convicted for the
+murder of Sheriff Brady. Bonney, by then
+known as "Billy the Kid," rode away from Lincoln
+branded forever with a reputation as an
+outlaw.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.026">Frontier Violence</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.007">Billy the Kid</ref>.</p>
+
+<closer>
+<signed>John P. Wilson<lb/>
+Las Cruces, New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nolan, Frederick. <title level="m">The Lincoln County War: A Documentary
+History</title>. Norman: University of Oklahoma Press,
+1992.</bibl> <bibl>Utley, Robert. <title level="m">High Noon in Lincoln: Violence on the
+Western Frontier</title>. Albuquerque: University of New Mexico
+Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

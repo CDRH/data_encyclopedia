@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Canadian Pacific Railway</title>
+<title level="m" type="sub"></title>
+<author>Fred F. Angus</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Angus, Fred F.">Fred F. Angus</author>. <title level="a">"Canadian Pacific Railway."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">413</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CANADIAN PACIFIC RAILWAY</head>
+
+<p>The Canadian Pacific Railway (<hi rend="smallcaps">CPR</hi>) was one
+of the most important forces in opening up
+the Canadian Prairies to settlement. What the
+Hudson's Bay Company did in the late eighteenth
+and early nineteenth centuries, the cpr
+did in the late nineteenth and early twentieth
+centuries.</p>
+
+<p>Following the formation of the Dominion
+of Canada in 1867, arrangements were made
+to transfer the Hudson's Bay Company territory,
+known as Rupert's Land, to Canada. The
+transfer of this territory, which comprises the
+present-day Provinces of Manitoba, Saskatchewan,
+and Alberta, was completed in 1870. In
+1871 the colony of British Columbia joined the
+Dominion under the condition that a railway
+be built to connect it to the east. After several
+attempts, including more than five years of
+construction by the Canadian government,
+the Canadian Pacific Railway Company was
+incorporated by act of Parliament on February
+17, 1881. At that time the government of
+Canada gave the new company $25 million
+and 25 million acres of land in the Plains area
+between Winnipeg and the Rocky Mountains.</p>
+
+<p>At the start of 1882 the company hired William
+Cornelius Van Horne as its general manager.
+Under his leadership, construction proceeded
+at a record pace, and the first train
+reached Calgary (now in the province of Alberta
+but then in the Northwest Territories) in
+the summer of 1883. On November 7, 1885, the
+last spike in the main line was driven at Craigellachie
+in the mountains of British Columbia,
+and on June 28, 1886, the first through
+transcontinental train departed Montreal for
+the Pacific Coast, which it reached six days
+later.</p>
+
+<p>During the next thirty years the cpr built a
+network of branch lines that connected many
+Prairie communities with the main line. Until
+other transcontinental railways were built, in
+the first decade and a half of the twentieth
+century the <hi rend="smallcaps">CPR</hi> was the only practical way of
+reaching the Prairies. Its influence on the pattern
+of settlement of western Canada from
+1885 to 1914 cannot be overestimated.</p>
+
+<p>As the <hi rend="smallcaps">CPR</hi> evolved, it began operating
+ships, both oceangoing and inland, airlines,
+and road transport as well as a chain of hotels.
+By the mid–twentieth century it was advertising
+itself as the world's greatest travel system
+and using the slogan "<hi rend="smallcaps">CPR</hi> Spans the World." It
+also began to exploit its oil and mineral resources
+and involved itself in many other activities
+besides transportation.</p>
+
+<p>Today the 1881 company still exists as Canadian
+Pacific Limited and still owns some of the
+land originally granted. Since the majority of
+its business is in the West, the company moved
+its corporate headquarters from Montreal to
+Calgary in the 1990s. With its large reserves of
+oil, gas, and coal and its various transportation
+divisions, including the railway with which it
+started, Canadian Pacific Limited is still an important
+component in the ongoing development
+of western Canada.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.029">Railways, Canada</ref>.</p>
+
+<closer>
+<signed>Fred F. Angus<lb/>
+Montreal, Quebec</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Eagle, John A. <title level="m">The Canadian Pacific Railroad and the Development of Western Canada, 1896–1914</title>. Montreal: Mc-
+Gill-Queens University Press, 1989.</bibl> <bibl>Innis, Harold A. <title level="m">History of the Canadian Pacific Railway</title>. Toronto: University
+of Toronto Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

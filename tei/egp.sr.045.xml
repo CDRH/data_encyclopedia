@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.045 SYSTEM "egp.sr.045.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rodeo</title>
+<title level="m" type="sub"></title>
+<author>James Hoy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoy, James">James Hoy</author>. <title level="a">"Rodeo."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">784-785</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RODEO</head>
+
+<figure n="egp.sr.045" rend="granted">
+<figDesc>Homer Holcomb waves a cape at a Brahma bull, while another clown is thrown at the Colorado State Fair Rodeo in Pueblo, Colorado, between 1920 and 1930.</figDesc>
+</figure>
+
+<p>Rodeo is distinctive, if not unique, among major
+American spectator and participant sports
+because it is based on the working skills of a
+real occupation, even though the roping and
+riding that take place in a rodeo arena are far
+more refined than those that occur during the
+daily work of a ranch. The origins of rodeo lie
+in the impromptu competitions that naturally
+arise among men working cattle from the
+backs of horses&#8211;dares to ride an especially
+cantankerous bucking horse, bets at a calf
+branding on who can heel more calves without
+missing, challenges to be first to rope a
+herd-quitting steer.</p>
+
+<p>The precursors of modern rodeo can be
+found in the horse sports and races and the
+riding and roping exhibitions that occurred at
+the fiestas of Spanish missions in Mexico and
+California in the late eighteenth and early
+nineteenth centuries. In the United States
+rodeo-like activities coincided with the big cattle
+drives that followed the Civil War&#8211;a broncriding
+contest between trail-driving crews near
+Deer Trail, Colorado; steer-roping contests at
+Pecos, Texas, and Dodge City, Kansas; tryouts
+for Buffalo Bill Cody's Wild West show at
+North Platte, Nebraska. The first complete
+rodeo, in a modern sense, took place at Prescott,
+Arizona, in 1888, and contestants paid to
+enter roping and riding contests in which they
+competed for trophies and cash prizes before
+an audience of paying spectators. The bestknown
+American rodeo, Cheyenne Frontier
+Days, began in 1897. The equally famous Calgary
+Stampede began in 1912. Many early
+rodeos were held in pastures, a circle of buggies
+and automobiles serving as an arena. Bucking
+horses were held by mounted snubbers while
+riders saddled them in the open.</p>
+
+<p>Unscrupulous promoters often took advantage
+of cowboys in the early days of rodeo, but
+in 1936 a strike by contestants at the big eastern
+rodeos resulted in the formation of the
+Cowboys' Turtle Association, the forerunner
+of today's Professional Rodeo Cowboys Association
+(based in Colorado Springs). In addition
+to the hundreds of rodeos sanctioned
+each year by the association, there are also
+thousands of so-called amateur rodeos, many
+of them sanctioned by smaller regional associations.
+The National Intercollegiate Rodeo
+Association (which sponsors the national finals
+at Montana State University in Bozeman),
+the National High School Rodeo Association
+(headquartered in Denver), and youth rodeos
+of various types also sponsor many hundreds
+of rodeos each year. Rodeo as organized sport
+also is found in Australia and New Zealand.</p>
+
+<p>Although early-day rodeos often had a
+dozen or more contest events for both men
+and women contestants, a contemporary rodeo
+has seven standard events for men and a
+cloverleaf barrel race for women. Rodeos generally
+begin with quasi-patriotic ceremonies
+that include a grand entry of riders led by the
+American flag. The first contest event is bareback
+bronc riding, in which the contestant
+holds onto the handle of a leather rigging
+cinched around a horse confined in a narrow
+bucking chute. To qualify, the rider must spur
+the horse above the point of the shoulders on
+the first jump out of the chute, ride for eight
+seconds, and not touch either himself or the
+horse with his free hand. Two judges score
+both the rider and the animal a maximum of
+25 points each for a possible total of 100
+points. The same rules also apply to saddle
+bronc riding, during which the contestant
+rides in a standard saddle whose design has
+been approved by the Professional Rodeo
+Cowboys Association holding onto a buck
+rein attached to a halter. Bull riding, the last of
+the rough stock events, has similar rules, except
+that the rider holds onto a flat-plaited
+loose rope and is not required to spur the animal
+out of the chute.</p>
+
+<p>Timed contests include calf roping, steer
+roping, team roping, and steer wrestling, the
+latter two the only events requiring two competitors.
+In each of these events the animal,
+held in a chute, is given a head start, ensured
+by a barrier rope that, if broken, results in a
+ten-second penalty. A roper must catch the
+calf, throw it to the ground, and tie three legs
+with a shorter rope called a pigging string. The
+calf must stay tied for six seconds for a qualified
+time, with the quickest time winning. Single
+steer roping follows the same rules except
+that the roper downs the steer by flipping the
+rope over the steer's hip and tripping him. In
+team roping the header catches the steer by
+the horns, the heeler by the two back legs;
+catching only one leg results in a five-second
+fine. In steer wrestling, sometimes called bull-dogging,
+the wrestler comes out of the chute
+on the left side of the steer, while his helper,
+called a hazer, comes out on the right to help
+keep the steer running straight. The dogger
+must jump off his running horse onto the
+back of the steer, pull him to a stop, and twist
+his horns to bring him to the ground with all
+four legs pointing in the same direction.</p>
+
+<p>Previous to World War II, cowgirls competed
+among themselves in both roping and
+riding events and sometimes competed against
+men in trick-riding and trick-roping events.
+Today, although women compete in riding and
+roping events in rodeos sanctioned by the
+Women's Professional Rodeo Association,
+most female rodeo competitors are essentially
+limited to the barrel race, a timed event in
+which three barrels must be circled in a cloverleaf
+pattern.</p>
+
+<p>As professional rodeo has become more
+popular in recent decades, attracting many
+participants from urban backgrounds, it has
+also become more removed from its ranching
+roots. As a result, a backlash in the form of
+ranch rodeo has arisen, beginning in Texas in
+the 1980s and spreading from there throughout
+most of the western states. In contrast to
+the individual competition of regular rodeo,
+ranch rodeo features cooperation among a
+four-member team competing in events such
+as calf branding, sorting, and wild cow milking
+that are more closely attuned to actual
+ranch work. Although not as accessible to the
+general population, ranch rodeo has nevertheless
+proven quite successful in bringing
+rodeo back to its ranch-country roots.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.030">Rodeo Queens</ref>.</p>
+
+<closer>
+<signed>James Hoy<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fredriksson, Kristine. <title level="m">American Rodeo: From Buffalo Bill
+to Big Business</title>. College Station: Texas A&amp;M University
+Press, 1985.</bibl> <bibl>Westermeir, Clifford. <title level="m">Man, Beast, Dust: The
+Story of Rodeo</title>. Lincoln: University of Nebraska Press,
+1987.</bibl> <bibl>Wooden, Wayne S., and Gavin Ehringer. <title level="m">Rodeo in
+America</title>. Lawrence: University Press of Kansas, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Plan of San Diego</title>
+<title level="m" type="sub"></title>
+<author>James A. Sandos</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sandos, James A.">James A. Sandos</author>. <title level="a">"Plan of San Diego."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">364-365</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Plan of San Diego</head>
+
+<p>From 1915 to 1917 the anarchist-inspired Plan
+of San Diego (named after the small town in
+South Texas where it was devised) sought to
+redress the suffering of some ethnic poor in
+America by creating two new, independent republics
+from states in the Southwest and the
+Great Plains where Hispanics, blacks, Native
+Americans, and Japanese could live free from
+"capitalist oppression." The plan proposed
+liberating first, as a Spanish-speaking homeland,
+the lands Mexico had lost to the United
+States in 1848, namely Texas, New Mexico, Arizona,
+Colorado, and California. Then six
+bordering states, Nevada, Utah, Wyoming,
+Nebraska, Kansas, and Oklahoma, would be
+freed and given to blacks and Indians (Japanese
+could live anywhere). These goals would
+be achieved by killing all white males over the
+age of sixteen and would begin with assaults
+against South Texas.</p>
+
+<p>The plan's ideology derived from the Mexican-
+origin, Spanish-language anarchist newspaper
+<hi rend="italic">Regeneraci&#243;n</hi>, which drew 40 percent
+of its subscribers from the Great Plains even
+though it was published in Los Angeles by Ricardo
+and Enrique Flores Mag&#243;n. Both men
+were convicted of violating United States neutrality
+statutes, in part by inciting the Plan of
+San Diego. Raiding against the United States
+from Mexico intensified to the point of contributing
+to the war crisis between the two
+countries in the summer of 1916. Early in 1917,
+when President Woodrow Wilson learned
+from the intercepted Zimmermann Telegram
+of a German proposal to return to Mexico
+lands previously lost to the United States, a
+proposal similar to that of the Plan of San
+Diego, it played a role in Wilson's decision to
+declare war on Germany.</p>
+
+<p>A combination of military and political actions
+by the United States and Mexico against
+plan insurgents on both sides of the border
+defused the movement in 1917. Such success,
+however, was little appreciated at the time,
+and the legacy of the Plan of San Diego embittered
+United States–Mexico relations for seventy
+years.</p>
+
+<closer>
+<signed>James A. Sandos<lb/>
+University of Redlands</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Harris, Charles III, and Louis Sadler. "The Plan of San
+Diego and the Mexican War Crisis of 1916: A Re-Examination."
+<title level="j">Hispanic American Historical Review</title> 57 (1978):
+381–408.</bibl> <bibl>Sandos, James A. <title level="m">Rebellion in the Borderlands: Anarchism and the Plan of San Diego, 1904–1923</title>. Norman:
+University of Oklahoma Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

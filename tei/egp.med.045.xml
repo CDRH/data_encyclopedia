@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Telegraph</title>
+<title level="m" type="sub"></title>
+<author>Thomas C. Jepsen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jepsen, Thomas C.">Thomas C. Jepsen</author>. <title level="a">"Telegraph."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">522-523</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TELEGRAPH</head>
+
+<p>The electric telegraph played an important
+role in the lives of the inhabitants of the Great
+Plains from its first appearance in the region
+in the 1860s until well into the twentieth century.
+Work on a coast-to-coast telegraph line
+in the United States began when Congress
+passed the Pacific Telegraph Act in 1860. The
+Western Union Telegraph Company supervised
+the construction of the line, which ran
+from Omaha, Nebraska, through Laramie,
+Wyoming, to San Francisco, California. Upon
+its completion in October 1861, the transcontinental
+telegraph spelled an end to the
+Pony Express, which had operated during its
+construction.</p>
+
+<p>Some of the construction crews used electric
+batteries to give shocks to the Arapaho
+and Cheyenne inhabitants of the region and
+frighten them away, creating an atmosphere of
+hostility between the Native Americans and
+the telegraph companies. After the Sand Creek
+Massacre in 1864, the Native Americans realized
+that the telegraph could be used to summon
+troops, and they began a campaign to
+tear down the wires in what is now western
+Nebraska, eastern Colorado, and southern
+Wyoming. This continued until 1869, when
+the lines were moved to the trackside of the
+newly completed Union Pacific Railroad. As
+in the United States, the completion of a
+cross-country telegraph system in western
+Canada preceded the building of the transcontinental
+railway. The Canadian Pacific
+Railway Telegraph was operational clear to the
+Pacific Coast ten years before the completion
+of the transcontinental Canadian Pacific Railway
+in 1885.</p>
+
+<p>Tributary lines soon connected major
+towns and cities to the main line. A mutually
+beneficial relationship grew up between the
+telegraph companies and the railroads. Western
+Union telegraph operators were stationed
+in each railroad depot and used the telegraph
+to signal train movements from one station to
+the next. When operators were not busy with
+train orders, they sent personal messages,
+received commodity reports, and arranged
+shipments for local farmers and merchants.
+Although the stereotypical telegraph operator
+in western lore is a male, women also worked
+as telegraphers. The percentage of women
+telegraphers in the Plains states grew from approximately
+5 percent in 1870 to 10 percent in
+1900.</p>
+
+<p>During the 1870s and 1880s populists and
+members of the Grange movement accused
+the railroad and telegraph companies of manipulating
+commodity prices and shipping
+rates. The Interstate Commerce Commission,
+established in 1887 to regulate railroad shipping
+rates, was chartered to regulate the telegraph
+industry as well in 1910. The use of the
+telegraph began to decline after 1900 as it was
+replaced by the telephone for personal messages
+and by centralized traffic-control systems
+for railroad use. The depot telegrapher
+lived on in movies like <title>Western Union</title> (1939)
+and <title>Kansas Pacific</title> (1953) as a nostalgic symbol
+of a bygone era.</p>
+
+<p>The problems of settling and governing the
+Great Plains were those of time and space; the
+telegraph solved these problems elegantly by
+compressing the time required to communicate
+between widely separated cities, towns,
+and forts from days to mere seconds. For
+newspaper editors the telegraph meant the
+swift arrival of news from the East. For farmers
+the telegraph provided a means to arrange
+the shipment of crops and cattle. And for all
+ordinary men and women the telegraph enabled
+personal communications with distant
+friends and family.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.028">Railroads, United States</ref>; <ref n="egp.tra.029">Railways, Canada</ref>.</p>
+
+<closer>
+<signed>Thomas C. Jepsen<lb/>
+National Coalition of Independent Scholars</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Burnet, Robert. <title level="m">Canadian Railway Telegraph History</title>. Etobicoke,
+Ontario: Telegraph Key and Sounder, 1997.</bibl> <bibl>Gabler,
+Edwin. <title level="m">The American Telegrapher: A Social History, 1860– 1900</title>. New Brunswick <hi rend="smallcaps">NJ</hi>: Rutgers University Press, 1988.</bibl>
+<bibl>Jepsen, Thomas. "The Telegraph Comes to Colorado: A
+New Technology and Its Consequences." <title level="j">Essays and Monographs in Colorado History</title> 7 (1987): 1–25.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

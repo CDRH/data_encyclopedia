@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dust Bowl Photographers</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Dust Bowl Photographers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">115</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUST BOWL PHOTOGRAPHERS</head>
+
+<p>On the Southern and Central Great Plains,
+the Great Depression of the 1930s was compounded
+by the Dust Bowl, a combination
+that put great stress on the people of the region
+as well as the federal government, which
+sought to alleviate their suffering. Working
+under Roy Stryker, primarily under the Farm
+Security Administration (<hi rend="smallcaps">FSA</hi>), a small group
+of talented photographers, including Walker
+Evans, Dorothea Lange, Marion Post Wolcott,
+John Vachon, Russell Lee, and Arthur Rothstein,
+documented the human, natural, and
+economic devastation of the region in photographs
+printed in federal publications as well
+as in a wide variety of newspapers and magazines.
+Stryker explicitly directed his photographers
+to document the tragedy and also
+show the need for and effectiveness of expensive,
+agriculturally oriented government relief
+programs.</p>
+
+<p>The most important Dust Bowl photographer,
+both in terms of technical ability and
+time spent in the region, was Arthur Rothstein.
+Rothstein joined the project in 1935, immediately
+following his graduation from Columbia
+University. He traveled the Plains from
+1936 to 1940. Rothstein's early role and technical
+abilities gave him considerable influence
+on the artistic direction of the federal program.
+He was deeply influenced by the 1936
+documentary <title>The Plow That Broke the Plains</title>
+and adopted its visual perspective and persuasive
+intent. His works were gritty, taking
+advantage of the ability of black-and-white
+film to capture the contrast between light and
+dark. His realistic style, seemingly documentary,
+was chosen to enhance the believability
+of his work.</p>
+
+<p>Under Stryker and Rothstein, government
+photographers stressed images of poverty and
+destruction from 1935 to 1937. Russell Lee
+worked in Texas and Oklahoma, although he
+concentrated on the Northern Great Plains.
+His 1939 series, <title>Part of Mays Avenue Camp, Oklahoma City, Oklahoma</title>, reveals that even
+late in the Depression poverty continued to
+plague the region.</p>
+
+<p>The work of government photographers
+was sometimes controversial, which is hardly
+surprising, given the persuasive intent of the
+assignment. Arthur Rothstein's work proved
+to be the most controversial. Rothstein was
+involved in a political controversy during the
+1936 presidential election when the conservative
+<title level="j">Fargo Forum</title> criticized him (and, by extension,
+the Roosevelt administration) for his
+repeated use of a cow skull to dramatize the
+bleakness of the Plains. The story spread.
+Many newspapers later retracted the story, following
+Stryker's justification of the skull's artistic
+use, but the reputation of the government
+photographers suffered. Rothstein's
+most famous image, Farmer and Sons Walking
+in the <title>Face of a Dust Storm, Cimarron County, Oklahoma</title> (1936), showing a farmer and his
+two young sons leaning into the wind as dust
+swallows their outbuildings, has also proven
+controversial. Other images taken on the same
+day but with clear skies and an apparent absence
+of dust belie Rothstein's claim that he
+took the photograph without staging.</p>
+
+<p>While most of the Dust Bowl photographers
+worked for the federal government, others
+worked for private publications. Dorothea
+Lange worked sporadically for the federal government,
+but only a small portion of her work
+covers the region. Among these, produced independently
+of federal efforts, was <title>An American Exodus</title> (1939), which includes bleak scenes
+of life in the Southern Plains that explain why
+people would travel great distances to California
+to live in camps and work in such miserable
+conditions. Margaret Bourke-White, also
+considered to be a major Dust Bowl photographer,
+worked for <title level="j">Fortune</title>, which commissioned
+her to photograph the Deep South. Her
+most famous photographs, included in <title level="m">You Have Seen Their Faces</title> (1937), were taken in the
+American South but have often been perceived
+as being set in the Dust Bowl.</p>
+
+<p>Just as the Dust Bowl passed, so too did the
+need to justify government programs or document
+rural suffering in the region. After 1937
+emphasis shifted to the more positive effects
+of government relief efforts, with fewer scenes
+of economic and environmental distress.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.037">Farm Security Administration</ref> / <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.055"><hi rend="italic">The Plow That Broke the Plains</hi></ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.022">Dust Bowl</ref>.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Curtis, James. <title level="m">Mind's Eye, Mind's Truth: <hi rend="smallcaps">FSA</hi> Photography
+Reconsidered</title>. Philadelphia: Temple University Press, 1989.</bibl>
+<bibl>Fleischhauer, Carl, and Beverly W. Brannon, eds. <title level="m">Documenting America, 1935–1943</title>. Berkeley: University of California
+Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

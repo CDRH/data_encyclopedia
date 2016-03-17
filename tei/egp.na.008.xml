@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Assimilation Policy</title>
+<title level="m" type="sub"></title>
+<author>William T. Hagan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hagan, William T.">William T. Hagan</author>. <title level="a">"Assimilation Policy."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">565</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ASSIMILATION POLICY</head>
+
+<p>Both the United States and Canada developed
+assimilation policies for their Native peoples.
+Americans and Canadians both believed that
+the only way to save the Indians from extinction,
+and to make room for settlers, was to
+locate Indians on reservations and convert
+them into Christian, self-sufficient farmers,
+complete with a European American sense of
+individualism and private property ownership.
+The paradox should be evident: spatial
+segregation was supposed to lead to cultural
+integration.</p>
+
+<p>
+
+Although assimilation policies were evident
+in early federal Indian policy and in treaties
+with Plains Indians in the 1830s, the intensity
+of the program deepened in the reservation
+era after the Civil War. The United States applied
+the policy to the Southern Plains tribes
+at the 1867 Treaty of Medicine Lodge Creek
+and to the northern tribes at the 1868 Treaty of
+Fort Laramie. Tribal leaders were coerced into
+agreeing to cede to the United States all but a
+fraction of their land and to locate on reservations.
+The treaties also committed the Indians
+to send their children to government schools
+and provided for the possibility of private
+property in land. As compensation for the
+land ceded, Indians were to receive annual
+payments in cash and goods, as well as the
+services of physicians, instructors in agriculture,
+and other government aid. Similar
+terms, with only details varying, were negotiated
+with Plains Indians throughout the region
+from the 1850s through the 1870s.</p>
+
+<p>It was assumed that within decades the Indians
+would become assimilated. The outcome
+was far different. There was almost a
+decade of bloody fighting before all of the
+western Plains Indians were even located on
+reservations, and they remained there only
+because the bison had been nearly exterminated
+by the late 1870s and early 1880s. Confined
+to reservations, frequently hungry, and
+oppressed by o.cials pressuring them to send
+their children to school and abandon cherished
+religious and social customs, Native
+Americans led a miserable existence. Indian
+men showed little interest in farming land that
+would daunt a seasoned white farmer.</p>
+
+<p>Real assimilation had not taken place by the
+end of the reservation period. The Indian Office
+then tried to legislate assimilation when it
+introduced the allotment policy through the
+General Allotment Act of 1887. Each Indian
+was to be given a plot of land, generally 160
+acres, on which to begin farming. Any remaining
+reservation land was sold off as "surplus
+lands." Congress was increasingly reluctant to
+fund Indian programs, having been told for
+decades that assimilation was imminent. In an
+effort to make Indians more employable, the
+government restructured education programs
+to prepare the youth for entry-level jobs&#8211;the
+girls as domestic servants and the boys as farmand
+ranch hands and common laborers. The
+contexts for this assimilative education were
+day and boarding schools on reservations as
+well as off-reservation boarding schools, such
+as those at Genoa, Nebraska, and Haskell,
+Kansas.</p>
+
+<p>By the 1920s the failure of assimilation policies
+was apparent. The United States had destroyed
+one way of life, and the Indians were
+struggling to salvage some of their cultures
+and to survive. The abrogation of the allotment
+policy in 1934 was recognition that it,
+and assimilation, had failed.</p>
+
+<p>In Canada developments were similar in
+many respects. From 1871 to 1885, in a series of
+seven treaties, the Canadian government acquired
+Indian lands in the Prairie Provinces
+and settled the Indians on reserves, where they
+were put under pressure to assimilate. As was
+the case in the United States, the Bible and the
+plow were the principal instruments for assimilation.
+Reserves were often smaller than
+their equivalents in the United States, and religious
+groups were more prominent in Indian
+education. But again, as in the United
+States, the rhetoric of the government's assimilation
+policy was not matched by a genuine
+commitment in investment: farming instructors
+were often inept, promised agricultural
+equipment did not arrive, and Indian selfsu.
+ciency remained a pipe dream.</p>
+
+<p>Consequently, by the 1920s assimilation also
+seemed to have failed in Canada. Nevertheless,
+in both countries education and intermarriage
+were having an effect. Some Indians were
+merging with the general population, and increasingly,
+the products of the much-maligned
+schools were playing more important roles on
+reservations and reserves. However, the Indians"
+tenacity in preserving their cultures
+would be rewarded in the 1970s and 1980s
+when, in both countries, assimilation gave way
+to the new policy of self-determination.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.019">Indian Boarding Schools, United States</ref>; <ref n="egp.edu.020">Indian Residential Schools, Canada</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.015">Dawes Act</ref>.</p>
+
+<closer>
+<signed>William T. Hagan<lb/>
+Norman, Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dickason, Olive Patricia. <title level="m">Canada's First Nations</title>. Norman:
+University of Oklahoma Press, 1992.</bibl> <bibl>Hoxie, Frederick E. <title level="m">A Final Promise</title>. Lincoln: University of Nebraska Press, 1984.</bibl>
+<bibl>Prucha, Francis Paul. <title level="m">The Great Father</title>. Lincoln: University
+of Nebraska Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

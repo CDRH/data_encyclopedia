@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ct.000 SYSTEM "egp.ct.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cities and Towns</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+    
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>   
+
+<div1 type="contents">
+
+<head>Cities and Towns</head>
+
+<figure n="egp.ct.000" rend="granted">
+<figDesc>Main Street, Topeka, Kansas, ca. 1870</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.ct.001">Cities and Towns</ref></item>
+<item><ref n="egp.ct.002">Abilene, Texas</ref></item>
+<item><ref n="egp.afam.006">All-Black Towns</ref></item>
+<item><ref n="egp.ct.004">Amarillo, Texas</ref></item>
+<item><ref n="egp.ct.005">Billings, Montana</ref></item>
+<item><ref n="egp.ct.006">Bismark, North Dakota</ref></item>
+<item><ref n="egp.ct.007">Brandon, Manitoba</ref></item>
+<item><ref n="egp.ct.008">Calgary, Alberta</ref></item>
+<item><ref n="egp.asam.006">Calgary Chinatown <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.ct.010">Casper, Wyoming</ref></item>
+<item><ref n="egp.ct.011">Cattle Towns</ref></item>
+<item><ref n="egp.ct.012">Cheyenne, Wyoming</ref></item>
+<item><ref n="egp.ct.013">College Towns</ref></item>
+<item><ref n="egp.ct.014">Colorado Springs, Colorado</ref></item>
+<item><ref n="egp.ct.015">County Seats</ref></item>
+<item><ref n="egp.asam.008">Deadwood Chinatown <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.ii.018">Deadwood, South Dakota <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.ct.018">Denver, Colorado</ref></item>
+<item><ref n="egp.asam.010">Denver Chinatown<hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.ii.019">Dodge City, Kansas <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.ct.021">Edmonton, Alberta</ref></item>
+<item><ref n="egp.ct.022">Fargo, North Dakota</ref></item>
+<item><ref n="egp.ct.023">Fort Worth, Texas</ref></item>
+<item><ref n="egp.ct.024">Ghost Towns</ref></item>
+<item><ref n="egp.ct.025">Grand Forks, North Dakota</ref></item>
+<item><ref n="egp.ct.026">Great Falls, Montana</ref></item>
+<item><ref n="egp.ct.027">"Hell on Wheels" Towns</ref></item>
+<item><ref n="egp.ct.028">Kansas City, Kansas and Missouri</ref></item>
+<item><ref n="egp.ct.029">Lawton, Oklahoma</ref></item>
+<item><ref n="egp.ct.030">Lincoln, Nebraska</ref></item>
+<item><ref n="egp.ct.031">Lubbock, Texas</ref></item>
+<item><ref n="egp.ct.032">Main Street</ref></item>
+<item><ref n="egp.ct.033">Midland, Texas</ref></item>
+<item><ref n="egp.ct.034">Odessa, Texas</ref></item>
+<item><ref n="egp.ct.035">Oil Boomtowns</ref></item>
+<item><ref n="egp.ct.036">Oklahoma City, Oklahoma</ref></item>
+<item><ref n="egp.ct.037">Omaha, Nebraska</ref></item>
+<item><ref n="egp.ct.038">Pierre, South Dakota</ref></item>
+<item><ref n="egp.ct.039">Pueblo, Colorado</ref></item>
+<item><ref n="egp.ct.040">Rapid City, South Dakota</ref></item>
+<item><ref n="egp.ct.041">Regina, Saskatchewan</ref></item>
+<item><ref n="egp.ct.042">Reservation Towns</ref></item>
+<item><ref n="egp.ct.043">River Towns</ref></item>
+<item><ref n="egp.ct.044">Roswell, New Mexico</ref></item>
+<item><ref n="egp.ct.045">Rural-Urban Population Change</ref></item>
+<item><ref n="egp.ct.046">San Angelo, Texas</ref></item>
+<item><ref n="egp.ct.047">Saskatoon, Saskatchewan</ref></item>
+<item><ref n="egp.ct.048">Sioux Falls, South Dakota</ref></item>
+<item><ref n="egp.ct.049">Small Towns</ref></item>
+<item><ref n="egp.ct.050">T-Towns</ref></item>
+<item><ref n="egp.ct.051">Topeka, Kansas</ref></item>
+<item><ref n="egp.ct.052">Tulsa, Oklahoma</ref></item>
+<item><ref n="egp.na.122">Urban Communities</ref></item>
+<item><ref n="egp.ct.054">Urban Indian Reserves</ref></item>
+<item><ref n="egp.ct.055">Wichita, Kansas</ref></item>
+<item><ref n="egp.ct.056">Wichita Falls, Texas</ref></item>
+<item><ref n="egp.ct.057">Winnipeg, Manitoba</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

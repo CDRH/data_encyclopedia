@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Repatriation to Mexico</title>
+<title level="m" type="sub"></title>
+<author>Philip Martin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Martin, Philip">Philip Martin</author>. <title level="a">"Repatriation to Mexico."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">366</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">REPATRIATION TO MEXICO</head>
+
+<p>Twice in the twentieth century the United
+States recruited Mexican workers for seasonal
+employment on American farms, and twice
+large numbers of Mexicans were repatriated.
+The first government-approved recruitment
+of Mexican workers occurred on May 23, 1917,
+when the Department of Labor permitted
+Mexicans to enter the United States to work
+for farmers for up to one year. Many Mexicans
+had previously left the United States in the
+spring of 1917, in part because of rumors that
+they would be drafted into the army. To replace
+them, as well as to replace American residents
+who were drafted, Mexicans were legally
+admitted.</p>
+
+<p>Mexicans were eager to emigrate. During
+the Mexican Revolution (1913–20), the seven
+west-central states of Mexico&#8211;Nuevo Le&#243;n,
+Tamaulipas, Zacatecas, San Luis Potos&#237;, Guanajuato,
+Jalisco, and Michoac&#225;n&#8211;were a battleground
+between the central government in
+Mexico City and revolutionaries from Mexican
+border states, and the fighting led most
+haciendas to reduce their employment. Between
+May 1917 and June 1920 some 51,000
+Mexicans entered the United States legally under
+these exemptions. Eighty percent were
+farmworkers, including sugar beet workers in
+the Great Plains; others worked on the railroads
+and in mines. Housing and meal arrangements
+under this program were left to
+the discretion of employers. As a result, some
+Mexican workers wound up owing money to
+farmers at the end of the season. Mexicans
+continued to migrate north after 1921, so that
+the number of Mexican-born U.S. residents
+rose rapidly in the 1920s. However, between
+1929 and 1933 an estimated 400,000 Mexicans
+were returned&#8211;voluntarily and forcibly&#8211;to
+Mexico, meaning that more Mexicans were repatriated
+during these four years than had immigrated
+in the 1920s.</p>
+
+<p>In 1942 farmers again won permission to
+recruit Mexican workers, and over the next
+twenty-two years, some 4.6 million Mexicans
+were admitted to the United States to do farmwork,
+under what was called the Bracero Program.
+At the insistence of Mexico, braceros
+were not allowed to be employed legally in
+Texas between 1942 and 1947 because of discrimination
+there against Mexicans. The Mexican
+government also prohibited its citizens
+from working in Wyoming after 1963. Both
+states eventually regained access to braceros.</p>
+
+<p>There was a major repatriation of Mexicans
+during the Bracero Program. In June 1954
+the Immigration and Naturalization Service
+launched "Operation Wetback" to ensure that
+Mexicans employed in the United States had
+work authorization. "Operation Wetback" began
+in California, moved to Texas, and then
+into the Midwest. In coordinated sweeps with
+state and local law enforcement authorities,
+some 1.1 million persons were returned to
+Mexico in 1954, including at least 20,000 from
+Chicago, St. Louis, and Kansas City; many
+Mexicans living in the Midwest left for Mexico
+before they were apprehended. Apprehended
+Mexicans were returned to Mexico via Presidio,
+Texas, because the Mexican city across
+the border, Ojinaga, had rail connections to
+the interior of Mexico.</p>
+
+<p>The Bracero Program and "Operation Wetback"
+are considered mistakes in U.S. immigration
+policy. The Bracero Program set
+Mexico-U.S. migration in motion, and "Operation
+Wetback" allowed the U.S. government
+to violate the rights of legal immigrants and
+American citizens in the name of regaining
+control of its borders.</p>
+
+<closer>
+<signed>Philip Martin<lb/>
+University of California-Davis</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Galarza, Ernesto. <title level="m">Merchants of Labor: The Mexican Bracero Story</title>. Charlotte <hi rend="smallcaps">NC</hi>: McNally and Loftin, 1964.</bibl> <bibl>Garcia,
+Juan Ramon. <title level="m">Operation Wetback: The Mass Deportation of Mexican Undocumented Workers in 1954</title>. Westport <hi rend="smallcaps">CT</hi>:
+Greenwood Press, 1980.</bibl> <bibl>Martin, Philip. <title level="m">Promises to Keep: Collective Bargaining in California Agriculture</title>. Ames: Iowa
+State University Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

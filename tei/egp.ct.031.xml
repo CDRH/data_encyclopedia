@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lubbock, Texas</title>
+<title level="m" type="sub"></title>
+<author>Paul H. Carlson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Carlson, Paul H.">Paul H. Carlson</author>. <title level="a">"Lincoln, Nebraska."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">172-173</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LUBBOCK, TEXAS</head>
+
+<p>Lubbock, Texas, a city of 193,000 inhabitants
+in the heart of the Llano Estacado of West
+Texas, traces its roots to a country store that
+George Singer established in 1882 along the
+upper Brazos River. The tiny store attracted
+area cowboys and a few overland travelers but
+little else.</p>
+
+<p>Eight years later, however, and a few miles
+away, two groups of promoters established
+separate towns, Lubbock and Monterey. A
+compromise was needed, for everyone understood
+that both communities, fewer than
+three miles apart but divided by a shallow canyon
+of the Brazos, could not survive. In December
+1890, having reached an accommodation,
+the promoters, led by W. E. Rayner,
+Frank Wheelock, and Rollie Burns, agreed to a
+third site, and a new town, also called Lubbock,
+appeared south of the canyon where
+they thought a railroad might pass through
+the area.</p>
+
+<p>Eight years later, however, and a few miles
+away, two groups of promoters established
+separate towns, Lubbock and Monterey. A
+compromise was needed, for everyone understood
+that both communities, fewer than
+three miles apart but divided by a shallow canyon
+of the Brazos, could not survive. In December
+1890, having reached an accommodation,
+the promoters, led by W. E. Rayner,
+Frank Wheelock, and Rollie Burns, agreed to a
+third site, and a new town, also called Lubbock,
+appeared south of the canyon where
+they thought a railroad might pass through
+the area. new town attracted businessmen, farmers,
+and ranchers. Early in 1891 more than 100 people
+lived in the town, and in the spring it
+won election as the political seat of Lubbock
+County. Before winter Lubbock contained
+several stores, churches, a newspaper, and a
+school.</p>
+
+<p>Drought and depression slowed Lubbock's
+growth, however, and its population in 1900
+was fewer than 300 inhabitants. The Santa Fe
+Railroad arrived, finally, in 1909, and Lubbock
+immediately entered a boom period. As crop
+farming increased, farmer-settlers replaced
+ranchers in the area, and additional railroads
+reduced the city's isolation. In response, Lubbock's
+population more than doubled between
+1910 and 1920, and the city soon became
+known as the "Hub City of the Plains."</p>
+
+<p>In the 1920s Lubbock enjoyed a second
+boom. Texas Technological College, which became
+Texas Tech University in 1969, was the
+major cause. Established in 1923, the college
+grew remarkably in students, faculty, and facilities,
+continuing its expansion through the
+1930s and afterward. Owing in part to the university,
+Lubbock today enjoys a large symphony
+orchestra, two ballet companies, several
+theater groups, and many libraries and
+museums.</p>
+
+<p>In 1940 the city's population reached 32,000,
+including about 1,600 Latinos and 1,000 African
+Americans. During World War II Lubbock
+expanded again as the city became an important
+military center. The region's mild weather
+and sunny skies made it ideal for Reese Air
+Force Base, an air training station. Before it
+closed in 1997, the air base, with its personnel
+and large civilian workforce, greatly enhanced
+the city's economy and contributed to its cultural
+and social evolution.</p>
+
+<p>After World War II Lubbock developed into
+a major agribusiness center. In the 1950s the
+city produced pumps, tubular goods, sprinklers,
+farm equipment, fertilizers, and pesticides.
+With its large processing plants, it became
+a national marketing center for cotton.
+Continued population expansion in the 1960s
+encouraged the founding of a second college,
+Lubbock Christian University. In 1970 the
+city's population stood at 150,000 people, with
+more than 31,000 Latinos and nearly 11,000
+African Americans.</p>
+
+<p>A tornado in 1970 leveled a residential
+area just north of downtown Lubbock, killing
+twenty-six people and injuring many others.
+The tornado destroyed 1,046 homes, damaged
+8,000 others, and left 1,800 people homeless. It
+also damaged some 600 businesses. Lubbock
+citizens rebuilt the area with a large civiccenter
+complex and memorial. The rebuilding
+process plus the construction in the 1970s of
+Texas Tech University's Health Sciences Center,
+a large teaching hospital, and the expansion
+of the city's other hospitals made the city
+a major medical center. By the 1980s Lubbock
+was home to 292 industrial concerns, and it
+served a wholesale and retail area covering
+much of West Texas and eastern New Mexico.
+It became the world's leading center of cottonseed
+production.</p>
+
+<p>Lubbock's cultural roots reach back to
+agrarian southern traditions. Its citizens are
+conservative in politics and informal in dress
+and lifestyle, but Lubbock's society is entirely
+modern. Its largest minority groups, Latinos
+and African Americans, influence the political
+and cultural life of the city, and their social
+and economic successes have helped to move
+Lubbock into the modern era and into a dominant
+position on the southern High Plains.</p>
+
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.017">Cotton Industry</ref>.</p>
+
+<closer>
+<signed>Paul H. Carlson<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Abbe, Don, Paul H. Carlson, and David J. Murrah. <title level="m">Lubbock and the South Plains: An Illustrated History</title>. Tarzana
+<hi rend="smallcaps">CA</hi>: Preferred Marketing, 1995.</bibl> <bibl>Graves, Lawrence, ed. <title level="m">A History of Lubbock</title>. Lubbock: West Texas Museum Association,
+1959.</bibl> <bibl>Graves, Lawrence, ed. <title level="m">Lubbock from Town to City</title>. Lubbock: West Texas Museum Association, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

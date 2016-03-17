@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">U.S. Army Corps of Engineers</title>
+<title level="m" type="sub"></title>
+<author>Rollin H. Hotchkiss</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hotchkiss, Rollin H.">Rollin H. Hotchkiss</author>. <title level="a">"U.S. Army Corps of Engineers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">864</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">U.S. ARMY CORPS OF ENGINEERS</head>
+
+<p>The U.S. Army Corps of Engineers (<hi rend="smallcaps">COE</hi>)
+dates back to 1779, when Congress formed the
+unit for military support purposes. Public
+works projects, employing citizens outside the
+military to work for the <hi rend="smallcaps">COE</hi>, began in 1824
+with work to improve navigation on the Ohio
+and Mississippi Rivers. The initial and continuing
+focus of the Army Corps of Engineers
+in the Great Plains is the Missouri River.</p>
+
+<p>The Corps's presence on the Plains began in
+1867 when Capt. Charles W. Howell spent
+three months on a survey of the Missouri
+River from Sioux City, Iowa, to Fort Benton,
+Montana. His purpose was to map major
+sandbars and snags for those using the Missouri
+for military purposes or for transportation
+to the Montana goldfields.</p>
+
+<p>Since that first expedition, the objectives of
+the <hi rend="smallcaps">COE</hi> on the Missouri have been to control
+bank erosion, improve navigation, and provide
+flood control. All three goals were placed
+within reach in the 1950s with the completion
+of six dams on the river from Montana to
+South Dakota. Financed mostly by the Pick-Sloan
+Plan, the dams reduced floods sufficiently
+to allow the <hi rend="smallcaps">COE</hi> to complete their
+work on bank stabilization and to create a
+nine-foot-deep navigation channel from the
+mouth of the Missouri at St. Louis to Sioux
+City. The coe has also constructed smaller
+dams on Salt and Papillion Creeks in southeastern
+Nebraska and constructed levees along
+hundreds of miles of Missouri River tributaries,
+including the Big Sioux and Floyd Rivers
+of Iowa.</p>
+
+<p>The very nature of the Missouri River has
+been changed by coe intervention. What was
+once a shallow, swift-flowing river that ranged
+in width and was capable of moving tremendous
+loads of silt and sand has been transformed
+into a relatively narrow, uniform, lowsediment
+transportation route. Views of the
+river near Plattsmouth, Nebraska, taken from
+1934 to 1983, show the dramatic transformations
+that have taken place. The strategic
+placement of wooden and rock dikes has encouraged
+sediment deposition near the stream
+banks, leaving flow to be concentrated in the
+nine-foot-deep navigational channel, which is
+self-scouring and normally does not require
+dredging.</p>
+
+<p>The changing nature of society in the Great
+Plains is reflected in the current debate over
+the prioritized operation of Missouri River
+dams. For example, flood protection and navigation
+have been important priorities when
+deciding on water releases from the dams.
+However, because of increased recreational
+benefits at the reservoirs and the occurrence
+of several endangered species throughout the
+river system, there have been calls for expanded
+priorities. The revision of the <hi rend="smallcaps">COE</hi>'s
+Master Manual for the operation of the main
+stem dams is a subject of ongoing work and
+controversy.</p>
+
+<p>The <hi rend="smallcaps">COE</hi> is organized into eight divisions
+spanning the United States. The Great Plains
+is contained within the recently formed Missouri
+River Region of the Northwest Division,
+comprising the Missouri and Columbia River
+basins. The Missouri River Region is composed
+of the Kansas City and Omaha Districts.</p>
+
+<p><ref target="http://www.usace.army.mil/">U.S. Army Corps of Engineers</ref> website.</p>
+
+<closer>
+<signed>Rollin H. Hotchkiss<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brey, Debra, Connie Carman, and Kettie Parks, eds. <title level="m">The
+Federal Engineer: Damsites to Missile Sites. A History of the
+Omaha District of the U.S. Army Corps of Engineers</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1984.</bibl> <bibl><title level="m">Essayons
+(Let Us Try): The History of the U.S. Army Corps of Engineers</title>.
+Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

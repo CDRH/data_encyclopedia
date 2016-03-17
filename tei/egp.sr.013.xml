@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cunningham, Glenn (1909-1988)</title>
+<title level="m" type="sub"></title>
+<author>Adam R. Hornbuckle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hornbuckle, Adam R.">Adam R. Hornbuckle</author>. <title level="a">"Cunningham, Glenn (1909-1988)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">770</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CUNNINGHAM, GLENN (1909-1988)</head>
+
+<p>Glenn Cunningham was born on August 4,
+1909, in Atlanta, Kansas. He overcame a near-crippling
+childhood accident to become one
+of the world's leading track and field athletes
+during the 1930s. An Elkhart, Kansas, schoolhouse
+fire left him at age seven unable to walk
+for nearly six weeks. After regaining his ambulatory
+ability, Cunningham began running
+to strengthen his badly scarred legs. In 1930 he
+was the nation's premier high school mile
+runner, winning state and national titles, establishing
+a national high school mile record
+of 4:24.7, and earning a scholarship to the
+University of Kansas.</p>
+
+<p>In 1932 Cunningham won the first of three
+consecutive indoor and outdoor Big 6 (now
+Big 12) Conference mile championships and
+the National Collegiate Athletic Association
+(<hi rend="smallcaps">NCAA</hi>) 1500-meter title. He finished fourth in
+the 1500 meters in the Olympic Games in Los
+Angeles, California. As the 1933 champion
+in the ncaa mile and the Amateur Athletic
+Union (<hi rend="smallcaps">AAU</hi>) 800 and 1500 meters, he received
+the Sullivan Award as the nation's top amateur
+athlete. In 1934 Cunningham established an
+outdoor world record of 4:06.7 for the mile
+and won the aau indoor 1500-meter title. He
+won the aau indoor 1500-meter title again in
+1935, 1938, and 1939. In 1935 Cunningham established
+an indoor world record of 3:50.5 for
+1500 meters and secured the first of four consecutive
+<hi rend="smallcaps">AAU</hi> titles in the 1500 meters outdoors.
+In addition to winning the silver medal
+in the 1936 Olympic Games in Berlin, he established
+an outdoor world record of 1:49.7
+for the 800 meters.</p>
+
+<p>Educated at the University of Kansas (bachelor
+of arts, 1934), the University of Iowa (master
+of arts, 1936), and New York University (doctorate,
+1938), Cunningham later served as the director
+of physical education at Cornell College in
+Mount Vernon, Iowa. After a stint in the navy
+during World War II, he married Ruth Sheffield
+in 1947 and established the Glenn Cunningham
+Youth Ranch for orphans, juvenile delinquents,
+and underprivileged youths near Burns, Kansas,
+and later Augusta, Kansas. Cunningham financed
+the ranch entirely through his income as
+an inspirational speaker. He died on March 10,
+1988, of a heart attack less than two weeks after
+participating in a relay race of former champions
+at the 100th anniversary of the <hi rend="smallcaps">AAU</hi> indoor
+track and field championships.</p>
+
+<closer>
+<signed>Adam R. Hornbuckle<lb/>
+Alexandria, Virginia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cunningham, Glenn, with George X. Sand. <title level="m">But Never
+Quit</title>. Lincoln <hi rend="smallcaps">VA</hi>: Chosen Books, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

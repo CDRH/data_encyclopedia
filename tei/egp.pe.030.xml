@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Grasses</title>
+<title level="m" type="sub"></title>
+<author>Mary Ann Vinton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vinton, Mary Ann">Mary Ann Vinton</author>. <title level="a">"Grasses."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">631-632</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRASSES</head>
+
+<p>Grasses are truly the defining feature of the
+Great Plains landscape. They are key elements
+in both the aesthetic appeal and the economic
+value of the Plains. The various shapes, textures,
+colors, and movements of grasses in a
+wide sweep of Plains landscape has inspired
+many artists, naturalists, and casual observers.
+It is the very existence of grass&#8211;providing forage
+for livestock and fostering nutritious soils
+for farming&#8211;that has made the Great Plains
+a hospitable place for human settlement and
+agriculture.</p>
+
+<p>Grasses are the third largest plant family,
+and grass species are more broadly represented
+around the world than the species of any other
+family. Grasses include the plants referred to as
+"grains," which form the major food group for
+humans as well as many animals. Many cultivated
+crops&#8211;corn, wheat, sorghum, millet,
+barley, oats, rice&#8211;are grasses that have been
+domesticated from their wild relatives. Large
+portions of the Great Plains, particularly the
+wetter region east of the ninety-eighth meridian,
+have been converted from natural grasslands
+to fields that are planted with the cultivated
+grasses corn, wheat, and sorghum.</p>
+
+<p>Grasses are classified as "monocots," which
+means that their tissue does not form wood
+and their stems do not increase in girth as they
+grow. Monocots have root systems that tend to
+form a dense, fibrous mat. Such a rooting
+habit made it possible for early Plains settlers
+to cut out blocks of soil, held together by the
+dense mat of roots, to form sod houses. Another
+diagnostic feature of grasses is the fact
+that their flowers are quite unlike those of
+other plant groups. The flowers are so small
+and inconspicuous that many people have the
+impression that grasses do not form flowers at
+all. They do in fact form flowers, but these
+tend to lack petals and sepals; most grasses are
+wind-pollinated, so the need to attract pollinators
+with bright and showy blossoms is
+minimal. Grass flowers are arranged in tightly
+packed vertical clusters called spikes, or more
+branched and spreading clusters called panicles.
+Although they do not have colorful petals,
+the most obvious flower part is often the
+bright yellow, pollen-filled anthers protruding
+from the flower.</p>
+
+<p>In the Great Plains grasses comprise most
+of the biomass in the plant canopy; they form
+a matrix in which other herbaceous plants
+and shrubs are interspersed. While some
+grasses have an annual growth form, most of
+the native and abundant species are perennial.
+The Great Plains region can be subdivided
+into smaller subregions based on the type of
+perennial grasses growing in each area. The
+westernmost portion, adjacent to the Rocky
+Mountains, consists of shortgrass prairie. This
+region is one of the driest regions of the Plains
+because of the rain shadow effect of the Rocky
+Mountains. Short-statured, drought-tolerant
+grasses such as <hi rend="italic">Bouteloua gracilis</hi> (blue grama)
+and <hi rend="italic">Buchlo&#235; dactyloides</hi> (buffalograss) are the
+dominant grasses. The easternmost portion is
+classified as tallgrass prairie. This region receives
+more moisture than the shortgrass region
+because of the weakening of the Rocky
+Mountain rain shadow and the increasing effect
+of moist air from the Gulf of Mexico. The
+dominant grasses in the tallgrass prairie are
+<hi rend="italic">Andropogon gerardii</hi> (big bluestem), <hi rend="italic">Panicum
+virgatum</hi> (switchgrass), and <hi rend="italic">Sorghastrum nutans</hi>
+(Indiangrass). Between the short- and
+tallgrass prairies is a type of grassland referred
+to as mixed-grass prairie. This is a transitional
+zone and includes the short- and tallgrass species
+as well as increased dominance of the species <hi rend="italic">Schizachyrium scoparius</hi> (little bluestem)
+and <hi rend="italic">Agropyron smithii</hi> (western wheatgrass).
+The mixed-grass prairie can be further subdivided
+into a northern and southern type.
+The northern mixed-grass prairie includes
+greater abundance of the cool season grasses,
+<hi rend="italic">A. smithii</hi> and species of <hi rend="italic">Stipa</hi> (needlegrass)
+while the southern mixed-grass prairie is
+dominated by the warm season grasses, <hi rend="italic">S.
+scoparius</hi> and <hi rend="italic">Bouteloua curtipendula</hi> (sideoats
+grama). Both the northern mixed- and
+tallgrass prairies extend from the United
+States northward into Canada and form the
+majority of what is termed the "Canadian
+Prairie Province." This area of grassland also
+includes the fescue prairie, dominated by <hi rend="italic">Festuca
+scabrella</hi> (rough fescue). Fescue prairie
+forms an arc around the northern and northwestern
+perimeter of the mixed-grass prairie,
+where grassland gives way to forest.</p>
+
+<p>One often underappreciated ecological role
+that grasses play is in the formation of the rich
+soils, called mollisols, that typically underlay
+grasslands. Why are these soils so rich in nutrients
+and organic matter? The answer lies in
+the growth patterns of the grasses themselves.
+The aboveground portion of grass dies back
+every year, and the dense, fibrous root system
+is constantly growing and dying back. All of
+this results in large inputs of organic matter
+into the soil. The breakdown of the organic
+matter supplies nutrients to plants. The presence
+of the organic matter also increases the
+nutrient&#8211;and water&#8211;holding capacity of the
+soil. The richness of the soil has resulted in the
+wetter portions of the Great Plains becoming
+the breadbasket of the world.</p>
+
+<p>A second important ecological role played
+by grasses is their persistence under drought,
+grazing, and fire, all forces that can kill other
+types of plants. Many grasses withstand these
+forces with little injury. A key reason is that
+grasses have their perennating organs (from
+which new growth arises) protected below the
+surface of the soil. Because of the protection of
+the perennating organ in the soil, grasses can
+grow back after their aboveground biomass
+has been removed by drought, grazing, or fire.
+In addition to the belowground perennating
+organs, the large amount of root biomass allows
+grasses to store resources needed to replace
+aboveground tissue lost to fire or grazers.
+The amount of root biomass in grasslands
+is often greater than the amount of aboveground
+biomass; in fact, grasslands could be
+called upside-down forests. Grass roots provide
+habitat and food for a whole suite of animals,
+bacteria, and fungi, just as a forest canopy
+supports an array of life.</p>
+
+<p>The belowground community (as well as
+the aboveground canopy) is radically altered
+by plowing and the conversion of natural
+grasslands to agricultural fields in the Great
+Plains. This conversion has already claimed
+more than 90 percent of the tallgrass prairie
+region, and other grassland types, especially
+those in areas with reliable sources of water,
+have also disappeared. Grasses are valuable in
+both an aesthetic sense and for the critical
+ecological roles that they play in ecosystems.
+More and more conservation efforts are under
+way to preserve what remains of the natural
+grasslands in the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.043">Sod-Wall Construction</ref>.</p>
+
+<closer>
+<signed>Mary Ann Vinton<lb/>
+Creighton University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Lauren. <title level="m">Grasslands</title>. New York: Alfred A. Knopf,
+Inc., 1997.</bibl> <bibl>Coupland, R. T., ed. <title level="m">Ecosystems of the World 8A:
+Natural Grasslands: Introduction and Western Hemisphere</title>.
+Amsterdam: Elsevier Science Publishers, 1992.</bibl> <bibl>Estes, J. R.,
+R. J. Tyrl, and J. N. Brunken, eds. <title level="m">Grasses and Grasslands:
+Systematics and Ecology</title>. Norman: University of Oklahoma
+Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

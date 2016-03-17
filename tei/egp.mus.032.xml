@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mitchell, Joni (b. 1943)</title>
+<title level="m" type="sub"></title>
+<author>Wesley Berg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berg, Wesley">Wesley Berg</author>. <title level="a">"Mitchell, Joni (b. 1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">543</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MITCHELL, JONI (b. 1943)</head>
+<figure n="egp.mus.032" rend="granted">
+<figDesc>Joni Mitchell with guitar</figDesc>
+</figure>     
+
+<p>Singer, songwriter, guitarist, and pianist Joni
+Mitchell was born Roberta Joan Anderson on
+November 7, 1943, in Fort Macleod, Alberta.
+She grew up in Saskatoon, Saskatchewan.
+Mitchell studied art for a year in Calgary and
+then moved to Toronto, where, with her husband,
+Chad Mitchell, she began to write songs
+and sing in coffeehouses. She moved to Detroit
+in 1965 and to New York in 1966 and then
+settled in Los Angeles in 1968 with a second
+home near Vancouver.</p>
+
+<p>Mitchell made her reputation initially as a
+songwriter. Judy Collins recorded Mitchell's
+song "Both Sides Now" (1967), and other
+Mitchell songs have been recorded by Gordon
+Lightfoot, Bob Dylan, and Frank Sinatra.
+Seventeen albums over thirty years, with a
+Grammy for <title>Clouds</title> (1969), have moved from
+the folk styles of her coffeehouse origins
+through the jazz influences of the 1970s and
+the rock styles of the 1980s to a return to a
+simpler folk-based style in the 1990s. Mitchell
+has maintained a long, independent career,
+and the style of her lyrics and melodies has
+been influential. In 1979 she said of her music
+that it had a striding quality that was like long
+steps across the flat prairies, but she also acknowledged
+the increasingly urban influences
+of jazz and rock. Her lyrics since the early 1970s
+have been autobiographical, dealing with the
+pain of love, loneliness, and modern life. Although
+she has made her career in the United
+States, many of her songs reflect the point of
+view of the outsider, a Canadian who can
+never fully be a part of life in Los Angeles and
+yet can also never return to her small town
+Plains roots.</p>
+
+<closer>
+<signed>Wesley Berg<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fetherling, Douglas. <title level="m">Some Day Soon: Essays on Canadian Songwriters</title>. Kingston, Ontario: Quarry Press, 1991.</bibl> <bibl>Miller,
+Mark. "Joni Mitchell." In <title level="m">Encyclopedia of Music in Canada</title>,
+2nd ed., edited by Helmut Kallmann et al. Toronto:
+University of Toronto Press, 1992.</bibl> <bibl>Mitchell, Joni. <title level="m">The Complete Poems and Lyrics</title>. Toronto: Random House,
+1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

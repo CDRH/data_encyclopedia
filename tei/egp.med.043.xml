@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Star-Phoenix</hi> (Saskatoon)</title>
+<title level="m" type="sub"></title>
+<author>Jim McKenzie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.043</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McKenzie, Jim">Jim McKenzie</author>. <title level="a">"<hi rend="italic">Star-Phoenix</hi> (Saskatoon)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">521-522</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">STAR-PHOENIX</hi> (Saskatoon)</head>
+
+<p>The <title level="j">Star-Phoenix</title> is the only daily newspaper
+published in Saskatoon, Saskatchewan. With a
+circulation of about 65,000, it is the largest
+and best newspaper in the province. But in
+recent years, <title level="j">Star-Phoenix</title> news executives
+have struggled to maintain the high quality of
+coverage the paper has traditionally offered its
+readers.</p>
+
+<p>This fight to uphold newsroom standards
+has been particularly difficult since 1996, when
+the <title level="j">Star-Phoenix</title> was purchased by the Hollinger
+organization. Hollinger, controlled by
+press baron Conrad Black, is Canada's largest
+newspaper chain. The Siftons, who operated
+the paper for seventy years through four generations,
+always looked after their employees. It
+was a tradition stretching back to the Great
+Depression, when the <title level="j">Star-Phoenix</title> kept everyone
+on the job despite tough economic times.</p>
+
+<p>Hollinger promised that nothing would
+change and that it would maintain the paper's
+editorial quality. But once the sale was finalized,
+the profit-hungry Hollinger's first move
+was to fire one-quarter of the newspaper's
+staff, including twenty-four people in the editorial
+department. This mass firing, coupled
+with a similar move at the <title level="j">Leader-Post</title> in Regina,
+sent shock waves through newsrooms
+across the nation. That day, March 2, 1996,
+which has become known as "Black Saturday,"
+has gone down as one of the cruelest and
+darkest days in Canadian journalistic history.</p>
+
+<p>The <title level="j">S-P</title>, as it is popularly called, also came
+to national attention in 1978, when the Supreme
+Court of Canada upheld a lower-court
+judgment against the paper in a libel case. The
+<title level="j">S-P</title> had published a letter to the editor from
+two law students who accused a Saskatoon alderman
+named Morris Chernesky of displaying
+"racist resistance" for opposing the location
+of an alcoholic rehabilitation center for
+Indians in a white area. The Supreme Court
+awarded Chernesky $25,000 and ruled that the
+newspaper could not use the defense of "fair
+comment" because the opinions expressed in
+the letter were not those of the newspaper it
+self. This ruling prompted several provincial
+governments to change their libel laws to ensure
+that newspapers could publish letters
+from readers who held opinions not necessarily
+agreeing with those of the paper.</p>
+
+<p>The <title level="j">Star-Phoenix</title> has grown up with the
+city it serves. It began life as the <title level="j">Phenix</title> in
+1902. The paper, initially printed on a Washington
+handpress by Westley and Edward
+Norman, was renamed the <title level="j">Phoenix</title> in 1905. It
+became a daily a year later. A second paper,
+the <title level="j">Capital</title>, was started in 1906 and renamed
+the <title level="j">Star</title> six years later. <title level="j">The Star</title> and the <title level="j">Phoenix</title>
+were merged in 1928, when both papers
+were purchased by the Sifton family.</p>
+
+<p>Editorially, the <title level="j">Star-Phoenix</title> has frequently
+shown itself to be sharper and quicker off the
+mark than the <title level="j">Leader-Post</title>, its sister paper in
+Regina. The <title level="j">S-P</title> puts more emphasis on original
+reporting, and its columnists are more inclined
+to take controversial stands. This difference
+is due in part to the fact that while Regina,
+the provincial capital, is dominated by a civilservice
+mentality, Saskatoon has a more business-
+oriented and progressive outlook.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.047">Saskatoon, Saskatchewan</ref>.</p>
+
+<closer>
+<signed>Jim McKenzie<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

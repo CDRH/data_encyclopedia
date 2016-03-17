@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.gen.038 SYSTEM "egp.gen.038.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">United Farm Women of Alberta</title>
+<title level="m" type="sub"></title>
+<author>Nanci Langford</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Langford, Nanci">Nanci Langford</author>. <title level="a">"United Farm Women of Alberta."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">338</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UNITED FARM WOMEN OF ALBERTA</head>
+
+<figure n="egp.gen.038" rend="granted">
+<figDesc>UFWA meeting group, Heart Lake, Alberta, 1921</figDesc>
+</figure>
+
+<p>The United Farm Women of Alberta (<hi rend="smallcaps">UFWA</hi>)
+was the first provincial organization of farm
+women in Alberta. First established in 1915 as
+an auxiliary to the United Farmers of Alberta
+(<hi rend="smallcaps">UFA</hi>), the women at the 1916 convention
+voted to make the ufwa a separate organization
+with its own constitution and direction.</p>
+
+<p>By 1915 many local women's groups were
+already in place, with distinct names, purposes,
+and procedures of their own. The <hi rend="smallcaps">UFWA</hi>
+drew from women's experiences in these local
+groups and from the procedures already developed
+for the <hi rend="smallcaps">UFA</hi> to create a highly centralized
+organization; most local initiatives
+were funneled through and directed by the
+central office and the provincial executive. A
+yearly program, outlining the content and
+structure of monthly meetings, was developed
+at the provincial level and followed faithfully
+by locals. An information bulletin on each
+monthly topic was added in 1920. Three provincial
+committees were formed in 1916 and
+provincial conveners named to manage them.
+They focused on health, education, and young
+people's work, reflecting the organization's
+focus on "social welfare" and "betterment of
+rural life." More committees were added over
+the years as the group broadened its focus to
+include the legal status of women and children,
+cooperative marketing, farm safety, and
+environmental concerns. Issues such as property
+rights for farm women, reproductive
+rights, farm economics and marketing, stress
+in farm families, child care in rural areas, access
+to affordable medical care, rural depopulation,
+and loss of schools and services
+kept the organization lobbying and in advocacy
+activities for decades, and maintained
+its reputation as a respected voice for rural
+communities.</p>
+
+<p>The United Farm Women of Alberta was
+responsible for innovations such as a Junior
+Branch for Young People, Farm Young People's
+Week at the University of Alberta, the
+first Egg and Poultry Pool established in Canada
+(1925), Farm Women's Week at Olds Agricultural
+College, and the first rural chautauqua
+held in Alberta (1937). The organization
+was a major contributor to the election campaigns
+that resulted in <hi rend="smallcaps">UFA</hi> governments in
+Alberta from 1921 to 1935. The organization's
+first president, Irene Parlby, was appointed as
+the first female cabinet minister in Canada after
+winning a seat in the 1921 election.</p>
+
+<p>In 1949 the ufwa became the Farm Women's
+Union of Alberta (<hi rend="smallcaps">FWUA</hi>). Significant
+achievements of the <hi rend="smallcaps">FWUA</hi> include the launching
+of a magazine for farmers (1949) and
+building a leadership and citizenship camp for
+young people in the foothills of the Rockies. In
+1970, due to another organizational amalgamation,
+this time with the Alberta Federation
+of Agriculture, Unifarm was created, and
+the women's organization chose the name
+"Women of Unifarm." Significant achievements
+of this period include the Matrimonial
+Property Act (1979), giving women equality in
+division of marital property; the publication
+of the eighth edition of their renowned cookbook,
+which brought the total number of
+cookbooks sold to more than 100,000 copies;
+and the introduction of Farm Safety Week and
+the Farm Safety Hike, which garnered international
+recognition for the organization.</p>
+
+<closer>
+<signed>Nanci Langford<lb/>
+Athabasca University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Carter, Eva. <title level="m">Thirty Years of Progress</title>. Calgary: United Farm
+Women of Alberta, 1944.</bibl> <bibl>Cormack, Barbara Villy. <title level="m">Perennials and Politics: The Life Story of Hon. Irene Parlby, LL.D</title>.
+Sherwood Park, Alberta: n.p., 1969.</bibl> <bibl>Langford, Nanci L. <title level="m">Politics, Pitchforks, and Pickle Jars: 75 Years of Organized Farm Women in Alberta</title>. Calgary: Detselig Enterprises, 1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

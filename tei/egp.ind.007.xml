@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ind.007 SYSTEM "egp.ind.007.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Banking</title>
+<title level="m" type="sub"></title>
+<author>Robert Stanley Herren</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McConnell, Curt">Curt McConnell</author>. <title level="a">"Automotive."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">410-411</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Banking</head>
+
+<figure n="egp.ind.007" rend="granted">
+<figDesc>Citizens Bank, Wharton, Oklahoma Territory, 1894</figDesc>
+</figure>
+
+<p>Banking's role in the Great Plains economy
+has long been important and controversial.
+Most Great Plains states developed a commercial
+banking system after enactment of the National
+Banking Acts of 1863 and 1864. National
+banks were required to hold relatively large
+amounts of capital and could not make direct
+loans to real estate. Nonresidents owned many
+Great Plains national banks. State banks,
+which had lower capital requirements and
+made direct real estate loans, were more numerous
+in the sparsely settled, agricultural
+Great Plains and were usually locally owned;
+successful merchants most commonly started
+Great Plains banks.</p>
+
+<p>Fearing that nonresidents would gain monopoly
+control over allocation of bank credit,
+many states adopted unit-banking policies
+that prohibited banks from branching. As late
+as 1980, only New Mexico and South Dakota
+among Great Plains states allowed branching.
+Numerous small banks with undiversified
+loan portfolios dominated Great Plains banking</p>
+
+<p>The unit-banking system proved to be fragile
+during economic downturns. After the
+Panic of 1907, several states experimented
+with state-run deposit insurance systems as an
+alternative to branch banking in providing
+stability to the banking system. Between 1907
+and 1917 eight states nationwide adopted deposit
+insurance systems, including Kansas,
+Nebraska, North Dakota, Oklahoma, South
+Dakota, and Texas. Chain banks and multibank
+holding companies (group banking)
+also developed as ways to evade restrictions on
+branch banking.</p>
+
+<p>During the 1920s and 1930s Great Plains
+banking experienced substantial turmoil.
+Prices of agricultural products rose during
+World War I, with a resulting rapid expansion
+in the number of banks. The postwar collapse
+of agricultural prices and of land values resulted
+in numerous bank failures when banks
+saw the value of their loans dramatically fall.
+During the 1920s state-run deposit insurance
+systems may have intensified difficulties by
+encouraging banks to take too many risks.
+The banking system further contracted during
+the early 1930s. In addition to failures of
+thousands of unit banks, many chain banks
+and bank holding companies did not survive
+the Great Depression; however, some continued
+to play a significant role in Great Plains
+banking. For example, Minneapolis-based
+First Bank and Norwest systems both owned
+many banks in the Dakotas and in Montana.</p>
+
+<p>The banks in the Prairie Provinces of Canada
+fared much better during the 1920s and
+1930s. A merger movement among Canadian
+banks occurred after 1900. By 1920 Canada
+had developed a nationwide branch-banking
+system that was characterized by national diversification
+and greater stability than in the
+United States; no Canadian banks failed during
+the Great Depression.</p>
+
+<p>After World War II, commercial banks continued
+to provide most non–real estate loans
+to farmers. Banks gradually increased their
+farm mortgages, which had substantially
+dropped during the 1920s and 1930s; however,
+federal land banks and life insurance companies
+often provided a larger share of farm
+mortgages. Banks faced increasing competition
+from other depository institutions such as
+savings and loan associations, which emphasized
+home mortgage loans, and credit unions,
+which emphasized consumer loans. Commercial
+banks also became more actively involved
+in lending to petroleum and natural gas businesses,
+particularly in Colorado, Oklahoma,
+Texas, and Wyoming.</p>
+
+<p>Dramatic changes in Great Plains banking
+occurred after 1980. Relatively high prices for
+agricultural and energy products caused many
+Great Plains banks to expand their lending to
+these activities during the late 1970s. The recession
+of the early 1980s combined with falling
+prices for agricultural and energy products
+to result in a bust in both sectors. The
+undiversified loan portfolios of many Great
+Plains banks resulted in numerous bank failures.
+This time, many savings and loan associations
+also failed. Between 1982 and 1994,
+2,573 commercial banks and savings and loan
+associations failed nationwide. Texas alone accounted
+for more than 30 percent of these
+failures, while Colorado, Kansas, Nebraska,
+and Oklahoma combined accounted for more
+than 14 percent.</p>
+
+<p>Great Plains states responded differently to
+these challenges. South Dakota changed its
+usury law and actively sought national credit
+card operations, particularly Citibank, to relocate
+and thereby provide jobs. Others reluctantly
+loosened restrictions on branch banking
+and passed interstate banking legislation.
+The 1994 Riegle-Neal Interstate Banking and
+Branching Efficiency Act effectively removed
+remaining obstacles to interstate banking.</p>
+
+<p>Since 1980 Great Plains banking has transformed
+from being predominantly a unitbanking
+industry to one that includes both
+statewide branching and interstate banking.
+Although the total number of banks has declined
+by more than 30 percent, there has been
+an increase in the number of bank branches.
+While an increasing share of bank deposits is
+under the control of large out-of-state organizations,
+many smaller community banks continue
+to flourish because they are able to provide
+more personalized services, which many
+customers still prefer, and they remain the
+best source of information concerning the
+credit-worthiness of local businesses.</p>
+
+<closer>
+<signed>Robert Stanley Herren<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Doti, Lynne Pierson, and Larry Schweikart. <title level="m">Banking in the American West: From the Gold Rush to Deregulation</title>. Norman:
+University of Oklahoma Press, 1991.</bibl> <bibl>Spong, Kenneth,
+and James Harvey. "The Changing Structure of
+Banking: A Look at Traditional and New Ways of Delivering
+Banking Services." <title level="m">Financial Industry Perspectives</title>
+(1998): 1–16.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

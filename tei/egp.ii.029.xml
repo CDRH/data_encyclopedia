@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Geographic Center of the United States</title>
+<title level="m" type="sub"></title>
+<author>Thomas Fox Averill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Averill, Thomas Fox">Thomas Fox Averill</author>. <title level="a">"Geographic Center of the United States."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">388</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GEOGRAPHIC CENTER OF THE UNITED STATES</head>
+
+<p>A point in <placeName rend="county" key="co.ks.smi" reg="Smith County, Kansas">Smith County, Kansas</placeName>, north of <placeName rend="highway" key="high.us36" reg="U.S. Highway 36">U.S. 36</placeName> on <placeName rend="highway" key="high.ks281" reg="Kansas Highway 281">Kansas 281</placeName>, one mile west of the junction of <placeName rend="highway" key="high.ks281" reg="Kansas Highway 281">Kansas 281</placeName> and <placeName rend="highway" key="high.ks191" reg="Kansas Highway 191">Kansas 191</placeName> near <placeName rend="settlement" key="ks.leb" reg="Lebanon, Kansas">Lebanon</placeName>, is the geographic center of the forty-eight contiguous states. (Once simply called the geographic center of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>, its title was changed with the statehood of <placeName rend="state" key="ak" reg="Alaska">Alaska</placeName> and <placeName rend="state" key="hi" reg="Hawaii">Hawaii</placeName> to specify the forty-eight contiguous states.) This point, halfway between <placeName rend="settlement" key="ca.sf" reg="San Francisco, California">San Francisco</placeName> and <placeName rend="settlement" key="ma.bos" reg="Boston, Massachusettes">Boston</placeName>, saw the Pony Express gallop past. Later, the Chicago, Rhode Island, and Pacific Railroad chugged by. About forty-five miles south of the geographic center in southeast <placeName rend="county" key="co.ks.osb" reg="Osborn County, Kansas">Osborne County</placeName>, five miles east of <placeName rend="highway" key="high.ks281" reg="Kansas Highway 281">Kansas 281</placeName>, is the geodetic center of the North American continent (<placeName rend="settlement" key="ks.lur" reg="Luray, Kansas">Luray</placeName> in <placeName rend="county" key="co.ks.rus" reg="Russell County, Kansas">Russell County</placeName> is the closest town). Other places in <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> also note their "center" status. <placeName rend="settlement" key="ks.kin" reg="Kinsley, Kansas">Kinsley</placeName>, at the junction of <placeName rend="highway" key="high.us56" reg="U.S. Highway 56">U.S. 56</placeName> and <placeName rend="highway" key="high.us50" reg="U.S. Highway 50">U.S. 50</placeName>, calls itself "Halfway and a Place to Stay," and signage proclaims <placeName rend="settlement" key="ny.nyc" reg="New York City, New York">New York City</placeName> and <placeName rend="settlement" key="ca.sf" reg="San Francisco, California">San Francisco</placeName> to each be 1,526 miles away.</p>
+
+<p><persName reg="Eisenhower, Milton">Milton Eisenhower</persName> thought <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> was at the heart, geographically and spiritually, of the nation. <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> remains middle ground, as a mixture of town and country, agriculture and industry, conservative and progressive. <persName reg="Heat-Moon, William Least">William Least Heat-Moon</persName> claimed <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> as archetypal, at the center of what it is, politically and socially, for good and evil, to be American.</p>
+
+<p>Travelers to these centers find themselves in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. They become aware of both the centrality of their position and, as the signs proclaim, the distance to places by which many Americans measure their lives. Like many <geogName rend="region" reg="Great Plains">Great Plains</geogName> symbols, the geographical center is ambiguous: precisely pinpointed, celebrated as representative, but at a great distance, literally and figuratively, from the rest of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Thomas Fox Averill<lb/>
+Washburn University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Eisenhower, Milton. "<title level="a">The Strength of Kansas</title>." In <title level="m">What Kansas Means to Me: Twentieth-Century Writers on the Sunflower State</title>, edited by Thomas Fox Averill. Lawrence: University Press of Kansas, 1991: 105–21.</bibl> <bibl>Least Heat Moon, William. "<title level="a">The Great Kansas Passage</title>." In <title level="m">What Kansas Means to Me: Twentieth-Century Writers on the Sunflower State</title>, edited by Thomas Fox Averill. Lawrence: University Press of Kansas, 1991: 194–206.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

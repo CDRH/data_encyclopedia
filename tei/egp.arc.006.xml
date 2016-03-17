@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brick Masonry</title>
+<title level="m" type="sub"></title>
+<author>Steve C. Martens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Martens, Steve C.">Steve C. Martens</author>. <title level="a">"Brick Masonry."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">70</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BRICK MASONRY</head>
+
+<p>Brick masonry&#8211;more precisely, construction
+utilizing modular fired-clay products&#8211;is one
+of many building technologies found in the
+Great Plains. Bricks are the product of a complex
+manufacturing process that converts naturally
+occurring raw clay into an inert, vitrified
+building material by baking it to very high
+temperatures (kiln firing). The quality of the
+finished product (in terms of hardness, uniformity,
+and color) varies widely, based on the
+raw clay "body," the method and conditions
+under which the bricks are fired, and the
+chemical or mineral impurities present in the
+clay. Colors typically tend toward either a buff
+tan color or a reddish color range. Masonry is
+regarded as a highly desirable building material
+in the Great Plains, as elsewhere, because
+of its durability and fire resistance as well as
+the expression of permanence it conveys.</p>
+
+<p>Reasons for the prevalence of brick masonry
+in the Great Plains include the time
+frame of settlement, environmental requirements,
+and the imported skills and traditions
+of ethnic groups that settled on the Plains. In
+many locations the earliest buildings were
+constructed of other available materials, but
+after settlements became better established the
+second generation of buildings often included
+brick masonry in combination with more
+costly ornamental stone masonry. Masonry is
+a relatively massive material with good thermal
+performance where temperature varies
+widely from day to night. Brick is inherently
+fire resistant, a characteristic important in
+both tightly grouped buildings in urban commercial
+districts and isolated buildings in
+the countryside. Many communities adopted
+building codes mandating masonry construction
+in downtown locations after disastrous
+fires like the Great Fargo Fire of 1893 in North
+Dakota.</p>
+
+<p>The type of clay used to make bricks is present
+in many Great Plains locations. Immigrants
+to the Plains (particularly those from
+northern Europe) were familiar with methods
+necessary to make bricks and often selected
+town sites where clay was available and where
+there were suitable fuels for firing kilns. German
+Americans in particular had a fondness
+for brick masonry in buildings. Early brick
+making sometimes entailed firing piles of
+hand-molded bricks in the open, referred to
+as a scove kiln or a clamp. This method was
+soon supplanted by beehive-shaped kilns,
+which were fired intermittently, and eventually
+by industrialized tunnel kilns, which
+were fired continuously. By 1900 there were
+more than twenty brick manufacturers in
+North Dakota alone. Now there are fewer than
+a dozen manufacturers on the entire Northern
+Plains.</p>
+
+<p>Brick-making technology led to the design
+and construction of many types of masonry
+buildings, including civic and commercial
+buildings, schools, churches, and a variety
+of agricultural structures (structural claytile
+silos, grain storage buildings, and rural
+creameries). Use of brick to construct houses
+in the Great Plains has been relatively uncommon,
+but in certain localities significant concentrations
+of brick residences do occur in
+both towns and rural areas. Notable examples
+include areas of German American settlement
+in river valleys where brickyards are situated,
+continuing a pattern found farther east in the
+Minnesota River valley and along the Missouri
+River near Hermann, Missouri. Similar patterns
+of brick production, distribution, and
+usage occur from the Prairie Provinces to the
+Southern Plains, with the extent of brick masonry
+diminishing as one moves farther westward
+onto the Plains. Buildings that appear to
+be of primarily brick masonry construction
+were often actually constructed using a mixture
+of available materials, commonly including
+wood-floor framing. Brick buildings were
+generally limited to about four stories in
+height, which made them relatively well suited
+to the scale of buildings in most Great Plains
+cities and towns.</p>
+
+<p>Brick masonry buildings range from the
+vernacular to high-style buildings designed by
+professionally trained architects like Frank
+Lloyd Wright. Historically, ornamentation
+tended to be accomplished less by molding
+unique, individual pieces of brick than by the
+patterns in which the bricks were assembled.
+Detailed features of brick masonry buildings
+thus reflect the skill of the masons who
+erected them and the aesthetic judgment of
+the architects who designed them.</p>
+
+<closer>
+<signed>Steve C. Martens<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Foster, Joseph Arnold, ed. <hi rend="italic">Accounts of Brick Making in
+America Published between 1850 and 1900</hi>. Claremont <hi rend="smallcaps">CA</hi>:
+Privately published, 1971.</bibl> <bibl>McKee, Harley. <hi rend="italic">Introduction to
+Early American Masonry</hi>. Washington <hi rend="smallcaps">DC</hi>: National Trust
+for Historic Preservation, 1973.</bibl> <bibl>Noble, Allen G. <hi rend="italic">Wood,
+Brick, and Stone</hi>. Amherst: University of Massachusetts
+Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

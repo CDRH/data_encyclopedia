@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cavett, Dick (b. 1936)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Cavett, Dick (b. 1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">509</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CAVETT, DICK (b. 1936)</head>
+
+<p>Richard A. "Dick" Cavett, comedian, writer,
+actor, and, most famously, talk-show host, was
+born in the small Nebraska town of Gibbon
+on November 19, 1936. Both his parents were
+teachers. When Cavett was five his family
+moved to Grand Island; his high school years
+were spent in Lincoln. Cavett remembers his
+Nebraska upbringing fondly: a landscape of
+idyllic images, darkened only by his mother's
+death when he was ten, a tragedy from which,
+he admits, he has never fully recovered.</p>
+
+<p>Cavett started into acting early and performed
+his magic act at various Lincoln venues.
+(He first met another rising star, Johnny
+Carson, at a magic show in a Lincoln church
+basement.) Cavett was driven by a sense of
+destiny, a knowledge that he would be famous,
+and he acted in stage productions at Yale
+(from which he graduated in 1958) and then,
+without much success, in New York City. He
+maneuvered his big break in 1960 when he
+cornered Jack Paar in a corridor off the set of
+<hi rend="smallcaps">NBC</hi>'s <title>The Jack Paar Tonight Show</title> and handed
+him an envelope of jokes. Paar used the jokes
+and hired Cavett a week later.</p>
+
+<p>During the next few years, Cavett wrote
+jokes for Paar, Carson, Merv Griffin, and Jerry
+Lewis and performed in stand-up comedy and
+on television. His first stint as a television host
+was on <hi rend="smallcaps">ABC</hi>'s <title>The Morning</title> in 1968. The show
+lasted only a season, but Cavett was soon in
+the limelight as host of <title>The Dick Cavett Show</title>,
+which ran on abc from 1969 to 1974. While
+Cavett rejects being labeled as intellectual, the
+urbane tenor of the show and the high caliber
+of his guests (who included Laurence Olivier
+and Ingmar Bergman) set it apart from other
+talk shows.</p>
+
+<p>But the show's ratings were never high
+enough to suit executives, and, despite receiving
+three Emmy Awards, it was canceled in
+1974. <title>The Dick Cavett Show</title> was revived on <hi rend="smallcaps">PBS</hi>
+from 1977 to 1982 and briefly again on <hi rend="smallcaps">ABC</hi> in
+1986–87. After 1989 Cavett hosted a regular
+show on the cable network <hi rend="smallcaps">CNBC</hi>. Cavett also
+made numerous other television appearances
+and acted in many movies (often as himself )
+during these years. As he makes clear in his
+autobiographical conversation with Christopher
+Porterfield, however, despite his successes
+elsewhere, he remains firmly rooted in
+his Great Plains background.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cavett, Richard A., and Christopher Porterfield. <title level="m">Cavett</title>.
+New York: Harcourt Brace Jovanovich, 1974.</bibl> <bibl>Rooney, Terrie
+M., ed. <title level="m">Contemporary Theater, Film, and Television</title>.
+Detroit: Gale, 1996: 15: 83–85.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

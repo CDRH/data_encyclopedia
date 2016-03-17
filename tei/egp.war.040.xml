@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">San Sab&#225; Mission, Destruction of</title>
+<title level="m" type="sub"></title>
+<author>Robert S. Weddle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Weddle, Robert S.">Robert S. Weddle</author>. <title level="a">"San Sab&#225; Mission, Destruction of."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">835-836</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAN SAB&#193; MISSION, DESTRUCTION OF</head>
+
+<p>Mission Santa Cruz de San Sab&#225;, founded for
+the eastern Apaches in April 1757, near presentday
+Menard, Texas, was sacked and burned on
+March 16, 1758, by an allied Native American
+force of about 2,000 Comanches, Tejas, Tonkawas,
+and others. At least eight persons, including
+two of the three Franciscan missionaries
+present, were slain during the attack. The nearby
+presidio, San Luis de las Amarillas, four
+miles farther up the San Saba River, was powerless
+to intervene. Although the Spanish Franciscan
+friars, headed by Fray Alonso Giraldo de
+Terreros, had failed to congregate the Apaches
+for religious instruction, the allied northern
+tribes had been alarmed at the prospect of a
+Spanish-Apache alliance.</p>
+
+<p>The attack represented the first major conflict
+between Comanches and European American
+settlers in Texas. Combined with the failed
+Spanish punitive military expedition to a
+Wichita (Taovaya) village on the Red River a
+year later, it demonstrated that the Spanish
+faced a new type of enemy with greatly expanded
+capabilities. French firearms had replaced bows and arrows, and the allied Indians
+had vastly superior numbers. No longer
+was a ragged Spanish militia, drawn randomly
+from untrained civilian settlers, capable
+of holding the frontier. The Spanish advance
+from Texas toward the Great Plains was
+halted.</p>
+
+<closer>
+<signed>Robert S. Weddle<lb/>
+Bonham, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Weddle, Robert S. <title level="m">The San Sab&#225; Mission: Spanish Pivot in
+Texas</title>. Austin: University of Texas Press, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

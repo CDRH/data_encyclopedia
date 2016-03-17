@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Martison, Henry (1883-1981)</title>
+<title level="m" type="sub"></title>
+<author>James L. Conyers, Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Terry L. Shoptaugh">Terry L. Shoptaugh</author>. <title level="a">"Martison, Henry (1883-1981)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">717</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MARTISON, HENRY (1883-1981)</head>
+
+<p>Born in Minneapolis, Minnesota, on March 6,
+1883, Henry Martinson became one of the
+most prominent figures in the North Dakota
+labor movement. After trying to farm a homestead
+in Minnesota, Martinson moved to
+Minot, North Dakota, in 1907 and became a
+painter. After reading several labor tracts, he
+became a socialist and began to write for the
+labor newspaper <title level="j">Iconoclast</title>. He rose to become
+its editor. He served as secretary of the state
+Socialist Party until its collapse in 1918, then
+recruited members for the Nonpartisan League.
+He remained active in the labor movement and
+in 1937 was appointed the deputy commissioner
+of labor for North Dakota. He held the position
+for twenty-eight years, fighting to improve labor
+conditions.</p>
+
+<p>After losing his state position in 1965, Martinson
+remained active as secretary of the
+Trades and Labor Assembly in Fargo, and he
+began preserving the early history of labor in
+the state. He wrote a brief <title level="m">History of North
+Dakota Labor</title> in 1970, expanding on this in
+articles in <title level="j">North Dakota History</title> and in contributions
+to the film documentaries <title>Prairie Fire</title>
+(1977) and <title>Northern Lights</title> (1978). He also
+wrote and published poetry with regional
+themes. In 1975 he was named poet laureate of
+North Dakota. Martinson sought public offiqce
+many times, always on a socialist platform. He
+commented wryly late in life that while he
+should have won these contests, he lacked the
+votes. Active in the cause of labor to the last,
+he died in Fargo on November 20, 1981.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.051"><hi rend="italic">Northern Lights</hi></ref>.</p>
+
+<closer>
+<signed>Terry L. Shoptaugh<lb/>
+Moorhead State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Martinson, Henry. <title level="m">Comes the Revolution: A Personal
+Memoir of the Socialist Movement in North Dakota</title>. Fargo:
+n.p., 1969.</bibl> <bibl>Martinson, Henry. Papers. University of North
+Dakota Library, Grand Forks <hi rend="smallcaps">ND</hi>.</bibl> <bibl>Martinson, Henry. <title level="m">Village
+Commune Barefoot Boy</title>. Fargo <hi rend="smallcaps">ND</hi>: n.p., 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

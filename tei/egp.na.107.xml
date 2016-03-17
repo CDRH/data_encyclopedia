@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.107">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sioux</title>
+<title level="m" type="sub"></title>
+<author>Guy Gibbon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.107</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gibbon, Guy">Guy Gibbon</author>. <title level="a">"Sioux."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">601-602</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SIOUX</head>
+
+<p>The Sioux, and most particularly the Lakota
+Sioux, are the iconic warrior horsemen of the
+Northern Plains. They have become perhaps
+the best known of all Indian nations through
+paintings and photographs, confrontations
+with the U.S. military, Wild West shows, and
+hundreds of Hollywood movies. Sitting Bull,
+Crazy Horse, Red Cloud, and other Lakota
+Sioux leaders are among the most famous of
+all Native Americans, and the Battle of the
+Little Bighorn in 1876 and the Wounded Knee
+Massacre in 1890 are among the most widely
+known events in U.S. history. But the Lakotas
+are only one division of the Great Sioux
+Nation.</p>
+
+<p>The Great Sioux Nation, known as <hi rend="italic">Oceti
+Sakowin</hi>, or "Seven Council Fires," is a confederation
+of closely allied cognate bands.
+They speak three mutually intelligible dialects
+of the Siouan language family: Dakota, Nakota,
+and Lakota. They became known as the
+Sioux, or a word like it, in the seventeenth
+century, when their enemies, the Ojibwas, told
+the French that that was what they were called.
+The word derives from the Ojibwa term <hi rend="italic">Na
+dou esse</hi>, which means "Snakeline Ones" or
+"Enemies." The French spelled the word <hi rend="italic">Nadousioux</hi>,
+and the English and Americans shortened
+it to Sioux. In recent years, the Sioux, like
+many other Native peoples, have made a concerted
+effort to replace their imposed, derogatory
+name by the names they called themselves.
+Self-identification is commonly based
+on either band or sub-band names (e.g., Santee,
+Oglala, or Sicangu), linguistic groups
+(Lakota, Dakota, or Nakota), or, increasingly
+in the twentieth century, by the name of the
+reservation of origin (e.g., "Rosebud Sioux" or
+"Cheyenne River Sioux").</p>
+
+<p>The Great Sioux Nation has seven primary
+divisions, based on their respective places in
+the Seven Council Fires. The Isantis (Santees),
+Dakota speakers, occupy the east and are comprised
+of four council fires: the Mdewakantunwan,
+the Sisitunwan, the Wahpetunwan,
+and the Wahpekute. The Wiciyelas, Nakota
+speakers, occupy the middle division and are
+composed of two council fires: the Ihanktunwun
+(Yanktons) and Ihanktunwanna (Yanktonais).
+The western council fire is occupied
+by the Titunwans (Tetons), Lakota speakers,
+composed of seven sub-bands: Oglala (Scatter
+One's Own), Sicangu or Brul&#233; (Burnt Thigh),
+Hunkpapa (Those Who Camp At the Entrance),
+Mnikowoju o Minneconjou (Those
+Who Plant By the Stream), Itzipco or Sans
+Arcs (Without Bows), Oohenunpa (Two Kettles),
+and Sihasapa (Black Feet).</p>
+
+<p>Europeans first encountered the Sioux in
+the seventeenth century in the mixed hardwood
+forests of central Minnesota and northwestern
+Wisconsin. In the mid-seventeenth
+century, the Sioux began moving westward
+and southward, pushed by the Ojibwas, who
+gradually infiltrated into Minnesota from the
+Lake Superior area, and pulled by the abundant
+Plains bison herds and the diffusion of
+horses from the Southern Plains. While some
+bands had a few horses by 1707, if not earlier,
+the Lakotas did not fundamentally become
+Plains horsemen until 1750-75, by which time
+they had crossed the Missouri River, displacing
+the previous residents of the region. By
+the mid-eighteenth century, the Lakotas and
+Nakotas were closely associated with the Central
+and Northern Plains. The Dakotas (Santees)
+remained primarily in Minnesota, where
+they received reservations in the nineteenth
+century. The Sioux Uprising of 1862 resulted
+in the relocation of many Santees to small reservations
+in South Dakota and Nebraska, although
+others remained in Minnesota.</p>
+
+<p>As each of the Council Fires adapted to different
+Plains environments, their lifeways
+changed and diverged from one another. Yet
+they maintained their political, economic, and
+social ties through intermarriage, trade, religious
+ceremonies, communal hunting, and
+military alliances.</p>
+
+<p>The Yanktons and Yanktonais, who eventually
+settled in the eastern Dakotas, became
+middlemen in a far-flung trade system between
+the Lakotas, who had pushed westward
+as far as Wyoming and eastern Montana, and
+the eastern Santees, who were closely involved
+in the French fur trade in Minnesota. While
+the Lakotas became buffalo-hunting, nomadic
+horsemen, and the principal grain grown by
+the Santees shifted from wild rice to corn,
+some Yanktons and Yanktonais adopted many
+of the traits of the semisedentary Plains villagers,
+such as the Mandans and Arikaras, including
+the building of earth lodges. With the
+horse for transportation and vast herds of
+bison, the Lakotas prospered and their numbers
+grew until, by the nineteenth century,
+they outnumbered all other bands of the
+Great Sioux Nation combined. By the mid.
+nineteenth century, the Lakotas and their allies
+presented a formidable military and political
+barrier to European American expansion
+into the Central and Northern Plains.</p>
+
+<p>The Lakotas eventually controlled a vast
+hunting territory stretching from the Platte
+River north to the Heart River and from the
+Missouri River west to the Bighorn Mountains.
+Their highly flexible social and political
+organization was well suited to the demands
+of maintaining such an empire. The basic unit
+of Lakota society was the <hi rend="italic">tiyospaye</hi>, a small
+group of bilaterally related kin, informally led
+by a headman. Each of the seven Lakota subbands
+had societies, including <hi rend="italic">akicitas</hi> (police)
+and <hi rend="italic">nacas</hi> (civil leaders). Nacas from each of
+the sub-bands formed a tribal council (<hi rend="italic">Naca
+Ominicia</hi>) with executive committees commonly
+known as <hi rend="italic">wicasa</hi> (shirt wearers). When
+the seven sub-bands congregated each summer
+for the Sun Dance, the nacas of each of
+the seven sub-bands constituted a national
+council. Holy men and medicine people were
+also consulted on important matters, revealing
+the centrality of Lakota spiritual and ceremonial
+life.</p>
+
+<p>The belief systems and rituals of the Lakotas
+and Nakotas reflect many of the values essential
+for successful nomadic bison hunting in
+the Northern Great Plains (e.g., individuality,
+bravery, sacrifice, vision seeking). The Lakotas
+are further anchored to the Great Plains by
+their conviction that they were created by
+<hi rend="italic">Wakan Tanka</hi> (Grandfather, the Great Spirit)
+and emerged from a cave (Wind Cave) in <hi rend="italic">Paha
+Sapa</hi>, the Black Hills of South Dakota. This
+place, more than any other, is sacred to the
+Lakotas. It was in the Great Plains that the
+Lakotas received their Sacred Pipe and the
+Seven Sacred Rites, including the Sun Dance,
+from White Buffalo Calf Woman.</p>
+
+<p>Life within the tiyospaye centered around
+daily subsistence tasks divided by age and gender.
+Hunting, raiding, and making tools and
+weapons were the responsibilities of men,
+with time leftover for trading, counsels, ceremonies,
+and leisure activities, such as wagering
+on foot and horse races. Women's responsibilities
+included gathering wild resources,
+such as prairie turnips, processing and tanning
+hides, cooking, sewing, quillwork, and
+managing the daily needs of the household.
+Women were responsible for breaking camp,
+packing belongings on travois, and setting up
+camp again at the end of the day. Older children
+and youth frequently had responsibility
+for gathering firewood and water and tending
+to horses and dogs. Grandparents and elders
+were often entrusted with the primary responsibility
+for caring for small children
+and infants and assisting with household
+tasks. In Lakota society, men were allowed to
+have more than one wife, and men of high
+status frequently had several wives, ideally sisters
+or women from the same tiyospaye.</p>
+
+<p>During the first half of the nineteenth century,
+at the very time the horse-riding nomadic
+way of life of the Lakotas was flourishing, the
+grasslands were being invaded by European
+Americans. The U.S. government initiated an
+aggressive military policy in the Plains during
+the 1860s. This policy included building additional
+military posts and pursuing Indian
+groups characterized as "hostile," activities
+that inflamed already tense relations between
+the federal government and the Lakotas and
+their allies. The Great Sioux Nation and its
+allies proved formidable opponents, militarily
+and politically, and brought the U.S. government
+to the negotiating table twice at Fort
+Laramie (1854 and 1868) to sign treaties. The
+1868 Treaty of Fort Laramie established the
+Great Sioux Reservation, spanning more than
+half of the modern state of South Dakota (west
+of the Missouri River), and provided annuities
+and rations for the Sioux. Economic relief was
+welcomed by the tribe. Bison were an increasingly
+scarce resource in the Plains by the mid-
+1870s, and by the mid-1880s they were virtually
+extinct. The eradication of the bison, mainstay
+of their economy, had a devastating impact on
+the Sioux.</p>
+
+<p>By the 1870s intolerable pressures led to a
+series of "Indian Wars," the most famous of
+which was the annihilation of Gen. George
+Armstrong Custer's Seventh Calvary at the
+Battle of the Little Bighorn in 1876 by Sitting
+Bull's Lakotas and their Cheyenne allies. Retribution
+was swift, and even those Lakotas
+who held out, including the bands of Crazy
+Horse and Sitting Bull, were eventually settled
+on the Great Sioux Reservation. In 1889 Congress
+broke up the Great Sioux Reservation
+into several smaller reservations in North and
+South Dakota. These reservations were loosely
+based on membership of the sub-bands. Their
+holdings were further diminished and scattered
+by allotment in severalty in the 1890s,
+which forced nuclear families onto small
+acreages and opened the remaining ‘‘surplus''
+land to non-Indian settlement. Many Lakotas
+selected their allotments near other members
+of their tiyospayes, maintaining a semblance
+of their old organization. The massacre of Big
+Foot's band at Wounded Knee Creek in 1890
+and the killing of Sitting Bull by Indian policemen
+the same year marked the end of freedom
+and the preferred nomadic way of life for
+many Lakotas.</p>
+
+<p>The 1890s were difficult years for the Sioux.
+Confined to reservations, where indifferent and
+self-serving Indian agents controlled them, they
+were expected to farm arid land. Their children
+were shipped to boarding schools, such as Carlisle
+Indian School in Pennsylvania, where they
+were urged to abandon their Indian ways. The
+Sun Dance, which had always served as an integrating
+mechanism for the Lakotas, had been
+banned along with other Lakota rituals in 1882.
+Although it was banned, the Lakota Sun Dance
+was never eradicated; it simply went "underground"
+to await a more tolerant era. In the
+1890s other religions, such as the Ghost Dance
+and peyotism, helped fill the gap.</p>
+
+<p>The first two decades of the twentieth century
+were periods of adjustment to reservation
+life on scattered allotments. Some reservations
+even began to prosper, to a degree, in the 1920s,
+only to be devastated during the Dust Bowl
+and Depression of the 1930s. Still, the catastrophe
+provided an opportunity to introduce radical
+reforms. These well-intentioned reforms
+were introduced by John Collier of the new
+Roosevelt administration and enacted as the
+Indian Reorganization Act (<hi rend="smallcaps">IRA</hi>) of 1934. The
+<hi rend="smallcaps">IRA</hi> was designed to improve subsistence and
+employment opportunities on the reservations
+and to ensure that tribal councils were
+democratically elected (counter to the traditions
+of the Lakotas and others). Collier and
+his staff targeted the Sioux reservations in the
+Dakotas and pressured them to adopt <hi rend="smallcaps">IRA</hi>-style
+governments and constitutions, which they
+did. The <hi rend="smallcaps">IRA</hi> reforms resulted in short-term
+moderate relief, as the Lakotas took advantage
+of some of the economic development programs,
+but they had negligible long-term benefits,
+with the exception that allotment policy
+was ended, which allowed the Lakotas to halt
+the erosion of their land base.</p>
+
+<p>The second half of the twentieth century was
+a time of far-reaching change and renewal for
+many Sioux. Reduction in mortality and high
+birthrates almost doubled their population,
+which strained employment on reservations.
+As part of the termination policy, the Eisenhower
+administration encouraged Indians to
+leave their reservations with the 1952 Voluntary
+Relocation Program. In the 1950s and 1960s
+regional centers such as Denver, Cheyenne,
+Bismarck, Minneapolis, Sioux Falls, and Sioux
+City became home to many Sioux. Poorly educated
+and discriminated against, many young
+Sioux soon returned to their reservations. The
+turbulence of this period in federal Indian policy,
+coupled with the civil rights movement,
+encouraged the birth of the American Indian
+Movement (<hi rend="smallcaps">AIM</hi>). <hi rend="smallcaps">AIM</hi> has maintained a close
+connection to the Great Sioux Nation, with
+many leaders&#8212;Russell Means, Leonard Peltier,
+and John Trudell&#8212;claiming Sioux ancestry.</p>
+
+<p>By the 1970s the once radical position that
+Indians should be able to follow their own
+cultural traditions&#8212;rather than be forced to
+assimilate to European American traditions&#8212;
+became more widely accepted. The publication
+of Dee Brown's immensely popular <title level="m">Bury
+My Heart at Wounded Knee</title> in 1971 and a new
+confrontation at Wounded Knee in 1973 led by
+<hi rend="smallcaps">AIM</hi>, heightened public consciousness of the
+plight of the Sioux. Moreover, this era confirmed
+that the sacred Black Hills were not,
+nor had they ever been, for sale. In 1980 the
+U.S. Supreme Court reviewed the fifty-seven-year-
+old Black Hills land claims case of the
+Great Sioux Nation and concluded that the
+taking of the Black Hills by the U.S. government
+was illegal and that the Great Sioux Nation
+was entitled to compensation for the taking.
+That award has now grown to more than
+$600 million and continues to draw interest
+in the U.S. Treasury because the Great Sioux
+Nation has refused the settlement, demanding
+the return of Paha Sapa, the Black Hills,
+instead.</p>
+
+<p>Despite the gains reaped from the political
+and economic programs of the self-determination
+era, the Sioux reservations in
+North and South Dakota remain some of the
+poorest places in the United States. Many reservations
+have chosen to open casinos, and
+some have enjoyed the benefits of large-scale
+capital infusions into their local economies;
+others, because of their remoteness from urban
+population centers, have seen little improvement
+in their economies, besides improving
+joblessness rates, as a result of casinos.
+Today, although transformed through decades
+of hardship and deprivation, the Great Sioux
+Nation is in a vigorous, if difficult, renaissance.
+Many Lakotas continue to speak their language
+and practice traditions such as the Sun Dance.
+Tribal community colleges, frequently named
+after important Lakota leaders, have sprung up
+on the reservations and are educating tribal
+members in the skills required to engage the
+global economy and simultaneously recapture
+their tribal heritage and traditions.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.061">Wild West Shows</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.050"><hi rend="italic">United States v. Sioux Nation of
+Indians</hi></ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.005">American Indian Movement</ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>:
+<ref n="egp.sr.037">Mills, Billy</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.014">Crazy Horse</ref>; <ref n="egp.war.025">Little Bighorn, Battle of the</ref>; <ref n="egp.war.036">Red Cloud</ref>; <ref n="egp.war.044">Sioux Wars</ref>;
+<ref n="egp.war.056">Wounded Knee Massacre</ref>.</p>
+
+<closer>
+<signed>Guy Gibbon</signed>
+University of Minnesota</closer>
+</div1>
+
+<div1>
+<bibl>DeMallie, Raymond J., and Douglas R. Parks, eds. <title level="m">Sioux
+Indian Religion</title>. Norman: University of Oklahoma Press,
+1987.</bibl> <bibl>Howard, James H. <title level="m">The Canadian Sioux</title>. Lincoln:
+University of Nebraska Press, 1984.</bibl> <bibl>Price, Catherine. <title level="m">The
+Oglala People, 1841–1879: A Political History</title>. Lincoln: University
+of Nebraska Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

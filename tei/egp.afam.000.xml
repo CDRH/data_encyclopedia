@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.000 SYSTEM "egp.afam.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">African Americans</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+  <change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1 type="contents">
+
+<head>African Americans</head>
+
+<figure n="egp.afam.000" rend="granted">
+<figDesc>Benjamin Pap Singleton and S. A. McClure, emigrants leaving Nashville, Tennessee, April 15, 1876</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.afam.001">African Americans</ref></item>
+<item><ref n="egp.afam.002">African American Cowboys</ref></item>
+<item><ref n="egp.afam.003">African American Newspapers</ref></item>
+<item><ref n="egp.afam.004">African American Pioneers</ref></item>
+<item><ref n="egp.afam.005">African Canadians</ref></item>
+<item><ref n="egp.afam.006">All-Black Towns</ref></item>
+<item><ref n="egp.afam.007">Baseball, Interracial</ref></item>
+<item><ref n="egp.afam.008">Beckwourth, James</ref></item>
+<item><ref n="egp.afam.009">Black Regiments</ref></item>
+<item><ref n="egp.afam.010">Brooks, Gwendolyn</ref></item>
+<item><ref n="egp.afam.011">Brown, "Aunt" Clara</ref></item>
+<item><ref n="egp.law.011">Brown v. The Board of Education of Topeka. <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.afam.013">Christian, Charlie</ref></item>
+<item><ref n="egp.afam.014">Civil Rights</ref></item>
+<item><ref n="egp.afam.015">Coleman, Ornette</ref></item>
+<item><ref n="egp.afam.016">Douglas, Aaron</ref></item>
+<item><ref n="egp.lt.017">Ellison, Ralph<hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.afam.018">Exodusters</ref></item>
+<item><ref n="egp.afam.019">Fields, Mary</ref></item>
+<item><ref n="egp.afam.020">Great Plains Black Museum</ref></item>
+<item><ref n="egp.afam.021">Harris, Wynonie</ref></item>
+<item><ref n="egp.afam.022">Hughes, Langston</ref></item>
+<item><ref n="egp.law.023">Jim Crow Laws. <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.afam.024">Johnson, Noble</ref></item>
+<item><ref n="egp.afam.025">King Curtis</ref></item>
+<item><ref n="egp.afam.026">Little, Cleavon</ref></item>
+<item><ref n="egp.afam.027">Love, Nat</ref></item>
+<item><ref n="egp.pd.033">Malcolm X. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.afam.029">McDaniel, Hattie</ref></item>
+<item><ref n="egp.afam.030">McShann, Jay</ref></item>
+<item><ref n="egp.afam.031">Micheaux, Oscar</ref></item>
+<item><ref n="egp.afam.032">Omaha Race Riot</ref></item>
+<item><ref n="egp.mus.038">Parker, Charlie. <hi rend="italic">See</hi> <hi rend="smallcaps">Music</hi></ref></item>
+<item><ref n="egp.afam.034">Parks, Gordon</ref></item>
+<item><ref n="egp.afam.035">Pickett, Bill</ref></item>
+<item><ref n="egp.afam.036">Sanders, Barry</ref></item>
+<item><ref n="egp.afam.037">Sayers, Gale</ref></item>
+<item><ref n="egp.afam.038">Scott Family</ref></item>
+<item><ref n="egp.afam.039">Singleton, Pap</ref></item>
+<item><ref n="egp.afam.040">Thompson, Era Bell</ref></item>
+<item><ref n="egp.afam.041">Tulsa Race Riot</ref></item>
+<item><ref n="egp.afam.042">Ware, John</ref></item>
+<item><ref n="egp.afam.043">Watts, J. C.</ref></item>
+<item><ref n="egp.afam.044">Webb, Wellington and Wilma</ref></item>
+<item><ref n="egp.afam.045">West, Cornel</ref></item>
+<item><ref n="egp.law.054">White Primary. <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.afam.047">York</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

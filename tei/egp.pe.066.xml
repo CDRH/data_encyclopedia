@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">White-Tailed Deer</title>
+<title level="m" type="sub"></title>
+<author>Kurt C. VerCauteren</author>
+<author>Scott E. Hygnstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.066</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="VerCauteren, Kurt C.">Kurt C. VerCauteren</author> and <author n="Hygnstrom, Scott E.">Scott E. Hygnstrom</author>. <title level="a">"White-Tailed Deer."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">642</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WHITE-TAILED DEER</head>
+<figure n="egp.pe.066" rend="granted">
+<figDesc>Group of white-tailed deer</figDesc>
+</figure>
+
+<p>The white-tailed deer (<hi rend="italic">Odocoileus virginianus</hi>)
+is one of two members of the deer family (Cervidae)
+commonly found in the Great Plains.
+When alarmed, white-tailed deer hold their
+tails erect, baring their white underside and
+white rump. Bucks (males) begin growing
+bonelike antlers early each summer and by
+early fall the antlers stop growing and harden.
+The antlers have a main beam with tines erupting
+from the top and are used for fighting and
+establishing rank in the social hierarchy.</p>
+
+<p>White-tailed deer are very adaptable, both
+in the habitats they occupy and the foods they
+eat. The highest densities of whitetails in the
+Great Plains occur where forests along rivers
+and streams are flanked by agricultural fields.
+Wooded areas provide deer with protective
+cover and natural foods. Agricultural fields
+provide abundant, high-quality foods. The
+availability of large tracts of winter cover and
+travel corridors between seasonal ranges are
+primary factors limiting populations.</p>
+
+<p>By the early nineteenth century, unregulated
+harvesting had extirpated white-tailed
+deer from many areas. However, their ability
+to adapt to human activities has allowed them
+to revive throughout the region, and current
+populations are stable to increasing in rural
+and urban settings. In fact, their range may
+be increasing westward. High deer populations
+can create problems though, for farmers,
+foresters, rural and urban residents, and
+motorists. White-tailed deer are the most
+popular big-game animal in North America.
+Both deer hunting and habitat manipulation
+are essential for managing and controlling
+their populations.</p>
+
+<closer>
+<signed>Kurt C. VerCauteren<lb/>
+Scott E. Hygnstrom<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Halls, Lowell K., ed. <title level="m">White-Tailed Deer: Ecology and Management</title>.
+Harrisburg <hi rend="smallcaps">PA</hi>: Stackpole Books, 1984.</bibl>
+<bibl>VerCauteren, Kurt C., and Scott E. Hygnstrom. "A Review of
+White-Tailed Deer Movements in the Great Plains Relative
+to Environmental Conditions," <title level="j">Great Plains Review</title> 4
+(1994): 117–32.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

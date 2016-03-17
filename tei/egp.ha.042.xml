@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Spanish-Comanche Treaties</title>
+<title level="m" type="sub"></title>
+<author>Pekka H&#228;m&#228;l&#228;inen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="H&#228;m&#228;l&#228;inen, Pekka">Pekka H&#228;m&#228;l&#228;inen</author>. <title level="a">"Spanish-Comanche Treaties."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">368</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SPANISH-COMANCHE TREATIES</head>
+
+<p>In November 1785 several thousand western
+Comanches congregated at their favorite wintering
+spot at the Big Timbers of the Arkansas
+River to discuss important news: after years of
+tiring mediation, Juan Bautista de Anza, the
+governor of New Mexico, wanted to negotiate
+peace with the Kotsoteka, Yamparika, and
+Jupe Comanches. Although the eastern Comanche
+bands had already entered into an accord
+with the Texan Spanish in October, some
+western bands remained recalcitrant. The opposition
+centered on Toro Blanco, who was
+backed by the bands that supported themselves
+by raiding New Mexican horse ranches.
+To resolve the deadlock, the peace faction assassinated
+Toro Blanco and forced his followers
+to disperse.</p>
+
+<p>In February 1786 Ecueracapa, a Kotsoteka
+chief representing the peace proponents, arrived
+in Santa Fe, where he hammered out the
+treaty stipulations with Governor Anza. The
+Spanish promised the Comanches free access
+to New Mexican markets and trade fairs, distribution
+of presents to friendly chiefs, and
+regulation of the fairs so that the shrewd New
+Mexican traders could not cheat their Native
+clients. In return, the Comanches agreed to
+stop raiding, to unite behind one principal
+chief who would negotiate with the Spanish,
+and to refrain from trading with foreigners,
+particularly Americans. There also would be
+a joint Comanche-Spanish war against the
+Lipan Apaches, whom both parties wanted to
+expunge from New Mexico's eastern border.
+The alliance was sealed in an elaborate ceremony
+at which Anza distributed lavish gifts,
+including presenting Ecueracapa with a Spanish
+flag and a saber. The Comanches returned
+a New Mexican captive and "buried the war."</p>
+
+<p>This Comanche&#8211;New Mexican treaty is one
+of the major turning points in the history of the
+Southern Plains. It marked a profound change
+in Spain's Plains Indian policy by ushering in
+the abandonment of the traditional military
+approach in favor of a diplomatic-commercial
+option. This shift pacified the southwestern
+Plains for over a generation: from 1786 to 1821
+accommodation and trade rather than violence
+defined Comanche.New Mexican relations.
+On the other hand, the treaty was a disaster
+to the Lipans, who were soon forced
+to retreat to the Sangre de Cristo Mountains
+by the powerful Comanche-Spanish alliance.
+The counterpart of the 1786 Comanche.New
+Mexican treaty, the 1785 Comanche-Texan accord,
+proved less successful. Comanche-Texas
+trade did increase after 1785, but the province's
+officials lacked the necessary funds to maintain
+a consistent Indian policy. As a result,
+Comanche raids in Texas continued throughout
+the Spanish era.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.020">Comanches</ref>.</p>
+
+<closer>
+<signed>Pekka H&#228;m&#228;l&#228;inen<lb/>
+Texas <hi rend="smallcaps">A&amp;M</hi> University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kavanagh, Thomas W. <title level="m">The Comanches: A History, 1706– 1875</title>. Lincoln: University of Nebraska Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

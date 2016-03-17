@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kroetsch, Robert (b. 1927)</title>
+<title level="m" type="sub"></title>
+<author>Frances W. Kaye</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Neuman, Shirley">Frances W. Kaye</author>. <title level="a">"Kroetsch, Robert (b. 1927)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">481</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KROETSCH, ROBERT (b. 1927)</head>
+
+<p>Robert Kroetsch, novelist, poet, essayist, and
+teacher, was born on June 26, 1927, in Heisler,
+Alberta. He received degrees in English from
+the University of Alberta, Middlebury College,
+and the University of Iowa. After teaching at the
+State University of New York–Binghamton, he
+returned in 1978 to Canada and the University
+of Manitoba. He has served as writer in residence
+at many universities and is a frequent
+and popular teacher of creative writing at
+the Banff Centre in Alberta. Kroetsch sets his
+writing in and comments directly upon the
+Great Plains, particularly, central and southern
+Alberta.</p>
+
+<p>Growing up on a farm in central Alberta,
+Kroetsch gained an ear for storytelling from
+the political speeches of his uncles, the family
+histories of his aunts, the pulp fiction favored
+by the hired men, and the all-encompassing
+cosmology of the Bible. His university training
+emphasized the European.North American
+literary canon, and Kroetsch himself sought
+out the trickster and shaman stories of the Cree
+and Blackfoot peoples who had lived in Alberta
+for millennia. His fiction combines finely
+observed details of the places and people of the
+Great Plains with a postmodern sensibility that
+disrupts chronology and cause and effect. His
+narratives are filled with a virtuosic bawdiness.
+For instance, <title level="m">The Studhorse Man</title> (1969), for
+which he won the Governor General's Award,
+follows the odyssey of trickster and phallic acrobat
+Hazard Lepage as he leads his great blue
+stallion around post-World War II Alberta in
+search of mares in heat. Other novels dealing
+with the Great Plains include <title level="m">Words of My Roaring</title> (1966), a parody of the 1935 Alberta
+election; <title level="m">Gone Indian</title> (1973); <title level="m">Badlands</title> (1975), a
+retelling of the great dinosaur hunts along Alberta's
+Red Deer River; and <title level="m">What the Crow Said</title> (1978). Kroetsch has also produced a relatively
+small number of short stories and creative
+nonfiction essays about the Prairies.</p>
+
+<p>Like his fiction, Kroetsch's poetry accommodates
+and parodies world influences as well
+as Prairie narratives. In <title level="m">Seed Catalogue</title> (1977)
+he asks,</p>
+
+<lg>
+<l>How do you grow a prairie town?</l>
+<l>The gopher was the model.</l>
+<l>Stand up straight:</l>
+<l>telephone poles</l>
+<l>grain elevators</l>
+<l>church steeples.</l>
+<l>Vanish, suddenly: the</l>
+<l>gopher was the model.</l>
+</lg>
+
+<p>Later, in <title level="m">The Hornbooks of Rita K</title> (2001), he
+writes, more cryptically,</p>
+
+<lg>
+<l><seg>Rita was accustomed to the deceptive</seg>
+	<seg>randomness of</seg></l>
+<l><seg>wind and rain and sky, to the violence and</seg>
+	<seg>the blinding</seg></l>
+<l><seg>inevitability of prairie sun. She had an</seg>
+	<seg>aversion to</seg></l>
+<l>intentional space.</l>
+</lg>
+
+<p>Kroetsch's <title level="m">Alberta</title> (1968) is a memoir of
+place that sets up in a nonfictional genre some
+of the same themes that appear in his fiction.
+His essay collection <title level="m">The Lovely Treachery of Words</title> (1989) both explores the work of other
+Prairie writers and sets forth some of the theory
+underlying his own work, while the autobiographical
+essays in <title level="m">A Likely Story</title> (1995)
+further explicate his life and craft. Perhaps
+Kroetsch best explained his aims&#8211;and his
+achievements&#8211;in a 1981 interview in which he
+said that his fiction and poetry "work out
+new relationships" between men and women
+as they develop in the new urban centers of
+the West. Because the Prairies were wiped out,
+"right down to zero," during the Great Depression,
+"we started to invent a new concept
+of self and a new concept of society. Now
+I'm intrigued to watch that developing in the
+Prairies."</p>
+
+<closer>
+<signed>Frances W. Kaye<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lecker, Robert. <title level="m">Robert Kroetsch</title>. Boston: Twayne, 1986.</bibl>
+<bibl>Neuman, Shirley, and Robert Wilson, eds. <title level="m">Labyrinths of Voice: Conversations with Robert Kroetsch</title>. Edmonton:
+NeWest Press, 1982.</bibl> <bibl>Twigg, Alan. "Robert Kroetsch: Male."
+In <title level="m">For Openers: Conversations with 24 Canadian Writers</title>.
+Madeira Park, British Columbia: Harbour Publishing,
+1981, 107–16.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

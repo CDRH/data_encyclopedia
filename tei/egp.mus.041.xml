@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.041">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sainte-Marie, Buffy (b. 1941)</title>
+<title level="m" type="sub"></title>
+<author>Paula Conlon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.041</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Conlon, Paula">Paula Conlon</author>. <title level="a">"Sainte-Marie, Buffy (b. 1941)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">547</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAINTE-MARIE, BUFFY (b. 1941)</head>
+<figure n="egp.mus.041" rend="granted">
+<figDesc>Photograph of Buffy Sainte-Marie</figDesc>
+</figure>    
+
+<p>Buffy Sainte-Marie is a Cree singer-songwriter,
+guitarist, mouth-bow player, artist,
+and educator who was born February 20, 1941,
+at the Piapot Reserve in Saskatchewan, Canada.
+Orphaned when a few months old, she
+was raised by a part Micmac family in Massachusetts
+and later adopted by a Cree family
+related to her biological parents. As a college
+student in the early 1960s, Sainte-Marie became
+known as a social commentator, initially
+in New York's Greenwich Village, then internationally
+in Europe, Canada, Australia, Hong
+Kong, and Japan. Her songs addressing the
+plight of Native American people such as 'My
+Country 'Tis of Thy People You're Dying"
+(1964) generated the most controversy. Several
+of her songs became widely known in versions
+by other artists, including "Until It's Time for
+You to Go" (recorded by Elvis Presley and
+many others), "Up Where We Belong" (the
+theme for the film <title>An Officer and a Gentleman</title>,
+which won an Academy Award in 1983
+for best song), and the antiwar song "The
+Universal Soldier" (used as an anthem for the
+1960s peace movement).</p>
+
+<p>Sainte-Marie is also noted for her work as a
+digital artist and as an educator. Her regular
+performances on the <hi rend="smallcaps">TV</hi> show <title>Sesame Street</title>
+(1975–81) taught countless children that Indians
+still exist. The Cradleboard Teaching Project,
+founded by Sainte-Marie in 1996, enables mainstream
+school systems to communicate with
+Native American communities via computer.
+Currently residing in Hawaii, Sainte-Marie frequently
+travels to make recordings, perform
+concerts, and lecture on a variety of topics, including
+electronic music, digital art, and Native
+American women's issues.</p>
+
+<closer>
+<signed>Paula Conlon<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Miller, Mark. "Buffy Sainte-Marie." In <title level="m">Encyclopedia of Music in Canada</title>, 2nd ed., edited by Helmut Kallman et al.
+Toronto: University of Toronto Press, 1992.</bibl> <bibl>Stawarz, Jean.
+"Songs of Conscience: A Dialogue with Buffy Sainte-
+Marie." <title level="j">Runner</title> (1994): 26-39.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

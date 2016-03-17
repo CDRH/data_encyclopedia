@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pd.047 SYSTEM "egp.pd.047.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Riel, Louis (1844-1885)</title>
+<title level="m" type="sub"></title>
+<author>Raymond J. A. Huel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Huel, James J. A.">Raymond J. A. Huel</author>. <title level="a">"Riel, Louis (1844-1885)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">722-723</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIEL, LOUIS (1844-1885)</head>
+
+<figure n="egp.pd.047" rend="granted">
+<figDesc>Hanging of Louis Riel in effigy, July 1885</figDesc>
+</figure>
+
+<p>Born on October 22 or 23, 1844, in Red River
+Colony (Manitoba), Riel was educated in St.
+Boniface before being sent by Bishop Alexandre
+Tach&#233; to attend the Sulpician College in
+Montreal in the hope that he would become a
+priest. Riel was expelled from the college in
+1865, after which he wrote poetry, read law,
+and spent time in the United States.</p>
+
+<p>Returning to Red River in July 1868, Riel
+quickly became a leader in the agitation that
+was developing over the annexation of the
+Northwest. At his urging, the M&#233;tis established
+a provisional government on December
+8, 1869, to force Canada to negotiate the entry
+of the Northwest into Confederation, and he
+was elected president. In the events that followed,
+a young Ontario Orangeman, Thomas
+Scott, was executed by a M&#233;tis firing squad,
+an act that enraged the people of Ontario. To
+avoid reprisals, Riel fled Red River prior to the
+arrival of a military expedition, and when the
+Ontario provincial government posted a fivethousand-
+dollar reward for the capture of
+those involved in Scott's death, he sought refuge
+in the United States.</p>
+
+<p>Riel was elected three times as a member of
+Parliament for the constituency of Provencher,
+but he never took his seat and was subsequently
+expelled from the House of Commons.
+In December 1875 he underwent a deep
+religious experience that convinced him he
+had a special mission to fulfill. Riel's outward
+manifestations of religiosity resulted in his
+confinement in asylums in Quebec. Upon his
+release in January 1878, Riel went to the United
+States, where he lived with friends. He arrived
+in Montana in 1880, married a M&#233;tis woman,
+Marguerite Monet dit Bellehumeur, acquired
+U.S. citizenship in 1883, and taught school at
+Saint Peter's Mission on the Sun River.</p>
+
+<p>On June 4, 1884, a delegation of M&#233;tis from
+the territorial district of Saskatchewan arrived
+at the mission to ask Riel to return with them
+and champion the cause of the people of the
+Northwest. Riel accepted the invitation and
+returned to Saskatchewan, where he organized
+a movement to pressure the Canadian
+government to redress the grievances of the
+Northwest.</p>
+
+<p>In the meantime, Riel had religious revelations
+and claimed to be a prophet with a mission
+to create a new social order in the Canadian
+Northwest. On March 19, 1885, Riel
+formed a provisional government known as
+the Exovedate, and hostilities broke out a few
+days later. The M&#233;tis eventually were defeated
+at the village of Batoche, and Riel surrendered
+on May 15. He was taken to Regina, where he
+was charged with high treason. He was tried,
+found guilty, and sentenced to death, despite
+the jury's recommendation for clemency. Riel
+was hanged in Regina on November 16, 1885.</p>
+
+<p>His execution contributed to a political revolution
+in Quebec, strained dominion-provincial
+relationships, and furthered the division between
+French and English in Canada. The condemnation
+of Riel's actions by the Catholic
+clergy disappointed the M&#233;tis and contributed
+to the emergence of a distinct M&#233;tis national
+consciousness.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.063">M&#233;tis</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.032">North-West Rebellion</ref>; <ref n="egp.war.037">Red River Resistance</ref>.</p>
+
+<closer>
+<signed>Raymond J. A. Huel<lb/>
+University of Lethbridge</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Flanagan, Thomas. <title level="m">Louis "David" Riel: "Prophet of the
+New World."</title> Toronto: University of Toronto Press, 1996.</bibl>
+<bibl>Stanley, G. F. G., ed. <title level="m">The Collected Writings of Louis Riel/
+Les &#233;crits complets de Louis Riel</title>. Edmonton: University of
+Alberta Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

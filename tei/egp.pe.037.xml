@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.037 SYSTEM "egp.pe.037.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mesquite</title>
+<title level="m" type="sub"></title>
+<author>R. James Ansley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ansley, R. James">R. James Ansley</author>. <title level="a">"Mesquite."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">634-635</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MESQUITE</head>
+
+<p>Mesquite (genus <hi rend="italic">Prosopis</hi>; family Fabaceae) is
+a thorny, woody shrub or tree that inhabits
+many arid and semiarid regions around the
+world. Honey mesquite (<hi rend="italic">P. glandulosa</hi>) is native
+to the Southern Great Plains and is found
+in central and West Texas, western Oklahoma,
+and eastern New Mexico. It has increased in
+density and distribution since the late 1800s.
+Reasons for the increase are controversial but
+may include livestock grazing, reduction of fire
+frequency, climatic change, and increased atmospheric
+carbon dioxide. Mesquite is widely
+regarded as a noxious plant because of its interference
+with livestock production. Control
+efforts since the 1930s have included herbicide,
+mechanical, and prescribed fire treatments.
+Recent research suggests the potential benefits
+of mesquite if managed as a low-density savanna
+plant. Such benefits include wildlife
+habitat, livestock shading, nitrogen fixation,
+and wood products.</p>
+
+<p>Seedpods of this legume are high in soluble
+carbohydrates and are consumed by wildlife
+and domestic livestock. Germination is enhanced
+by animal ingestion and fecal deposition.
+Most initial growth is toward taproot
+development. Potential growth form is fewstemmed
+and arboreal, but destruction of
+aboveground tissue stimulates sprouting from
+meristem at stem bases and causes a multistemmed,
+thorny growth. Leaves are bipinnately
+compound, winter-deciduous, and unpalatable;
+flowering is monoecious.</p>
+
+<p>Mesquite is adapted to a variety of soils and
+environments and can grow a deep taproot as
+well as extensive shallow lateral roots. Water
+use can be phreatophytic (drawing from the
+water table or just above it), but mesquite will
+also grow on shallow-water sites and tolerate
+droughts by minimizing transpiration. Capacity
+to enrich soil fertility through nitrogen
+fixation and canopy shading may significantly
+alter flora beneath canopies. Mesquite may
+serve as a host plant, facilitating establishment
+of other plant species. Generally, dense stands
+of mesquite reduce growth of herbaceous
+plants. Dense stands are thought to reduce
+off-site water yield, but no studies have yet
+verified this.</p>
+
+<closer>
+<signed>R. James Ansley<lb/>
+Texas Agricultural Experiment Station<lb/>
+Vernon, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, J. R., and S. Archer. "Woody Plant Invasion of
+Grasslands: Establishment of Honey Mesquite (<hi rend="italic">Prosopis
+glandulosa</hi> var. on Sites Differing in Herbaceous
+Biomass and Grazing History." <title level="j">Oecologia</title> 80 (1989):
+19-26.</bibl> <bibl>Simpson, B. B., ed. <title level="m">Mesquite: Its Biology in Two
+Desert Ecosystems</title>. <hi rend="smallcaps">US/IBP</hi> Synthesis Series vol. 4. Stroudsberg,PA: Dowden, Hutchinson, &amp; Ross, Inc., 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

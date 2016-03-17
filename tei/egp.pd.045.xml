@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Posse Comitatus</title>
+<title level="m" type="sub"></title>
+<author>Leonard Weinberg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Weinberg, Leonard">Leonard Weinberg</author>. <title level="a">"Posse Comitatus."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">721-722</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POSSE COMITATUS</head>
+
+<p>This extreme right-wing group takes its name
+from the Latin for "power of the county." Its
+founders, Henry Beach and William Potter
+Gale, were radical localists who claimed that
+the county is the highest and only legitimate
+level of government to which citizens owe allegiance.
+it is only the county, they argue,
+headed by a sheriff chosen by the community's
+white male residents, that possesses the right to
+enforce the law. According to Posse doctrine,
+the law itself is derived from the Bible, English
+common law, the Articles of Confederation,
+and, more vaguely, the U.S. Constitution. In
+their minds, no "Jew-dominated" legislature
+or Congress has the ability to make laws that
+"real, white Americans" are obliged to follow.</p>
+
+<p>Beach, a member of the pro-Nazi Silver
+Shirt movement during the 1930s, and Gale, a
+former World War II army officer and a key
+figure in the development of the racist and
+anti-Semitic Christian Identity ideology, organized
+the Posse Comitatus in Portland, Oregon,
+in 1969 in the midst of the Vietnam War
+and the country's racial tensions. But it was
+during the mid-1970s and 1980s, and in the
+Great Plains, that this loosely connected organization,
+whose members sought to retain
+their anonymity, achieved prominence. The
+farm crisis of these years created the conditions
+necessary for their doctrine to attract significant
+support. Such Posse figures as Gordon
+Kahl, a North Dakota farmer, James Wickstrom,
+the Posse's self-proclaimed "counterinsurgency
+director," and Rick Elliot, a Colorado
+dairy farmer who became the publisher of the
+anti-Semitic Primrose and Cattlemen's Gazette
+(its message being that Jews were leading cattlemen
+down the primrose path), crisscrossed
+the region explaining to farmers and ranchers
+why they were under no obligation to repay
+overdue loans or peacefully accept the foreclosure
+of their property. This appealed to some
+indebted and hard-pressed farmers whose entire
+way of life was in jeopardy. At "seminars"
+and on country music radio stations such as
+<hi rend="smallcaps">KTTL-FM</hi> in Dodge City, Kansas, Posse spokesmen
+explained to their listeners that they were
+under no obligation to pay income taxes to a
+fraudulent Internal Revenue Service or abide by
+the judgments of federal or state courts. According
+to a 1976 <hi rend="smallcaps">FBI</hi> report, the Posse had seventyeight
+chapters located in twenty-three states,
+concentrated, for the most part, in the Great
+Plains and the Midwest.</p>
+
+<p>Some Posse figures attempted to transform
+their rhetoric&#8211;about resisting the government
+and cleansing the land&#8211;into reality. Violent encounters
+between law enforcement officers and
+Posse members attracted widespread attention.
+The most notorious of these incidents&#821;it was
+later made into a television film&#8211;involved Kahl,
+who in 1983 shot and killed two deputies in a
+dispute over his failure to pay taxes. He fled to
+Arkansas, where he murdered a local sheriff
+and was then himself killed in the ensuing conflict.
+This was the most dramatic, but hardly
+the only, episode in which Posse members
+threatened or carried out violent attacks on
+individuals they defined as their enemies. Although
+the Posse Comitatus is not as visible
+today as in the past, it continues to be an intermittently
+active faction of antigovernment
+protest.</p>
+
+<closer>
+<signed>Leonard Weinberg<lb/>
+University of Nevada, Reno</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Corcoran, James. <title level="m">Bitter Harvest: Gordon Kahl and the
+Posse Comitatus: Murder in the Heartland</title>. New York: Penguin
+Books, 1990.</bibl> <bibl>George, John, and Laird Wilcox. <title level="m">American
+Extremists</title>. Amherst <hi rend="smallcaps">NY</hi>: Prometheus Books, 1996.</bibl>
+<bibl>Sargent, Lyman Towered, ed. <title level="m">Extremism in America</title>. New
+York: New York University Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

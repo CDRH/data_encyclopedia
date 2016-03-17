@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ellison, Ralph (1911-1994)</title>
+<title level="m" type="sub"></title>
+<author>Venetria K. Patton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Patton, Venetria K.">Venetria K. Patton</author>. <title level="a">"Ellison, Ralph (1911-1994)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">478</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ELLISON, RALPH (1911-1994)</head>
+<figure n="egp.lt.017" rend="granted">
+<figDesc>Portrait photograph of Ralph Ellison</figDesc>
+</figure>
+
+<p>Ralph Waldo Ellison, best known as the author
+of the award-winning novel <title level="m">Invisible Man</title> (1952), was a "Renaissance man": sculptor,
+editor, short-story writer, novelist, jazz
+trumpeter, and photographer. He was born
+March 1, 1914, in Oklahoma City, Oklahoma,
+to Lewis Alfred Ellison and Ida Millsap Ellison.
+The Ellisons had moved to Oklahoma in
+1911 in hopes of finding more opportunities in
+an area free of the severe racism of the Deep
+South. When Ellison was born, Oklahoma
+had only been a state for seven years, and it
+retained its frontier spirit.</p>
+
+<p>Oklahoma had a long history of racism, as
+evidenced by its maintenance of segregated
+schools. Ellison graduated in 1931 from the allblack
+Douglas High School, where he received
+a rigorous training in music. From 1933 to
+1936 Ellison studied music at Tuskegee Institute
+in Alabama. He played first trumpet in
+the school orchestra as well as serving as the
+orchestra's student director.</p>
+
+<p>Ellison decided to spend the summer of
+1936 in New York City in order to earn money
+for the next academic year. He never returned
+to school. While in New York, Ellison met
+Langston Hughes and Richard Wright, who
+encouraged him to write his first story, "Hymie's
+Bull." He then began to write book reviews,
+essays, and short stories, and he served
+as editor of the <title level="j">Negro Quarterly</title> for a short
+time. Ellison's masterwork, <title level="m">Invisible Man</title>, received
+many awards, including the National
+Book Award in 1953.</p>
+
+<p>Besides his novel, Ellison also published
+two essay collections, <title level="m">Shadow and Act</title> (1964)
+and <title level="m">Going to the Territory</title> (1987). He began a
+second novel from which he released several
+sections, but he died April 16, 1994, in New
+York City before it was published. Six unpublished
+short stories that predate <title level="m">Invisible Man</title> were published posthumously.</p>
+
+<closer>
+<signed>Venetria K. Patton<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>O'Meally, Robert G. <title level="m">The Craft of Ralph Ellison</title>. Cambridge:
+Harvard University Press, 1980.</bibl> <bibl>Reckley, Ralph. "Ellison,
+Ralph." In <title level="m">The Oxford Companion to African American Literature</title>, edited by William L. Andrews, Frances Smith
+Foster, and Trudier Harris. New York: Oxford University
+Press, 1997: 129–31.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

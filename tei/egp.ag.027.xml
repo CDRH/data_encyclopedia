@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dryland Farming</title>
+<title level="m" type="sub"></title>
+<author>Michael J. Grant</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grant, Michael J.">Michael J. Grant</author>. <title level="a">"Dryland Farming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">42-43</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DRYLAND FARMING</head>
+
+<p>Dryland farming is practiced in the semiarid
+American Great Plains and Canadian Prairies
+whereby the soil is cultivated in ways that conserve
+precious moisture. For generations European
+Americans coming to the Great Plains
+of North America labored to squeeze the most
+out of a land often short on rainfall.</p>
+
+<p>In the late nineteenth century various factors
+combined to make the Plains a more attractive
+agricultural base. The "closing of the
+American frontier in 1890" (according to the
+Bureau of the Census), rising land prices, and
+subsequent fears of a food shortage led to
+a drive to settle new lands. The populist unrest
+of the 1890s convinced some that lower
+farming costs on cheaper lands could support
+a prosperous class of pioneers. In the United
+States, before World War I, railroads, banks,
+grain elevators, and businesses used modern
+advertising methods to attract farmers to
+new lands in the Plains. In the Canadian Prairies
+the government actively encouraged settlers
+to semiarid lands as well. Higher grain
+prices, and increased land costs in more
+humid areas, propelled thousands of early-twentieth-century pioneers into the Great
+Plains to attempt dryland farming.</p>
+
+<p>Dryland farming theories varied, but at the
+heart of the publicity were claims that farmers
+could cultivate the land to capture and conserve
+the scarce moisture in the Plains soil. It
+was billed as a "climate-free" system of agriculture.
+Dryland farmers used deep plowing
+in the fall to enable grain roots to use the
+moisture, harrowing after rains to allegedly
+conserve moisture under the top soil, packing
+the subsoil to prevent infiltration, and leaving
+fields fallow in the summer. Drought-resistant
+grains, such as Turkey Red wheat and sorghums,
+were promoted. Without conclusive
+proof, supporters publicized dryland-farming
+methods as scientifically feasible. Proponents
+such as Hardy Webster Campbell of South Dakota
+and the Dry Farming Congress assured
+settlers that the western Plains and Prairies
+could be broken and profitably farmed using
+this system. In 1909 and 1910 Congress passed
+the Enlarged Homestead Acts, giving each settler
+320 acres of free land on which to build a
+dry-farming empire. Marginal areas in North
+Dakota, eastern Montana, and the western
+Southern Plains exploded with settlers, cattle,
+and acreage brought into cultivation.</p>
+
+<p>Dry-farming methods offered a mixed performance
+after World War I. During the early
+1920s some farm experts believed that, despite
+the harsh climate and irregular rains, farmers
+could use drought-resistant wheat strains, relatively
+cheap operating costs (enabled by new
+machines), and large-scale acreages to make
+profits. However, after World War I the hazards
+of pushing conventional farming into the
+semiarid zones of the Plains became increasingly
+apparent. Periodic drought and low
+grain prices bankrupted thousands of dryland
+farmers. Up to three-quarters of those who
+homesteaded in some areas of the Northern
+Plains before World War I left their claims by
+the early 1920s. The ensuing drought and depression
+of the 1930s were also disastrous as
+thousands more farm families, lured by the
+promise of cheap lands and quick profits in
+the 1910s and 1920s, were forced off the land.
+Many of these farms were simply deserted. In
+Garfield County, for example, in the rangeland
+and dry farming country of eastern Montana,
+the population dropped from 5,368 in
+1920 to 4,252 in 1930 and 2,641 in 1940, and it
+has been going down ever since.</p>
+
+<p>Today, much of the land opened for dryland
+farming before World War I has reverted
+back to grazing or has been added to the national
+grassland system. However, adaptive
+farm families on large acreages using modern
+machinery and methods can still reap
+large crops of wheat, even in years affected by
+drought. Those who have the savings, capital,
+and are supported by government agricultural
+programs can manage some profits and stability.
+Despite the marginal environment and
+fluctuating grain prices, dryland farming still
+supports Plains farm families, but their numbers
+are dwindling.</p>
+
+<closer>
+<signed>Michael J. Grant<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hargreaves, Mary W. M. <title level="m">Dry Farming in the Northern
+Great Plains, 1900–1925</title>. Cambridge: Harvard University
+Press, 1957.</bibl> <bibl>Hargreaves, Mary W. M. <title level="m">Dry Farming in the
+Northern Great Plains: Years of Readjustment, 1920–1990</title>.
+Lawrence: University Press of Kansas, 1993.</bibl> <bibl>Jones, David
+C. <title level="m">Empire of Dust: Settling and Abandoning the Prairie Dry
+Belt</title>. Edmonton: University of Alberta Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

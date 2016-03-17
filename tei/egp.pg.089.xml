@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.089">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wyoming</title>
+<title level="m" type="sub"></title>
+<author>Michael J. Devine</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.089</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Devine, Michael J.">Michael J. Devine</author>. <title level="a">"Wyoming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">695</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WYOMING</head>
+
+<p>With an unforgiving climate, arid plains,
+rugged mountains, and scarce deposits of precious
+metals, Wyoming was one of the final
+western states organized for statehood. The
+98,000 square miles that would become the
+forty-fourth state came to the United States as
+a result of the Louisiana Purchase of 1803, the
+settlement of the disputed Oregon boundary
+line with Great Britain in 1846, and the Mexican
+cession of 1848 under terms of the Treaty
+of Guadalupe Hidalgo.</p>
+
+<p>John Colter, a member of the Lewis and
+Clark expedition (1804-6) who set off on his
+own to explore the Rocky Mountains, was
+probably the first white American to visit
+what is now the state of Wyoming (although
+the Verendrye brothers, Louis-Joseph and
+Francois, may have pushed that far west in
+1742-43). When he returned in 1807, Colter
+told fantastic stories of the wonders he had
+seen in the Yellowstone region. Colter was followed
+by numerous trappers and adventurers
+who trapped and traded in the Rocky Mountains.
+By the late 1840s thousands of settlers
+were annually crossing what some considered
+the "Great American Desert" on their way to
+California's gold fields, the Mormon Zion at
+the Great Salt Lake, or the greener pastures of
+Oregon territory. However, few stayed to endure
+Wyoming's harsh winters. In 1851 a council
+at Fort Laramie, conducted by Thomas
+Fitzpatrick and assisted by Jesuit missionary
+priest Father Pierre De Smet, secured permission
+from several Native American leaders for
+the safe passage of pioneers across Indian
+lands in return for a promise of annuities
+from the U.S. government. Following an outbreak
+of warfare in 1865 along the Bozeman
+Trail, intermittent conflicts persisted until the
+tribal alliance under Sitting Bull was defeated
+in 1876. Meanwhile, to protect and govern the
+remote white settlements along the Union Pacific
+route, the Wyoming Territory had been
+created in 1868 by carving off the western section
+of the Dakota Territory and including
+parts of what is now Utah and Idaho.</p>
+
+<p>Territorial government for Wyoming was
+organized on May 19, 1869, in Cheyenne. On
+December 10, 1869, in an unsuccessful effort to
+encourage female settlers, the first territorial
+legislature adopted an act granting women the
+right to vote. The following year, census figures
+showed 9,000 inhabitants (not including Native
+Americans), mostly located in small communities
+or cattle ranches along the newly
+completed Union Pacific Railroad line that traversed
+the southernmost part of the territory.
+Recognizing the uniqueness of the Yellowstone
+region, the northwest corner of Wyoming was
+designated by the federal government as the
+nation's first national park in 1872. Cattle
+ranching, and later sheep ranching, soon followed
+the rail lines and spread northward as
+the Native American resistance faded. In 1886
+the territorial legislature established the University
+of Wyoming, which remains the state's
+only baccalaureate and graduate school (seven
+regional "community colleges" were created
+after World War II). In 1890 Wyoming's representative
+to Congress, Joseph M. Carey, claiming
+the territory had more than 100,000 residents,
+introduced enabling legislation in the
+U.S. House of Representatives seeking statehood,
+and on July 10 the Wyoming Statehood
+Act was signed by President Benjamin Harrison.
+An official census conducted that year
+would show Wyoming's actual population to
+be only 62,555.</p>
+
+<p>Wyoming's politics are generally conservative
+and independent-minded, with Republicans
+usually controlling the legislative and
+statewide elected offices. Until court-ordered
+reapportionment of the Senate in 1965, rural
+interests, headed by the Wyoming Stock Growers
+Association, dominated statehouse politics.
+Although Wyoming's constitution has been
+amended or altered more than sixty times, it
+remains essentially the same as drafted in 1889,
+providing for a bicameral legislature (sixty
+representatives and thirty senators), which
+meets for a forty-day session beginning in
+January in odd-numbered years, and for a
+twenty-day session in even-numbered years to
+consider and adopt a budget. The state constitution
+also granted full voting rights to
+women, the only state to do so at that time,
+earning for Wyoming the name "Equality
+State." The constitution provides for an elected
+governor, who serves a four-year term, but no
+lieutenant governor (the secretary of state is
+next in line of succession). Other elected executive
+officers include a superintendent of
+public instruction, auditor, and treasurer. The
+state supreme court consists of five justices
+elected to terms of eight years.</p>
+
+<p>Petroleum production, mining (especially
+coal in the Powder River Basin), and natural
+gas provide the basis of Wyoming's economy.
+Although Wyoming still proudly calls itself
+the "Cowboy State," the agricultural sector
+produces less revenue and offers fewer jobs
+than the state's mineral industry or its tourism
+industry, which attracts several million visitors
+each summer to Yellowstone Park, Devils
+Tower, and other scenic vistas, and winter
+sports enthusiasts to Wyoming's mountains
+during the long snowy months. Because of a
+reliance on extractive industries, particularly
+oil drilling, for its tax base, Wyoming has always
+been vulnerable to booms and busts.
+With the decline of oil prices in the 1980s,
+Wyoming's population, already the smallest of
+any state in the nation, declined to 456,000 in
+1990, but rose to 494,000 in 2000.</p>
+
+<p>Wyoming's most notable political leaders
+include Chief Washakie (c. 1801-1900) of the
+Shoshones, who maintained peaceful relations
+with whites and settled his people on the
+Wind River Reservation in central Wyoming;
+Nellie Tayloe Ross (1876-1977), who in 1924
+was the first woman elected as governor of a
+state; and Richard "Dick" Cheney (b. 1941),
+who served as chief of staf to President Gerald
+R. Ford (1974-76), Wyoming's lone representative
+to the U.S. House (1979-89), secretary
+of defense (1989-1993) in the George Bush administration,
+and the vice president of the
+United States in the George W. Bush administration
+in 2000.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.039">V&#233;rendrye Family</ref>.</p>
+
+<closer>
+<signed>Michael J. Devine<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gould, Lewis L. <title level="m">Wyoming: From Territory to Statehood</title>.
+Worland <hi rend="smallcaps">WY</hi>: High Plains Publishing Company, 1989.</bibl> <bibl>Larson,
+Taft Alfred. <title level="m">History of Wyoming</title>. Lincoln: University
+of Nebraska Press, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

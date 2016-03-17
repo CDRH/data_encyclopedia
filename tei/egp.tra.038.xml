@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.tra.038 SYSTEM "egp.tra.038.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Travois</title>
+<title level="m" type="sub"></title>
+<author>Norman Henderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henderson, Norman">Norman Henderson</author>. <title level="a">"Travois"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">812-813</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRAVOIS</head>
+
+<figure n="egp.tra.038" rend="granted">
+<figDesc>Husky and travois</figDesc>
+</figure>
+
+<p>Unique to the Plains, the travois is a wooden
+load-bearing frame fastened by a leather harness
+to a dog or horse. The basic dog travois
+consists of two aspen or cottonwood poles
+lashed together at one end with buffalo sinew.
+The other ends rest splayed apart. Crossbars
+are lashed between the poles near the splayed
+ends. The finished frame looks like a large letter
+A with extra crossbars. The apex of the A,
+wrapped in buffalo skin to prevent friction
+burns, rests on a dog's shoulders, while the
+splayed ends drag over the ground.</p>
+
+<p>Used by Plains Indian nations, travois were
+perfectly suited to their environment. Over
+native grasslands the dragging travois ends
+sweep silently and nearly without friction;
+they appear almost to float through the same
+prairie that cracks and breaks wheel axles.
+Outside of grasslands the travois is not much
+use, for bush and gullies are impassable.</p>
+
+<p>Native women both built the travois and
+managed the dogs, sometimes using toy travois
+to train puppies. Bison meat and firewood
+were typical travois loads. Dogs could
+tack up and down grassy hill slopes and ford
+shallow rivers with a travois. But temperature
+was a serious constraint on travois work, for
+on warm days dogs overheated easily.</p>
+
+<p>In historic times Plains Indians constructed
+much larger versions of the dog travois and
+hitched them to horses. Horse travois allowed
+the transport of the increased material wealth
+accumulated by some Native nations skilled in
+the mounted bison hunt. Children or ill adults
+could ride on the horse travois load rack as
+well. Their rack ride was smooth, but the legs
+of the saddle-rider, typically female, hung uncomfortably
+over the travois poles.</p>
+
+<closer>
+<signed>Norman Henderson<lb/>
+University of East Anglia, England</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ewers, John. <title level="m">The Horse in Blackfoot Indian Culture</title>. Bureau
+of American Ethnology Bulletin 159. Washington <hi rend="smallcaps">DC</hi>:
+Smithsonian Institution, 1955.</bibl> <bibl>Henderson, Norman.
+"Replicating Dog Travois Travel on the Northern Plains."
+<title level="j">Plains Anthropologist</title> 39 (1994): 145–59.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

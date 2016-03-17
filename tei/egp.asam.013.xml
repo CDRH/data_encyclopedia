@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.asam.013 SYSTEM "egp.asam.013.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.asam.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hosokawa, William (b. 1915)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.asam.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Hosokawa, William (b. 1915)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">143-144</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOSOKAWA, WILLIAM (b. 1915)</head>
+
+<figure n="egp.asam.013" rend="granted">
+<figDesc>William Hosokawa, January 1943</figDesc>
+</figure>
+
+<p>William K. Hosokawa was not born in the
+Great Plains&#8211;he was born on January 30, 1915,
+in Seattle, Washington&#8211;but he moved to the
+region as a young man and spent more than
+forty years as an award-winning journalist for
+the Denver Post and historian for the Japanese
+American Citizens League (<hi rend="smallcaps">JACL</hi>).</p>
+
+<p>Hosokawa's parents were first-generation
+Japanese immigrants (<hi rend="italic">issei</hi>). As a youngster
+Hosokawa spoke Japanese and did not learn
+English until he attended public school. From
+an early age he had an interest in writing.
+He served as the sports editor for his high
+school newspaper and later at the University
+of Washington wrote for the student newspaper
+and for Seattle's <title level="j">Japanese American Courier</title>. After graduating in 1937 with a bachelor's
+degree in liberal arts and a minor in
+journalism, the young journalist married Alice
+Tokuko Miyake and moved to Asia where
+he worked as managing editor for the <title level="j">Singapore Herald</title> (1939–40) and then as a writer
+for the <title level="j">Shanghai Times</title> (1940–41). With tensions
+increasing between the United States
+and Japan in 1941, however, Hosokawa returned
+to Seattle just weeks before Pearl Harbor.</p>
+
+<p>Like most West Coast <hi rend="italic">nisei</hi> (second-generation
+Japanese Americans) Hosokawa and his
+family were forced from their Seattle home
+by the federal government and sent to internment
+camps. While being held at the
+Heart Mountain Relocation Camp in Wyoming,
+Hosokawa continued writing by editing
+the camp newspaper. Hosokawa was released
+in 1943 and took a job in Iowa as a copy editor
+for the <title level="j">Des Moines Register</title>. In 1946 he moved
+his family to the Great Plains, where he began
+a long career with the <title level="j">Denver Post</title>. Throughout
+his newspaper career there he held a variety
+of positions: war correspondent in Korea
+(1950) and Vietnam (1964), associate editor
+(1963–77), editorial page editor (1977–83),
+and columnist (1983–92). Hosokawa also
+taught journalism at the University of Northern
+Colorado, University of Colorado, and
+University of Wyoming.</p>
+
+<p>Hosokawa has written several important
+books on the Japanese American experience.
+His most important works include <title level="m">Nisei: The Quiet Americans</title> (1969) and <title level="m"><hi rend="smallcaps">JACL</hi> in Quest of
+Justice</title> (1982), both of which chronicle the history
+of the Japanese American Citizens League
+and its quest for redress for internment during
+World War II. He also coauthored <title level="m">They Call Me Moses Masaoka</title> (1987) with Mike Masaoka,
+the leader of the <hi rend="smallcaps">JACL</hi>. Hosokawa has won
+awards from the Colorado Society of Professional
+Journalists (1976) and the Denver Press
+Club (1985), and in 1990 he received an honorary
+doctorate from the University of Denver.
+Hosokawa is retired and lives in Denver.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MEDIA</hi>: <ref n="egp.med.015"><hi rend="italic">Denver Post</hi></ref>.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ranch Architecture</title>
+<title level="m" type="sub"></title>
+<author>Timothy H. Evans</author>
+<author>Eileen F. Starr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Evans, Timothy H.">Timothy H. Evans</author> and <author n="Starr, Eileen F.">Eileen F. Starr</author>. <title level="a">"Ranch Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">91-92</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RANCH ARCHITECTURE</head>
+
+<p>Great Plains ranches can best be viewed as a
+built environment consisting of hay fields,
+pastures, ditches, corrals, fences, dugouts,
+wells, roads, and a variety of buildings. The
+ranch landscape is, in turn, an integral part of
+a broader ranch culture that includes occupational
+skills such as branding and fencing,
+traditional crafts such as saddle making and
+cooking, folk art forms such as barn dances
+and yard art, esoteric folk speech, and many
+other elements.</p>
+
+<p>Plains ranch culture has its origins in Mexican
+haciendas, which were well established in
+southern Texas by the 1700s. Haciendas were
+large land grants with complexes of buildings
+that were essentially villages, including a large
+house and many outbuildings, cisterns, wells,
+ditches, fences, and corrals. Often the haciendas
+also included a church.</p>
+
+<p>American ranchers in Texas continued to
+organize their ranches this way, since the hacienda
+was well adapted to the Great Plains
+environment and to ranching. As ranches
+spread north onto the Central and Northern
+Plains in the late nineteenth century, migrants
+from the East, South, Midwest, and Europe
+brought traditional forms and technologies
+that influenced the architecture.</p>
+
+<p>Typically, the earliest ranchers relied on
+readily available construction materials such
+as wood, stone, mud, and sod. Ranchers also
+built with scrap material: unused buildings
+were torn down for their materials or moved
+to a neighboring ranch, a tradition that persists
+today. With the arrival of railroads in the
+1860s, the choice of construction materials
+and of plans for ranch buildings expanded
+dramatically. Mass-produced products such
+as windows, doors, molding, and construction
+materials changed the character of ranch
+architecture. Land-grant universities produced
+numerous publications through their
+experiment stations and extension offices, as
+did agricultural journals. By the twentieth
+century, information on scientific farming
+and ranching practices from both academic
+and popular sources ordered designs for barns,
+poultry houses, corrals, and other buildings.
+The Midwest Plan Service, a consortium of
+universities that shared agricultural information,
+including building plans, began in the
+1920s. It continues to order plans of pole barns
+and many other structures today.</p>
+
+<p>The architecture and arrangement of
+ranches are, above all, utilitarian. Buildings
+tend to be clustered parallel and perpendicular
+to each other, in a linear or rectilinear plan.
+Most open toward the entrance of the cluster;
+some open toward its center. Barns and stables,
+with their attached systems of corrals and
+outbuildings, are most often located in front
+of the living area, so that a visitor passes them
+on the way to the house. The living area, including
+house and bunkhouse, is set farther
+back and often surrounded by trees and gardens.
+Ranch buildings tend to be near streams
+or rivers or at least a well, and irrigated hay
+fields are adjacent to the buildings. Unirrigated
+pasturelands are farther out, with line
+cabins (distant shelters for ranch hands) if the
+ranch is big enough to need them.</p>
+
+<p>Within ranch complexes, the number and
+type of buildings vary according to the function
+of the ranch (sheep, horse, cattle, cowcalf,
+or yearling), the size of the ranch, the
+date of construction, the ethnic origin of the
+builder, and the location. Generally, the number
+of buildings has decreased from the nineteenth
+century on, as rural electrification and
+the availability of consumer goods have reduced
+the necessity for specialized structures
+such as icehouses, root cellars, and blacksmith
+shops.</p>
+
+<p>Like other ranch buildings, houses were
+functional. Often, a homesteader's cabin was a
+single room or dugout made from available
+materials such as sod, dimension lumber, or
+railroad ties. Before widespread industrialization,
+traditional forms passed down through
+generations dictated the overall plan of ranch
+houses. They were not always simple, however;
+in southeastern Wyoming, for example,
+wealthy British remittance men built elaborate,
+stylish mansions. At successful ranches,
+fashionable houses were constructed from designs
+found in pattern books, with manufactured
+decorations. Only occasionally were architects
+retained to design individual houses
+or barns.</p>
+
+<p>Barns, stables, loafing sheds (which afford
+protection for animals), and the networks of
+fences and corrals to which they are connected
+are the working heart of most ranches. The
+appearance and design of a barn depend upon
+the barn's function and construction materials,
+the ethnicity of the builder, and the latest
+trends in the scientific agricultural community.
+Most ranch barns are used to keep horses
+and store hay, tack, and other equipment, including
+tractors. Common barn types include
+three-bay barns and transverse-crib barns,
+which range in length from three cribs to as
+many as twenty. As with houses, earlier barns
+tended to follow folk modes, while later barns
+were often built with manufactured components and influenced by academic and government
+publications. Technological changes
+over time such as the addition of silos or
+mechanized hay carriers and forks affected
+the design. Large barns may also serve as social
+centers, where ranch families gather for
+dances.</p>
+
+<p>Ranches may have many other outbuildings,
+including sheds of various kinds, openfaced
+stables, dugouts used for storage, chicken
+coops, springhouses, storehouses, and garages.
+Ranches also have a variety of fences and corrals,
+loading docks, gates, ditches for irrigation
+of hay fields, hay stackers, windmills, water
+tanks, and cisterns. Some structures such as
+dance halls, corrals for spring brandings and
+auctions, rodeo grounds, and dipping vats reflect
+the communal activities that take place at
+ranches.</p>
+
+<p>Like any business, ranching has changed
+with the times. Many modern ranches have
+prefabricated trailers, modular houses, or
+Quonset huts. Older buildings may be abandoned,
+moved, put to other uses, or torn
+down to save on property taxes. Although
+most ranches still have horses, motorized vehicles
+have reduced their numbers and made
+large horse barns unnecessary. Many traditions
+persist, however, including overall organization.
+Computers and other new technology,
+changes in public land policies, the
+increased importance of agribusiness, and
+other factors will continue to change the face
+of Plains ranching.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.019">Cattle Ranching</ref>; 
+<ref n="egp.ag.054">Ranches</ref>.</p>
+
+<closer>
+<signed>Timothy H. Evans<lb/>
+Western Kentucky University<lb/>
+Eileen F. Starr<lb/>
+National Park Service</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Graham, Joe S. <title level="m">Hecho en Tejas: Texas-Mexican Folk Art and Crafts</title>. Denton: University of North Texas Press, 1991.</bibl>
+<bibl>Noble, Allen G. <title level="m">Wood, Brick and Stone: The North American Settlement Landscape</title>. Amherst: University of Massachusetts
+Press, 1984.</bibl> <bibl>Starrs, Paul F. <title level="m">Let the Cowboy Ride: Cattle Ranching in the American West</title>. Baltimore <hi rend="smallcaps">MD</hi>:
+Johns Hopkins University Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

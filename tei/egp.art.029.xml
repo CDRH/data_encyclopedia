@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Greener, Charles Theodore (1870-1935)</title>
+<title level="m" type="sub"></title>
+<author>John E. Miller</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Miller, John E.">John E. Miller</author>. <title level="a">"Greener, Charles Theodore (1870-1935)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">118</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILLER, JOHN E. (1870-1935)</head>
+
+<p>Charles Theodore Greener's oil paintings of
+the area surrounding his Redfield, South Dakota,
+home made him a leading regional artist
+during the early twentieth century. His realistic
+prairie landscapes, painted in soft brush
+strokes, capture the beauty of the region's
+wide-open spaces, depict panoramic sunsets
+and sunrises, and render ordinary scenes that
+include geese, coyotes, hunting dogs, and
+other inhabitants of the Plains.</p>
+
+<p>Greener was born on March 16, 1870, in a
+log house in Grant County, Wisconsin, the
+second oldest of seven children of Christian
+and Albina Greener. The family moved to
+Hand County, Dakota Territory, in 1883 and
+eight years later settled in Faulkton, which
+Greener made his home for the rest of his life.
+Largely self-taught as an artist, he received formal
+training at the University of North Dakota
+and at schools in Cincinnati, Minneapolis,
+and Galesburg, Illinois. His work was
+displayed at the World's Columbian Exposition
+in Chicago in 1893. In 1906 Faulk County
+commissioned him to paint the murals for its
+new courthouse. He was one of two artists
+representing South Dakota in 1915 at the St.
+Paul Institute's first survey of northwestern
+painting, and he gained national recognition
+in 1932 by being selected for an exhibit entitled
+<title>The American Scene</title> in Indianapolis.</p>
+
+<p>Greener supplemented his small income
+from commissions and sales of his paintings
+through a variety of business ventures, including
+a photo shop and a combined novelty and
+grocery store. In 1900 he married W. Florence
+Jones; they had one child, Dorothy. He engaged
+actively in community affairs, serving as
+a deacon in the Congregational church, singing
+in the church choir, and joining the Masonic
+Lodge. He was a member of the city
+council at the time of his death on July 4, 1935.</p>
+
+<closer>
+<signed>John E. Miller<lb/>
+South Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lewis, Dale. "Early South Dakota Artist Is Regaining Popularity."
+<title level="j">Dakota West</title> 12 (1986): 20–22.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

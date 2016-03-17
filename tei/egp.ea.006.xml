@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Czechs</title>
+<title level="m" type="sub"></title>
+<author>Bruce M. Garver</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Garver, Bruce M.">Bruce M. Garver</author>. <title level="a">"Czechs."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">228</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CZECHS</head>
+
+<p>Czechs were among the largest groups of continental
+European immigrants to settle on the
+American Great Plains from 1865 through
+1914. Of the more than 620,000 Americans
+who reported Czech to be their mother tongue
+in the 1920 census, 22.8 percent, or 141,782,
+lived in the six Great Plains states from Texas
+through North Dakota. Ten years earlier,
+125,140 citizens in the same states constituted
+23.6 percent of all Czech Americans nationwide.
+Of the latter group, 72.8 percent resided
+in Nebraska and Texas and the remaining 27.2
+percent in Oklahoma, Kansas, and the Dakotas.
+An additional 5,308 Czech Americans in
+1910 lived in the states of New Mexico, Colorado,
+Wyoming, and Montana. Of these residents,
+a majority had settled on the High
+Plains. Within the above ten states, at least
+90 percent of all Czech Americans resided
+east of the 100th meridian and primarily
+in eastern and southeastern Nebraska, eastcentral
+Texas, central Oklahoma, northcentral
+Kansas, southeastern South Dakota,
+and eastern North Dakota. Almost all of these
+citizens lived on farms or in small towns. In
+this enormous ten-state area, the only city
+with a large Czech American population was
+Omaha, which ranked fourth nationally in
+this regard after Chicago, Cleveland, and New
+York City. From the 1870s to the 1950s Omaha
+was second only to Chicago as an American
+Czech-language publishing center and home
+to the Hospod&#225;r, the largest Czech-language
+agricultural periodical in the world.</p>
+
+<p>By contrast, few Czechs migrated to the Canadian
+Plains, or to Canada as a whole, before
+U.S. immigration quotas in 1921 and 1924
+made Canada a more attractive destination.
+The 1921 census put the national Czech population
+at only 8,840. Yet Czechs were present in
+the Canadian Plains as early as the 1880s: Kolin
+in Saskatchewan was probably the first settlement.
+By the early twentieth century Winnipeg
+had a significant Czech population.
+Most of these early settlers were farmers,
+miners, and artisans. Among the Czechs who
+migrated to the Prairie Provinces in the 1920s
+were sugar beet farmers who settled around
+Lethbridge, Alberta.</p>
+
+<p>Like many European immigrants of the period
+1865 through 1914, most Czechs departed
+from regions characterized by "agricultural
+overpopulation." The typical Czech immigrant
+couple left a farm of ten to fifty acres
+in size that was not large enough to support
+a family. Other landless Czech immigrants
+seldom had capital and usually sought employment
+in large industrial cities, notably
+Chicago, where one in four Czech Americans
+resided by 1920. In the trans-Missouri
+West, Bohemian Czechs predominated in Nebraska,
+South Dakota, Kansas, and Oklahoma,
+whereas Moravian Czechs were more
+numerous in Texas and North Dakota.</p>
+
+<p>Czech immigrants were divided not only by
+social class, occupation, and regional origin
+but also by religious differences. At least half
+of all Czech immigrants up to 1914 were "freethinkers"
+(<hi rend="italic">svobodomysln&#233;</hi> <hi rend="italic">Cesi</hi>) who chose
+not to affiliate with any organized religion and
+who established fraternal and benevolent associations
+to advance many of the same goals
+as those promoted by churches: fellowship,
+community solidarity, and civic service. Outstanding
+among these associations were the
+Sokol, dating from 1862 in Bohemia and 1864
+in the United States, and the various benevolent
+associations, including the CSPS (<hi rend="italic">Ceskoslovansk&#253; podporuici spolek</hi> or Czecho-Slavic
+Benevolent Society) and its trans-Mississippi
+offshoots and rivals, the <hi rend="italic">ZCBJ</hi> (<hi rend="italic">Z&#225;padni cesk&#225;
+bratrsk&#225; jednota</hi> or Western Bohemian Fraternal
+Association), founded in Omaha in 1897,
+and the <hi rend="italic">SPJST</hi> (<hi rend="italic">Slovansk&#225; podporuici jednota
+st&#225;tu Texasu</hi> or Slavonic Benevolent Order of
+the State of Texas), founded in 1898 and affectionately
+referred to as the "Special People
+Jesus Sent to Texas." The founding of the <hi rend="italic">ZCBJ</hi>
+by trans-Mississippi members of the <hi rend="italic">CSPS</hi> reflected
+their desire to admit women to membership
+on the same terms as men and to obtain
+lower insurance premiums for western
+lodge members, who tended to be younger
+and have longer life expectancies than eastern
+industrial workers.</p>
+
+<p>Nearly half of all Czech immigrants were
+practicing Catholics, who established Czechspeaking
+parishes in almost all urban and
+rural areas with sizable Czech populations.
+Protestants numbered no more than 5 percent
+of the Czech American population and organized
+independent congregations only in
+Texas. In the other Great Plains states, fledgling
+Czech Protestant congregations developed
+with the support of mainline Protestant
+denominations, notably the Presbyterians. After
+several decades of acculturation, tens of
+thousands of Czech freethinkers and their descendants
+joined liberal Protestant denominations
+or returned to their ancestral Catholic
+faith. Czech-speaking Jews usually a.liated
+with local synagogues and other Jewish organizations,
+and some, like the Rosewater and
+Brandeis families in Omaha, rose to positions
+of political and commercial leadership.</p>
+
+<p>Similar social, occupational, and religious
+divisions were evident among the tens of thousands
+of Czech immigrants who came to the
+United States immediately after World War I
+and before the immigration quotas. The most
+recent waves of Czech immigrants&#8211;in 1938–
+39, 1948, and 1968&#8211;fled Nazi or Communist
+oppression and included a larger percentage
+of professional and managerial people. These
+waves flowed heavily into the largest American
+and Canadian metropolitan areas.</p>
+
+<p>Three times&#8211;after 1914, 1939, and 1948&#8211;
+Czech Americans, regardless of occupation
+or religious outlook, made common cause
+with a majority of Slovak Americans. Their
+first joint effort supported the Czechoslovak
+National Council abroad during World War I
+in its successful effort to establish an independent
+Czechoslovak republic. In early September
+1914 Czech Americans in Omaha conducted
+the first public subscription of funds
+to support Czech interests against the Austro-
+Hungarian government. The Czech National
+Bazaar of Freedom (<hi rend="italic">Cesk&#253; n&#225;rodn&#237; bazar
+swobody</hi>) in Omaha in September 1918 was the
+largest of many American fundraisers for the
+Czechoslovak independence movement led by
+T. G. Masaryk.</p>
+
+<p>After Nazi Germany's occupation of Bohemia
+and Moravia on March 15, 1939, Americans
+of Czech and Slovak ancestry, including
+Roman Hruska from Nebraska, met at the
+University of Chicago to help former Czechoslovak
+president Edvard Bene¡s organize a
+Czechoslovak government in exile and work
+for the restoration of Czechoslovak independence.
+Similarly, during the cold war, many
+Czech American and Slovak American organizations
+welcomed immigrants who had fled
+from Czechoslovakia after the Czechoslovak
+communist coup of February 1948. These organizations
+also helped expose Czechoslovak
+communism's ongoing corruption, mendacity,
+and disregard for human rights. The restoration
+of democracy and a market economy to
+the Czech Republic and Slovakia after November
+1989 facilitated an intensification of
+personal and institutional contacts between
+Americans of Czech ancestry and the citizens
+of the Czech Republic.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.013">Czech Architecture</ref>.</p>
+
+<closer>
+<signed>Bruce M. Garver<lb/>
+University of Nebraska-Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Garver, Bruce. "Czech-American Freethinkers on the
+Great Plains, 1871–1914." In <title level="m">Ethnicity in the Great Plains</title>,
+edited by Frederick Luebke. Lincoln: University of Nebraska
+Press, 1980: 147–69.</bibl> <bibl>Gellner, John, and John
+Smerek. <title level="m">The Czechs and Slovaks in Canada</title>. Toronto: University
+of Toronto Press, 1968.</bibl> <bibl>Jerabek, Esther. <title level="m">Czechs and Slovaks in North America: A Bibliography</title>. New York:
+Czechoslovak Society of Arts and Sciences in America and
+Czechoslovak National Council of America, 1976.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

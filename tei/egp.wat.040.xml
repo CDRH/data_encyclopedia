@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wild and Scenic Rivers</title>
+<title level="m" type="sub"></title>
+<author>Dan Haas</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Haas, Dan">Dan Haas</author>. <title level="a">"Wild and Scenic Rivers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">866-867</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WILD AND SCENIC RIVERS</head>
+
+<p>In 1968 the U.S. Congress created the National
+Wild and Scenic Rivers System. Intended to
+protect selected rivers exhibiting "outstandingly
+remarkable" values, the Wild and Scenic
+Rivers Act declared, "the established national
+policy of dam and other construction . . .
+needs to be complemented by a policy that
+would preserve other selected rivers . . . in
+their free-flowing condition to protect the water
+quality . . . and to fulfill other vital conservation
+purposes." Federal agencies and others
+involved in river conservation have long debated
+whether the intent of Congress was to
+establish a system that would protect only a
+few "crown jewel" rivers, or whether rivers
+representing all physiographic regions of the
+country and all various river types should be
+included. Whatever the congressional intent,
+what cannot be overlooked is that few of the
+rivers of the Great Plains have received this
+unique protection since 1968. Through 1998,
+only parts of three rivers&#8211;the Upper Missouri
+in Montana, the Missouri between South Dakota
+and Nebraska, and the Niobrara in Nebraska&#8211;have
+been included in the National
+Wild and Scenic Rivers System.</p>
+
+<p>This lack of wild and scenic river designations
+is an indicator of socioeconomic values
+rather than a reflection on the quality of rivers
+in the Great Plains. Wild and scenic rivers tend
+to be concentrated in areas where there is a
+great deal of public land&#8211;for example, Alaska
+and the Pacific Northwest&#8211;where concerns
+over impacts on private lands are less pronounced.
+This is not to say, however, that rivers
+of the Great Plains are less deserving of inclusion
+in the National Wild and Scenic Rivers
+System. In January 1982, the National Park Service
+released the Nationwide Rivers Inventory
+that identified rivers that, at first inspection,
+were potentially eligible for designation.
+Through this and subsequent revisions, more
+than fifty rivers within the Great Plains have
+been identified as deserving further study or
+consideration as wild and scenic rivers.</p>
+
+<p>The designated wild and scenic rivers in the
+Great Plains, and those listed on the Nationwide
+Rivers Inventory, are generally characterized
+by abundant plant and animal species diversity
+due to the presence of water and travel
+corridors. Humans were also drawn to Great
+Plains rivers: the designated rivers have important
+cultural and historical significance,
+such as the route of Lewis and Clark along the
+Missouri River and the cultural landscape of
+ranching along the Niobrara River. It should
+be noted, however, that human impacts are
+not readily apparent within the designated
+boundaries of these rivers; they were designated
+in large part because they represent presettlement
+conditions.</p>
+
+<p>Canada also has a national rivers program.
+Established in 1984, the Canadian Heritage
+Rivers System is a cooperative program, developed
+and run by the federal, provincial, and
+territorial governments. As established, the
+program has little regulatory authority, instead
+relying on the foresight and good intentions of
+the involved governments. The objectives of
+the program are to give national recognition
+to Canada's outstanding rivers and to ensure
+long-term management and conservation of
+their natural, cultural, historical, and recreational
+values. None of the Prairie Provinces'
+rivers has received Heritage River designation
+to date.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.043">Niobrara Ecotone</ref>.</p>
+
+<closer>
+<signed>Dan Haas<lb/>
+National Park Service</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Coyle, Kevin J. <title level="m">The American Rivers Guide to Wild and
+Scenic River Designation: A Primer on National River Conservation</title>.
+Washington <hi rend="smallcaps">DC</hi>: American Rivers, 1988.</bibl> <bibl>Interagency
+Wild and Scenic Rivers Coordinating Council.
+<title level="m">Wild and Scenic Rivers Reference Guide</title>. Washington <hi rend="smallcaps">DC</hi>:
+U.S. Departments of the Interior and Agriculture, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

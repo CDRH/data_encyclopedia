@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trans-Canada Highway</title>
+<title level="m" type="sub"></title>
+<author>William R. Horne</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Horne, William R.">William R. Horne</author>. <title level="a">"Trans-Canada Highway"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">811-812</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRANS-CANADA HIGHWAY</head>
+
+<p>In 1949 the government of Canada passed an
+Act to Encourage and to Assist in the Construction
+of a Trans-Canada Highway. The act
+specified a set of construction criteria for a
+two-lane highway to connect Canada's east
+and west coasts by the most direct route. The
+federal government would pay 50 percent of
+the construction costs. The highway was officially
+opened in 1962, and the federal government
+continued to make payments under the
+act until 1971. The federal share was over $900
+million, and the total cost was estimated at
+$1.4 billion. At 4,860 miles, it is the longest
+national highway in the world.</p>
+
+<p>The highway crosses the Prairie Provinces
+following the route of the transcontinental
+railway built between 1881 and 1883, linking
+together five of the eleven largest cities in the
+region. Leaving the Canadian Shield country
+of Ontario, it becomes the main street of Winnipeg,
+Manitoba, then pushes west to the
+province's second largest city, Brandon. Regina,
+Saskatchewan, is the next city on the
+highway, followed by Moose Jaw, Saskatchewan,
+and Medicine Hat, Alberta. The highway
+is a major expressway through Calgary, then,
+heading west, it enters the Rockies via Banff
+National Park. This route makes the highway
+an important truck route for provincial and
+interprovincial trade. Most of the highway
+across the Prairie Provinces has now been
+widened to four lanes, and the twinning process
+continues.</p>
+
+<p>Since the construction of the Trans-Canada
+Highway, the social custom of gathering for
+coffee has shifted from the centers of the small
+towns near the highway to the restaurants and
+service stations at highway intersections. Further,
+improved transportation has led to the
+loss of services and the economic decline of
+some towns, while those towns near cities
+have taken on a dormitory function.</p>
+
+<p>Like the railway, the highway was also built
+for symbolic reasons: to demonstrate Canadian
+unity. The highway is designated Highway
+1 and has the Canadian maple leaf signage.
+During the summer months it is heavily
+used by hitchhikers, cyclists, mobile homes,
+and automobile tourists. Banff National Park
+receives over five million visitors annually.</p>
+
+<p>Many diaries and coffee-table books have
+been published reflecting personal experiences
+along the highway. It has been described
+as "the artery through which the soul of the
+nation pulses . . . dedicated to the freedom to
+travel without restriction." Across the vastness
+of the Prairie Provinces this is particularly noticeable.
+In some ways it is the Canadian equivalent
+of U.S. Route 66.</p>
+
+<p>During the 1970s, a northern route through
+the Parkland Belt was designated the Yellowhead
+Highway. Following the Trans-Canada
+Highway west from Winnipeg for fifty miles, it
+turns northwest to Saskatoon, Saskatchewan,
+and Edmonton, Alberta, and enters the Rockies
+through Jasper National Park and the Yellowhead
+Pass. It has also been designated as a
+trans-Canada highway route, although the
+Yellowhead name is still in more general use.</p>
+
+<closer>
+<signed>William R. Horne<lb/>
+University of Northern British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Howarth, William. <title level="m">Traveling the Trans-Canada</title>. Washington
+<hi rend="smallcaps">DC</hi>: National Geographic Society, 1987.</bibl> <bibl>Ratausky,
+Wes. <title level="m">Silver Highway: A Celebration of the Trans-Canada
+Highway</title>. Markham, Ontario: Fitzhenry and Whiteside,
+1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

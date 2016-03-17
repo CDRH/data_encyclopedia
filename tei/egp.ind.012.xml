@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Chouteau, Pierre, Jr. (1789-1865)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Chouteau, Pierre, Jr. (1789-1865)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">413-414</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHOUTEAU, PIERRE, JR. (1789-1865)</head>
+
+<p>Pierre Chouteau Jr., familiarly known as "Cadet"
+(meaning second-born son), was the
+leading entrepreneur in the Great Plains for
+much of the first half of the nineteenth century.
+Son of the St. Louis trader and banker
+Jean Pierre Chouteau (1758–1849), Pierre was
+destined to succeed: after all, his family was
+instrumental in the founding of St. Louis, and,
+with great enterprise as well as timely switches
+of political allegiance and strategic marriages,
+they had amassed a fortune from mining,
+banking, and the fur trade, a fortune that
+Pierre would multiply.</p>
+
+<p>He was born in St. Louis on January 19,
+1789, and by the time he was fifteen he was
+engaged in the fur trade with the Osages. In
+1810 he left to develop his family's interests
+in the Dubuque (Iowa) lead mines, but while
+mining remained an interest for him until the
+1850s, his sights were set on the West.</p>
+
+<p>Back in St. Louis in 1812, Chouteau opened
+a store with the merchant Bartholomew Berthold
+and began an association with the western
+fur trade that would last for half a century.
+The partnership backed Manuel Lisa's trading
+expedition to the upper Missouri in 1819 and
+lost heavily. In the maelstrom of competition
+for the Indian trade that followed, Berthold
+and Chouteau built trading posts on the Missouri
+as far north as present-day South Dakota.
+Gradually, Chouteau eased into an economic
+relationship with John Jacob Astor's
+American Fur Company, a relationship that
+was formalized in 1826 with a merger of interests
+that left Pierre as head of the company's
+Western Department.</p>
+
+<p>From that point on, Pierre Chouteau Jr.'s
+wealth and influence soared. After Astor's retirement
+from the fur trade in 1834, Chouteau's
+company (by then Pratte, Chouteau and Company)
+became the dominant force in the fur
+trade on the Central and Northern Great
+Plains, with a network of trading posts stretching
+from Fort Union (present-day North Dakota)
+to Fort Laramie (present-day Wyoming).
+A disastrous overextension of operations into
+the volatile Rocky Mountain trapping system
+in 1834 (a rare miscalculation on Chouteau's
+part) was terminated in 1839. By that time his
+enterprise was simply P. Chouteau Jr. and
+Company, and under that name it moved hundreds
+of thousands of bison robes through
+St. Louis to the main markets in the eastern
+United States over the following twenty-five
+years.</p>
+
+<p>Pierre Chouteau Jr. was a driven man and a
+ruthless competitor&#8211;the epitome of a frontier
+capitalist. He was also an innovator who, for
+example, was instrumental in introducing
+steamboat navigation on the Missouri River in
+1832, which revolutionized the scale of the fur
+trade. He was deeply involved in the negotiation
+of Indian treaties, in part because of the
+clauses that mandated the payment of debts to
+traders. The lucrative and often nefarious business
+of supplying annuities to Indian reservations
+was another of his endeavors. Through
+these and other ventures, he built an estate
+worth millions of dollars.</p>
+
+<p>In the late 1850s his health began to fail. In
+1859 he lost his sight; three years later he lost
+Emile, his wife of fifty years. Pierre Chouteau
+Jr. died on September 16, 1865, in St. Louis, a
+city he had done so much to build.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">HISPANIC AMERICANS</hi>: Lisa, Manuel.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lecompte, Janet. "Pierre Chouteau Junior." In <title level="m">The Mountain Men and the Fur Trade of the Far West</title>, edited by
+LeRoy R. Hafen, 9: 91–123.</bibl> <bibl>Glendale <hi rend="smallcaps">CA</hi>: Arthur H. Clark
+Company, 1972.</bibl> <bibl>Sunder, John E. <title level="m">The Fur Trade on the Upper Missouri, 1840–1865</title>. Norman: University of Oklahoma
+Press, 1965.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

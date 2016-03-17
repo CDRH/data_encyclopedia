@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">North-West Rebellion</title>
+<title level="m" type="sub"></title>
+<author>Charlene Porsild</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Porsild, Charlene">Charlene Porsild</author>. <title level="a">"North-West Rebellion."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">833</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">North-West Rebellion</head>
+<figure n="egp.war.032" rend="granted">
+<figDesc>"Theater of Operations - North West Rebellion - 1885"</figDesc>
+</figure>  
+
+<p>The North-West Rebellion, also known as
+the second Riel Rebellion or the Saskatchewan
+Rebellion, took place in Saskatchewan's
+Qu'Appelle River valley in 1885 and was closely
+related to the earlier M&#233;tis resistance at Red
+River, Manitoba, in 1869–70.</p>
+
+<p>After the Red River Resistance, Louis Riel
+fled to the United States to escape arrest. With
+their leader labeled a traitor, the M&#233;tis of
+Manitoba were now seen by the Canadian
+government as squatters on potential homestead
+lands. Stripped of their lands, and seeing
+few alternatives, the majority of the M&#233;tis
+people moved farther west along the Saskatchewan
+River system into what is now Saskatchewan
+and Alberta (then the Northwest Territories).</p>
+
+<p>By 1884 the Northwest was home to several
+thousand Native and M&#233;tis peoples. Joining
+them were a large number of non-Native settlers,
+recent arrivals from the Canadian provinces,
+giving a total population of about 10,000
+people. In this period the Northwest Territories
+were administered by a lieutenant governor
+appointed in Ottawa and a small council
+made up of appointed and elected representatives.
+By 1884 the number of elected representatives
+on the council numbered only five, and
+the residents of the region did not have territorial
+representation in the federal House of
+Commons or Senate.</p>
+
+<p>In the Prince Albert.Batoche area, the
+M&#233;tis and non-Native settlers alike were discontented.
+Many of them had moved from the
+Red River region more than a decade earlier to
+establish prosperous farms along the South
+Saskatchewan River. Conflict over land tenure,
+hunting reserves, government surveys,
+tariff structures, and frustration from the absence
+of government representation led the
+M&#233;tis and whites to organize in 1884. As no
+clear leader emerged, the M&#233;tis sent a delegation
+to Montana to ask Louis Riel to return to
+unite the English- and French-speaking Native,
+white, and M&#233;tis residents of the region.
+Riel, now an American citizen, agreed, and he
+arrived in Batoche amid much fanfare in May
+1884. At the same time, the Plains Crees, under
+the leadership of chiefs Big Bear and Poundmaker,
+also began to demand the renegotiation
+of their treaties.</p>
+
+<p>In a move reminiscent of his Red River
+days, Riel took up the reins to lead the white
+and M&#233;tis settlers, challenging the legitimacy
+of the Canadian government in the Northwest
+and proclaiming the formation of a provisional
+M&#233;tis government at Batoche in March
+1885.</p>
+
+<p>On March 26 a detachment of the North-
+West Mounted Police at Fort Carlton (twenty
+miles from Batoche) sent 100 men to Duck
+Lake to head off a possible attack and to prevent
+the M&#233;tis from seizing arms and ammunition
+stored there. Gabriel Dumont and a large
+group of M&#233;tis met the Mounted Police at
+Duck Lake, and in the resulting skirmish the
+M&#233;tis killed twelve Mounties and wounded another
+eleven.</p>
+
+<p>The Duck Lake victory (often called the
+Duck Lake Massacre by non-Natives) rallied
+the Native troops and convinced the Crees to
+join forces with Riel. Cree chiefs Big Bear and
+Poundmaker tried to maintain calm within
+the tribes, but the Duck Lake victory had emboldened
+many of the young Cree warriors
+who laid siege to Fort Battleford on the North
+Saskatchewan River. On April 2, 1885, a group
+of warriors from Big Bear's band attacked the
+Hudson's Bay Company post at Frog Lake,
+killing nine non-Native men. Within a few
+days, the Canadian government sent forces to
+Batoche, Battleford, and Frog Lake. The main
+force under Maj. Gen. Frederick Middleton
+took Batoche on May 12, where Riel surrendered
+on May 15. Poundmaker surrendered on
+May 12 and Big Bear on July 2.</p>
+
+<p>Immediately upon his capture, the Canadians
+brought Riel to Regina for trial. On July
+31, 1885, the all-white jury convicted Riel of
+treason, ignoring both his American citizenship
+and questions regarding his sanity. Despite
+a huge public uproar in the province of
+Quebec, Louis Riel was hanged on November
+16, 1885. He was followed to the gallows eleven
+days later by eight of the Cree warriors who
+had been involved in the North-West Rebellion.</p>
+
+<p>The M&#233;tis gained little from the rebellion.
+Many of their leaders fled to Montana or were
+jailed. Citizens of the Northwest received representation
+in Parliament, but the M&#233;tis were
+forced to either assimilate or move still farther
+to the margins. The Crees, forced to settle
+their treaty claims as best they could, suãered
+under the tightened control of western Indian
+agents and were relegated to reserve lands,
+where their death rates climbed rapidly and
+their population fell dramatically over the
+next five decades.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.038">North-West Mounted Police</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.012">Big Bear</ref>; <ref n="egp.na.063">M&#233;tis</ref>; <ref n="egp.na.090">Poundmaker</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.047">Riel, Louis</ref>.</p>
+
+<closer>
+<signed>Charlene Pordsild<lb/>
+Montana Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Beal, Bob, and Rod Macleod. <title level="m">Prairie Fire: The 1885 North-West
+Rebellion</title>. Edmonton: Hurtig Publishers, 1984.</bibl> <bibl>Flanagan,
+Thomas. <title level="m">Louis "David" Riel: "Prophet of the New
+World."</title> Toronto: University of Toronto Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

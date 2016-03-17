@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lewis and Clark</title>
+<title level="m" type="sub"></title>
+<author>Gary Moulton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Moulton, Gary">Gary Moulton</author>. <title level="a">"Lewis and Clark."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">240-241</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LEWIS AND CLARK</head>
+
+<p>Meriwether Lewis (1774-1809) and William
+Clark (1770-1838) were the first Americans to
+investigate the Great Plains. Both men were
+born in Virginia (Lewis near Charlottesville
+on August 17, 1774, and Clark in Caroline
+County on August 1, 1770) and served in the
+army together briefly in the mid-1790s. Clark
+resigned his commission and returned home
+in 1796, while Lewis continued in military service
+and in 1801 became President Thomas Jefferson's
+private secretary. In 1803 Jefferson
+placed Lewis as leader of the Corps of Discovery,
+and Lewis offered Clark an invitation to
+greatness as co-commander. In the nearly two
+and a half years on the expedition, the two
+men shared command responsibilities and a
+friendship that has become legendary.</p>
+
+<p>The men's conclusions about the region
+were more optimistic than some later explorers
+and tended to support a garden concept of
+the region. As the men entered the Plains environment
+in the summer of 1804, they had a
+chance to test this idea. Beyond the Platte
+River, terms like "high and dry" were more
+frequent than the usual "beautiful and wellwatered,"
+but their impressions did not change
+greatly. Indeed, it was the profusion of wildlife
+that caught their attention rather than the
+endless grassland and semiarid climate. Fascinated
+by the varied animal life, the captains
+wrote scientific descriptions of a host of Plains
+animals. Moreover, they told of vast numbers
+of bison. And it was the captains' reports of
+abundant beaver that sent fur trappers into
+the interior. From the party's Fort Mandan, in
+present-day North Dakota, Lewis penned this
+overall impression: "This immense river so far
+as we have yet ascended, waters one of the
+fairest portions of the globe, nor do I believe
+that there is in the universe a similar extent of
+country, equally fertile." This positive evaluation
+of the Plains resulted from a river-bottom
+perspective&#8211;a fact that prejudiced Lewis's
+opinion.</p>
+
+<p>As the explorers turned west in the spring of
+1805, the terrain became more arid, treeless,
+and rugged. Nonetheless, along the riverbanks
+Lewis still sighted groves of trees, and in the
+underbrush he saw thick stands of berry-laden
+bushes. New animals, like bighorn sheep, were
+seen farther west, and the famed grizzly bear
+appeared. The men discounted stories about
+its ferocity, but after several bouts with bears,
+Lewis concluded, "I must confess that I do not
+like the gentlemen and had reather fight two
+Indians than one bear." As the party moved
+into a harsher terrain, Lewis's evaluations of
+the land became increasingly bleak, until he
+finally called the region a "desert barren country."
+The negative appraisals were restricted,
+however, to the far northwestern edge of the
+Great Plains.</p>
+
+<p>Lewis and Clark's meetings with Plains Indians
+focused on two principal goals. One was
+diplomatic&#8211;to apprise the tribes of United
+States' sovereignty under the Louisiana Purchase
+and to explain the purposes of their mission.
+They also wanted to establish intertribal
+peace. It is doubtful that many Plains Indians
+understood the purpose of exploration, nor
+did they grasp the idea of diplomacy outside
+of trade. Lewis and Clark envisioned trade in
+the long run; the Indians desired an immediate
+exchange of goods. Lewis and Clark
+wanted to expand the United States' commercial
+influence, while Plains Indians wanted the
+best goods at the lowest price from the most
+dependable supplier. Nor were the Indians
+ready to talk of peace with their traditional
+enemies without some assurance of security.
+Lewis and Clark could not give that.</p>
+
+<p>The commanders' other function was
+ethnographic&#8211;to gather information about
+tribes in order to increase knowledge. In this
+regard, Lewis and Clark interviewed Indians
+and resident traders, reported on observations,
+participated in Indian activities, and
+collected cultural objects. The captains did
+their best work in recounting objective matters
+and describing external cultural aspects.
+They were not as good at relating ritualistic
+behavior or subjective matter, and they misunderstood
+or misinterpreted some activities.
+They also missed some important ceremonies
+due to timing. Nevertheless, they rose above
+the prejudices of their time and left a valuable
+ethnographic legacy.</p>
+
+<p>After the expedition Lewis became governor
+of Louisiana Territory but did not fare
+well. Mounting difficulties in St. Louis and
+disputes with federal officials sent him to
+Washington in 1809. Along the way, plagued
+by multiple problems, he took his life on
+the Natchez Trace in Tennessee on October 11.
+Clark, on the other hand, lived a prosperous
+and productive life as a politician and public
+servant, most notably as superintendent of Indian
+affairs in St. Louis, where he died on September
+1, 1838.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.028">The Garden</ref>.</p>
+
+<p><ref target="http://lewisandclarkjournals.unl.edu/">Lewis and Clark Journals Online</ref> website.</p>
+
+<closer>
+<signed>Gary Moulton<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ambrose, Stephen E. <title level="m">Undaunted Courage: Thomas Jefferson and the Opening of the American West</title>. New York:
+Simon and Schuster, 1996.</bibl> <bibl>Moulton, Gary, ed. <title level="m">The Journals of the Lewis and Clark Expedition</title>. Lincoln: University
+of Nebraska Press, 1983-1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

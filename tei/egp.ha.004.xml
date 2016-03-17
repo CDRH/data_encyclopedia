@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Betabeleros</hi></title>
+<title level="m" type="sub"></title>
+<author>Rebecca Berru Davis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Davis, Rebecca Berru">Rebecca Berru Davis</author>. <title level="a">"<hi rend="italic">Betabeleros</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">351-352</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">BETABELEROS</hi></head>
+
+<p>Throughout the twentieth century Mexican
+and Mexican American migrant workers were
+instrumental in the success of the sugar beet
+industry in the Great Plains. Beginning as
+early as 1915, corporations such as the Holly
+Sugar Company and the Great Western Sugar
+Company increasingly depended upon reliable,
+experienced, and low-cost labor to cultivate
+and harvest sugar beets. Recruited from
+Texas, California, and Mexico, these workers
+came to be known as <hi rend="italic">los betabeleros</hi>, the sugar
+beet workers.</p>
+
+<p>Government-sponsored research and construction of irrigation systems in the 1890s,
+combined with a sharp rise in the national
+consumption of sugar at the turn of the century,
+made the sugar beet industry one of the
+fastest growing and most successful in the
+Great Plains. Main growing areas were, and
+are, eastern Colorado and western Nebraska,
+the Yellowstone and Bighorn Valleys of Montana
+and Wyoming, and the Red River Valley
+of the North. Government and industry cooperated
+to provide farmers with the muchneeded
+labor in these sparsely populated
+areas. Two groups of laborers became the
+working backbone of the industry: German
+Russians and Mexicans. For example, in 1924
+the Great Western Sugar Company brought to
+Montana's Yellowstone Valley 3,604 Mexicans
+and 1,231 German Russians to harvest a record
+31,000 acres.</p>
+
+<p>While the German Russian immigrants
+were supported by the sugar beet companies in
+purchasing their own farms and settling their
+families permanently, the Spanish-speaking
+workers were initially hired only as seasonal
+workers. Before World War I, this strategy kept
+wages down and eased European American
+fears of "foreigners" settling permanently in
+their midst. But by 1922, as the need for field
+labor increased, the corporations began to recognize
+that attracting families to "winter over"
+assured a stable and experienced workforce. In
+Billings, for example, the Great Western Sugar
+Company, enlisting the labor of Mexicans, arranged
+for the construction of up to forty
+small adobe homes. By 1927 hundreds of these
+low-cost settlements, known as <hi rend="italic">colonias</hi>, had
+been established by the sugar beet companies
+throughout the Great Plains.</p>
+
+<p>Within the colonias, residents raised animals
+and planted gardens to supplement their
+diets, and during the winter those with limited
+earnings shared resources. But while the colonias
+provided Latinos with a sense of community
+and support, they also isolated them from
+the larger community. Latinos were often
+banned from public swimming pools, segregated
+in theaters, and not allowed in certain
+stores and restaurants. Sugar beet companies
+worked to allay fears and prejudice directed at
+the Mexican laborers by citing in their annual
+reports and publications how essential they
+were to the success of the industry. Despite the
+discrimination, the economic hardship, and
+the backbreaking labor experienced by the
+<hi rend="italic">betabeleros</hi>, many returned to work the fields
+each spring, often renewing previous associations
+with farmers. Some beet workers even
+remained with the farmer throughout the
+year, tending to animals and fences during the
+winter.</p>
+
+<p>In the Northern Great Plains, the sugar beet
+season began in mid-April with planting.
+Workers hoed and thinned from late May to
+mid-July, weeded through the summer, and
+harvested and topped the beets in the fall.
+Stoop labor for planting, weeding, and harvesting,
+a short-handled hoe for thinning, and
+a curved knife for topping made for arduous
+work. For the women, in addition to the work
+in the fields, the regular household duties of
+cooking and cleaning made for a "double day."
+Children, by ages eight or nine, were encouraged
+to help out and were regularly pulled out
+of school to help plant and harvest.</p>
+
+<p>The Depression economy of the 1930s created
+an atmosphere of opposition to the migrant
+worker. The Great Western Sugar Company
+elected to hire local workers before those
+from outside the area, thus discouraging Latino
+families from remaining. But with the onset
+of World War II western growers and industries
+faced serious labor shortages. Congress
+responded by creating the Bracero Program,
+which allowed farmers to employ Mexican nationals.
+From 1943 to 1946 Great Western's Billings
+district relied on Mexicans to thin and
+top most of its crop. After 1963, when Congress
+terminated the Bracero Program, companies
+continued to rely on Mexican nationals.</p>
+
+<p>In the 1950s, as agriculture was becoming
+more mechanized, many Latinos began to
+seek out better-paying, steadier jobs. In Billings,
+jobs with the railroad or the packing
+plants offered a positive alternative to working
+the beet fields. While establishing permanent
+homes in Billings, Latinos also began working
+to improve educational opportunities for
+their children. As early as 1929, associations
+like the <hi rend="italic">Comision Honorifica Mexicana</hi> were
+formed to organize social and cultural events
+and assist Latinos in need. In the 1960s <hi rend="italic">Concilio
+Mexicano</hi> helped to advocate for jobs and
+education in the community. In 1971 the Migrant
+Council was established to provide
+health, educational, and labor assistance to
+migrant families.</p>
+
+<p>Despite farm mechanization, increased use
+of herbicides, and continued restrictions on
+migrant workers, beet growers still depend on
+some hand labor. By 1976 the Great Western
+Sugar Company handed over the job of recruiting
+and providing migrant workers to the
+beet growers. Today, migrant workers, mostly
+Mexican Americans from Texas, still come to
+the Yellowstone Valley each spring to work the
+beets. These seasonal workers follow a route
+that takes them on to other states in the region
+to pick apples, top and bag onions, and harvest
+beans before returning to Texas in late
+fall. The migrant workers of the past, including
+those who have elected to make a home in
+this region and those who choose to return
+each year, continue to make a vital contribution
+to the economy as well as to enrich the
+culture of the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.064">Sugar Beets</ref> / <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.012">German Russians</ref>.</p>
+
+<closer>
+<signed>Rebecca Berru Davis<lb/>
+Western Heritage Center</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mercier, Laurie. "Creating a New Community in the
+North: Mexican Americans of the Yellowstone Valley." In
+<title level="m">Stories from an Open Country: Essays on the Yellowstone River Valley</title>, edited by William L. Lang. Billings <hi rend="smallcaps">MT</hi>: Western
+Heritage Press, 1995: 127–47.</bibl> <bibl>Valdes, Dennis N. "Settlers,
+Sojourners, and Proletarians: Social Formation in
+the Great Plains Sugar Beet Industry, 1890–1940." <title level="j">Great Plains Quarterly</title> 10 (1990): 110–23.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

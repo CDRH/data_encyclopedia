@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.036 SYSTEM "egp.afam.036.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sanders, Barry (b. 1968)</title>
+<title level="m" type="sub"></title>
+<author>G. Allen Finchum</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Finchum, G. Allen">G. Allen Finchum</author>. <title level="a">"Sanders, Barry (b. 1968)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">20</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANDERS, BARRY (b. 1968)</head>
+
+<figure n="egp.afam.036" rend="granted">
+<figDesc>Barry Sanders, 1988</figDesc>
+</figure>
+
+<p>Barry Sanders, who was born in Wichita, Kansas,
+on July 16, 1968, is considered one of the
+greatest running backs to ever play football.
+Following a noteworthy high school career,
+Sanders was not widely recruited by the major
+colleges because of his relatively diminutive
+stature (five feet eight inches). However, Oklahoma
+State University took a chance on the
+small but determined Sanders. After two years
+as one of the best kick-return specialists
+in college football, in 1988 Sanders had the
+most prolific season running the football in
+college football history. That year Sanders ran
+for 2,628 yards, a National Collegiate Athletic
+Association record, and scored thirty-nine
+touchdowns, winning the Heisman Trophy as
+the nation's best player. Sanders was taken as
+the third choice in the 1989 National Football
+League (<hi rend="smallcaps">NFL</hi>) draft by the Detroit Lions, for
+whom he played ten seasons. During his nfl
+career Sanders rushed for 15,269 yards and was
+the nfl Rookie of the Year in 1989 and the
+Player of the Year in 1997.</p>
+
+<p>Sanders's legacy as a running back is as one
+of the most elusive runners in the game, and
+his misdirection-runs at both the college and
+professional levels continue to be seen on
+"highlight reels" when great running backs are
+discussed. Following the 1998 season Barry
+Sanders surprised the football world by retiring
+from the nfl needing less than 1,500 yards
+to become the most prolific runner in <hi rend="smallcaps">NFL</hi>
+history. Sanders continues to reside in the Detroit
+area, although he remains active in the
+Wichita area through his generous support of
+his home church.</p>
+
+<closer>
+<signed>G. Allen Finchum<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">Oklahoma State 2001 Football Media Guide</title>. Stillwater: Oklahoma State University Athletic Department, 2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

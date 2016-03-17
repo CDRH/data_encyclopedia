@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">War</title>
+<title level="m" type="sub"></title>
+<author>Michael L. Tate</author>
+<author>Jo Lea Wetherilt Behrens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tate, Michael L.">Michael L. Tate</author> and <author n="Behrens, Jo Lea Wetherilt">Jo Lea Wetherilt Behrens</author>. <title level="a">"War."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">817-822</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WAR</head>
+
+<p>The Great Plains has been home to a great
+diversity of peoples for thousands of years.
+Although coexistence and commerce have
+dominated most of the relationships among
+these divergent populations, intermittent conflict
+has also defined these contacts. Intertribal
+warfare among Native Americans involved a
+fluctuating pattern of alliances and attacks, as
+tribes attempted to protect their resources, attain
+powerful positions within trading networks,
+and expand their domination over
+larger areas. Raids directed against neighboring
+peoples also secured wealth, gained
+captives for trade and adoption, and allowed
+warriors a mechanism for proving their courage
+and enhancing their personal honor. Despite
+the relative frequency of these raids,
+casualties were minimized, except when
+groups were fighting for survival, or where
+vengeance demanded bloody retribution.</p>
+
+<p>By the early eighteenth century the European
+colonial powers of Spain, France, and
+Great Britain had established relationships
+with Plains tribes through an extended network
+of trade. A variety of trade goods was
+introduced into Indian communities, but the
+horse and gun had the greatest impact. Horses
+increased mobility, bringing more tribes into
+conflict over resources and producing a new
+style of mounted raid and counter-raid. Firearms,
+although initially scarce and inferior to
+bows and arrows in durability, soon became
+highly prized objects for warriors and as barter
+items within intertribal trade.</p>
+
+
+<div2>
+
+<head type="sub">Spanish and Mexican Periods</head>
+
+<p>Because the colonial powers did not attempt
+to occupy the Great Plains during the eighteenth
+century, their impact there was largely
+measured by the strength of their Indian alliances.
+In the summer of 1720, when Spanish
+authorities learned of an alleged French penetration
+of trading zones in the Central Plains,
+they dispatched Don Pedro de Villasur with
+forty-two soldiers and sixty Pueblo auxiliaries
+from Santa Fe to present-day Nebraska. On
+August 14, Pawnees and Otoes launched a surprise
+attack by firing a volley from muskets.
+Only thirteen of Villasur’s men escaped. As a
+result the Spaniards withdrew their trading
+interests to the Southern Plains.</p>
+
+<p>Thirty-seven years later, Spanish authorities
+in Texas attempted to spread their influence
+beyond the narrow coastal belt that linked settlements
+in the Rio Grande Valley with those
+in East Texas. Col. Diego Ortiz Parrilla led
+approximately 400 soldiers, settlers, and missionaries
+to found the Mission Santa Cruz de
+San Sabá and a nearby presidio on the San
+Saba River near present-day Menard, Texas.
+They hoped to win converts and allies among
+the Lipan Apaches and other nomadic Indians
+of West Texas, but the mission was too far
+southeast to attract many neophytes. Most
+importantly, the overt diplomacy between
+Spaniards and Lipan Apaches antagonized
+Comanche bands, who had a long-standing
+feud with the latter and opposed any disruption
+in their growing dominance of western
+Texas. Two Comanche attacks against the settlement
+in 1758 and 1759 left several dozen defenders
+dead, crops destroyed, and the mission
+burned.</p>
+
+<p>Drawing a force of more than 600 Spanish
+soldiers and Indian auxiliaries from as far away
+as San Antonio, Ortiz Parrilla attacked the Comanches
+and allied Wichitas at their fortified
+village of Tawehash on the Red River. The large
+numbers of Indians repulsed the attack of October
+7, 1759, sent Ortiz Parrilla into a full
+retreat, and compelled Spanish authorities to
+give up their hopes of a mission settlement on
+the periphery of the Texas Plains. Periodic
+punitive expeditions dispatched from southern
+Texas and the Rio Grande settlements of
+New Mexico occasionally inflicted significant
+casualties among the Comanches, Kiowas, and
+Apaches, but Spain failed to dominate the
+Southern Plains at the time of Mexican Independence
+in 1821. Mexican leaders inherited
+this volatile situation and continued Spanish
+strategies of diplomacy, trade, and occasional
+military forays with about the same degree of
+effectiveness.</p>
+</div2>
+
+<div2>
+<head type="sub">American Military Exploration and Manifest Destiny</head>
+
+<p>As the nineteenth century dawned, Americans
+received their first impressions of the Great
+Plains through the reports of military explorers
+and civilian artists. The 1804-6 reconnaissance
+of Capt. Meriwether Lewis and Lt. William
+Clark up the Missouri River and to the
+Oregon coast whetted America's collective appetite
+to learn more about the exotic lands.
+Although private traders and trappers made
+the first regular transits of the Plains in the
+1820s, it was army officers who provided the
+best written records of the vast area. Zebulon
+Pike's 1806 journey across the Central Plains
+and Stephen Long's 1819-20 westward march
+along the Platte River and return along the
+Canadian River provided important scientific
+information. Unfortunately, their complex
+conclusions were oversimplified by a popular
+literature that emphasized Long's restricted
+phrase "Great American Desert" as if it implied
+that the entire Great Plains was a vast
+wasteland.</p>
+
+<p>Although large numbers of settlers did not
+move into the region until after the Civil War,
+the Army Topographical Engineers opened
+new trails, discovered marketable resources,
+and sought to impress resident Native Americans
+with American power. Capt. John C. Fr&#233;mont's
+major explorations of the Plains and
+Far West during the 1840s paved the way for
+overlanders to the Pacific Coast and heightened
+tensions between the United States and
+Mexico. Espousing a philosophy of manifest
+destiny, which proclaimed American superior
+virtues and moral authority over Hispanic
+institutions, proponents of expansionism
+viewed the Mexican American War of
+1846–48 as a golden opportunity to annex
+Mexican territory. Although no battles occurred
+in the Plains during this relatively brief
+war, the region served as a conduit for moving
+soldiers and supplies to arenas of combat in
+New Mexico and California.</p>
+</div2>
+
+<div2>
+<head type="sub">Plains Indian Campaigns in the 1850s</head>
+
+<p>After the Treaty of Guadalupe Hidalgo, which
+ended the Mexican American War in 1848, the
+government turned its attention to Indian affairs
+within the Great Plains and the Far West.
+The 1850s witnessed a flurry of treaty signings
+that placed many Plains Indians on reservations
+and limited others to ill-defined hunting
+ranges. New military posts were rapidly added
+to the Plains, especially in Texas, where an expanding
+white population demanded protection,
+and in Indian Territory, where the removed
+tribes demanded that the nomadic
+Comanches and Kiowas be corralled.</p>
+
+<p>Military budgets and troop authorizations
+remained too small to meet the growing task.
+In 1853 there were only 10,495 men in the army.
+Fully four-fifths of them were stationed west of
+the Mississippi River, with the majority seeing
+service in the Plains. Some posts, such as Fort
+Kearny and Fort Laramie, guarded the welltraveled
+trail along the Platte River. Others,
+such as Fort Leavenworth, Kansas, were rearguard
+posts that coordinated the rotation of
+men and supplies to more remote places. And
+still others, particularly in Texas, were established
+in interlocking arrangements of interior
+and exterior forts that could protect exposed
+frontier settlements against Indian raids. Many
+of these stations never achieved more than
+temporary status.</p>
+
+<p>Although no sustained Indian wars occurred
+in the Plains during the 1850s, significant
+military campaigns were launched. Most
+of the problems were initiated by white treaty
+violations and government misunderstandings
+about Indian intentions. In August 1854
+an overzealous and inexperienced Lt. John L.
+Grattan tried to arrest a Lakota warrior for
+killing a Mormon emigrant’s cow near Fort
+Laramie. When negotiations with Brule Lakota
+leader Conquering Bear failed, Grattan
+began firing into the Indian encampment, killing
+Conquering Bear. Grattan’s entire command
+of thirty men was wiped out. In response,
+on September 3, 1855, a 600-man force
+commanded by Col. William S. Harney attacked
+the village of Little Thunder at Ash Hollow,
+killing approximately eighty-five inhabitants
+and capturing another seventy women
+and children. This overreactive strike only
+bred more resentment and retaliatory raids
+against innocent Americans passing through
+the area to California and Oregon.</p>
+</div2>
+
+<div2>
+<head type="sub">Bleeding Kansas and Civil War</head>
+
+<p>In addition to campaigns against Plains Indians,
+the army saw service in the slavery conflict
+that spilled over into the Great Plains. In
+Kansas during the 1850s, proslavery and antislavery
+factions vied with each other for control
+of county governments and the territorial
+legislature. Tirades gave way to civil insurrection
+during the era known as "Bleeding Kansas"
+between 1856 and 1861. Because federal
+officials could not count on an impartial territorial
+militia to stand above the contentious
+slavery debate, they had to rely on army officers
+to separate the feuding factions. This
+thankless task garnered enemies on both sides
+for the army while simultaneously overtaxing
+military strength that was needed in other
+frontier areas. For instance, several companies
+of the Second U.S. Cavalry had to be rotated
+out of northwestern Texas during 1857 for civil
+duty in eastern Kansas. This occurred just at
+the crucial time when additional soldiers were
+needed to protect two newly created Indian
+agencies on and near the Clear Fork of the
+Brazos. The agencies lay exposed to attacks
+by angry frontiersmen who ultimately drove
+the peaceful Caddo and southern Comanche
+bands into present-day western Oklahoma.</p>
+
+<p>The most significant Civil War battle between
+Plains troops occurred in late March
+1862 approximately twenty-five miles east of
+Santa Fe, New Mexico. Confederate troops
+commanded by Gen. Henry Sibley had fought
+a series of successful battles and skirmishes up
+the Rio Grande Valley as they attempted to
+wrest New Mexico from Union hands. This
+operation represented the first leg of a Confederate
+plan to push their control into Colorado
+and as far west as the California coast. At
+the Battle of Glorieta Pass, Union regular and
+militia forces under Col. John P. Slough and
+Maj. John M. Chivington destroyed Sibley’s
+supply train and inflicted a major defeat on
+rebel forces. This "Gettysburg of the West"
+proved decisive not in terms of casualties
+(fewer than seventy men were killed in the
+battle), but in terms of forcing the supplystarved
+Confederates out of New Mexico and
+ending their dream of a southwestern empire.</p>
+</div2>
+
+<div2>
+<head type="sub">Plains Indian Wars, 1865-1890</head>
+
+<p>Meanwhile, as Americans fought each other,
+on November 29, 1864, Col. John M. Chivington
+and his Colorado Volunteers massacred at
+least 150 Southern Cheyennes and Arapahos
+(most of them women, children, and elderly)
+belonging to Black Kettle's band at Sand Creek,
+Colorado. This massacre propelled the Central
+and Northern Great Plains toward a heightened
+Indian-American confrontation after the
+Civil War.</p>
+
+<p>At the end of the Civil War, the U.S. Army
+mustered almost a million men out of service.
+By 1874, at the height of the Great Plains Indian
+Wars, the entire army consisted of only
+25,000 enlisted men and approximately 2,000
+o.cers. Inadequate budgets frequently led to
+deterioration of quarters and equipment, slow
+promotions, poor pay, and a general decline
+in morale.</p>
+
+<p>Government policy in the late nineteenth
+century aimed at removing Plains Indians
+from the path of white settlement, placing
+them on isolated reservations, and promoting
+an assimilation program designed to wean
+them away from traditional ways. Native
+Americans resisted this concentrated assault
+on their land base and cultures, and the Great
+Plains provided the setting for some of the
+most determined resistance anywhere in the
+nation's history.</p>
+
+<p>Hatreds left from the 1862 Sioux Uprising in
+Minnesota and the Sand Creek Massacre still
+seethed in the Northern Plains in 1866 when
+the government dispatched Col. Henry Carrington
+to build three posts in the prime bison
+range of the Powder River country. Forts Reno,
+Phil Kearny, and C. F. Smith soon guarded the
+Bozeman Trail, which led to the mining camps
+of western Montana. Lakota Sioux leaders such
+as Red Cloud opposed this incursion. On December
+21, 1866, Sioux, Cheyenne, and Arapaho
+warriors killed eighty soldiers under
+Capt. William J. Fetterman near Fort Phil
+Kearny. Subsequent attacks against troops
+from Fort C. F. Smith (Hayfield Fight, August
+1, 1867) and Fort Phil Kearny (Wagon Box
+Fight, August 2, 1867) failed only because out-numbered
+soldiers were able to maximize their
+firepower with rapid fire, breech-loading
+Springfield rifles. Unable to adequately protect
+the bloody Bozeman Trail, the government
+signed the Fort Laramie Treaty in 1868. Among
+the guarantees to the Indians was the army's
+abandonment of its three new posts.</p>
+
+<p>In the Southern Great Plains, the Medicine
+Lodge Treaty of October 1867 unrealistically
+assigned specific ranges of land to the Comanches,
+Kiowas, Southern Cheyennes, and Arapahos,
+but not until after several military
+campaigns had forced the issue. Maj. Gen.
+Winfield Scott Hancock led the way with a
+spring 1867 operation across western Kansas
+involving approximately 1,400 soldiers and
+militiamen. This huge force did little to stop
+the increasing Indian depredations or to convince
+the Southern Cheyennes that the government's
+word could be trusted.</p>
+
+<p>Following this failure, Gen. Philip Sheridan
+organized a winter 1868 campaign across the
+western areas of Indian Territory against the
+same Southern Cheyenne and Arapaho bands.
+This operation culminated in Lt. Col. George
+Armstrong Custer's November 27, 1868, attack
+on Black Kettle's village on the Washita River.
+Black Kettle, who still represented a mostly
+peaceful group of people, was killed.</p>
+
+<p>The final chapter in the Southern Plains
+confrontations emerged in the Red River War
+of 1874–75, which pitted 1,400 soldiers of five
+converging columns against the most defiant
+bands of Comanches, Kiowas, and Southern
+Cheyennes. The purpose of converging columns
+was to squeeze the elusive Indians into a
+confined area, burn their villages and equipment,
+capture part of their large horse herds,
+and inflict a major battlefield defeat on them.
+Although several dozen engagements occurred
+during these operations, the decisive battle
+came at Palo Duro Canyon in the Texas Panhandle.
+Col. Ranald S. Mackenzie achieved the
+element of surprise by moving 450 cavalrymen
+from the canyon's dry rim into the verdant
+valley where Comanches and Kiowas possessed
+adequate food, water, and forage to wait
+out their enemy. Mackenzie’s bold strike of
+September 28, 1874, resulted in few casualties
+on either side, but he burned the camp and
+slaughtered more than 1,000 Indian horses and
+mules. Without the ability to operate in their
+former Panhandle strongholds during the
+winter, the various bands gradually headed for
+the reservation at Fort Sill in western Indian
+Territory. The war in the Southern Plains was
+virtually over.</p>
+
+<p>With men and resources now available for a
+similar sweep of the Northern Plains, Sheridan
+ordered a general campaign against the
+Teton Sioux, Northern Cheyennes, and Arapahos
+during the summer of 1876. Three converging
+cavalry and infantry columns under
+Gen. Alfred Terry, Gen. George Crook, and
+Col. John Gibbon moved to the Yellowstone
+River in eastern Montana. Crook made the
+first contact on June 17 in the Battle of the
+Rosebud, and although he claimed victory, he
+and his 1,200-man command were compelled
+to retreat southward into Wyoming to await
+reinforcements.</p>
+
+<p>Meanwhile, General Terry ordered his
+second-in-command, Lieutenant Colonel Custer
+and the Seventh Cavalry, to conduct a reconnaissance
+up Rosebud Creek and locate any
+signs of an expected Indian encampment.
+Scouts reported the village directly west on
+Little Bighorn, and the Seventh attacked it on
+June 25, 1876. Unlike previous attacks against
+lightly defended Plains Indian camps, the soldiers
+here faced perhaps 1,500 warriors. Custer
+and approximately 250 of his cavalrymen
+were killed that day in what Indians referred
+to as the Battle of the Greasy Grass, and eastern
+newspapers called Custer's Last Stand.</p>
+
+<p>This greatest single victory by Plains Indians
+proved to be the beginning of the end
+for their freedom. A determined Congress and
+Sheridan ordered the army to continue a relentless
+winter campaign. One by one, the various
+bands found their camps destroyed at
+places such as Slim Buttes, South Dakota
+(September 9, 1876), and Red Fork of the Powder
+River, Wyoming (November 25, 1876). By
+May 1877 Crazy Horse had brought some of
+the last roaming groups of Oglala Lakotas into
+the Pine Ridge Agency, and Sitting Bull found
+temporary protection in Saskatchewan, Canada,
+for his followers. Dull Knife’s Northern
+Cheyennes surrendered and were sent for the
+time being to an unhealthy reservation in
+western Indian Territory. Most of the Arapahos
+were transferred to the Wind River Reservation
+in western Wyoming.</p>
+
+<p>During the following thirteen years, Indians
+on Plains reservations found themselves
+subject to a fast-changing world that was anti-thetical
+to their cultural values and threatened
+their very survival. In this environment of
+poverty and death the Ghost Dance found a
+deeply devoted following among the Northern
+Plains tribes. Many Sioux converted to the
+new teaching, which promised a return to the
+old days that existed before the white man had
+spread over the land. As the number of faithful
+increased, paranoia grew among agents
+and settlers bordering the Sioux reservations.
+Soldiers began to concentrate in western areas
+of Nebraska and the Dakotas during the fall of
+1890, just as frontier newspapers stirred up
+anti-Indian hysteria.</p>
+
+<p>The December 15, 1890, killing of Hunkpapa
+Lakota leader Sitting Bull by tribal police
+precipitated the panicked flight of Ghost
+Dancers under Miniconjou Lakota leader Big
+Foot toward the assumed safety of Pine Ridge
+Reservation. They were intercepted by troops
+from the Seventh Cavalry, who escorted them
+to the hamlet at Wounded Knee to await further
+orders. On December 29, 1890, amid a
+search of Indian men and women for concealed
+weapons, a fight began which led to
+desperate hand-to-hand combat. Simultaneously,
+rapid-fire Hotchkiss guns rained
+down small exploding projectiles. Before the
+day was done, more than 250&#8211;and possibly as
+many as 300&#8211;Lakotas were dead, including
+44 women and 18 children. Others fled into
+the cold expanses of the countryside, where
+they were killed by pursuing soldiers. The
+army lost twenty-five men and thirty-nine
+were wounded. The Wounded Knee Massacre
+and its followup military operations were
+not "the last Indian War" that some books
+claimed. Rather, they were a needless anti-climax
+to decades of cultural misunderstanding,
+land pressure, government deceit, and
+countless calls for revenge.</p>
+</div2>
+
+<div2>
+<head type="sub">Canadian-Indian Relations in the Plains</head>
+
+<p>Many Canadians have traditionally viewed
+their "winning of the West" as a process built
+upon consensus rather than conflict. They
+point out that in the lands that became the
+provinces of Manitoba, Saskatchewan, and Alberta,
+Indian-white conflict was infrequent
+when compared with the horrific record below
+the forty-ninth parallel. They argue that
+Canadian policies were relatively fair to Indians,
+giving little cause for resistance. More
+recent scholarship, however, has challenged
+this older view and has identified a long history
+of Canadian injustices toward Native
+Americans.</p>
+
+<p>Historians such as George Stanley have argued
+that in the western United States, pioneers
+enveloped the frontier areas before government
+authority could be established. In
+this unregulated environment, frontiersmen
+stirred up numerous controversies with the
+tribes as they coveted the land and its resources.
+By contrast, the argument goes, Canadians
+established governing and enforcement
+authorities such as the North-West
+Mounted Police well in advance of the influx
+of white population. Thus, conflicts could be
+minimized by law enforcement officers, and
+pioneers could feel relatively safe in their new
+environment.</p>
+
+<p>While Stanley’s contention holds merit, it
+omits the Indian view of this relationship. Canadian
+Plains tribes such as the Bloods, Piegans,
+Blackfoot, Assiniboines, Plains Crees,
+and Ojibwas repeatedly complained about
+treaty violations and delays in shipments of
+supplies. Many of these tribes also lived and
+hunted on the U.S. side of the border, and they
+were concerned that the Americans might extend
+their authority to the north. The Boundary
+Commission Survey of 1872–74 especially
+disturbed tribal leaders who felt that this
+might be the opening salvo in a complete
+transfer of the Plains. They were likewise concerned
+about the frequent movements of the
+U.S. Army along the border and its forays into
+Canada to capture specific Indians.</p>
+
+<p>The most serious threat to the relatively
+peaceful situation in the Prairie Provinces
+came from Louis David Riel Jr. and his Metis,
+mixed-blood people of Indian and French Canadian
+descent who lived in the Red River Settlement
+of Manitoba. On the eve of the Hudson’s
+Bay Company sale of the Metis’ territory
+of Rupert's Land to Canada in 1869, a "Red
+River resistance" developed. Riel helped organize
+the Comites National des Metis to defend
+farm ownership, protect hunting rights, and
+ensure the barter economy of the region. They
+blocked the new governor, William McDougall,
+from entering the territory and briefly
+occupied Fort Garry. Col. Garnet Wolseley
+marched 1,200 volunteers to the relief of the
+post, but because of delays in crossing hostile
+terrain, they did not arrive until August 1870.
+By then, Riel had withdrawn his followers and
+a compromise agreement was being hammered
+out.</p>
+
+<p>Riel remained a hunted man even though
+he was elected three times to the Canadian
+House of Commons by the people of Manitoba.
+In 1884 he heeded the call again to help
+the Métis people of Saskatchewan who were
+resisting the inroads of farmers and the Canadian
+Pacific Railway. The initially peaceful
+protest turned into the North-West Rebellion,
+with Riel proclaiming himself president of the
+separatist state. Skirmishes broke out with
+North-West Mounted Police near Fort Carlton,
+and other Indians joined the conflict near
+Frog Lake. Riel gave up on May 15, 1885 and
+was hanged for treason on November 16, amid
+a national uproar over the injustice.</p>
+</div2>
+
+<div2>
+<head type="sub">From frontier Setting to Internationalism</head>
+
+<p>The 1890s brought a change in military activity
+in the Great Plains, as policymakers
+shifted their attention from western expansion
+to matters of international scope. With
+the Indians now on reservations, many military
+posts&#8211;Forts Buford and Assiniboine, for
+example&#8211;were closed. The shift to international
+issues began in 1898 with the Spanish
+American War and continued from 1899
+through 1902 in the Philippine-American
+War. Plains states were affected in two ways by
+these conflicts. First, regular army troops were
+redeployed from the frontier posts to overseas
+duty. At installations across the Plains only
+handfuls of civilian employees remained to
+guard against pilfering. In some cases, troops
+never returned to their previously assigned
+posts, which were soon closed.</p>
+
+<p>The second impact in the Plains states came
+in the mobilization of state National Guard
+units. Many of these units got no further than
+training camps, but the First Nebraska Infantry,
+for example, made it to the Philippines
+and saw active fighting against Spaniards and
+subsequently during the Philippine-American
+War.</p>
+
+<p>New concerns for the American military began
+in 1911 with the outbreak of the Mexican
+Revolution. Rebel raids that spilled over into
+American territory throughout 1914 and 1915
+forced the United States to augment its protection
+of the extensive boundary from Texas to
+California. On May 9, 1916, President Woodrow
+Wilson mobilized the National Guards of
+New Mexico, Texas, and Arizona to help defend
+the border. Little more than a month
+later, the National Guards of all states were
+called into action, and by late July, 111,000
+guardsmen had moved to the international
+boundary, including units from all Plains
+states. Sporadic rebel raids obliged the United
+States to maintain troops in the region until
+1921.</p>
+</div2>
+
+<div2>
+<head type="sub">World War I</head>
+
+<p>American response to the war in Europe sent
+repercussions through Plains agriculture virtually
+as soon as the struggle began. Immediately
+after the German invasion of Belgium
+in 1914, Kansans began donating wheat to area
+millers who voluntarily ground it into flour
+for shipment to Europe. With German supplies
+of potash cut off, American farmers had
+to look elsewhere for this key fertilizer ingredient.
+Ten new potash plants were developed
+in west-central Nebraska. This industrial
+boom led to the creation of several new communities,
+most of which failed when the importation
+of cheaper German potash resumed
+after the war. The war also stimulated the production
+of Great Plains oil. The oil fields of
+Wyoming doubled their output after 1916.</p>
+
+<p>After America's entry into the war in April
+1917, President Wilson appointed Herbert
+Hoover to the newly created U.S. Food Administration.
+Needing to stimulate food production,
+Hoover initiated programs for federal
+subsidies to producers of wheat, corn,
+cotton, hogs, and sugar. The prices of corn,
+oats, and hay doubled, while the price of
+wheat nearly tripled. In Montana, the number
+of new homesteads peaked as farmers went
+into debt to plow grasslands for crop production.
+All across the Plains, patriotic citizens
+planted vegetable gardens and observed the
+federally encouraged "wheatless" and "meatless"
+days.</p>
+
+<p>Military preparations significantly changed
+home-front Plains communities. In June 1917
+construction began on an enormous training
+facility at the Fort Riley, Kansas, military reserve.
+Construction of the camp for 50,000
+soldiers, and the requisite support services for
+men in training, created a nearby "Army City,"
+which had four blocks of stores, theaters, barbershops,
+and pool halls. A similar site, Camp
+Doniphan, grew on the grounds of Fort Sill,
+Oklahoma, after 1917.</p>
+
+<p>The new science of "aero-technology" saw its
+first use in World War I, and the Plains produced
+two balloon-training facilities. As early as
+1900 the U.S. Army Signal Corps had organized
+a Balloon Detachment, eventually locating all its
+dirigible activities at Fort Omaha, Nebraska.
+The program was abandoned in 1909, but when
+the United States entered the war, the military
+began using piloted balloons to make more accurate
+battlefield observations. Fort Omaha was
+the logical place to expand training operations
+since the hangar and its companion hydrogen
+plant were still operational. In July 1917 the Fort
+Omaha Balloon School received the first of the
+16,000 men it would eventually train in balloon
+skills. A second Plains balloon school opened at
+Fort Sill, Oklahoma, in September 1917. The
+Fort Sill balloon operation remained functional
+into the 1930s, but all the equipment and staff of
+the Fort Omaha school were moved to Belleville,
+Illinois, in 1921.</p>
+
+<p>There was little tolerance for anyone appearing
+un-American during World War I.
+Montanans’ harassment of German Americans
+and Scandinavians, who preferred that
+the United States remain neutral, led to considerable
+unrest. "Liberty Committees" were
+created in some towns to police suspected
+antiwar activities. In Glendive a mob nearly
+lynched a German Mennonite minister who
+favored peace. In February 1918 the Montana
+Defense Council, which had already banned
+any use of the German language, convinced
+the governor to call a special legislative session,
+which passed the Montana Sedition Law,
+making it illegal to criticize the federal government,
+the armed services, or state government
+in wartime. This became the model for
+the federal Sedition Law of 1918.</p>
+
+<p>In the Canadian Prairie Provinces, the outbreak
+of war in 1914 also improved the farm
+economy, which had plummeted into debt
+and depression after 1912. Farmers quickly responded
+to war needs with sizable quantities
+of horses, oats, and flour. Acres were rushed
+into production and nearly 40,000 new farms
+were created by 1921. The price of land rebounded,
+wages for farm laborers rose, and
+unemployment dropped.</p>
+
+<p>World War I also produced economic
+changes in the postwar Plains. Because many
+cavalry animals remained to be cared for after
+the war, the U.S. War Department created the
+Remount Board in 1919 to establish remount
+depots, which would condition horses and
+mules for military use as well as train necessary
+personnel in animal care and management.
+With funding in 1921, two permanent remount
+depots were established in the Great Plains&#8211;one
+at Fort Robinson, Nebraska, and another at
+Fort Reno, Oklahoma. Fort Robinson quickly
+became the world’s largest remount station,
+housing 17,000 horses and mules by the late
+1930s.</p>
+</div2>
+
+<div2>
+<head type="sub">World War II</head>
+
+<p>The outbreak of war in Europe in September
+1939 marked the beginning of the end of the
+Great Depression. Although the United States
+continued to maintain its isolationist stance
+against military participation during the first
+two years of the conflict, the government's
+"cash and carry" policy of allowing Great Britain
+and France to purchase necessary supplies
+meant increased production and employment
+in most sections of the country, including
+the Great Plains. The upsurge of production,
+coupled with the need for soldiers in the
+armed forces, gradually reduced the surplus of
+labor. By 1942 the labor pool was drained, and
+an exhaustive search for manpower was under
+way in the military, agricultural, industrial,
+and service sectors of the American economy.
+Women entered the workforce in record numbers.
+Forty percent of the employees at Omaha's
+Martin Bomber Plant and one-half of
+Remington Arms Company personnel in Denver
+were women. Prisoners of war were used to
+bolster the labor force in nonthreatened regions
+of the country such as the Plains.</p>
+
+<p>After Pearl Harbor the Great Plains benefited
+greatly from war production and from
+numerous sectors of the economy that were
+tied to military expansion. Most of the expansion
+monies were funneled through the Defense
+Plant Corporation, a subsidiary of the
+New Deal's Reconstruction Finance Corporation,
+created in August 1940. Plains states created
+their own booster groups to lobby for
+federal contracts. For example, North Dakota's
+businessmen organized two groups&#8211;the
+North Dakota War Resource Committee
+and the Greater North Dakota Association&#8211;to
+procure some of the lucrative government
+contracts.</p>
+
+<p>During the war, the remoteness of parts of
+the Great Plains became a virtue that attracted
+new industries. Most Plains states benefited
+from the tremendous growth of the wartime
+aviation industry. Plains spaces were defensibly
+secure and wide open for the creation
+of landing strips and for the testing of armaments.
+Texas established forty air bases, including
+Avenger Field at Sweetwater, which
+trained women for the Women Air Force Service
+Pilots. The clear skies over Midland Army
+Air Field proved to be an excellent location for
+the training of aerial bombardiers. The national
+headquarters of the Air Force Training
+Command was housed at Fort Worth's Carswell
+Field, and aircraft factories were also built
+in the Dallas–Fort Worth area.</p>
+
+<p>In 1942 Montana became the site of Malmstrom
+Air Force Base, constructed by the
+Army Air Corps near Great Falls. The Air
+Corps also established Lowry Field near Denver
+after the city donated the land from an old
+sanatorium site. Buckley Field, east of Denver,
+and Peterson Field, near Colorado Springs,
+were added to the growing list of Plains airfields.
+In Wyoming, the Casper Army Air Base
+was built in the summer of 1942, and Cheyenne
+became the new home of United Air
+Lines pilot training. The city was also the site
+of a modification center that installed new armaments
+and instruments on thousands of
+<hi rend="smallcaps">B</hi>-17s and smaller bombers. The economic impact
+of these installations on the local economies
+was tremendous.</p>
+
+<p>The Prairie Provinces were just as appealing.
+The British Commonwealth Air Training
+Plan (<hi rend="smallcaps">BCATP</hi>) was formulated in the months
+before Canada declared war on Germany in
+September 1939 and was intended to train aircrews
+for the British armed forces. The bcatp
+served as Canada's primary contribution to
+the war effort and drew trainees from Britain,
+Canada, Australia, New Zealand, and India, as
+well as recruits from nations that fell to German
+forces. Administered by the Royal Canadian
+Air Force, the plan established training
+schools and runways at more than thirty sites
+in the Prairies, from Edmonton and Penhold,
+Alberta, to Winnipeg and Portage la Prairie,
+Manitoba. By August 1945, 131,553 pilots and
+aircrew members had been trained in the
+Prairie Provinces.</p>
+
+<p>To the south, Wichita, Kansas, became a
+center in the aviation industry during the war
+and continues as such to the present day. In
+1940 Boeing Aircraft Corporation received a
+government contract to expand the Beech Aircraft
+Company in Wichita. By early 1942 Boeing
+was turning out parts for their <hi rend="smallcaps">B</hi>-17 Flying
+Fortress, and the government had established
+the National Defense Training School to train
+aircraft workers. The aircraft industry and its
+associated schools brought thousands of job
+seekers to Wichita. Pratt Airfield was completed
+with government funds in 1943 and became
+home to heavy bomber groups. All totaled,
+aircraft plants in Wichita and Kansas
+City, Kansas, turned out 24,000 planes during
+the war.</p>
+
+<p>In September 1940 Offutt Field at Bellevue,
+Nebraska (near Omaha), was selected as a site
+for the production of <hi rend="smallcaps">B</hi>-26 bombers. Construction
+of the plant immediately brought
+3,000 new residents to the sleepy village. The
+plant opened in early 1942 and employed
+14,572 people at its peak. Traffic in and out of
+the plant led to construction of the first divided
+highway in Nebraska. During the course
+of the war, the Bellevue plant produced 1,500
+<hi rend="smallcaps">B</hi>-26s and more than 500 <hi rend="smallcaps">B</hi>-29s, including two
+modified <hi rend="smallcaps">B</hi>-29s&#8211;the <hi rend="italic">Enola Gay</hi> and <hi rend="italic">Bock's
+Car</hi>&#8211;which dropped the atomic bombs on
+Hiroshima and Nagasaki to end the war in the
+Pacific.</p>
+
+<p>The mobilization of thousands of guardsmen
+during the last quarter of 1940 had a major
+impact in the Great Plains. Facilities could
+not be constructed rapidly enough. Near
+Cheyenne, Fort Warren was expanded to 284
+buildings at a cost of more than $5 million.
+The Wyoming post housed 19,000 men and
+women at its peak. Soldiers' dependents lived
+in the city itself and spent millions of dollars
+annually. The monthly payroll for Fort Warren
+alone was greater than that of any of the
+state's industries. In Kansas, Fort Leavenworth
+expanded its facilities by becoming a training
+site that pumped $50 million into the Kansas
+economy in 1940 alone. Other army training
+sites at Salina's Camp Phillips and nearby Fort
+Riley as well as naval air corps training facilities
+at Hutchinson and Olathe forced the
+prices of consumer goods in those areas to
+increase by 25 percent between 1939 and 1944.</p>
+
+<p>Defense industries boomed. Again, the relative
+security of Plains isolation proved to be the
+drawing card that brought rocket, mine, and
+bomb production facilities to Sidney, Grand
+Island, Hastings, and Mead, Nebraska. In Denver,
+Remington Arms manufactured smallcaliber
+ammunition, the Kaiser Company finished
+artillery shells, and Rocky Mountain Arsenal
+produced poisonous gases. Most of these
+expansive facilities closed within weeks of the
+war's end in 1945, but some found new uses
+after the war. The Remington Arms Company
+buildings ultimately became Denver's Federal
+Center. The Grand Island Cornhusker Ordnance
+Plant was reopened for service during
+the Korean and Vietnam conflicts, finally closing permanently in 1973. However, lack of waste
+disposal standards throughout their years of operation
+has endowed a legacy of soil and water
+pollution for residents presently living near
+many wartime Plains ordnance plants.</p>
+
+<p>War needs extended into other areas of the
+home front as well in the early 1940s. In Denver,
+foundries that once manufactured mining
+equipment and sugar refining gear began to
+make oil production machinery. In general,
+the Plains oil industry expanded. But the
+Plains industries most positively affected by
+the war were agriculture and livestock production.
+The pressure to mechanize increased
+as much of the traditional farm labor force
+was pressed into military service. Improved
+financing for farm machinery allowed many
+farmers to acquire tractors, which subsequently
+displaced some two million horses
+and mules between 1941 and 1945, while increasing
+the amount of arable land in the
+Plains by 5 percent. Farmers' cash receipts rose
+throughout the Plains during the war years,
+doubling, for example, in Wyoming.</p>
+
+<p>The war touched the Plains in yet another
+way. As Allied forces made gains against the
+Axis powers in southern Europe and northern
+Africa through 1941, guarding and housing the
+enemy prisoners became a tremendous burden
+for Allied troop commanders. Beginning
+early in 1942, the War Department ordered the
+transfer of all captured enemy personnel to
+detention camps in the United States. By late
+1944 forty-six prisoner-of-war (<hi rend="smallcaps">POW</hi>) camp
+networks were in place in the Great Plains.
+As replacement labor in United States industries,
+prisoners were not permitted to undertake
+any degrading work, nor were they permitted
+within ten miles of sensitive military
+installations. Prisoners in a network of nineteen
+camps in Nebraska and northern Kansas
+picked beets and corn. <hi rend="smallcaps">POWS</hi> in Wyoming’s
+system of eleven camps also undertook agricultural
+jobs, as they did in Texas.</p>
+
+<p>Another kind of detention camp in the
+Great Plains revealed America's insensitive
+treatment of her own citizens&#8211;Japanese
+American internment camps. In February 1942
+President Franklin Roosevelt directed that all
+Japanese Americans were to be evacuated from
+sensitive areas in the West. Construction of the
+Amache internment camp near Granada, Colorado,
+was a boost to the local economy, employing
+1,000 men at a cost of $4.2 million. But
+a total of 7,567 Japanese, over two-thirds of
+whom were American citizens, were housed in
+deplorable conditions&#8211;cardboard houses,
+few lights, and no running water. The site was
+not completely evacuated until October 1945.</p>
+
+<p>In February 1942 the Canadian government
+undertook similar measures against all people
+of Japanese extraction living in the "defense
+zone," a 100-mile-wide strip along the coast of
+British Columbia. By June 1942 nearly 2,250
+Japanese Canadians had been deported to
+southern Alberta, where they took up residence
+in the inadequate housing formerly
+used by seasonal beet workers. Canada faced
+the same labor shortages found in the United
+States, and displaced Japanese Canadians harvested
+Alberta's sugar beets and worked in the
+Broder Canning Factory at Lethbridge.</p>
+
+<p>Despite the Great Plains’s remoteness from
+both coasts, the Japanese managed to "bomb"
+several Plains locations with balloon bombs&#8211;incendiary
+devices intended to terrorize Americans
+and set forests and cities ablaze. Between
+November 1944 and August 1945, 6,000 armed
+balloons were launched from Honshu by
+the Japanese military. Only 300 of them
+ever reached the United States, most of them
+exploding on the Pacific Coast. But a sizable
+number of the balloons drifted inland and
+exploded over the Plains. South Dakota,
+for example, reported at least nine balloon
+explosions.</p>
+</div2>
+
+<div2>
+<head type="sub">Cold War</head>
+
+<p>The cold war was born in the sniping between
+the new superpowers of the United States and
+the Soviet Union at the Potsdam Conference
+in July 1945. One month later, the United
+States unleashed the force that remained for
+nearly fifty years the primary ingredient of the
+cold war&#8211;the atomic bomb. The ever-present
+threat of a nuclear holocaust compelled the
+U.S. Army Air Force to create the Strategic Air
+Command (<hi rend="smallcaps">SAC</hi>). In 1948 <hi rend="smallcaps">SAC</hi>'s central operations
+were placed at Offutt Air Force Base,
+near Omaha, Nebraska, making the Central
+Plains "ground zero" in any nuclear confrontation
+and ushering in a new age of defense
+spending throughout the Great Plains.</p>
+
+<p>The federal government felt obliged to challenge
+the American public into steadfastly supporting
+its tough national security measures.
+The defense plan adopted in 1950 by the Truman
+administration contained two components:
+national prevention of nuclear war and
+public management of atomic war should it
+ever occur. Government leaders in the Plains
+responded to the challenge, and in early 1951
+Nebraska and South Dakota met with four
+other midwestern states to outline plans for
+civilian defense and mutual aid. Practice drills
+were encouraged on a community level, and
+on December 5, 1954, Denver residents evacuated
+the city in a mass preparedness drill designed
+to make sure that citizens could quickly
+take shelter in surrounding rural counties.</p>
+
+<p>Over the next two decades, concern for protection
+from nuclear fallout led some Americans
+to build their own fallout shelters. In June
+1962 Artesia, New Mexico, dedicated the first
+school building built entirely underground to
+protect inhabitants from fallout. Eventually,
+the belowground levels of many public buildings
+were designated as fallout shelters. Similarly,
+in 1961 an eastern Nebraska dairy built a
+thirty-five-thousand-dollar shelter designed to
+protect 200 head of dairy cattle from fallout.
+But despite strong federal encouragement and
+the dissemination of copious amounts of construction
+"how-to" data, only 1,500 private
+bomb shelters had been built by 1960.</p>
+
+<p>The threat of Soviet attack drew the American
+and Canadian portions of the Great Plains
+closer together. Alberta was located on the
+flight path of any Soviet bomb squadron
+headed for either eastern Canada or the United
+States. Thus, in 1947 Canada appointed a national
+civil defense coordinator to encourage
+provincial civil defense. Alberta’s civil defense
+plans were well ahead of those of other Prairie
+Provinces, and by 1952 the province was using
+forest fire spotters to watch for enemy aircraft.
+By 1955 Alberta had trained 25,000 civil defense
+volunteers to assist in the event of a Soviet
+attack.</p>
+
+<p>The United States and Canada joined parts
+of their ground defense forces early in the
+postwar era, and in 1948–49 Canada created
+the Mobile Striking Force and placed its joint
+army–air force headquarters in Winnipeg.
+In 1958 the two countries formally created a
+continental network of anti-aircraft defenses.
+The North American Aerospace Defense
+Command (<hi rend="smallcaps">NORAD</hi>) set up radar defenses as
+far north as the Arctic Circle and coordinated
+the system from headquarters at Colorado
+Springs, Colorado. The headquarters facility,
+which was built deep inside Cheyenne Mountain,
+was completed in 1966 at a cost of $142.4
+million.</p>
+
+<p>Colorado Springs was the recipient of more
+Department of Defense dollars after the air
+force was created as a separate branch of the
+armed forces. Established in 1948, the air force
+originally drew from a variety of sources for
+its officers, but in 1954 Congress granted approval
+for the creation of an Air Force Academy
+at Colorado Springs. The government
+authorized $126 million to purchase the 15,100
+acres of ranch land and to construct the buildings.
+Until the academy was completed, Lowry
+Air Force Base in Denver was the temporary
+facility, and the government spent $1 million
+to ready the base for its role.</p>
+
+<p>Linking the continent together in a web of
+communications became vital in the postwar
+era, and in view of those needs, pressure to
+construct an interstate highway system increased.
+Although such a network had been
+envisioned as early as 1944, federal funds had
+not materialized, and the Korean War only
+increased the strain on existing highways. Despite
+the tremendous costs involved, President
+Dwight Eisenhower signed legislation in 1956
+authorizing a twenty-five-billion-dollar interstate
+highway system. Between 1956 and 1974
+construction of the interstate system connected
+the Great Plains, greatly boosting local
+economies.</p>
+
+<p>Cold war industrial output in the Plains
+centered on the manufacture of military aircraft,
+and Wichita, Kansas, became a major
+Great Plains component in the militaryindustrial
+complex. The end of World War II
+had meant closure of one of the city's Boeing
+Aircraft plants, reducing Boeing’s Wichita
+workforce of more than 29,000 by 50 percent.
+But as cold war tensions increased in the late
+1940s, Boeing reopened its Wichita plants to
+build 1,371 <hi rend="smallcaps">B</hi>-47s&#8211;the revolutionary Stratojet.
+Another Wichita aerospace manufacturer,
+Loadcraft, built carriers for the Honest John
+missile throughout the 1950s. Nearby McConnell
+Air Force Base was activated in 1951 to
+train the <hi rend="smallcaps">B</hi>-47 pilots. The base continued its
+service into the late twentieth century as part
+of the Strategic Air Command.</p>
+
+<p>The greatest contribution of the Great
+Plains to America's cold war defenses was its
+service as a permanent home for the Strategic
+Air Command's air defense missile system.
+The construction of intercontinental ballistic
+missile (<hi rend="smallcaps">ICBM</hi>) sites in Wyoming, as well as in
+adjacent areas of Nebraska and Colorado,
+pumped $100 million into the regional economy.
+Similar economic benefits were reaped
+from the installation of Atlas missile sites in
+eastern Nebraska and Kansas, and at Altus
+<hi rend="smallcaps">AFB</hi>, Oklahoma, Dyess <hi rend="smallcaps">AFB</hi> in Texas, and
+Walker <hi rend="smallcaps">AFB</hi> in eastern New Mexico.</p>
+
+<p>Missile technology continued to evolve
+through the Titan series of missiles, and by
+1960 the advanced Minuteman series was ready
+for deployment. Upon testing, the missile's
+range was shy of its intended 5,500-mile reach,
+so selection of missile sites was confined to the
+Northern Plains because of the region’s closer
+proximity to the Soviet Union. The first location
+chosen for installation of the Minuteman
+missiles was Malmstrom Air Force Base near
+Great Falls, Montana. The Cuban missile crisis
+of October 1962 forced the rapid completion of
+the first ten missile sites and their manned
+launch-control facility.</p>
+
+<p>The second site chosen for deployment of
+150 Minuteman missiles was Ellsworth Air
+Force Base east of Rapid City, South Dakota.
+Construction required approximately 3,000
+workers who needed housing and other facilities.
+By the end of 1967, 600 Minuteman missiles
+had been installed. During the 1970s
+newer Minuteman II and Minuteman III missiles
+augmented or replaced Minuteman I
+ICBMS at 1,000 sites in the Northern Plains.</p>
+
+<p>In 1983 the Reagan administration announced
+its intention to replace fifty Minuteman
+III missiles assigned to Warren Air Force
+Base in Wyoming with the advanced <hi rend="smallcaps">MX</hi> Peacekeeper
+missiles, which could carry more warheads
+and had greater range and targeting flexibility.
+The project was completed in 1989 at a
+cost of $16.6 billion nationally for installation,
+evaluation, and research. The economic impact
+on the region was phenomenal: $232 million
+alone for hardened-silo upgrades.</p>
+
+<p>The cold war faded with the fall of the
+Berlin Wall in November 1989. In July 1991
+President George H. W. Bush and Soviet
+leader Mikhail Gorbachev signed the Strategic
+Arms Reduction Treaty, placing limits on the
+worldwide number of intercontinental ballistic
+missiles. In September of that year President
+Bush announced that all 450 operational
+Minutemen II missiles would be withdrawn,
+including all those at South Dakota's Ellsworth
+Air Force Base. The bomb wing there
+also closed in late 1995, but the base remained
+open. Because of the <hi rend="smallcaps">ICBM</hi>'s importance to
+America's cold war defenses, two missile sites
+at Ellsworth <hi rend="smallcaps">AFB</hi> are being considered for possible
+historic preservation.</p>
+
+<p>Reduced federal spending due to the end of
+the cold war had a negative economic impact
+on many parts of the Great Plains. Near Lubbock,
+Texas, Reese Air Force Base was closed,
+with the loss of an estimated $82 million to the
+local economy. Also closed was Lowry
+Force Base in Denver, which had served as a
+Titan missile site and as a training center for
+aircraft maintenance and weapons loading.
+More than 10,000 military and civilian employees
+had worked at the base, creating a
+positive economic impact greater than $600
+million annually. Closing the base in 1992 cost
+6,000 jobs in the metropolitan area.</p>
+
+<p>At the beginning of the twenty-first century,
+the Great Plains continues to play an important
+role in North America's military activities.
+The wide-open vistas still evoke images of a
+not-so-distant frontier past in which the Plains
+served as a military corridor to the Far West
+and as a place of conflict between immigrant
+peoples and Native Americans. Cities spread
+rapidly into those vistas in the twentieth century,
+and many served as production sites for
+the new technology that put military strategy
+into the air. Men and women from the very
+ethnic groups whose confrontations are part of
+Plains history now work together in military
+activities at home during times of natural disaster,
+or as far away as Haiti and Bosnia in their
+attempts to restore peace instead of waging
+war.</p>
+</div2>
+</div1>
+<div1>
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.009">Cold War Architecture</ref>
+/ <hi rend="smallcaps">ASIAN AMERICANS</hi>: <ref n="egp.asam.002">Amache Internment Camp</ref> / <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.039">United States Air Force Academy</ref> / <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.041">Villasur, Pedro de</ref> / <hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.017">Guadalupe Hidalgo, Treaty of</ref>; <ref n="egp.ha.039">San Sab&#225; Mission and Presidio</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.017">Custer, George Armstrong</ref>; <ref n="egp.ii.042">Missile Silos</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.002">Aerospace</ref>;
+<ref n="egp.ind.051">Potash</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.038">North-West Mounted Police</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.008">Assimilation Policy</ref>;
+<ref n="egp.na.063">M&#233;tis</ref> / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.047">Riel, Louis</ref> /
+<hi rend="smallcaps">RELIGION</hi>: <ref n="egp.rel.023">Ghost Dance</ref>.</p>
+</div1>
+
+<div1>
+<p/>
+<closer>
+<signed>Michael L. Tate<lb/>
+Jo Lea Wetherilt Behrens<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clendenen, Clarence C. <title level="m">Blood on the Border: The United
+States Army and the Mexican Irregulars</title>. Toronto: Macmillan
+Publishing Company, 1969.</bibl> <bibl>Conrad, Peter C. <title level="m">Training
+for Victory: The British Commonwealth Air Training
+Plan in the West</title>. Saskatoon, Saskatchewan: Western Producer
+Prairie Books, 1989.</bibl> <bibl>Goetzmann, William H. <title level="m">Army
+Exploration in the American West, 1803-1863</title>. New Haven
+<hi rend="smallcaps">CT</hi>: Yale University Press, 1959.</bibl> <bibl>Haley, James L. <title level="m">The Buffalo
+War: The History of the Red River Indian Uprising of 1874</title>.
+New York: Doubleday and Co., 1976.</bibl> <bibl>Hoig, Stan. <title level="m">The Sand
+Creek Massacre</title>. Norman: University of Oklahoma Press,
+1961.</bibl> <bibl>Holsinger, M. Paul. "Amache." <title level="j">Colorado Magazine</title> 41
+(1964): 50-60.</bibl> <bibl>Hutton, Paul Andrew, ed. <title level="m">Soldiers West:
+Biographies from the Military Frontier</title>. Lincoln: University
+of Nebraska Press, 1987.</bibl> <bibl>Larson, T. A. <title level="m">Wyoming's War
+Years, 1941-1945</title>. Stanford <hi rend="smallcaps">CA</hi>: Stanford University Press,
+1954. Reprint, Cheyenne: Wyoming Historical Foundation,
+1993.</bibl> <bibl>Leckie, William H. <title level="m">The Buffalo Soldiers: A Narrative
+of the Negro Cavalry in the West</title>. Norman: University
+of Oklahoma Press, 1967.</bibl> <bibl>McGinnis, Anthony. <title level="m">Counting
+Coups and Cutting Horses: Intertribal Warfare on the
+Northern Plains, 1738-1889</title>. Evergreen <hi rend="smallcaps">CO</hi>: Cordillera Press,
+Inc., 1990.</bibl> <bibl>Nash, Gerald A. <title level="m">The American West Transformed:
+The Impact of the Second World War</title>. Bloomington:
+Indiana University Press, 1985.</bibl> <bibl>Rickey, Don, Jr.
+<title level="m">Forty Miles a Day on Beans and Hay: The Enlisted Soldier
+Fighting the Indian Wars</title>. Norman: University of Oklahoma
+Press, 1963.</bibl> <bibl>Smith, Sherry L. <title level="m">The View from Officers'
+Row: Army Perception of Western Indians</title>. Tucson: University
+of Arizona Press, 1990.</bibl> <bibl>Stanley, George F. G. <title level="m">The Birth
+of Western Canada: A History of the Riel Rebellions</title>. Toronto:
+University of Toronto Press, 1960.</bibl> <bibl>Thompson, John
+Herd. <title level="m">The Harvests of War: The Prairie West, 1914-1918</title>.
+Toronto: McClelland and Stewart Ltd., 1978.</bibl> <bibl>Utley, Robert
+M. <title level="m">Frontier Regulars: The United States Army and the Indian,
+1866-1891</title>. New York: Macmillan Publishing Company,
+1973.</bibl> <bibl>Utley, Robert M. <title level="m">Frontiersmen in Blue: The
+United States Army and the Indian, 1848-1865</title>. New York:
+Macmillan Publishing Company, 1967.</bibl> <bibl>Wooster, Robert.
+<title level="m">The Military and United States Indian Policy, 1865-1903</title>.
+New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.063">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Populists (People's Party)</title>
+<title level="m" type="sub"></title>
+<author>Peter H. Argersinger</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.063</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Argersinger, Peter H.">Peter H. Argersinger</author>. <title level="a">"Populists (People's Party)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">683</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POPULISTS (PEOPLE'S PARTY)</head>
+
+<p>A dynamic third party of the 1890s, the People's
+Party sharply challenged the period's
+economic inequities and the unresponsiveness
+of the two major political parties. Though
+Populists, as adherents of the new party were
+called, were also important in the South and
+in the Rocky Mountain states, they were especially
+numerous and influential in the Great
+Plains.</p>
+
+<p>Populist protest emerged amid an agricultural
+depression that engulfed the Plains beginning
+in the late 1880s. A boom spurred by
+railroad development, town building, ready
+credit, and good weather collapsed because of
+drought, low crop prices, falling land values,
+and onerous debt. To protect their fading interests,
+distressed farmers demanded reforms,
+ranging from state laws reducing interest rates
+and regulating railroads to national laws providing
+agricultural credits and promoting
+monetary inflation. Increasing the money
+supply through an expanded greenback currency
+and unlimited silver coinage ("free silver")
+was widely favored to reduce the burden
+of debt and to increase farm prices.</p>
+
+<p>To the farmers' dismay, the Republican
+Party, which dominated state legislatures in the
+region, rejected their reform proposals in favor
+of untrammeled business development. Nor
+could the Democratic Party&#8211;weak, conservative,
+and focused on cultural issues&#8211;serve as a
+vehicle for agrarian economic reform.</p>
+
+<p>Mobilized by the Farmers Alliance and
+other reform organizations, angry farmers
+therefore created third parties throughout the
+Plains states in 1890. South Dakota dissidents
+moved first, forming the Independent Party
+on June 7, 1890, but it was the formation of
+the Kansas People's Party on June 12, 1890,
+that provided the name eventually adopted
+everywhere.</p>
+
+<p>These initial campaigns achieved considerable
+success. Led by crusading editors like
+William Peffer of the <title level="j">Kansas Farmer</title> and
+Henry Loucks of the <title level="j">Dakota Ruralist</title> and
+spellbinding orators like Mary Elizabeth Lease
+and "Sockless Jerry" Simpson of Kansas and
+Omer Kem of Nebraska, Populists elected several
+congressmen and senators and captured
+control of the legislatures in Nebraska and
+Kansas while gaining the balance of power in
+others.</p>
+
+<p>Kansas Populists then led in organizing a
+national People's Party in 1891. The new party's
+first national nominating convention met in
+Omaha, Nebraska, on July 4, 1892. It adopted
+the famous Omaha Platform, eloquently summarizing
+the Populists' economic and political
+reform goals, and nominated James Weaver of
+Iowa for president. The Populists carried Kansas,
+Idaho, and Nevada and garnered more
+than a million popular votes, but the party met
+little success in the South, where fraud, intimidation,
+and racism disrupted their potential
+constituency, or in the industrial East.</p>
+
+<p>But Populists again achieved important victories
+at the state level in the West, often by
+cooperating or "fusing" with Democrats on a
+common ticket. More Populists were elected to
+Congress, and Kansas, Colorado, and Nebraska
+elected Populist governors. Despite consistent
+Republican opposition, Populists eventually
+enacted important reforms in several states.
+They passed laws regulating railroads, banks,
+stockyards, and insurance companies, protecting
+labor unions, and improving working conditions.
+They were also largely responsible for
+democratic political reforms such as women's
+suffrage in Colorado and the initiative and referendum
+in South Dakota.</p>
+
+<p>But most Populist objectives required national,
+not state, action. To achieve national
+success, Weaver and other Populist leaders,
+who had already fused with Democrats in
+state elections, began pursuing a policy to arrange
+in 1896 a national fusion based on the
+issue of free silver.</p>
+
+<p>Their strategy went awry, however, when
+the Democratic Party nominated William Jennings
+Bryan of Nebraska on a free silver platform.
+Bryan had worked with Populists in Nebraska,
+and the fusionists' political logic
+dictated that the People's Party also nominate
+him, creating a solid coalition for the silver
+issue they had labored to promote. Other
+Populists argued futilely that the party should
+preserve its independence by adopting a comprehensive
+reform platform and nominating a
+Populist rather than being submerged in a
+Democratic silver campaign.</p>
+
+<p>Not only did Bryan's nomination produce
+discord, but the fusion campaign tactics further
+splintered the party and obscured its
+identity. Subordinating the party and its principles
+to the Democrats, moreover, brought
+no reward, for Bryan was soundly defeated by
+Republican William McKinley. Fusion state
+tickets did triumph in Kansas, Nebraska, and
+South Dakota, but these victories were dying
+gasps, and the disappointing performances of
+fusionist governors and legislatures further
+disillusioned the rank and file. Populist candidates
+lost almost everywhere in the 1898 elections,
+and wrangling between party o.cials
+and antifusion Populists split the national
+party. The gradual return of prosperity further
+undermined the Populists' appeal, and
+Republican legislatures in the Plains states
+provided the final blow by enacting antifusion
+laws. Disintegrating, the People's Party soon
+disappeared completely.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.019">Farmers Alliance</ref>; <ref n="egp.pd.032">Lease, Mary Elizabeth</ref>.</p>
+
+<closer>
+<signed>Peter H. Argersinger<lb/>
+Southern Illinois University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Argersinger, Peter H. <title level="m">The Limits of Agrarian Radicalism:
+Western Populism and American Politics</title>. Lawrence: University
+Press of Kansas, 1995.</bibl> <bibl>Cherny, Robert W. <title level="m">Populism,
+Progressivism, and the Transformation of Nebraska Politics</title>.
+Lincoln: University of Nebraska Press, 1981.</bibl> <bibl>McMath,
+Robert C. <title level="m">American Populism: A Social History, 1877–1898</title>.
+New York: Hill and Wang, 1993.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

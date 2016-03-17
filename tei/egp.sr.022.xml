@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gaming</title>
+<title level="m" type="sub"></title>
+<author>Erin Hogan Fouberg</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fouberg, Erin Hogan">Erin Hogan Fouberg</author>. <title level="a">"Gaming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">774</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GAMING</head>
+
+<p>Gambling was common in mining towns in
+South Dakota and Colorado during the late
+nineteenth century. Gambling, or gaming, reappeared
+in the Great Plains in response to
+antitaxation sentiments in the 1980s, when state,
+provincial, and local governments sought an
+alternative source of revenue. Many states and
+provinces began with lotteries to supplement
+their general revenue funds. Today, six Plains
+states (Colorado, Kansas, Montana, Nebraska,
+South Dakota, and Texas) and all three of the
+Prairie Provinces operate lotteries.</p>
+
+<p>Following the adoption of state lotteries in
+the United States, local, tribal, and private interests
+turned toward gambling as well. In the
+late 1980s the city of Deadwood, South Dakota,
+looked to its colorful gambling history
+to revitalize its economy. The Deadwood You
+Bet Committee used the state's initiative process
+to introduce a constitutional amendment
+to allow gambling in Deadwood. To sell gambling
+as a revenue source, the Deadwood progambling
+movement focused on gambling's
+entertainment value and pledged any revenues
+to historic preservation. In 1988 64.3 percent
+of voters in South Dakota approved limited
+stakes gambling, and in November 1989 gaming
+began in Deadwood. Deadwood expected
+100 new jobs and $2 million in bets in the first
+year. However, even with betting limits of $5,
+there were an estimated 1,183 new jobs and $93
+million in bets generated during the first six
+months.</p>
+
+<p>On the heels of Deadwood's revenue success,
+three historical mining communities in
+Colorado pushed for gaming. The Central City
+Preservation, Inc. Committee used Colorado's
+initiative process and won a constitutional
+amendment to allow limited stakes gaming in
+the cities of Black Hawk, Central City, and
+Cripple Creek. By 1995 Deadwood, Black
+Hawk, Central City, and Cripple Creek had
+forty-seven, nineteen, thirteen, and twentythree
+casinos, respectively. All four cities noted
+increased congestion and higher property values;
+the Colorado cities reported losing local
+services and local establishments to tourism
+development. One year into gaming in Colorado
+and three years into gaming in Deadwood,
+respondents to a survey in all four cities
+perceived the gaming industries as having an
+influence over local government greater than
+that of citizens. Only Deadwood respondents
+reported a significant increase in historic preservation
+efforts.</p>
+
+<p>The gaming landscape of the Great Plains
+also includes at least twenty-two casinos (Class
+III gaming) on Indian reservations. Most of
+the tribal casinos are in South Dakota and
+North Dakota, with eight and six each, respectively.
+Tribal casinos closer to urban centers
+and those casinos that can draw visitors from
+nearby states where gaming is not legal have
+been particularly successful. For example,
+tribal gaming endeavors in western Iowa have
+benefited from tighter laws in Nebraska. Riverboat
+casinos in Sioux City and Council Bluffs,
+Iowa, as well as the pari-mutuel gaming and
+slots available in Council Bluffs have also
+gained. Riverboat casinos in St. Joseph and
+Kansas City, Missouri, also lure visitors from
+the population centers of Kansas City, Kansas,
+and Omaha, Nebraska.</p>
+
+<p>Unlike the privately run casinos in the
+United States, gaming and casino operations
+in Canada fall to the provincial governments.
+Charitable gaming began in Canada in 1969,
+and in 1985 the provinces gained exclusive
+control over gaming. All three Prairie Provinces
+have lotto, video lottery, and Indian casinos.
+Manitoba and Saskatchewan also have
+government-operated casinos, and both Saskatchewan
+and Alberta have casinos run for
+charity. The widespread availability of gaming
+in Manitoba, Saskatchewan, Alberta, Montana,
+and North Dakota has discouraged the
+growth of gaming towns along the Canadian-U.S.
+international border.</p>
+
+<p>The spatial distribution of gaming in the
+Great Plains ranges from an absence of casino
+and Class III tribal gaming in the Southern
+Plains to widespread gaming in the Northern
+Plains and Prairie Provinces. The difference in
+gaming availability between states as well as
+the location of population centers at the eastern
+periphery of the Plains have encouraged
+the growth of several gaming towns and attractions
+along state borders. Whether presented
+as a way to revive the past and preserve
+history, as a harmless form of entertainment,
+or as a way to generate revenue without additional
+taxation, gaming is changing the economic,
+political, social, and cultural landscapes
+of the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.018">Deadwood, South Dakota</ref>.</p>
+
+<closer>
+<signed>Erin Hogan Fouberg<lb/>
+Mary Washington College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Campbell, Colin S., and Garry J. Smith. "Canadian Gambling:
+Trends and Public Policy Issues.'' <title level="j">Annals of the American
+Academy of Political and Social Science</title> 556 (1998): 22–35.
+Fouberg, Erin Hogan. "South Dakota Gaming: A Regional
+Analysis." <title level="j">Great Plains Research</title> 5 (1996): 179–212.</bibl>
+<bibl>Long, Patrick T. "Early Impacts of Limited Stakes Casino
+Gambling on Rural Community Life." <title level="j">Tourism Management</title>
+17 (1996): 341–53.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

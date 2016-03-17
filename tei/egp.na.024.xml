@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crows</title>
+<title level="m" type="sub"></title>
+<author>Rodney Frey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Frey, Rodney">Rodney Frey</author>. <title level="a">"Crows."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">571-572</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CROWS</head>
+
+<p>The Crow people traditionally call themselves
+<hi rend="italic">Apsaalooke</hi> or <hi rend="italic">Absaroka</hi>, commonly translated
+as "Children of the Large-Beaked Bird." While
+likely referring to the raven, this term was misinterpreted
+by early trappers who began to
+address the Apsaalooke as the Crows. The
+Crows attribute their origins, as well as the
+creation of the world, to the trickster Old Man
+Coyote. The narrative begins with Old Man
+Coyote traveling alone in a cold and wet world.
+As four ducks flew over, Old Man Coyote asked
+his younger brothers to dive beneath the waters
+and bring up some earth so he could make
+the land. The first duck dove but was unsuccessful,
+as were the second and third ducks.
+Finally, Old Man Coyote asked the fourth
+duck, Hell Diver, to bring up some earth. The
+duck dove deep and, after being down a long
+time, surfaced with a small piece of mud. With
+this earth Old Man Coyote traveled from east
+to west and made the land, mountains, and
+rivers, animals and plants, and gave them life.
+But the world was still a lonely place. So Old
+Man Coyote molded from the earth an image
+he liked and blew a small breath into it. The
+first man was made. Old Man Coyote was not
+satisfied. He tried again and the first woman
+was created. Old Man Coyote was no longer
+alone. He taught the people how to live and
+pray, giving them their language, clan system,
+and ceremonies.</p>
+
+<p>The historic migration of the Crows from
+the Lake Winnipeg region of Canada into the
+Bighorn and Yellowstone River basins of Montana
+and Wyoming (probably before 1600)
+predated the arrival of the horse. Horses were
+acquired by 1750, and the Crows' economic life
+was transformed from one of sedentary farming
+to one of bison hunting. The horse became
+an integral symbol of Crow identity and status.
+Male leadership roles became predicated on
+achieving a series of war deeds, such as touching
+an enemy in combat or leading a successful
+horse raid against an enemy. Among their enemies
+were the Blackfeet, Cheyennes, and Lakotas.
+The Sun Dance became a prominent
+ceremonial expression, helping unite the tribe
+and providing a means to obtain spiritual
+power to avenge the death of a relative.</p>
+
+<p>Despite the changes initiated by the adoption
+of the horse, the Crows retained elements
+of their former society. The Tobacco Ceremony,
+the yearly planting and harvesting of
+the sacred tobacco seeds, reflected their once-agrarian
+orientation. The Crows also maintained
+their matrilineal clan structure, and
+even today's clan system is based on the thirteen
+original clans. The Crow language is part
+of the Siouan family, thus giving them a linguistic
+affiliation with many other tribes of the
+region. Today, up to one-third of the population
+continues to speak their native language.</p>
+
+<p>The central organizing principle around
+which much of Aboriginal and contemporary
+Crow society revolves is best understood in the
+Crow term for clan, <hi rend="italic">ashammaleaxia</hi>, literally
+meaning "driftwood lodges." As an individual
+piece of driftwood has difficulty surviving the
+powerful eddies and boulders of the Yellowstone
+or Bighorn Rivers, so too does an individual
+Crow have difficulty surviving the river
+of life, full of potential adversaries&#8211;formerly
+Lakotas and Blackfeet but now unemployment,
+substance abuse, and discrimination.
+But in tightly lodging itself with other pieces of
+driftwood along the riverbank, the driftwood
+is protected. So, too, is an individual Crow
+protected and nurtured when lodged securely
+in an extensive web of kinship ties. These are
+ties made up of both social and spiritual kinsmen
+and maintained through an extensive pattern
+of gift exchanges.</p>
+
+<p>The values of ashammaleaxia are clearly evident
+in oral traditions, kinship relationships,
+and religious ceremonialism. The story of
+Burnt Face is an example. A young boy is badly
+scarred and subsequently ostracized. Burnt
+Face fasts for several days in the Big Horn
+Mountains. While on the mountain, he assembles
+the "Big Horn Medicine Wheel" as a gift to
+the Sun. Having given of himself, Burnt Face is
+adopted by the Little People, who remove his
+scar. He returns to his people and subsequently
+becomes a great healer, having extended his
+kinship ties to the Little People.</p>
+
+<p>Of all kinship relations, that of <hi rend="italic">aassahke</hi>, or
+"clan uncle and aunt," is pivotal. A clan uncle
+or aunt is any male and female member of
+one's father's mother's clan. Such individuals
+are to be respected, and gifts of food and blankets
+are provided to them during giveaways.
+In return, aassahke bestow on a child an "Indian
+name," sing "praise songs" for accomplishments,
+and offer protective prayer.</p>
+
+<p>The principles of ashammaleaxia are expressed
+in a sweat bath, a Catholic Mass, a
+medicine bundle opening, a vision quest, a
+peyote meeting, and a Sun Dance. In each instance,
+individual prayer, the "gift" of sacrificing
+food and water, or the medicine power of
+a guardian spirit may be directed at a kinsmen
+in need. The last "buffalo days" Sun Dance
+was held in 1875, but with the assistance of the
+Shoshones, the Crows were again performing
+the Sun Dance by the 1940s. Today the Shoshone-
+Crow Sun Dance has become fully integrated
+into Crow family and religious life. As
+many as 120 men and women participate in a
+Sun Dance, several of which are held on the
+reservation during June and July. Along with
+the sponsor, each dancer has made a vow to
+the Creator or his or her own spirit guardian
+to go without food and water and "dry up" to
+help another. Typically, dances last three days.
+During the Sun Dance, individual participants
+offer prayer for family members, collective
+morning prayers are given for the welfare
+of all peoples, the sick are "doctored" by medicine
+men, and individual dancers may be
+given a vision.</p>
+
+<p>The ravages of smallpox in the 1830s, the
+destruction of the bison, the confinement to a
+reservation in 1868, and its subsequent reduction
+by treaties and allotment in the late nineteenth
+and early twentieth centuries all contributed
+to a decrease in the population to a
+low of 1,625 by the early 1930s. With improved
+health care and economic opportunities, the
+enrolled Crow population had risen to 10,000
+by 1998. The Crow Indian Reservation of some
+two million acres, of which nearly one-third is
+owned by non-Indians, is located in southcentral
+Montana.</p>
+
+<p>Electing not to adopt most of the specific
+provisions of the Indian Reorganization Act
+of 1934, the Crows wrote their own constitution
+in 1948. It established a general council
+government made up of every adult member
+of the tribe. The council elects four officers: a
+chairman, vice chairman, secretary, and vice
+secretary. It also establishes various governing
+committees that oversee such activities as land
+purchases, industrial development, housing,
+education, and tribal enrollment.</p>
+
+<p>The resilience of the Crow people is partly
+the result of persistent great leadership, including
+Plenty Coups, Pretty Eagle, Medicine
+Crow, Robert Yellowtail, Angela Russell (a
+state senator), Bill Yellowtail (a state senator
+and regional director of the Environmental
+Protection Agency), and Janine Pease Pretty
+On Top (president of Little Big Horn College
+and a 1994 MacArthur Fellow).</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.033"><hi rend="italic">Montana v. United States</hi></ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.012">Crow Fair</ref>.</p>
+
+<closer>
+<signed>Rodney Frey<lb/>
+University of Idaho</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frey, Rodney. <title level="m">The World of the Crow Indians: As Driftwood
+Lodges</title>. Norman: University of Oklahoma Press, 1987.</bibl>
+<bibl>Hoxie, Frederick. <title level="m">Parading through History: The Making of
+the Crow Nation in America, 1805–1933</title>. New York: Cambridge
+University Press, 1995.</bibl> <bibl>Lowie, Robert. <title level="m">The Crow
+Indians</title>. New York: Holt, Rinehart and Winston, 1935, rev.
+ed. 1956.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

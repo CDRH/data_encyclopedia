@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.law.000 SYSTEM "egp.law.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Law</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Law</head>
+
+<figure n="egp.law.000" rend="granted">
+<figDesc>Mounted troop of North-West Mounted Police Lancers in front of main gate, Fort Walsh, Saskatchewan, 1878</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.law.001">Law</ref></item>
+<item><ref n="egp.ha.002">Adams-Onis Treaty</ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Hispanic Americans</hi></item>
+<item><ref n="egp.gen.002">Albert v. Albert</ref></item>
+<item><ref n="egp.law.004">Anti-Corporate Farming Law</ref></item>
+<item><ref n="egp.asam.004">Asian-Exclusion Legislation</ref> <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></item>
+<item><ref n="egp.law.006">Bean, Judge Roy</ref></item>
+<item><ref n="egp.law.007">Billy the Kid</ref></item>
+<item><ref n="egp.law.008">Bonnie and Clyde</ref></item>
+<item><ref n="egp.law.009">Brewer, David</ref></item>
+<item><ref n="egp.law.010">Brownell, Herbert, Jr.</ref></item>
+<item><ref n="egp.law.011"><hi rend="italic">Brown v. The Board of Education of Topeka</hi></ref></item>
+<item><ref n="egp.law.012">Cattle Codes</ref></item>
+<item><ref n="egp.afam.014">Civil Rights <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.law.014">Coffeyville Raid</ref></item>
+<item><ref n="egp.law.015">Dawes Act</ref></item>
+<item><ref n="egp.law.016"><hi rend="italic">Ex Parte Crow Dog</hi></ref></item>
+<item><ref n="egp.asam.012">Female Employment Act <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.law.018">Hall, Emmett</ref></item>
+<item><ref n="egp.law.019">Haskell, Ella Knowles</ref></item>
+<item><ref n="egp.law.020"><hi rend="italic">In Cold Blood</hi></ref></item>
+<item><ref n="egp.law.021">Indian Claims Commission</ref></item>
+<item><ref n="egp.law.022">Indian Police</ref></item>
+<item><ref n="egp.law.023">Jim Crow Laws</ref></item>
+<item><ref n="egp.ea.024">Land Laws and Settlement <hi rend="italic">See</hi> <hi rend="smallcaps">European Americans</hi></ref></item>
+<item><ref n="egp.law.025">Leavenworth Penitentiary</ref></item>
+<item><ref n="egp.law.026"><hi rend="italic">Loan Association v. Topeka</hi></ref></item>
+<item><ref n="egp.law.027"><hi rend="italic">Lone Wolf v. Hitchock</hi></ref></item>
+<item><ref n="egp.law.028">Lougheed, James</ref></item>
+<item><ref n="egp.law.029">Macleod, James</ref></item>
+<item><ref n="egp.law.030">Masterson, Bat</ref></item>
+<item><ref n="egp.edu.025"><hi rend="italic">McLaurin v. Oklahoma State Regents</hi></ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Education</hi></item>
+<item><ref n="egp.law.032"><hi rend="italic">Meyer v. Nebraska</hi></ref></item>
+<item><ref n="egp.law.033"><hi rend="italic">Montana v. United States</hi></ref></item>
+<item><ref n="egp.law.034">Morris, Esther</ref></item>
+<item><ref n="egp.law.035">Native American Rights Fund</ref></item>
+<item><ref n="egp.law.036"><hi rend="italic">Nebraska Press Association v. Stuart</hi></ref></item>
+<item><ref n="egp.law.037">North Dakota Anti-Garb Law</ref></item>
+<item><ref n="egp.law.038">North-West Mounted Police</ref></item>
+<item><ref n="egp.law.039">Overland Trail Constitutions</ref></item>
+<item><ref n="egp.gen.028"><hi rend="italic">Persons Case</hi> <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.law.041">Pierre-Guillaume Sayer Trial</ref></item>
+<item><ref n="egp.asam.019">Poison Porridge Case <hi rend="italic">See</hi> <hi rend="smallcaps">Asian Americans</hi></ref></item>
+<item><ref n="egp.law.043">Pound, Roscoe</ref></item>
+<item><ref n="egp.law.044">Public Law 280</ref></item>
+<item><ref n="egp.pd.048">Silkwood v. Kerr-McGee Corporation</ref></item>
+<item><ref n="egp.law.046">Starkweather, Charles</ref></item>
+<item><ref n="egp.law.047">Texas Rangers</ref></item>
+<item><ref n="egp.na.118">Treaties <hi rend="italic">See</hi> <hi rend="smallcaps">Native Americans</hi></ref></item>
+<item><ref n="egp.pd.053">Trial of Standing Bear <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.law.050"><hi rend="italic">United States v. Sioux Nation of Indians</hi></ref></item>
+<item><ref n="egp.law.051">Vigilantes</ref></item>
+<item><ref n="egp.wat.035">Water Law, Prairie Provinces <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.law.053">White, Bryon</ref></item>
+<item><ref n="egp.law.054">White Primary</ref></item>
+<item><ref n="egp.wat.041">Winters Doctrine<hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

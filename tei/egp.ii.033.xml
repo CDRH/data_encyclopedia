@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gunslingers</title>
+<title level="m" type="sub"></title>
+<author>Roger D. McGrath</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McGrath, Roger D.">Roger D. McGrath</author>. <title level="a">"Gunslingers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">389&#8211;390</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GUNSLINGERS</head>
+
+<p>Their names still reverberate through the American consciousness&#8211;<persName reg="Slade, Jack">Jack Slade</persName>, <persName reg="Hickok, James Butler (Wild Bill)">Wild Bill Hickok</persName>, <persName reg="Hardin, John Wesley">John Wesley Hardin</persName>, <persName reg="Longley, Bill">Bill Longley</persName>, <persName reg="Allison, Clay">Clay Allison</persName>, <persName reg="Logan, Harvey (Kid Curry)">Kid Curry</persName>, <persName reg="Thompson, Ben">Ben Thompson</persName>, <persName reg="Short, Luke">Luke Short</persName>, <persName reg="McCarty, Henry (Billy the Kid)">Billy the Kid</persName>. These and dozens of other gunslingers like them plied their trade in the <geogName rend="region" reg="Great Plains">Great Plains</geogName> from <placeName rend="state" key="tx" reg="Texas">Texas</placeName> and <placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName> in the south to the <geogName rend="region" reg="Dakotas">Dakotas</geogName> and <placeName rend="state" key="mt" reg="Montana">Montana</placeName> in the north. They have been romanticized, demonized, and mythologized. Their number of gunfights and killings has been both wildly exaggerated and greatly underestimated. Most deserve their reputations; some don't. They have been written about in the liveliest of narrative and psychoanalyzed in the dullest of prose. They remain figures of legendary proportions, and they continue to capture the American fancy. Why they do so is obvious. The gunslingers put their lives on the line&#8211; again and again. Their bravery and coolness under fire, for good or ill, were awe inspiring.</p>
+
+<p><persName reg="Hickok, James Butler (Wild Bill)">Wild Bill Hickok</persName> and <persName reg="Tutt, Dave">Dave Tutt</persName> warily eyed each other from opposite sides of a town square. The night before they had argued when <persName reg="Tutt, Dave">Tutt</persName> insisted on keeping <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName>'s watch as collateral for a gambling debt. <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName> told <persName reg="Tutt, Dave">Tutt</persName> not to appear in public wearing the watch if he valued his life. Now <persName reg="Tutt, Dave">Tutt</persName> stood across the square, the watch prominently displayed. Suddenly, the two men drew their guns and fired. <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName>'s round buried itself in <persName reg="Tutt, Dave">Tutt</persName>'s heart, and <persName reg="Tutt, Dave">Tutt</persName> slumped to the ground dead. Apart from the Civil War and Indian fighting, <persName reg="Tutt, Dave">Dave Tutt</persName> was the second of seven men shot to death by <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName> during his days in the <geogName rend="region" reg="The West">West</geogName>.</p>
+
+<p>Yet <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName> was by no means the leading man killer in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. <persName reg="Hardin, John Wesley">John Wesley Hardin</persName>, <persName reg="Longley, Bill">Bill Longley</persName>, and <persName reg="Miller, Jim">Jim Miller</persName> had at least eleven or twelve kills each, and <persName reg="Logan, Harvey (Kid Curry)">Kid Curry (Harvey Logan)</persName> had nine. Some would credit <persName reg="McCarty, Henry (Billy the Kid)">Billy the Kid (Henry McCarty)</persName> with six or seven and possibly as many as nine. Several others, including <persName reg="Selman, John">John Selman</persName>, <persName reg="Stoudenmire, Dallas">Dallas Stoudenmire</persName>, and <persName reg="Thompson, Ben">Ben Thompson</persName>, had five or six.</p>
+
+<p>These and other gunslingers came from a wide variety of backgrounds and worked in various capacities during their lives on the <geogName rend="region" reg="Great Plains">Plains</geogName>. Some spent most of their adult lives operating on the side of the law, a few stayed entirely outside the law, and many existed in an extralegal ambiguity resulting from Reconstruction, or feuding ranchers, or political factions criminalizing their opposition. <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName> was born in a small town in <placeName rend="state" key="il" reg="Illinois">Illinois</placeName> to a father who both farmed and operated a small store, <persName reg="McCarty, Henry (Billy the Kid)">Billy the Kid (Henry McCarty)</persName> in <placeName rend="settlement" key="ny.nyc" reg="New York City, New York">New York City</placeName> to Irish immigrants, <persName reg="Thompson, Ben">Thompson</persName> in <placeName rend="country" key="eng" reg="England">England</placeName> to parents who immigrated to the <placeName rend="coutnry" key="usa" reg="United States of America">United States</placeName>, <persName reg="Hardin, John Wesley">Hardin</persName> in <placeName rend="state" key="tx" reg="Texas">Texas</placeName> to a Methodist minister who rode the circuit, <persName reg="Selman, John">Selman</persName> in <placeName rend="state" key="ar" reg="Arkansas">Arkansas</placeName> to an English immigrant father, <persName reg="Logan, Harvey (Kid Curry)">Kid Curry</persName> to an <placeName rend="state" key="ia" reg="Iowa">Iowa</placeName> farming couple who died when he was young. Some of the gunslingers had a hardscrabble childhood; others lived a middle-class existence. They nonetheless had much in common. They were brave, had nerves of steel, were expert marksmen, and were fierce when provoked. Some of their gunfights were almost formal affairs of honor, others were drunken saloon brawls, some were part of shootouts involving several participants, and a few, when an enemy's guard was down, were executions.</p>
+
+<p>Another thing most had in common was a violent death. <persName reg="Hickok, James Butler (Wild Bill)">Hickok</persName>, <persName reg="McCarty, Henry (Billy the Kid)">Billy the Kid</persName>, <persName reg="Hardin, John Wesley">Hardin</persName>, <persName reg="Selman, John">Selman</persName>, <persName reg="Logan, Harvey (Kid Curry)">Kid Curry</persName>, <persName reg="Stoudenmire, Dallas">Stoudenmire</persName>, and <persName reg="Thompson, Ben">Thompson</persName> (and most others) were shot to death. <persName reg="Longley, Bill">Longley</persName> and <persName reg="Miller, Jim">Miller</persName> (and a few others) were hanged. Rare was the gunslinger who lived to a ripe old age and died of natural causes. <persName reg="Earp, Wyatt">Wyatt Earp</persName> did so at eighty, <persName reg="Masterson, Bat">Bat Masterson</persName> at sixtyeight.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.007">Billy the Kid</ref>; <ref n="egp.law.030">Masterson, Bat</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Roger D. McGrath<lb/>
+Thousand Oaks, California</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Miller, Nyle H., and Joseph W. Snell. <title level="m">Great Gunfighters of the Kansas Cowtowns, 1867–1886</title>. Lincoln: University of Nebraska Press, 1967.</bibl> <bibl>O'Neal, Bill. <title level="m">Encyclopedia of Western Gunfighters</title>. Norman: University of Oklahoma Press, 1979.</bibl> <bibl>Rosa, Joseph G. <title level="m">The Gunfighter</title>. Norman: University of Oklahoma Press, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

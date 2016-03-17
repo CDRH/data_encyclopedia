@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Brown v. The Board of Education of Topeka</hi></title>
+<title level="m" type="sub"></title>
+<author>Cheryl Brown Henderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henderson, Cheryl Brown">Cheryl Brown Henderson</author>. <title level="a">"<hi rend="italic">Brown v. The Board of Education of Topeka</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">448-449</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">BROWN V. THE BOARD OF EDUCATION OF TOPEKA</hi></head>
+
+<p>Long before <hi rend="italic">Brown v. The Board of Education
+of Topeka</hi> became part of the national legal
+landscape, African American parents were initiating
+court cases to challenge segregated
+public schools. The first documented school
+case took place before the Civil War. In 1849,
+in the case of <hi rend="italic">Roberts v. The City of Boston</hi>, the
+Massachusetts courts denied Benjamin Roberts
+and other African American parents the
+right to enroll their children in certain Boston
+public schools. More than thirty years later,
+African American parents in Kansas took up
+the cause of gaining equal access to public
+schools. The free-state heritage, geographical
+location, and composition of its population
+positioned Kansas to play a central role in the
+major questions of educational freedom and
+equality. In 1868 state law allowed but did not
+require separate schools. Some schools admitted
+children without discrimination, and one
+of the first state superintendents of public instruction,
+Peter McVicar, vocally opposed segregated
+schools.</p>
+
+<p>The arrival of the "Exodusters" from the
+South in the 1870s, however, hardened attitudes
+toward segregated schools in Kansas.
+Migration increased the African American
+population from 627 in 1860 to more than
+43,000 by 1880. Because of community sentiment,
+some schools began to separate children
+by race. In 1879 the Kansas legislature
+passed a statute specifically allowing first-class
+cities (those with populations of 15,000 or
+more) to operate separate primary schools.
+This law remained in effect into the 1950s.
+With the exception of those in Wyandotte
+County, secondary schools were not segregated
+in Kansas. For a span of nearly seventy
+years, from 1881 to 1949, the Kansas Supreme
+Court became the venue for the constitutional
+question of public schools and segregation.</p>
+
+<p>During that period the following cases were
+organized by African American parents across
+Kansas: <hi rend="italic">Elijah Tinnon v. The Board of Education
+of Ottawa</hi> (1881); <hi rend="italic">Knox v. The Board of
+Education of Independence</hi> (1891); <hi rend="italic">Reynolds v.
+The Board of Education of Topeka</hi> (1903); <hi rend="italic">Cartwright
+v. The Board of Education of Coffeyville</hi>
+(1906); <hi rend="italic">Rowles v. The Board of Education of
+Wichita</hi> (1907); <hi rend="italic">Williams v. The Board of Education
+of Parsons</hi> (1908); <hi rend="italic">Woolridge v. The Board of
+Education of Galena</hi> (1916); <hi rend="italic">Thurman-Watts v.
+The Board of Education of Coffeyville</hi> (1924);
+<hi rend="italic">Wright v. The Board of Education of Topeka</hi>
+(1929); <hi rend="italic">Graham v. The Board of Education of
+Topeka</hi> (1941); and <hi rend="italic">Webb v. School District No.
+90, South Park, Johnson County</hi> (1949). Individuals or small groups of parents appear to
+have acted on their own in the earliest cases. In
+later cases state and national strategies of the
+National Association for the Advancement of
+Colored People (<hi rend="smallcaps">NAACP</hi>) were clearly at work.</p>
+
+<p>In response to numerous unsuccessful attempts
+to ensure access to equal opportunities
+for all children, African American community
+leaders and organizations stepped up their
+efforts to change public education. In the fall
+of 1950 members of the Topeka chapter of the
+<hi rend="smallcaps">NAACP</hi> agreed to challenge again the separate
+but equal doctrine applied to public education
+as a result of the 1896 United States Supreme
+Court ruling in the case of <hi rend="italic">Plessy v.
+Ferguson</hi>. Chapter president McKinley Burnett,
+secretary Lucinda Todd, and attorneys
+Charles Scott, John Scott, and Charles Bledsoe
+developed the strategy for this challenge.</p>
+
+<p>The three young attorneys for the Topeka
+<hi rend="smallcaps">NAACP</hi> were graduates of Washburn University
+and Washburn Law School in Topeka. Lucinda
+Todd had taught in one of the segregated
+African American schools but had
+resigned in keeping with the policy that did
+not permit married women to teach school.
+McKinley Burnett was a longtime community
+activist for the rights of African American
+people.</p>
+
+<p>From 1948 to 1950 Burnett went before the
+Topeka School Board to persuade it to end the
+practice of segregated elementary schools
+since Kansas law permitted but did not require
+segregated public schools. The decision
+to challenge segregation in the courts was a
+measure of last resort for the <hi rend="smallcaps">NAACP</hi>.</p>
+
+<p>The team of Burnett, Todd, Bledsoe, and
+the Scotts devised a plan that involved enlisting
+the support of fellow <hi rend="smallcaps">NAACP</hi> members and
+personal friends as plaintiffs in what would be
+a class action suit filed against the Board of
+Education of Topeka Public Schools. Lucinda
+Todd was the first to volunteer on behalf of
+her seven-year-old daughter. She was eventually
+joined by a group of twelve parents who
+agreed to participate on behalf of their children
+(nineteen children in all). Individuals in
+the Topeka case moved ahead, unaware that at
+the same time legal counsel for the <hi rend="smallcaps">NAACP</hi>
+headquarters in New York was representing
+plaintiffs in school cases from Delaware, Virginia,
+South Carolina, and Washington <hi rend="smallcaps">DC</hi>.</p>
+
+<p>Children of the Topeka plaintiffs had to
+travel past and away from nearby schools to
+attend the four schools designated for African
+Americans. Topeka operated eighteen schools
+for white children and only four for African
+American children. In the fall of 1950 the thirteen
+parents were instructed by the <hi rend="smallcaps">NAACP</hi> to
+locate the white school closest to their home,
+take their child or children there along with a
+witness, and attempt enrollment. The parents
+were denied the right to enroll their children
+in these schools, a result that provided the attorneys
+with documentation to file suit. The
+<hi rend="smallcaps">NAACP</hi> case was filed in federal district court
+in February 1951. At that point, Oliver Brown,
+the only male among the roster of parents, was
+designated as lead plaintiff. With that designation,
+the case became known by his name. In
+addition to Brown the plaintiff roster included
+Darlene Brown (no relation to Oliver), Lena
+Carper, Sadie Emmanuel, Marguerite Emmerson,
+Shirla Fleming, Zelma Henderson, Shirley
+Hodison, Maude Lawton, Alma Lewis,
+Iona Richardson, Vivian Scales, and Lucinda
+Todd.</p>
+
+<p>Even though their case met with defeat, the
+testimony of expert witnesses firmly established
+that while educators in African American
+schools held more advanced degrees than
+their white counterparts, the school buildings
+for African American and white children in
+Topeka were substantially unequal. These
+findings set the stage for a challenge to segregation
+per se. Under the leadership of Presiding
+Judge Walter Huxman, who had once
+served as governor of Kansas, the federal district
+court ruled in favor of the Topeka Board
+of Education. Attorneys for the <hi rend="smallcaps">NAACP</hi> immediately
+filed an appeal with the U.S. Supreme
+Court.</p>
+
+<p>When the Kansas case reached the Supreme
+Court it was combined with the other <hi rend="smallcaps">NAACP</hi>
+cases from Delaware, South Carolina, Virginia,
+and Washington <hi rend="smallcaps">DC</hi>. The combined cases became
+known by the Kansas case: <hi rend="italic">Oliver L.
+Brown v. The Board of Education of Topeka</hi>.
+These cases were supported by the <hi rend="smallcaps">NAACP</hi> and
+its executive secretary, Walter White, and were
+litigated by the daunting legal team of Charles
+Bledsoe, Harold Boulware, Robert Carter,
+William T. Coleman, Jack Greenberg, Williams
+H. Hastie, George E. C. Hayes, Oliver Hill,
+Charles Hamilton Houston, Thurgood Marshall,
+James M. Nabrit Jr., Louis Redding,
+Frank Reeves, Spotswood Robinson, Charles S.
+Scott, John Scott, U. Simpson Tate, and Franklin
+Williams.</p>
+
+<p>On May 17, 1954, at 12:52 <hi rend="smallcaps">P.M.</hi>, the Supreme
+Court issued a unanimous decision. The
+Court's verdict was based on arguments presented
+in the lower courts by social scientists
+Louisa Holt and Kenneth Clark. As a consequence
+the Court declared that the separation
+of children in public schools for no other reason
+than race was a violation of the Fourteenth
+Amendment and therefore unconstitutional.
+In December 1955 the Court directed
+the country to implement its decision "with
+all deliberate speed." The Court's edict of 1955
+became known as <hi rend="italic">Brown II</hi>.</p>
+
+<p>To this day, efforts continue in Kansas and
+across the country to realize the dream of the
+<hi rend="smallcaps">NAACP</hi>. In 1979 a group of attorneys was concerned
+that a Topeka Public Schools policy
+allowing open enrollment would lead to resegregation.
+The attorneys believed that with
+this type of choice white parents would shift
+their children to other schools, creating predominantly
+African American and predominantly
+white schools, and they petitioned the
+federal district court to reopen the original
+<hi rend="italic">Brown</hi> case to determine if Topeka Public
+Schools had in fact ever complied with the
+Court's ruling of 1954. Their case became
+known as <hi rend="italic">Brown III</hi>. The attorneys were Richard
+Jones, Joseph Johnson, and Charles Scott
+Jr. (son of one of the attorneys in the original
+<hi rend="italic">Brown</hi> case) in association with Chris Hansen
+from the American Civil Liberties Union in
+New York. In the late 1980s Topeka Public
+Schools were found to be in noncompliance.
+On October 28, 1992, after several appeals, the
+U.S. Supreme Court denied Topeka Public
+Schools' petition to once again hear the Brown
+case.</p>
+
+<p>In the absence of another appeal, the Topeka
+Board of Education was directed by federal
+district court to develop plans for compliance.
+In response, three magnet schools
+were constructed to replace older buildings
+and expand neighborhood boundaries. These
+schools are excellent facilities and make every
+effort to be racially balanced. In recognition of
+the legacy of the 1954 decision, one of these
+new schools was named for the Scott family
+attorneys. Another was named for one of the
+city's leading African American teachers, the
+late Mamie Williams.</p>
+
+<p>In 1988, in order to create a living tribute to
+the attorneys and plaintiffs in the original
+Brown case, the family of the late Oliver L.
+Brown and other community members in
+Topeka established the Brown Foundation for
+Educational Equity, Excellence, and Research.
+In 1990 the Brown Foundation sought to create
+a permanent place for the interpretation
+and commemoration of the landmark Supreme
+Court decision. On October 26, 1992,
+after two years of work by the Brown Foundation,
+President George H. W. Bush signed the
+<hi rend="italic">Brown v. The Board of Education</hi> National Historic
+Site Act to commemorate the landmark
+Supreme Court Decision.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.014">Civil Rights</ref>; <ref n="egp.afam.018">Exodusters</ref>; <ref n="egp.afam.038">Scott Family</ref> / <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.051">Topeka, Kansas</ref>.</p>
+
+<closer>
+<signed>Cheryl Brown Henderson<lb/>
+Brown Foundation</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

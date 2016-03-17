@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.034 SYSTEM "egp.art.034.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Howe, Oscar (1915-1983)</title>
+<title level="m" type="sub"></title>
+<author>John A. Day</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Day, John A.">John A. Day</author>. <title level="a">"Howe, Oscar (1915-1983)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">120-121</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOWE, OSCAR (1915-1983)</head>
+
+<figure n="egp.art.034" rend="granted">
+<figDesc>Oscar Howe in his studio at the University of South</figDesc>
+</figure>
+
+<p>Internationally acclaimed Yanktonai Nakota
+painter Oscar Howe was a major force in the
+evolution of the Native American fine arts
+movement. In the 1950s and 1960s Howe led
+his generation in the transition from the
+highly prescribed Studio style to greater personal
+expression and active engagement with
+mainstream modern art.</p>
+
+<p>Oscar Howe was born on May 13, 1915, at
+Joe Creek on the Crow Creek Reservation
+in South Dakota. His Indian name, Mazuha
+Hokshina, translates as Trader Boy, which
+proved particularly appropriate given his lifelong
+commitment to bridging Native American
+and European American cultures. Howe
+came from a distinguished Yanktonai family
+that included hereditary chiefs and noted orators.
+At age seven Howe was sent to the Pierre
+Indian School, which was administered by the
+Bureau of Indian Affairs on a military model
+that actively promoted assimilation. Serious
+health problems interrupted Howe's education,
+but he subsequently graduated from the
+school in 1933. Howe enrolled in the Santa Fe
+Indian School in New Mexico in 1935, two
+years after Dorothy Dunn had established an
+innovative art program known as the Studio.
+Here he was one of a select group of young
+artists to receive the training and encouragement
+necessary to pursue careers in art. Howe
+graduated in 1938 as salutatorian of his class.</p>
+
+<p>Returning to South Dakota, Howe taught
+art at the Pierre Indian School until 1940,
+when he joined the <hi rend="smallcaps">WPA</hi> South Dakota Artist
+Project, illustrating several books and painting
+murals in Mitchell and Mobridge. In 1942 he
+was drafted into the U.S. Army and served for
+three and a half years with combat forces in
+Europe. Honorably discharged in 1945, Howe
+returned to his art and in 1947 won the grand
+prize at the second annual National Indian
+Painting Competition at the Philbrook Museum
+of Art in Tulsa, Oklahoma. With the
+prize of $350, he married Adelheid Hample,
+whom he had met in Germany; their only
+child, Inge Dawn, was born in 1949. Howe attended
+Dakota Wesleyan University in Mitchell
+on the gi Bill, receiving a bachelor of arts
+degree in 1952. During this period, the artist
+began designing the murals for Mitchell's
+"world-famous" Corn Palace, a commission
+he executed annually until 1971. Howe once
+again returned to Pierre, South Dakota, between
+1953 and 1957 and taught high school art.
+He entered the master of fine arts program at
+the University of Oklahoma, graduating in
+1954. In 1957 Howe accepted a position as professor
+and artist in residence at the University
+of South Dakota in Vermillion, beginning a
+distinguished twenty-five-year tenure at that
+institution.</p>
+
+<p>These were the artist's most productive
+years, marked by over sixty solo exhibitions,
+fifteen grand or first-place prizes, and numerous
+awards. By this time, Howe had rejected
+the last vestiges of the Studio style for
+strong colors, pulsating space, dynamic movement,
+and a high degree of abstraction. <title>Sioux Seed Player</title> (1974), a casein painting on paper,
+is an excellent example of Howe's mature
+style. Masterfully executed, the painting is intensely
+pristine and compositionally complex,
+but its most compelling feature is its dynamism.
+Utilizing highly colorful flat shapes,
+Howe created a fluid, ambivalent, and virtually
+pulsating spatial illusion that is unique in
+Native American art.</p>
+
+<p>A signature event in Howe's life, often cited
+as helping to change the direction of Native
+American art, occurred in 1958. That year the
+artist challenged the jurors at the Philbrook's
+annual National Indian Painting Competition
+after they assessed one of his more abstract
+submissions as not Indian enough to qualify
+for an award. In a justifiably famous letter,
+Howe advanced the cause of personal expression,
+with the result that a new experimental
+category was added to future competitions&#8211;a
+decision that was a powerful incentive to
+younger artists.</p>
+
+<p>During his life Howe was honored with the
+Dorothy Field Award from the Denver Art
+Museum (1952); the Mary Benjamin Award
+from the Museum of New Mexico, Santa Fe
+(1960); the Waite Phillips Trophy for Outstanding
+Contributions to American Indian
+Art from the Philbrook Museum of Art,
+Tulsa (1966); the South Dakota Governor's
+Award for Creative Achievement (1973); and
+the Golden Bear Award from the University of
+Oklahoma (1978).</p>
+
+<p>Oscar Howe retired from the faculty of the
+University of South Dakota in 1980 and was
+recognized with a major retrospective exhibition
+that toured nationally between 1981 and
+1983. After a prolonged illness, he died on October
+7, 1983. Throughout his life, Oscar Howe
+demonstrated a strong connection with the
+land of his forebears and passionately advanced
+the creation of a Northern Plains style
+of Native American fine arts. Today his aesthetic
+leadership is widely acknowledged, and
+his work is celebrated for its revolutionary impact
+and its assertion of the creative vitality of
+Native American art in contemporary culture.
+Howe's achievements are memorialized with
+major collections of his work in South Dakota
+at the Oscar Howe Art Center in Mitchell, the
+South Dakota Memorial Art Center in Brookings,
+and the Oscar Howe Gallery and Archives
+at the University Art Galleries in Vermillion,
+South Dakota.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.014">Corn Palace</ref>.</p>
+
+
+<closer>
+<signed>John A. Day<lb/>
+University of South Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dockstader, Frederick J., ed. <title level="m">Oscar Howe: A Retrospective Exhibition</title>. Tulsa: Thomas Gilcrease Museum Association,
+1982.</bibl> <bibl>Howe, Oscar. <title level="m">Oscar Howe, Artist of the Sioux</title>. Vermillion
+<hi rend="smallcaps">SD</hi>: Oscar Howe, 1974.</bibl> <bibl>White, Mark Andrew. "Oscar
+Howe." <title level="j">American Indian Art Magazine</title> 23 (1997):
+36–43.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

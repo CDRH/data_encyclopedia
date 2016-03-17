@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kansas City Jazz</title>
+<title level="m" type="sub"></title>
+<author>Tom Ineck</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ineck, Tom">Tom Ineck</author>. <title level="a">"Kansas City Jazz."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">541-542</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KANSAS CITY JAZZ</head>
+
+<p>Like its counterparts in other urban cultural
+hotbeds, Kansas City jazz emerged in the early
+decades of the twentieth century with a distinctive
+sense of place. The unique Kansas City
+brand of jazz drew on the orchestral ragtime,
+boogie-woogie, and rural blues of the region;
+was based largely on repetitive phrases, or
+riffs; and was performed by big bands. In that
+respect, it owes little to the more familiar jazz
+style of New Orleans, which was distinguished
+by its small group interplay, or polyphony. By
+contrast, Kansas City jazz is known for its
+powerful rhythmic drive and the dominance
+of reed instruments, especially the saxophone.</p>
+
+<p>Kansas City's prominence as a jazz center in
+the 1920s and 1930s can be attributed in part to
+geography. A hub for itinerant territory bands
+that performed throughout the Great Plains
+and Southwest, Kansas City attracted a talented
+cross section of musicians. They came
+from Oklahoma City and Tulsa, from Dallas
+and San Antonio, from Omaha and Wichita,
+often stopping in Kansas City for a respite
+from the road, to hire new band members
+from the growing stable of players, or to sample
+the burgeoning nightlife. From disparate
+musical backgrounds they conceived and gave
+birth to a new, exhilarating style of jazz.</p>
+
+<p>The long reign of mayor and political boss
+Tom Pendergast also made it possible for jazz
+to flourish in Prohibition Era Kansas City.
+From about 1925 until his indictment in 1938
+for income tax fraud, Pendergast virtually controlled
+the city, awarding construction contracts
+to friends and relatives and subtly encouraging
+vice as bootleggers, gangsters, and
+corrupt politicians exploited the lucrative network
+of speakeasies and all-night cabarets.
+Pendergast's permissive political policies unwittingly
+nurtured Kansas City jazz. During
+the peak years, the city boasted several hundred
+nightclubs, ballrooms, and other venues
+offering live music&#8211;a profitable training
+ground for musicians to learn their trade and
+develop the individual sound that is the hallmark
+of jazz.</p>
+
+<p>Dozens of the most popular clubs&#8211;including
+the Sunset Club, the Subway Club, the
+Boulevard Lounge, the Cherry Blossom, the
+Lone Star, the Panama, Lucille's Paradise Band
+Box, Elks' Rest, and the Old Kentucky Bar-
+B-Que&#8211;were clustered in a district bordered
+by Twelfth Street on the north and Eighteenth
+Street on the south. Outside the district but
+still within easy walking distance were the
+Amos and Andy, Greenleaf Gardens, and the
+Hey Hay Club. Most famous of all was the
+Reno Club, where the Count Basie Orchestra
+got its start.</p>
+
+<p>Kansas City jazz evolved as performance
+opportunities proliferated in theaters, dance
+halls, and, most importantly, intimate afterhours
+clubs. Because many of the early practitioners
+of Kansas City jazz were traveling musicians
+staying in town only briefly, the musical
+arrangements remained simple enough for
+all to learn quickly, often during informal jam
+sessions. These so-called head arrangements,
+many of which incorporated standard threechord
+blues patterns, were rehearsed and
+committed to memory, allowing more freedom
+for instrumental soloists.</p>
+
+<p>Kansas City's all-night jam sessions are legendary.
+In some clubs a rhythm section was
+installed, and guest musicians were encouraged
+to sit in. In other venues the sessions
+would begin after the regular evening's entertainment
+had ended and continue until the
+last players were ready for bed or breakfast,
+which was served at many local diners catering
+to the city's nocturnal revelers. Competitive
+jam sessions, or cutting contests, among
+musicians were so prolific that a hierarchy
+evolved. Only the most skilled musicians were
+allowed to take the stage at the Sunset, the
+Subway, and the Reno, while other clubs were
+reserved for beginners.</p>
+
+<p>The earliest and most important exemplar of
+the Kansas City jazz style was Bennie Moten's
+Kansas City Orchestra, which employed many
+of the best musicians and made some of the
+music's most memorable recordings such as
+the standards "Moten Swing" and "Prince of
+Wails." Other significant bands in the early history
+of Kansas City jazz were Walter Page's Blue
+Devils, George E. Lee's Novelty Singing Orchestra,
+the Alphonso Trent Orchestra, and
+Troy Floyd's Shadowland Orchestra.</p>
+
+<p>After Moten's sudden death in 1935, several
+members of the band formed the nucleus of a
+smaller ensemble led by pianist Bill Basie. It
+was later expanded to become the Count Basie
+Orchestra. Until his death in 1984, Basie was
+the most prominent and most publicized ambassador
+of the Kansas City jazz style, repeatedly
+touring the world to popular acclaim.</p>
+
+<p>Other Kansas City bands of note were led
+by Andy Kirk, Harlan Leonard, and Jay Mc-
+Shann, best known for giving a young alto
+saxophonist named Charlie Parker his first big
+break. During a stint with McShann from
+1940 to 1942, Parker toured and made his first
+recordings, although he is better known for
+later pioneering the bebop style after his move
+to New York City.</p>
+
+<p>In the competitive, superheated climate of
+the Kansas City jam sessions, the powerful
+sound of the tenor saxophone emerged as the
+dominant instrument. Among the great tenor
+players who participated in these storied sessions
+were Lester Young, Coleman Hawkins,
+Ben Webster, Herschel Evans, Chu Berry,
+Budd Johnson, and Buddy Tate. Also contributing
+to the driving swing sound associated
+with Kansas City jazz were the walking bass
+technique, the time-keeping function of the
+rhythm guitar, and the use of the hi-hat for
+greater rhythmic emphasis. All of these were
+exemplified by early members of the Basie
+rhythm section&#8211;bassist Walter Page, guitarist
+Freddie Green, and drummer Jo Jones.</p>
+
+<p>The Kansas City sound was largely instrumental,
+but it also drew on the blues vocal
+tradition of the Deep South and Southwest.
+The blues shouter added variety to the concert
+repertoire and became a fixture of Kansas City
+jazz bands. Among the best were Joe Turner,
+Jimmy Rushing, and Walter Brown. Similarly,
+boogie-woogie piano players like McShann
+and Pete Johnson had a role in developing the
+Kansas City jazz style but with a sound closely
+related to the blues. Pianist Mary Lou Williams
+had a more sophisticated jazz keyboard style
+and also distinguished herself as a composer.</p>
+
+<p>As the era of "Pendergast prosperity" ended
+in the early 1940s, so did many employment
+opportunities for musicians. The popular,
+dance-friendly Kansas City swing style would
+eventually be incorporated into mainstream
+jazz, where its irresistible rhythms can still be
+heard.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.028">Kansas City, Kansas and Missouri</ref>.</p>
+
+<closer>
+<signed>Tom Ineck<lb/>
+Nebraska Humanities Council</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Driggs, Frank. <title level="m">"The Real Kansas City Jazz." Liner notes
+for the CD. </title> <title>The Real Kansas City Jazz of the '20s, '30s, '40s</title>,
+Columbia Records 64855 (March 1996).</bibl> <bibl>Robinson, J. Bradford.
+<title level="m">The New Grove Dictionary of Jazz</title>, S.V."Kansas City
+jazz." New York: St. Martin's Press, 1988.</bibl> <bibl>Russell, Ross. <title level="m">Jazz Style in Kansas City and the Southwest</title>. Berkeley: University
+of California Press, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

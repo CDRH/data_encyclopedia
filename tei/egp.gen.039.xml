@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Victorian Women Travelers</title>
+<title level="m" type="sub"></title>
+<author>Karen M. Morin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morin, Karen M.">Karin M. Morin</author>. <title level="a">"Victorian Women Travelers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">338-339</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VICTORIAN WOMEN TRAVELERS</head>
+
+<p>"Victorian women travelers" generally refers
+to professional European and American travel
+writers, tourists, wives of colonial administrators, and other (mostly) elite women
+who wrote narratives about their experiences
+abroad in the nineteenth century. From a "liberal"
+feminist perspective in Anglo-European
+scholarship, travel presented one means toward
+female liberation for middle- and upper-class
+Victorian women. Many studies from the
+1970s onward have demonstrated the ways in
+which women's gendered identities were negotiated
+differently "at home" versus "away," thus
+showing women's self-development through
+travel. The more recent "poststructural" turn
+in studies of Victorian travel writing has focused
+attention on women's diverse and fragmented
+identities as they narrated their travel
+experiences. In this framework, emphasis is
+placed on women's sense of themselves as
+women in new locations, but only as they
+worked through their ties to nation, class,
+whiteness, and colonial and imperial power
+structures. Much recent work has examined
+Victorian women travelers' not-so-innocent
+participation in European empire building, especially
+in terms of women travelers' ambivalent
+relationships with Indigenous peoples in
+Asia, Africa, and the Americas.</p>
+
+<p>In the North American context, attention
+has been drawn to Victorian women's narratives
+of travels throughout the American and
+Canadian West, portions of which describe
+the Great Plains. (This was stimulated at least
+in part by western historians' long-standing
+interest in women settlers' relationships with
+the land.) Coinciding with advances in transportation
+technology, particularly in the
+steamship and railroad, the American and Canadian
+West was opened for wide-scale tourism
+and travel by the middle or upper classes
+in the later Victorian period (1870s in the
+United States, a decade later in Canada). Oftentimes,
+foreign visitors from Europe came
+to the United States and Canada as part of a
+world tour, and they, as well as east-coast
+North Americans, took "grand tours" of the
+continent when the transcontinental railroad
+lines were completed. For many travelers, the
+Great Plains was a place en route to the welladvertised
+scenic attractions of points farther
+west, such as Yosemite or Vancouver, rather
+than a destination in its own right. Thus,
+while many Victorian women travelers commented
+on the scenery, people, and economic
+development of the Great Plains in their travelogues,
+they did so without ever leaving the
+trains during the portions of their journeys
+through the region.</p>
+
+<p>There are many exceptions, though. The
+Englishwoman Lady Rose Pender, for instance,
+traveled with her husband to inspect
+the family's investments in Wyoming ranching,
+and they participated in a cattle roundup
+in the Niobrara River valley&#8211;camping out
+and "roughing it" for the first time in her life.
+Pender thoroughly enjoyed this "wild rough
+life"&#8211;the clear air, the stirring scenery, and
+her feeling of physical well-being and "utter
+freedom." Mrs. Cecil Hall's 1884 narrative describes
+her three-month visit to her emigrant
+brother's farm in Manitoba. Again, what these
+and other Victorian travelers wrote about the
+Great Plains depended to a large extent on
+their routes and destinations. Women's travels
+through the Plains often followed the transects
+of the railroads; thus, for instance, those
+riding the Union Pacific Railroad wrote about
+Kansas City, Omaha, and Cheyenne, as well as
+the farms, settlements, train depots, and open
+country in between. Since it took up to several
+days to travel from Chicago to Denver by
+train, oftentimes the women wrote about the
+(in)adequacy of the train compartments
+themselves or described their primarily visual
+(and often bored) experience of passing landscapes.
+Many travelers expounded at length
+on the situation of Native Americans, especially
+Native women, who they sometimes encountered
+at train depots. British Victorian
+women travelers' rhetoric about Native peoples
+often resembled that of Indian reformers
+of the period.</p>
+
+<closer>
+<signed>Karen M. Morin<lb/>
+Bucknell University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hall, Mrs. Cecil. <title level="m">A Lady's Life on a Farm in Manitoba</title>.
+London: W. H. Allen, 1884.</bibl> <bibl>Hardy, Lady Duffus. <title level="m">Through Cities and Prairie Lands: Sketches of an American Tour</title>.
+Chicago: Belford, Clarke and Co., 1882.</bibl> <bibl>Pender, Rose. <title level="m">A Lady's Experiences in the Wild West in 1883</title>. Lincoln: University
+of Nebraska Press, 1978.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

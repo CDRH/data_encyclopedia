@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Phillips Petroleum</title>
+<title level="m" type="sub"></title>
+<author>Christopher J. Castaneda</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Castaneda, Christopher J.">Christopher J. Castaneda</author>. <title level="a">"Phillips Petroleum."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">432</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PHILLIPS PETROLEUM</head>
+
+<p>Phillips Petroleum Company is a major diversified
+energy firm engaged internationally in
+oil and gas exploration and production. Phillips
+refines, markets, and transports petroleum,
+and it also gathers, processes, and markets
+natural gas, principally in the United
+States. In addition, the company manufactures
+and sells chemicals and plastics worldwide.</p>
+
+<p>Two brothers, Frank (1873–1950) and Lee
+Eldas (1876–1944) Phillips, entered the oil
+business in 1903. In 1905 they drilled their first
+gusher when the Anna Anderson No. 1, located
+in Indian Territory, hit oil on leased land
+owned by an eight-year-old Delaware Indian
+girl of that name. The Phillips brothers remained
+in the oil business until 1915, when
+they decided to leave petroleum for banking.
+However, they soon realized that U.S. involvement
+in World War I would precipitate a steep
+rise in petroleum demand. They reconsidered
+their decision to leave the oil business and incorporated
+Phillips Petroleum Company in
+Bartlesville, Oklahoma, on June 13, 1917.</p>
+
+<p>After discovery of the huge Panhandle gas
+field in 1918, Phillips profited from the burgeoning
+natural gas industry. In particular,
+Phillips specialized in the extraction of liquids
+from natural gas. By the mid-1920s, Phillips
+was the largest producer of natural gas liquids
+in the United States.</p>
+
+<p>Since the late 1920s, consumers have recognized
+Phillips for its distinctive Phillips 66 service
+stations. Phillips originally entered the retail
+gasoline business to profit from the rapidly
+increasing demand for automobile fuel. In
+1927 Phillips opened its first oil refinery near
+Borger in the Texas Panhandle, and in the same
+year the company opened its first service station
+in Wichita, Kansas.</p>
+
+<p>During the Great Depression, Phillips
+posted its first loss ($5.7 million), and its stock
+price fell from $32 to $3 per share. The company
+persevered. During World War II, Phillips
+contributed to innovations in synthetic
+rubber and high-octane aviation gasoline. In
+the late 1940s Phillips entered the chemical
+business when it formed Phillips Chemical
+Company, a wholly owned subsidiary that operated
+a large facility by the Houston Ship
+Channel. In the 1950s Phillips began producing
+a polyolefin plastic trademarked as Marlex.
+Marlex was the most common plastic used
+in the manufacture of hula hoops, which became
+ubiquitous in that decade.</p>
+
+<p>Beginning in the mid-1940s, Phillips explored
+for petroleum internationally, first in
+Venezuela, Canada, and Colombia and later in
+the Middle East. Phillips pioneered the industry
+in Alaska when it participated in a drilling
+project at Cook Inlet in 1962 and also at Prudhoe
+Bay on the North Slope. Phillips's most
+spectacular discovery was the massive Ekofisk
+field in the Norwegian sector of the North Sea.
+Phillips also participated in a project to manufacture
+and ship liquefied natural gas (<hi rend="smallcaps">LNG</hi>)
+from Alaska to Japan during the late 1960s.</p>
+
+<p>During the 1980s, Phillips Petroleum survived
+hostile takeover attempts by groups led
+by T. Boone Pickens Jr. and Carl C. Ichan.
+Remaining independent was an expensive
+proposition that tripled Phillips's corporate
+debt. Phillips's financial condition, exacerbated
+by turmoil in the oil industry, caused it
+to either sell off or shut down some of its assets,
+including fertilizer, carbon black, and
+synthetic rubber plants. By the 1990s, Phillips
+had combined restructuring efforts with continued
+international and domestic business
+expansion. Phillips celebrated its eightieth anniversary
+in 1997 and remains the only major
+U.S. oil company still bearing its founders'
+name.</p>
+
+<closer>
+<signed>Christopher J. Castandea<lb/>
+California State University, Sacramento</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wallis, Michael. <title level="m">Oil Man: The Story of Frank Phillips and the Birth of Phillips Petroleum</title>. New York: Doubleday, 1988.</bibl>
+<bibl>Wertz, William C., ed. <title level="m">Phillips: The First 66 Years</title>. Bartlesville
+<hi rend="smallcaps">OK</hi>: Phillips Petroleum Company, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

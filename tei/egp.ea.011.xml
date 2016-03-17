@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">French Canadians</title>
+<title level="m" type="sub"></title>
+<author>Stephen Kenny</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kenny, Stephen">Stephen Kenny</author>. <title level="a">"French Canadians."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">231-232</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FRENCH CANADIANS</head>
+
+<p>Of the role of French Canadians in the Great
+Plains two things are certain. Their impact
+was significant but their legacy is tenuous. Despite
+some toponymical traces, historical
+memory of them is disappearing.</p>
+
+<p>The French Canadians were among the first
+Europeans to contact the First Nations of
+the Plains, initiating commercial activity
+and contributing to early understanding of
+the geography of the region. In the seventeenth
+century, French Canadian men, seeking
+adventure, wealth, and freedom from the
+restraints of colonial society in the valley of
+the St. Lawrence, headed west, reaching the
+Great Plains by the early eighteenth century.
+In times of French and British predominance,
+the availability of this choice irritated European
+administrators and visitors, who resented
+the French Canadians' clear spirit of
+independence.</p>
+
+<p>The territorial interest and trading activity
+of France in North America changed significantly
+at the end of the War of Spanish
+Succession. By the Treaty of Utrecht (1713),
+the French withdrew from Newfoundland
+and most of Acadia and acknowledged English
+control of the Hudson's Bay watershed.
+Threatened by the strategic losses in the Gulf
+of St. Lawrence, and hemmed in by the Thirteen
+Colonies and the English on Hudson's
+Bay, French explorers and traders diverted
+their activity to the Western Plains.</p>
+
+<p>The travels and trade of the La Vérendryes
+exemplify this new orientation. Born in Trois
+Rivières in 1695, Pierre Gaultier de Varennes,
+the Sieur de la Vérendrye soldiered in France,
+then returned to Canada. In 1726 he engaged
+in the fur trade north of Lake Superior. In the
+1730s and 1740s he and his sons traveled farther
+west, reaching the lower Saskatchewan River
+and Missouri River, in present-day North Dakota.
+In 1742 his sons Louis-Joseph and François
+crossed the Plains, probably reaching
+present-day Wyoming and certainly returning
+by way of present-day South Dakota.</p>
+
+<p>As French coureurs de bois, then voyageurs
+after the British conquest of Canada, French
+Canadians were the proletariat in the fur trade
+economy. They worked as canoemen, transporting
+European goods west and pelts east,
+and labored as guides, interpreters, porters,
+traders, negotiators, and intermediaries between
+the Native peoples and Europeans. The
+expeditions of Peter Pond, Alexander Mackenzie,
+Lewis and Clark, and John Charles
+Frémont, among others, depended upon
+French Canadians' muscle power, as well as
+their invaluable practical understanding of
+the climate and environments of the region
+and the languages and cultures of the Plains
+peoples.</p>
+
+<p>One notable French Canadian impact was
+the creation of the M&#233;tis, a unique syncretic
+and Indigenous Plains people who were
+the offspring of French traders and Native
+women. The Metis, who combined Christian
+and Native spirituality and spoke a mix of
+Ojibwa, Cree, and French languages, lived,
+traveled, and traded mostly in the Canadian
+Plains. They were displaced by the disappearance
+of the buffalo and the development
+of the agricultural frontier in the late nineteenth
+century. Resisting such change, their
+greatest leader, Louis Riel, praised as a visionary
+or excoriated as a traitor, might better be
+seen as the personification of this cultural synthesis.
+Riel was executed at Regina on November
+16, 1885, only days after the driving of
+the last spike of Canada's first transcontinental
+railroad. The contribution of Riel and his
+people remains a source of deep controversy.</p>
+
+<p>French Canadians never perceived the
+Great Plains primarily as a place of settlement
+and always preferred regions closer to home.
+Quebec did experience important internal
+and external migration of population between
+1850 and 1930, and some French Canadians
+moved west to the Prairie Provinces. Most,
+however, chose the comfort of contiguity, either
+in Montreal or regions such as the Laurentians,
+the Saguenay River, and the Gaspé
+Peninsula. Beyond Quebec thousands went to
+the industrializing towns of New England or
+the lumbering regions of Ontario.</p>
+
+<p>Some directed movement to the Prairie
+Provinces was sponsored by the Roman Catholic
+Church and individual clergymen, partly
+to attract French Canadians away from the
+lure of a multireligious and unilingual United
+States. While even today scattered French Canadian
+agricultural settlements exist in the
+provinces of Manitoba, Saskatchewan, and Alberta,
+their rate of assimilation to the prevailing
+English-speaking culture is the highest
+of any of the French-speaking minorities in
+Canada.</p>
+
+<p>Assimilation of French speakers in Canada
+outside Quebec is a serious concern, and it is
+especially critical in the west. The Francomanitobain,
+<hi rend="italic">Fransaskois</hi>, and <hi rend="italic">Franco-albertain</hi>
+minorities continue to make heroic efforts to
+preserve their French language and culture.
+While the absolute number of French speakers
+in Canada, not including Quebec, is increasing
+slightly, their proportion to the even faster
+growing English-speaking majority is in decline.
+In the mid.twentieth century, they
+comprised 7.25 percent of the total population,
+while by 1996 they were only 4.5 percent.
+With smaller numbers and a more dispersed
+population in the Canadian West, the pressure
+of assimilation there is even greater. One measure
+is the percentage of those who attend
+French-speaking schools. Despite the constitutional
+rea.rmation of their right to education
+in French and the creation of education
+divisions and construction of more schools
+since the 1980s, as of 1996 in the Prairies only
+about 16 percent of those who had the right to
+do so actually attended such schools. In Manitoba,
+where their population is more concentrated,
+about 4,500 students, or slightly less
+than 30 percent of the school-age Frenchspeaking
+minority, are taught in their own
+language. Farther west, these percentages decline
+dramatically to 12 percent in Saskatchewan
+and less than 8 percent in Alberta.</p>
+
+<p>Historical literature on the French Canadians
+in the Great Plains is uneven. Despite
+some admirable academic studies of specific
+aspects, mostly focusing on Canada, to date a
+comprehensive synthesis of their experience
+in the Great Plains region does not exist. Material
+written in French in the late nineteenth
+and early twentieth centuries was mostly
+mythological, stressing heroic explorers and
+saintly churchmen. Now frequently written by
+local enthusiasts, contemporary material in
+that language is often anecdotal and genealogical
+in approach, as well as antiquarian and
+nostalgic in value. Substantial historical writing
+of the Plains in English, both in the United
+States and Canada, often refers only slightly to
+French Canadians. Lack of familiarity with the
+language of that minority hampers western
+historians' access to the French-speaking part
+of the history of the Plains. Given the danger
+of the assimilation of the French Canadians in
+the Great Plains and the present condition of
+current scholarship, one may well wonder if
+such a history will ever be written.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.063">M&#233;tis</ref>.</p>
+
+<closer>
+<signed>Stephen Kenny<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

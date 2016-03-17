@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Norwegians</title>
+<title level="m" type="sub"></title>
+<author>John M. Pederson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pederson, John M.">John M. Pederson</author>. <title level="a">"Norwegians."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">242-243</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORWEGIANS</head>
+
+<p>Though the total number of Norwegians in
+both the United States and Canada is small,
+Norway is second only to Ireland in the percentage
+of its population who emigrated from
+Europe. Norwegian immigration to North
+America in the modern era began in 1825. Before
+the Civil War, Norwegian settlement centered
+in Wisconsin, with large settlements also
+forming in neighboring Iowa and Minnesota,
+although some Norwegians settled as far
+south as Texas. After the Civil War, Norwegians
+followed the railroads westward onto
+the Northern Great Plains. Some came directly
+from Norway; others had been born in
+places such as Houston and Fillmore Counties
+in southeastern Minnesota, or Mitchell and
+Worth Counties in northern Iowa, and had
+moved on to the next available land.</p>
+
+<p>Of all the states, North Dakota was, and
+remains, the most Norwegian in proportion
+to its total population. Traill County, in the
+middle of the Red River Valley, between the
+cities of Fargo and Grand Forks, was 74 percent
+Norwegian in 1880. By 1900 Norwegians
+comprised almost one-fourth of the state's
+population. Norwegians settled almost the entirety
+of the Goose and Sheyenne River valleys
+in the eastern half of the state and spread out
+along the Souris River in the western part
+of the state. They were successful farmers,
+quickly adjusting to Plains agriculture. In the
+early years the men supplemented their incomes
+by working as carpenters, teamsters,
+and railroad laborers, and single women took
+jobs in towns, often as maids or cooks. The
+large Norwegian presence in northwestern
+North Dakota led to the claim (a Plains tall
+tale) that one could walk from the Garrison
+Dam to the state's northwest corner without
+leaving land owned by ethnic Norwegians.</p>
+
+<p>North of the forty-ninth parallel, Saskatchewan
+was the most Norwegian province by the
+turn of the twentieth century. When the Canadian
+Pacific Railway reached Calgary, entrepreneurs
+sought to create a fortune by providing
+lumber for settlers on the treeless prairie.
+They recruited workers from the midwestern
+lumber city of Eau Claire, Wisconsin, creating
+a Norwegian colony in Calgary in the 1880s.
+Most of those born in Norway came to Canada
+by way of the United States; on the other hand,
+many Norwegians who came to the United
+States first landed in Quebec, because of its
+proximity to Norway, before going to the Midwest
+and the Great Plains. Of the 88,558 people
+of Norwegian origin living in Canada in 1931,
+almost 82 percent lived in the provinces of
+Alberta, Saskatchewan, and Manitoba.</p>
+
+<p>For most Norwegians religion played a central
+role in community and private life. The
+Norwegian state church was Lutheran, and in
+the Great Plains most Norwegians remained
+Lutheran. But this apparent source of cultural
+unity was also one of division, as Norwegians
+founded fourteen different Lutheran synods,
+or denominations, all claiming to be Lutheran.
+Many of these competing synods later merged
+into larger organizations that are now part of
+the multiethnic Evangelical Lutheran Church
+in America. The different synods were maintained
+by an assertive and vigorous clergy who
+promoted an active cultural awareness.</p>
+
+<p>In addition to the church, two other organizations
+maintained and fostered Norwegian
+culture in the Great Plains. The <hi rend="italic">bygdelag</hi>
+movement was a distinctive Norwegian organization
+formed by immigrant families and
+their descendants from a specific Norwegian
+valley, fjord area, or community district. They
+tended to be a rural phenomenon and to have
+a religious orientation. A strong attachment to
+the local Norwegian community from which
+they came was the major motivation behind
+the creation of the <hi rend="italic">bygdelag</hi>. In contrast, the
+Sons of Norway tended to be an urban organization,
+a fraternal and secular society offering
+life insurance to its members. Clergy often attacked
+the Sons of Norway as a secret society
+similar to the Masonic order.</p>
+
+<p>The Norwegians' ethnic identity is a curious
+combination of pride and humility.
+Though a church or Sons of Norway lodge
+may still serve a traditional meal of <hi rend="italic">lutefisk</hi>
+and <hi rend="italic">lefse</hi>, most Norwegians are culturally assimilated.
+The creation and continued existence
+of the <hi rend="italic">bygdelag</hi> and the Sons of Norway
+are indicative of cultural pride. On the other
+hand, Norwegian humor tends to poke fun at
+fellow countrymen, usually named Ole, Lars,
+or Lena.</p>
+
+<closer>
+<signed>John M. Pederson<lb/>
+Mayville State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Loken, Gulbrand. <title level="m">From Fjord to Frontier: A History of Norwegians in Canada</title>. Toronto: McClelland and Stewart Ltd.,
+1980.</bibl> <bibl>Lovoll, Odd. <title level="m">The Promise of America: A History of the Norwegian-American People</title>. Minneapolis: University of
+Minnesota Press, 1984.</bibl> <bibl>Thorson, Playford V. "Scandinavians."
+In <title level="m">Plains Folk: North Dakota's Ethnic History</title>, edited
+by William Sherman and Playford V. Thorson. Fargo:
+North Dakota Institute for Regional Studies, 1988: 188–
+257.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

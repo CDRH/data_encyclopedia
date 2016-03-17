@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farmers Holiday Association</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Farmers Holiday Association."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">710</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FARMERS HOLIDAY ASSOCIATION</head>
+
+<p>The Farmers Holiday Association, active from
+1932 to 1937, served as the nominal organization
+behind a protest movement by mostly
+midwestern and Great Plains farmers in reaction
+to more than ten years of depressed farm
+income. During World War I farmers met increased
+worldwide demand for food by increasing
+their farm sizes and mechanizing
+their operations. Both strategies proved to be
+problematic following the post-World War I
+crash of the farm economy that occurred when
+foreign markets contracted and wartime price
+controls ended. After a decade of neglect by the
+major political parties, many farmers looked
+to protest movements and third parties as
+the Great Depression compounded their economic
+difficulties.</p>
+
+<p>The Farmers Holiday Association grew out
+of the National Farmers Union, an organization
+that lobbied for farm aid and tariff reform,
+as well as operating purchasing and sales
+cooperatives. The name referred to the famous
+"Bank Holiday," farmers noting that if bankers
+could take a holiday to reorder their business,
+they should be allowed to do the same. The
+National Farmers Union and the Farmers Holiday
+Association remained closely linked, in
+part because the primary leader of the Farmers
+Holiday Association, Milo Reno, had also been
+the head of the Iowa Farmers Union. Milo
+Reno remained central to the organization
+well past its peak in 1933, and the Iowa chapter
+was the strongest and most active branch of the
+organization. Although the organization was
+national, it received greatest support in the
+Upper Midwest and Northern Great Plains:
+Iowa, Nebraska, Minnesota, Wisconsin, South
+Dakota, and North Dakota drew the largest
+number of followers. Each state chapter acted
+independently. In Nebraska, the Communist
+Party attempted to gain some degree of control,
+but despite considerable activity and media
+exposure, it had only limited influence.</p>
+
+<p>Most members owned property or had recently
+become tenants. Association members
+never constituted a majority of farmers in any
+region, which weakened their position and
+virtually guaranteed conflict with their neighbors.
+The core concept of the movement, cost
+of production, centered on the belief that
+farmers must make a profit on their commodities.
+In an era when many commodities sold
+for less than they cost to produce, this idea
+had obvious appeal. Under the system proposed
+by the Farmers Holiday Association,
+farmers would be allowed to grow all they
+wanted, and the federal government would
+mandate a price high enough to cover the
+costs of mortgage, seed, equipment, and labor
+plus guarantee a profit on commodities intended
+for the domestic market. The government
+would then sell the surplus on world
+markets at true market value. Similar ideas,
+embodied in the McNary-Haugen Bill, failed
+to win enough support to override President
+Calvin Coolidge's vetoes in the 1920s. Other
+positions advocated by the organization included
+tariff reform and currency inflation.</p>
+
+<p>The mechanism for change would be the
+farm strike, or "holiday." The original plan, as
+conceived by Reno and advocated by him as
+early as 1921, would call for farmers to cease
+selling their products or buying anything
+from anyone. What gave the movement power
+and importance was the unplanned radical
+behavior of its members, who, acting without
+instructions from official leadership, barricaded
+roads and forced nonstriking farmers to
+turn away from their markets. Strikers, barricade
+runners, and law enforcement officers
+all committed acts of violence. There were a
+few deaths.</p>
+
+<p>Of almost equal importance to the barricades
+were efforts to stop farm foreclosure
+sales by transforming them into "penny" or
+"Sears and Roebuck" sales. Farmers refused to
+bid more than pennies on the dollar for foreclosed
+property, even threatening those who
+attempted to enter higher bids. Following the
+sale the property would be returned to the
+original owner. In many cases striking farmers
+found active sympathy from state and local
+politicians and from local law enforcement
+agencies.</p>
+
+<p>The largest strike lasted from early August
+to early September 1932 but was successful
+only in Sioux City and Omaha. Nationally, the
+planned uprising of farmers failed to materialize.
+Other strikes failed to achieve their stated
+goals, but they did pressure the authorities to
+take action to relieve the crisis. Among the
+most important results were agreements by
+major lenders to temporarily halt farm foreclosures
+and legislation enacting statewide
+moratoriums on foreclosures in Nebraska,
+South Dakota, and Minnesota.</p>
+
+<p>The power of the Farmers Holiday Association
+declined with the election of Franklin D.
+Roosevelt to the presidency in 1932. Milo Reno
+urged a temporary halt to action in the belief
+that Roosevelt supported cost of production.
+But Roosevelt's secretary of agriculture, Henry
+Wallace, was opposed, favoring instead control
+of production coupled with payments for
+acres taken out of service, and these measures
+were embodied in the Agricultural Adjustment
+Act. Although Farmers Holiday Association
+leaders threatened continued strikes, the
+organization lost its ability to influence farmers,
+now mollified by the receipt of government
+checks. In its latter years, the organization
+and its leader, Milo Reno, flirted with
+supporters of radical action, including Huey
+Long, Father Charles Coughlin, and Francis
+Townsend, but the movement never again
+achieved its earlier levels of success. While the
+strikes were failures, the organization and its
+members did bring the desperate plight of the
+Midwest and Plains farm community to the
+attention of the nation, which resulted in New
+Deal farm relief legislation.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dyson, Lowell K. <title level="m">Red Harvest: The Communist Party and
+American Farmers</title>. Lincoln: University of Nebraska Press,
+1982.</bibl> <bibl>Shover, John. <title level="m">Cornbelt Rebellion: The Farmers' Holiday
+Association</title>. Urbana: University of Illinois Press, 1965.</bibl>
+<bibl>White, Roland, ed. <title level="m">Milo Reno: Farmers' Union Pioneer</title>.
+Iowa City <hi rend="smallcaps">IA</hi>: Athens Press, 1941.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

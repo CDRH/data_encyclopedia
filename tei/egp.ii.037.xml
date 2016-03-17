@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">International Peace Garden</title>
+<title level="m" type="sub"></title>
+<author>Sonja Rossum</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rossum, Sonja">Sonja Rossum</author>. <title level="a">"International Peace Garden."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">391</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INTERNATIONAL PEACE GARDEN</head>
+<figure n="egp.ii.037" rend="granted">
+<figDesc>Floral Flags, International Peace Garden</figDesc>
+</figure>
+
+<p>The <placeName rend="monument" key="mon.ipg" reg="International Peace Garden">International Peace Garden</placeName> was created to commemorate more than 150 years of peace between the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> and <placeName rend="country" key="can" reg="Canada">Canada</placeName>. Straddling the world's longest unguarded international boundary, it is situated in the scenic <geogName rend="mountains" reg="Turtle Mountains">Turtle Mountains</geogName> between <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName> and <placeName rend="state" key="mb" reg="Manitoba">Manitoba</placeName> and halfway between the <geogName rend="region" reg="Atlantic Coast">Atlantic</geogName> and <geogName rend="region" reg="Pacific Coast">Pacific Coast</geogName>s. Just inside the main entrance, beneath the flags of both nations, a marker is inscribed: "To God in his glory, we two nations dedicate this garden and pledge ourselves that as long as man shall live, we will not take up arms against one another."</p>
+
+<p>Inspiration for the garden began with <persName reg="Moore, Henry">Dr. Henry Moore</persName> of <placeName rend="settlement" key="on.isl" reg="Islington, Ontario">Islington, Ontario</placeName>. On July 14, 1932, his idea became a reality when over 50,000 people gathered to dedicate this monument to peace. Spreading over 2,339 acres, the garden displays a spectacular mosaic of flowers, trees, fountains, and paths. Visitors can stroll through the formal gardens, camp under aspens and oaks, and even get married in the Peace Chapel. The most prominent structure, the Peace Tower, with its four pillars, stands more than 100 feet tall right on the international boundary. More than a horticulturalist's dream, the garden hosts concerts, arts festivals, and renowned youth summer camps in music and athletics. As many as 250,000 people visit the garden each summer and help renew this pledge of friendship between <placeName rend="country" key="can" reg="Canada">Canada</placeName> and the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>.</p>
+
+<p><ref target="http://www.peacegarden.com/">International Peace Garden</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Sonja Rossum<lb/>
+University of Nebraska-Lincoln</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>"<title level="a">A Garden for Peace</title>." <title level="j">North Dakota Horizons</title> 21 (1991): 8–15.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wooden Frames</title>
+<title level="m" type="sub"></title>
+<author>Fred W. Peterson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.056</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Peterson, Fred W.">Fred W. Peterson</author>. <title level="a">"Wooden Frames."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">100-101</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOODEN FRAMES</head>
+
+<p>Wooden-frame structures are among the oldest
+made by human beings for physical shelter,
+storage of goods, and protection of livestock.
+Immigrants from the forested regions of western
+and northern Europe brought traditions
+of building with wood to North America in
+successive waves of immigration from the seventeenth
+through the twentieth centuries. Pioneer
+settlement of the Great Plains by Americans,
+Canadians, and European immigrants
+occurred from the 1850s to the 1920s, just as
+new American industries directly facilitated
+the construction of wooden buildings.</p>
+
+<p>After about 1870, steam-powered sawmills
+in the upper Midwest were mass-producing
+building materials for wooden-frame structures,
+supplanting low-production lumber
+mills powered by local streams and rivers. Beginning
+in the 1830s eastern manufacturers
+produced iron nails, and by the 1890s wire
+steel nails were available. Transport of these
+construction materials on navigable waterways,
+mainly the Missouri, supplied major
+distribution centers in the region. Then, after
+1860, railroad lines diffused building materials
+to new communities throughout the Great
+Plains. Every fledgling railroad town on the
+Plains had its lumberyard.</p>
+
+<p>European American settlers often followed
+traditional methods of building learned in
+eastern Canada and the United States or in
+Europe. Timber-frame structures were typically
+composed of eight-by-eight-inch corner
+posts, three-by-five-inch studs, and four-by-four-
+inch rafters. Builders used hand tools to
+prepare each unit of the frame according to
+proportionate size and scale, finished the units
+with appropriate mortise-and-tenon cuts, and
+joined sections of the frame with these joints.
+Timber-frame structures required at least one
+year for the thick members of the frame to
+cure, weeks for skilled carpenters to cut joints,
+and a crew of five to six workers to set sections
+of the frame in place. Plains settlers used
+this framing technique for houses, inns, commercial
+buildings, and larger outbuildings on
+farms, especially barns.</p>
+
+<p>Braced-frame structures were used for
+buildings of two or more stories such as
+stores, warehouses, and imposing dwellings.
+A braced-frame structure consisted of moderate-
+size milled-lumber members of six-by-six-
+inch posts, two-by-six-inch studs, and
+two-by-four-inch rafters. Posts and studs were
+usually mortised into a heavy sill and plate
+and, like other sections of the frame, nailed in
+place. To reinforce the structure, carpenters
+installed a diagonal brace at the top and bottom
+of the frame at each corner of the external
+wall. This method of framing satisfied conservative
+builders' preferences for a strong timber
+frame while taking advantage of some of
+the e.ciencies of building with milled lumber
+and nails.</p>
+
+<p>Balloon-frame construction developed
+when dimension lumber became available
+throughout the region during the 1860s. A
+balloon-frame structure is composed of light-weight
+four-by-four-inch corner posts, two-by-
+four-inch studs, and two-by-four-inch rafters
+nailed together at every joint, creating a
+basketlike network of components that reinforce
+and strengthen each other in an integrated
+series of structural relations. Balloon-frame
+buildings are identified by an uninterrupted
+rise of the two-by-four-inch vertical
+studs nailed to the sill at the foundation and to
+the plate at the top. Studs are doubled at the
+corners and at door and window openings to
+reinforce these sections of the frame. The interval
+between each stud is sixteen inches on
+center in order to receive forty-eight-inchlong
+lath used as support for the interior plaster
+walls and ceilings. Door and window openings
+are usually thirty-two inches wide to
+preserve the sixteen-inch spacing of the studs.
+Carpenters nail floor joists measuring two by
+eight inches or two by ten inches to the studs
+along the exterior side walls. First-story joists
+are positioned on the sill; second-story joists
+are supported by a horizontal ledger or ribbon
+that is nailed to the vertical studs. In order
+to stiffen these parts, builders nail diagonal
+bridging between each joist. A subfloor layer
+of rough boards of one by eight inches, surfaced
+with one-by-six-inch clear pine boards
+or narrow strips of hardwood, serves as the
+flooring. Builders enclose the exterior of
+the frame with a layer of one-by-eight-inch
+to one-by-ten-inch boards and cover that
+sheathing with shiplap siding. Rafters measuring
+two by six inches or two by four inches,
+nailed to the plate at twenty-four-inch intervals,
+are covered with roof boards and surfaced
+with shingles made of wood or asphalt.</p>
+
+<p>Wall and roof surfaces of balloon-frame
+structures enclose a rectangular space covered
+by a saddle roof or a square space spanned by
+a pyramidal roof. Elevations of balloon-frame
+houses vary from one to two and a half stories.
+Scale ranges from simple one- or two-room
+structures to elaborate asymmetrical extensions
+of enclosed spaces. This type of wooden
+frame best suits the needs for economical
+houses and the skills of local carpenters and
+builders. Balloon-frame commercial structures
+that fit narrow business lots can rise
+from one to three stories and are shaped as
+extended rectangles spanned by a saddle roof.
+This sloping roofline is usually concealed by
+a false-front street facade that rises to the
+full height of the structure and is crowned
+with a horizontal cornice the full width of the
+facade to give the impression of a building
+constructed according to traditional classical
+design.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.036">Lumberyards</ref>.</p>
+
+<closer>
+<signed>Fred W. Peterson<lb/>
+University of Minnesota, Morris</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Peterson, Fred W. <title level="m">Homes in the Heartland: Balloon Frame Farmhouses of the Upper Midwest, 1850–1920</title>. Lawrence:
+University Press of Kansas, 1992.</bibl> <bibl>Rempel, John I. <title level="m">Building with Wood and Other Aspects of Nineteenth-Century Building in Central Canada</title>. Toronto: University of Toronto
+Press, 1980.</bibl> <bibl>Upton, Dell. "Traditional Timber Framing."
+In <title level="m">Material Culture of the Wooden Age</title>, edited by Brooke
+Hindle. Tarrytown NY: Sleepy Hollow Press, 1981: 33–96.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

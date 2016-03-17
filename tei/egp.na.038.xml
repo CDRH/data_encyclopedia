@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Horse</title>
+<title level="m" type="sub"></title>
+<author>Pekka H&#228;m&#228;l&#228;inen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="H&#228;m&#228;l&#228;inen, Pekka">Pekka H&#228;m&#228;l&#228;inen</author>. <title level="a">"Horse."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">575-576</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HORSE</head>
+<figure n="egp.na.038" rend="granted">
+<figDesc>Julian Scott Ledger, "Kiowa Couples," 1880.</figDesc>
+</figure>
+
+<p>So much has been written about the coming of
+the horse to the Western Hemisphere with the
+Spanish invasion that it is often forgotten that
+the Americas are the home of the modern,
+single-hoofed horse, <hi rend="italic">Equus</hi>. Having evolved
+from the tiny, one-foot-tall and three-toed
+<hi rend="italic">Hyracotherium</hi> some two million years ago,
+the modern horse migrated from North America
+to Asia over the Bering Strait land bridge.
+When the first humans crossed the strait in the
+opposite direction after about 20,000 <hi rend="smallcaps">B.C.</hi>, they
+found the Great Plains teeming with horses,
+which for several millennia were among the
+many species of megafauna hunted by the first
+Plains peoples. Then, some 8,000 to 10,000
+years ago, the horse followed the mammoth,
+camel, and other large American mammals
+into extinction, apparently as the victim of
+overhunting and a changing climate.</p>
+
+<p>The ensuing intermission in the history of
+Plains Indian horse use lasted until the early
+seventeenth century, when the Spanish reintroduced
+the animal. Although horses began
+to infiltrate the Plains soon after the Spanish
+settled New Mexico in 1598, widespread
+diffusion began only after the Pueblo Revolt of
+1680. The subsequent Spanish abandonment
+of New Mexico put large numbers of livestock
+into the hands of Pueblo Indians, who embarked
+on an active horse trade with Plains
+nomads. Carried forward by Plains Indian
+raiders and traders, the horse frontier advanced
+rapidly, reaching the Missouri River in
+the 1730s and the Canadian Prairies in the
+1770s.</p>
+
+<p>The horse that the Spanish brought to the
+Americas was the famed barb horse, a mix of
+Arab and Spanish stock. Bred to survive in the
+North African deserts, these small but sturdy
+animals found a fitting ecological niche in the
+dry, grass-covered Southern Plains. By 1800
+Comanches, Kiowas, and other Native groups
+of the area possessed enormous herds. The
+region between the Rio Grande and the Arkansas
+River also supported about two million
+wild horses, which had propagated from strays
+left by raiders. However, as the horse frontier
+expanded northward through the Plains, it lost
+its momentum. The harsh northern winters
+reduced horses' reproductive success, and the
+heavy snowfall made feeding difficult, causing
+severe winter losses. Combined, these factors
+prevented most Northern Plains groups from
+becoming fully mounted. While the Southern
+Plains Indians had as many as four to six horses
+per person, only the Piegans in the Northern
+Plains had enough animals to put all their people
+on horseback.</p>
+
+<p>Horses revolutionized the Plains Indian way
+of life by allowing their owners to hunt, trade,
+and wage war more effectively, to have bigger
+tipis and move more possessions, and to transport
+their old and sick, who might previously
+have been abandoned. The impact of the horse
+was most dramatic on the Southern Plains,
+where a true equestrian culture emerged. Comanches,
+Kiowas, Arapahos, and Cheyennes,
+who became specialized horse raiders and
+herders, maintained large herds of surplus animals
+for trade with other Native groups and
+European Americans. Horses also became the
+foundation of status systems by changing relatively
+egalitarian societies into nascent class
+societies based on horse ownership. In fact, so
+attractive was this new horse culture that many
+groups&#8211;most notably Comanches, Lakotas,
+and Cheyennes&#8211;abandoned their traditional
+homelands for an equestrian existence in the
+Plains. In doing so, they became some of the
+most refined and celebrated equestrian societies
+in history, matched only by the great horse
+cultures of Asia. However, the large horse
+herds also disturbed the region's delicate ecological
+balance, as they competed for water and
+grass with native species. By the early 1840s the
+crucial river valleys had already become overexploited,
+pushing the massive bison herds
+into an early decline. It is also possible that
+horses triggered a decline in women's status
+because the bison hunt became more the domain
+of the mounted male hunter rather than
+of the society at large.</p>
+
+<p>The horse culture established weaker roots
+in the Northern Plains, where the lack of animals
+prevented the Indians from making a full
+equestrian transition. Plains Crees, Assiniboines,
+and other northern groups relied extensively
+on inferior dog transportation and
+pedestrian hunting methods. The shortage of
+animals also encouraged warfare, as tribes
+tried to stock their herds by raiding their
+neighbors. Yet another variation of the full-fledged
+horse culture emerged among the
+Pawnees, Wichitas, and other horticulturists
+of the eastern Plains, for whom the horse was
+a mixed blessing. Horses encouraged these
+farmers to diversify their economies by allowing
+them to increase the role of bison hunting
+in their subsistence cycles. Mandans, Hidatsas,
+and Arikaras on the upper Missouri River enhanced
+their role as the paramount traders in
+the Plains when they started to channel horses
+from the Southern to the Northern Plains. But
+horses also overtaxed local ecosystems, obliging
+the Pawnees, for example, to stay away
+from their villages for extended periods of
+time. Horses also attracted raiders. After 1830
+Lakota war parties swept down on Pawnee villages
+almost every year, seeking horses, corn,
+and honor, and precipitating the decline of
+this once-powerful people.</p>
+
+<p>The beginning of the reservation period after
+1850 marked the end of the Plains horse
+cultures, but it did not end the association
+between Indians and horses. During the difficult early years of reservation life, many previously
+nomadic groups turned to cattle and
+horse ranching as an alternative to the forced,
+alien agrarian lifestyle. Rodeo has offered another
+important way to maintain the connection
+with horses. On a more abstract level,
+most people still link Plains Indians and horses
+almost automatically, and the Hollywood film
+industry has sold the visual image of the
+mounted Plains warrior as the stereotype for
+all North American Indians. To many Indians
+the horse continues to symbolize their traditional
+cultures and lifeways as they existed before
+the European American takeover. From
+celebration parades and art to actual herds on
+reservation fields, horses are still integral to
+Plains Indian life.</p>
+
+<closer>
+<signed>Pekka H&#228;m&#228;l&#228;inen<lb/>
+Texas A&amp;M University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ewers, John C. <title level="m">The Horse in the Blackfoot Indian Culture</title>.
+Washington <hi rend="smallcaps">DC</hi>: Bureau of American Ethnology, 1955.</bibl>
+<bibl>Holder, Preston. <title level="m">The Hoe and Horse on the Plains: A Study
+of Cultural Development among North American Indians</title>.
+Lincoln: University of Nebraska Press, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

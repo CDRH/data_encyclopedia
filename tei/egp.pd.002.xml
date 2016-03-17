@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Aberhart, William (1878-1943)</title>
+<title level="m" type="sub"></title>
+<author>Patrick H. Brennan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brennan, Patrick H.">Patrick H. Brennan</author>. <title level="a">"Aberhart, William (1878-1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">704</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ABERHART, WILLIAM (1878-1943)</head>
+
+<p>William "Bible Bill" Aberhart was a dominating
+figure in Alberta political, religious, and
+educational life during the first half of the
+twentieth century. Born in Perth County, Ontario,
+on December 30, 1878, Aberhart moved
+to Calgary in 1910. While serving as a respected
+high school principal for the next twenty-five
+years, he became increasingly involved in Baptist
+lay preaching, founded the fundamentalist
+Calgary Prophetic Bible Institute in 1927, and
+successfully established himself as a pioneer
+radio evangelist.</p>
+
+<p>By the early 1930s the plight of many Albertans,
+ravaged by drought and economic depression,
+was desperate. Aberhart's preaching
+began to incorporate a personalized version of
+the "social credit" doctrines of the British economic
+thinker Maj. C. H. Douglas, and Prophetic
+Bible Institute study groups became the
+nucleus of a provincewide Social Credit crusade.
+After attempting unsuccessfully to convince
+the United Farmers of Alberta government
+to adopt social credit policies, he moved
+in 1934 to transform Social Credit into a fullblown
+political party.</p>
+
+<p>Aberhart's brand of "social credit" resonated
+with the traditional Alberta mix of
+"radical" economic panaceas, grassroots democracy,
+and Christianity. Political opponents
+dismissed his program of twenty-fivedollar
+monthly dividends and attacks on the
+financial establishment's "Fifty Bigshots" as
+"funny money" nonsense, and they branded
+Aberhart himself as a dangerous charlatan. Yet
+attempts to discredit Aberhart and his message
+mattered little to growing numbers of
+small businessmen, urban workers, and farmers;
+it was enough that he promised action and
+offered hope.</p>
+
+<p>Aberhart's Social Credit swept into power
+in 1935 with 54 percent of the popular vote and
+fifty-six of sixty-three legislative seats. By
+merely advocating the control, not the elimination,
+of capitalism, Aberhart's version of
+"social credit" had appealed to those who rejected
+the capitalist status quo but feared embracing
+the socialist Cooperative Commonwealth
+Federation.</p>
+
+<p>When "dividends" to increase the purchasing
+power of the poor failed to materialize,
+Premier Aberhart claimed Albertans had only
+voted for "good government." Nevertheless, a
+caucus insurgency fueled by grassroots discontent
+finally compelled passage of "social
+credit" financial and economic legislation in
+1937-38, only to have it promptly ruled unconstitutional.
+Thereafter, disillusioned with
+Aberhart's authoritarian leadership style and
+his government's failure to act aggressively
+enough on social and economic reforms,
+many radical Social Creditors abandoned the
+party. Press-gag legislation designed to muzzle
+political criticism further alienated the establishment
+and frightened intellectuals across
+the country. Fortunately for Aberhart, a less
+dramatic agenda of health and education reforms,
+as well as legislative measures favorable
+to small business and consumers, enabled Social
+Credit to stave off stiff challenges from the
+right and the left in 1940.</p>
+
+<p>World War II revived Alberta's economy
+and made governing easier, and major oil discoveries
+immediately following the war altered
+the province's economy and society almost
+beyond recognition. The political legacy
+of William Aberhart, who died suddenly in
+Vancouver on May 23, 1943, remains controversial.
+Few disagree, however, that the rightwing
+path along which he intended to lead the
+party, and which his prot&#233;g&#233; and successor,
+Ernest Manning, would take it during his long
+tenure as Social Credit premier, was clear after
+1940.</p>
+
+<closer>
+<signed>Patrick H. Brennan<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Elliott, David, and Iris Miller. <title level="m">Bible Bill: A Biography
+of William Aberhart</title>. Edmonton: Reidmore Books, 1987.</bibl>
+<bibl>Finkel, Alvin. <title level="m">The Social Credit Phenomenon in Alberta</title>.
+Toronto: University of Toronto Press, 1989.</bibl> <bibl>Irving, John.
+<title level="m">The Social Credit Movement in Alberta</title>. Toronto: University
+of Toronto Press, 1959.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

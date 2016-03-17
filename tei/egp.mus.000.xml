@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.mus.000 SYSTEM "egp.mus.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Music</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>   
+
+<div1 type="contents">
+
+<head>Music</head>
+
+<figure n="egp.mus.000" rend="granted">
+<figDesc>The original Light Crust Dough Boys, from left: Herman Arnspiger, Bob Wills, Milton Brown, Truett Kemsey, Borris Mills (official), W. Lee O'Daniel, 1931</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.mus.001">Music</ref></item>
+<item><ref n="egp.fil.005">Autry, Gene<hi rend="italic">See</hi> <hi rend="smallcaps">Film</hi></ref></item>
+<item><ref n="egp.mus.003">Axton, Hoyt</ref></item>
+<item><ref n="egp.mus.004">Baker, Chet</ref></item>
+<item><ref n="egp.mus.005">Border Radio</ref></item>
+<item><ref n="egp.mus.006">Brooks, Garth</ref></item>
+<item><ref n="egp.afam.013">Christian, Charlie <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.mus.008">Classical Music</ref></item>
+<item><ref n="egp.mus.009">Cochran, Eddie</ref></item>
+<item><ref n="egp.afam.015">Coleman, Ornette. <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.mus.011">Country Music</ref></item>
+<item><ref n="egp.mus.012">Cowboy Music</ref></item>
+<item><ref n="egp.mus.013">Denver, John</ref></item>
+<item><ref n="egp.mus.014">Dixie Chicks</ref></item>
+<item><ref n="egp.mus.015">Etheridge, Melissa</ref></item>
+<item><ref n="egp.mus.016">The Flatlanders</ref></item>
+<item><ref n="egp.fol.016">Folk Songs <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.mus.018">Frontier Opera Houses</ref></item>
+<item><ref n="egp.mus.019">Guthrie, Woody</ref></item>
+<item><ref n="egp.mus.020">Hanson, Howard</ref></item>
+<item><ref n="egp.afam.021">Harris, Wynonie <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.mus.022">Hispanic Music</ref></item>
+<item><ref n="egp.mus.023">Holly, Buddy</ref></item>
+<item><ref n="egp.mus.024">Jennings, Waylon</ref></item>
+<item><ref n="egp.mus.025">Kansas City Jazz</ref></item>
+<item><ref n="egp.afam.025">King,Curtis <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.mus.027">lang, k. d.</ref></item>
+<item><ref n="egp.mus.028">Lee, Peggy</ref></item>
+<item><ref n="egp.afam.030">McShann, Jay <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.mus.030">Miller, Glenn</ref></item>
+<item><ref n="egp.mus.031">Miller, Roger</ref></item>
+<item><ref n="egp.mus.032">Mitchell, Joni</ref></item>
+<item><ref n="egp.mus.033">National Music Museum</ref></item>
+<item><ref n="egp.mus.034">Native American Music</ref></item>
+<item><ref n="egp.mus.035">Nelson, Willie</ref></item>
+<item><ref n="egp.mus.036">Opera</ref></item>
+<item><ref n="egp.mus.037">Orbison, Roy</ref></item>
+<item><ref n="egp.mus.038">Parker, Charlie</ref></item>
+<item><ref n="egp.mus.039">Polka Music</ref></item>
+<item><ref n="egp.mus.040">Rock and Roll Music</ref></item>
+<item><ref n="egp.mus.041">Sainte-Marie, Buffy</ref></item>
+<item><ref n="egp.mus.042">Schools of Music</ref></item>
+<item><ref n="egp.mus.043">Teagarden, Jack</ref></item>
+<item><ref n="egp.mus.044">Territory Bands</ref></item>
+<item><ref n="egp.mus.045">Thomson, Virgil</ref></item>
+<item><ref n="egp.mus.046">Trudell, John</ref></item>
+<item><ref n="egp.mus.047">Tubb, Ernest</ref></item>
+<item><ref n="egp.mus.048">Vee, Bobby</ref></item>
+<item><ref n="egp.mus.049">Welk, Lawrence</ref></item>
+<item><ref n="egp.mus.050">Western Swing</ref></item>
+<item><ref n="egp.mus.051">West Texas Family Music Making</ref></item>
+<item><ref n="egp.mus.052">Wills, Bob</ref></item>
+<item><ref n="egp.mus.053">Young, Neil</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

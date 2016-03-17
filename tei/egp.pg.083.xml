@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.083">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tribal Governments, Contemporary</title>
+<title level="m" type="sub"></title>
+<author>Roberta Haines</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.083</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Haines, Roberta">Roberta Haines</author>. <title level="a">"Tribal Governments, Contemporary."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">692</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRIBAL GOVERNMENTS, CONTEMPORARY</head>
+
+<p>One of the most interesting questions that can
+be asked about contemporary tribal government
+is, what is its source of authority and
+power? Unlike the federal government or any
+state governments, tribal governments in the
+United States do not have their foundations
+in the U.S. Constitution. Indigenous North
+American peoples had sociopolitical organizations
+that preceded the federal constitutions of
+both Canada and the United States and were
+not part of the people or political units that
+created these federal systems. Treaties in both
+nation-states provide one source for the ongoing
+relationships between these nation-states
+and the Indigenous governments, but these are
+not the only sources. Executive orders, national
+legislation, and court cases set further
+parameters on the interactions of Indigenous
+peoples with dominant states in North America;
+however, these are not the sources of tribal
+authority.</p>
+
+<p>Current research from several directions in
+the United States and Canada concludes that
+the most successful tribal development occurs
+where traditional structures match the contemporary
+ones. This notion is intuitively satisfying,
+but it contradicts the historical policy
+behind the major pieces of legislation affecting
+the structure of tribal government in the
+twentieth century. The Indian Reorganization
+Act of 1934 (<hi rend="smallcaps">IRA</hi>) created a centralized corporate
+model for tribal governments, assuming
+that traditional systems were inadequate to
+the demands of modern society. Similarly, the
+Indian Act in Canada (1876) created band
+councils. Decision making and development
+under these model governments has been uneven
+at best.</p>
+
+<p>One successful fusion of traditional and
+contemporary governments is the Cheyennes'.
+Their prophet, Sweet Medicine, gave the Cheyennes
+their code of sacred laws, including organization
+of the council of forty-four chiefs
+for the ten bands of Cheyennes. The council
+consulted with warrior societies before making
+its political decisions. While contemporary
+Northern Cheyenne government is organized
+under the ira, traditional values maintain a
+strong influence. Tribal government is represented
+at the annual ceremonies, and ceremonial leaders receive tribal grants and, in
+some cases, a salary. This has the added benefit
+of continuity in the formal network between
+the Northern Cheyennes of Montana and the
+Southern Cheyennes of Oklahoma. Additionally,
+while the ira model centralizes decision
+making, the Northern Cheyennes use a referendum
+to allow the community a voice on
+major decisions.</p>
+
+<p>In a different configuration, the basic political
+unit for the nomadic Lakota (Sioux) was
+groups of families, or <hi rend="italic">tiyospayes</hi>, each governed
+by a <hi rend="italic">wicasitancan</hi>, or chief. Through the
+leaders of fraternal societies the local unit became
+part of the band, then part of the larger
+Lakota Nation. A signal value for the Lakota
+was autonomy, and the critical level of allegiance
+was local, to the <hi rend="italic">tiyospaye</hi>. Their political
+structure was designed to maximize and
+encourage this autonomy. In 1889 the United
+States forced the Sioux Nation to accept six
+separate reservations: Cheyenne River, Crow
+Creek, Lower Brul&#233;, Pine Ridge, Rosebud, and
+Standing Rock. Those contemporary Lakota
+governments, later organized under the ira,
+emphasize tribal councils, centralized authorities
+with few mechanisms to include the community
+or traditional leadership in the decision-
+making process. Government decisions
+at the Rosebud and Pine Ridge Reservations
+have been undermined by local and kinshipbased
+allegiances, as would be expected when
+the formal governing systems are seen as illegitimate
+by many in the community.</p>
+
+<p>The influence of tribal values in tribal political
+approaches at the end of the twentieth century
+is illustrated in a contemporary interpretation
+of Treaty Number 7 as considered from the
+position of the Blackfoot Confederacy of southern
+Alberta. In the treaty the Blackfeet, Bloods,
+and other signatories promise to "maintain
+peace and good order." The clause broadly requires
+order between and among Indigenous
+people and with other Crown subjects at the
+time of the treaty (1877) and in the future. Such
+an agreement, it is argued, requires or implies
+the authority and power to implement the
+treaty terms by the Native nations. One avenue
+is to participate with the federal and provincial
+governments through guaranteed representation
+or comanagement.</p>
+
+<p>Despite the amount of influence or interference
+from the United States and Canada
+and their efforts to transform, and even terminate,
+tribal polities, tribal governments persist.
+Even Indigenous nations that were forced
+to relocate several times, or those whose governments
+were repeatedly dissolved by external
+forces and whose populations were scattered,
+seem to find the most success when they
+draw their source of legitimate authority and
+power today from historic or traditional
+structures.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.014">Blackfoot</ref>; <ref n="egp.na.019">Cheyennes</ref>; <ref n="egp.na.107">Sioux</ref>.</p>
+
+<closer>
+<signed>Roberta Haines<lb/>
+University of California, Los Angeles</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Champagne, Duane. <title level="m">American Indian Societies: Strategies
+and Condition of Political and Cultural Survival</title>. Cultural
+Survival Report 32. Cambridge <hi rend="smallcaps">MA</hi>: Cultural Survival, Inc.,
+1989.</bibl> <bibl>Cornell, Stephen, and Joseph P. Kalt. <title level="m">What Can Tribes
+Do? Strategies and Institutions in American Indian Economic
+Development</title>. Los Angeles: American Indian Studies
+Center, 1992.</bibl> <bibl>Ladner, Kiera L. "Treaty Seven and Guaranteed
+Representation: How Treaty Rights Can Evolve into
+Parliamentary Seats." <title level="j">Great Plains Quarterly</title> 17 (1997): 85–101.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

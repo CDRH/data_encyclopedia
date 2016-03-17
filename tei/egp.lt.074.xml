@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.074">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stegner, Wallace (1909-1993)</title>
+<title level="m" type="sub"></title>
+<author>Dick Harrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.074</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harrison, Dick">Dick Harrison</author>. <title level="a">"Stegner, Wallace (1909-1993)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">494</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STEGNER, WALLACE (1909-1993)</head>
+
+<p>Wallace Stegner, one of the West's most important
+authors not only as novelist and short
+story writer but as historian and environmentalist,
+made major contributions to both
+American and Canadian western literatures.
+Born in Lake Mills, Iowa, on February 18,
+1909, to George and Hilda Paulson Stegner,
+he grew up in towns across the West, wherever
+his father's restless frontier spirit led
+the family. Most influential in Stegner's development
+were the childhood years in Eastend,
+Saskatchewan, from 1917 to 1920 and his
+youth in Salt Lake City. He earned a bachelor
+of arts degree from the University of Utah and
+a master's and doctorate from the University
+of Iowa.</p>
+
+<p>Stegner combined his writing with a distinguished
+teaching career that extended from
+Harvard to Stanford, where he founded the
+creative writing program and directed it from
+1945 to 1971. His first book of fiction, <title level="m">Remembering Laughter</title>, won the Little Brown Novelette
+Prize in 1937, and he went on to write or
+edit thirty-two books of history, biography,
+and fiction, including a dozen novels, as well
+as scores of articles on the land and literature
+of the West.</p>
+
+<p>One of Stegner's greatest achievements was
+his contribution to a sense of place for traditionally
+uprooted westerners. He gave the
+western landscape a concrete, vivid, sensory
+presence on the page, and among the most
+intensely realized of his western places are the
+Saskatchewan Plains in his major autobiographical
+novel, <title level="m">The Big Rock Candy Mountain</title>
+(1943), and in <title level="m">Wolf Willow</title> (1962), the
+book of history, reminiscence, and fiction that
+became an inspiration to Canadian Prairie regionalists.
+"Place" also encompasses the people
+and culture of the West, which became
+Stegner's explicit subject in nonfiction writings,
+including the essays in <title level="m">The Sound of Mountain Water</title> (1969) and histories such as
+<title level="m">Mormon Country</title> (1942).</p>
+
+<p>While Stegner loved the land, he expressed a
+lifelong ambivalence toward western American
+culture. His major writings are charged
+with a fundamental opposition between frontier
+individualism and civilizing community.
+In fiction it takes the dramatic form of tension
+between characters such as the restless frontiersman
+Bo Mason and his humane and cultivated
+wife, Elsa, in <title level="m">The Big Rock Candy Mountain</title>.
+In Stegner's most celebrated novel, <title level="m">The Angle of Repose</title> (1971), the polarities are more
+balanced. Frontier engineer Oliver Ward's succession
+of idealistic failures are as admirable, in
+their way, as Susan Ward's devotion to culture
+and human relations. As historian and environmentalist,
+Stegner was less ambivalent.
+He saw westerners as cut off from their past by
+a frontier myth that obscures and distorts it,
+and he warned of the folly of unbridled individualism
+in an environment where survival
+depends on cooperation. Central to his environmentalism
+is his biography of conservationist
+John Wesley Powell, <title level="m">Beyond the Hundredth Meridian</title> (1954), and articles in national
+magazines kept him at the forefront of the
+movement.</p>
+
+<p>Recognition of Stegner's achievements gathered
+momentum in his mature years, including
+a Pulitzer Prize for <title level="m">The Angle of Repose</title>
+at age sixty-two and a National Book Award
+for The Spectator Bird at sixty-eight. Stegner
+remained an active, major writer, publishing
+the novel <title level="m">Crossing to Safety</title> (1987), his <title level="m">Collected Stories</title> (1990), and two collections of essays
+in the last six years before his death on
+April 13, 1993.</p>
+
+<closer>
+<signed>Dick Harrison<lb/>
+Sechelt, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Arthur, Anthony. <title level="m">Critical Essays on Wallace Stegner</title>. Boston:
+G. K. Hall, 1982.</bibl> <bibl>Rankin, Charles E. <title level="m">Wallace Stegner: Man and Writer</title>. Albuquerque: University of New Mexico
+Press, 1996.</bibl> <bibl>Robinson, Forrest G., and Margaret G. Robinson.
+<title level="m">Wallace Stegner</title>. Boston: Twayne, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

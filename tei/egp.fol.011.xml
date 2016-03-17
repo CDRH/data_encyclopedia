@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farming Lore</title>
+<title level="m" type="sub"></title>
+<author>John C. Allen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Allen, John C.">John C. Allen</author>. <title level="a">"Farming Lore."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">295</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FARMING LORE</head>
+
+<p>The folklore of farming in the Great Plains is a
+blend of lore from as far away as Germany and
+from as close as the Omaha nation along the
+Missouri River of Nebraska. Farming folklore
+here is defined as the tales, beliefs, sayings,
+proverbs, jokes, and songs that are expressed
+in words and have been learned informally.
+The lore of the Great Plains is a legacy of migrants
+from Europe moving across North
+America and of Native American residents
+who were already farming, hunting, and passing
+on their beliefs through oral history.</p>
+
+<p>Farming lore addresses the trip to the place
+where new immigrants could find land of
+their own. It is about the myths that developed
+around women's madness in the Plains,
+and it is about the growing of food and the
+dreams that the pioneers had of the future.
+The lore of farming is mingled with that of
+ranching in the Great Plains. Following the
+Civil War, large cattle ranches were established,
+and then farmers began arriving. These
+tales and songs often placed the role of cowboys
+in myth as they worked the Plains from
+Texas to Alberta. Often the cowboy tales are
+placed in juxtaposition with those of the
+farmers who worked the land, providing a
+more glamorous antithesis to the life of the
+pioneers.</p>
+
+<p>Settlers' songs depicted a living that was
+hard and often almost unbearable, as the
+words to "The Little Old Shanty" reveal:</p>
+
+<lg>
+<l><seg>I am looking rather seedy now while</seg>
+<seg>holding down my claim,</seg></l>
+<l><seg>And the victuals are not always of the</seg>
+<seg>best. . . .</seg></l>
+<l><seg>The hinges are of leather and the windows</seg>
+<seg>have no glass,</seg></l>
+<l><seg>While the board roof lets the howling</seg>
+<seg>blizzards in.</seg></l>
+</lg>
+
+<p>Against this lament of hardship, the optimism
+of the settlers is also recorded and passed
+down, as the song continues:</p>
+
+<lg>
+<l><seg>Yet I rather like the novelty of living in this</seg>
+<seg>way,</seg></l>
+<l><seg>Though my bill of fare is always rather</seg>
+<seg>tame;</seg></l>
+<l><seg>But I'm happy as a clam on the land of</seg>
+<seg>Uncle Sam.</seg></l>
+</lg>
+
+<p>Other songs such as "Starving to Death on
+a Government Claim," "But the Mortgage
+Worked the Hardest," and "Hard Times" depict
+times of severe hardship.</p>
+
+<p>The hardships of the 1870s and 1880s stimulated
+the development of the Farmers Alliance.
+The Alliance organized to regulate railroads,
+to loosen the hold of merchants on the
+price of supplies and the marketing system,
+and to encourage cooperative stores. Songs
+such as "Marching for Freedom," "Dear Prairie
+Home," "The Hayseed," "The Pauper's
+Cowhides," and "The Patches on My Pants"
+illustrate the unrest felt among the Plains
+farmers as they were left out of the economic
+gains of the cities.</p>
+
+<p>Often the lore of farming and ranching was
+depicted in tales. These were set around the
+everyday activities of life on a farm. Humor
+was a common feature of the tales, as in "A
+Threshing Hoax," in which the protagonist
+sabotages a competing threshing crew by placing
+soap in the boiler so the threshing machine
+would not work. This slowed down the
+competing crew for a day without causing real
+damage to the equipment. Tales of grasshoppers
+and other disasters were also passed on,
+as in tales of straw being driven through trees
+by a tornado. These tales used humor to ease
+the burden of living in the Plains.</p>
+
+<p>Children's games were also illustrative of
+farming in the Plains. Titles such as "The
+Farmer in the Dell," brought from England,
+and love games such as "Round and Round
+the Valley" showed how mate selection was
+envisioned and highlighted the joy of being a
+farmer who produces crops of oats, beans,
+and barley.</p>
+
+<p>Farming folklore illustrates not only active
+farming, mate selection, and dreams and desires,
+but also the prophetic, featuring omens,
+portents, and signs that farmers and ranchers
+in the Great Plains used to guide their activities.
+Prophetic sayings feature weather,
+marriage and courtship, death and bad luck
+signs, and cures. Many focused on the unpredictable
+Plains climate, especially the uncertain
+rainfall. Sayings such as "If it rains on
+Easter Sunday, it will rain on seven Sundays
+after" and "If the rooster crows when he goes
+to bed, he will get up with a wet head" illustrate
+the necessary concern with rain. Mate
+selection was also imbedded in sayings, and
+the fear of being an unmarried female is the
+focus on such sayings as "If a girl sits on a
+chair while someone sweeps under it, she will
+be an old maid." These prophecies can still be
+heard, as Great Plains farmers pass on their
+beliefs about weather and other issues that are
+beyond their control.</p>
+
+<p>Myths are also part of farming folklore.
+One particular myth is that of women going
+insane because of the wind, the cold, the animals,
+and the loneliness of the vast expanses.
+Writers of Plains history have often indicated
+that while life in the Plains was difficult for the
+men, it was almost unbearable for the women.
+Although the myth of insane women settlers
+has been shown to be magnified, the impact of
+the wind and the austere environment was,
+and is, wearing and tiring. In notes left in
+courthouses, or in hospitals throughout the
+Plains, women cried out for social intercourse
+that was often many miles away.</p>
+
+<p>The original Plains farm folklore was not
+European American. The Omahas have tales of
+agriculture, as illustrated in "Corn Comes to
+the Omaha." In this tale the Omaha hunters'
+need for food is lamented, and a young man
+who goes hunting finds a small bush; the bush
+flowers and finally grows to mature maize. At
+the end of the first year the maize is shared with
+the tribe. Each family receives four kernels of
+the maize. The following year messages were
+sent to other tribes. It is through this sharing
+that corn is believed to have come to the Indigenous
+peoples of the Plains.</p>
+
+<p>Farm folklore of the Great Plains focuses on
+the difficulties of first getting to the new
+homeland, then on settling the land, raising
+children, and fighting for a political voice in
+the urbanizing society. The lore depicted in
+the late 1800s and early 1900s is humorous,
+humbling, and angry. Yet, while the lore may
+question the wisdom of remaining in this vast
+grassland, it also points to the excitement of
+the challenge and to possibilities for a better
+future.</p>
+
+<p>Although the early settlers have passed away,
+and their children and grandchildren have
+often moved from the Plains, the lore that expressed
+and supported the beliefs, values, and
+ways of life of farmers and ranchers is still
+heard in coffee shops, around sale barns, and at
+other public gatherings, as Plains folk celebrate
+the lives they have chosen.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: 
+<ref n="egp.ii.041">Mad Pioneer Women</ref>.</p>
+
+<closer>
+<signed>John C. Allen<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cannell, Margaret. <title level="m">Signs, Omens and Portents in Nebraska Folklore</title>. Lincoln: University of Nebraska Studies in Language,
+Literature, and Criticism, 1933.</bibl> <bibl>Welsch, Roger L. <title level="m">A Treasury of Nebraska Pioneer Folklore</title>. Lincoln: University
+of Nebraska Press, 1966, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Captivity Narratives</title>
+<title level="m" type="sub"></title>
+<author>Birgit Hans</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hans, Birgit">Birgit Hans</author>. <title level="a">"Captivity Narratives."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">326</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CAPTIVITY NARRATIVES</head>
+
+<p>Captivity narratives are the accounts written
+by men and women reporting on their experiences
+as abductees of Native Americans. From
+the seventeenth century to the end of the
+nineteenth century such accounts accompanied
+the westward-moving frontier, and
+their storylines, established in the first known
+captivity narrative by Mary Rowlandson in
+1682, remained essentially the same: conflict
+between the settlers and Indians, capture by
+the Indians, ordeal at the hands of the captors,
+and a return to European American society.</p>
+
+<p>In general, male captives adjusted easier to
+their new lives with Native American peoples
+than did female captives, who, with very few
+exceptions, feared for their virtue and prayed
+for a return to civilization. Through the centuries
+in these captivity narratives, stock
+phrases are perpetuated&#8211;for example, bashing
+brains out and burning people at the stake.
+Their descriptions of elements of the captors'
+cultures tend to be generic and confusing, but
+the message is clear: Native American cultures
+are considered inferior to European American
+civilization, and Native Americans are perceived
+as emotionless, cruel, and traitorous.
+The captives' detailed descriptions of torture
+scenes and the suffering of women and children
+provided justification for armed conflict
+on the western frontier and the displacement
+of Native Americans, whose voices were very
+rarely heard in the captivity documents.</p>
+
+<p>Women and children brought civilization
+to the frontier, and in the minds of their contemporaries,
+their removal from their fledgling
+communities represented a basic threat to
+civilization. It was acceptable to convert Native
+Americans to Christianity and make
+farmers of them, and thereby to make them
+part of the mainstream. Women captives,
+however, found it impossible to exert a civilizing
+influence on their captors, and their captivity
+narratives revealed their belief that Native
+Americans had to disappear in order for
+civilization to come. Documents and testimonials
+attached to the narratives were meant
+to encourage the reader to believe in the historical
+truth of the narratives and to treat the
+information contained therein as fact.</p>
+
+<p>Captivities during the settlement of the
+Plains were much more widely distributed
+than those during colonial times, and Plains
+captivity narratives exerted significant influence
+on their readers. Stories like Fanny Kelly's
+painted a vivid picture of Native Americans
+who rejoiced in the killing of women and
+children. Kelly despairs as she recognizes her
+small daughter's scalp and then witnesses the
+hopelessness of a fellow captive forced to
+"marry" her captor and the degeneration of a
+captive who, from infancy, had grown up
+among the Native Americans. Kelly also described
+"barbaric" customs and physical assaults.
+These highly emotional descriptions
+and reports of repeated treachery by the Sioux
+helped to convince settlers on the Northern
+Plains that military expeditions were necessary,
+and that any sympathy with the Native
+Americans was misguided. Glenda Riley, in
+her analysis of women's voices on the frontier
+and especially in the Southern Plains, reveals
+accounts that reflect Kelly's attitude, as well as
+accounts of women who came to an understanding
+of Native American people and their
+increasingly desperate situation.</p>
+
+<p>The closing of the frontier and the end of
+Indian wars in the Plains in the late nineteenth
+century did not diminish the popularity of
+captivity narratives. They continued to follow
+the standard form of the genre, but some elements&#8211;
+for example, the heroism of the captives
+and their deeds&#8211;became more exaggerated.
+At the same time, portrayals of Native
+Americans became more sympathetic. Instead
+of condemning Native American cultures
+wholesale, they allow some noble characters
+to emerge. An interesting change in the basic
+plot of captivity narratives has occurred in the
+last thirty years with the emergence of romance.
+The captive remains with her Native
+American captor and exerts a "civilizing" influence
+over him and his tribe&#8211;she achieves
+what the earlier woman captive could not.
+There is also hope for some Native American
+cultures in these romances. These new conventions
+are evident in such recent films as
+<title>Dances with Wolves</title> (1990), which, while ethnographically
+more accurate, as newer audiences
+demand, romanticizes traditional
+Lakota culture and also plays on images of the
+"noble" and the "savage" Native American
+(the latter in this case are Pawnees). Captivity
+narratives remain a formula rather than portrayals
+of complex and contemporary peoples;
+they deal with the conflict between Native and
+European Americans in terms entirely satisfying
+to the latter audience, while denying complexity
+and contemporaneity to Native American
+peoples.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: 
+<title><ref n="egp.fil.016"><hi rend="italic">Dances with Wolves</hi></ref></title>.</p>
+
+<closer>
+<signed>Birgit Hans<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kelly, Fanny. <title level="m">Narrative of My Captivity among the Sioux Indians</title>.
+Chicago: Lakeside Press, 1990 [1871].</bibl> <bibl>Riley, Glenda.
+<title level="m">Women and Indians on the Frontier, 1825–1915</title>. Albuquerque:
+University of New Mexico Press, 1984.</bibl> <bibl>Stedman, Raymond
+William. <title level="m">Shadows of the Indian: Stereotypes in American Culture</title>. Norman: University of Oklahoma Press, 1982.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

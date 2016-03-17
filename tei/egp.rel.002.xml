@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Adventism</title>
+<title level="m" type="sub"></title>
+<author>George R. Knight</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Knight, George R.">George R. Knight</author>. <title level="a">"Adventism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">735</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ADVENTISM</head>
+
+<p>Seventh-day Adventism, which arose in the
+northeastern United States in the 1840s, holds
+several doctrinal beliefs. Distinctive of their
+doctrinal system, and reflected in the denomination's
+name, is a belief in the perpetuity
+of the seventh-day Sabbath as the day
+of rest for Christians and a belief in the visible
+and literal return of Jesus Christ in the not too
+distant future. The denomination is evangelical
+in the sense that it holds for salvation by
+grace through faith. The church worldwide
+now has a presence in 205 of the 230 nations
+recognized by the United Nations.</p>
+
+<p>Members of the Seventh-day Adventist
+Church first settled in the Great Plains at
+Omaha, Nebraska, in 1858. As of 1999 the region
+hosted approximately 50,000 of the 10
+million Adventists worldwide. That membership
+is distributed rather evenly across the
+Great Plains. The Mid-America Union Conference
+(headquartered in Lincoln, Nebraska)
+is the administrative unit that is responsible
+for most of the region. The southern part of
+the Great Plains falls within the jurisdiction of
+the Southwestern Union Conference (Burleson,
+Texas), while the Canadian Union Conference
+(or Seventh-day Adventist Church in
+Canada, with headquarters in Oshawa, Ontario)
+includes the northern part. Those administrative
+units supervise the work of eleven
+local conferences that are included in or intersect
+the Great Plains. The membership in
+the Great Plains is, in general, proportionate
+among the various racial groups of the region.
+The major exception to that generalization is
+Native Americans. Although Adventists have
+missions to the Native American population,
+those missions have not prospered in relative
+proportion to other Adventist work in the
+region.</p>
+
+<p>Adventists in the Great Plains sponsor a
+large number of elementary schools, several
+secondary schools ("academies"), and three
+tertiary institutions: Union College in Lincoln,
+Nebraska; Southwestern Adventist University
+in Keene, Texas, near the southern edge of the
+Plains; and Canadian University College near
+its northern boundary in College Heights, Alberta.
+The church also operates several medical
+facilities in the Great Plains. The most significant
+are the PorterCare hospitals in Denver,
+Louisville, and Littleton, Colorado; the Central
+Texas Medical Center in San Marcos,
+Texas; and the Huguley Memorial Medical
+Centers west of Fort Worth, Texas.</p>
+
+<closer>
+<signed>George R. Knight<lb/>
+Andrews University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dick, Everett. <title level="m">Union College of the Golden Cords</title>. Lincoln
+<hi rend="smallcaps">NE</hi>: Union College Press, 1967.</bibl> <bibl>Knight, George R. <title level="m">A Brief
+History of Seventh-day Adventists</title>. Hagerstown <hi rend="smallcaps">MD</hi>: Review
+and Herald, 1999.</bibl> <bibl>Neufeld, Don F., ed. <title level="m">Seventh-day Adventist
+Encyclopedia</title>. Hagerstown <hi rend="smallcaps">MD</hi>: Review and Herald,
+1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

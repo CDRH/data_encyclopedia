@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Homestead National Monument of America</title>
+<title level="m" type="sub"></title>
+<author>Mark Engler</author>
+<author>Beverly Albrecht</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Engler, Mark">Mark Engler</author> and <author n="Albrecht, Beverly">Beverly Albrecht</author>. <title level="a">"Homestead National Monument of America."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">391</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOMESTEAD NATIONAL MONUMENT OF AMERICA</head>
+<figure n="egp.ii.036" rend="granted">
+<figDesc>Homestead National Monument, Beatrice, Nebraska</figDesc>
+</figure>
+
+<p>Authorized by <orgName rend="government" key="gov.usa.con" reg="Congress">Congress</orgName> as a unit of the <orgName rend="government" key="gov.usa.nps" reg="National Park Service">National Park Service</orgName> in 1936, <placeName rend="monument" key="mon.hnm" reg="Homestead National Monument of America">Homestead National Monument of America</placeName> commemorates the development of an agricultural empire based on government disposition of the public domain and the attendant social systems that changed the <geogName rend="region" reg="Western United States">western United States</geogName>. The purpose of the monument is to expose visitors to the entire scope and diversity of homesteading throughout the nation, from its nineteenth-century origins to today.</p>
+
+<p>The cry of free land advertised across the nation and abroad motivated American settlers and immigrants to strike out for independent ownership of farms, to free themselves of bondage to authoritarian regimes, and to seek improved economic and social conditions for their children. Through the Homestead Act of 1862, the government granted free land not only to its own citizens but also to those willing to pledge allegiance to a struggling democracy. Approximately three million original entries were filed under the original and amended homestead laws between 1863 and 1960, and 64 percent were successful. The lives of the people forever altered by the effects of the Homestead Act and settlement of the <geogName rend="region" reg="The West">West</geogName> are commemorated in the preservation of the land, artifacts, and stories at <orgName rend="monument" key="mon.hnma" reg="Homestead National Monument of America">Homestead National Monument of America</orgName>.</p>
+
+<p>The monument consists of the original 160 acres of land acquired by <persName reg="Freeman, Daniel">Daniel Freeman</persName>, one of the nation's first homesteaders, on the first day the Homestead Act took effect&#8211;January 1, 1863. With the addition of the Freeman School by <orgName rend="government" key="gov.usa.con" reg="Congress">Congress</orgName> on September 25, 1970, the purpose of the park was extended to commemorate the educational and social institutions of the early settlers of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. The monument is located in <placeName rend="county" key="co.ne.gag" reg="Gage County, Nebraska">Gage County, Nebraska</placeName>, approximately 50 miles south of <placeName rend="settlement" key="ne.lin" reg="Lincoln, Nebraska">Lincoln</placeName> and 3.5 miles west of <placeName rend="settlement" key="ne.bea" reg="Beatrice, Nebraska">Beatrice</placeName>. Primary road access is via <placeName rend="highway" key="high.ne4" reg="Nebraska Highway 4">Nebraska 4</placeName>. The monument, which covers 194.57 acres, is listed in the <orgName rend="government" key="gov.usa.nrhp" reg="National Register of Historic Places">National Register of Historic Places</orgName>. Classified structures include the Palmer-Epard Cabin, the Freeman School, locations of former dwellings of the Freeman family, and viable remnants of an <orgName rend="tribe" key="tri.osa" reg="Osage">Osage</orgName> orange fencerow.</p>
+
+<p>One hundred acres of restored tallgrass prairie retain their scientific and historic significance. Initiated in 1939, the restoration remains the oldest prairie restoration in the national park system and the second oldest in the nation. Management of the prairie has evolved from early erosion control and stabilization to biological management practices. Two and a half miles of trails circumvent this prairie, which has been designated a Watchable Wildlife area by the state of <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName> in cooperation with <orgName rend="nonprofit" key="non.dow" reg="Defenders of Wildlife">Defenders of Wildlife</orgName>.</p>
+
+<p>A museum collection of more than 5,000 objects is displayed and stored at the monument's visitors center. It includes artifacts and archival materials that represent the settlement period from 1862 to 1890. Additional collections of artifacts from archaeological investigations in the park are maintained by the <orgName rend="government" key="gov.usa.mac" reg="Midwest Archeological Center">Midwest Archeological Center</orgName> for the <orgName rend="government" key="gov.usa.nps" reg="National Park Service">National Park Service</orgName>.</p>
+
+<p>The monument is open daily, except for Thanksgiving Day, Christmas Day, and New Year's Day. Access to all programs is free of charge. Annual celebrations include a storytelling festival in May, demonstrations of farm equipment and Homestead Days in June, ranger-conducted programs during the summer, and a Winter Festival of Prairie Cultures in December. A curriculum-related education program and teacher workshops are offered throughout the year.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: 
+<ref n="egp.ea.023">Land Laws and Settlement</ref>.</p>
+
+<p><ref target="http://www.nps.gov/home/index.htm">Homestead National Monument</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Mark Engler and Beverly Albrecht<lb/>
+Homestead National Monument of America</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Gates, Paul W. <title level="m">History of Public Land Law Development</title>. Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1968.</bibl> <bibl>Tecklenberg, Robert. <title level="m">Homestead National Monument of America: An Administrative History, 1962-1981</title>. Omaha: Midwest Regional Office, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

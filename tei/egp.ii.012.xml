@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.012 SYSTEM "egp.ii.012.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cody, Buffalo Bill (1846–1917)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Cody, Buffalo Bill (1846–1917)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">380</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CODY, BUFFALO BILL (1846-1917)</head>
+
+<figure n="egp.ii.012" rend="granted">
+<figDesc><persName reg="Cody, William F.">Col. William F. Cody (Buffalo Bill)</persName></figDesc>
+</figure>
+
+<p>Buffalo hunter, scout, soldier, and western showman, <persName reg="Cody, William F.">William F. Cody</persName> is one of the most widely recognizable figures to emerge from the nineteenth-century <geogName rend="region" reg="Great Plains">Great Plains</geogName>. More popularly known as <persName reg="Cody, William F.">"Buffalo Bill," Cody</persName> was born on February 26, 1846, in <placeName rend="county" key="oc.ia.sco" reg="Scott County, Iowa">Scott County, Iowa</placeName>. The Cody family moved to the <geogName rend="region" reg="Great Plains">Great Plains</geogName> in 1854, settling near <placeName rend="fort" key="fort.ks.lea" reg="Fort Leavenworth">Fort Leavenworth</placeName>, <placeName rend="territory" key="ter.ks" reg="Kansas Territory">Kansas Territory</placeName>. When his father, <persName reg="Cody, Isaac">Isaac</persName>, died in 1857, <persName reg="Cody, William F.">Cody</persName> left school to help support the family. He held a variety of jobs, including oxteam driver, express messenger (for the transportation firm of Russell, Majors, and Waddell), and Pony Express rider. During the early years of the Civil War he operated with an irregular Kansas-based militia unit, and in 1864 he enlisted as a private in the <orgName rend="military" key="mil.skvc" reg="Seventh Kansas Volunteer Cavalry">Seventh Kansas Volunteer Cavalry</orgName>, seeing action in <placeName rend="state" key="mo" reg="Missouri">Missouri</placeName>, <placeName rend="state" key="ak" reg="Arkansas">Arkansas</placeName>, <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, and <placeName rend="state" key="tn" reg="Tennessee">Tennessee</placeName>. While stationed in St. Louis he met and married <persName reg="Frederici, Louisa">Louisa Frederici</persName>; the couple had four children.</p>
+
+<p>In the years after the Civil War, <persName reg="Cody, William F.">Cody</persName> ran a hotel, drove a stagecoach, and worked periodically as a scout and guide for the army. In 1867-68 <persName reg="Cody, William F.">Cody</persName> earned the nickname "Buffalo Bill" by supplying buffalo meat to the <orgName rend="railroad" key="rail.kpr" reg="Kansas Pacific Railroad">Kansas Pacific Railroad</orgName>; he killed roughly 4,280 bison during his eight-month contract. From 1868 to 1872 <persName reg="Cody, William F.">Cody</persName> served as a civilian scout for the <orgName rend="military" key="mil.fusc" reg="Fifth United States Cavalry">Fifth United States Cavalry</orgName>. He fought in at least nineteen battles against Plains Indians and was awarded the Medal of Honor (though in 1916 a congressional act removed his name and all other civilian winners from the rolls). In 1872 <persName reg="Sheridan, Philip">Gen. Philip Sheridan</persName> assigned Cody to guide a buffalo hunt for the <persName reg="Alexandrovich, Alexei">Grand Duke Alexis of Russia</persName>. This highly publicized hunt, along with an 1869 serial story in the <orgName rend="newspaper" key="news.nyw" reg="New York Weekly"><hi rend="italic">New York Weekly</hi></orgName> by dime novelist <persName reg="Buntline, Ned">Ned Buntline</persName> (entitled "Buffalo Bill, the King of the Border Men"), made <persName reg="Cody, William F.">Cody</persName> a national hero and helped set the stage for his acting career. <persName reg="Cody, William F.">Cody</persName> made his first stage appearance in 1872, when he appeared in <persName reg="Buntline, Ned">Buntline</persName>'s <hi rend="italic">Scouts of the Prairie</hi>. For the next decade <persName reg="Cody, William F.">Cody</persName> scouted for the army, guided hunting parties, and toured as an actor with various shows.</p>
+
+<p><persName reg="Cody, William F.">Cody</persName> launched his Wild West show on May 17, 1883, in <placeName rend="settlement" key="ne.oma" reg="Omaha, Nebraska">Omaha, Nebraska</placeName>. <persName reg="Cody, William F.">Buffalo Bill</persName>'s Wild West show operated from 1883 to 1913, touring <geogName rend="continent" reg="Europe">Europe</geogName> and appearing at diverse American venues, including <placeName rend="venue" key="ven.msg" reg="Madison Square Garden">Madison Square Garden</placeName> in <placeName rend="state" key="ny.nyc" reg="New York City, New York">New York City</placeName> (1886) and the <placeName rend="fair" key="fair.cwf" reg="Chicago World's Fair">Chicago World's Fair </placeName>(1893). In 1899 alone the show traveled more than 11,000 miles and gave 341 performances in 132 cities. <persName reg="Cody, William F.">Cody</persName>'s outdoor extravaganza included romanticized reenactments of the Pony Express and the Battle of Summit Springs, horse races, roping demonstrations, gunfights, and target shooting. The cast of characters included <persName reg="Sitting Bull">Sitting Bull</persName> (the Hunkpapa Lakota leader), <persName reg="Oakley, Annie">Annie Oakley</persName> ("Little Sure Shot"), and <persName reg="Taylor, Buck">Buck Taylor</persName> ("King of the Cowboys"). Although <persName reg="Cody, William F.">Cody</persName>'s show was a profitable business operation, he was a poor businessman, and by 1913 his show had failed. Heavily in debt, <persName reg="Cody, William F.">Cody</persName> toured as the "main attraction" for other Wild West shows until 1916.</p>
+
+<p><persName reg="Cody, William F.">Cody</persName> was both a real frontier hero who participated in the conquest of the <geogName rend="region" reg="American West">American West</geogName> and a western showman who promoted and perpetuated the "winning of the West" as a romantic venture. <persName reg="Cody, William F.">Buffalo Bill Cody</persName> died in <placeName rend="state" key="co" reg="Colorado">Denver, Colorado</placeName>, on January 10, 1917.</p>
+
+<p><ref target="http://codyarchive.org/">Willaim F. Cody Archive</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Mark R. Ellis<lb/>
+University of Nebraska at Kearney</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Rosa, Joseph, and Robin May. <title level="m">Buffalo Bill and His Wild West</title>. Lawrence: University Press of Kansas, 1989.</bibl> <bibl>Russell, Don. <title level="m">The Lives and Legends of Buffalo Bill</title>. Norman: University of Oklahoma Press, 1960.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

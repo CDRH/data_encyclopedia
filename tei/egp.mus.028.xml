@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.mus.028 SYSTEM "egp.mus.028.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lee, Peggy (1920-2002)</title>
+<title level="m" type="sub"></title>
+<author>Kate Stevenson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stevenson, Kate">Kate Stevenson</author>. <title level="a">"Lee, Peggy (1920-2002)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">542</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LEE, PEGGY (1920-2002)</head>
+
+<figure n="egp.mus.028" rend="granted">
+<figDesc>Peggy Lee</figDesc>
+</figure>
+
+<p>Peggy Lee was born Norma Deloris Egstrom
+on May 26, 1920, in Jamestown, North Dakota.
+Her love of singing pulled her out of an
+abusive home and onto local radio by the age
+of fourteen. After high school she performed
+throughout the Midwest. She was discovered
+by Benny Goodman in Chicago in 1941 and
+recorded her first hits with the Benny Goodman
+Orchestra. Lee and her husband, guitarist
+Dave Barbour, left Goodman in 1943 to
+write and record their own hits, including
+"It's a Good Day" and "Ma&#241;ana." The latter
+marked the start of Lee's lifelong fascination
+with Latin rhythms. The collaboration and
+marriage ended in 1951.</p>
+
+<p>Lee's solo career featured recording successes,
+live concerts, and television appearances.
+She also appeared in <title>The Jazz Singer</title>
+(1953) and <title>Pete Kelly's Blues</title>, which garnered
+her an Oscar nomination for best supporting
+actress in 1955. In the same year, she wrote
+songs for Disney's <title>Lady and the Tramp</title> and
+provided voices for the film. Recording highlights
+of Lee's career include the 1958 release
+of "Fever," a million-seller that earned two
+Grammy nominations and "Is That All There
+Is," which earned her the 1969 Grammy award
+for best contemporary vocal performance by a
+female artist.</p>
+
+<p>During a career that spanned six decades
+and defies categorization by genre, Peggy Lee
+recorded more than 60 albums and more than
+700 individual songs. She wrote more than
+75 songs and published poetry and an autobiography.
+She was honored by fans and peers
+for her uniquely sensuous vocal quality, her
+flawless musicality, and her riveting stage
+presence. Peggy Lee died of a heart attack at
+her home in Bel Air, California, on January 21,
+2002.</p>
+
+<closer>
+<signed>Kate Stevenson<lb/>
+Jamestown College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lee, Peggy. <title level="m">Miss Peggy Lee: An Autobiography</title>. New York:
+Donald I. Fine, Inc., 1989.</bibl> <bibl>Lees, Gene. <title level="m">Singers and the Song II</title>. New York: Oxford University Press, 1998.</bibl> <bibl>Reich, Howard.
+"Peggy Lee: A Sensual American Classic, through Illness
+and Injury, the Amazing Performer Has Managed to
+Survive." <title level="j">San Francisco Examiner</title>, September 5, 1993: <hi rend="smallcaps">D</hi>2.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

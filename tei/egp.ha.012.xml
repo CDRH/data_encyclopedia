@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Empresarios</hi></title>
+<title level="m" type="sub"></title>
+<author>John Kelly Robison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Robison, John Kelly">John Kelly Robison</author>. <title level="a">"<hi rend="italic">Empresarios</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">355-356</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">EMPRESARIOS</hi></head>
+
+<p>From its independence from Spain until it lost
+Texas to revolt, Mexico enlisted the aid of <hi rend="italic">empresarios</hi>
+to recruit colonists to its sparsely settled
+province of Texas. The Mexican Colonization
+Law of August 18, 1824, provided general
+guidelines for the settlement of remote corners
+of the new republic and required the individual
+states to pass their own laws, which
+the state of Coahuila y Texas did on March 24,
+1825. Although the national colonization law
+gave preference to Mexican citizens, the Colonization
+Law of Coahuila y Texas invited foreigners
+to that territory. Individuals could and
+did migrate to Texas, mostly from the United
+States, but because of the language barrier
+and the difficulties in acquiring land through
+the Mexican bureaucracy, most colonists obtained
+land in Texas through the offices of the
+empresarios.</p>
+
+<p>Empresarios were contractors empowered
+by the government of Coahuila y Texas to recruit
+specific numbers of families to the territory.
+Mexican citizens were preferred as empresarios
+and as colonists, but the majority of
+the empresarios were from the United States.
+The empresario received a grant of land on
+which to settle the colonists he recruited,
+though he did not, in fact, own this land. It
+was the empresario's responsibility to survey
+the land and then issue title to that land. The
+empresario grants extended northwestward
+from the Gulf Coast Plain of Texas across the
+Balcones Escarpment and well into the Great
+Plains. Most empresarios agreed to recruit 100
+families within a six-year span. They also
+served as immigration agents, determining
+the moral character of those who wished to
+enter their colony. The empresarios received
+no pay or compensation for their endeavors
+up front. When they had settled at least 100
+families within their colonial grant, thus fulfilling
+their contract, they acquired land of
+their own. For every 100 families an empresario
+recruited and settled within Texas, the
+state gave him five <hi rend="italic">sitios</hi> (22,140 acres) of pastureland
+and five <hi rend="italic">labors</hi> (885 acres) of farmland.
+An empresario could receive compensation
+in land for settling up to 800 families,
+making him a very wealthy man.</p>
+
+<p>The only empresario who received compensation
+for so many recruited families was
+Stephen F. Austin. By far the most successful
+of the empresarios in terms of numbers of
+colonists settled, Austin put into action the
+plans of colonization conceived by his father,
+Moses Austin. Between 1823, when he recruited
+300 families under the old Spanish Imperial
+Colonization Law and his final colonization
+contract, Austin settled more than
+1,500 families in an area extending from the
+Texas Hill Country, at the edge of the Plains,
+to the Gulf of Mexico. No other empresario
+was able to recruit and settle even one-quarter
+of this number. Green DeWitt received a contract
+for 400 families but granted land titles to
+only 166 families. Some empresarios, such as
+Dr. John G. Purnell and Benjamin Drake
+Lovell, were never able to fulfill their contracts.
+By 1832 the empresarios had signed almost
+thirty contracts calling for the settlement
+of more than 10,000 families. But the
+government of Coahuila y Texas, growing suspicious
+of increasing Anglo-American influence
+in Texas, ceased issuing grants after 1832
+and finally closed the land offices in November
+of 1835. The era of the empresarios, the
+colonizing agents of Texas, came to an end.</p>
+
+<closer>
+<signed>John Kelly Robison<lb/>
+Martin Luther University Halle-Wittenberg</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fehrenbach, Theodore R. <title level="m">Lone Star: A History of Texas and the Texans</title>. New York: Colliers Books, 1968.</bibl> <bibl>Haley, James
+L. <title level="m">Texas: An Album of History</title>. Garden City <hi rend="smallcaps">NY</hi>: Doubleday
+and Co., 1985.</bibl> <bibl>Richardson, Rupert Norval, Ernest Wallace,
+and Adrian Anderson. <title level="m">Texas: The Lone Star State</title>. Englewood
+Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

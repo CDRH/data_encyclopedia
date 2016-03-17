@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.003 SYSTEM "egp.ii.003.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Boomers</title>
+<title level="m" type="sub"></title>
+<author>Leslie Hewes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hewes, Leslie">Leslie Hewes</author>. <title level="a">"Boomers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">377&#8211;378</biblScope>.</bibl> 
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BOOMERS</head>
+
+<figure n="egp.ii.003" rend="granted">
+<figDesc>Boomers who <geogName rend="river" reg="Canadian River">Canadian River</geogName></figDesc>
+</figure>
+
+<p>Boomers were settlers who worked for the opening to homesteading of the so-called Unassigned Lands located at the eastern margins of territory taken from the <orgName rend="tribe" key="tri.cre" reg="Creeks">Creeks</orgName> and <orgName rend="tribe" key="tri.sem" reg="Seminoles">Seminoles</orgName> of <placeName rend="territory" key="ter.ind" reg="Indian Territory">Indian Territory</placeName> after the Civil War. The early survey of this tract of nearly two million acres in the heart of the future state of <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName> led to the plausible assumption that the land was intended for settlement by non-Indians and should be available for homesteading. The claim made in the <hi rend="italic">Chicago Tribune</hi> in 1879 by <persName reg="Boudinot, Elias C.">Elias C. Boudinot</persName>, a prominent <orgName rend="tribe" key="tri.che" reg="Cherokee">Cherokee</orgName> employed as a railroad attorney, that the land was public domain subject to homesteading apparently led to immediate attempts by would-be homesteaders. Three groups that tried to enter were turned back by U.S. army guards on the northern border during that year. However, <persName reg="Payne, David L.">David L. Payne</persName>, after failing to receive an answer from the U.S. attorney in <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> as to whether the Unassigned Lands were open to homesteaders, put the matter to a test by leading a group of twenty-one to the vicinity of present-day <placeName rend="settlement" key="ok.okc" reg="Oklahoma City, Oklahoma">Oklahoma City</placeName>. They were removed to <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, and <persName reg="Payne, David L.">Payne</persName> was imprisoned for a time. One of the editors of the Boomer newspaper, the <hi rend="italic"><orgName rend="newspaper" key="news.wc" reg="War Chief">War Chief</orgName></hi>, published over a period of years in several places in <geogName rend="region" reg="Southern Kansas">southern Kansas</geogName>, was even jailed for rebellion against the <placeName rend="country" key="usa" reg="United States">United States</placeName>.</p>
+
+<p>Further efforts at colonization also resulted in eviction to <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> and arrests. One of the men who joined <persName reg="Payne, David L.">Payne</persName>, <persName reg="McCurry, W. A.">W. A. McCurry</persName>, took a group claimed to number about 500 deep into the territory before being ejected, and then only after the army unit that discovered the colony had been reinforced. In some cases, women and children were included among the colonists. After <persName reg="Payne, David L.">Payne</persName>'s death in 1884, one of his men, <persName reg="Couch, William L.">William L. Couch</persName>, became the main Boomer leader. The last recorded entry of Boomer colonists was in October 1885. By this time, it appeared that homesteading would soon become legal because of political action. An Englishman, <persName reg="Crocker, Samuel">Samuel Crocker</persName>, aided this effort by extensive lecturing and lobbying. There were probably unreported individual efforts at settlement in addition to the Boomer colonies, but those settlers would have been considered Sooners, and if they had been discovered, they would have been disqualified as homesteaders. When at noon on April 22, 1889, homesteading became legal by presidential proclamation, the great land "run" was probably much the larger because of Boomer efforts.</p>
+
+<p><placeName rend="county" key="ok.co.pay" reg="Payne County, Colorado">Payne County</placeName> bears the name of the Boomer leader, and the words "Boomer" and "Sooner" in the pep yell "Boomer, Sooner, Oklahoma U," long used at the <orgName rend="school" key="sch.uoo" reg="University of Oklahoma">University of Oklahoma</orgName>, are both proud labels and probably better known than "89er," a name given to those who made the big run.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: 
+<ref n="egp.fil.011"><hi rend="italic">Cimarron</hi></ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Leslie Hewes<lb/>
+University of Nebraska-Lincoln</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Agnew, Brad. "<title level="a">Voices from the Land Run of 1889</title>." <title level="j">Chronicles of Oklahoma</title> 67 (1989): 4–39.</bibl> <bibl>Peery, Dan W. "<title level="a">Colonel Crocker and the Boomer Movement</title>." <title level="j">Chronicles of Oklahoma</title> 13 (1935): 273–96.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.038 SYSTEM "egp.ii.038.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Last Best West</title>
+<title level="m" type="sub"></title>
+<author>David Robertson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Robertson, David">David Robertson</author>. <title level="a">"Last Best West."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">391&#8211;392</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LAST BEST WEST</head>
+
+<figure n="egp.ii.038" rend="granted">
+<figDesc>1908 Department of the Interior immigration pamphlet</figDesc>
+</figure>
+
+<p>The "Last Best West" is a slogan popularized by the immigration branch of the <orgName rend="government" key="gov.can.cid" reg="Canadian Interior Department">Canadian Interior Department</orgName> in the early twentieth century. The phrase was used in the titles of promotional pamphlets produced by the Canadian government and distributed to potential settlers in <geogName rend="continent" reg="Europe">Europe</geogName> and the <placeName rend="country" key="usa" reg="United States of America">United States</placeName>. Designed to dispel negative climatic and cultural preconceptions and extol the virtues of the <geogName rend="region" reg="Canadian Prairie">Canadian Prairie</geogName> for agricultural settlement, these pamphlets played a significant role in the aggressive immigrant-recruiting campaign staged by <persName reg="Sifton, Clifford">Clifford Sifton</persName>, minister of the interior from 1896 to 1905. <persName reg="Sifton, Clifford">Sifton</persName> believed that promoting settlement of the <geogName rend="region" reg="Prairie Provinces">Prairie Provinces</geogName> was a crucial national enterprise, and the largest infusion of immigrants to the <geogName rend="region" reg="Canadian West">Canadian West</geogName> occurred during and shortly after <persName reg="Sifton, Clifford">Sifton</persName>'s tenure.</p>
+
+<p>The role of government promotion in influencing the rate of settlement during this period has been debated. It is recognized that a conjuncture of favorable circumstances contributed to western agricultural expansion in the 1890s, including the growing scarcity of free, arable land in the United States, a condition the Canadian government exploited in its advertising campaign. The slogan championed the existence of a pioneering opportunity on the <geogName rend="region" reg="Canadian Prairie">Canadian Prairie</geogName> at a time when the <geogName rend="region" reg="Great Plains">Plains</geogName> frontier of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> was closing. The phrase represents the final chapter in the early promotion and European American settlement of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> and has become the most notable example of <geogName rend="region" reg="Canadian Prairie">Canadian Prairie</geogName> boosterism.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.074">Sifton, Clifford</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">David Robertson<lb/>
+University of Oklahoma</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Berton, Pierre. <title level="m">The Promised Land: Settling the West, 1896–1914</title>. Markham, Ontario: Penguin, 1984.</bibl> <bibl>Bruce, Jean. <title level="m">The Last Best West</title>. Toronto: Fitzhenry and Whiteside, 1976.</bibl> <bibl>Friesen, Gerald. <title level="m">The Canadian Prairies: A History</title>. Toronto: University of Toronto Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bonanza Farming</title>
+<title level="m" type="sub"></title>
+<author>Hiram M. Drache</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Drache, Hiram M.">Hiram M. Drache</author>. <title level="a">"Bonanza Farming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">35-36</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BONANAZA FARMING</head>
+
+<p>In 1864 the U.S. Congress provided an extensive
+land grant to aid in financing the Northern
+Pacific Railway Company (<hi rend="smallcaps">NP</hi>). When the
+np encountered financial difficulty in the
+Panic of 1873, it sought to shed its indebtedness
+by exchanging land for its bonds and preferred
+stock. It encouraged large-scale agriculture
+in the Red River Valley of the North.
+There, the almost totally flat, treeless, fertile,
+stoneless prairie was ideal for establishing
+showcase farms called bonanzas. After 1875
+these bonanzas became the subject of national
+farm periodicals and were visited by business
+and political leaders of the United States and
+Europe. A total of ninety-one farms, ranging
+from 3,000 to 100,000 acres, qualified as bonanzas.
+Nearly all of them were located within
+forty miles of the Red River.</p>
+
+<p>The bonanzas relied on professional farm
+managers. To achieve maximum efficiency,
+they specialized in the continuous cropping of
+wheat, which was well suited to the area. By
+concentrating on one crop, a limited number
+of implements were needed&#8211;plows, harrows,
+seeders, binders, and threshing machines. The
+bonanzas were worked by migrant laborers,
+ranging from as few as 15 to as many as 1,000
+per farm. They lacked experience in operating
+machinery, so they were divided into teams of
+five to twenty men under a supervisor who
+was referred to as the binder boss or plow
+boss, depending on the job.</p>
+
+<p>For ease of management, the farms were
+broken down into divisions of 5,000 acres or
+less. A work unit consisted of one worker with
+a plow, a seeder, and a binder with at least five
+horses. Each worker generally was expected to
+handle 250 acres of crops. Extra workers and
+horses were employed for seeding and harvesting.
+Bunkhouses and dining halls were
+erected, for management knew that good food
+and facilities were sound economic practices
+that helped to retain the workforce. Young
+women did the domestic work and, like the
+men, often were newly arrived immigrants.</p>
+
+<p>After harvest the migrant laborers moved to
+other areas, often to the forests of Michigan,
+Minnesota, and Wisconsin to spend the winter
+working in logging camps. The logging
+companies often rented the horses for use in
+the forest. In the off-season only a few laborers
+remained on the bonanzas to repair machinery,
+ship grain, care for horses, and keep
+records.</p>
+
+<p>Virtually all the bonanza farms were located
+on the odd-numbered sections of the railroad
+grant lands. The government reserved the
+even-numbered sections for homesteaders.
+Homesteaders did not like the bonanza farmers
+because they did not do business locally
+and did not take part in the local schools or
+social institutions.</p>
+
+<p>Changing world conditions and a surplus
+of wheat, which caused a decline in prices,
+made the bonanzas less profitable. New tax
+laws discriminated against them. Migrant seasonal
+labor became less plentiful and more
+costly. All of the above made it difficult for the
+business-operated bonanzas to compete with
+homesteaders. By 1920 the bonanza era had
+ended. Some bonanzas were subdivided and
+sold on contract-for-deed agreements or were
+rented to smaller scale farmers. Only a few of
+the bonanza holdings remain intact today, operating
+much differently than the originals.</p>
+
+<closer>
+<signed>Hiram M. Drache<lb/>
+Concordia College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Drache, Hiram M. <title level="m">The Day of the Bonanza: A History of
+Bonanza Farming in the Red River Valley of the North</title>.
+Fargo: North Dakota Institute for Regional Studies, 1964.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

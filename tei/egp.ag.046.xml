@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hay</title>
+<title level="m" type="sub"></title>
+<author>Alan Gray</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gray, Alan">Alan Gray</author>. <title level="a">"Hay."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">46-47</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HAY</head>
+
+<p>Approximately 65 million tons of perennial
+legume and grass hay crops are produced annually
+on about 30 million acres of the Great
+Plains in the United States and Canada. Within
+the United States, this includes 24 million tons
+of alfalfa hay produced on 9 million acres and
+26 million tons of grass hay produced on the
+remaining 14 million acres. Variations in
+length of growing season, soil fertility, available
+water, and plant species produce wide variations
+in the yield of hay crops in the Great
+Plains. Depending on the year, an additional 15
+to 20 million tons of hay baled from crop aftermath
+and annual grass crops could be added to
+the total. Sixty-five million tons of stacked hay
+would extend 27,357 miles (10 percent more
+than the distance around the equator), if packaged
+as large rectangular bales (1,800 pounds)
+and loaded on standard forty-eight-foot semitrailers
+at the rate of twenty-four bales per
+trailer!</p>
+
+<p>Alfalfa hay production ranges from five
+harvests (10 tons per acre) on intensively managed,
+irrigated stands in the Southern Great
+Plains to only one harvest (1.5 tons per acre)
+from dryland stands in the higher elevations
+and latitudes of the north. An improved, cool
+season perennial grass such as Timothy may
+yield as much as 5 tons per acre from one
+harvest with intensive fertilization and irrigation
+in the northern latitudes. Average
+yield of native grass hay in the Central Great
+Plains, harvested once per season, is less than
+a ton per acre, but yield could be double
+or greater with above-average precipitation.
+In the Southern Plains, intensively managed
+stands of an improved, warm season perennial
+grass (i.e. Bermuda grass) may yield 5 to 7 tons
+per acre in one growing season. Because of its
+bulk and relative ubiquitous occurrence, most
+hay is consumed locally, except when adverse
+conditions, such as drought, necessitate shipments
+from surplus to deficit areas.</p>
+
+<closer>
+<signed>Alan Gray<lb/>
+University of Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>More, Kenneth, and Michael Collins, eds. <title level="m">Forages</title>. Ames:
+Iowa State University Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

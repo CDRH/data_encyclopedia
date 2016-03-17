@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.017 SYSTEM "egp.pe.017.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.017">
+
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Carlsbad Caverns</title>
+<title level="m" type="sub"></title>
+<author>David B. Looper</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Loope, David B.">David B. Loope</author>. <title level="a">"Carlsbad Caverns."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">624</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CARLSBAD CAVERNS</head>
+
+<figure n="egp.pe.017" rend="granted">
+<figDesc>Giant Domes, Carlsbad Caverns National Park, New Mexico, 1933-42</figDesc>
+</figure>
+
+<p>Located in southeastern New Mexico where
+the Great Plains meets the block uplifts of the
+Basin and Range Province, Carlsbad Caverns
+is one of the most spectacular and famous
+caves in the world. Carlsbad Caverns was recognized
+as a national park in 1930 and as a
+World Heritage Site in 1995. Twenty miles of
+rooms and passages have been explored and
+surveyed, and new discoveries continue to be
+made. The Big Room is 375 feet from floor to
+ceiling and is adorned with large, but delicate,
+stalactites and stalagmites. The cave is home
+to about a half million Mexican free-tail bats.
+The bat population was estimated at 8.7 million
+in the 1930s. ddt use in the United States
+and Mexico is the apparent cause for the sharp
+decline in their numbers.</p>
+
+<p>The caverns developed in reef and back-reef
+limestones that were deposited along the
+north margin of a rapidly subsiding marine
+basin during Permian times. The large cave
+and more than fifty caves nearby lie below a
+sparsely vegetated, 4,400-foot-high plateau
+that receives less than fifteen inches of rainfall
+per year. Most caves form in humid settings
+through the dissolution of limestone by carbonic
+acid. (Carbonic acid is produced when
+carbon dioxide from the root zone mixes with
+groundwater.) However, clues such as thick
+gypsum (calcium sulfate) deposits within
+Carlsbad Caverns indicate that sulfuric, not
+carbonic, acid generated this cave. Hydrogen
+sulfide gas is abundant in the deeply buried,
+petroleum-rich rocks of the basin south of the
+cave. When this gas migrated upward, it was
+oxidized by groundwater, thereby generating
+sulfuric acid. Cavernous pores in the limestone
+and gypsum deposits are the resulting
+product.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.058">Tourism</ref> / <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.040">National Parks</ref>.</p>
+
+<closer>
+<signed>David B. Loope<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Morehouse, D. F. "Cave development via the sulfuric acid
+reaction." <title level="j">National Speliological Society Bulletin</title> 30 (1968):
+1–10.</bibl> <bibl>Palmer, A. N. "Carlsbad Caverns National Park." In
+<title level="m">Geology of the National Parks</title>, edited by Ann Harris and
+Ester Tuttle: Dubuque <hi rend="smallcaps">IA</hi>: Kendall/Hunt Publishing Company,
+1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

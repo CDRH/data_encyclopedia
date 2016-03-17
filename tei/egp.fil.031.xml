@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Hud</hi></title>
+<title level="m" type="sub"></title>
+<author>Samuel J. Umland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Umland, Samuel J.">Samuel J. Umland</author>. <title level="a">"<hi rend="italic">Hud</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">270</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">HUD</hi></head>
+<figure n="egp.fil.031" rend="granted"  type="noclick">
+<figDesc>Hud DVD Cover, Widescreen Collection</figDesc>
+</figure>      
+
+<p>The motion picture <title>Hud</title> (1963), released by
+Paramount, directed by Martin Ritt, and starring
+Paul Newman, Melvyn Douglas, Patricia
+Neal, and Brandon de Wilde, was based on an
+early novel by Larry McMurtry, <title>Horseman, Pass By</title> (1961). Hud was filmed in and around
+Claude, a small town a few miles east of Amarillo
+in the Texas Panhandle, and its extraordinary
+power can be explained by the fact that it
+is a morality play cast in the form of a family
+drama about Texas cattlemen.</p>
+
+<p>At the center of the drama is Lon (de Wilde),
+a parentless teenager who has been raised by
+his grandfather, Homer Bannon (Douglas),
+and his uncle, Hud Bannon (Newman), two
+male role models whose values and ethics are
+in collision. Alma (Neal), the housekeeper, a
+woman of quiet beauty and dignity, serves as a
+surrogate mother for Lon. The dramatic tension
+resides in the decision Lon will make regarding
+his role model and hence the set of
+ethical values and principles represented, on
+the one hand, by his grandfather Homer and
+on the other by Hud. The decision to cast
+Brandon de Wilde, the little boy who so idolized
+Shane in <title>Shane</title> (1953), as Lon underscores
+the dramatic tension, as <title>Hud</title> is largely about
+the passing of heroes of mythic proportions
+and the epigones who follow them. Indeed,
+<title>Hud</title> resonates with this particular theme of the
+Western film, specifically, the passing of a generation
+that saw itself and the land as inseparable,
+represented by the laconic Homer and his
+cattle, and the arrival of a belated, pragmatic
+generation, represented by the epigone Hud in
+his misguided desire to drill oil wells.</p>
+
+<p>The film garnered Academy Awards for Patricia
+Neal, Melvyn Douglas, and cinematographer
+James Wong Howe. Paul Newman and
+director Martin Ritt were also nominated for
+awards, as were the writers of the screenplay,
+Irving Ravetch and Harriet Frank Jr. The film
+was nominated for best art direction and set
+decoration as well.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.044">McMurtry, Larry</ref>.</p>
+
+<closer>
+<signed>Samuel J. Umland<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Wiley, Mason, and Damien Bona. <title level="m">Inside Oscar: The Unofficial History of the Academy Awards</title>, edited by Gail Mac-
+Coll. New York: Ballantine Books, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lemke, William (1878-1950)</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Lemke, William (1878-1950)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">671</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LEMKE, WILLIAM (1878-1950)</head>
+
+<p>William Lemke, North Dakota politician and
+unsuccessful third-party presidential candidate,
+was born in Stearns County, Minnesota, on
+August 13, 1878. His family moved to Towner
+County, North Dakota, in 1883. He graduated
+from the University of North Dakota in 1902,
+earned a law degree at Yale University in 1905,
+and returned to Fargo to practice law. In 1915
+Lemke became legal adviser to the Nonpartisan
+League and played an instrumental role
+in the League's dominance of North Dakota
+politics. He was elected attorney general of
+North Dakota in 1920 but was recalled a year
+later.</p>
+
+<p>In 1932 Lemke was elected to the House of
+Representatives as a Republican, although he
+supported Democrat Franklin D. Roosevelt.
+After Roosevelt refused to support Lemke's
+proposals for farm mortgage refinancing and
+bankruptcy, Lemke broke with the president.
+Backed by a coalition of Roosevelt's opponents,
+including Father Charles Coughlin, Dr.
+Francis Townsend, and supporters of the recently
+assassinated Huey Long, Lemke ran for
+president in 1936 as the candidate of the Union
+Party. Lemke hoped to win enough votes to
+force the election into the House of Representatives,
+but he won fewer than a million votes.</p>
+
+<p>After his defeat, Lemke resumed his House
+career. He ran unsuccessfully for the Senate in
+1940 but returned to the House in 1942, where
+he remained until his death in Fargo on May
+30, 1950. During his later years in Congress he
+emphasized natural resources, and he played
+an instrumental role in establishing the Theodore
+Roosevelt National Park in North Dakota's
+badlands.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.039">Nonpartisan League</ref>.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Blackorby, Edward C. <title level="m">Prairie Rebel: The Public Life of William
+Lemke</title>. Lincoln: University of Nebraska Press, 1963.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

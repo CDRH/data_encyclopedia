@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Crazy Horse Memorial</title>
+<title level="m" type="sub"></title>
+<author>Amy Scherer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Scherer, Amy">Amy Scherer</author>. <title level="a">"Crazy Horse Memorial."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">382</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><placeName rend="monument" key="mon.chm" reg="Crazy Horse Memorial">CRAZY HORSE MEMORIAL</placeName></head>
+<figure n="egp.ii.016" rend="granted">
+<figDesc>Head of the unfinished Crazy Horse Memorial project</figDesc>
+</figure>
+
+<p>In the <geogName rend="region" reg="Black Hills">Black Hills</geogName>, on land taken from the Lakota Sioux, stands a 600-foot mountain. This mountain, blasted away for more than fifty years to expose bare granite, is gradually beginning to represent <persName reg="Crazy Horse">Crazy Horse</persName>, an <orgName rend="tribe" key="tri.os" reg="Oglala Sioux">Oglala Sioux</orgName> leader and warrior. <persName reg="Ziolkowski, Korczak">Korczak Ziolkowski</persName>, the self-taught sculptor and artist (born in Boston on September 6, 1908) who started this project has died, but his family is working to keep his dream alive.</p>
+
+<p><persName reg="Ziolkowski, Korczak">Ziolkowski</persName>'s dream began in the late 1930s, when <persName reg="Standing Bear, Henry">Henry Standing Bear</persName>, an <orgName rend="tribe" key="tri.os" reg="Oglala Sioux">Oglala</orgName> chief, asked him to create a memorial to Native Americans. <persName reg="Standing Bear, Henry">Standing Bear</persName> wrote, "My fellow chiefs and I would like the white man to know the red man has great heroes too." To honor <persName reg="Standing Bear, Henry">Standing Bear</persName>'s wish, <persName reg="Ziolkowski, Korczak">Ziolkowski</persName> decided to erect a monument&#8211;ten times larger than <orgName rend="monument" key="mon.mrnm" reg="Mount Rushmore National Memorial">Mount Rushmore</orgName>&#8211;to <persName reg="Crazy Horse">Crazy Horse</persName>, who was born sometime around 1840 and led his people in many fights, resisting white encroachment encroachment and refusing to sign treaties. <persName reg="Crazy Horse">Crazy Horse</persName> helped defeat <persName reg="Custer, George Armstrong">George Armstrong Custer</persName>'s <orgName rend="military" key="mil.sca" reg="Seventh Cavalry">Seventh Cavalry</orgName> at the Battle of the <placeName rend="battlefield" key="bat.mt.lb" reg="Little Bighorn">Little Bighorn</placeName>. He was killed at <placeName rend="fort" key="fort.ne.rob" reg="Fort Robinson">Fort Robinson, Nebraska</placeName>, in September 1877, reportedly while trying to resist arrest. <persName reg="Crazy Horse">Crazy Horse</persName> remains an important symbol of Native American resistance to European American hegemony.</p>
+
+<p><persName reg="Ziolkowski, Korczak">Ziolkowski</persName> dedicated the first blast of the <placeName rend="monument" key="mon.chm" reg="Crazy Horse Memorial">Crazy Horse Memorial</placeName> in 1948. The monument was just one part of his extensive nonprofit humanitarian project intended to honor Native Americans; <persName reg="Ziolkowski, Korczak">Ziolkowski</persName> also had intentions to build a museum, university, and medical training center. Only one of his goals ever reached completion, the <orgName rend="museum" key="mus.imna" reg="Indian Museum of North America">Indian Museum of North America</orgName>, which is located below the monument.</p>
+
+<p>The monument can only be what <persName reg="Ziolkowski, Korczak">Ziolkowski</persName> called a "lineal likeness," since <persName reg="Crazy Horse">Crazy Horse</persName> never allowed anyone to photograph or sketch him. The <placeName rend="monument" key="mon.chm" reg="Crazy Horse Memorial">Crazy Horse Memorial</placeName> will be the world's largest in-the-round sculpture, measuring 641 feet high and 563 feet long. Four thousand people will be able to stand on his outstretched arm, and below his hand, in three-foot-high letters, a message will read, "My lands are where my dead lie buried."</p>
+
+<p>Although intended to honor <persName reg="Crazy Horse">Crazy Horse</persName> and Native Americans in general, many have questioned the appropriateness of blasting his image out of the sacred <geogName rend="region" reg="Black Hills">Black Hills</geogName>. According to <persName reg="Driving Hawk Sneve, Virginia">Virginia Driving Hawk Sneve</persName>, Lakotas would rather his image "be cloaked in faceless anonymity to forever symbolize their defeat and the need for inspired leaders once more." However, fifty years after the first blast, <persName reg="Crazy Horse">Crazy Horse</persName>'s face was dedicated on June 3, 1998. Some still question whether or not the monument will ever be completed.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.014"><persName reg="Crazy Horse">Crazy Horse</persName></ref>.</p>
+
+<p><ref target="http://crazyhorsememorial.org/">Crazy Horse Memorial</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Amy Scherer<lb/>
+Reno, Nevada</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>DeWall, Robb. <title level="m"><hi rend="smallcaps">KORCZAK</hi>: Storyteller in Stone</title>. Crazy Horse <hi rend="smallcaps">SD</hi>: Korczak's Heritage, 1984.</bibl> <bibl>Fielder, Margaret. <title level="m">Sioux Indian Leaders</title>. Seattle: Superior Publishing Company, 1975.</bibl> <bibl>Sneve, Virginia Driving Hawk. <title level="m">They Led a Nation</title>. Sioux Falls <hi rend="smallcaps">SD</hi>: Brevet Press, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

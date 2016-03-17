@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Adult Education</title>
+<title level="m" type="sub"></title>
+<author>W. Fanklin Spikes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Spikes, W. Franklin">W. Franklin Spikes</author>. <title level="a">"Adult Education."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">198</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ADULT EDUCATION</head>
+
+<p>Adult education in the Great Plains has a
+long and rich history. Unlike many other geographical
+regions of the United States, where
+learners and providers of adult education programs
+enjoy close proximity, the large landmass
+and relatively sparse population of the
+Great Plains have resulted in the development
+of many distinctive educational delivery
+systems.</p>
+
+<p>Historically, the critical challenge for adult
+education providers in the Great Plains has
+been to develop a system of sound educational
+options and strategies that allow access to
+their resource base and at the same time overcome
+the fundamental barrier to participation
+that is posed by the substantial distances
+that exist between their location and potential
+adult students. The work of the Cooperative
+Extension Service with regard to community
+and leadership development, 4-H, the agricultural
+experiment station initiatives, and correspondence
+study, an early form of self-paced
+learning, are among the most notable examples
+of these efforts.</p>
+
+<p>Presently, distance-based learning activities
+that are delivered via two-way interactive
+video or Web-based coursework to the increasingly
+large number of adults in the region
+who have access to the Internet are among the
+most significant ways in which adult education
+degrees as well as personal and professional
+development offerings are being provided
+to residents of the Great Plains. In
+addition, on-site, off-campus college and university
+courses and other types of mediated
+self-directed instructional activities associated
+with the outreach mission of the region's
+many land-grant universities as well as the applied
+research and development endeavors of
+the Cooperative Extension Service, which provides
+educational and research services to
+agriculturally related interests of the Great
+Plains, continue to be among the key means
+by which new knowledge is disseminated
+throughout the region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: 
+<ref n="egp.ag.005">Agricultural Extension Service</ref>.</p>
+
+<closer>
+<signed>W. Franklin Spikes<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Knowles, M. S. <hi rend="italic">The Adult Education Movement in the U.S.</hi>
+Melbourne <hi rend="smallcaps">FL</hi>: Krieger, 1983.</bibl> <bibl>Merriam, S. B., and P. M.
+Cunningham, eds. <hi rend="italic">Handbook of Adult and Continuing Education</hi>.
+San Francisco: Jossey-Bass, 1989.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

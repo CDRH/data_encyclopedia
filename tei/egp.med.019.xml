@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Fort Worth Star-Telegram</hi></title>
+<title level="m" type="sub"></title>
+<author>Gerald L. Grotta</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grotta, Gerald L.">Gerald L. Grotta</author>. <title level="a">"<hi rend="italic">Fort Worth Star-Telegram</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">512</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">FORT WORTH STAR-TELEGRAM</hi></head>
+
+<p>In 1936 the <title level="j">Amarillo Globe</title> said of the legendary
+publisher of the <title level="j">Fort Worth Star-Telegram</title>:
+"West Texas is bound on the north by Colorado
+and Oklahoma, on the west by New
+Mexico, on the south by Mexico, and on the
+east by Amon Carter." Thirty years earlier
+there had been only two newspapers in Fort
+Worth&#8211;the morning <title level="j">Telegram</title> and the morning
+<title level="j">Record</title>. Then in 1906 young Amon Carter
+agreed to become advertising manager of a
+new evening newspaper, the <title level="j">Star</title>.</p>
+
+<p>Initially, the <title level="j">Star</title> floundered, and it never
+managed to break even. Then in 1909, in an audacious
+move, the near-bankrupt <title level="j">Star</title> bought
+the larger and much more successful <title level="j">Telegram</title>,
+and the <title level="j">Fort Worth Star-Telegram</title> was born,
+with Amon Carter as primary owner and publisher.
+Together, the new publisher and his
+newspaper were to become a major force in
+shaping not only Fort Worth but all of West
+Texas and eastern New Mexico&#8211;a sizable
+chunk of the Great Plains.</p>
+
+<p>Until then, West Texas had been largely ignored
+by everybody. However, Amon Carter
+had a much different vision of the future of
+this vast expanse of hot, dry, windy plains.
+That future was to include a great oil boom
+and irrigated croplands to supplement the historic
+cattle industry. As Amon Carter would
+tell audiences, West Texas is larger than New
+York, Massachusetts, Pennsylvania, and Maryland
+combined. The <title level="j">Fort Worth Star-Telegram</title>
+embraced the residents of West Texas, and the
+citizens of West Texas embraced the <title level="j">Fort Worth Star-Telegram</title>. The newspaper would
+eventually serve an area of 350,000 square
+miles and deliver copies every day to homes up
+to 700 miles west of Fort Worth, well into New
+Mexico. It dominated the market in such West
+Texas population centers as Amarillo, Abilene,
+Lubbock, Midland-Odessa, and El Paso. By
+1913 it had become the fourth-largest newspaper
+in Texas, with a circulation of 40,000. By
+1918 its 66,000 subscribers made it the largest
+newspaper in all of Texas. Then in 1923 circulation
+reached 115,000, and it was the largest
+newspaper in the southern United States&#8211;
+larger than the <title level="j">Dallas Morning News</title> or the
+<title level="j">Houston Chronicle</title> or the <title level="j">Atlanta Journal</title>.
+Much of this growth came from subscribers in
+West Texas and eastern New Mexico. It wasn't
+until midcentury that newspapers in much
+larger cities finally passed the <title level="j">Fort Worth Star-Telegram</title> in circulation.</p>
+
+<p>The decline of home-delivery circulation
+throughout West Texas and eastern New Mexico
+began in the second half of the century.
+Passenger trains that had delivered the newspaper
+to those far-flung towns stopped running,
+and there was no other economical way
+to spread the newspaper throughout this vast
+region. People in isolated West Texas communities
+had used the <title level="j">Fort Worth Star-Telegram</title>'s
+ads from large Fort Worth department stores
+to order merchandise for mail delivery. When
+department stores&#8211;both independent and
+chain&#8211;began to open in West Texas they
+reduced the need for mail-order shopping,
+which in turn reduced the value of West Texas
+subscribers for the Fort Worth stores. Finally,
+as cities grew, the newspapers in West Texas
+began to improve and expand. In a way, the
+successful development of West Texas that had
+been fostered by the <title level="j">Fort Worth Star-Telegram</title>
+helped reduce the need for that newspaper in
+much of the region.</p>
+
+<p>On June 23, 1955, Amon Carter died, and his
+son, Amon Carter Jr., became publisher. Then
+in 1974 the <title level="j">Fort Worth Star-Telegram</title> was purchased
+by Capital Cities of New York, and in
+1996 Capital Cities/<hi rend="smallcaps">ABC</hi> merged with the Walt
+Disney Company. Within a year, Disney/<hi rend="smallcaps">ABC</hi>'s
+publications, including the <title level="j">Fort Worth Star-Telegram</title> and the <title level="j">Kansas City Star</title>, were purchased
+by Knight-Ridder, the second largest
+newspaper group in the country.</p>
+
+<p>By the end of the twentieth century, the <title level="j">Fort Worth Star-Telegram</title> had changed its focus
+from West Texas to the Fort Worth metropolitan
+area and eastward into the rapidly
+growing Arlington and Mid-Cities area between
+Fort Worth and Dallas. But no story of
+the West Texas region of the Great Plains
+would be complete without the newspaper
+that "discovered" West Texas, nurtured it,
+promoted it, and served it so well for most of
+the first half of the century.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.023">Fort Worth, Texas</ref>.</p>
+
+<closer>
+<signed>Gerald L. Grotta<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Flemmons, Jerry. <title level="m">Amon: The Texan Who Played Cowboy for America</title>. Lubbock: Texas Tech University Press, 1998.</bibl>
+<bibl>Meek, Phillip J. <title level="m">Fort Worth Star-Telegram: "Where the West Begins."</title> New York: Newcomen Society in North America,
+1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

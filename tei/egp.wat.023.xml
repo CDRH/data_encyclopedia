@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rainmaking</title>
+<title level="m" type="sub"></title>
+<author>April L. Whitten</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Whitten, April L.">April L. Whitten</author>. <title level="a">"Rainmaking."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">859-860</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RAINMAKING</head>
+
+<p>It is not surprising that European American
+settlers in the Great Plains, dependent on agriculture
+and plagued by drought, would develop
+an interest in rainmaking. The earliest
+attempts involved the concussion method,
+which was premised on the theory that gunpowder
+explosions triggered friction and generated
+nuclei to produce rain. In 1890 Congress
+appropriated funds to put this theory
+into practice. The task was given to Gen. Robert
+St. George Dyrenforth. Experimentation
+began on the c Ranch in Andrews County,
+Texas, in 1891 and continued at San Antonio,
+Texas, in 1892. No rainfall occurred. General
+Dyrenforth was dubbed "General Dryhenceforth,"
+and the remaining funds appropriated
+for rainmaking experiments reverted to the
+Department of the Treasury.</p>
+
+<p>The public did not give up on rainmaking.
+Frank Melbourne of Australia, the "rain wizard"
+who claimed to possess a "secret formulae"
+to produce rain, launched a successful career
+in Goodland, Kansas, in 1891. Although
+Melbourne guarded his techniques, other
+rainmaking companies soon claimed knowledge
+of his method. By 1892, the Goodland
+Artificial Rain Company and the Swisher Rain
+Company competed for business in South Dakota,
+Nebraska, Kansas, Oklahoma, Texas,
+Colorado, Utah, and California. By 1893, five
+rainmaking companies hailed from Kansas, all
+claiming use of Melbourne's method. Even
+then doubters were still in abundance across
+the Great Plains. Not much had changed since
+the early days of rainmaking: once while Melbourne
+was working in the Nebraska Panhandle,
+Old Jules Sandoz rode down to watch;
+following the performance that produced
+thunder, wind, and a few drops of rain complete
+with double rainbow, Old Jules remarked
+to his neighbors, "I'll keep catching skunks for
+a living." Eventually, fraudulent practices disillusioned
+farmers, and rainmaking companies
+lost support.</p>
+
+<p>By the end of the nineteenth century, interest
+in irrigation had supplanted interest in
+rainmaking in Kansas. Still, Americans' faith
+in science and progress carried the rainmaker
+into the twentieth century. The cereal manufacturer,
+C. W. Post of Texas, maintained belief
+in the concussion method. From 1911 to 1914,
+Post executed "rain battles" near Post City,
+Texas, detonating dynamite along the Caprock
+Escarpment. Inspired by an occasional rain
+fall, Post optimistically predicted that rainmaking
+would one day replace irrigation.</p>
+
+<p>By World War I, as public interest in traditional
+methods of rainmaking waned, scientists
+turned to airplanes and cloud seeding
+with sand, dust, and dry ice. This method used
+existing clouds, rather than the earlier attempts
+to create clouds, and met with some
+local success.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.050">Post, C. W.</ref>.</p>
+
+<closer>
+<signed>April L. Whitten<lb/>
+Omaha, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Mason, Basil John. <title level="m">Clouds, Rain, and Rainmaking</title>. Cambridge:
+University Press, 1962.</bibl> <bibl>Spence, Clark C. <title level="m">The Rainmakers:
+American "Pluviculture" to World War II</title>. Lincoln:
+University of Nebraska Press, 1980.</bibl> <bibl>Townsend, Jeff. <title level="m">Making
+Rain in America: A History</title>. Lubbock: Texas Tech University
+Press, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Casper, Wyoming</title>
+<title level="m" type="sub"></title>
+<author>Jerry E. Nelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nelson, Jerry E.">Jerry E. Nelson</author>. <title level="a">"Casper, Wyoming."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">161-162</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CASPER, WYOMING</head>
+
+<p>Casper sits at several crossroads, literally and
+figuratively. From its origins as a trading and
+army post at a ford on the North Platte River, it
+has grown into a modern city of about 50,000
+people. Located at an elevation of about one
+mile above sea level, Casper stretches out along
+the river and is growing toward the base of
+8,000-foot Casper Mountain to the south of
+the city.</p>
+
+<p>Casper is at a geological crossroads, sitting
+on the Casper Arch, which separates
+the Powder River Basin from the Wind River
+Basin. This is a low saddle in the Rocky Mountains
+that continues to provide a natural topographic
+funnel for travelers heading west.
+Long before European Americans settled the
+area, Native Americans traveled through the
+region on their way from the Great Plains
+to the mountains and basins of the Middle
+Rocky Mountains. The attraction then as now
+was the ease of travel provided by the broad
+basins and the abundant local resources, especially
+water. The first permanent occupation
+was a bridge and trading post built by Louis
+Guinart in 1859 to provide support and a river
+crossing for travelers on the Oregon, California,
+Mormon, Pioneer, and Pony Express
+Trails and access to the nearby Bridger and
+Bozeman Trails. Casper is still a crossroads,
+the point of connection for Interstate 25, U.S.
+20 and U.S. 26, and Wyoming 220.</p>
+
+<p>Casper is also at a crossroads economically,
+struggling with the transition from the boom-and-
+bust cycles of the petroleum and minerals
+(coal, uranium, trona, bentonite, and clay) industries
+to a rapidly developing service and
+manufacturing economy. The city is a regional
+service center for central Wyoming. The Wyoming
+Medical Center provides sophisticated
+medical care for the region. Casper College,
+a comprehensive community college, and the
+University of Wyoming Upper Division Center
+combine their resources to provide an everexpanding
+number of educational opportunities.
+Medical, legal, banking, and recreational
+services, along with retail sales and light manufacturing,
+are slowly replacing petroleum
+and minerals as the economic base. In 1999 the
+service sector accounted for almost 30 percent
+of total employment, having increased its
+share by almost one third over the decade,
+while mining employment (including oil and
+gas) stood at barely 7 percent of the total and
+had declined by almost 10 percent during the
+1990s. Oil, gas, and minerals continue to be an
+important part of the economic picture, but it
+is apparent from the lack of impact on Casper
+of the current coal bed methane boom that
+Casper can no longer be considered a petroleum
+and minerals boomtown.</p>
+
+<p>The culture of Casper is very much like the
+culture of many western towns, with one foot
+firmly planted in the Old West and one stepping
+toward the New West. Wingtips and cowboy
+boots mingle together at local watering
+holes, tapping in rhythm to both country
+western and rock. Nothing illustrates Casper's
+position at the cultural and economic crossroads
+better than the following juxtaposition.
+Casper is now the host city for the College
+National Finals Rodeo, which each year in June
+fills the town with cowboys and cowgirls from
+around the nation. Contrast that Old West picture
+with the high technology, New West scene
+created by a crowd of locals who recently
+gathered on a sage-covered dune just north of
+town to witness the test firing of Wickman
+Aerospace's latest rocket engine for <hi rend="smallcaps">NASA</hi>.</p>
+
+<closer>
+<signed>Jerry E. Nelson<lb/>
+Casper College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Casper Zonata Club. <title level="m">Casper Chronicles</title>. Casper <hi rend="smallcaps">WY</hi>: Casper
+Zonata Club, 1964.</bibl> <bibl>Mead, Jean. <title level="m">Casper Country: Wyoming's Heartland</title>. Boulder <hi rend="smallcaps">CO</hi>: Pruett Publishing Company,
+1987.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

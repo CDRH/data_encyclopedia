@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Townley, Arthur C. (1880-1959)</title>
+<title level="m" type="sub"></title>
+<author>Kimberly K. Porter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Porter, Kimberly K.">Kimberly K. Porter</author>. <title level="a">"Townley, Arthur C. (1880-1959)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">724</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TOWNLEY, ARTHUR C. (1880-1959)</head>
+
+<p>Arthur C. Townley, founder of the Nonpartisan
+League, was born near Browns Valley,
+Minnesota, on December 30, 1880. After failing
+three times to make a living by farming (in
+Cheyenne Wells, Colorado, and Beach and
+Golden Valley, North Dakota) and alienated by
+an economy that did not reward his efforts,
+Townley turned to the Socialist Party. His impressive
+organizational and oratorical skills
+quickly propelled him into the party's leadership.
+Unorthodox methods of recruiting, however,
+frustrated party leaders and led to his
+expulsion.</p>
+
+<p>Townley then directed his energies to the
+farmers' cause, and in February 1915, along
+with A. E. Brown, he founded the Farmers
+Nonpartisan Political League of North Dakota,
+otherwise known as the Nonpartisan
+League (<hi rend="smallcaps">NPL</hi>). The <hi rend="smallcaps">NPL</hi> platform grew to include
+state ownership of terminal elevators,
+flour mills, cold storage plants, and packing
+plants, as well as a state-sponsored hail insurance
+program and state-owned banks. By 1918
+the organization claimed 200,000 members
+and controlled the state of North Dakota. Accordingly,
+the <hi rend="smallcaps">NPL</hi> began to implement its
+platform. The party, however, came under attack
+for malfeasance, socialist inclinations,
+and fraud. The <hi rend="smallcaps">NPL</hi> fell from power in the
+autumn of 1921 when a recall election removed
+one of its leading representatives, Gov.
+Lynn Frazier, from office. Townley did not
+hold elected public office himself, preferring
+to remain behind the scenes as president of
+the <hi rend="smallcaps">NPL</hi> and its master organizer.</p>
+
+<p>Following a ninety-day federal prison sentence
+in 1922 for discouraging enlistment during
+World War I, Townley resigned his position
+as head of the <hi rend="smallcaps">NPL</hi> in North Dakota, and
+the movement soon collapsed. Townley never
+again captured the limelight. He tried and
+failed to win political office in North Dakota
+and Minnesota on several occasions between
+1930 and 1958, dabbled in oil promotion and
+itinerant medicine sales, and supported his
+stepdaughter's motion picture career. He also
+took a virulent anticommunist stance during
+the 1950s, targeting leaders of the Farmers
+Union. Townley died in a car accident near
+Makoti, North Dakota, on November 7, 1959.</p>
+
+<closer>
+<signed>Kimberly K. Porter<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Morlan, Robert L. <title level="m">Political Prairie Fire: The Nonpartisan
+League, 1915–1922</title>. St. Paul: Minnesota Historical Society
+Press, 1985.</bibl> <bibl>Remele, Larry R. <title level="m">The Lost Years of A. C. Townley
+(After the Nonpartisan League)</title>. Bismarck: North Dakota
+Humanities Council, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

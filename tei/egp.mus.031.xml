@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Miller, Roger (1936-1992)</title>
+<title level="m" type="sub"></title>
+<author>Don Cusic</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cusic, Don">Don Cusic</author>. <title level="a">"Miller, Roger (1936-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">543</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILLER, ROGER (1936-1992)</head>
+<figure n="egp.mus.031" rend="granted" type="noclick">
+<figDesc>Roger Dean Miller</figDesc>
+</figure>    
+
+<p>Roger Dean Miller was an immensely popular
+country music artist and songwriter whose
+witty and catchy songs dominated country
+music from 1964 to 1966. Miller was born in
+Fort Worth, Texas, on January 2, 1936. When
+he was thirteen months old his father died, so
+Miller was raised by his Uncle Elmer on a farm
+in Erick, Oklahoma. There he learned to play
+fiddle, banjo, and guitar. After high school,
+Miller joined the army and served in Korea,
+then in a country band in Special Services at
+Fort McPherson in Atlanta. After the army,
+Miller moved to Nashville in 1957 and pursued
+a songwriting career. He also performed as a
+musician, playing for Minnie Pearl, Faron
+Young, and Ray Price.</p>
+
+<p>His first songwriting hit was "Invitation to
+the Blues," recorded by Ray Price in 1958. Other
+early songwriting hits include "Half a Mind,"
+recorded by Ernest Tubb, "Billy Bayou" and
+"Home," recorded by Jim Reeves, and "You
+Don't Want My Love," recorded by Andy Williams.
+Miller recorded for Starday and then
+rca Victor before signing with Mercury's
+Smash label, where in 1964 he began a string of
+hits with "Dang Me," followed by "Chuga-
+Lug," "England Swings," "Engine Engine
+Number 9," and his biggest song, "King of the
+Road." Miller won five Grammys for his 1964
+work and another six for his 1965 recordings.</p>
+
+<p>In 1966 he hosted <title>The Roger Miller Show</title> on
+<hi rend="smallcaps">NBC</hi>, and in 1973 he narrated the voice of the
+rooster in Disney's <title>Robin Hood</title>. In the mid-
+1980s he wrote the score for the Broadway musical
+<title>Big River</title>, based on the novel <title>Huckleberry Finn</title>, for which he won a Tony Award. Miller
+was diagnosed with throat cancer in 1991 and
+died in Santa Fe, New Mexico, on October 25,
+1992. He was inducted into the Country Music
+Hall of Fame in 1995.</p>
+
+<closer>
+<signed>Don Cusic<lb/>
+Belmont University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

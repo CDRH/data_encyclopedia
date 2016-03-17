@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.001.01 SYSTEM "egp.fil.001.01.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Film</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Film."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">255-258</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FILM</head>
+
+<figure n="egp.fil.001.01" rend="granted">
+<figDesc>Piqua, Kansas, birthplace of Buster Keaton</figDesc>
+</figure>
+
+<p>The Great Plains has inspired a long and rich
+tradition of cinema and have produced a remarkably
+deep pool of actors and filmmakers.
+Westerns derive much of their force from the
+vastness of the Plains landscape, a suitably
+grand setting for the conflict between good
+and evil. The pioneer film is based on the immigrants'
+struggle with this harsh yet fertile
+environment, and the Plains has also been a
+classic setting for the small-town movie, claustrophobic
+even in those wide-open spaces. Significant
+documentaries and realistic dramas
+have conveyed the exploitation of the region's
+inhabitants by external forces as well as their
+efforts to resist those forces. And a galaxy of
+stars has risen from Plains cities, towns, and
+farms, from Lon Chaney (born in Colorado
+Springs in 1883), Roscoe "Fatty" Arbuckle
+(Smith Center, Kansas, 1887), and Buster Keaton
+(Piqua, Kansas, 1895) to Dennis Hopper
+(Dodge City, Kansas, 1936), Demi Moore (Roswell,
+New Mexico, 1963), and Brad Pitt (Shawnee,
+Oklahoma, 1963).</p>
+
+<p>While it is the American rather than the
+Canadian Plains that has produced the stars
+(Rod Cameron of Calgary notwithstanding),
+it is mainly the Prairies that have developed a
+genuine Plains aesthetic in film. Indeed, the
+very first Great Plains films depicting life on
+the Prairies were made in 1897 by Manitoba
+farmer James Freer. Films set in the American
+Plains have been overwhelmed by Hollywood
+pretensions. Even a revisionist Western like
+<title>Dances with Wolves</title> (1990) is a distortion, albeit
+a spectacular one, of the history of the
+region and of the Native Americans, to whom
+the director, Kevin Costner, tries to pay homage.
+Filmmaking in the Prairie Provinces has
+also been influenced by Hollywood distribution
+monopolies, but because of the support
+of the National Film Board of Canada (established
+in 1939) and of the provincial governments,
+the opportunity has been there for
+the production of Prairie feature films and
+documentaries that are made in the region.
+Consequently, it is that part of the Great
+Plains that is most likely to see its history and
+culture on the big screen without translation
+by Hollywood.</p>
+
+<div2>
+<head type="sub">Actors and Filmmakers</head>
+
+<p>Perhaps if any region is thoroughly investigated
+the result will be the same, but it does
+seem that an inordinate number of actors and
+directors have come from the Great Plains.
+Stars were born the length and breadth of the
+region, from Edmonton, Alberta (Michael J.
+Fox, 1961) to San Saba, Texas (Tommy Lee
+Jones, 1946), and from Denver, Colorado
+(Douglas Fairbanks Sr., 1883) to Kansas City,
+Missouri (Jean Harlow, 1911). Investigate any
+subregion of the Plains, and the depth of film
+talent becomes evident. Omaha, Nebraska, for
+example, was home to two-time Oscar winner
+Marlon Brando (1924), to the debonair and
+light-footed Fred Astaire (1899), to the sensitive
+and tragic Montgomery Clift (1920), and
+to that durable tough guy, Nick Nolte (1941).
+In rural Nebraska were born Henry Fonda
+(Grand Island, 1905), who played perhaps his
+finest role as Tom Joad, the displaced Plains
+farmer in <title>The Grapes of Wrath</title> (John Ford,
+1940); <title>The Fugitive</title>, David Janssen (Naponee,
+1930); <title>Our Man Flint</title>, James Coburn (Laurel,
+1928); leading man Robert Taylor (Filley, 1911);
+Tony- and Academy Award–winning actress
+Sandy Dennis (Hastings, 1937); B-movie stars
+Hoot Gibson (Takamah, 1892) and Coleen
+Gray (Staplehurst, 1922); torch-song diva
+Ruth Etting (David City, 1896); master comedian
+and stuntman Harold Lloyd (Burchard,
+1888); and movie mogul Darryl Zanuck
+(Wahoo, 1902).</p>
+
+<p>Many of these Plains people did not stay
+long in the region, but surely the Plains stayed
+in them. Buster Keaton, for example, spent his
+early years in the tiny railroad town of Piqua
+in southeastern Kansas serenaded by piercing
+whistles, screeching brakes, and clanging bells.
+Even though the Keatons&#8211;small-time performers
+in ten-cent shows&#8211;moved to New
+York in 1899, when Buster was four, these
+memories stayed with him all his life, and
+many of his films, including perhaps his greatest,
+<title>The General</title> (1926), feature trains. In his
+autobiography, <title>My Wonderful World of Slapstick</title>
+(1967), Keaton recounts how Pickway
+(Piqua) was virtually blown away by a tornado
+soon after he was born. Like the trains, Plains
+winds stayed with him: how else to account
+for the daredevil scene in <title>Steamboat Bill</title>
+(1927), when Keaton is tumbled through River
+Junction by a howling wind, until finally he is
+enveloped by the falling facade of a two-story
+building, a small window passing around him
+and, literally (for this was not a camera trick),
+saving his life.</p>
+
+<p>Other filmmakers from the Great Plains
+have dealt more explicitly with their Plains
+upbringing. Gordon Parks, the youngest in a
+family of sixteen children, was born in 1912
+and grew up in the segregated small town of
+Fort Scott, Kansas. It was a racist town, and
+the family's clapboard house was crowded,
+but in his autobiographical novel, <title>The Learning Tree</title> (1963), and in the lyrically beautiful
+film of the same name that he produced and
+directed in 1969 as Hollywood's first African
+American director, the memories of his Plains
+upbringing are also affectionate. The place
+was a learning tree, his mother had told him,
+and trees bear both good and bad fruit.</p>
+
+<p>Parks gratefully left Fort Scott for Minnesota
+in 1927, probably passing through
+Kansas City, where Robert Altman was then
+two years old. Altman grew up in comfortable,
+middle-class circumstances and learned
+his trade directing industrial films and television
+series and commercials in Kansas City in
+the early 1950s. Perhaps it was because of the
+central location of that city, at the crossroads
+between North and South, East and West, that
+Altman would go on to become the preeminent
+director of films that explore and dissect
+American dreams, mythologies, and hypocrisies.
+His first film and one of his later feature
+films were set in Kansas City. His teenage
+hoodlum film, <title>The Delinquents</title> (1956), was
+shot in his hometown, and he left for Hollywood
+as soon as it was finished. In 1996 Altman
+made Kansas City, evoking the city of his
+youth with its gangsters, crooked politicians,
+and, most of all, its vibrant jazz scene. Using
+local musicians, Altman reprised the jazz sessions
+he had caught as a teenager in the Kansas
+City clubs, making us all wish we had been
+there. Another two of his more than thirty
+feature films&#8211;<title>Buffalo Bill and the Indians</title>
+(1976) and <title>Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean</title> (1982)&#8211;also have
+Plains settings.</p>
+
+<p>A filmmaker doesn't have to be from the
+Plains, of course, to make a Plains movie. Two
+of the most significant Plains films of recent
+years, the documentary Incident at Oglala and
+the feature film Thunderheart, both released
+in 1992 and both set on Pine Ridge Reservation
+in South Dakota, were made by Michael
+Apted, an Englishman.</p>
+</div2>
+
+<div2>
+<head type="sub">Great Plains Films</head>
+
+<p>Innumerable mainstream Hollywood films
+have been set in the Great Plains. The grand
+finales of <title>North by Northwest</title> (Alfred Hitchcock,
+1959) and <title>Close Encounters of the Third Kind</title> (Steven Spielberg, 1977) are played out in
+spectacular Plains settings (Mount Rushmore,
+South Dakota, and Devil's Tower, Wyoming,
+respectively), although these are not otherwise
+Plains films. On the other hand, many Plains
+films such as <title>Oklahoma!</title> (Fred Zinneman,
+1955) and <title>Oklahoma Crude</title> (Stanley Kramer,
+1973) were actually filmed elsewhere (the former
+in Arizona and the latter in Stockton, California).</p>
+
+<p>The Western is the genre most clearly associated
+with the Plains. Many Westerns are actually
+"placeless," taking place in what Richard
+Slotkin calls "mythic space." Precise locations
+are often ambiguous, because the West in such
+films is too big for any one place. The "placelessness"
+is accentuated by the fact that many
+Westerns were filmed on stage sets. Yet many
+Westerns, while retaining their mythic qualities,
+are clearly set in the Great Plains and
+depict events in Plains history, albeit refracted
+through a lens. These include cattle-drive films
+such as Howard Hawks's <title>Red River</title> (1948),
+which is based on the opening of the Chisholm
+Trail in the 1860s. In the film, a tough older
+man, Thomas Dunson (John Wayne), and a
+sensitive young man, Matthew Garth (Montgomery
+Clift, in his first movie role), are pitted
+against each other over whether to drive the
+herd to the old destination at Sedalia, Missouri,
+or to the new railheads in Kansas. The
+competition heads toward a showdown, but
+the gunfight never materializes, because the
+honorable Dunson cannot kill his "spiritual"
+son. Many other cattle-drive films similarly
+combine personal drama and historical epic,
+but none as effectively as <title>Red River</title>. <title>The Virginian</title>
+(Victor Fleming, 1929; Stuart Gilmore,
+1946) is also a Western with a Plains setting
+(Medicine Bow, Wyoming) and again the classic
+Western theme: the rugged, innocent, and
+honorable cowboy confronted with a moral
+dilemma.</p>
+
+<p>Homesteader films, another aspect of the
+Western genre, are often set in the Plains. One
+of the earliest, <title>The Homesteader</title> (1917), was by
+an African American, Oscar Micheaux, who
+had actually homesteaded in South Dakota in
+the first years of the twentieth century. Based
+on his own novel of the same name (1917),
+Micheaux tells the story of an African American
+settler who makes good and is involved in
+an interracial love affair. Written, produced,
+and directed by Micheaux and filmed in Gregory
+County, South Dakota, this was the first
+feature film made entirely by African Americans.</p>
+
+<p>The homesteader tradition has continued
+into recent decades&#8211;battling the Plains environment
+is an enduring theme in literature
+(e.g., O. E. R&#246;lvaag's <title>Giants in the Earth</title>, 1927)
+and film. The classic film of Prairie Provinces
+settlement, <title>Drylanders</title> (Donald Haldone,
+1963), is a saga of homesteading in southern
+Saskatchewan from the late nineteenth century
+to the 1930s. The first film produced
+by the National Film Board of Canada, <title>Drylanders</title>
+stayed close to historical reality, from
+the initial sod house to the dust storms of the
+1930s. The poignant film <title>Heartland</title> (Richard
+Pearce, 1979) slowly and gracefully traces the
+tribulations of a housekeeper and her daughter
+who move to frontier Wyoming to work
+for a dour rancher (played by Rip Torn) and
+end up finding affection. Terrence Malick's
+haunting <title>Days of Heaven</title> (1978), the story of a
+steelworker and his lover who flee Chicago
+after a fight (murder?) to work as itinerant
+laborers in the wheat fields of the Texas Panhandle
+in the years just before World War I, is
+also a homesteader film. After all, this area
+was, along with eastern Montana, a twentiethcentury
+Plains frontier. The film, shot in Alberta,
+captures the unpredictability of the
+Plains environment in a sequence of close-ups
+that show a wheat seed germinating deep in
+the fertile soil and then, months later, a wheat
+kernel being devoured by a grasshopper, one
+of millions that have descended to strip the
+fields to the ground.</p>
+
+<p>There are, of course, numerous films about
+the conflicts between European Americans
+and Native Americans in the Great Plains.
+These movies, like the writing of history itself,
+tell as much about the times in which they
+were made as they do about the times they
+portray. During the course of fifty years in
+movies, Plains Native Americans have gone
+from "savage" to "noble survivor," while at the
+same time Gen. George Armstrong Custer has
+gone from conquering hero to arrogant fool.
+Significant Plains films in this transition include
+<title>Soldier Blue</title> (Ralph Nelson, 1970), which
+graphically depicts the atrocities of the 1864
+Sand Creek Massacre, and Arthur Penn's audacious
+<title>Little Big Man</title> (also 1970), which takes
+the 120-year-old Jack Crabb through virtually
+every event of the Plains Indian wars. However,
+these films are as much about Vietnam
+and My Lai as they are about Native Americans.
+<title>Dances with Wolves</title>, for all its romanticizing
+and revising of Plains Indian life
+(Pawnees were hardly the aggressors in their
+conflicts with Lakotas), goes farther than most
+other Westerns by giving Native American actors
+prominent roles and by employing Lakota
+in the dialogue, with English subtitles. In
+many respects, Costner's film can be seen as a
+successor to Elliot Silverstein's <title>A Man Called Horse</title> (1970), which also uses Native American
+actors and language as the setting for a European
+American's heroics and distorts history
+in the process.</p>
+
+<p>The end of the West, leaving its people dislocated,
+is another classic theme in Plains Westerns,
+and Texas is a favorite setting. The best
+example, perhaps, is <title>Hud</title> (Martin Ritt, 1963),
+which was adapted from Larry McMurtry's
+novel <title>Horseman, Pass By</title> (1961). <title>Hud</title> features
+the conflict between an honorable old man
+(played by Melvyn Douglas), who has an abiding
+pride in the Texas ranch he has built over
+the years, and his cynical son (Paul Newman),
+who values nothing. The passing of the West
+here is associated with the loss of principles
+and the severing of the attachment to the land.
+<title>Giant</title>, which won an Academy Award for director
+George Stevens in 1956, covers some of
+this same territory, both actually and figuratively.<title>Set and filmed in West Texas, </title><hi rend="italic">Giant</hi> follows
+Bick (Rock Hudson) and Leslie Benedict
+(Elizabeth Taylor) through the transition from
+big ranching money to big oil money that took
+place from the 1920s to the 1940s. A central
+figure, Jeff Rink (played rather movingly by
+James Dean in his last acting role), represents
+the loss of humanity that comes with wealth.
+Another theme is the caste system, in which
+Mexicans are relegated to a servile role and to
+segregated, poverty-stricken living conditions.
+Yet on this issue the film ends on an optimistic
+note, as Bick finally rejects the racism he has
+grown old with. The prejudices, conflicts, and
+accommodations between European Americans
+and Latinos (and in this case African
+Americans too) are also featured in John
+Sayles's <title>Lone Star</title> (1996), a penetrating analysis
+and gripping account of contemporary life in
+fictional Rio County, located at the southern
+extremity of the Great Plains, where the Edwards
+Plateau meets the Rio Grande.</p>
+
+<p>The end of the West is a central theme in <title>The Last Picture Show</title> (Peter Bogdanovich, 1971),
+also the best of another Plains genre, the smalltown
+movie. Adapted from another McMurtry
+novel, this film, suitably shot in black and
+white, is a painful and moving look at a small
+Texas town in decline. It tells the coming-ofage
+stories of two young men whose energy
+and hopes are in stark contrast to the lives of
+boredom and deceit led by the town's adults.
+The only saving grace is Sam the Lion (played
+by Ben Johnson, who had himself grown up in
+the small Plains town of Foraker, Oklahoma),
+who runs the movie house and provides a link
+to the town's more vibrant past. But the movie
+house closes (the last film shown is <title>Red River</title>),
+and Sam dies, leaving only a dusty cocoon of a
+place.</p>
+
+<p>Even as historic Westerns have declined in
+popularity in recent decades, the end-of-the-
+West movie remains an effective theme, a poignant
+evocation of the loss of a purportedly
+simpler and more noble way of life before the
+forces of modernism. The best recent example
+is Stephen Frears's <title>The Hi-Lo Country</title> (1999),
+a story of friendship between two cowboys,
+Big Boy (Woody Harrelson) and Pete (Billy
+Crudup), set on the Plains of eastern New
+Mexico in the years immediately following
+World War II, when the cattleman and the
+cattle drive were giving way to the corporation
+and the truck.</p>
+
+<p>The Plains is also a favorite setting for road
+movies, providing the spaces that must be
+crossed to escape circumstances or to find redemption.
+<title>Badlands</title> (Terrence Malik, 1973),
+loosely based on the Charles Starkweather
+murder spree, <title>Thelma and Louise</title> (Ridley
+Scott, 1991), which feminizes this generally
+male genre, and the humorous and uplifting
+<title>Pow-Wow Highway</title> (Jonathan Wacks, 1988),
+the story of the spiritual quest of a young
+Northern Cheyenne man from his impoverished
+Montana reservation to New Mexico via
+the sacred Bear Butte, all involve flights by
+automobile across the Plains.</p>
+
+<p>Some of the most important Plains films
+deal with the exploitation of the region by
+outside forces and the political responses of
+the people. The opening scene of <title>The Grapes of Wrath</title>, where Tom Joad walks across the flat
+Plains landscape, evokes a sense of exposure
+and vulnerability and prepares the viewer for
+the exodus of the Joads from Oklahoma to
+California. Four years before Ford's classic,
+Pare Lorentz's documentary, <title>The Plow that Broke the Plains</title>, had blamed the machine for
+the Dust Bowl and the ruin of families like the
+Joads. This powerful piece of propaganda
+(made for the Resettlement Administration)
+depicted an army of huge tractors moving
+across the land, tearing through the virgin sod
+and exposing the soil to the winds. Lorentz
+backed off, however, from blaming the economic
+forces behind those machines.</p>
+
+<p>There is no backing off in John Hanson and
+Rob Nilsson's <title>Northern Lights</title> (1979). The directors
+use footage of North Dakota farm
+families shot by Nilsson's grandfather between
+1915 and 1921 as background for the story of
+the rise of the populist Nonpartisan League.
+The film conveys better than any other the feel
+of the Northern Plains landscape and the lives
+of farm families at the mercy of eastern industrialists.
+A similar subject, the life of a prairie
+farmer, is covered in <title>Paper Wheat</title> (Albert
+Kish, 1979), which is set in Saskatchewan and
+was another production of the National Film
+Board of Canada.</p>
+
+<p>There are also Plains films that stand alone,
+outside of any genre. <title>The Wizard of Oz</title> (Victor
+Fleming, 1939) is such a film, unless, of course,
+it too is a road movie, from black-and-white
+Kansas to Technicolor Oz and then back to
+"no place like home." The film is based on the
+book <title>The Wonderful Wizard of Oz</title> (1900) by L.
+Frank Baum, who spent three years in South
+Dakota during the drought and economic depression
+of the late 1880s and early 1890s. Just
+as the book is often seen as a critique of the
+politics of the 1890s, the movie can also be
+perceived as an allegorical commentary on the
+1930s political scene. Opening in the sepiatoned
+Dust Bowl of Kansas, it takes the viewer
+to a blooming land transformed by Franklin
+Roosevelt's New Deal.</p>
+</div2>
+
+<div2>
+<head type="sub">Images of the Great Plains in Film</head>
+
+<p>Popular images of places are probably shaped
+more by movies than by any other medium,
+and often those images have little to do with
+historical or geographical reality. "Hollywood's
+Canada," for example, is made up of
+wild and impenetrable forests populated by
+scarlet-clad Mounties. The Prairies, apparently
+too tame and unexciting for Hollywood,
+were rarely used as a film setting. Two useful
+studies of Hollywood's Oklahoma (one by
+Jack Spears, the other by Thomas Bohn and
+Joseph Millichap) provide an opportunity to
+focus on one Plains state and its celluloid image.</p>
+
+<p>Most of the (at least) fifty-five feature films
+that deal with Oklahoma concentrate on historical
+themes of settlement. The land rush of
+1889 and the oil boom of the early twentieth
+century are favorite motifs. The other major
+event in Oklahoma's history, the relocation of
+Native Americans to then Indian Territory, is
+not such a popular theme. This is not surprising,
+because the traditional objective has been
+to glorify the "winning of the West," using
+Oklahoma as the setting, not to expose the
+brutality and dire consequences of Native
+American relocation. Most of the movies are
+less about the actual place than about the
+American ideology of taming the frontier. The
+best movie in this tradition is <title>Cimarron</title> (Wesley
+Ruggles, 1931), which won three Academy
+Awards in 1931, including best picture. This
+sprawling epic takes a pioneer Oklahoma family
+from the land rush through the emergence
+of the state to the oil fields and burgeoning
+cities of the 1920s, along the way editorializing
+on prejudice against Jews and Native Americans
+and corruption in state government. Despite
+such qualifications, the message is one of
+successive frontiers offering opportunity to
+enterprising Americans.</p>
+
+<p>There is, however, an ambivalence in the
+movie image of Oklahoma. Oklahoma is the
+verdant land&#8211;"a colorful picture postcard,"
+to use Spears's words—of the musical <title>Oklahoma!</title>,
+but it is also the derelict oil fields of
+<title>Tulsa</title> (Stuart Heisler, 1949), the ruined soil
+and lives of <title>The Grapes of Wrath</title>, and the
+small-town confinement of <title>The Dark at the Top of the Stairs</title> (1960), which was based on
+the play by Kansan William Inge and directed
+by fellow Kansan Delbert Mann. This ambivalent
+image&#8211;garden and desert&#8211;can be extended
+to cover the entire Plains region. Its
+roots go back as far as Zebulon Pike, who in
+1806 compared the Southern Plains to the Sahara,
+and Lewis and Clark, who saw extraordinary
+fecundity during their passage along
+the eastern edge of the Central Plains in 1804.</p>
+</div2>
+
+<div2>
+<head type="sub">Filmmaking in the Great Plains</head>
+
+<p>Just like the Plains automobile companies that
+turned out small numbers of distinctive cars
+until the 1920s, when Detroit took over and
+they went under, so small filmmaking companies
+produced movies in various parts of
+the Plains until they succumbed to the Hollywood
+studio system.</p>
+
+<p>One of the earliest Plains film companies
+was founded by "Buffalo Bill" Cody in Denver
+in 1913, with financial backing from the Denver
+Post. The Colonel William F. Cody (Buffalo
+Bill) Historical Pictures Company's sole
+achievement, if that is the correct word, was
+<title>The Indian Wars</title> (1914), which purported to
+give an accurate representation of four key battles:
+Summit Springs (1869), Warbonnet Creek
+(1876), the Mission (1890), and Wounded Knee
+(1890). The film was shot at the sites of the
+battles and featured, in addition to Cody, Lt.
+Gen. Nelson Appleton Miles, troops from the
+Twelfth U.S. Cavalry, and more than a thousand
+Lakotas. <title>The Indian Wars</title> was screened in
+Washington dc, Denver, and Omaha, Alliance,
+and Chadron, Nebraska, in 1914 before being
+mired in controversy and withdrawn from circulation.
+The government may have thought
+that the military was presented as too much the
+aggressor at Wounded Knee, Native Americans
+resented their portrayal as "savages," and the
+public simply did not think much of the entire
+production.</p>
+
+<p>A year later, the Black Hills Feature Film
+Company had its brief moment of glory in the
+northwestern Nebraska town of Chadron in
+1915 with the production of the silent Western
+<title>In the Days of '75 and '76</title>. The company was
+organized by the townspeople, in particular,
+the chief of police, James O. Hartzell, whose
+wife wrote the script and whose daughter
+played the lead role of Calamity Jane. A more
+experienced company, Harman Brothers Film
+Manufacturers of Omaha, was brought in for
+technical advice. Shot in the nearby Nebraska
+Pine Ridge country and the Black Hills of
+South Dakota and using only local talent, the
+seven-reel film was completed in a month. It
+premiered to an enthusiastic audience, anxious
+to catch glimpses of themselves and their
+acquaintances, at Chadron's Rex Theater on
+September 24, 1915, and subsequently played
+at nearby frontier towns in Nebraska, Wyoming,
+and South Dakota. It was a typical
+Western genre film of the times, with saintly
+heroes, vile villains, gambling, shootouts, and
+friendly and hostile Indians. Within a year the
+film had dropped out of sight, and so had the
+Black Hills Feature Film Company.</p>
+
+<p>Similar companies flourished briefly
+throughout the Plains in the first two decades
+of the twentieth century. Oklahoma seems to
+have had more than its share, perhaps because
+the frontier was living history in this newest
+state, and former outlaws could parlay their established
+fame into acting. William M. Tilghman,
+for example, a famous frontier marshal,
+moved effortlessly into directing silent Westerns
+for the Oklahoma Natural Mutoscene
+Company in 1908. The first, <title>The Wolf Hunt</title>,
+shot in the Wichita Mountains, was screened
+by President Theodore Roosevelt in the East
+Room of the White House in 1909. The film
+featured former outlaw Al Jennings, by then a
+lawyer in Lawton. Jennings, a poor actor, went
+on to a Hollywood career. Tilghman's second
+film, <title>The Bank Robbery</title> (1908), starred Jennings
+as his outlaw self as well as Comanche
+chief Quanah Parker and many citizens of
+Cache, where it was shot. Clearly, occupational
+mobility was a feature of frontier life, and
+the distinction between movies and real life
+was blurred.</p>
+
+<p>The Lincoln Motion Picture Company was
+the most important of the early film companies
+to be associated with the Plains. A
+young Omaha, Nebraska, mailman, George P.
+Johnson, and his film actor brother, Noble
+(both Plains born, in Colorado Springs),
+formed the company in 1915 in an effort to free
+African American filmmakers from dependence
+on European American financiers and
+to combat the racist stereotypes propagated by
+D. W. Griffith's <title>The Birth of a Nation</title> (1915).
+Noble ran the studio in Los Angeles while
+George promoted and distributed their films
+from Omaha. In its movies and by its example,
+the Lincoln Motion Picture Company
+proclaimed that African Americans had every
+right to participate fully in American life. But
+the Johnsons constantly had to struggle to obtain
+financing, and by 1920 they were competing
+not only against the European American
+movie establishment but also against other
+African American companies, including that
+of Oscar Micheaux. There was simply not
+enough ticket-buying money in the African
+American community to support such enterprises,
+and in 1922 the Lincoln Motion Picture
+Company folded.</p>
+
+<p>In the Prairie Provinces, Calgary emerged
+as a center of film production between 1919
+and 1923 due to the entrepreneurship of Earnest
+G. Shipman ("Ten Percent Ernie"), who
+located there after obtaining the film rights
+to James Oliver Curwood's stories. Shipman
+produced five profitable films and a sixth that
+was a financial disaster. He left the business,
+and Prairie filmmaking declined.</p>
+
+<p>In subsequent years, despite the suffocating
+dominance of Hollywood, films have continued
+to be made locally in the Great Plains.
+Often they are associated with film schools
+and public television stations. An annual
+Great Plains Film Festival is now held at the
+University of Nebraska-Lincoln to showcase
+Plains filmmakers and films. Texas has a thriving
+film industry, but its hub is Austin, outside
+the Plains proper. North of the forty-ninth
+parallel, film cooperatives and corporations in
+Winnipeg, Regina, Saskatoon, and Calgary are
+taking advantage of federal and provincial
+funding to create television dramas and documentaries
+(and occasionally low-budget feature
+films) on Prairie Province topics and in
+Prairie Province settings.</p>
+
+<p>Meanwhile, the Plains continue to produce
+movie stars and filmmakers, and directors
+continue to be attracted to the region for its
+epic landscapes, dramatic (and unfurling) history,
+and mythic resonances.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.031">Micheaux, Oscar</ref>; <ref n="egp.afam.034">Parks, Gordon</ref> /
+<hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.049">Small Towns</ref> / 
+<hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.003">Baum, Frank L.</ref>; 
+<ref n="egp.lt.030">Inge, William</ref>; <ref n="egp.lt.044">McMurtry, Larry</ref>; <ref n="egp.lt.080">The Western</ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>:
+Dust Bowl / <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.039">Nonpartisan League</ref>.</p>
+</div2>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berton, Pierre. <title level="m">Hollywood's Canada: The Americanization of Our National Image</title>. Toronto: McClelland and Stewart
+Limited, 1975.</bibl> <bibl>Bohn, Thomas W., and Joseph Millichap.
+"Film Images of Oklahoma." <title level="j">Film and History</title> 10 (1980):
+83-89.</bibl> <bibl>Cripps, Thomas. <title level="m">Slow Fade to Black: The Negro in American Film, 1900-1942</title>. London: Oxford University
+Press, 1977.</bibl> <bibl>Eisloeffel, Paul J., and Andrea I. Paul. "Hollywood
+on the Plains: Nebraska's Contribution to Early
+American Cinema." <title level="j">Journal of the West</title> 33 (1994): 13-19.</bibl>
+<bibl>Etulain, Richard W. "Recent Interpretations of the Western
+Film: A Bibliographical Essay." <title level="j">Journal of the West</title> 22
+(1983): 72-82.</bibl> <bibl>Hilger, Michael. <title level="m">From Savage to Nobleman: Images of Native Americans in Film</title>. Lanham <hi rend="smallcaps">MD</hi>: Scarecrow
+Press, 1995.</bibl> <bibl>Horne, C. S. "Interpreting Prairie Cinema."
+<title level="j">Prairie Forum</title> 22 (1997): 135-51.</bibl> <bibl>Katz, Ephraim. <title level="m">The Film Encyclopedia</title>. 2nd ed. New York: Harper Collins,
+1994.</bibl> <bibl>Keaton, Buster, with Charles Samuels. <title level="m">My Wonderful World of Slapstick</title>. London: George Allen and Unwin,
+1967.</bibl> <bibl>McGilligan, Patrick. <title level="m">Robert Altman: Jumping off the Cliff</title>. New York: St. Martin's Press, 1989.</bibl> <bibl>Parks, Gordon.
+<title level="m">Voices in the Mirror: An Autobiography</title>. New York: Doubleday,
+1990.</bibl> <bibl>Paul, Andrea. "Buffalo Bill and Wounded
+Knee: The Movie." <title level="j">Nebraska History</title> 71 (1990): 183-90.</bibl>
+<bibl>Slotkin, Richard. "John Ford's Stagecoach and the Mythic
+Space of the Western Movie." In <title level="m">The Big Empty: Essays on Western Landscapes and Narrative</title>, edited by Leonard Engel.
+Albuquerque: University of New Mexico Press, 1994:
+261-83.</bibl> <bibl>Spears, Jack. "Hollywood's Oklahoma." <title level="j">Chronicles of Oklahoma</title> 67 (1989-90): 340-81.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Kansas City Star</hi></title>
+<title level="m" type="sub"></title>
+<author>Bonnie Bressers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bressers, Bonnie">Bonnie Bressers</author>. <title level="a">"<hi rend="italic">Kansas City Star</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">515</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">KANSAS CITY STAR</hi></head>
+
+<p>The <title level="j">Kansas City Star</title> was born September 18,
+1880, founded by William Rockhill Nelson,
+who owned a construction business and the
+<title level="j">Fort Wayne (Indiana) Sentinel</title>, and newspaperman
+Samuel Morss. The two left Fort
+Wayne's economic problems and moved to
+Kansas City, then a frontier boomtown with
+three newspapers that each sold for a nickel.
+Under "Colonel" Nelson's brash leadership
+and selling for two cents, the evening <title level="j">Star</title> became
+a national newspaper and dominating
+political force that championed honest government
+and civic improvement. One of Nelson's
+many crusades led to a city park system
+that became a national model.</p>
+
+<p>On October 19, 1901, Nelson bought a
+morning competitor, the <title level="j">Kansas City Times</title>,
+and formed the "24-hour <title level="j">Star</title>." Nelson died
+April 13, 1915, leaving one of the nation's best
+newspapers to heirs who ran it until it was sold
+in 1926 to thirty employees for $11 million. Roy
+A. Roberts, a Nelson disciple, became managing
+editor in 1928. Once a <title level="j">Star</title> carrier and
+reporter, Roberts ultimately was president, editor,
+and general manager. His powerful influence
+on regional and national politics and his
+political acumen helped the <title level="j">Star</title> retain its
+ranking among the nation's best through the
+1950s.</p>
+
+<p>The 1940s saw record expansion, but newsprint
+shortages that began during World War
+II hampered the <title level="j">Star</title>'s growth. In 1945 the
+company purchased a Park Falls, Wisconsin,
+paper mill to supply newsprint, but the cost of
+mitigating the mill's pollution ultimately contributed
+to the <title level="j">Star</title>'s sale. In 1955 the <title level="j">Star</title> was
+found guilty of monopolistic advertising practices.
+It agreed to change practices and sell
+<hi rend="smallcaps">WDAF-TV</hi>, started in 1949, and <hi rend="smallcaps">WDAF</hi> radio,
+started in 1922. The controversy contributed
+to a sluggishness that infiltrated some areas,
+but the news-reporting operation thrived. In
+1963 Roberts was succeeded by Richard B.
+Fowler, whose goal was diversification. But
+questionable purchases, other financial burdens,
+and changing national readership habits
+loomed. On February 15, 1977, Capital Cities
+Communications Inc. bought the <title level="j">Star</title> for $125
+million.</p>
+
+<p>James H. Hale, named publisher the day
+sale papers were signed, made changes newspaper-
+wide, cutting costs while leading expansions
+and improvements that yielded record
+profits. Ultimately, however, declining
+circulation threatened afternoon newspapers
+nationwide. The <title level="j">Times</title> and <title level="j">Star</title> were combined,
+and the morning <title level="j">Star</title> began on March
+1, 1990.</p>
+
+<p>On January 4, 1996, Capital Cities/<hi rend="smallcaps">ABC</hi> and
+Walt Disney Company agreed to merge. Ironically,
+Walt Disney had delivered the <title level="j">Star</title> as a
+boy, but his applications as artist, office boy,
+and truck driver were rejected. Other celebrities
+also had ties to the <title level="j">Star</title>. Ernest Hemingway
+worked there in 1917-18, and editor C. G.
+"Pete" Wellington helped develop Hemingway's
+writing style. On April 5, 1997, Knight-
+Ridder, the nation's second-largest newspaper
+company, bought the <title level="j">Star</title> and three other
+newspapers for $1.65 billion.</p>
+
+<p>The <title level="j">Kansas City Star</title>, legendary for local
+coverage and attention to writing, has won
+seven Pulitzer Prizes and four George Polk
+Awards. Its daily circulation was at 275,535 in
+2001, and the company's mission statement
+reflects Nelson's legacy: "Since 1880, The <title level="j">Star</title>
+has been our area's preeminent communications
+company because of a commitment to
+one ideal: Building our community through
+knowledge."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.028">Kansas City, Kansas and Missouri</ref> / <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.019">Disney, Walt</ref>.</p>
+
+<closer>
+<signed>Bonnie Bressers<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

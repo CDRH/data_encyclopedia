@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Country</title>
+<title level="m" type="sub"></title>
+<author>Imre Sutton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sutton, Imre">Imre Sutton</author>. <title level="a">"Indian Country."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">668</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INDIAN COUNTRY</head>
+
+<p>"Indian Country" refers to a variable geographic
+place where Native Americans reside
+on trust lands&#8211;reserves and reservations. The
+term is in use in both Canada and the United
+States, but it bears specific legal meaning only
+in the latter, where it defines both tribal holdings
+and individual land allotments, whether
+still in trust or held in fee (absolute ownership).
+There is no comparable meaning in
+Canada, for Native reserves are administered
+only for Indian communities, not for individual
+Indians. In both nations the federal government
+administers most of these lands and
+thereby generally preempts provincial or state
+authority over them. Every state and province
+in the Great Plains includes Indian Country:
+trust lands abound in the northern tier of
+states and in the adjacent three provinces&#8211;for
+example, the Rosebud Reservation in South
+Dakota, the Crow Indian Reservation in Montana,
+and the Assiniboine Reserve in Saskatchewan.
+In the Prairie Provinces there are numerous
+very small reserves, many occupied by
+brethren of tribes within U.S. borders (e.g.,
+the Blackfeet and Crees); in Alberta there are
+also a small number of M&#233;tis reserves held in
+fee simple title. In contrast, reservations on
+the Americans side of the border are generally
+much larger, although in the states of Kansas,
+Nebraska, and Texas, there are only a few small,
+scattered reservations. Oklahoma&#8211;once Indian
+Territory, to which were relocated tribes
+from the South, East, and from other parts
+of the Plains&#8211;does not acknowledge Indian
+Country, despite the existence of the Osage Reservation
+and so-called former reservations (for
+the most part, Indian Territory reservations
+were cancelled through allotment).</p>
+
+<p>Because of conflict and litigation over jurisdiction,
+other interpretations of Indian Country
+would apply extralegal meaning in the
+United States. Such interpretations involve
+former Aboriginal territory (where, for example,
+some tribes may continue to hunt and fish
+but not without controversy); adjudicated
+claims areas, or lands shown to have historically
+belonged to tribes, and all former trust
+lands whether within or outside reservations.
+State jurisdiction over certain criminal and
+civil authority may extend to Indians and
+their lands, but not authority over land use.
+(Under the Indian Act of 1876 in Canada,
+provinces do have some jurisdiction over Indians
+on reserves, but rarely over land in reserves,
+and provincial zoning authority may
+apply only if not contrary to that act and constitutional
+revisions of 1982.)</p>
+
+<p>At one time Indian Country was extraterritorial
+by treaty and lay beyond local European
+American jurisdiction. Such was true of
+the Great Plains until settlers and others, seeking
+land farther and farther west in both
+countries, agitated for the cession of tribal reserves
+or reservations. At first, treaties reserved
+considerable acreage, as with the Great
+Sioux Reservation that once dominated Dakota
+Territory and buffered tribes from adjacent
+non-Indian communities. Unfortunately,
+Congress enabled non-Indian homesteading
+within reservations by declaring remaining
+acreage "surplus" subsequent to the allotment
+of tribal lands to individual Indians. Moreover,
+countless non-Indians also acquired
+trust lands through sale or inheritance. This
+aspect of Indian Country is fundamentally inapplicable
+to Canada.</p>
+
+<p>Where entire counties within Indian Country
+in some states have become non-Indian in
+character, litigation has ensued, leading to the
+diminishment of external boundaries of many
+allotted reservations. Plains tribes have not escaped
+this judicial interpretation. In <title>Rosebud
+Sioux Tribe v. Kneip</title> (1977), the Supreme Court
+determined that four counties in South Dakota
+were disestablished by earlier allotment
+laws; consequently, some 2,000 tribal members
+and seven recognized communities occupying
+trust acreage on the Rosebud Reservation
+ended up outside the reservation.
+South Dakota does not delineate on official
+state maps those counties once part of reservations
+that now comprise mostly non-Indian
+citizenry. Recent court decisions have continued
+to erode the legal meaning of Indian
+Country and hence its geographic configuration.
+Fee lands owned, utilized, and resided on
+by non-Indians constitute a strong demographic
+factor disqualifying tribal jurisdiction
+over land-use planning and related environmental
+management. This interpretation has
+led the courts in <title>Devils Lake Sioux Tribe v.
+North Dakota</title> <hi rend="smallcaps">PSC</hi> to exclude non-Indian
+holdings from tribal jurisdiction on the Fort
+Totten Reservation (North Dakota); a similar
+decision has diminished tribal authority
+on the Crow Indian Reservation (Montana).
+According to <title>South Dakota v. Bourland</title>, the
+alienation of Cheyenne River (South Dakota)
+Sioux lands by flood control and other acts
+eliminated tribal jurisdiction over non-
+Indians on certain lands adjacent to the Missouri
+River. In 1998 a similar decision&#8211;<title>South
+Dakota v. Yankton Sioux Tribe</title>&#8211;excluded from
+tribal jurisdiction all former trust lands lying
+outside diminished reservation borders.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.096">Reservations</ref>; <ref n="egp.na.098">Reserves</ref>.</p>
+
+<closer>
+<signed>Imre Sutton<lb/>
+California State University, Fullerton</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Getches, David H., Charles F. Wilkinson, and Robert A
+Williams Jr. <title level="m">Cases and Materials on Federal Indian Law</title>. St.
+Paul: West Publishing Co., 1993.</bibl> <bibl>Johnson, Ralph W. "Fragile
+Gains: Two Centuries of Canadian and United States
+Policy toward Indians." <title level="j">Washington Law Review</title> 66 (1991):
+643–718.</bibl> <bibl>Sutton, Imre. "Preface to Indian Country: Geography
+and Law." <title level="j">American Indian Culture and Research
+Journal</title> 15 (1991): 3–35.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

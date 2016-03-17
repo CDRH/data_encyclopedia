@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Santa Fe Trail</title>
+<title level="m" type="sub"></title>
+<author>Pekka H&#228;m&#228;l&#228;inen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="H&#228;m&#228;l&#228;inen, Pekka">Pekka H&#228;m&#228;l&#228;inen</author>. <title level="a">"Santa Fe Trail."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">810-811</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANTA FE TRAIL</head>
+
+<p>For most nineteenth-century European Americans
+the Great Plains represented primarily a
+transportation challenge, a vast expanse that
+had to be crossed to gain access to greater
+riches beyond its boundaries. The Santa Fe
+Trail, the principal trade route connecting the
+eastern United States and the Southwest, was
+one of the most successful solutions to that
+challenge. The trail opened in 1821, when
+newly independent Mexico abolished restrictive
+Spanish laws and allowed foreign traders
+to enter its New Mexican outposts. The first to
+capitalize on the new markets was William
+Becknell, a struggling Missouri merchant who
+arrived in Santa Fe in the fall of 1821 and sold
+his goods at a huge profit. The following year,
+Becknell ventured again from Franklin, Missouri,
+to Santa Fe, pioneering the Cimarron
+Cutoff across the Oklahoma Panhandle.</p>
+
+<p>Becknell had tapped a vast commercial potential.
+The isolated New Mexicans had surpluses of mules, silver, and furs, but they
+lacked manufactured goods and therefore
+were eager to have access to U.S. markets.
+Stimulated by mutual benefits, the trade flourished.
+During the following six decades, first
+dozens, then hundreds, and finally thousands
+of wagons moved each year along the Santa Fe
+Trail, carrying calico, leather goods, hardware,
+clothing, beaver pelts, and silver coins across
+the Plains. By the 1850s the annual value of
+merchandise shipped over the trail exceeded
+$5 million. The trail served as a commercial
+artery until 1880, when the completion of the
+Atchison, Topeka and Santa Fe Railroad made
+it obsolete.</p>
+
+<p>By the 1830s a generally accepted routine
+had developed along the trail. The traders usually
+left Independence, Missouri (Franklin, the
+first terminus, was destroyed by a flood in
+1828), in mid-May, when Plains grasses were
+tall enough to provide su.cient forage for
+draft animals. Most traders used Murphy wagons,
+three-foot-wide and sixteen-foot-long
+canvas-topped vehicles with four-inch-thick
+iron tires to protect the wooden wheels during
+the arduous, 775-mile trek. After ten days of
+travel, the traders paused at Council Grove,
+Kansas, where they gathered into larger caravans
+led by an elected captain and division
+lieutenants and typically consisting of 25
+freight wagons and 300 oxen and mules. After
+the break, the caravans headed toward the Big
+Bend of the Arkansas, traveling ten to fifteen
+miles a day. The wagon trains followed the
+northern flank of the Arkansas River valley to
+the Middle Crossing, where the trail divided
+into two branches. The longer Mountain
+Branch followed the Arkansas River to Bentfs
+Fort and then proceeded southwest through
+Raton Pass to Santa Fe. The more heavily trafficked
+Cimarron Cutoff first crossed the Cimarron
+Desert and then followed a direct route
+to Santa Fe.</p>
+
+<p>Whichever route they chose, the caravans
+could not escape the harsh Plains elements&#8211;dry
+spells, torrential rains, wolves, fires, and
+stampeding bison herds. River crossings were
+particularly troublesome. Although shallow,
+Plains rivers were filled with sinkholes, quicksand,
+and other hazards that required careful
+maneuvering. Traders also needed flexible Indian
+policies. Caravans moved in parallel columns
+that could be quickly formed into a protective
+corral to repel raiders, but they had to
+be equally ready to welcome trading parties
+with gifts of coffee, bacon, and tobacco. As the
+Native economies began to crumble the raids
+intensified, making the Santa Fe trade a dangerous
+business. Besides physical landmarks
+such as the double-peaked Rabbit Ears on the
+Cimarron Cutoff, the trail was in later years
+marked by an unbroken string of destroyed
+wagons and animal remains.</p>
+
+<p>The Santa Fe Trail played a crucial role in
+shaping North American history. It was critical
+in absorbing New Mexico into the American
+commercial orbit and, after the Mexican War,
+in incorporating the province into the national
+economy. During the California gold rush, the
+trail also took thousands of emigrants across
+the Plains. The trail increased geographic
+knowledge of Plains rivers, springs, and topography
+and made Bent's Fort one of the
+most lucrative commercial centers in the West.
+But the Santa Fe Trail also launched the European
+American assault on Plains ecosystems.
+The iron-rimmed wheels and the hundreds of
+thousands of animals and people destroyed
+native vegetation, accelerated erosion, polluted
+springs, brought new diseases, and disturbed
+bison herds. By the 1850s the Arkansas
+River valley, once a haven for Indians and
+bison, had become a mile-wide dust highway.</p>
+
+<closer>
+<signed>Pekka H&#228;m&#228;l&#228;inen<lb/>
+Texas A&amp;M University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, William E. <title level="m">The Santa Fe Trail: The National Park
+Service 1963 Historic Sites Survey</title>. St. Louis <hi rend="smallcaps">MO</hi>: Patrice
+Press, 1988.</bibl> <bibl>Walker, Henry Pickering. <title level="m">The Wagonmasters:
+High Plains Freighting from the Earliest Days of the Santa
+Fe Trail to 1880</title>. Norman: University of Oklahoma Press,
+1966.</bibl> <bibl>West, Elliott. <title level="m">The Way to the West: Essays on the
+Central Plains</title>. Albuquerque: University of New Mexico
+Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

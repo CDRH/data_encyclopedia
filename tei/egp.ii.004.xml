@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Boot Hill</title>
+<title level="m" type="sub"></title>
+<author>Michael A. Amundson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Amundson, Michael A.">Michael A. Amundson</author>. <title level="a">"Boot Hill."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">378</biblScope>.</bibl> 
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BOOT HILL</head>
+
+<p>In the lore of the Old West, <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> described a cemetery for ruffians with slow trigger fingers who "died with their boots on" or others who succumbed to violent deaths. This distinguished them from decent folk who were put to rest in "hallowed ground" after dying of natural causes. <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> cemeteries can be found throughout the <geogName rend="region" reg="Great Plains">Great Plains</geogName> and are depicted in gunfighter fiction.</p>
+
+<p>In the modern <geogName rend="region" reg="Great Plains">Great Plains</geogName>, entrepreneurs have used the <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> concept to lure Old West aficionados to places that depict the mythical West. Tourists can visit <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> graveyards at <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge City</placeName> and <placeName rend="settlement" key="ks.hay" reg="Hays, Kansas">Hays, Kansas</placeName>; <placeName rend="settlement" key="ne.oga" reg="Ogallala, Nebraska">Ogallala, Nebraska</placeName>; and <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood, South Dakota</placeName>. Although many places lay claim to the original <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName>, debate persists as to which was really the first. Typical tours at such sites include visits to the graves of the most noteworthy local villains, discussions of interesting headstones and other sepulchral monuments, stagecoach rides, and re-created mock gunfights. For example, visitors to the <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> cemetery in <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood, South Dakota</placeName>, can visit the graves of <persName reg="Hickock, James Butler (Wild Bill)">Wild Bill Hickok</persName> and Calamity Jane.</p>
+
+<p>The image of <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> has also been used to peddle a variety of Old West items. Several B-Westerns have used the name in their titles, for example, <persName reg="Corrigan, Ray 'Crash'">Ray "Crash" Corrigan</persName>'s <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> Bandits (1942), the 1958 <persName reg="Bronson, Charles">Charles Bronson</persName> flick Showdown at <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName>, and the 1969 spaghetti Western <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName>. Marketers have also produced <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> western wear, <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> chili sauce, and even <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> motorcycles. <geogName rend="hill" reg="Boot Hill">Boot Hill</geogName> remains an enduring icon of the Old West and of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Michael A. Amundson<lb/>
+Northern Arizona University</hi></signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

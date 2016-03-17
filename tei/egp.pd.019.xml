@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farmers Alliance</title>
+<title level="m" type="sub"></title>
+<author>Charles W. Macune Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Macune, Jr., Charles W.">Charles W. Macune Jr.</author>. <title level="a">"Farmers Alliance."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">709-710</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FARMERS ALLIANCE</head>
+
+<p>Widespread economic distress among farmers
+in the South and Great Plains in the 1870s and
+1880s, resulting from such problems as overproduction,
+declining commodity prices, inadequate
+credit, and transportation costs,
+launched the Farmers Alliance, one of the
+most influential agrarian protest movements
+in the United States. At one point three distinct
+organizations carried the name. The appeal of
+one National Farmers Alliance, the "northern"
+sibling organized in Chicago in 1880 and led
+by farm journalist Milton George, was largely
+limited to the Midwest. It was soon overshadowed
+by the far larger and more important
+National Farmers Alliance that originated in
+1877 on the Texas frontier in Lampasas County.
+Despite its much greater size and geographical
+reach into the Great Plains, especially Kansas,
+Colorado, and the Dakotas, as well as to California
+and the South, it is commonly labeled
+the "southern" Alliance. The third division,
+which complemented the latter's evangelical
+drive to enlist all southern farmers, was the Colored
+Farmers National Alliance, also founded in
+Texas, in 1886.</p>
+
+<p>When Charles William Macune, a country
+doctor, assumed the leadership of the Texas
+Farmers Alliance in 1886, he offered an ambitious
+program of economic cooperation
+and expansion into a new, nonpartisan national
+organization. Within five years, the
+"southern" National Farmers Alliance became
+the largest citizen organization of nineteen-thcentury
+America. When neither the Democratic
+nor Republican Party proved responsive
+to its demands for agrarian reform, the Alliance
+became the leading institutional vehicle
+for the organization of the Populist Party
+in 1891-92, effectively ending the Alliance's
+growth and influence by the late 1890s.</p>
+
+<closer>
+<signed>Charles W. Macune Jr.<lb/>
+California State University, Northridge</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Macune, Charles W., Jr. "The Wellsprings of a Populist:
+Dr. C. W. Macune before 1886." <title level="j">Southwestern Historical
+Quarterly</title> 90 (1986): 139–58.</bibl> <bibl>McMath, Robert C., Jr. <title level="m">Populist
+Vanguard: A History of the Southern Farmers' Alliance</title>.
+New York: W. W. Norton, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

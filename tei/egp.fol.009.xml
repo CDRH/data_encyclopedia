@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dobie, J. Frank (1888-1964)</title>
+<title level="m" type="sub"></title>
+<author>Guy Logsdon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Logsdon, Guy">Guy Logsdon</author>. <title level="a">"Dobie, J. Frank (1888-1964)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">294</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOBIE, J. FRANK (1888-1964)</head>
+
+<p>James Frank Dobie, the beloved best-known
+popularizer of Texas and ranchland folklore,
+was born on September 26, 1888, on a small
+ranch in Live Oak County, Texas. He grew up
+working as a cowboy on his father's ranch and
+became a voracious reader. Educated both at
+home and in a one-room schoolhouse, he
+lived among Hispanic workers and so became
+bilingual. As Dobie matured he absorbed the
+lore, language, and legends of the land and
+people he loved, developing a strong, liberal
+philosophy.</p>
+
+<p>Dobie earned a bachelor of arts degree at
+Southwestern University in Georgetown,
+Texas, and a master of arts degree at Columbia
+University in New York City. In 1914, as an
+English teacher at the University of Texas,
+Austin, he became involved with the Texas
+Folklore Society, before enlisting in the army
+in 1917. He returned to the University of Texas
+in 1921, and later (1923–25) served as head of
+the English Department at Oklahoma A&amp;M in
+Stillwater.</p>
+
+<p>When Dobie and his wife, Bertha, returned
+to Austin after his time in the service, he resumed
+teaching English and his well-known
+class "Life and Literature of the Southwest."
+He served as editor and secretary of the Texas
+Folklore Society from 1922 to 1942. Without a
+doctorate, he was still promoted to full professor
+in 1933, but his honest, outspoken traits
+kept him in conflict with his colleagues and
+administration. He left the university in 1947.</p>
+
+<p>Academic folklorists criticized Dobie for
+rewriting and editing his sources, and he seldom
+gave credit to his informants. Nevertheless,
+Dobie's books (he wrote more than
+twenty in all, including <title level="m">Coronado's Children</title>,
+which won a Literary Guild award in 1931),
+were the efforts of a natural-born storyteller,
+a man who shared with love and reverence
+the traditions of his heritage, including those
+of Hispanics and African Americans. A true
+ranchland Texan, he shared the values of the
+southwestern Plains. Dobie was awarded the
+Medal of Freedom, the nation's highest civil
+honor, on September 14, 1964. Four days later
+he died in Austin, Texas.</p>
+
+<closer>
+<signed>Guy Logsdon<lb/>
+Tulsa, Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Abernethy, Francis Edward, ed. <title level="m">Texas Folklore Society</title>.
+Denton: University of North Texas Press, 1992–2000.</bibl>
+<bibl>Bode, William. <title level="m">A Portrait of Pancho: The Life of a Great Texan</title>. Austin: Pemberton, 1965.</bibl> <bibl>Tinkle, Lon. <title level="m">An American Original: The Life of J. Frank Dobie</title>. Boston: Little, Brown
+and Co. 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

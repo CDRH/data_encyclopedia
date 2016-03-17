@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Catlin, George (1796-1872)</title>
+<title level="m" type="sub"></title>
+<author>Brian W. Dippie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dippie, Brian W.">Brian W. Dippie</author>. <title level="a">"Catlin, George (1796-1872)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">114</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATLIN, GEORGE (1796-1872)</head>
+
+<p>George Catlin, artist and visionary, achieved
+fame for his gallery of Indian portraits and
+scenes based on his travels in the American
+West from 1832 to 1836. Born in Wilkes-Barre,
+Pennsylvania, on July 26, 1796, Catlin trained
+as a lawyer before moving to Philadelphia in
+1821, determined to make his mark as an artist.
+He specialized in miniature portraits, exhibited
+regularly, and, despite some evident
+technical limitations, became a member of the
+Pennsylvania Academy of the Fine Arts in
+1824. Bored with portraiture, he was already
+nurturing the idea of becoming a historical
+painter when he moved to New York in 1827
+and the next year married Clara Gregory. He
+found his direction as an artist, he recalled,
+after encountering a visiting delegation of Indians
+and concluding on the spot that painting
+the Indians in their western wilderness
+would be his life's work.</p>
+
+<p>Confident his efforts would command public
+support, Catlin moved to St. Louis in
+the spring of 1830 and two years later fully
+launched his career as an Indian painter when
+he boarded a steamboat for the 1,800-mile
+journey up the Missouri River to Fort Union,
+in the heart of Indian country. His five-month
+excursion yielded 170 paintings, with Crows,
+Blackfeet, and Mandans prominently featured.
+Subsequently, Catlin toured the Southern
+Plains (1834) and traveled up the Mississippi
+(1835-36), painting as he went. He
+described his experiences in letters to the
+newspapers, collected in 1841 as <hi rend="smallcaps">Letters and
+Notes on the Manners, Customs, and Condition
+of the North American Indians</hi>, and between
+trips exhibited his growing collection as Catlin's
+Indian Gallery. Besides more than 300
+portraits of men and women from some fifty
+tribes, he displayed 200 paintings of western
+Indians engaged in their daily activities.</p>
+
+<p>Catlin rightfully insisted that he was the
+first European American artist to offer the
+world a representative picture of Indian life
+based on personal observation. He characterized
+the West as "vast country of green fields,
+where the men are all red"&#8211;an apt description
+of his landscapes and group scenes. They were
+rendered in shorthand fashion, though he had
+a knack for the distinctive features of costume
+and terrain. Catlin's real gift was portraiture.
+His style was idiosyncratic, and he struggled,
+often unsuccessfully, to master anatomy. But
+he captured individual likenesses, and his artistic
+deficiencies never compromised his obvious
+admiration for the subjects before him.</p>
+
+<p>Catlin formed his Indian Gallery without
+government patronage but turned to Congress
+in May 1838, confident it would reward
+his enterprise by purchasing his collection.
+Repeatedly frustrated in this hope, he commenced
+a lecture career that eventually transformed
+him into a full-time showman rather
+than the disinterested advocate for Indian
+rights he always fancied himself to be. Certain
+he would find a more receptive audience in
+Europe, he moved his family to England in
+November 1839, then to Paris in 1845. Despite
+flattering attention from crowned heads and
+
+commoners, a book recounting his experiences
+abroad (<title level="m">Notes of Eight Years' Travels and Residence in Europe, with His North American Indian Collection</title>, 1848), private commissions,
+and numerous get-rich-quick schemes, Catlin
+slid into financial ruin. In 1852 his creditors
+seized his Indian Gallery. Bereft of his life's
+work, Catlin entered a period of relative obscurity
+and some remarkable accomplishments.
+He painted a second Indian gallery of
+nearly 300 oil "cartoons" recapitulating his
+original collection and another 300 showing
+Indians of the Northwest Coast and South
+America encountered on three trips he made
+in the 1850s. He also published several books,
+including two directed at younger readers
+(<title level="m">Life amongst the Indians</title>, 1861, and <title level="m">Last Rambles amongst the Indians of the Rocky Mountains and the Andes</title>, 1867), and an important
+ethnographic study amplifying observations
+made among the Mandan Indians in 1832 (<title level="m">O-Kee-Pa</title>, 1867). In 1871, after an absence of
+more than three decades, Catlin returned to
+the United States and exhibited his Cartoon
+Collection in New York and Washington <hi rend="smallcaps">DC</hi>.
+He died in Jersey City on December 23, 1872.</p>
+
+<p>Today, visitors to the National Museum of
+American Art and the National Gallery of Art
+can sample both Catlin collections in the capital
+city of a nation that never extended him
+patronage but now treasures his enduring
+contribution to the American heritage.</p>
+
+<closer>
+<signed>Brian W. Dippie<lb/>
+Montana Secretary of State's Office</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lucey, Donna. <title level="m">Photographing Montana, 1894–1928: The Life and Work of Evelyn Cameron</title>. New York: Alfred A.
+Knopf, Inc., 1990.</bibl> <bibl>Raban, Jonathan. <title level="m">Bad Land: An American Romance</title>. New York: Vintage Books, 1996.</bibl> <bibl>Shirley,
+Gayle. "Evelyn Cameron, Frontier Photographer." In <title level="m">More Than Petticoats: Remarkable Montana Women</title>. Helena <hi rend="smallcaps">MT</hi>:
+Falcon Publishing, 1995: 74–83.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

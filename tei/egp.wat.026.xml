@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">River Compacts</title>
+<title level="m" type="sub"></title>
+<author>Norman W. Thorson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thorson, Norman W.">Norman W. Thorson</author>. <title level="a">"River Compacts."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">860-861</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RIVER COMPACTS</head>
+
+<p>Interstate river compacts are used extensively
+in the Great Plains to voluntarily apportion
+interstate rivers among two or more states. In
+addition, although the Canadian Constitution
+does not provide for interprovincial compacts,
+a series of four agreements collectively known
+as the Prairie Provinces Water Apportionment
+Agreement apportions water among Alberta,
+Saskatchewan, and Manitoba. Regional rivers
+subject to compacts, in whole or in part, include
+the Arkansas, Belle Fourche, Big Blue,
+Canadian, Niobrara, Pecos, Red, Republican,
+and Platte in the United States, and the
+Saskatchewan, Churchill, Assiniboine, and
+Qu'Appelle in Canada.</p>
+
+<p>With few exceptions, rights to use surface
+waters, including the waters of interstate
+streams, are created and administered under
+state law. If interstate flows are not apportioned
+among riparian states, interstate conflicts
+over use are inevitable. The U.S. Supreme
+Court has held that each riparian state
+is entitled to an equitable share of a river's
+flow. Thus an upstream state cannot, by virtue
+of its geographical position alone, claim all of
+the water that originates in, or flows through,
+the state. A state that suffers actual injury as a
+consequence of another state's water development
+activities can bring a suit against the offending
+state under the original jurisdiction
+of the Supreme Court. Such suits, known as
+equitable apportionment suits, ask the Court
+to equitably divide the river among the competing
+states. However, equitable apportionment
+suits are costly, time-consuming, and
+notoriously unpredictable. Moreover, they
+can be pursued only after serious water conflicts
+have arisen. In theory, interstate compacts
+offer riparian states an opportunity to
+negotiate an equitable distribution of a river's
+benefits before serious conflicts develop.</p>
+
+<p>An interstate river compact is in the nature
+of a treaty among riparian states. The compact
+limits the sovereign powers that each of the
+compacting parties might otherwise exercise
+over river flows within their borders. Although
+some river compacts address issues such as
+pollution, flood control, and water management,
+the primary purpose of most river compacts
+is to allocate flows among competing
+states. Apportionment can limit consumption
+in an upper state or mandate delivery to a
+lower state. Given variations in annual flow,
+the choice of method can be significant. Moreover,
+the delivery obligation or the consumption
+limitation can be stated on a volume basis
+or as a mandated rate of flow. Compliance can
+be measured annually or with reference to
+multiyear averages. An unresolved issue in
+most river compacts is whether groundwater
+that is hydrologically linked to surface waters is
+also subject to allocation or regulation under
+the compact.</p>
+
+<p>The process of negotiating a river compact is
+deceptively simple and analogous to negotiating
+a contract. Typically, the process begins
+with Congress authorizing riparian states
+to negotiate a compact, although nothing
+prevents states from negotiating without a
+congressional invitation. Participating states
+appoint representatives to negotiate a draft
+agreement. If state representatives reach agreement
+on a draft text, the text is introduced as
+legislation in each of the participating states.
+States indicate their willingness to be bound by
+compact terms by enacting the legislation. The
+compact does not become a legally binding
+document, however, until Congress ratifies it.
+Congressional ratification is required by the
+Compacts Clause of the U.S. Constitution. Apparently,
+framers of the Constitution were
+concerned that without such an approval
+mechanism, groups of states might amass political
+power at the expense of the federal government.
+This concern is readily apparent with
+respect to river compacts, given the significant
+federal interest in interstate river systems.</p>
+
+<p>The process of congressional ratification
+transforms an interstate compact agreement
+into federal law. As federal law, terms of the
+compact preempt and supercede any inconsistent
+provisions of state or local laws. With respect
+to river compacts, any state water law
+provisions that are inconsistent with terms of
+the compact are preempted. Thus, state constitutional
+provisions purporting to create unlimited
+rights to divert and appropriate water
+are, after compacting, limited to the share of a
+river's flows that have been allocated to the
+state in question. Apportionment of water by
+compact also binds individual water users,
+whether or not they were parties to the compact
+negotiations, although many river compacts
+provide that they have no effect on preexisting
+water rights. On the other hand,
+congressional ratification permits states to
+reach agreements that would otherwise comprise
+an unconstitutional interference with the
+export of water to other states.</p>
+
+<p>Compact commissions administer most
+river compacts. Typically, each state will have
+one or more voting representatives on the
+commission. The federal government often
+has a nonvoting representative. The precise
+structure of the compact commission and the
+powers that it can exercise are set forth in the
+compact agreement. Commission powers can
+be extensive or limited. One theoretical advantage
+of compacts over litigation in apportioning
+river benefits is that compacts can
+provide for continuing administration to respond
+to changed conditions or new facts developed
+over time. In practice, however, most
+river compacts give commissions little power
+to respond to changed conditions. Typically,
+commission powers and duties are limited to
+data collection, compliance monitoring, and
+report drafting.</p>
+
+<p>In the absence of strong compact commissions,
+enforcement of river compacts is typically
+a matter for negotiated settlement or interstate
+litigation. Suits between states for
+breach of a compact obligation are within the
+original and exclusive jurisdiction of the U.S.
+Supreme Court. The Court may issue authoritative
+interpretations of compact language,
+order states to comply with terms of the agreement,
+or award damages for past failures to
+comply with terms of the agreement. Historically,
+the Court has often expressed its preference
+that states negotiate and compromise
+their differences rather that resorting to litigation.
+Many compacts specifically provide that
+they can be amended, usually through a process
+that requires formal state ratification and
+congressional consent. Most also provide that
+they can be terminated by unanimous consent
+of the party states.</p>
+
+<p>Recent litigation among Plains states has focused
+on the extent to which interstate compacts
+were intended to apply to groundwater
+pumping. Developments in hydrology have
+demonstrated that some groundwater sources
+are linked hydrologically with surface water
+flows. While a few compacts, such as the Kansas-
+Nebraska Big Blue River Compact, specifically
+address the impact of groundwater pumping
+on surface water flows, most compacts are
+silent about groundwater. The Arkansas River
+Compact, for instance, makes no mention of
+groundwater, but it does provide that future
+water development may not materially deplete
+river flows to the detriment of water users in
+Colorado and Kansas. In <title>Kansas v. Colorado</title>
+(1997), the U.S. Supreme Court upheld the contention
+of Kansas that postcompact groundwater
+pumping in Colorado had caused material
+depletions of the usable state line flows
+of the Arkansas River in violation of the compact.
+Similarly, in ongoing litigation between
+Kansas and Nebraska over use of water in the
+Republican River basin, Kansas has alleged that
+the Republican River Compact should be interpreted
+as apportioning groundwater that is hydrologically related to the river flow, despite
+the absence of specific language in the compact
+that would mandate that result. Both
+cases illustrate the difficulty of trying to reconcile
+principles of modern hydrology with
+agreements negotiated before groundwater.
+surface water relationships were clearly
+perceived.</p>
+
+<closer>
+<signed>Norman W. Thorson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Grant, Douglas L. "Water Apportionment Compacts Between
+States." In <title level="m">Waters and Water Rights</title>, edited by Robert
+E. Beck. Charlottesville <hi rend="smallcaps">VA</hi>: Michie Law Publishers,
+1996: 639–65.</bibl> <bibl>Muys, Jerome C. <title level="m">Interstate Water Compacts:
+The Interstate Compact and Federal-Interstate Compact</title>.
+Arlington <hi rend="smallcaps">VA</hi>: National Water Commission, 1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

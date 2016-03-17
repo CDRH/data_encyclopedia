@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ferguson, James and Miriam (1871-1944; 1875-1961)</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Ferguson, James and Miriam (1871-1944; 1875-1961)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">665</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FERGUSON, JAMES AND MIRIAM (1871-1944; 1875-1961)</head>
+
+<p>James and Miriam "Ma" Ferguson were dominant
+political figures in Texas between World
+Wars I and II. James Edward Ferguson was
+born on a farm near Salado, Bell County,
+Texas, on August 31, 1871, and was educated in
+local public schools. He studied law at night
+and was admitted to the bar in 1897. He and
+Miriam Wallace, a Bell County native born on
+June 13, 1875, were married in 1899. With
+strong support from progressive and anti-Prohibition forces, "Farmer Jim" was elected
+governor of Texas in 1914. He was reelected in
+1916 but the following year was impeached on
+grounds of misusing public funds and removed
+from office. The conviction forbade
+Ferguson to hold "any office of honor, trust,
+or profit" in Texas. In order to keep Ferguson's
+name in the public spotlight, the Fergusons
+began to publish a weekly political newspaper,
+the <title level="j">Ferguson Forum</title>.</p>
+
+<p>Ferguson's impeachment decree did not apply
+to federal offices, and in 1922 Ferguson ran
+for the U.S. Senate as an opponent of Prohibition
+and the Ku Klux Klan. He was supported
+by many rural Populist voters and by enemies
+of the Klan, but lost to Klan member Earle
+Mayfield. Arguing that his impeachment was
+invalid, Ferguson attempted to run for governor
+in the 1924 Democratic primary. After the
+party leadership refused to place his name on
+the ballot, his wife ran in his stead.</p>
+
+<p>Ma Ferguson ran for governor of Texas five
+times, winning twice. In the 1924 election, Ma
+opposed the Klan and campaigned on the slogan
+"two governors for the price of one," making
+clear that her husband, often called "Pa,"
+would make major decisions. She was elected
+and so became the first woman to be elected
+governor of any state. She lost to Dan Moody
+two years later and lost again in 1930, but was
+elected for a second two-year term in 1932. She
+ran one final time in 1940 but lost to W. Lee
+"Pappy" O'Daniel.</p>
+
+<p>Jim Ferguson died on September 21, 1944,
+and with his death the era of Ferguson leadership
+of Texas's rural populists and anti-Klan
+activists ended. Miriam Ferguson lived quietly
+in retirement until her death on June 25, 1961.
+The Fergusons are buried side by side in Austin's
+State Cemetery.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Norman D. <title level="m">Hood, Bonnet, and Little Brown Jug: Texas Politics, 1921-1928</title>. College Station: Texas A&amp;M University
+Press, 1984.</bibl> <bibl>Key, V. O., Jr. <title level="m">Southern Politics</title>. New
+York: Alfred A. Knopf, 1949.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

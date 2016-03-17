@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Herrera, Juan Jos&#233; (ca. 1840s-1902?)</title>
+<title level="m" type="sub"></title>
+<author>John Nieto-Philips</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Philips, John Nieto">John Nieto-Philips</author>. <title level="a">"Herrera, Juan Jos&#233; (ca. 1840s-1902?)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">358</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HERRERA, JUAN JOS&#201; (ca. 1840s-1902?)</head>
+
+<p>In the late 1880s Juan Jos&#233; Herrera rose to
+prominence in San Miguel County, New Mexico,
+as district organizer for the Knights of
+Labor, or <hi rend="italic">Los Caballeros del Trabajo</hi>. Known as
+El Capitan by his followers, Herrera's efforts
+to organize labor and vigilante groups earned
+him great respect among poor and dispossessed
+<hi rend="italic">neomexicanos</hi> (Spanish-speaking New
+Mexicans), as well as disdain among many
+Anglo-American settlers, local officials, and
+landed neomexicanos. From April 1889 and
+into 1891, he reportedly led the <hi rend="italic">Gorras Blancas</hi>
+(White Caps) in an armed campaign against
+Anglo-Americans and neomexicanos who
+had presumably encroached on community
+lands. Although he and several of his followers
+were arrested for vigilante activities in 1889,
+none was convicted. Herrera denied association
+with the Gorras Blancas.</p>
+
+<p>Two years later Herrera was elected probate
+judge of San Miguel County. His varied background
+prepared him for popular organizing.
+A captain in the Union army, Herrera departed
+from New Mexico in 1866, leaving his
+wife, Luisa Pinard, and became an Indian
+agent, traveling among various western states.
+By the time he finally resettled in New Mexico
+in 1887, he had learned to speak several Native
+languages or dialects, as well as French. His
+command of English, his growing knowledge
+of the law, and his political instinct served him
+well in his brief organizing career. According
+to his descendants, Herrera, who was born
+sometime in the 1840s, died in relative obscurity
+in Utah in or about 1902.</p>
+
+<closer>
+<signed>John Nieto-Philips<lb/>
+New Mexico State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Arellano, Anselmo. "The People's Movement: Las Gorras
+Blancas." In <title level="m">The Contested Homeland: A Chicano History of New Mexico</title>, edited by Erlinda Gonzales-Berry and
+David R. Maciel. Albuquerque: University of New Mexico
+Press, 2000: 59–82.</bibl> <bibl>Larson, Robert W. "The White Caps of
+New Mexico: A Study of Ethnic Militancy in the Southwest."
+<title level="j">Pacific Historical Review</title> 44 (1975): 171–85.</bibl> <bibl>Rosenbaum,
+Robert J. <title level="m">Mexicano Resistance in the Southwest: "The Sacred Right of Self-Preservation."</title> Austin: University
+of Texas Press, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

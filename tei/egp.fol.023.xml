@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Grinnell, George Bird (1849-1938)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Grinnell, George Bird (1849-1938)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">303-304</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRINNELL, GEORGE BIRD (1849-1938)</head>
+<figure n="egp.fol.023" rend="granted" type="noclick">
+<figDesc>Portrait of George Bird Grinnell</figDesc>
+</figure>          
+
+<p>George Bird Grinnell was not from the Great
+Plains—he was born into a wealthy family in
+Brooklyn, New York, on September 20, 1849&#8211;
+but his studies of Plains Indians, and especially
+his role in the preservation of their histories,
+are fundamental to the region's legacy.</p>
+
+<p>A mediocre student, Grinnell nevertheless
+graduated from Yale in 1870. That same year
+his interest in the Great Plains was kindled
+during a paleontology expedition along the
+route of the Union Pacific Railroad when he
+met William F. Cody and accompanied the
+Pawnees on a bison hunt. He was with George
+Armstrong Custer in the Black Hills in 1874 as
+a naturalist, and later, as editor of Forest and
+Stream, he shaped the early years of the American
+conservation movement. It was his publications
+on Native American customs and
+oral traditions, however, that particularly distinguished
+his life.</p>
+
+<p>Starting with <title level="m">Pawnee Hero Stories and Folk-Tales</title> (1889), and continuing through <title level="m">Blackfoot Lodge Tales</title> (1892), <title level="m">The Cheyenne Indians: Their History and Ways of Life</title> (1923), and <title level="m">By Cheyenne Campfires</title> (1926), Grinnell collected
+and preserved the Indians' own histories with
+a sensitivity that was often lacking in the studies
+done by his contemporaries. While he
+shared his contemporaries' social Darwinist
+views that Native Americans had to give way
+to "civilization," and while he may not, as
+Richard Levine has argued, really have understood
+the implications of the "folktales" he
+collected, Grinnell let the Pawnees, Blackfeet,
+and Cheyennes tell their own stories, in their
+own way. Those stories survive as vivid insights
+into their views of themselves and of
+their position in nature.</p>
+
+<p>Although he spent portions of most years
+in the Great Plains learning and recording
+(and serving as treaty commissioner for the
+U.S. government), Grinnell continued to be
+based in New York City. He died there on
+April 11, 1938, having suffered a series of heart
+attacks over the previous decade.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Levine, Richard. "Indians, Conservation, and George Bird
+Grinnell." <title level="j">American Studies</title> 28 (1987): 41–55.</bibl> <bibl>Parsons,
+Cynthia. <title level="m">George Bird Grinnell: A Biographical Sketch</title>. Lanham
+<hi rend="smallcaps">MD</hi>: University Press of America, 1992.</bibl> <bibl>Reiger, John F.
+"Dedication to George Bird Grinnell." <title level="j">Arizona and the West</title> 21 (1979): 1–4.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

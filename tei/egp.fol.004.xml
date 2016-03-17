@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Blizzard Stories</title>
+<title level="m" type="sub"></title>
+<author>Eric F. Grelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grelson, Eric F.">Eric F. Grelson</author>. <title level="a">"Blizzard Stories."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">291-292</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLIZZARD STORIES</head>
+
+<p>The ferocity of blizzards in the Great Plains
+has entered into the region's folklore through
+countless stories of tragedy and of survival.
+The word "blizzard" originated in the Northern
+Plains during the mid–nineteenth century,
+perhaps derived from the German blitzartig,
+meaning lightninglike, which accurately
+portrays the power and swiftness of Great
+Plains blizzards.</p>
+
+<p>The first documented Plains blizzard in
+which large numbers of people lost their lives
+was the January 1872 Buffalo Hunters' Storm,
+which swept up so quickly that unprepared
+buffalo hunters, many just arrived from the
+East, were found dead from the Platte River of
+Nebraska to the Texas Panhandle. The Easter
+Storm of April 1873 saw the deaths of not only
+ranchers and thousands of cattle in the open
+country of the Central Plains but also a boy in
+Central City, Nebraska, who died trying to
+reach a print shop one block away. In the
+Great Blizzard of 1886, 100 people and 100,000
+cattle died in western Kansas during a series of
+storms that struck less than a week apart. In
+southwestern Kansas, a man froze to death in
+a light linen overcoat with a flyer in his pocket
+advertising Kansas as the Italy of America. A
+young woman in Clark County, Kansas, became
+separated from her family on a half-mile
+journey and died within an arm's length of the
+door of her brother's house, her hands tangled
+in her hair.</p>
+
+<p>Arguably the most tragic blizzard of the
+Plains was the School Children's Storm of January
+1888, which struck following an exceptionally
+warm period. The blizzard hit the
+Central Plains when schools were letting out,
+and some teachers, new to the Plains, discounted
+stories of death during blizzards as
+simply tall tales and let their children walk
+home. Other teachers released their students
+early, hoping they would arrive home before
+its full fury. However, temperatures quickly
+plummeted to nearly 40&#186; below zero, and
+sixty-mile-per-hour winds with snow as fine
+as sifted flour reduced visibility to practically
+zero on the open prairie. In Pierce County,
+Nebraska, a teacher with three students became
+hopelessly lost walking 200 yards to her
+boarding place, and they spent the night huddled
+in a haystack. The children died and the
+teacher lost both feet to amputation. In Bon
+Homme County, Dakota Territory, the wind
+scattered a teacher and her nine students.
+They all died and were not found until the
+snow had melted months later. An old-timer
+of the community advised watching for circling
+buzzards to locate the bodies. More than
+200 people perished from Saskatchewan to
+Texas, most of them children of the Central
+Plains and their parents who went out searching
+for them.</p>
+
+<p>Although these blizzards brought tragedy to
+many Plains settlers, stories of survival also fill
+the pages of Great Plains history. A man in Clay
+County, Nebraska, survived the Easter Storm
+of April 1873 by housing his eight-person family,
+one hog, one dog, all his chickens, and four
+head of cattle in the same room. In Hastings,
+Nebraska, during the same blizzard, people
+needing supplies followed a rope tied between
+a store and the city well. During the Great
+Blizzard of 1886, a wandering range steer in
+Lane County, Kansas, burst through the wall of
+a sod house and was skinned on the spot, providing
+steaks to a family running low on food.
+In the same county, a woman checking on the
+family cow 100 yards from the house became
+disoriented, so she tied her shawl to the cow
+and let it lead her home, where both comfortably
+waited out the rest of the storm.</p>
+
+<p>The School Children's Storm of 1888 also has
+heroic stories of survival. In Jerauld County,
+Dakota Territory, a group of schoolchildren
+and their teacher held hands to travel the 100
+yards to a farmhouse. Missing the house by six
+feet, they fell into a small ravine but clambered
+back out to reach a straw pile, where they all
+survived the night. In Hanson County, Dakota
+Territory, two men spliced together several
+coils of clothesline and tied one end to the local
+mercantile establishment to walk to the schoolhouse,
+three blocks away, and guide the children
+back to safety. Although many children
+died in the storm, others lived, thanks to the
+efforts of their teachers who sheltered the children
+safe in the schoolhouse, staying awake all
+night to keep the stove warm, burning books
+and furniture when the woodpile ran out. After
+the wind ripped away part of a sod schoolhouse
+roof in Valley County, Nebraska, the
+teenage teacher tied her sixteen students together
+and safely led them to the house where
+she boarded, nearly a mile away, prompting
+the writing of a song Nebraska children still
+sing in elementary school.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.013">Blizzards</ref>.</p>
+
+<closer>
+<signed>Eric F. Grelson<lb/>
+Barksdale Air Force Base</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dick, Everett N. <title level="m">The Sod-House Frontier, 1854–1898</title>. Lincoln:
+University of Nebraska Press, 1979.</bibl> <bibl>Miner, Craig.
+<title level="m">West of Wichita: Settling the High Plains of Kansas, 1865– 1890</title>. Lawrence: University Press of Kansas, 1986.</bibl> <bibl>Sandoz,
+Mari. <title level="m">Love Song to the Plains</title>. New York: Harper Brothers,
+1961.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

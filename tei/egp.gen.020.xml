@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hooker, Evelyn (1907-1996)</title>
+<title level="m" type="sub"></title>
+<author>George E. Wolf</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wolf, George E.">George E. Wolf</author>. <title level="a">"Hooker, Evelyn (1907-1996)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">331-332</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOOKER, EVELYN (1907-1996)</head>
+
+<p>Born in North Platte, Nebraska, on September
+2, 1907, Evelyn Hooker, a pioneer in the
+scientific study of male homosexuality, revolutionized
+the psychological establishment's
+understanding of homosexuality during the
+second half of the twentieth century. Her research
+and activism contributed significantly
+to the modern gay rights movement.</p>
+
+<p>Evelyn Gentry, the sixth of nine children of
+poor farming parents, was born in her grandmother's
+home, close by Col. William F. (Buffalo
+Bill) Cody's, barely eluding the Sandhills
+sod house in which her family had recently
+been dwelling. She spent her youth on small
+farms in northeastern Colorado until her
+education-minded mother, who had migrated
+to Nebraska by prairie schooner, moved the
+family to Sterling in the Colorado Plains,
+where Evelyn could attend a large and progressive
+high school. There her teachers encouraged
+her to apply to the University of
+Colorado, which she entered on a tuition
+scholarship in 1924, eventually majoring in
+psychology.</p>
+
+<p>After completing her master's degree at
+Boulder in 1930, she pursued doctoral work at
+Johns Hopkins University, where she earned
+her doctorate in psychology in 1932. After several
+years of teaching at small colleges, a bout
+with tuberculosis, and study and travel in Germany
+(where she witnessed Nazi repression
+firsthand), she applied for a position in psychology
+at <hi rend="smallcaps">UCLA</hi>, becoming a research associate
+through the extension division in 1939. She
+taught and conducted her research there until
+1970, and then pursued private practice for
+another decade.</p>
+
+<p>Prompted by a gay former student, Hooker
+began preliminary research with male homosexuals
+in the late 1940s. In 1953 she applied
+to the National Institute of Mental Health
+(<hi rend="smallcaps">NIMH</hi>) for a stipend to undertake a comparative
+study of adjustment in nonclinical
+homosexual and heterosexual men, which to
+her surprise was granted, despite McCarthy-era
+attacks on homosexuals, ubiquitous sodomy
+statutes, and orthodox psychiatry's conviction
+that adult homosexual behavior was
+a serious mental disorder producing severe
+maladjustment.</p>
+
+<p>Contradicting firmly entrenched psychiatric
+dogma, Hooker's findings, which were
+presented at meetings of the American Psychological
+Association and published from
+the mid-1950s onward in a succession of rigorously
+researched articles, demonstrated that
+there was no distinct male homosexual personality
+type, that homosexual men were no
+more inherently abnormal in psychological
+makeup than their heterosexual counterparts,
+and that the results of standard projective tests
+and attitude scales (Rorschachs, Thematic Apperception
+Tests, and the like) of wellmatched
+heterosexual and homosexual men
+were, in terms of social adjustment, indistinguishable
+to expert clinicians. (Other researchers,
+replicating Hooker's experiments,
+have repeatedly turned up identical results.)
+In 1961 she was encouraged to continue her
+empirical studies of homosexual men through
+an nimh Research Career Award.</p>
+
+<p>Years later Hooker was appointed to head
+the nimh Task Force on Homosexuality.
+Among the recommendations of its 1969 report
+were increased funding for empirical scientific
+research into homosexuality, repeal of
+laws criminalizing homosexual acts between
+consenting adults, and an end to job discrimination
+based on sexual orientation. In 1973,
+largely as a result of Hooker's sustained research,
+members of the American Psychiatric
+Association voted to remove homosexuality as
+a pathological condition from its <title level="m">Diagnostic and Statistical Manual of Mental Disorders</title>.
+Two years later the American Psychological
+Association took a similar stance, and since
+then, in the spirit of Hooker's groundbreaking
+work, has become a leading force in the movement
+for social equality for gay men, lesbians,
+bisexuals, and transgendered persons. In 1991
+the American Psychological Association honored
+Hooker's "Distinguished Contribution
+to Psychology in the Public Interest." The University
+of Chicago's Evelyn Hooker Center for
+Gay and Lesbian Mental Health was named in
+her memory.</p>
+
+<p>Evelyn Hooker died in Santa Monica, California,
+on November 18, 1996.</p>
+
+<closer>
+<signed>George E. Wolf<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hooker, Evelyn. "The Adjustment of the Male Overt
+Homosexual." <title level="j">Journal of Projective Techniques</title> 21 (1957):
+18–31.</bibl> <bibl>Hooker, Evelyn. "An Empirical Study of Some Relations
+between Sexual Patterns and Gender Identity in
+Male Homosexuals." In <title level="m">Sex Research: New Development</title>,
+edited by John Money. New York: Holt, Rinehart and
+Winston, 1965: 24–52.</bibl> <bibl>Schmiechen, Richard, director.
+<title level="m">Changing Our Minds: The Story of Dr. Evelyn Hooker</title>. 16
+mm and videocassette. New York: Changing Our Minds,
+Inc., 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

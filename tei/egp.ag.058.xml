@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sheep</title>
+<title level="m" type="sub"></title>
+<author>Rodney W. Kott</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kott, Rodney W.">Rodney W. Kott</author>. <title level="a">"Sheep."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">50</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SHEEP</head>
+
+<p>More than 20 percent of the sheep in the
+United States are located in Great Plains states,
+mainly in the drier western reaches. Six of the
+top ten states in sheep production are in the
+Plains: Texas (1), Wyoming (2), Montana (5),
+South Dakota (6), Colorado (7), and New
+Mexico (8). Colorado is also ranked first in
+commercial sheep slaughter.</p>
+
+<p>Sheep production in the Great Plains states
+is extremely diverse. It varies from large extensive
+range sheep operations in West Texas,
+western South Dakota, eastern Montana, Wyoming,
+and New Mexico to more intensively
+managed flocks in the farming areas of North
+and South Dakota, Nebraska, Kansas, and
+Oklahoma. As a general rule, the productivity
+of pasture or forage crops dictates the maximum
+levels of productivity that a sheep producer
+can achieve and thus the type of operation
+best suited to the area. Production goals
+for sheep units in the Plains vary from commercial
+sheep operations to purebred or registered
+seed stock operations to operations catering
+to 4-<hi rend="smallcaps">H</hi> and <hi rend="smallcaps">FFA</hi> market sheep projects.</p>
+
+<p>In areas of low rainfall, such as West Texas,
+limited feed resources restrict production potential.
+Since in these areas expected outputs
+are low, production systems are extensive and
+resource inputs are minimized. Sheep numbers
+are large in order to offset the low level of
+outputs per animal unit. Although in these
+operations lamb production still accounts for
+the majority of the income (usually 70 to 80
+percent), wool provides a more significant
+contribution to the total income of the enterprise
+than in the systems to the east.</p>
+
+<p>In the farming areas of the Great Plains
+states, forage production capability of the land
+is not limited and thus sheep production systems
+involve intensely managed operations
+with much greater levels of output: production
+goals may approach up to 200 pounds of
+lamb per ewe per year. This usually involves a
+smaller total number of ewes per operation
+than on the western Plains. In many instances,
+these operations involve a greater reliance on
+harvested feed. And they tend not to be complete
+economic units but are used to support
+other farm income. The sheep will often use
+land, labor, and feed resources which otherwise
+may go unused on many farming and
+ranching operations.</p>
+
+<p>Because of the proximity of the major
+slaughter plants in the United States (particularly
+in eastern Colorado and western
+Iowa) and the vast feed resources, lamb feeding
+is an important industry in the Great
+Plains states and provinces. Feeding centers
+are located in Colorado, Wyoming, South Dakota,
+and Alberta. In addition, there is an active
+farmer-feeding industry in the farming
+areas of the Great Plains states. In some instances,
+it is beneficial for farmers to use a
+livestock fattening enterprise as a method to
+market their grain.</p>
+
+<closer>
+<signed>Rodney W. Kott<lb/>
+Montana State University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

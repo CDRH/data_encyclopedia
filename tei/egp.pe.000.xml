@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.000 SYSTEM "egp.pe.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Physical Environmenet</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+
+<div1 type="contents">
+
+<head>Physical Environment</head>
+
+<figure n="egp.pe.000" rend="granted">
+<figDesc>Lesser sandhill crane spring flock in Nebraska</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.pe.001">Physical Environment</ref></item>
+<item><ref n="egp.ag.006">Agricultural Meterology <hi rend="italic">See</hi> <hi rend="smallcaps">Agriculture</hi></ref></item>
+<item><ref n="egp.pe.003">Amphibians and Reptiles</ref></item>
+<item><ref n="egp.pe.004">Armadillos</ref></item>
+<item><ref n="egp.pe.005">Audubon, John James</ref></item>
+<item><ref n="egp.pe.006">Aughey, Samuel, Jr.</ref></item>
+<item><ref n="egp.pe.007">Badlands</ref></item>
+<item><ref n="egp.pe.008">Bird Migrations</ref></item>
+<item><ref n="egp.pe.009">Birds</ref></item>
+<item><ref n="egp.pe.010">Bison</ref></item>
+<item><ref n="egp.pe.011">Black Hills</ref></item>
+<item><ref n="egp.pe.012">Black-tailed Prairie Dog</ref></item>
+<item><ref n="egp.pe.013">Blizzards</ref></item>
+<item><ref n="egp.pe.014">Bluebonnets</ref></item>
+<item><ref n="egp.ii.008">Buffalo Commons<hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.pe.016">Caprock Canyonlands</ref></item>
+<item><ref n="egp.pe.017">Carlsbad Caverns</ref></item>
+<item><ref n="egp.pe.018">Chinooks</ref></item>
+<item><ref n="egp.pe.019">Climate</ref></item>
+<item><ref n="egp.pe.020">Cottonwoods</ref></item>
+<item><ref n="egp.pe.021">Coyotes</ref></item>
+<item><ref n="egp.pe.022">Dust Bowl</ref></item>
+<item><ref n="egp.pe.023">Eiseley, Loren</ref></item>
+<item><ref n="egp.pe.024">Endangered Species</ref></item>
+<item><ref n="egp.pe.025">Fire Ecology</ref></item>
+<item><ref n="egp.pe.026">Fish</ref></item>
+<item><ref n="egp.pe.027">Flora</ref></item>
+<item><ref n="egp.pe.028">Geology</ref></item>
+<item><ref n="egp.pe.029">Glaciation</ref></item>
+<item><ref n="egp.pe.030">Grasses</ref></item>
+<item><ref n="egp.pe.031">Grasshoppers</ref></item>
+<item><ref n="egp.ii.032">Great American Desert <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.pe.033">Hayden, Ferdinand Vandeveer</ref></item>
+<item><ref n="egp.pe.034">Insects</ref></item>
+<item><ref n="egp.wat.013">Lake Agassiz <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.036">Llano Estacado</ref></item>
+<item><ref n="egp.pe.037">Mesquite</ref></item>
+<item><ref n="egp.sr.038">National Forests <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.sr.039">National Grasslands <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.sr.040">National Parks <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.sr.041">National Wildlife Refuges <hi rend="italic">See</hi> <hi rend="smallcaps">Sports and Recreation</hi></ref></item>
+<item><ref n="egp.lt.051">Nature Writing <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.pe.043">Niobrara Ecotone</ref></item>
+<item><ref n="egp.wat.018">Ogallala Aquifer <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.045">Paleoenvironments</ref></item>
+<item><ref n="egp.pe.046">Palliser's Triangle</ref></item>
+<item><ref n="egp.pe.047">Physiography</ref></item>
+<item><ref n="egp.wat.021">Playa Lakes <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.049">Prairie Preservation</ref></item>
+<item><ref n="egp.pe.050">Rattlesnakes</ref></item>
+<item><ref n="egp.wat.027">Rivers <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.052">Roadrunners</ref></item>
+<item><ref n="egp.pe.053">Sandhills</ref></item>
+<item><ref n="egp.wat.029">Sandhills Lakes <hi rend="italic">See</hi ><hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.055">Shelterbelts</ref></item>
+<item><ref n="egp.pe.056">Soil Erosion</ref></item>
+<item><ref n="egp.pe.057">Soils</ref></item>
+<item><ref n="egp.pe.058">Soil Surveys</ref></item>
+<item><ref n="egp.pe.059">Thunderstorms</ref></item>
+<item><ref n="egp.pe.060">Topgraphic maps</ref></item>
+<item><ref n="egp.pe.061">Tornadoes</ref></item>
+<item><ref n="egp.ii.056">Tree Planting and Climate Change <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.ind.060">Weather Industry <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.pe.064">Weeds</ref></item>
+<item><ref n="egp.wat.039">Wetlands <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.pe.066">White-tailed Deer</ref></item>
+<item><ref n="egp.pe.067">Wildflowers</ref></item>
+<item><ref n="egp.pe.068">Wind</ref></item>
+<item><ref n="egp.ind.061">Wind Industry <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.pe.070">Woodlands</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

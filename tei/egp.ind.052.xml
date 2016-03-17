@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Potash Corporation of Saskatchewan</title>
+<title level="m" type="sub"></title>
+<author>Raymond B. Blake</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Blake, Raymond B.">Raymond B. Blake</author>. <title level="a">"Potash Corporation of Saskatchewan."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">433</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">POTASH CORPORATION OF SASKATCHEWAN</head>
+
+<p>The Potash Corporation of Saskatchewan,
+headquartered at Saskatoon and operating six
+mines in Saskatchewan, one in New Brunswick,
+and, until its sale in 2000, one in Moab,
+Utah, is the world's largest fertilizer enterprise.
+In 1999 the corporation's production of
+potash stood at 6.4 million metric tons, or 15
+percent of the world's output. Potash is a generic
+term for several types of potassium salts
+or nutrients essential for modern agricultural
+fertilizers.</p>
+
+<p>It is estimated that the Potash Corporation
+of Saskatchewan has 60 percent of the world's
+excess potash capacity and enough reserves for
+1,000 years of production. Potash was first discovered
+in southern Saskatchewan in 1943, but
+the first potash mine was not established until
+1958, when the Potash Company of America
+began production of the extensive deposits.
+Technical difficulties delayed large-scale exploitation
+until the late 1960s, but by 1971 ten
+potash mines were in operation in Saskatchewan,
+a province where there had always been a
+debate over how best to develop its natural
+resources.</p>
+
+<p>Allan Blakeney's election as premier of
+Saskatchewan in 1971 marked the beginning of
+a long-running feud between the government
+and the potash producers over an existing
+prorating plan to control production and
+price. In 1974 the government instituted a new
+tax on producers, and in early 1975 it announced
+plans to create the Potash Corporation
+of Saskatchewan and nationalize some or
+all of the province's potash industry. In October
+1976 the government purchased its first
+producing mine, and within two years it controlled
+40 percent of the province's capacity.</p>
+
+<p>The defeat of Premier Blakeney and his
+New Democratic Party in 1982 marked a dramatic
+political and ideological shift in the
+province. Premier Grant Devine and the Progressive
+Conservatives assumed office with a
+profound faith in the primacy of the market,
+as did many governments throughout the
+western democracies at the time. They placed
+little value on state-run enterprises and proceeded
+to privatize the Potash Corporation of
+Saskatchewan through a public share offering.
+Ironically, it was a New Democratic Party government,
+led by Roy Romanow, that completed
+the sale of the Potash Corporation
+shares that the province had retained after the
+initial public offering.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.055">New Democratic Party</ref>.</p>
+
+<closer>
+<signed>Raymond B. Blake<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Denver Post</hi></title>
+<title level="m" type="sub"></title>
+<author>Kris Kodrich</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kodrich, Kris">Kris Kodrich</author>. <title level="a">"<hi rend="italic">Denver Post</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">510-511</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">DENVER POST</hi></head>
+
+<p>An integral ingredient in Colorado lore and
+pride, the <title level="j">Denver Post</title> entered unfamiliar
+peaceful territory in 2001, when the 108-year-old
+daily newspaper ended a bitter feud with
+the <title level="j">Rocky Mountain News</title> and began working
+with its former crosstown rival and new business
+partner. A joint operating agreement effectively
+ended one of the longest, most ruthless
+newspaper wars in the country. In its early
+years, the battle between the <title level="j">Post</title> and the News
+included name calling, sensationalism, editorial
+crusades, and promotional stunts. In
+the spirit of a Wild West duel, the fight even
+spilled out into the streets near the state capitol
+in 1907, when <title level="j">Post</title> owner Frederick Bonfils
+attacked and beat <title level="j">News</title> owner Thomas
+Patterson, who had called Bonfils a "blackmailer"
+in a cartoon.</p>
+
+<p>The <title level="j">Denver Post</title> was founded in August
+1892 as a weekly. Three years later, Harry Tammen
+and Frederick Bonfils purchased the
+then-daily <title level="j">Evening Post</title> for $12,500 and began
+an all-out war against its four rival dailies,
+turning Denver's journalism scene into what
+one historian called "a three-ring circus." (The
+<title level="j">Post</title>, in fact, even owned a circus in the early
+1900s.) With its use of red headlines and lurid
+stories, the <title level="j">Post</title> was proud of its yellow journalism.
+The other newspapers soon died or
+were merged. In 1926 Scripps-Howard Newspapers
+bought the <title level="j">News</title> and merged it with
+the <title level="j">Express</title>, leaving only the morning News
+and afternoon <title level="j">Post</title>. Each newspaper tried
+furiously to put the other out of business and
+in the process lost millions of dollars. The
+<title level="j">News</title>, which had been founded in 1859 by
+William Byers, almost perished around the
+time of World War II. It then switched to a
+tabloid format. But for forty years the <title level="j">Post</title>,
+declaring itself "The Voice of the Rocky Mountain
+Empire," held the dominant position in
+the market.</p>
+
+<p>The Post was sold in 1980 to the Times Mirror
+Company for $95 million and became a
+morning newspaper the following year. But
+its circulation declined until William Dean
+Singleton's MediaNews Group bought it in
+1987, also for $95 million. The circulation war
+heated up, and both newspapers remained
+neck and neck in their race to gain the most
+subscribers. Nevertheless, when the joint operating
+agreement was announced in May 2000,
+the E. W. Scripps Company admitted the <title level="j">Rocky Mountain News</title> had lost $123 million in the
+past decade. The <title level="j">Post</title> meanwhile reported
+profits of $192 million in the same period. Both
+papers had ridiculously low penny-a-day subscription
+rates to attract readers, and both
+claimed the largest circulation gains in the
+country in 2000. The <title level="j">Post</title> reported a daily circulation
+of 420,033 and Sunday circulation of
+586,485, while the <title level="j">News</title> had a daily circulation
+of 426,465 and Sunday circulation of 529,681.</p>
+
+<p>The joint operating agreement, which
+merged business operations such as advertising
+and circulation under the Denver Newspaper
+Agency, was approved by U.S. Attorney
+General Janet Reno in January 2001 in record
+time. Both companies agreed to split the
+profits fifty-fifty, but the E. W. Scripps Company
+and the <title level="j">News</title> had to pay $60 million to
+MediaNews and the <title level="j">Post</title> to enter the arrangement.
+The editorial departments of the two
+newspapers remained independent, keeping
+Denver one of the dwindling number of twonewspaper
+towns (in 2001, fewer than twenty
+remained in the United States). In 2001 the
+two newspapers continued to publish competing
+newspapers Monday through Friday,
+but the <title level="j">News</title> oversaw publication of a single
+newspaper on Saturdays, and the <title level="j">Post</title> oversaw
+a single Sunday edition. The staffs of both
+newspapers vowed to continue the journalistic
+rivalry that has provided more than a century
+of interesting and colorful reporting to the
+people of Colorado. In 2000 both newspapers
+won Pulitzer Prizes for their coverage of the
+shootings at Columbine High School, the <title level="j">Post</title>
+for reporting and the <title level="j">News</title> for photography.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ASIAN AMERICANS</hi>: <ref n="egp.asam.013">Hosokawa, William</ref> / <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.018">Denver, Colorado</ref>.</p>
+
+<closer>
+<signed>Kris Kodrich<lb/>
+Colorado State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anton, Mike. "Battle of Wits, Words Made History." <title level="j">Rocky Mountain News</title>, May 12, 2000: <hi rend="smallcaps">A</hi>5.</bibl> <bibl>Hosokawa, Bill. <title level="m">Thunder in the Rockies: The Incredible Denver Post</title>. New York:
+William Morrow, 1976.</bibl> <bibl>Kreck, Dick. "A 108-Year-Old
+Street Fight: Newspapers Share a Long, Colorful History."
+<title level="j">Denver Post</title>, May 12, 2000: <hi rend="smallcaps">A</hi>16.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

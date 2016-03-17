@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Whoop-Up Trail</title>
+<title level="m" type="sub"></title>
+<author>Phillip Drennon Thomas</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Thomas, Phillip Drennon">Phillip Drennon Thomas</author>. <title level="a">"Whoop-Up Trail"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">814</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WHOOP-UP TRAIL</head>
+
+<p>Although the origins of the name Whoop-Up
+Trail are unclear, the fabled history and significance
+of this trail, which ran from Fort Benton
+in Montana to the notorious whiskey fort,
+Fort Whoop-Up (Fort Hamilton), and later
+Fort Macleod on the Oldman River in Canada,
+are not debated. Playing an important
+role in the history of the U.S.-Canadian frontier
+from the 1850s until the late 1880s, this
+trail of approximately 240 miles roughly paralleled
+or followed the Great North Trail along
+which Native Americans had traveled for millennia
+on the eastern side of the Rocky Mountains.
+Founded in 1850, Fort Benton, on the
+west side of the Missouri some 3,575 miles
+from its mouth, became a center for trade for
+northern Montana and southern Alberta for
+more than four decades.</p>
+
+<p>From 1860 to 1890 more than 600 steamboat
+landings allowed goods and commerce to
+reach both U.S. and Canadian frontier communities.
+Passing through grasslands with few
+physical barriers, the trail was traversed on
+foot, on horseback, by mule train, and by trade
+wagons by Native Americans, fur trappers,
+whiskey traders, the U.S. Army, the North-West
+Mounted Police (<hi rend="smallcaps">NWMP</hi>), cowboys,
+miners, ranchers, and settlers. Through Fort
+Benton passed many of the bison robes that
+made their way to eastern markets from 1865 to
+1882. Furs, whiskey, and trade goods were a
+staple of the commerce on this trail, although
+with the coming of the <hi rend="smallcaps">NWMP</hi> to western Canada
+in 1874, the whiskey forts and the whiskey
+trade began to decline. Supplies for the nwmp
+and Indian reservations became part of the
+goods carried by bull trains (consisting of six
+to twelve yoke, or pair, of oxen) across the
+border. The coming of the railroad lessened
+the need for the trail, and by 1890 it no longer
+played a significant role in the economic life of
+this region.</p>
+
+<closer>
+<signed>Phillip Drennon Thomas<lb/>
+Wichita State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berry, Gerald L. <title level="m">The Whoop-Up Trail</title>. Edmonton, Alberta:
+Applied Art Products, 1953.</bibl> <bibl>Cushman, Dan. <title level="m">The Great
+North Trail</title>. New York: McGraw-Hill Book Company,
+1966.</bibl> <bibl>Sharp, Paul E. <title level="m">Whoop-Up Country: The Canadian-American
+West, 1865–1885</title>. Norman: University of Oklahoma
+Press, 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

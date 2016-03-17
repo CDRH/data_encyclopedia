@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.057 SYSTEM "egp.art.057.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stanley, John Mix (1814-1872)</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Stanley, John Mix (1814-1872)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">129-130</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STANLEY, JOHN MIX (1814-1872)</head>
+
+<figure n="egp.art.057" rend="granted">
+<figDesc>John Mix Stanley. Herd of Bison Near Lake Jesse, ca. 1853. Color lithograph.</figDesc>
+</figure>
+
+<p>John Mix Stanley was one of a number of
+painters who came west in the first half of the
+eighteenth century to paint what they believed
+were the last days of the Native Americans.
+Born in Canandaigua, New York, on January
+14, 1814, Stanley progressed from painting
+signs to painting portraits and landscapes. He
+was enamored with George Catlin's works and
+followed his example, retracing some of the
+same ground and even painting portraits of
+the same people.</p>
+
+<p>Stanley traveled throughout Indian Territory
+from 1842 to 1845. In 1846 he accompanied
+American soldiers during the Mexican War,
+arriving in Santa Fe just weeks after Stephen
+Watts Kearny's Army of the West. Kearny hired
+him as a topographical draftsman, and Stanley
+fought in battle under Kearny in San Diego.
+Probably the most traveled of western artists,
+Stanley soon made his way to Oregon, where
+he narrowly avoided being killed in the Whitman
+massacre. He spent one year in Hawaii
+before returning to New York in 1850. There he
+began the first of several unsuccessful attempts
+to sell Congress his "Indian Gallery," approximately
+150 paintings done in Indian Territory
+and the Southwest. Unable to sell his paintings
+to the government, he accepted an offer by the
+Smithsonian Institution to house his works. In
+1853 he joined the northern railroad survey
+headed by Isaac Stevens, producing sixty images
+that were printed in the official reports of
+the expedition, several of which are of Great
+Plains scenes.</p>
+
+<p>His western travel behind him, Stanley
+moved to Washington <hi rend="smallcaps">DC</hi>, where he further
+labored to sell his paintings to Congress. Stanley
+never again traveled among the Native
+Americans, but he continued to paint them,
+based on memory and imagination. Like Catlin,
+Stanley believed that the Native Americans
+were incompatible with American civilization
+and would fade away, a process he believed
+inevitable and ultimately just.</p>
+
+<p>Exhibiting great realism, in part because he
+was one of the first artists to base his work on
+photographs, which he began using in the late
+1840s, Stanley's works show greater skill than
+those of Catlin. <title>The Trial of Red Jacket</title> (1868) is
+his best-known work. Stanley's "Indian Gallery"
+was lost in the great Smithsonian Institution
+fire of January 1865, and a second
+fire that year at the New York City museum of
+P. T. Barnum, followed by an 1872 fire in his
+own studio, destroyed most of his remaining
+works. Stanley died of heart failure in Detroit,
+Michigan, on April 10, 1872, still hoping for
+compensation for his destroyed work. His remaining
+works are housed in the Smithsonian
+Institution; the Gilcrease Museum in Tulsa,
+Oklahoma; the Detroit Institute of Arts; the
+Stark Museum of Art in Orange, Texas; and
+the Buffalo Historical Society.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dippie, Brian W. <title level="m">Catlin and His Contemporaries: The Politics of Patronage</title>. Lincoln: University of Nebraska Press,
+1990.</bibl> <bibl>Taft, Robert. <title level="m">Artists and Illustrators of the Old West, 1850–1900</title>. New York: Bonanza Books, 1953.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

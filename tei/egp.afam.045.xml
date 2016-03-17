@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">West, Cornel (b. 1953)</title>
+<title level="m" type="sub"></title>
+<author>D. A. Masolo</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+ 
+<sourceDesc>
+<bibl><author n="Masolo, D. A.">D. A. Masolo</author>. <title level="a">"West, Cornel (b. 1953)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">23-24</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WEST, CORNEL (b. 1953)</head>
+<figure n="egp.afam.045" rend="granted" type="noclick">
+<figDesc>Cornel West in 2008</figDesc>
+</figure>
+
+<p>Theologian, public intellectual, and formerly
+professor of Afro-American Studies and religion
+at Harvard University, Cornel West is
+also highly regarded as a philosopher. In July
+2002 West returned to Princeton University,
+where he received his doctorate, as Class of
+1943 University Professor of Religion. Part of
+a group of influential contemporary African
+American scholars, Cornel West strives to
+close those gaps he perceives in the work of
+the older generation of African American intellectuals
+and political activists. This accounts
+for the eclecticism of his work and for
+his mix of academic scholarship with activist
+immersion in the matters of everyday life or,
+as he calls it, the human condition.</p>
+
+<p>The grandson of a Baptist minister, West
+was born in Tulsa, Oklahoma, on June 2, 1953,
+and brought up under the religious influence
+of the Baptist Church. His religious upbringing
+opened his eyes early to the theme of justice
+in an unjust world. The marginalization
+of Native Americans and African Americans
+to the racially and economically defined periphery
+of Oklahoma provided him with the
+existentialist notions of tragedy in the American
+social-political landscape.</p>
+
+<p>By the time West arrived at Harvard in 1970,
+he was already an emboldened and eloquent
+young man who felt no restraint in expressing
+his opposition to injustice and criticizing the
+ideas of preceding leaders of the black movement.
+West has been particularly critical of
+W. E. B. Du Bois, who had argued that the way
+for African Americans to break out of oppression
+and marginalization was to embrace the
+values of white America. At Harvard, West
+majored in religion while also studying philosophy.
+Graduating in 1973, he pursued a
+doctoral degree in philosophy at Princeton
+where he came under the influence of Richard
+Rorty and the new trajectory of pragmatism.
+Two of West's works, <title level="m">Post-Analytic Philosophy</title>
+(1985) and <title level="m">The American Evasion of Philosophy</title>
+(1989), reflect Rorty's belief that the dominant
+American academic practice operates, at best,
+with cynicism about the social conditions of
+the nation and evades the real problems at the
+heart of American society. In the latter work,
+West explores the history of American pragmatism
+stretching from Ralph Waldo Emerson
+to Richard Rorty as a response to the social
+problematic of American society. He
+returns to these themes frequently in his later
+writings, notably in <title level="m">Keeping Faith: Philosophy
+and Race in America</title> (1993).</p>
+
+<p>But West's wide popularity comes mainly
+from his speeches and writings for a general
+audience, themselves the result of his mission,
+like his mentor Rorty's, to see philosophy
+break free from the privileged confines of the
+academy. Philosophy, in his view, must engage
+the social tragedies of suffering and despair
+faced everyday by those who are alienated
+from society and dispossessed of their fundamental
+material, social, and spiritual rights.</p>
+
+<p>The greatest influence on West, as he himself
+admits, is Anton Pavlovich Chekhov. Like
+Chekhov, the Russian physician and writer,
+West steps outside his exclusive professional
+engagements in order to embrace the plight of
+everyday folks by using the privileges of his
+own public image and visibility. West's concern
+is first and foremost with the shifting
+yet unending bondage of African Americans&#8211;
+from the hot sun of the plantations in a quasifeudal
+system to the proletariat conditions of
+an industrialized America. It is this condition
+that, in his view, brings forth the idea of community
+and the necessity of oppositional intellectual
+groupings within the academy.</p>
+
+<closer>
+<signed>D. A. Masolo<lb/>
+University of Louisville</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gordon, Lewis R. <title level="m">Existentia Africana: Understanding Africana
+Existential Thought</title>. New York: Routledge, 2000.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

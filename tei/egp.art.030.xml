@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Henri, Robert (1865-1929)</title>
+<title level="m" type="sub"></title>
+<author>Gary Zaruba</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zaruba, Gary">Gary Zaruba</author>. <title level="a">"Henri, Robert (1865-1929)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">118</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HENRI, ROBERT (1865-1929)</head>
+
+<p>Robert Henri was a renowned American
+painter and teacher in the late nineteenth century
+and first quarter of the twentieth century.
+He was born Robert Henry Cozad in Cincinnati,
+Ohio, on June 24, 1865. His father, John J.
+Cozad, a riverboat gambler and land speculator,
+settled and developed present-day Cozad,
+Nebraska. Robert spent his early years on the
+family ranch and attended school in Cozad.
+The family hastily left the Plains in 1882 when
+Robert's father killed one of his workers in
+self-defense.</p>
+
+<p>Robert Henri&#8211;the name he adopted because
+of fear of repercussions from the Cozad
+incident&#8211;enrolled in the Pennsylvania Academy
+of the Fine Arts in 1886 and studied under
+Thomas P. Anshutz. In 1888 he made the first
+of a number of visits to Europe when he studied
+with Adolphe William Bouguereau at the
+Acad&#233;mie Julian in Paris. He found the teaching
+in Paris to be stifling, but he was inspired
+by the masterpieces in the Louvre and, subsequently,
+by the works of Diego Vel&#225;zquez and
+Frans Hals.</p>
+
+<p>Henri taught in Philadelphia, New York,
+and Paris. He encouraged his students to seek
+the freedom of individual expression and to
+break from the European academies' and the
+National Academy of Design's conformity to
+tradition. Young artists who were influenced
+by his teaching include William Glackens,
+George Luks, Everett Shinn, and John Sloan,
+later members of the Eight, or Ashcan school.
+Stuart Davis, George Bellows, and Edward
+Hopper were also inspired by his teaching.</p>
+
+<p>Although Henri's reputation was based
+mainly on his teaching, he painted many fine
+landscapes, cityscapes, and portraits, including
+hundreds of portraits of Irish children. He
+painted with energetic brushwork, using a
+dark palette with sharp contrasts of light and
+shade, as seen in <title>Girl in Wedding Gown</title> (1910).
+Henri continued to receive honors for his
+work right up until his death on July 12, 1929,
+in New York.</p>
+
+
+<closer>
+<signed>Gary Zaruba<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Henri, Robert. <title level="m">The Art Spirit</title>. New York: Harper and Row,
+1984.</bibl> <bibl>Homer, William Innes. <title level="m">Robert Henri and His Circle</title>.
+Ithaca <hi rend="smallcaps">NY</hi>: Cornell University Press, 1969.</bibl> <bibl><title>Robert Henri</title>.
+Exhibition Catalog. Lincoln: Nebraska Art Association,
+1971.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

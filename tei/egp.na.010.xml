@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Astronomy</title>
+<title level="m" type="sub"></title>
+<author>Patricia J. O'Brien</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="O'Brien, Patricia J.">Patricia J. O'Brien</author>. <title level="a">"Astronomy."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">566-567</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ASTRONOMY</head>
+
+<p>Like all humans, the Native peoples of the
+Plains observed the sky, particularly the night
+sky, and created astronomies. Scholars have
+used three general methods to describe and
+understand pre-European astronomies in
+North America: an examination of myth; archeological
+data, including astronomical artifacts;
+and detailed ethnographic and historic
+studies of specific peoples.</p>
+
+<p>In Blackfoot myth, for example, the Pleiades
+were small boys who became stars when
+their parents would not give them yellow buffalo
+calf robes. Very young calves have yellow
+hides in May or June, when the Pleiades are
+not visible, but become dark around September
+when the Pleiades reappear.</p>
+
+<p>Archeology was used by Waldo Wedel to
+identify astronomies, when he proposed that
+"council circles" in central Kansas might be
+solstice registers. These types of data include
+the well-known medicine wheels, including
+Wyoming's Big Horn Medicine Wheel. Such
+sites are also common in the Northern Great
+Plains and the Prairie Provinces. The most
+important is the Moose Mountain Medicine
+Wheel in Saskatchewan, which is aligned to
+the summer solstice sunrise. Nearby, others
+mark the rising of the major summer stars:
+Aldebaran, Rigel, and Sirius.</p>
+
+<p>One of the most important astronomical
+artifacts is the Skiri Pawnee star chart, drawn
+on a buffalo scalp and associated with the Big
+Black Meteoric Star bundle and ceremony.
+This star is associated with the northeast star
+pillar position and the color black. It has been
+proposed that its position is a point north of
+the celestial pole, a definite black spot in the
+heavens. The chart seems to be a pictograph of
+the night sky with key stars and constellations
+recorded.</p>
+
+<p>Von Del Chamberlain's elegant analysis of
+the cosmology of the Pawnees is one of the
+most brilliant ethnographic studies of Native
+American astronomy. Chamberlain identifies
+major constellations in Pawnee astronomy,
+pointing out that they structured the world
+around the four cardinal, and especially semicardinal,
+positions. Morning and Evening
+Stars are associated with the east and west, and
+there are North and South Stars and four star
+pillar positions: the Northeast, Northwest,
+Southwest, and Southeast. Identifying the particular
+stars in the heavens with these positions
+is difficult, but one association is clear:
+Polaris is the North Star. Chamberlain outlines
+the problems of identifying the Morning
+and Evening Stars with the planets, but he settles
+on Mars and Venus, respectively. The sun
+and moon are also linked: the Sun is Morning
+Star's younger brother and the Moon is Evening
+Star's little sister. The semicardinal positions&#8211;
+the star pillars holding up the earth
+lodge roof and cosmologically the universe.
+have several interpretations, including that
+they refer to no celestial bodies. One view sees
+them linked to planets: Mercury (red) to the
+Southeast, Saturn (yellow) to the Northwest,
+and Jupiter (white) to the Southwest. Northeast
+is a problem, because its color is black and
+there is no black star. Another view sees them
+as the stars along the ecliptic, representing
+Spica (Southwest), Antares (Southeast), Aldebaran
+(Northwest), and Regulus (Northeast).
+A final interpretation has them as the
+brightest stars: Capella (Northwest), Sirius
+(Southwest), Vega (Northeast), and Antares
+(Southeast).</p>
+
+<closer>
+<signed>Patricia J. O'Brien<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Chamberlain, Von Del. When Stars Came Down to Earth.
+Los Altos <hi rend="smallcaps">CA</hi>: Ballena Press, 1982.</bibl> <bibl>Wedel, Waldo R. "The
+Council Circles of Central Kansas: Were They Solstice
+Registers?" <title level="j">American Antiquity</title> 32 (1967): 54–63.</bibl> <bibl>Wilson,
+M. N. "Blackfoot Star Myths—The Pleiades." <title level="j">The American Antiquarian</title> 15 (1893): 149–50.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

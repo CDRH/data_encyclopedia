@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Argus Leader</hi> (Sioux Falls)</title>
+<title level="m" type="sub"></title>
+<author>Gary D. Olson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Olson, Gary D.">Gary D. Olson</author>. <title level="a">"<hi rend="italic">Argus Leader</hi> (Sioux Falls)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">505-506</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">ARGUS LEADER</hi> (SIOUX FALLS)</head>
+
+<p>The <title level="j">Argus Leader</title>, published in Sioux Falls,
+South Dakota, is the survivor of a number of
+newspapers that have existed in that community
+since its first founding in 1857. It is the
+product of a merger of two early papers: the
+<title level="j">Sioux Falls Argus</title>, a weekly paper begun in
+1881, and the <title level="j">Sioux Falls Leader</title>, which was
+founded in 1883. The consolidation occurred
+in 1887, and the name was hyphenated until
+December 3, 1979. The <hi rend="italic">Argus-Leader</hi> was originally
+a Democratic paper, but it switched to
+the Republican Party during the 1896 McKinley
+election. (The paper long ago dropped any
+political party connection.) Begun as a morning
+paper, it changed to evening publication in
+1885 and continued on that schedule for the
+next ninety-four years.</p>
+
+<p>The <hi rend="italic">Argus-Leader</hi> nearly joined the town's
+other failed newspapers in 1889 when it ceased
+publication for more than a week due to financial
+problems. At that time, when Sioux Falls
+had a population of about 10,000, the paper
+had a total circulation of only 1,000 daily and
+900 weekly. New owners moved the paper to
+109 N. Main, where it thrived: by 1892 total
+circulation had risen to 7,500, and the paper
+had become a statewide publication. This success
+became clearly visible in 1917 with the addition
+of a second floor and a new pressroom
+to the building and the erection of an electric
+bulletin board and a large electric World Series
+board on its facade. On January 1, 1928, the
+<title level="j">Argus-Leader</title>'s main competitor, the <title level="j">Sioux Falls Daily Press</title>, a morning paper, ceased operations,
+and its publisher, Fred C. Christopherson,
+became assistant editor of the <title level="j">Argus-Leader</title>. Christopherson continued at the
+<title level="j">Argus-Leader</title> for the next thirty-three years,
+retiring in 1961 as executive editor.</p>
+
+<p>The <title level="j">Argus-Leader</title> experienced major changes
+after World War II. In 1951 a massive fire destroyed
+the business office and newsroom. After
+operating in various temporary quarters,
+the paper moved to its present site at Tenth
+and Minnesota in 1954. A year later local
+owners sold the paper to John A. Kennedy of
+San Diego, California, who in turn sold it to
+the Speidel newspaper chain of Reno, Nevada,
+in 1963. In May 1977 the Gannet Company,
+Inc., a newspaper chain of fifty-four papers,
+merged with the thirteen-paper Speidel Company.
+Through this merger, Allen Neuharth,
+a native of Eureka, South Dakota, and head
+of the Gannet Company, became owner of
+the <title level="j">Argus-Leader</title>. It was at this time that the
+paper switched to being a morning paper and
+dropped Sioux Falls from its nameplate.</p>
+
+<p>The <title level="j">Argus Leader</title>, with a daily circulation of
+about 52,000 in August 2000, remains the only
+locally published daily newspaper in Sioux
+Falls. While its primary focus is Minnehaha
+and adjacent counties, the <title level="j">Argus Leader</title> is also
+the regional newspaper of "east river" South
+Dakota, southwestern Minnesota, and northwestern
+Iowa.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.048">Sioux Falls, South Dakota</ref>.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>Gary D. Olson</signed>
+Augustana College</closer>
+</div1>
+
+<div1>
+<bibl>Bailey, Dana. <title level="m">History of Minnehaha County</title>. Sioux Falls
+<hi rend="smallcaps">SD</hi>: Brown and Saenger, 1899. Hollingsworth, Dave. "Argus
+Leader Chronology." <title level="j">Argus Leader</title>, May 1, 1988.</bibl> <bibl>Olson,
+Gary D., and Erik L. Olson. <title level="m">Pictorial History of Sioux Falls</title>.
+Norfolk <hi rend="smallcaps">VA</hi>: Donning Press, 1985.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

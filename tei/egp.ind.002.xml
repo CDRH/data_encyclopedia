@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Aerospace</title>
+<title level="m" type="sub"></title>
+<author>Roger E. Bilstein</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bilstein, Roger E.">Roger E. Bilstein</author>. <title level="a">"Aerospace."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">408</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AEROSPACE</head>
+
+<p>As a twentieth-century phenomenon, the
+Plains aerospace industry evolved from early
+interest in airline travel as a means to cope
+with widely separated population centers and
+the tendency of overland transportation systems
+to follow traditional east–west routes. As
+the tempo of air transportation accelerated,
+pioneering aircraft manufacturers in the
+Great Plains began to appear, especially during
+the years following World War I.</p>
+
+<p>A number of builders survived hard years
+of competition and erratic financing, and major
+aircraft-manufacturing entities took many
+years to mature. With its widely scattered population
+and agrarian focus, the region always
+presented major problems in acquiring a large
+force of technically skilled workers, especially
+in the case of advanced technologies such as
+aviation. Manufacturers in the area tended
+to succeed with smaller, less technically advanced
+aircraft. These "light plane" designs
+generated growing numbers in the general
+aviation sector as distinguished from commercial
+airliners and military aircraft.</p>
+
+<p>The advent of World War II dramatically
+changed this picture. Many production centers
+were organized throughout the Great Plains,
+partly to locate new aircraft plants away from
+vulnerable sites near coastlines. Thousands of
+workers relocated near these new plants; many
+remained in the region. As the cold war era
+evolved after 1945, national defense requirements
+kept many of the wartime centers active
+in the construction of a new generation of
+military aircraft. Moreover, postwar prosperity
+provided a rapidly growing market for a
+variety of new general aviation aircraft and
+generated a significant backlog of orders for
+components used in the postwar generation of
+bigger, faster commercial passenger transports.
+Also, succeeding generations of aircraft
+relied increasingly on electronic and computerized
+equipment. During the mid-1950s, the
+aerospace industry appeared, indicating growing
+dimensions of rocketry and space research.
+Electronics and computer companies proliferated.
+Smaller, specialized firms like these often
+succeeded in supplying components and systems
+management expertise to the aerospace
+industry, even though the national centers of
+aerospace production lay elsewhere.</p>
+
+<p>Several of the areas where aviation and aerospace
+manufacturing occurred were clearly in
+the Great Plains region. Moreover, a number
+of metropolitan centers that lay just outside its
+boundaries began to employ such a large number
+of aviation workers that their "footprint"
+clearly affected considerable innumerable employees
+who actually lived within the Plains.</p>
+
+<p>In Canada, the center of aviation manufacturing
+remained in the southeastern part of
+the country. Following World War II, however,
+military training bases gave momentum
+to regional fabricators and suppliers. As the
+oil and gas industries emerged on the Prairies
+and the population mushroomed, a technical
+and industrial infrastructure flourished that
+contributed to the aviation/aerospace industry.
+These activities emerged in metropolitan
+areas such as Edmonton and Calgary. Firms in
+these cities not only built subassemblies for a
+variety of major eastern Canadian manufacturers
+but also offered comprehensive electronic
+technologies for communications and
+navigational systems.</p>
+
+<p>In the United States, aircraft manufacturing
+after World War I built on the enthusiasm of
+wartime aviation and the availability of venture
+capital. During the 1920s, although a variety
+of optimistic companies sprang up in several
+states, manufacturers of general aviation
+aircraft succeeded most often, especially
+around Wichita, Kansas. There, the lack of
+surface transportation and the energy of wildcatters
+in the oil business created a market for
+smaller, agile aircraft. Early builders who
+eventually survived included Beechcraft and
+Cessna, specializing in general aviation designs
+intended to carry four to six passengers.
+During World War II, these companies turned
+out thousands of primary trainers for military
+flight schools.</p>
+
+<p>Wartime necessity also stimulated smaller
+fabricators of aviation hardware throughout
+the region and brought major manufacturing
+plants to urban areas such as Omaha and Lincoln,
+Nebraska, Kansas City, Kansas, and Fort
+Worth, Texas. Overnight, the latter made Texas
+one of the largest aircraft production centers
+in the United States, turning out thousands
+of trainers, <hi rend="smallcaps">P</hi>-51 Mustang fighters, and <hi rend="smallcaps">B</hi>-24
+Liberator bombers. The area's concentration
+of suppliers and workers made it a postwar
+center as well, producing a long line of
+jet bombers and fighter aircraft such as the
+Lockheed <hi rend="smallcaps">F</hi>-16. Wichita also produced large
+military aircraft, and new Boeing facilities
+there continued to build components for <hi rend="smallcaps">B</hi>-52
+bombers as well as a long line of postwar Boeing
+transport planes. In Colorado, the Denver-
+Boulder locale emerged as a postwar center for
+aerospace research, producing rocket vehicle
+components and electronic systems for military
+and civil applications.</p>
+
+<p>In 2000 manufacturers across the region
+produced light planes, corporate jets, supersonic
+fighters, space-flight hardware, and a
+wide range of electronic aerospace products.
+A number of ventures involved foreign firms,
+reflecting the era's global economy.</p>
+
+<closer>
+<signed>Roger E. Bilstein<lb/>
+University of Houston-Clear Lake</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bilstein, Roger. <title level="m">The American Aerospace Industry: From Workshop to Global Enterprise</title>. New York: Twayne/Simon
+and Schuster, 1996.</bibl> <bibl>Launius, Roger D., ed. "The Aerospace
+Industry in the West." <title level="j">Journal of the West</title> 36 (July 1997).</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

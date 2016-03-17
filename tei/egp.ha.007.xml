@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cervantez, Pedro (1914-1987)</title>
+<title level="m" type="sub"></title>
+<author>Michael R. Grauer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grauer, Michael R.">Michael R. Grauer</author>. <title level="a">"Cervantez, Pedro (1914-1987)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">353</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CERVANTEZ, PEDRO (1914-1987)</head>
+
+<p>Born at Wilcox, Arizona, on May 19, 1914, artist
+Pedro Lopez Cervantez took his father's last
+name&#8211;instead of his mother's, as usually dictated
+by Hispanic tradition&#8211;because he had
+been told of an earlier Cervantes who had
+been a great man. His mother was a Mexican
+Indian whose parents ran a pottery at Durango,
+Mexico, before the Mexican Revolution.
+Cervantez's father, of Spanish descent,
+worked for the Santa Fe Railroad at Texico,
+New Mexico. Pedro Cervantez lived most of
+his life in Texico and Clovis, New Mexico, and
+across the Texas border at Farwell. Most of his
+painting focused on life in the Plains of eastern
+New Mexico, combining a Regionalist
+style with a hybrid surrealism.</p>
+
+<p>Cervantez began painting in oils about
+1930. He assisted artist Russell Vernon Hunter
+(1900–1955) on Hunter's mural <title>The Last Frontier</title>
+(1934), a Public Works of Art Project for
+the DeBaca County Courthouse at Fort Sumner,
+New Mexico. Allegedly, Cervantez was
+disappointed in not receiving any credit for
+his work on the mural. Nevertheless, Hunter
+continued as his mentor.</p>
+
+<p>Later, Cervantez made easel paintings for
+the Works Progress Administration's Federal
+Art Project, exhibiting most of his New Deal
+productions at the Museum of Fine Arts at
+Santa Fe. In 1938 Cervantez's work was included
+in the exhibition "Masters of Popular
+Painting: Modern Primitives of Europe and
+America" at the Museum of Modern Art in
+New York. He was one of the first Hispanic
+artists in the United States to receive national
+attention.</p>
+
+<p>Cervantez enlisted in the U.S. Army in 1940
+and was stationed in Italy and Germany during
+World War II. Following the war he
+worked as a sign painter for the Coca Cola
+Bottling Company at Clovis for a number of
+years. He never regained his prewar recognition
+and never truly returned to easel painting,
+about which he felt some bitterness. He
+died at Clovis on July 3, 1987, after many years
+as a public school custodian. Ironically, some
+of his New Deal easel paintings hang at Melrose
+(New Mexico) High School. His paintings
+were featured in a recent exhibition, "<hi rend="italic">Sin
+Nombre</hi>: Hispana and Hispano Artists of the
+New Deal Era," at the Museum of International
+Folk Art in Santa Fe.</p>
+
+<closer>
+<signed>Michael R. Grauer<lb/>
+Panhandle-Plains Historical Museum</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Diggs, Annie (1848-1916)</title>
+<title level="m" type="sub"></title>
+<author>Joan Stone</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stone, Joan">Joan Stone</author>. <title level="a">"Diggs, Annie (1848-1916)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">327</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DIGGS, ANNIE (1848-1916)</head>
+
+<p>Annie LePorte Diggs played a prominent role
+as a Kansas-based journalist, orator, and political
+organizer for women's suffrage, the Farmers
+Alliance, the Populist (People's) Party, and
+many other causes. The thread that joined all
+the causes together was her quest for a more
+equitable distribution of wealth and power.</p>
+
+<p>Born in London, Ontario, on February 22,
+1848, and raised in New Jersey, Annie moved to
+Kansas in 1873. She soon married, bore three
+children, and found she needed employment
+to supplement the family income. She chose
+newspaper work, which threw her among all
+classes of people. Although she entered the
+political arena via temperance and religion, a
+trip to Boston in 1881 convinced her that the
+reforms she sought were more economic than
+moral. The Boston trip also marked the beginning
+of her pattern of leaving Kansas to research
+social issues, give speeches, and write
+articles for local and national publications,
+and then returning to Kansas to organize for
+major political campaigns.</p>
+
+<p>From the 1880s to 1912, when Kansas finally
+ratified the women's suffrage amendment, Annie
+was a leader in the suffrage struggle. For the
+Farmers Alliance she wrote and lectured on the
+themes of money, transportation, and land,
+and pushed for farmers and workers to form a
+national third party. Her hard work in the development
+of the Populist Party culminated in
+her appointment as Kansas State Librarian
+(1898-1902), the most important governmental
+office assigned to a Kansas woman by that
+date. Even after the Populist Party died, she
+remained committed to its principle of public
+ownership of public utilities and its mission of
+bringing justice to the dealings between owners
+and workers in the realm of industry. Annie
+Diggs died in Detroit on September 7, 1916.</p>
+
+<closer>
+<signed>Joan Stone<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clanton, O. Gene. <title level="m">Kansas Populism</title>. Lawrence: University
+Press of Kansas, 1969.</bibl> <bibl>Weddle, Connie Andes. "The Platform
+and the Pen: The Reform Activities of Annie Diggs."
+Master's thesis, Wichita State University, 1979.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

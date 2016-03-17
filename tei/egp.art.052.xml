@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rindisbacher, Peter (1806-1834)</title>
+<title level="m" type="sub"></title>
+<author>Ken Rogers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rogers, Ken">Ken Rogers</author>. <title level="a">"Rindisbacher, Peter (1806-1834)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">127</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RINDISBACHER, PETER (1806-1834)</head>
+
+<p>Peter Rindisbacher was born on April 12, 1806,
+in Berne, Switzerland. In the summer of his
+twelfth year he toured the Bernese Alps and
+studied art with Swiss miniature painter Jacob
+S. Weibel. Fifteen-year-old Peter began painting
+the Canadian West when his family arrived
+at Lord Selkirk's colony on the Red
+River, near present-day Winnipeg, Manitoba,
+in 1821, more than a decade before American
+artist George Catlin reached the upper Missouri
+River country.</p>
+
+<p>The trading post at the Red River settlement
+bartered with Assiniboine, Ojibwa, and
+Sioux peoples, all of whom are portrayed
+in Rindisbacher's detailed sketches and vivid
+watercolors. He was a skilled draftsman, and
+his paintings are well composed. His artwork
+provides an accurate record of the dress and
+daily life of the Native peoples such as a Sioux
+bow hunter on snowshoes pursuing a buffalo
+or a Chippewa family traveling by canoe. Rindisbacher
+was the first European American
+artist to capture life inside a tipi, in his <hi rend="italic">Scene
+in an Indian Tent</hi> (ca. 1824). His best-known
+work, <hi rend="italic">The Murder of David Tully and Family
+by the Sissatoons, a Sioux Tribe</hi> (ca. 1823.30),
+chronicles the dramatic deaths of former
+members of the settlement in 1823.</p>
+
+<p>After barely surviving at the Red River colony
+and following the destructive flood of
+1826, the Rindisbacher family made their way
+to Wisconsin, living there for three years before
+moving to St. Louis in 1829. During the
+next four years, a number of lithographs and
+engravings of Rindisbacher's work appeared
+in the <hi rend="italic">American Turf Register and Sporting
+Magazine</hi>, published in Baltimore. He died
+August 15, 1834, at the age of twenty-eight of
+unknown causes.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: 
+<ref n="egp.ea.007">Douglas, Thomas (Earl of Selkirk)</ref>.</p>
+
+
+<closer>
+<signed>Ken Rogers<lb/>
+Bismark Tribune</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Josephy, Alvin M., Jr. <hi rend="italic">The Artist Was a Young Man: The Life
+Story of Peter Rindisbacher</hi>. Fort Worth: Amon Carter Museum,
+1970.</bibl> <bibl>Nute, Grace Lee. "Peter Rindisbacher, Artist."
+<hi rend="italic">Minnesota History</hi> 14 (1933): 283–87.</bibl> <bibl>Vazulik, Johannes W.
+"Peter Rindisbacher's Red River Watercolors at the West
+Point Museum." <hi rend="italic">North Dakota History</hi> 64 (1997): 20–29.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

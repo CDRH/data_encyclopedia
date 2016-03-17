@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Frontier College</title>
+<title level="m" type="sub"></title>
+<author>James H. Morrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morrison, James H.">James H. Morrison</author>. <title level="a">"Frontier College."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">202</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FRONTIER COLLEGE</head>
+
+<p>Conceived in protest more than a century ago,
+Frontier College is Canada's oldest national
+adult literacy organization. At the dawn of the
+twentieth century the factories, mines, farms,
+and railways that were shaping Canada's future
+required an army of workers. Immigrants
+poured into the country, many often poor, uneducated,
+and illiterate. Alfred Fitzpatrick, a
+former Presbyterian minister from Pictou,
+Nova Scotia, decided to take literacy and the
+advantages of education to the workers. He
+recruited university students for his Canadian
+Reading Camp Association (later named Frontier
+College in 1919) and sent them to isolated
+locations to labor with the workers during the
+day and to teach them at night. They became
+known as laborer-teachers. Male laborer-teachers
+worked on steel gangs and section
+crews for the Canadian National Railway,
+while women laborer-teachers worked alongside
+Prairie women during the grain harvests.
+Whatever work they did, they brought with
+them literacy and, in some cases, social reform.</p>
+
+<p>After World War I Frontier College was authorized
+by the Canadian government to
+grant university degrees, making it Canada's
+only "national university." By the 1930s
+the degree-granting concept had been terminated,
+and laborer-teachers worked in Relief
+Camps for the unemployed and later, during
+World War II, on the Alaska Highway. By the
+1950s and 1960s, as sophisticated machinery
+reduced the need for manual labor, Frontier
+College turned to community development
+and projects with Canada's First Nations. In
+1977 Frontier College was recognized by the
+United Nations with the unesco prize for education
+and literacy. Beat the Street, a literacy
+program of street people working with street
+people, was begun in Regina and Winnipeg in
+the 1980s.</p>
+
+<p>Since 1987 Canadian university students
+calling themselves Frontier College associates
+have been working in Alberta, Saskatchewan,
+and Manitoba to address issues of literacy and
+poverty. The Student Centred Individualized
+Learning Programme (<hi rend="smallcaps">SCIL</hi>), developed by
+Frontier College, has allowed learners across
+the country to set up and monitor their own
+programs. Frontier College continues to respond
+to the challenge that founder Alfred
+Fitzpatrick made to all Canadians: to take education
+to those who do not have it, whoever
+and wherever they may be.</p>
+
+<closer>
+<signed>James H. Morrison<lb/>
+Saint Mary's University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Frontier College Papers, National Archives of Canada, Ottawa.
+Krotz, Larry, comp., with Erica Martin and Philip
+Fernandez. <hi rend="italic">Frontier College Letters: 100 Years of Teaching,
+Learning and Nation Building</hi>. Toronto: Frontier College
+Press, 1999.</bibl> <bibl>Morrison, James H. <hi rend="italic">Camps and Classrooms: A
+Pictorial History of Frontier College</hi>. Toronto: Frontier College
+Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

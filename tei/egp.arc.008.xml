@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Clay Construction</title>
+<title level="m" type="sub"></title>
+<author>David Murphy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Murphy, David">David Murphy</author>. <title level="a">"Clay Construction."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">71-72</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CLAY CONSTRUCTION</head>
+
+<p>Soils with clay content suitable for building
+purposes are found throughout the Great
+Plains. The most prolific use of these was in the
+industrial manufacture of fired brick, which
+flourished in countless brickyards around the
+region from the early years of European American
+settlement through the first decades of the
+twentieth century. The earthen construction
+described here, however, refers to materials
+used in traditional, preindustrial technologies.</p>
+
+<p>Four techniques predominated. Most common
+was sun-dried brick, in which clay was
+first worked into molds, later removed and
+allowed to dry in the sun, then laid up to form
+walls. A second was the puddled-clay wall,
+which was built up from large lifts of clay that
+were shaped after the clay had set. Rammedearth
+construction used puddled clay that was
+packed or stamped between a formwork. Numerous
+variations on these techniques are
+known, including the use of clay lumps and
+the incorporation of field stones into rammed
+walls. A fourth technology, wattle and daub,
+utilized a wooden framework&#8211;often of woven
+materials&#8211;in and over which puddled
+clays were packed to form a reinforced massive
+wall. Clays were also commonly used as
+plasters for walls, roofing membranes, finishes,
+and masonry mortars.</p>
+
+<p>The manner of processing the clay was similar
+in all cases. Varying quantities of clayey
+soil and water were mixed together by hand,
+animal power, or some mechanical device,
+fusing the soil particles and producing a dense
+composition ideal for building purposes.
+Other materials such as straw, grass, manure,
+and sand were often added to the mix to improve
+performance. The most common processing
+method was to mix the materials in a
+pit near the building site.</p>
+
+<p>Earthen building in the Great Plains occurred
+in multiple waves. The oldest involved
+wattle-and-daub walls constructed by Indigenous
+peoples in the Central and Southern
+Plains. The most pronounced of these were
+evident in square and early circular lodges
+built between 500 and 1,000 years ago.</p>
+
+<p>Initial European American expansion into
+the western and southwestern Plains was built
+upon the adoption of Hispanic adobe brick
+technology by fur traders. Their construction
+facilitated by imported Latino labor, these architectural
+forms often imitated the fortified
+Spanish presidio. The earliest examples were
+built by trader John Gantt and his competitor,
+the Bent, St. Vrain &amp; Company. Gantt's Fort
+Cass was built in 1834, while Bent's Fort followed
+closely; both were located along the upper
+Arkansas River. Bent's Fort was state of the
+art for the fortified trading post. It was a large
+presidio built by laborers from Taos; its form
+and construction influenced a number of later
+trading posts. By 1838 four more adobe forts
+had been built along the upper South Platte.
+Along the upper North Platte River, Forts
+Platte and John, both adobe-walled trading
+posts, were completed by 1841.</p>
+
+<p>Adobe construction spread farther with the
+adoption of the technique by the United States
+Army. Recommendations concerning the utility
+of adobe bricks in the West did not appear
+until 1848, coincidental with but unrelated to
+the adobes' first military use on the Plains in
+what became Nebraska. There their use was
+recommended by an old trader with experience
+in adobe construction, Andrew W. Sublette,
+then a captain under the command of Lt.
+Daniel P. Woodbury at the new Fort Kearny.
+Their first adobe construction was a large
+storehouse, completed in November 1848. In
+1849 Woodbury purchased the American Fur
+Company's adobe Fort John and renamed it
+Fort Laramie. By 1852 a number of new adobe
+buildings had been constructed at the post.
+Other forts were eventually constructed, in
+whole or in part, of adobe all over the region.</p>
+
+<p>The final waves of earthen construction
+appeared quite independent of the earlier
+ones. Foremost among the European builders
+were Black Sea Germans. During their threegeneration
+stay on the steppes of Russia they
+learned the local building methods, including
+the manufacture of <hi rend="italic">kohlsteine</hi>, or sun-dried
+bricks (called <hi rend="italic">batsa</hi> in South Dakota), puddled
+clay, and rammed-earth techniques. Earthen
+construction was introduced wherever Black
+Sea Germans settled, from Kansas to North
+Dakota. Mennonites in Marion County, Kansas,
+used both clay brick and rammed earth,
+while puddled clay, clay lumps, and rock-filled
+rammed earth were also used in the North and
+South Dakota settlements.</p>
+
+<p>Other major introductions were made by
+Czechs and Poles. The five-room Polish house
+constructed in 1882 by Mary Zwfka Roschynialski
+in Sherman County, Nebraska, was
+built of puddled clay. The Czech structures
+were located in South Dakota and Nebraska
+and were of sun-dried brick, rammed earth,
+and puddled clay (hlin&#234;n&#253;). Other immigrants
+also used clay technologies, including Germans
+and Danes. In North Dakota Ukrainians
+introduced post-and-earth construction, a
+form similar to wattle and daub. This technology
+included wattle&#8211;or lathe&#8211;between
+earth-fast posts, with packed clay between the
+lathes in a kind of rammed-earth fashion, before
+finishing with clay plaster both inside
+and out.</p>
+
+<p>The last introduction of earthen building
+emanated again from the Hispanic Southwest,
+with the early-twentieth-century immigration
+of Latinos from Mexico, New Mexico, and
+Texas to the west-central High Plains of Nebraska
+and Colorado. Their first adobe dwellings
+were of the familiar flat-roofed variety,
+with projecting vigas, while later houses were
+built with the gabled roofs common to the
+host culture. Large hoppers rather than pits
+were used to mix the clay.</p>
+
+<p>emanated again from the Hispanic Southwest,
+with the early-twentieth-century immigration
+of Latinos from Mexico, New Mexico, and
+Texas to the west-central High Plains of Nebraska
+and Colorado. Their first adobe dwellings
+were of the familiar flat-roofed variety,
+with projecting vigas, while later houses were
+built with the gabled roofs common to the
+host culture. Large hoppers rather than pits
+were used to mix the clay.</p>
+
+<closer>
+<signed>David Murphy<lb/>
+Nebraska State Historical Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Koop, Michael H., and Stephen Ludwig. <title level="m">German-Russian Folk Architecture in Southeastern South Dakota</title>. Vermillion:
+South Dakota State Historical Preservation Center,
+1984.</bibl> <bibl>Murphy, David. "Building in Clay on the Central
+Plains." In <title level="m">Perspectives in Vernacular Architecture</title>, edited
+by Thomas Carter and Bernard L. Herman. Columbia:
+University of Missouri Press for the Vernacular Architecture
+Forum, 1989: 3: 74–85.</bibl> <bibl>Valdez, Anthony Arnold. "Hispanic
+Vernacular Architecture and Settlement Pattern of
+the Culebra River Villages of Southern Colorado (1850–
+1950)." Master's thesis, University of New Mexico, Albuquerque,
+1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

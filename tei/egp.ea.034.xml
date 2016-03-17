@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Simpson, George (1787-1860)</title>
+<title level="m" type="sub"></title>
+<author>John L. Dietz</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Simpson, George (1787-1860)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">247</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SIMPSON, GEORGE (1787-1860)</head>
+
+<p>Sir George Simpson, in his role as governor
+of the Hudson's Bay Company territories in
+North America from 1826 to 1860, had a major
+impact on the development of the Canadian
+Prairies. He visited the region frequently, inspecting
+posts, meeting with the chief factors
+who supervised each district, organizing the
+government of the Red River Settlement in
+Assiniboia (which the Hudson's Bay Company
+had originally granted to the Earl of Selkirk in
+1812, then reacquired in 1836), or simply passing
+through rapidly, as he did on his journey
+to the Columbia River in 1824–25.</p>
+
+<p>Simpson was suited for a life spent in remote
+places (although after 1833, following his
+marriage to his cousin Frances Ramsey Simpson,
+he was based at Lachine, near Montreal),
+having been born in distant Rosshire, Scotland,
+in 1787. As a young man he clerked for a
+London firm that did business in the West
+Indies. He must have impressed, because in
+1820 the Hudson's Bay Company sent him to
+Canada as a possible replacement for Governor
+William Williams, who seemed likely to
+be arrested in the conflict with the North West
+Company. After the two companies amalgamated
+in 1821, Simpson was appointed governor
+of the Northern Department. Five years
+later he was put in charge of the entire North
+American operations.</p>
+
+<p>Governor Simpson was an autocratic administrator
+who prioritized economy and efficiency.
+Immediately following the 1821 merger
+he inaugurated a series of reforms akin to
+modern-day corporate restructuring. He radically
+reduced the number of employees, closed
+unproductive posts, and overhauled the transportation
+system. He cut back on gift-giving
+and the provision of credit to the Native trappers
+and curtailed the use of alcohol as a trade
+inducement, ostensibly for the Native people's
+own good but also to economize. And, with
+considerable insight, he worked to put the fur
+trade on a sustained-yield basis: Native trappers
+were encouraged to rotate their trapping
+grounds, to refrain from taking cub beaver,
+and to trap different animals in alternating
+seasons to allow populations to recover. Recognizing
+that it would be difficult to force
+the Native peoples to adopt such alien conservation
+practices, Simpson also periodically
+opened and closed trading posts to draw the
+Native people to different trapping grounds,
+thus achieving the same goals. In the region
+between the South Saskatchewan and Missouri
+Rivers, however, where competition with
+American traders was intense, he suspended
+conservation measures and set out to create a
+"fur desert" that would keep Americans out.
+Simpson's management systems worked: from
+1825 to 1860 Hudson's Bay Company stockholders
+never earned dividends of less than
+10 percent a year.</p>
+
+<p>Simpson was knighted in 1841 for his service
+to the Hudson's Bay Company and his
+contributions to exploration. He died of apoplexy
+in Lachine on September 7, 1860, leaving
+behind a considerable fortune, as well as five
+legitimate and, from his "country marriages,"
+five illegitimate children.</p>
+
+<p><hi rend="italic">See also</hi>: <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.029">Hudson's Bay Company</ref>.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ray, Arthur J. <title level="m">Indians in the Fur Trade: Their Role as Trappers, Hunters, and Middlemen in the Lands Southwest of Hudson Bay, 1660–1870</title>. Toronto: University of Toronto
+Press, 1974.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

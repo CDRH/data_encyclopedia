@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Vigilantes</title>
+<title level="m" type="sub"></title>
+<author>Clare V. McKanna Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McKanna, Jr., Clare V.">Clare V. McKanna, Jr.</author>. <title level="a">"Vigilantes."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">464-465</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VIGILANTES</head>
+
+<p>Vigilantes are individuals who take the law
+into their own hands. Vigilante movements
+have often been viewed in a positive light, and
+apologists suggest that vigilance committees
+were necessary because duly constituted legal
+authorities failed to maintain order and punish
+alleged criminals. This assumption has
+never been proven or adequately explored.</p>
+
+<p>Vigilantes, often called stranglers, slickers,
+white caps, night riders, lynch mobs, and a
+variety of other names, usually worked as a
+group at night (sometimes hooded) to assure
+anonymity, to bolster their courage, to reduce
+their personal accountability, and to avoid
+prosecution. They formed committees, and in
+order to solicit legitimacy for their actions
+they issued proclamations that suggested that
+they had to act to "preserve" law and order.
+Usually vigilantism occurred when a group of
+citizens believed that the law either was not
+working or was too slow in prosecuting alleged
+criminals. Under such conditions local
+members of the community took action to
+remedy the situation.</p>
+
+<p>San Francisco vigilante movements in 1851
+and 1856 were probably the best-known examples
+of such extralegal activity. Their methods
+included organization of community leaders,
+focus on a particular "problem" in society, the
+quick apprehension of alleged criminals, and
+a "speedy trial" followed by punishment such
+as flogging or, more commonly, death by
+hanging. Vigilantism spread quickly across the
+West. Vigilantes who were little better than
+lynch mobs took retribution against anyone
+considered to be a threat to Great Plains society.
+Although the Canadian Plains seldom
+experienced such violent activities, several examples
+of vigilante activity took place from
+1867 to 1897 in the Kootenay River region
+in British Columbia that borders western
+Montana.</p>
+
+<p>Walter van Tilburg Clark in <title>The Ox-Bow Incident</title> (1940) correctly perceived that this
+distinctly American form of violence appealed
+to the local community and that the people
+involved in the activity assumed that their actions
+were necessary for their community's
+welfare. Clark also provided the components
+for the lynch mob action: an alleged crime
+and criminal, a mob leader, an inflammatory
+speech, liberal use of alcohol, a rope, and, finally,
+a tree in town or in a nearby cottonwood
+grove.</p>
+
+<p>Whether the victim was Sheriff Henry Plummer
+in Bannack, Montana, Cattle Kate in Wyoming,
+Frank Blackhawk (Standing Rock
+Sioux) in Williamsport, North Dakota, William
+Brown in Omaha, Nebraska, or some
+nameless Indian, Chinese, or Hispanic victim
+on a lonely country road, Great Plains vigilantism
+or lynch mob action was swift and
+usually fatal. Richard Maxwell Brown provides
+the following nineteenth-century statistics
+for vigilante killings in Great Plains states:
+Texas, 140; Montana, 101; Wyoming, 31; Colorado,
+23; Nebraska, 21; Kansas, 18; South Dakota,
+10; Oklahoma, 2; and North Dakota, 0.
+For comparative purposes, California, the
+birthplace of western vigilantism, had 109 victims.
+However, these statistics are misleading,
+since they do not include lynch mob killings.</p>
+
+<p>Some historians claim that vigilantism is
+not the same as lynching, but David A. Johnson
+suggests that the distinction between organized
+vigilance committees and ephemeral
+lynch parties is a blurred one. Johnson also
+notes that in the 1850s the term mob was seldom
+used to describe vigilantism, but a decade
+later mob or lynch mob had become the
+predominant terms to describe this type of
+violence. If one adds lynch mob victims to
+vigilante killings, the resulting Great Plains totals
+would be Texas, 475; Montana, 122; Oklahoma,
+98; Wyoming, 65; Colorado, 41; Nebraska,
+38; Kansas, 40; South Dakota, 23; and
+North Dakota, 10. Again by comparison, in
+California vigilantes and mobs lynched at
+least 380 victims.</p>
+
+<p>Regardless of how one chooses to define
+"vigilante," it remains a word that stigmatizes
+those who took the law into their own hands.
+Historically, it has been convenient to modify
+what has been called the "shared memory" of a
+local community in order to "fit the facts,"
+such as in the mysterious hanging of Barrett
+Scott, a convicted embezzler, on January 19,
+1895, at an abandoned farmhouse in northern
+Nebraska and the attempt to avoid detection
+by dropping the body in the Niobrara River.
+Unfortunately for local taxpayers, Scott was
+not given time to return the money. A jury
+failed to convict any of the identified vigilantes,
+who presumably returned to their community
+"vindicated" by their deadly actions.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.026">Frontier Violence</ref>.</p>
+
+<closer>
+<signed>Clare V. McKanna Jr.<lb/>
+San Diego State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, Richard Maxwell. <title level="m">Strain of Violence: Historical Studies of American Violence and Vigilantism</title>. New York:
+Oxford University Press, 1975.</bibl> <bibl>Hewitt, James W. "The Fatal
+Fall of Barrett Scott: Vigilantes on the Niobrara." <title level="j">Great Plains Quarterly</title> 12 (1992): 107–20.</bibl> <bibl>Johnson, David A. "Vigilance
+and the Law: The Moral Authority of Popular Justice
+in the Far West." <title level="j">American Quarterly</title> 33 (1981): 558–86.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

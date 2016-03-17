@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.law.047 SYSTEM "egp.law.047.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Texas Rangers</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Texas Rangers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">462-463</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEXAS RANGERS</head>
+
+<figure n="egp.law.047" rend="granted">
+<figDesc>Texas Rangers, between 1890 and 1900</figDesc>
+</figure>
+
+<p>The Texas Rangers are the oldest state law
+enforcement agency in the United States.
+Throughout their storied history they have
+gone through several transformations and
+have performed an array of duties. A symbol
+of the American West and immortalized
+in film and print, the Texas Rangers have a
+worldwide reputation and are mentioned in
+the same breath with elite law enforcement
+agencies such as the Royal Canadian Mounted
+Police and Scotland Yard.</p>
+
+<p>The origins of the Texas Rangers date back
+to 1823, when Stephen F. Austin appointed ten
+frontiersmen to defend the nascent Texas settlements
+from Indian attacks. These early
+ranger companies operated as loosely organized
+and irregular units until 1835, when a
+more permanent body was created. When the
+Texas Revolution broke out in 1836, the rangers
+served in a limited capacity as scouts, couriers,
+and escorts. Several rangers died defending
+the Alamo.</p>
+
+<p>The Texas Rangers played an important role
+in defending the frontier under the Lone Star
+flag of the Republic of Texas. Under the leadership
+of Capt. John "Jack" Coffee Hays, the
+rangers became an experienced and feared
+fighting unit. Their effective use of the Colt
+revolver helped popularize the weapon. During
+the Mexican War (1846-48), Hays's rangers
+served as scouts, spies, and cavalrymen under
+generals Zachary Taylor and Winfield
+Scott. Mounted and heavily armed, the Texas
+Rangers earned a reputation as fiercely independent
+fighters. Because of their ruthless
+pursuit of Mexican guerrillas and their rough
+treatment of citizens, their Mexican counterparts
+labeled them "los diablos tejanos" (the
+Texas devils).</p>
+
+<p>From the end of the Mexican War to 1874,
+the rangers saw little action. The U.S. Army
+guarded the Texas frontier, leaving the rangers
+with few responsibilities. They reappeared in
+1874, when the state legislature created several
+ranger companies to deal with Indian attacks
+in West Texas, Mexican bandits along the Rio
+Grande, and the growing number of outlaws
+and desperadoes that infested Texas. In a military
+role, they assisted the U.S. Army in crushing
+Comanche and Kiowa resistance during
+the 1870s. As lawmen, the Texas Rangers traveled
+thousands of miles while tracking criminals.
+They gained fame by restoring peace in
+civil conflicts such as the Sutton-Taylor Feud
+and by capturing Great Plains outlaws such as
+gunfighter John Wesley Hardin and train robber
+Sam Bass.</p>
+
+<p>With the end of the Indian wars and the general
+establishment of law and order, the duties
+and responsibilities of the rangers changed. In
+the 1910s and 1920s rangers guarded the Mexico-
+Texas border from Mexican revolutionaries,
+enforced prohibition laws, and policed oil
+boomtowns. In 1935 the Texas Rangers became
+a professional law enforcement unit when they
+were incorporated, along with the state highway
+patrol, into the newly created Texas Department
+of Public Safety (<hi rend="smallcaps">DPS</hi>). Since then
+they have been the investigative body of the
+dps. Modern-day rangers travel by car, plane,
+boat, helicopter, and only occasionally by
+horse. They still do not wear a uniform; the
+ranger badge is the only common accouterment
+worn by all rangers. Although their
+numbers remain small (only 106 rangers were
+on duty in 1997), the Texas Rangers continue to
+be the elite of Texas law enforcement.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gillett, James B. <title level="m">Six Years with the Texas Rangers, 1875– 1881</title>. New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1925.</bibl> <bibl>Samora,
+Julian, Joe Bernal, and Albert Pe&#241;a. <title level="m">Gunpowder Justice: A Reassessment of the Texas Rangers</title>. Notre Dame <hi rend="smallcaps">IN</hi>: University
+of Notre Dame Press, 1979.</bibl> <bibl>Webb, Walter Prescott.
+<hi rend="italic">The Texas Rangers: A Century of Frontier Defense</hi>. Austin:
+University of Texas Press, 1965.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

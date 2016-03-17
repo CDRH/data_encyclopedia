@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sand Creek Massacre</title>
+<title level="m" type="sub"></title>
+<author>Henrietta Mann</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mann, Henrietta">Henrietta Mann</author>. <title level="a">"Sand Creek Massacre."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">835</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SAND CREEK MASSACRE</head>
+<figure n="egp.war.039" rend="granted">
+<figDesc>"Depiction of the Sand Creek Massacre by Cheyenne eyewitness and artist Howling Wolf (c. 1875)"</figDesc>
+</figure> 
+
+<p>Southern Cheyennes and Arapahos will forever
+remember the Sand Creek Massacre,
+which occurred on November 29, 1864, when
+Col. John M. Chivington and his men of the
+Colorado Third Volunteer Regiment attacked
+their camp. Cheyennes called this ordained
+Methodist minister a "holy-speaking white
+man," yet his statement "Damn any man who
+is in sympathy with an Indian" expressed his
+antipathy toward them.</p>
+
+<p>Two opposing forces caused the massacre.
+On one hand were the men of the volunteer
+Third Colorado Cavalry, known as the "Bloodless
+Third" because their 100-day enlistment
+had nearly expired without action against Native
+Americans and led by Colonel Chivington.
+On the other were the Cheyenne Dog Soldiers,
+who were opposed to the peaceful goals of
+Black Kettle and who had been making raids
+on white settlements&#8211;raids that were traced to
+some warriors of Black Kettle's band. These
+raids, and blatant land greed thwarted by the
+failure to acquire mineral-rich Cheyenne and
+Arapaho lands in treaty conferences in 1851 and
+1861, led Gov. John Evans to order Chivington's
+command to attack.</p>
+
+<p>Black Kettle's mostly peaceful band reported
+to Fort Lyon as "friendlies" and were told by
+the sympathetic commanding officer, Maj. Edward
+Wynkoop, that they should camp near
+Fort Lyon under military protection. Vister,
+a Cheyenne woman, described their sense of
+safety as they settled in along Sand Creek on
+the night before the attack. At dawn they were
+surprised by the attack, in which Chivington
+ordered his men to take no prisoners. Vister
+recalled that a male relative brought her a
+pony, striking it on its flanks to flee. Instead,
+she turned to find her younger brother, whom
+she pulled up behind her as bullets whizzed
+around them. One bullet struck her in the leg
+as they raced away from the besieged camp that
+flew a U.S. flag and a white flag on a lodgepole.</p>
+
+<p>Vister's wound healed, but the trauma ran
+deep in her spirit. Cheyennes and Arapahos
+carry the memory of this massacre. In his testimony
+before a congressional committee, interpreter
+John Smith described the atrocities: "All
+manner of depredations were inflicted on their
+persons; they were scalped, their brains knocked
+out; the men used their knives, ripped open
+women, clubbed little children, knocked them
+in the head with their guns, beat their brains
+out, mutilated their bodies in every sense of the
+word."</p>
+
+<p>Upon their return to Denver, Chivington
+and his men displayed scalps and other body
+parts from their victims to a cheering crowd in
+the Denver opera house. Reaction in the East
+could not have been more opposite&#8211;shock
+and outrage greeted the news, especially when
+details of the large number of women and children
+killed, as well as the way in which they
+died, became public knowledge. The military
+held an investigation and Congress held two,
+which transcended their original purpose and
+became investigations of all U.S. Indian policy.
+Congress condemned Chivington and his
+men, but as their enlistments had run out, they
+were no longer under military jurisdiction.</p>
+
+<p>In response to the massacre, some Cheyennes
+and their allies the Arapahos and Lakota
+Sioux initiated raids all over the Northern
+Plains, particularly along the Platte River. It
+was the start of roughly ten years of war in the
+Northern Plains.</p>
+
+<p>On October 14, 1865, U.S. government commissioners
+negotiated the Treaty of the Little
+Arkansas River, which read in part, "The
+United States being desirous to express its
+condemnation of, and, as far as may be, repudiate
+the gross and wanton outrages perpetrated
+against certain bands of Cheyenne and
+Arrapahoe Indians, on the twenty-ninth day
+of November, <hi rend="smallcaps">A.D.</hi> 1864, at Sand Creek, in Colorado
+Territory, while the said Indians were at
+peace with the United States, and under its
+flag, whose protection they had by lawful authority
+been promised and induced to seek,
+and the Government being desirous to make
+some suitable reparation for the injuries then
+done, will grant 320 acres of land by patent,"
+as well as individual payments for property
+lost to survivors. This promise has not yet
+been kept.</p>
+
+<p>In 1996 the General Conference of the
+United Methodist Church adopted a resolution
+apologizing "for the atrocities committed
+at Sand Creek, Colorado, by one of their own
+clergy members." They also offered to "extend
+to all Cheyennes and Arapahos a hand of reconciliation,
+and ask forgiveness for the death
+of over 200 mostly women and children."</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.015">Black Kettle</ref>.</p>
+
+<closer>
+<signed>Henrietta Mann<lb/>
+Montana State University-Bozeman</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hoig, Stan. <title level="m">The Sand Creek Massacre</title>. Norman: University
+of Oklahoma Press, 1961.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

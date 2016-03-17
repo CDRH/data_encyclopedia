@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Storz, Todd (1924-1964)</title>
+<title level="m" type="sub"></title>
+<author>Richard W. Fatherley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fatherley, Richard W.">Richard W. Fatherley</author>. <title level="a">"Storz, Todd (1924-1964)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">522</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STORZ, TODD (1924-1964)</head>
+
+<p>Omaha, Nebraska, radio broadcasting entrepreneur
+Robert Todd Storz was described in
+1956 by <title level="j">Time</title> magazine as the "fastest rising
+figure in U.S. radio." His Mid-Continent
+Broadcasting Company and its daytime-only
+kowh ruled Omaha's airwaves from 1950
+through 1957 with controversial outside stunts
+and station promotions, listen-to-win contests
+and games, popular music, razzle-dazzle
+announcers, and sensational sounding news
+broadcasts that offered listeners a weekly cash
+award for the best news tip. Under Storz's direct
+supervision the company spawned similar
+independent programming success stories
+at six other radio stations acquired by the
+company from 1953 through 1960, creating
+one of the most innovative and profitable privately
+held nonnetwork radio groups in the
+history of post-World War II broadcasting.</p>
+
+<p>Born in Omaha to Robert Herman Storz
+and Mildred Todd Storz on May 8, 1924, Storz
+developed an early interest in radio and built
+a cigar-box crystal set at the age of eight. During
+his early teens he was a five-meter "bootlegger,"
+transmitting without a license, and
+by his sixteenth year he was a licensed amateur
+radio operator. He attended Omaha public
+schools, leaving that city's Central High
+School in 1940 to complete his secondary education
+at the prestigious Choate School in
+Wallingford, Connecticut. After graduating in
+1942 he attended the University of Nebraska
+for one year. He enlisted in the United States
+Army and passed specialized Signal Corps
+cryptography exams with the highest score,
+becoming the youngest warrant officer in the
+service.</p>
+
+<p>Following World War II Storz took a
+twelve-week nbc-sponsored course in radio at
+Northwestern University at Evanston, Illinois,
+and worked at several radio stations as an announcer,
+salesman, and copywriter. In 1947 he
+was employed at <hi rend="smallcaps">KBON</hi> in Omaha, hosting its
+<title>1490 Swing Club</title> program. In 1949 Todd and his
+father purchased <hi rend="smallcaps">KOWH</hi> from the <title>Omaha World Herald</title> for $75,000. Todd, age twentyfive,
+became <hi rend="smallcaps">KOWH</hi> general manager and vice
+president of the new Mid-Continent Broadcasting
+Company. His father, fifty, was the
+company's president. By 1951 <hi rend="smallcaps">KOWH</hi> had become
+the nation's top-rated independent radio
+station.</p>
+
+<p>In 1957 the company changed its name to the
+Storz Broadcasting Company and sold <hi rend="smallcaps">KOWH</hi>
+to William F. Buckley Jr.'s National Weekly,
+Inc., for $822,500, an astonishing price for a
+500-watt daytime-only radio station. Meanwhile,
+Storz had acquired am radio stations in
+New Orleans, Kansas City, Minneapolis–St.
+Paul, Miami, Oklahoma City, and St. Louis.
+Storz was president of the highly profitable
+company; his father was its chairman of the
+board. Storz originated the idea of Top 40 music
+programming with the purchase in 1953 of
+<hi rend="smallcaps">WTIX</hi> in New Orleans.</p>
+
+<p>In 1957 declining network radio revenues
+prompted <hi rend="smallcaps">ABC</hi> to recruit several Storz top
+management figures. As consultants, they recommended
+new programming at <hi rend="smallcaps">ABC</hi> Radio,
+including network news and the Top 40 music
+format at several of its owned and operated
+radio stations and many of its affiliates.</p>
+
+<p>On April 13, 1964, Todd Storz died from an
+apparent stroke at his home in Miami Beach,
+Florida. In 1966 Robert H. Storz returned the
+company's home office operations to Omaha
+from Miami Beach. Beginning in 1978 the Storz
+stations were sold separately, the last in 1985,
+bringing to a close an important chapter in
+American radio history.</p>
+
+<closer>
+<signed>Richard W. Fatherley<lb/>
+Kansas City, Kansas</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

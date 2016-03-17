@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Opera</title>
+<title level="m" type="sub"></title>
+<author>H. Bruce Lobaugh</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lobaugh, H. Bruce">H. Bruce Lobaugh</author>. <title level="a">"Opera."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">545</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OPERA</head>
+
+<p>Professional opera in the Great Plains began
+in Denver in 1864 and then was established in
+Lawrence, Kansas (1869), Kansas City, Missouri
+(1870), Lincoln, Nebraska (1874), Fort
+Worth, Texas (1878), Winnipeg, Manitoba
+(1883), Huron, South Dakota (1885), and various
+other locations. Its appearance depended
+on the size and wealth of the community
+and/or the arrival of the railroad. It was presented
+largely by touring companies such as
+those of the soprano Emma Abbott and the
+British impresario James Mapleson. Amateur
+local companies specialized in lighter opera.
+The abbreviated productions of the day often
+had extraneous selections introduced into
+them. In the United States, each Plains state
+boasted as many as several hundred "opera
+houses," but operas were performed only in a
+small percentage of them.</p>
+
+<p>Interest in opera had waned by the turn of
+the century, but the Metropolitan Opera of
+New York appeared at Omaha in 1890 and intermittently
+elsewhere in the region through
+the 1950s. After the turn of the century, touring
+companies declined when economic conditions
+worked against their success. Local societies
+continued, one even presenting Verdi's
+<hi rend="italic">A&#239;da</hi> in Regina in 1932.</p>
+
+<p>Through the 1940s, 1950s, and 1960s, permanent
+professional opera companies with
+seasons of varying lengths were formed. They
+now number nearly ten, the more impressive
+ones being those in Edmonton, Tulsa, and
+Kansas City, Missouri. More than twenty universities
+and colleges of the region maintain
+opera activities of varying degrees of intensity
+and scope. Outstanding singers from the region
+include John Vickers, tenor, and Samuel
+Ramey, bass. The career of White Eagle, tenor,
+a Native American from South Dakota who
+trained in opera in San Francisco, never fully
+developed before his illness and death in 1995.
+Opera plots set in the region include Charles
+Wakefield Cadman's <title>Shanewis</title> (1918) as well as
+Libby Larsen's <title>Eric Hermannson's Soul</title> (1998),
+based on a story by Willa Cather.</p>
+
+<closer>
+<signed>H. Bruce Lobaugh<lb/>
+Omaha, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jennings, Harlan F. "Grand Opera in Kansas in the 1880's."
+Ph.D. diss., University of Cincinnati, 1978.</bibl> <bibl><title level="m">Musical America International Directory of the Performing Arts</title>. Hightstown
+<hi rend="smallcaps">NJ</hi>: Primedia Information, 1999.</bibl> <bibl>Sadie, Stanley, ed.
+<title level="m">The New Grove Dictionary of Opera</title>. London: Macmillan
+Publishing Company, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

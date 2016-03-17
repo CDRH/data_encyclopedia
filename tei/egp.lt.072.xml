@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.072">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stafford, William (1914-1993)</title>
+<title level="m" type="sub"></title>
+<author>Vern Rutsala</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.072</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Rutsala, Vern">Vern Rutsala</author>. <title level="a">"Stafford, William (1914-1993)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">493</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STAFFORD, WILLIAM (1914-1993)</head>
+
+<p>Although William Stafford lived most of his
+adult life in Oregon, he drew heavily on memories
+of his early days in Kansas for his poetry.
+Born in Hutchinson, Kansas, on January 17,
+1914, Stafford received both his bachelor's and
+master's degrees from the University of Kansas
+and later earned his doctorate at the University
+of Iowa. Following World War II, during
+which he was a conscientious objector, Stafford
+began his teaching career at Lewis and
+Clark College, from which he retired in 1979.
+He died in Lake Oswego, Oregon, on August
+28, 1993.</p>
+
+<p>Though he was widely published in magazines,
+his first collection, <title level="m">West of Your City</title>, did
+not appear until 1960. It was followed two
+years later by <title level="m">Traveling through the Dark</title>,
+which received the National Book Award.
+Other awards include the Shelley Memorial
+Prize, a Guggenheim Fellowship, a senior fellowship
+from the National Endowment for
+the Arts, and an appointment as poetry consultant
+to the Library of Congress.</p>
+
+<p>A master of the short lyric, Stafford wrote
+poetry that was deceptively quiet and often
+focused on natural settings but that frequently
+contained an implicit criticism of the artifices
+of urban life. There is a liveliness of imagery
+and rhythm throughout his work that shows
+his keen-eyed pleasure in invention. Very active
+as a public reader of his poetry, he also
+took part in many writers conferences and
+workshops throughout his career. His prose&#8211;
+essays, reviews, and interviews&#8211;was collected
+in three volumes. Always responsive to small
+magazines and presses, he published some
+sixty collections and chapbooks over the years.</p>
+
+<closer>
+<signed>Vern Rutsala<lb/>
+Lewis and Clark College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Holden, Jonathan. <title level="m">The Mark to Turn: A Reading of William Stafford's Poetry</title>. Lawrence: University Press of Kansas,
+1976.</bibl> <bibl>Stitt, Peter. <title level="m">The World's Hieroglyphic Beauty: Five American Poets</title>. Athens: University of Georgia Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

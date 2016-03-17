@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Campbell, Maria (b. 1940)</title>
+<title level="m" type="sub"></title>
+<author>Jeanne Perreault</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Perreault, Jeanne">Jeanne Perreault</author>. <title level="a">"Campbell, Maria (b. 1940)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">475</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CAMPBELL, MARIA (b. 1940)</head>
+<figure n="egp.lt.007" rend="granted" type="noclick">
+<figDesc>Photograph of Maria Campbell</figDesc>
+</figure>
+
+<p>M&#233;tis author and activist Maria Campbell is
+best known for her remarkable autobiography,
+<title level="m">Halfbreed</title> (1973), the first document of its
+kind in Canada. In it Campbell describes her
+early life in a northern Saskatchewan M&#233;tis
+trapping community in the 1940s (she was
+born at Park Valley in April 1940), the support
+of her beloved grandmother Cheechum, and
+the gradual destruction of her family and
+community by racism, poverty, and alcohol.
+Left to care for her seven younger siblings after
+her mother's death, Campbell quit school
+and married at fifteen. <title level="m">Halfbreed</title> tracks the
+young Maria's struggle through alcohol, drug
+addiction, and prostitution and, finally, her
+healing return to the traditions of her Cree
+heritage.</p>
+
+<p>Campbell's collaborative theatrical work,
+Jessica, based on <title level="m">Halfbreed</title>, was first performed
+in Toronto by Theatre Passe Muraille
+in 1981. A description of the troubled process
+of the play's creation was later published with
+Linda Griffiths under the title <title level="m">The Book of Jessica: A Theatrical Transformation</title> (1989).</p>
+
+<p>Campbell's recent writing has been for children
+and includes informational illustrated
+works on Plains Indians and M&#233;tis heritage.
+An illustrated collection of narratives, or "told
+to" stories, from old men of northern Saskatchewan
+M&#233;tis communities, <title level="m">Stories of the Road Allowance People</title>, appeared in 1995.
+Campbell has helped establish emergency
+shelters for women and community theater
+groups, and she has encouraged First Nations
+writers. She has been writer in residence at
+several universities and in 1999 was teaching
+creative writing at the University of Saskatchewan.
+Campbell lives on the land homesteaded
+by Gabriel Dumont, commander of the M&#233;tis
+forces in the North-West Rebellion of 1885.</p>
+
+<closer>
+<signed>Jeanne Perreault<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bataille, Gretchen M., and Kathleen Mullen Sands. <title level="m">American Indian Women: Telling Their Lives</title>. Lincoln: University
+of Nebraska Press, 1984: 113–26.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

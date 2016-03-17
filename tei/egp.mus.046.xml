@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trudell, John (b. 1946)</title>
+<title level="m" type="sub"></title>
+<author>Akim D. Reinhardt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reinhardt, Akim D.">Akim D. Reinhardt</author>. <title level="a">"Trudell, John (b. 1946)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">548-549</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRUDELL, JOHN (b. 1946)</head>
+<figure n="egp.mus.046" rend="granted">
+<figDesc>Group portrait with John Trudell, on left. (newtopiamagazine.files.wordpress.com)</figDesc>
+</figure>     
+
+<p>A Santee Dakota, John Trudell was born in
+Omaha, Nebraska, on February 15, 1946, and
+raised on the Santee Sioux Reservation. Initially,
+he achieved national notoriety for his
+political activism on behalf of Native Americans.
+He was a leader of the Indians of All
+Tribes' occupation of Alcatraz in 1969, and in
+that capacity he hosted a radio program in
+1970, <title>Radio Free Alcatraz</title>, that was broadcast
+in Berkeley, Los Angeles, and New York City.
+From 1973 to 1979 he served as the national
+chairman of the American Indian Movement
+(<hi rend="smallcaps">AIM</hi>). After the fire-bombing death of his
+wife, mother-in-law, and three daughters at
+their home on the Duck Valley Reservation in
+Nevada on February 11, 1979, Trudell began
+moving away from direct political action and
+devoted more of his time to artistic and intellectual
+endeavors.</p>
+
+<p>In 1981 he wrote his first book, <title level="m">Living in Reality</title>.
+In 1985 he formed the Graffiti Band with
+Jesse Ed Davis, a prolific studio guitarist from
+Oklahoma City who was of Seminole and Kiowa
+descent. Together they wedded Trudell's poetry,
+which ranged from political and social commentary
+to love poems, with Davis's unique
+musical style. They released <title><hi rend="smallcaps">AKA</hi> Graffiti Man</title>
+and <title>Heart Jump Bouquet</title> before Davis's death in
+1988. <title><hi rend="smallcaps">AKA</hi></title> was subsequently rereleased on a major
+label (Rykodisk) in 1992 and was executively
+produced by Jackson Browne. It featured the
+original tapes of Davis and Trudell, which were
+remastered and fleshed out with additional
+musicians. Guest appearances were made by
+Browne and Kris Kristofferson. <title><hi rend="smallcaps">AKA</hi></title> received
+high critical acclaim (Bob Dylan called it the
+best album of the year) and was followed by
+<title>Johnny Damas and Me</title> (1995).</p>
+
+<p>Trudell has also acted in several feature
+films, including <title>Thunderheart</title> (1992), <title>On Deadly Ground</title> (1994), and <title>Smoke Signals</title>
+(1998). In 1994 he published his second book,
+<title level="m">Stickman</title>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.005">American Indian Movement</ref>.</p>
+
+<closer>
+<signed>Akim D. Reinhardt<lb/>
+Towson University</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

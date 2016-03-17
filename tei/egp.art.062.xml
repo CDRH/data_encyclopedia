@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wimar, Carl (1828-1862)</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.062</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Wimar, Carl (1828-1862)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">131-132</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WIMAR, CARL (1828-1862)</head>
+
+<p>Charles "Carl" Wimar was born on February
+19, 1828, in Siegburg, near modern-day Bonn,
+Germany. He came to St. Louis in 1843, studying
+there under Leon de Pomarede. His early
+paintings of Native Americans were based on
+images from popular literature rather than
+firsthand knowledge. He earned his first public
+notice after returning to Germany to study
+at the Kunstakademie in Düsseldorf. Returning
+to the United States in 1856, he decided to
+gain a more authentic knowledge of the country
+and of Native Americans. Like John Mix
+Stanley, Wimar relied on his own photographs
+as the basis of his paintings. From 1858
+to 1860 Wimar traveled with parties of the
+American Fur Trading Company up the Mississippi, Missouri, and Yellowstone Rivers. He
+also accompanied shipments of annuities to
+tribes along the Missouri River. He used these
+experiences as the basis for a more realistic
+approach to tribal subjects.</p>
+
+<p>As he came in contact with Native Americans
+his subject matter grew less romantic,
+shifting from themes of tribal war, buffalo
+hunting, and conflict with European Americans
+to the changing western landscape and
+the decline of tribal peoples and cultures in
+the face of European American expansion. In
+these years Wimar also painted several detailed
+panoramas of the Missouri River and the tribes
+living along its banks, the last large-scale works
+completed before European American colonization
+permanently altered tribal life there. Although
+known for his accurate portrayal of
+costumes and gestures, Wimar remained a romantic
+in his choice of themes. His most famous
+works include <title>Indian Approaching Fort Benton</title> (1859) and the important <title>Attack on an Emigrant Train</title> (1856), considered to be a prototype
+of the wagon train attack painting.</p>
+
+<p>Wimar was commissioned by the city of St.
+Louis to paint murals for the city courthouse
+with western themes, all of which have since
+been destroyed. He died of tuberculosis in
+St. Louis, Missouri, on November 28, 1862.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Stewart, Rick, Joseph D. Ketner II, and Angela L. Miller.
+<title level="m">Carl Wimar: Chronicler of the Missouri River Frontier</title>. New
+York: Harry N. Abrams, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

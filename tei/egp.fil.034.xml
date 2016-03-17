@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Johnson, Martin and Osa (1884-1937 and 1894-1953)</title>
+<title level="m" type="sub"></title>
+<author>John C. Tibbetts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Tibbetts, John C.">John C. Tibbetts</author>. <title level="a">"Johnson, Martin and Osa (1884-1937 and 1894-1953)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">270</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JOHNSON, MARTIN AND OSA (1884-1937 and 1894-1953)</head>
+<figure n="egp.fil.034" rend="granted">
+<figDesc>Martin and Osa Johnson</figDesc>
+</figure>     
+
+<p>Photographers, explorers, naturalists, authors,
+and entrepreneurs, Martin and Osa
+Johnson captured and presented tens of thousands
+of images in their twenty-one films,
+eighteen books, hundreds of magazine articles,
+and many vaudeville presentations across
+America. How these natives of southeastern
+Kansas&#8211;Martin was born in Rockford, Illinois,
+on October 9, 1884, but grew up in Independence,
+and Osa Leighty was born on
+March 19, 1894, in nearby Chanute&#8211;came to
+become celebrated world travelers is a fascinating
+story.</p>
+
+<p>The Kansas Plains might seem an unlikely
+stimulus for risk taking, but in 1906 twentytwo-
+year-old Martin left Independence to
+travel the South Seas with Jack London. Upon
+his return to Independence he presented a
+travelogue of his adventures that attracted the
+admiration of the equally adventurous sixteen-
+year-old Osa. They eloped in 1910 and
+began twenty-seven years of adventure and
+exploration, documenting their trips to the
+New Hebrides in the South Seas, Borneo, and
+Kenya in theatrical feature films like Among
+the <title>Cannibal Isles of the South Pacific</title> (1918),
+<title>Simba</title> (1928), and <title>Congorilla</title> (1932). The
+Johnsons' efforts on behalf of animal preservation,
+night photography, aerial photography,
+and camera safaris have influenced later
+generations of naturalists and photographers.
+It says a lot about the Johnsons that upon arriving
+in Africa they planted Kansas sunflowers
+on the mountain slopes. After Martin's
+death in a plane crash near Salt Lake City
+on January 12, 1937, Osa wrote the autobiographical
+<title>I Married Adventure</title> in 1940. She
+died in New York City on January 7, 1953. The
+Martin and Osa Johnson Safari Museum in
+Chanute, Kansas, houses the Johnsons' maps,
+Native artifacts, personal memorabilia, and
+dozens of films, which can be viewed in a
+thirty-seat theater.</p>
+
+<closer>
+<signed>John C. Tibbetts<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Froehlich, Conrad. "Martin and Osa Johnson: Adventuring
+Filmmakers." <title level="j">Classic Images</title> 229 (1994): 26, 28, 56.</bibl> <bibl>Imperato,
+Pascal and Eleanor. <title level="m">They Married Adventure: The Wandering Lives of Martin and Osa Johnson</title>. New Brunswick
+<hi rend="smallcaps">NJ</hi>: Rutgers University Press, 1992.</bibl> <bibl>Johnson, Osa. <title level="m">I Married Adventure</title>. 1940. Reprint, New York: Kodansha
+America, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

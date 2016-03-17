@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Coffeyville Raid</title>
+<title level="m" type="sub"></title>
+<author>Robert B. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Robert B.">Robert B. Smith</author>. <title level="a">"Coffeyville Raid."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">450</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COFFEYVILLE RAID</head>
+
+<p>On October 5, 1892, five dusty horsemen
+walked their horses through the bustling
+streets of Coffeyville, Kansas. Dick Broadwell
+and Bill Powers were professional bandits. The
+other three men were brothers, Bob, Grat, and
+Emmett Dalton. All five had bank robbery on
+their minds.</p>
+
+<p>Bob and Grat had been lawmen briefly, and
+their elder brother, Frank, had been a well-known
+U.S. deputy marshal, killed in 1887 in
+the line of duty while riding for "hanging
+judge" Isaac Parker. Most of the fifteen Dalton
+kids turned out well, but for Bob, Grat, and
+Emmett the lure of easy money was too strong,
+and it would cost them dearly.</p>
+
+<p>The Dalton boys knew Coffeyville well, for
+their family had lived nearby ten years before,
+and so they were surprised to find that Coffeyville's
+passion for civic improvement had frustrated
+part of the gang's plans: as part of a
+design to build gutters and sidewalks, the
+city fathers had removed the hitching rail to
+which the outlaws had intended to tether their
+horses. The gang tied their mounts to a pipe in
+a narrow alley behind the police judge's house,
+pulled their Winchesters from their saddle
+scabbards, and walked down the alley toward
+Coffeyville's central plaza and the town's two
+banks.</p>
+
+<p>The gang had enjoyed a brief run of success,
+with four train robberies in Indian Territory
+just to the south, but now the law was close
+behind them. On their last raid, on the
+Kansas-Texas (Katy) division of the Missouri
+Pacific Railroad, at Adair, the gang had shot a
+doctor who did no more than watch them
+gallop out of town. Now every man's hand was
+against them, and Bob, the gang's leader, was
+determined to make one big strike and travel
+on, far and fast.</p>
+
+<p>They would hit two banks at once, Bob
+boasted, something not even their famous
+cousins, the Younger brothers, had ever done,
+but the raid went bad from the start. In spite
+of wearing false mustaches and beards, the
+Daltons were recognized as they walked across
+the plaza. As Bob and Emmett pushed into the
+First National Bank and Grat, Powers, and
+Broadwell entered the Condon Bank, the citizens
+of Coffeyville armed themselves.</p>
+
+<p>Nobody carried a gun in peaceful Coffeyville,
+including the town marshal, but two
+hardware stores had plenty of weapons and
+handed out guns to anybody who wanted one.
+There were plenty of takers. Meanwhile, inside
+the First National, Bob and Emmett forced the
+staff to hand over more than $20,000. But in
+the Condon, a young bank teller convinced
+Grat that the safe&#8211;long since unlocked&#8211;was
+on a time lock and could not be opened for
+ten more minutes. Grat was still staring at the
+safe when his brothers left the First National
+and a citizen fired at them.</p>
+
+<p>In the firefight that followed, four townsmen
+and four bandits died. Young Emmett
+was the sole survivor of the gang, and he was
+shot almost to pieces. The local doctor fended
+off a lynch mob intent on hanging Emmett by
+telling them that the outlaw would surely die
+of his wounds. "Are you sure, Doc?" somebody
+asked. "Hell yes," said the physician.
+"Did you ever know one of my patients to
+live?" Somebody laughed, the tension broke,
+and Emmett survived to spend fifteen years in
+the Kansas State Penitentiary.</p>
+
+<p>Another brother, Bill, would join gang
+members who had not participated in the
+Coffeyville raid. These men carried on the
+gang's lawless career until all of them, including
+Bill Dalton, were run down and killed by
+lawmen.</p>
+
+<closer>
+<signed>Robert B. Smith<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barndollar, Lue Diver. <title level="m">What Really Happened on October 5, 1892</title>. Coffeyville <hi rend="smallcaps">KS</hi>: Coffeyville Historical Society, 1992.</bibl>
+<bibl>Smith, Robert Barr. <title level="m">Daltons! The Raid on Coffeyville, Kansas</title>.
+Norman: University of Oklahoma Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

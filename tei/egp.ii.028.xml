@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Garden</title>
+<title level="m" type="sub"></title>
+<author>John L. Allen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Allen, John L.">John L. Allen</author>. <title level="a">"The Garden."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">388</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THE GARDEN</head>
+
+<p>For most of the past two centuries, the concept of the <geogName rend="region" reg="Great Plains">Great Plains</geogName> as a rich and productive garden has been a part of both popular and official iconography of the region. Sometimes sharing space in the minds of North Americans with the counterimage of the <geogName rend="region" reg="Great Plains">Plains</geogName> as a desert, sometimes standing alone as the prevailing view of the <geogName rend="region" reg="Great Plains">Plains</geogName>, the view of the garden has been one of the most enduring and compelling images of the western interior of <geogName rend="continent" reg="North America">North America</geogName> between the <geogName rend="river" reg="Mississippi River">Mississippi</geogName> and the <geogName rend="mountains" reg="Rocky Mountains">Rockies</geogName>.</p>
+
+<p>Prior to the nineteenth century, views of the land quality of the <geogName rend="region" reg="Great Plains">Plains</geogName> were sketchy at best, dependent upon brief forays onto the <geogName rend="region" reg="Great Plains">Plains</geogName> by British, French, and Spanish explorers and available only to those who had access to the records of exploration or their derivative entries in gazetteers, pamphlets, and government documents. These early impressions varied from the pessimistic view of the <geogName rend="region" reg="Great Plains">Plains</geogName> as a desert contained within British exploratory accounts, through the more-or-less neutral Spanish perspective in which both garden and desert concepts were present, to a French impression that was imbued with notions of interior abundance. These various images were crystallized in the early nineteenth century by <persName reg="Jefferson, Thomas">Thomas Jefferson</persName>, whose politics demanded ample agricultural land for the expansion of the agrarian republic and whose politically risky purchase of <placeName rend="territory" key="ter.lou" reg="Louisiana Territory">Louisiana Territory</placeName> sought justification in the notion of a land of plenty. It was true that the <geogName rend="region" reg="Great Plains">Plains</geogName> were treeless, wrote <persName reg="Jefferson, Thomas">Jefferson</persName>, but only because the soil was too rich for the growth of forest trees. <persName reg="Jefferson, Thomas">President Jefferson</persName>'s garden was verified for the American public by <persName reg="Lewis, Meriwether">Lewis</persName> and <persName reg="Clark, William">Clark</persName>, who described the <geogName rend="river" reg="Missouri River">Missouri River</geogName> as watering one of the most fertile portions of the globe.</p>
+
+<p>For most of the first two decades of the 1800s, both elite and folk images of the <geogName rend="region" reg="Great Plains">Plains</geogName> were dominated by the Jeffersonian view. But as military and scientific explorers ventured into the <geogName rend="region" reg="Great Plains">Plains</geogName> and began to encounter an environment visually and climatically at variance with their eastern woodlands experience, the counterimage of the <geogName rend="region" reg="Great Plains">Plains</geogName> as desert began to increase its hold over the better-educated and urban segments of society. In maps and books published in the eastern cities of the <placeName rend="country" key="usa" reg="United States of America">United States</placeName> after 1825, the idea of the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName> was advanced. The desert concept was particularly attractive to those who opposed expansion, and for many of the remaining years before the Civil War the images of garden and desert coexisted in American perceptions of the interior. The desert image was favored by the eastern elite, while rural southerners and westerners readily accepted the garden image, which promised a future of agricultural abundance and fueled a steady western expansion.</p>
+
+<p>It was not until after the Civil War that the <geogName rend="region" reg="Great Plains">Plains</geogName> environment was tested by Americans and the validity of the garden or desert image confirmed by experience. As first the livestock industry and then farmers began to push into the <geogName rend="region" reg="Great Plains">Plains</geogName>, and as the railroads began to advance across the region from the east, the garden image started to crowd out the desert idea. Part of the swelling garden image was based on the experience of bumper wheat crops in the <geogName rend="region" reg="Central Plains">Central Plains</geogName> and increasing herds farther west; equally important was railroad and land agent promotional literature that encouraged prospective <geogName rend="region" reg="Great Plains">Plains</geogName> dwellers to expect the best. And in spite of the droughts and grasshopper invasions of the 1870s and the blizzards of the 1880s, which, respectively, drove out many farmers and forced a spatial restructuring of the livestock industry, the garden image of the <geogName rend="region" reg="Great Plains">Plains</geogName> persisted until the Dust Bowl of the 1930s. But even glimpses of the gaunt visages of Oklahomans and Kansans leaving the <geogName rend="region" reg="Great Plains">Plains</geogName> for <placeName rend="state" key="ca" reg="California">California</placeName> did not destroy the garden concept of the <geogName rend="region" reg="Great Plains">Plains</geogName>. Countering historian <persName reg="Webb, Walter Prescott">Walter Prescott Webb</persName>'s pessimistic assessment of the <geogName rend="region" reg="Great Plains">Plains</geogName> as desert, the farmers and government agents of the 1930s almost immediately recognized that the Dust Bowl was the result of human mistreatment of the <geogName rend="region" reg="Great Plains">Plains</geogName> rather than a limitation in the <geogName rend="region" reg="Great Plains">Plains</geogName> environment. The next time the rains failed, went both scientific and vernacular opinion, windbreaks planted crosswise of the westerly winds would prevent soil loss.</p>
+
+<p>Well into the latter years of the twentieth century, both official and popular images of the <geogName rend="region" reg="Great Plains">Plains</geogName> persisted in picturing the <geogName rend="region" reg="Great Plains">Plains</geogName> as a region of abundance, not scarcity. Recent advocates of the <geogName rend="region" reg="Great Plains">Plains</geogName> as a "buffalo commons," the decline in <geogName rend="region" reg="Great Plains">Plains</geogName> rural population, and some diminishing of agricultural expectations notwithstanding, the view of the <geogName rend="region" reg="Great Plains">Plains</geogName> as garden is still, if not as strong as in <persName reg="Jefferson, Thomas">Jefferson</persName>'s day, the enduring image of this region.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">John L. Allen<lb/>
+University of Connecticut</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Allen, John L. "<title level="a">The Garden-Desert Continuum: Competing Views of the Great Plains in the Nineteenth Century</title>." <title level="j">Great Plains Quarterly</title> 5 (1985): 207-20.</bibl> <bibl>Bowden, Martyn J. "<title level="a">The Great American Desert and the American Frontier, 1800-1882: Popular Images of the Plains</title>." In <title level="m">Anonymous Americans</title>, edited by Tamara K. Haraven. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall, 1971: 48-79.</bibl> <bibl>Smith, Henry Nash. <title level="m">Virgin Land: The American West in Symbol and Myth</title>. Cambridge: Harvard University Press, 1950.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

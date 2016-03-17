@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Comfort, E. Nicholas (1884-1956)</title>
+<title level="m" type="sub"></title>
+<author>Robert C. Cottrell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cottrell, Robert C.">Robert C. Cottrell</author>. <title level="a">"Comfort, E. Nicholas (1884-1956)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">739-740</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COMFORT, E. NICHOLAS (1884-1956)</head>
+
+<p>The Reverend E. Nicholas Comfort, founder of
+the Oklahoma School of Religion, was a leading
+southwestern proponent of the Social Gospel.
+He was born in Brookston, Texas, on May
+1, 1884. Overcoming an impoverished youth in
+eastern Texas and western Oklahoma, Comfort
+was educated at McCormick Theological
+Seminary, the University of Chicago, Columbia
+University, and Union Theological Seminary.
+In 1924 he returned to Oklahoma to become
+pastor for Presbyterian students at the
+state's flagship university in Norman.</p>
+
+<p>Determined to overcome sectarianism and
+fundamentalism, Comfort established the Oklahoma School of Religion in 1927. During the
+two decades of its existence, the School of Religion
+(1927-48) strove to provide interdenominational
+instruction. In the process, the
+school, along with Dean Comfort as its director,
+proved enormously controversial. Comfort
+propounded the message of the fatherhood
+of God and the brotherhood of man,
+while condemning militarism, racism, and
+economic inequities. As a consequence, both
+he and the School of Religion experienced ridicule
+from less ecumenically inclined ministers,
+self-proclaimed patriots, and right-wing
+politicians. Investigative committees examined
+the operations of Comfort and his school,
+initially resulting in a firestorm of protest from
+supporters across the state. The emergence of
+the cold war resulted in an even less hospitable
+climate, and the School of Religion was forced
+to close its doors in 1948. By that point, Comfort
+was preaching as an itinerant minister and
+building a new, small house on the outskirts of
+Norman. After suffering two strokes, Comfort
+and his wife, Esther, moved to Rochester, Minnesota,
+to be close to one of their three children
+and the Mayo Clinic. He died there on
+February 27, 1956.</p>
+
+<closer>
+<signed>Robert C. Cottrell<lb/>
+California State University, Chico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cottrell, Robert C. <title level="m">The Social Gospel of E. Nicholas Comfort</title>.
+Norman: University of Oklahoma Press, 1997.</bibl> <bibl>Cottrell,
+Robert C. "The Social Gospel of Nicholas Comfort."
+<title level="j">Chronicles of Oklahoma</title> 61 (1983–84): 386–409.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

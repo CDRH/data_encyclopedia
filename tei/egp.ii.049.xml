@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Rainfall Follows the Plow</title>
+<title level="m" type="sub"></title>
+<author>M. Jean Ferrill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ferril, M. Jean">M. Jean Ferrill</author>. <title level="a">"Rainfall Follows the Plow."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">395&#8211;396</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">RAINFALL FOLLOWS THE PLOW</head>
+
+<p>The myth that "rainfall follows the plow" began in the late 1800s as new settlers pushed onto the <geogName rend="region" reg="Great Plains">Great Plains</geogName>. The settlers needed water to transform the prairie into farms. As they crossed the 100th meridian and the twenty-inch rainfall line, settlers persuaded themselves that they were the agents of increased precipitation. Proponents of this theory believed that breaking the prairie sod would allow rainfall to be absorbed into the soil. This moisture would then evaporate into the atmosphere and result in an increase in humidity and rainfall.</p>
+
+<p>Some early explorers and writers had suggested the possibility of altering the <geogName rend="region" reg="Great Plains">Plains</geogName> by cultivation. <placeName rend="settlement" key="nm.sf" reg="Santa Fe, New Mexico">Santa Fe</placeName> trader <persName reg="Gregg, Josiah">Josiah Gregg</persName> proposed that extensive cultivation of the earth might contribute to the multiplication of showers, and itinerant Englishman <persName reg="Burton, Richard">Sir Richard Burton</persName> pointed to increased rainfall at the Mormon settlements in Utah and attributed the change to cultivation and tree planting.</p>
+
+<p>One of the most widely recognized supporters of the plow theory was <persName reg="Aughey, Jr., Samuel">Dr. Samuel Aughey Jr.</persName>, a professor at the <orgName rend="school" key="sch.unl" reg="University of Nebraska-Lincoln">University of Nebraska</orgName>. <persName reg="Aughey, Jr., Samuel">Professor Aughey</persName> wrote numerous articles, addressed the <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> and <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName> state boards of agriculture as well as the <orgName rend="government" key="gov.ne.uni" reg="Nebraska Unicameral">Nebraska State Legislature</orgName>, and published a book entitled <hi rend="italic">Sketches of the Physical Geography and Geology of Nebraska</hi> in 1880. He explained that the soil would absorb the rain like a huge sponge once the sod had been broken. This moisture would then be given slowly back to the atmosphere by evaporation. Each year, as cultivation extended across the <geogName rend="region" reg="Great Plains">Plains</geogName>, <persName reg="Aughey, Jr., Samuel">Aughey</persName> argued, the moisture and rainfall would also increase until the region was fit for agriculture without irrigation.</p>
+
+<p>Following in <persName reg="Aughey, Jr., Samuel">Aughey</persName>'s footsteps was <persName reg="Wilber, Charles Dana">Charles Dana Wilber</persName>, who popularized the phrase "rain follows the plow" in his book, <hi rend="italic">The Great Valleys and Prairies of Nebraska and the Northwest</hi> (1881). Other individuals supporting this theory included <persName reg="Hilton, H. R.">H. R. Hilton</persName>, a Kansas farmer-agriculturist; <persName reg="Judd, Orange">Orange Judd</persName>, editor and publisher of the <hi rend="italic">Prairie Farmer</hi> in <placeName rend="settlement" key="il.chi" reg="Chicago, Illinois">Chicago</placeName>; and <persName reg="Snow, Frank H.">Professor Frank H. Snow</persName>, later chancellor of the <placeName rend="school" key="sch.uok" reg="University of Kansas">University of Kansas</placeName>.</p>
+
+<p>Railroads, trying to attract settlers to their land grants, also quickly adopted a theory that advocated an increase in rainfall in the <geogName rend="region" reg="Great American Plains">Great American Desert</geogName>, and they used it in their promotional slogans. For example, the <orgName rend="railroad" key="rail.sfr" reg="Santa Fe Railroad">Santa Fe Railroad</orgName> printed a pamphlet showing a Kansas farmer using a steel plow. The pamphlet asks, "Who killed the <geogName rend="region" reg="Great American Desert">Great American Desert</geogName>?" The sturdy yeoman answers, "I did with my team and plow." The railroad also advertised that the rain line was moving steadily westward at the rate of about eighteen miles per annum, keeping just ahead of and propelled by the advancing population. Whenever <persName reg="Aughey, Jr., Samuel">Professor Aughey</persName> spoke, a stenographer employed by the <orgName rend="railroad" key="rail.bmrr" reg="Burlington and Missouri River Railroad">Burlington and Missouri River Railroad</orgName> was usually close at hand. Copies of his speeches were published and distributed to prospective emigrants in <geogName rend="continent" reg="Europe">Europe</geogName>.</p>
+
+<p>The plow theory essentially ended with the severe droughts of the 1890s, although some diehard proponents suggested that this was only because the plowing had not been deep enough.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.006">Aughey, Samuel, Jr.</ref></p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">M. Jean Ferrill<lb/>
+Northern Michigan University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Emmons, David M. <title level="m">Garden in the Grasslands</title>. Lincoln: University of Nebraska Press, 1971.</bibl> <bibl>Ferrill, Jean Williams. "<title level="a">The Marginal Lands of Australia and the American West: Some Comparisons in Their Perceptions and Settlement</title>." In <title level="m">The Process of Rural Transformation</title>, edited by Ivan Volgyes, Richard E. Lonsdale, and William P. Avery. New York: Pergamon Press, 1980: 68–88.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fields, Mary (ca. 1832–1914)</title>
+<title level="m" type="sub"></title>
+<author>Darlene Clark Hine</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hine, Darlene Clark">Darlene Clark Hine</author>. <title level="a">"Fields, Mary (ca. 1832-1914)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">14-15</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FIELDS, MARY (ca. 1832–1914)</head>
+<figure n="egp.afam.019" rend="granted" type="noclick">
+<figDesc>Photograph of Mary Fields (Source: Sister Mary Rose Krupp, Ursuline Convent Offices, 4045 Indian Road, Toledo, OH 43606. Used with permission. (www.lkwdpl.org/wihohio/fiel-mar.htm)</figDesc>
+</figure>    
+    
+<p>Mary Fields was one of the most colorful characters
+in the history of the Great Plains. Various
+descriptions of her claim that she was six
+feet tall, weighed over 200 pounds, smoked
+homemade cigars, and carried a pair of six-shooters
+and a ten-gauge shotgun. She never
+married or had children. She gained widespread
+fame, and the nickname "Stage Coach
+Mary," for deftly maneuvering U.S. mail stagecoaches
+and freight wagons over daunting
+mountain trails.</p>
+
+<p>Born into slavery around 1832 in Tennessee,
+Mary Fields gave meaning to her freedom at
+the earliest opportunity by migrating to Toledo,
+Ohio, where she worked for the Ursuline
+Convent. In 1884 Mother Amadeus of the
+Ursuline Convent founded the St. Peter's
+Catholic Mission School in Montana. Three
+years later Mary Fields joined her there. For
+the next ten years she provided protection for
+the nuns and the school and drove a supply
+wagon hauling essential freight and other
+goods. Mary chopped wood, did rudimentary
+carpentry, and whatever else was necessary to
+ensure the smooth functioning of the nuns'
+enterprise.</p>
+
+<p>Mary Fields's temper was as legendary as her
+ability to get hard jobs done. Indeed, one altercation
+almost proved her undoing. Bishop
+Filbus N. E. Berwanger fired Mary from her
+position with the nuns following a shootout
+with a cowpuncher that left her unharmed and
+the cowpuncher slightly wounded and greatly
+embarrassed. Mary never allowed social conventions
+or expectations of feminine behavior
+to circumscribe her. Rather, she carved a space
+for herself that allowed her the freedom to
+exploit both her penchant for hard work and
+her desire to help others.</p>
+
+<p>She settled in a town in Cascade County,
+Montana, where she was the only black resident.
+With some money from the nuns, she
+opened a caf&#233; and became an avid supporter of
+the local baseball team. The restaurant failed
+because Mary fed too many who could not
+pay, and besides, her cooking was unremarkable.
+Mary took the closing of her restaurant in
+stride, and for a brief time she subsisted by
+doing laundry. She never made enough to be
+considered rich, but she was reasonably content.
+Her zest for life enthralled the local community.
+When her laundry burned down the
+townsfolk pitched in and helped her rebuild it.
+The owner of the Cascade Hotel and the local
+saloons all allowed Mary Fields ready access to
+their facilities, privileges denied to women in
+general.</p>
+
+<p>In 1895 Mary secured a job delivering mail
+for the U.S. postal services, and she continued
+to do so into her seventies. Citizens marveled
+at her fierce determination to deliver, on
+schedule, letters and parcels without concern
+for weather, the ruggedness of the mountain
+trails, or the remoteness of the homes and
+outposts that relied on dependable means
+of communication in order to process land
+claims. Without doubt, her work facilitated
+central Montana's development. Mary Fields
+died in 1914 of liver failure. Neighbors buried
+her in the Hillside Cemetery in Cascade. A
+simple wooden cross marks her grave.</p>
+
+
+<closer>
+<signed>Darlene Clark Hine<lb/>
+Michigan State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hine, Darlene Clark, and Kathleen Thompson. <title level="m">A Shining
+Thread of Hope: A History of Black Women in America</title>.
+New York: Broadway Books, 1998. Miller, Robert. T<title level="m">he
+Story of Stagecoach Mary Fields</title>. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Silver
+Burdett Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dennis, Sandy (1937-1992)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Dennis, Sandy (1937-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">265</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Dennis, Sandy (1937-1992)</head>
+<figure n="egp.fil.018" rend="granted" type="noclick">
+<figDesc>Sandra Dale Dennis</figDesc>
+</figure>     
+
+<p>The actress Sandy Dennis, whose nervous and
+fragile screen persona had very little to do
+with the real person, was born in Hastings,
+Nebraska, on April 17, 1937. Her father was
+a postal clerk. At the age of fourteen, after
+watching Kim Stanley and Joanne Woodward
+in the television production <title>A Lady of Property</title>,
+she realized that her calling was acting.
+Her talent quickly became evident. She played
+leading roles in high school plays and in the
+Lincoln Community Theater; at the age of
+nineteen she left Nebraska for New York City
+and a distinguished career in acting.</p>
+
+<p>Within three months Dennis had won her
+first professional role as a thirteen-year-old
+in Henrik Ibsen's <title>The Lady from the Sea</title>. She
+studied with Lee Strasberg at the Actors Studio
+and secured major roles in Broadway plays
+in the early 1960s. By 1964 she had collected
+two Tonys and a New York Drama Critics Poll
+Award.</p>
+
+<p>Dennis's movie breakthrough came in 1967,
+when she played Honey, the whimpering wife
+of the young faculty member in <title>Who's Afraid of Virginia Woolf</title>. She won an Academy Award
+for best supporting actress for her performance.
+Other critically acclaimed performances
+in comedies and dramas on stage and
+screen followed, but her popularity declined
+in the 1970s and 1980s, partly because she refused
+to glamorize her appearance. Her final
+film role was in 1991 in Sean Penn's <title>The Indian Runner</title>, fittingly set in Dennis's home state of
+Nebraska.</p>
+
+<p>Dennis was briefly married to her longtime
+companion, jazz musician Gerry Mulligan,
+from 1975 to 1976. However, a self-described
+"solitary person," she seemed to be more comfortable
+in the company of cats and dogs than
+of people. Sandy Dennis lived the final years of
+her life with her mother in Westport, Connecticut,
+where she died of ovarian cancer on
+March 2, 1992.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.tra.037 SYSTEM "egp.tra.037.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Transcontinental Motor Convoy</title>
+<title level="m" type="sub"></title>
+<author>Tom White</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="White, Tom">Tom White</author>. <title level="a">"Transcontinental Motor Convoy"</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">812</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRANSCONTINENTAL MOTOR CONVOY</head>
+
+<figure n="egp.tra.037" rend="granted">
+<figDesc>Caught in time between prairie schooners and eighteen-wheelers, the 1919 khaki-covered truck train exits Nebraska.</figDesc>
+</figure>
+
+<p>In August 1919 thousands of people in Nebraska
+and Wyoming greeted U.S. army soldiers
+with curiosity, patriotic cheer, and generous
+amounts of food and drink as they
+drove a convoy of early heavy trucks across the
+Great Plains.</p>
+
+<p>Among the caravan's nearly 300 soldiers
+was twenty-eight-year-old Lt. Col. Dwight D.
+Eisenhower, who became the supreme allied
+commander during World War II and, in 1952,
+the thirty-fourth president. President Eisenhower
+initiated the Federal Highway Trust
+Fund, which built the nation's 46,000-mile interstate
+highway system, and he would later
+credit the convoy experience for teaching him
+that a quality paved-road system is essential to
+a nation's economic and military security.</p>
+
+<p>Officially named the Transcontinental Motor
+Convoy of 1919, the caravan was composed
+of eighty-one army vehicles and numerous
+nonmilitary autos and trucks. Its main objective
+was to determine the military value of
+assorted vehicles the army had acquired but
+not put into service during World War I. The
+convoy also served as a war game, a recruiting
+drive, a campaign for long-haul trucking, and,
+not incidentally, a parade observed by millions
+along its route.</p>
+
+<p>For more than sixty-two bone-jarring days
+the truck train traveled 3,251 miles from Washington
+dc to San Francisco on the Lincoln
+Highway, which later became U.S. Route 30.
+In 1919 the Lincoln Highway through Nebraska
+and Wyoming was mostly a rough dirt
+road, often little more than a deeply rutted
+trail with weak or nonexistent bridges. The
+convoy needed twenty days to forge its way
+through the two Plains states. West of North
+Platte, Nebraska, the soldiers and machines
+became mired in a 200-foot stretch of quicksand
+for more than seven hours.</p>
+
+<p>Overcoming the obstacles of rudimentary
+vehicles and rugged road conditions with hard
+work and persistence, the convoy reached San
+Francisco on September 6 with 90 percent of
+the vehicles that started still running. Beyond
+its military value, the convoy helped make
+the case to the nation that improving crosscountry
+roads was a federal, not just a local,
+priority&#8211;a point Eisenhower would make as
+president.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.021">Eisenhower, Dwight D.</ref></p>
+
+<closer>
+<signed>Tom White<lb/>
+Lincoln, Nebraska</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

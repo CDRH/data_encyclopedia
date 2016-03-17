@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fish</title>
+<title level="m" type="sub"></title>
+<author>Edward J. Peters</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Peters, Edward J.">Edward J. Peters</author>. <title level="a">"Fish."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">628</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FISH</head>
+
+<p>Aquatic habitats in the Great Plains region
+were historically dominated by rivers and
+streams with associated wetlands and few natural
+lakes. Native fishes are typically riverine
+species that are in many cases adapted to
+strong current, turbid water, and a wide range
+of water temperatures. However, many species
+that require clear water and cool temperatures
+are found as relict populations in springs and
+headwater streams. The native and introduced
+fish fauna are an important link in food chains
+for many species and are significant economic
+resources for many communities.</p>
+
+<p>The native fish fauna of the Great Plains
+includes representatives of twenty-eight families
+and more than 100 species. Several other
+families and many species have been introduced.
+The minnow family (Cyprinidae) is the
+most diverse with more than forty species native
+to the region. Other species-rich families
+include suckers (Catostomidae), catfish (Ictaluridae),
+perch (Percidae), and sunfish (Centrarchidae).
+The fathead minnow (<hi rend="italic">Pimephales
+promelas</hi>), sand shiner (<hi rend="italic">Notropis stramineus</hi>),
+and red shiner (<hi rend="italic">Cyprinella lutrensis</hi>) are some
+of the most widespread species. Other species,
+like the Topeka shiner (<hi rend="italic">Notropis topeka</hi>), plains
+minnow (<hi rend="italic">Hybognathus placitus</hi>), and plains
+topminnow (<hi rend="italic">Fundulus sciadicus</hi>), are nearly
+confined to the Great Plains.</p>
+
+<p>Before European American settlement, the
+south-central portion of the region, covering
+Kansas and part of Colorado, was the most diverse,
+with 109 native species from twenty families.
+The north-central region (Nebraska, South
+Dakota, Wyoming) had ninety-three native species
+from twenty-two families while the northern
+Plains states' (North Dakota, Montana) native
+fishes numbered seventy-six species from
+nineteen families. The Canadian (Manitoba,
+Saskatchewan, Alberta) and southern (Oklahoma,
+Texas, New Mexico) portions of the
+Great Plains were the least diverse with fifty-eight
+and sixty-two species respectively. Both
+regions had seventeen native families, but the
+southern region included representatives of two
+families (Characidae, Cyprinodontidae) and
+eight species found native nowhere else in the
+Plains. The northern states and Canadian regions
+contribute two families (Salmonidae,
+Cottidae) and four species to the native fauna.
+The Great Plains fish fauna shows a strong influence
+of its connection to the Mississippi drainage.
+However, representatives of northern and
+southwestern faunas are also in evidence.</p>
+
+<p>Since the onset of European American settlement,
+many of the rivers have been dammed
+to produce reservoirs ranging in size from
+small farm ponds to large impoundments.
+Reservoirs and ponds have provided new habitats
+where exotic species have flourished after
+being introduced. Introduced sport fish, especially
+members of the families Salmonidae,
+Moronidae, and Centrarchidae, prey upon
+and compete for food with many native species.
+Aquatic habitats have also been altered or
+destroyed by chemical pollution, channelization,
+erosion, siltation, and water depletion.
+Habitat alteration, pollution, and introduction
+of nonnative species have led to the demise
+of many local populations. Introductions
+of mosquito fish (<hi rend="italic">Gambusia affinis</hi>) have competed
+with a number of native minnows and
+killifish, such as the plains topminnow. Habitat
+protection and restoration measures have been
+initiated by conservation organizations to prevent
+continued losses from the native fish
+fauna, but many populations are already in
+serious jeopardy or have been extirpated.</p>
+
+<closer>
+<signed>Edward J. Peters<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brown, C. J. D. <title level="m">Fishes of Montana</title>. Bozeman: Montana State
+University, 1971.</bibl> <bibl>Cross, Frank B., and Joseph T. Collins. <title level="m">Fishes
+in Kansas</title>. Lawrence: University of Kansas Natural History
+Museum, 1995.</bibl> <bibl>Lee, David S., Carter R. Gilbert, Charles H.
+Hocutt, Robert E. Jenkins, Don E. McAllister, and Jay R.
+Stauffer Jr. <title level="m">Atlas of North American Freshwater Fishes</title>. Raleigh:
+North Carolina Biological Survey, Publication No.
+1980-12, 1980.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

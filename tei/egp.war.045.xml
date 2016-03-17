@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stephenson, William Samuel (1896-1989)</title>
+<title level="m" type="sub"></title>
+<author>Terry Smythe</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.045</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smythe, Terry">Terry Smythe</author>. <title level="a">"Stephenson, William Samuel (1896-1989)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">837</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STEPHENSON, WILLIAM SAMUEL (1896-1989)</head>
+
+<p>Sir William Stephenson, a fourth-generation
+Manitoban who played a major role in intelligence
+in World War II, was born in Winnipeg
+on January 11, 1896, the son of a pioneer
+family. As a teenager, he was fascinated with
+radio and enjoyed making and using radio
+transmitters and receivers. In 1914 Stephenson
+volunteered for the Royal Canadian Engineers.
+He was sent to France as a private and
+earned a commission in the field at the age of
+nineteen. He was gassed and returned to England
+as an invalid "disabled for life." He recovered
+but was still considered unfit to return
+to the trenches. He turned down an
+administrative desk job, joined the Royal Flying
+Corps, and returned to France. He shot
+down twenty-six planes, for which he was decorated
+with the Distinguished Flying Cross,
+the Military Cross, and from the French, the
+Legion of Honor and the Croix de Guerre
+with Palms.</p>
+
+<p>In London following World War I, Stephenson
+started his radio empire with the
+purchase of a controlling interest in the General
+Radio Company. He patented a process
+that enabled photographs to be transmitted
+electronically, now known as a facsimile, or
+"fax." He was involved in the aircraft industry,
+and a plane developed and built in one of Stephenson's
+factories won the King's Cup air
+race and ultimately evolved into the Spitfire.</p>
+
+<p>In 1940 Churchill appointed Stephenson to
+the position of director of British Security Coordination
+in the Western Hemisphere. In all
+his wartime work he sought anonymity, operating
+under the code name of "Intrepid." In
+this capacity, directing espionage and counterintelligence,
+he was pivotal to the Allied
+campaign.</p>
+
+<p>In 1945, at the conclusion of hostilities, Stephenson
+was knighted by King George VI, and
+President Harry Truman awarded him the
+Presidential Medal of Merit, the highest honor
+available to a civilian. In Manitoba he was appointed
+chairman of the Manitoba Economic
+Advisory Board, awarded a doctor of laws degree
+from the University of Winnipeg, and
+presented with the province's top honor, the
+Order of the Buffalo Hunt, Chief Hunter. Sir
+William Stephenson died January 31, 1989.</p>
+
+<closer>
+<signed>Terry Smythe<lb/>
+Winnipeg, Manitoba</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

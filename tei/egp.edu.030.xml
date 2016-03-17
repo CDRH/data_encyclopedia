@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">National Ranching Heritage Center</title>
+<title level="m" type="sub"></title>
+<author>Marsha Gustafson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.030</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gustafson, Marsha">Marsha Gustafson</author>. <title level="a">"National Ranching Heritage Center."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">210</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIONAL RANCHING HERITAGE CENTER</head>
+
+<p>Stories of the pioneers who notched a home
+out of the western wilderness are preserved
+at the National Ranching Heritage Center
+in Lubbock, Texas. This museum interprets
+western heritage through the preservation of
+more than thirty-five early ranch structures
+from some of the country's most historic
+ranches. Lifestyles, music, art, and craftsmanship
+are demonstrated through special
+programs, exhibits, and annual events that
+promote education and interest in ranching
+history and perpetuate time-honored ranching
+customs.</p>
+
+<p>The National Ranching Heritage Center
+displays the evolution of ranch architecture
+from the late 1700s through the early 1900s.
+Each building (a bunkhouse, barns, dugouts,
+windmills, rustic homes, a one-room schoolhouse,
+a blacksmith shop, a steam engine,
+a depot, a Spanish fortress blockhouse, the
+Queen Anne–style home of a wealthy rancher,
+and more) is authentically restored and furnished
+and reflects the geography of its original
+location and the local materials available
+for its construction.</p>
+
+<p>Some 90,000 people from throughout the
+nation and abroad visit the National Ranching
+Heritage Center each year to tour the
+fourteen-acre Proctor Park historical site and
+view permanent displays and temporary exhibits.
+Some 8,000 students from Texas and
+New Mexico enhance their classroom study
+each year with memorable history education
+experiences gained through their visits. More
+than 200 volunteers help to ensure that guests
+enjoy their time at the Heritage Center.</p>
+
+<p>The concept of a complex to preserve the
+history of ranching was approved by the Texas
+Tech University board of regents in the mid-
+1960s. They saw the National Ranching Heritage
+Center as a way of preserving significant
+evidence of the history of ranching and development
+of the West. The new facility opened
+during formal ceremonies from July 2 to 4,
+1976, attended by dignitaries from throughout
+the world and highlighted by the arrival of the
+Bicentennial Longhorn Trail Drive.</p>
+
+<p>On June 1, 1998, Texas Tech separated the
+National Ranching Heritage Center from the
+university's museum to provide greater visibility
+and identity for the facility. Special
+events and programs were developed, including
+a Ranch Dance series, new children's
+membership organization and activities, and
+Grand-Day, on which visiting children are accompanied
+by a grandparent or older relative.
+Recognition programs include the Boss of the
+Plains Award, presented to an individual who
+has contributed greatly to the success of the
+museum, and the Golden Spur Award, which
+is annually presented to one of the nation's
+outstanding ranchers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.054">Ranches</ref> / 
+<hi rend="smallcaps">ARCHITECTURE</hi>: <ref n="egp.arc.039">Ranch Architecture</ref>.</p>
+
+<p><ref target="http://www.depts.ttu.edu/ranchhc/">National Ranching Heritage Center</ref> website.</p>
+
+<closer>
+<signed>Marsha Gustafson<lb/>
+National Ranching Heritage Center</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

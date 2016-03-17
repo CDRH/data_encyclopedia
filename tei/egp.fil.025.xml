@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.025 SYSTEM "egp.fil.025.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Giant</hi></title>
+<title level="m" type="sub"></title>
+<author>Virginia M. Wright-Peterson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wright-Peterson, Virginia M.">Virginia M. Wright-Peterson</author>. <title level="a">"<hi rend="italic">Giant</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">267-268</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">GIANT</hi></head>
+
+<figure n="egp.fil.025" rend="granted">
+<figDesc>James Dean in Giant</figDesc>
+</figure>
+
+<p>Edna Ferber's best-selling novel <title>Giant</title> (1952)
+provides the basis for this 1956 film set in
+Texas and directed by George Stevens. Stevens,
+who won an Academy Award for best director
+for Giant, was especially lauded for his ability
+to juxtapose the vast Texas landscape with the
+narrow-mindedness of the people who lived
+there. The film's star-studded cast includes
+Elizabeth Taylor, Rock Hudson, and James
+Dean. <title>Giant</title> was Dean's last film before his
+fatal car accident, which occurred two weeks
+after shooting the final scene.</p>
+
+<p>Ferber based the opulent lifestyle portrayed
+by Bick and Leslie Benedict (Hudson and Taylor)
+on wealthy Texas ranch owners and oil
+developers like Bob Kleberg and Glenn Mc-
+Carthy, who received significant media attention
+in the 1940s and 1950s, including representation
+on the cover of <title level="j">Time</title> magazine. <title>Giant</title>
+contrasts a materialistic life of lavish dinners,
+fine clothes, and automobiles with the exploitation
+of Mexican Americans, whose labor was
+a significant commodity in the Texas economy.
+Mexican Americans were still being referred to
+as "wetbacks" in the U.S. government documents
+and academic reports that Ferber used
+as sources in the late 1940s. In addition to the
+politics of materialism, the film addresses racial
+and class prejudices directly when the Benedicts'
+son (played by Dennis Hopper) marries
+a Mexican woman. The novel and film caused
+considerable controversy. Articles in newspapers
+and magazines, including the <title level="j">Dallas Morning News</title> and the <title level="j">Houston Press</title>, protested
+what they considered a stereotypical
+and exaggerated representation of the Texas
+culture.</p>
+
+<closer>
+<signed>Virginia M. Wright-Peterson<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ferber, Edna. <title level="m">A Kind of Magic</title>. New York: Doubleday,
+1963.</bibl> <bibl>Edna Ferber Papers, Wisconsin State Historical Society
+Archives, Madison.</bibl> <bibl>Richie, Donald. <title level="m">George Stevens: An American Romantic</title>. New York: Museum of Modern
+Art, 1970.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

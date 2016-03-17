@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Spaniards</title>
+<title level="m" type="sub"></title>
+<author>Jeffrey S. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Jeffrey S.">Jeffrey S. Smith</author>. <title level="a">"Spaniards."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">247-248</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SPANIARDS</head>
+
+<p>From the Andean highlands and central Mexico
+to the northern reaches of the upper Rio
+Grande, Spanish citizens worked to meet
+the crown's unquenchable thirst for mineral
+wealth, new lands, and Catholic converts.
+However, while Spain's efforts proved successful
+elsewhere, they were met with sound defeat
+in the Great Plains. The story of Spaniards
+in the Great Plains, therefore, is mainly one of
+Spanish explorers.</p>
+
+<p>The first Spaniards to reach the Great Plains
+(the specific geography of their route is unknown)
+were &#193;lvar N&#250;&#241;ez Cabeza de Vaca,
+Andr&#233;s Dorantes, and Castillo Maldonado,
+along with Estevan, an African Arab. They
+were the only survivors of the disastrous Panfilo
+de Narv&#225;ez expedition. Their eventful
+journey&#8211;from about 1529 to 1536&#8211;back to
+what is now Mexico took them across the
+Southern Plains of Texas. Cabeza de Vaca and
+his men arrived in Mexico City claiming to
+have seen such marvels as herds of buffalo and
+cities of gold. The reports quickly led the
+Spanish crown to commission an expedition
+to secure the purported riches.</p>
+
+<p>In the same manner as other Spanish conquistadors
+before him, Francisco V&#225;squez de
+Coronado set out north from Mexico in 1540
+with hopes of attaining great wealth and fame.
+His initial goal was to find the fabled Seven
+Cities of Cíbola. He found instead Pueblo villages
+lacking in any great wealth. Disillusioned
+at not finding the seven golden cities, he was
+easily persuaded (by the stories of an Indian
+slave) to continue his search in a more easterly
+direction. In 1541 Coronado and thirty of
+his men struck out across the Llano Estacado
+looking for Quivira, another illusionary place
+of wealth. Quivira turned out to be only the
+grass lodges of the Wichitas, near Great Bend,
+Kansas. Disappointed again, he retreated to
+New Mexico. His report to the crown indicated
+that while the country was of great agricultural
+potential and similar to Spain, it held
+no place for Spaniards; simply put, there was
+no gold.</p>
+
+<p>It was almost two centuries after Coronado
+before Spaniards again pushed deep into the
+Great Plains. In 1720 Don Pedro de Villasur
+was sent to investigate French activities in the
+Central Plains. His expedition took him as far
+north and east as the Platte River in central
+Nebraska, where his party was attacked and
+defeated by Otoes and Pawnees. This disaster
+marked the end of the Spanish presence in the
+Central Plains, except for fur traders, most
+notably the Missouri Fur Company under
+Manuel Lisa, who pushed up the Missouri
+River from St. Louis in the late years of the
+eighteenth century and early years of the nineteenth
+century. Spain primarily focused its attention
+on maintaining sovereignty over the
+Southern Plains of New Mexico, Colorado,
+Oklahoma, and Texas.</p>
+
+<p>While Spaniards persevered as explorers,
+they failed miserably as Great Plains settlers.
+Permanent Spanish settlement on the
+Plains did not begin until 1757. In a deceptive
+ploy aimed at forming an alliance against
+their archenemy the Comanches, the Lipua
+Apaches petitioned the Spanish government
+to establish a mission on the banks of the San
+Saba River near present-day Menard, Texas.
+The settlement was a failure, however, because
+few Apaches converted to Catholicism, and on
+March 16, 1758, the Comanches attacked the
+village, killing all but four residents and burning
+the mission buildings to the ground. For
+approximately ten years the Spanish government
+tried to resurrect the mission community,
+but to no avail. The settlement was finally
+abandoned in 1770, thus ending Spain's attempt
+at founding a mission settlement in the
+territory of the Plains Indians. In 1786 the
+Spanish entered into a treaty with the Comanches,
+which ushered in a period of accommodation
+and trade, rather than settlement,
+on the Southwestern Plains.</p>
+
+<p>By 1821, the year in which political control
+of the Southern Plains was transferred to
+the newly formed Mexican government and
+the Santa Fe Trail opened, the region was still
+unsettled by Spaniards. Hispanos (Spanish
+Americans) had spread their sheep operations
+east into the Great Plains from the upper Rio
+Grande, occupying a territory that would, by
+1900, extend out into the Texas and Oklahoma
+Panhandles, but that was the extent of the
+Spanish influence.</p>
+
+<p>Despite the best efforts of the Spanish
+crown, permanent Spanish settlements in the
+Great Plains failed for at least four reasons.
+First, there was little to attract Spanish citizens
+to the Great Plains. Expeditions became
+tedious marches through a vast, seemingly
+empty land, where nothing of value was found
+to warrant the price of settlement. Second, the
+Spanish system of employing Indian labor
+could not be applied to the mobile people of
+the Plains. The Plains Indians were too nomadic
+and too independent to be restricted to
+settlements. Third, the Plains Indians quickly
+and violently opposed Spanish infiltration.
+After the Apaches acquired the horse in 1684
+and the Comanches in about 1714, they no
+longer tolerated the Spaniards invading their
+land. Finally, despite the fact that they alone
+among European colonizers were accustomed
+to arid climates, Spaniards regarded the physical
+environment as too inhospitable. The barren
+Llano Estacado of west Texas, for example,
+was perceived as nothing more than a transition
+zone, a land to be politically controlled
+but not necessarily settled. Spain preferred to
+use the Great Plains as a buffer zone protecting
+its northern colonies from French and,
+later, American interference.</p>
+
+<p>Today, the Spanish legacy in the Great
+Plains has all but faded. Hispanos still live,
+as minorities, in Plains towns such as Roswell,
+New Mexico, and Pueblo, Colorado, but
+their numbers have been surpassed by the inmigration
+of Latinos since World War II.</p>
+
+<p><hi rend="italic">See also</hi>: <hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.021">Hispano Homeland</ref>; <ref n="egp.ha.039">San Sab&#225; Mission and Presidio</ref>.</p>
+
+<closer>
+<signed>Jeffrey S. Smith<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Vigil, Ralph H., Frances W. Kaye, and John R. Wunder.
+<title level="m">Spain and the Plains: Myths and Realities of Spanish Exploration and Settlement on the Great Plains</title>. Niwot: University
+Press of Colorado, 1994.</bibl> <bibl>Webb, Walter Prescott. <title level="m">The Great Plains</title>. New York: Grosset and Dunlap, 1931.</bibl> <bibl>Weber,
+David J. <title level="m">The Spanish Frontier in North America</title>. New
+Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ind.027 SYSTEM "egp.ind.027.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Headbolt Heater</title>
+<title level="m" type="sub"></title>
+<author>Andrew L. Freeman Jr.</author>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Freeman, Jr., Andrew L.">Andrew L. Freeman Jr.</author> and <author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Headbolt Heater."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">421</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HEADBOLT HEATER</head>
+
+<figure n="egp.ind.027" rend="granted">
+<figDesc>Advertisement for the Headbolt Heater</figDesc>
+</figure>
+
+<p>Without a doubt, necessity was the mother of
+invention in the case of the headbolt heater&#8211;
+necessity and an enterprising man. The necessity
+was getting a car to start in the frigid
+North Dakota winter; the man was Andrew
+Freeman, an electrical engineer who, as general
+manager of Minnkota Power Cooperative,
+brought electricity to the rural areas of
+North Dakota.</p>
+
+<p>The year was 1947, and Freeman, like everyone
+else in Grand Forks, found that even if he
+succeeded in getting his car running, it took so
+much out of the battery that soon the engine
+was dead. He started experimenting with devices
+that would heat the engine of his <hi rend="smallcaps">V</hi>-8
+Ford. At first, using scrap copper tubing as
+inserts and a ribbon wire heating element
+from an old flatiron, he devised a method of
+heating the two hoses that went from the bottom
+of the radiator to the engine block. On a
+thirty-degree morning he attached the heating
+elements to an electrical cord, plugged it in,
+waited for two hours, and immediately started
+the engine. Unfortunately, when Freeman
+tried to install his invention on a neighbor's
+Plymouth, he found that it did not work; nor
+was it successful on another neighbor's Chevrolet.
+So he thought again.</p>
+
+<p>Freeman concluded that he needed a way to
+get heat directly to the water in the engine
+block. He discovered that in most cars the
+headbolts extended directly into the water. After
+much experimentation over a period of
+three years, Freeman developed a system that
+transmitted electricity via a brass tube through
+a replaced headbolt into the water. The electric
+lead extended from the heater through the radiator
+grill to the outlet.</p>
+
+<p>In 1947, with two colleagues, Freeman
+formed the Five Star Manufacturing Company
+of East Grand Forks to manufacture
+headbolt heaters. The company did not do
+well at first, not least because there was a manufacturing
+error in the first 25,000 heaters. But
+soon the product was refined and the manufacturing
+process mechanized until the company
+was turning out 200,000 heaters a year
+for sale in the United States and Canada. Altogether
+Freeman estimates that he sold as
+many as two million headbolt heaters.</p>
+
+<p>Eventually, other types of tank and plug
+heaters took over, and improvements in engine
+design diminished their general necessity.
+Still, engine heaters continued to go by
+the name "headbolt heaters," which is testimony
+to the lasting legacy of Andrew Freeman's
+invention.</p>
+
+<closer>
+<signed>Andrew L. Freeman Jr.<lb/>
+Bemidji, Minnesota<lb/>
+David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McCutchon, Beverly. <title level="m">Reflections: Andrew Freeman, 1909– 1996</title>. Grand Forks <hi rend="smallcaps">ND</hi>: Minnkota Power Cooperative, Inc.,
+1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

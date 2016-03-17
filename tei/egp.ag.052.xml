@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Agriculture</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hurt, R. Douglas">R. Douglas Hurt</author>. <title level="a">"Native American Agriculture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">47-48</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN AGRICULTURE</head>
+
+<p>Prior to white contact, Native American agriculture
+in the Great Plains differed little from
+farming practices east of the Mississippi River.
+On the Northern Plains the Mandans and
+Hidatsas cultivated corn, beans, and squash
+for their essential food needs. Women, who
+were expert geneticists, cleared the land and
+planted, cultivated, and harvested the crops,
+then stored the surplus in jug-shaped pits.
+They and other village-based Plains Indians,
+such as the Pawnees, used floodplain terraces
+for cropland. The tough prairie sod prevented
+cultivation of the uplands. Family fields were
+small, generally less than four acres. Nomadic
+Plains tribes, such as the Crows and Lakotas
+(Sioux), traded buffalo meat and hides to the
+farming peoples for vegetables.</p>
+
+<p>During the nineteenth century the acquisition
+of Native American lands by the federal
+government, and its distribution to settlers,
+led to the creation of reservations where missionaries
+and government agents attempted to
+teach Native Americans European American
+agricultural traditions. A similar policy was
+instituted in Canada on reserves created in the
+1870s and 1880s. Agents often violated Indian
+culture by providing instruction to men, who
+viewed agriculture as women's work. Agency
+farmers also promoted wheat over traditional
+crops and insisted on row cultivation rather
+than the intercultivation methods that had
+traditionally been used.</p>
+
+<p>Often reserves and reservations were located
+in areas where land could not support
+agriculture beyond the subsistence level. Both
+governments also failed to provide adequate
+equipment, seeds, and training to enable the
+transition to the new system. On the Canadian
+reserves, for example, farmers who were supposed
+to instruct Native Canadians were generally
+from Ontario and knew nothing of the
+conditions in the Prairie Provinces.</p>
+
+<p>By the 1880s, in the United States, pressure
+by settlers for reservation lands became acute
+and Congress responded with the General Allotment
+Act (also known as the Dawes Act) in
+1887, which provided for the allotment of land
+to individual tribal members. Under this legislation,
+each head of household received a
+plot of land, generally 160 acres, leaving the
+remainder of the reservations to be sold as
+surplus lands. Individuals who took allotments
+would receive title to their land after a
+trust period of twenty-five years. The Canadian
+reserves were also allotted. The U.S. and
+Canadian governments proposed to teach Native
+peoples to become self-su.cient farmers
+on their allotments, but they failed to back the
+policy with the necessary resources. In 1906
+Congress passed the Burke Act, which enabled
+the secretary of the interior to declare an allotted
+farmer competent to manage his or her
+own affairs before the end of the trust period.
+Landowners who were declared competent received title to their lands and often sold it, a
+process that further hindered the successful
+development of Native American agriculture.</p>
+
+<p>During the 1930s the federal government
+attempted to aid Plains Indian farmers by providing
+cattle to help build tribal herds, and
+several tribes organized livestock associations
+to improve breeding and marketing practices.
+By the end of World War II, however, high
+crop and livestock prices accelerated white demands
+to lease or purchase Indian lands because,
+it was claimed, they were not being
+cultivated or grazed to capacity. After 1945
+only the white farmers who could command
+the necessary capital and credit, and who had
+access to new forms of science and technology
+and large acreages, could earn a profit from
+commercial agriculture. Native Americans in
+the Great Plains remained subsistence farmers,
+if they practiced agriculture at all. In
+1970, for example, only 9 percent of Native
+Americans on the North Dakota reservations
+of Fort Berthold, Fort Totten, Turtle Mountain,
+and Standing Rock were farmers or farm
+managers.</p>
+
+<p>At the beginning of the twenty-first century,
+on many reserves and reservations in
+the Great Plains, Native American agriculture
+has nearly ceased. There are important exceptions,
+of course, such as Montana Reserve in
+Alberta, which has a successful ranch and feed
+operation. But many tribes have leased their
+reservation lands to white farmers and ranchers,
+and millions of acres of allotted lands have
+been sold and passed from Indian control.
+The problems of government-imposed inheritance
+laws, which divided land holdings into
+tracts too small for profitable cultivation, and
+inadequate capital, credit, and education, as
+well as insufficient machinery, seeds, fertilizer,
+irrigation, and managerial experience, remain
+unresolved. As a result, most Native Americans
+in the Great Plains live in rural areas but
+are not farmers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.015">Dawes Act</ref>.</p>
+
+<closer>
+<signed>R. Douglas Hurt<lb/>
+Iowa State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Baillargeon, Morgan. "Native Cowboys on the Canadian
+Plains." <title level="j">Agricultural History</title> 69 (1995), 547–62.</bibl> <bibl>Hurt, R.
+Douglas. <title level="m">Indian Agriculture in America: Prehistory to the Present</title>. Lawrence: University Press of Kansas, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

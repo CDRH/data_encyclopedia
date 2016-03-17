@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.afam.027 SYSTEM "egp.afam.027.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Love, Nat (1854-1921)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Love, Nat">Love Nat</author>. <title level="a">"Love, Nat (1854-1921)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">17</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOVE, NAT (1854-1921)</head>
+
+<figure n="egp.afam.027" rend="granted">
+<figDesc>Nat Love (Deadwood Dick), between 1870 and 1890</figDesc>
+</figure>
+
+<p>Also known by his nickname Deadwood Dick,
+Nat Love was born a slave in 1854 in Davidson
+County, Tennessee. At the age of fifteen he
+ventured to the Great Plains where, like many
+ex-slaves, he found work in the cattle industry.
+For twenty years he worked on cattle ranches
+in the Texas Panhandle and Arizona. Love participated
+in the great cattle drives of the 1870s,
+driving herds to Dodge City, Kansas, and
+to mining camps in Montana and the Black
+Hills. While in Deadwood, Dakota Territory,
+in July 1876, he reportedly earned the nickname
+Deadwood Dick after winning a riding,
+roping, and shooting competition. Love retired
+from the cattle industry in 1890 and went
+to work as a porter for the Denver and Rio
+Grande Railroad. His last job was as a bank
+guard in Los Angeles.</p>
+
+<p>Love is best known for his autobiography,
+<title level="m">The Life and Adventures of Nat Love, Better
+Known in the Cattle Country as Deadwood
+Dick</title> (1907). Unfortunately, the book is highly
+exaggerated, and it is difficult to separate truth
+from fiction. Inspired by the Western dime
+novels of the period, Love describes himself
+as the best cowboy, best shooter, and hardest
+drinker on the western frontier. The real life of
+Nat Love, therefore, is difficult to trace. Nonetheless,
+the book is high adventure and includes
+colorful western personalities such as
+Billy the Kid, Jesse James, and Buffalo Bill
+Cody. Love reportedly married a woman
+named Alice in 1889 and had one child. He
+died in 1921 in Los Angeles, California.</p>
+
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Katz, William Loren. <title level="m">The Black West</title>. New York: Doubleday,
+1971.</bibl> <bibl>Love, Nat. <title level="m">The Life and Adventures of Nat Love,
+Better Known in the Cattle Country as Deadwood Dick</title>.
+New York: Arno Press, 1968.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.033">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Saskatchewan Women Grain Growers</title>
+<title level="m" type="sub"></title>
+<author>David E. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.033</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, David E.">David E. Smith</author>. <title level="a">"Saskatchewan Women Grain Growers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">336</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SASKATCHEWAN WOMEN GRAIN GROWERS</head>
+
+<p>Founded in 1913, the Women's Section of the
+Saskatchewan Grain Growers Association
+played a major role in the advancement of
+such causes as women's suffrage, public health
+and medical care, prohibition, the Canadianization
+of the immigrant, and the propagation
+of the cooperative ideal. Although born of the
+Saskatchewan Grain Growers Association, the
+Prairies' pioneer agrarian organization, with
+origins that preceded the creation of Saskatchewan
+(1905), the Women Grain Growers was
+not its auxiliary. Viewing themselves as both
+farm women and farmers, the leaders of the
+Women Grain Growers&#8211;most prominent
+among them Violet McNaughton, Francis
+Beynon, and Zoa Haight&#8211;claimed, and received,
+full constitutional status with the parent
+body as well as the right to form their own
+locals and meet separately if they so desired.
+Three of their members were also guaranteed
+seats on the board of directors of the Saskatchewan
+Grain Growers Association.</p>
+
+<p>By 1919 there were 6,000 women members
+in the Women Grain Growers and in the locals
+of the Saskatchewan Grain Growers Association;
+that is, approximately one in six of
+the total membership. The Saskatchewan
+Women Grain Growers became the model on
+which women's sections of the United Farmers
+of Alberta, Manitoba, and Ontario was
+patterned.</p>
+
+<p>Full participation by women in the affairs
+of the Saskatchewan Grain Growers Association
+and the Women's Section preceded by six
+and eight years, respectively, the first exercise
+of the right to vote by women in provincial
+and federal politics. As such, any study of
+women and politics in Canada must give
+prominence to these agrarian organizations.</p>
+
+<p>Leaders of the Saskatchewan Women Grain
+Growers played an influential role in the move
+of traditional farmers to the political left, as
+witnessed by the introduction of the Wheat
+Pool in 1924 and the amalgamation of the
+Saskatchewan Grain Growers Association and
+the more radical Farmers Union of Canada in
+1926. A separate women's section of the new
+United Farmers of Canada&#8211;Saskatchewan
+Section disappeared after 1930, when that organization
+experimented&#8211;more faithfully on
+paper than in practice&#8211;with an early form of
+affirmative action.</p>
+
+<closer>
+<signed>David E. Smith<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Marchildon, Randolph George. "Improving the Quality of
+Rural Life in Saskatchewan: Some Activities of the Women's
+Section of the Saskatchewan Grain Growers, 1913–
+1920." In <title level="m">Building Beyond the Homestead: Rural History of the Prairies</title>, edited by David C. Jones and Ian MacPherson.
+Calgary: University of Calgary Press, 1985: 89–109.</bibl>
+<bibl>Taylor, Georgina M. "'Ground for Common Action': Violet
+McNaughton's Agrarian Feminism and the Origins of
+the Farm Women's Movement in Canada." Ph.D. diss.,
+Carleton University, 1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

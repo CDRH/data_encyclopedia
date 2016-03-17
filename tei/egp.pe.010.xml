@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bison</title>
+<title level="m" type="sub"></title>
+<author>Douglas B. Bamforth</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.010</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bamforth, Douglas B.">Douglas B. Bamforth</author>. <title level="a">"Bison."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">621-622</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BISON</head>
+<figure n="egp.pe.010" rend="granted">
+<figDesc>Bison fight in Grand Teton National Park</figDesc>
+</figure>
+    
+<p>The North American bison (<hi rend="italic">Bison bison</hi>) is
+the dominant symbol of the natural world of
+the Great Plains. Often referred to as "buffalo,"
+the bison is actually the North American
+counterpart of a distinct evolutionary lineage
+stretching back into the Pliocene. While true
+buffalo are found in Africa and southern Asia,
+the closest living relative of the North American
+bison is the European wisent. Bison first
+appear in the fossil record in China and later
+spread into North America across the Bering
+Land Bridge into modern Alaska, reaching the
+Plains during the Middle Pleistocene (730,000
+to 128,000 years ago).</p>
+
+<p>The modern male bison stands roughly six
+feet tall at the shoulder, is about nine feet
+long, and weighs 1,800 to 2,000 pounds. Females
+are smaller, averaging about five feet
+at the shoulder, seven feet in length, and 700
+to 800 pounds. Both sexes have fairly short
+horns that curve upward and inward, and
+massive heads and forequarters with a large
+hump just behind the head, along with relatively
+slender hips and hindquarters. The
+bison's thick coat insulates it against Plains
+winters, and its powerful head and neck allow
+it to dig through snow for winter forage. As
+individuals, bison (particularly males) are unpredictable
+and often aggressive and have
+been known to attack humans. However, they
+are extremely social and react more predictably
+in herds: in particular, bison bunch together
+and stampede as a group in response to
+even slight provocations. Bison are built to
+run, with males clocked at speeds of thirty
+miles per hour; a bison can canter far longer
+than a horse.</p>
+
+<p>Bison herds on the Plains today live in limited
+areas, including national, state, and local
+parks and private ranches. Most herds are also
+managed, to some degree, through selective
+slaughter and provision of winterfeed. Bison,
+however, once ranged from northern Mexico to
+Canada and from Nevada to the Appalachian
+Mountains, and bison numbers and movements
+in this vast territory were determined
+primarily by the natural distributions and
+amount of forage, water, and winter shelter.</p>
+
+<p>For much of the year, females, calves, and
+adolescent males tend to form "nursery" herds,
+separate from "bull" herds comprised primarily
+of adult males. Both nursery and bull
+herds form cohesive, hierarchically organized
+social units, with social positions determined
+by the outcomes of dominance fights in which
+pairs of bull bison clash their heads together
+and attempt to knock each other off balance.
+Although there are few records of bison herd
+sizes prior to the nineteenth century, bison
+probably dispersed into their smallest social
+groups in winter and early spring when food
+was least abundant and nutritious. Winter
+herds may have been larger in the north as
+animals sought out limited sheltered areas to
+escape wind and cold. Maximum herd sizes
+were probably no larger than 10,000 to 20,000.</p>
+
+<p>In unmanaged modern herds too, late winter
+and early spring are hard times, and "winterkill"
+resulting from old age, starvation, predation,
+and exposure limits population increase.
+Calves are born in April and May. Throughout
+the Plains, bison aggregate into larger herds
+during the summer and early fall, when the
+Plains grasses grow best and provide the highest
+nutritional yield. Herd sizes particularly
+increase in late summer, when nursery and
+bull herds combine for the annual rut. During
+the rut, fights between males are nearly continuous
+because victorious (or dominant)
+males have preferential access to females.</p>
+
+<p>Modern bison and their habits resulted
+from a long process of evolutionary change.
+The earliest North American forms (<hi rend="italic">Bison latifrons</hi>)
+were much larger than the modern
+species and had much longer, straighter, and
+sharper horns. Trends toward smaller bodies
+with more modern horns were accompanied
+by skeletal changes in the head and shoulders
+over time, indicating increasing strength and a
+greater ability to bear the shock of collisions
+in dominance battles. Taken together, these
+changes (particularly the shift to a less lethal
+horn configuration) imply that dominance
+clashes became more common, apparently
+because of increasing herd sizes. These trends
+reflect changes in the adaptations of the bison,
+probably caused by alterations in the Plains
+environment. Bison originated as a forest species
+and probably lived in small social groups,
+with dominance fights rare and, given the lethal
+design of their horns, probably often fatal.
+The Pleistocene expansion of the Plains
+grassland and decreasing forage production
+due to increasing aridity within the last 12,000
+years probably favored smaller animals living
+in larger herds, thereby increasing the frequency
+of dominance fights and evolution of
+less dangerous fighting apparatus.</p>
+
+<p>Humans have also profoundly influenced
+the Plains bison. Native Americans hunted ancient
+and modern bison for at least 12,000
+years, stalking individual animals or slaughtering
+entire herds by driving animals over cliffs
+or into corrals or other traps. Within the last
+1,000 years, hunter-gatherer groups throughout
+the Plains hunted both for their own needs
+and to produce a surplus for trade with their
+agricultural neighbors.</p>
+
+<p>In the first half of the nineteenth century
+the fur trade provided a new market for bison
+robes, and hunting increased significantly. After
+about 1850, railroad construction, population
+expansion, and increased commerce in
+bison hides accelerated the rate at which bison
+were slaughtered. Bison were also adversely
+affected by increasing competition with European
+American and Native American horse
+and cattle herds for limited winter forage and
+by cattle-borne diseases. Ultimately, these
+forces reduced an estimated population in the
+early nineteenth century of 30 to 50 million
+animals to fewer than 1,000 by the 1890s.</p>
+
+<p>Bison populations now total some 70,000,
+thanks to efforts by government agencies and
+private groups like the National Bison Association
+and the InterTribal Bison Cooperative.
+Private groups are particularly motivated by
+a growing market for bison meat, which is
+lower in fat and cholesterol than beef.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.015">Buffalo Ranching</ref> / <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.040">Hunting</ref>.</p>
+
+<closer>
+<signed>Douglas B. Bamforth<lb/>
+University of Colorado</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bamforth, D. B. <title level="m">Ecology and Human Organization on the
+Great Plains</title>. New York: Plenum Press, 1988.</bibl> <bibl>Flores, Dan.
+"Bison Ecology and Bison Diplomacy: The Southern
+Plains from 1800 to 1850." <title level="j">Journal of American History</title> 78
+(1991): 465-85.</bibl> <bibl>Roe, F. G. <title level="m">The North American Buffalo</title>.
+Toronto: University of Toronto Press, 1970.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

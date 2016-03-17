@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Seasonal Celebrations</title>
+<title level="m" type="sub"></title>
+<author>Nikki Bado-Fralick</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bado-Fralick, Nikki">Nikki Bado-Fralick</author>. <title level="a">"Seasonal Celebrations."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">313</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SEASONAL CELEBRATIONS</head>
+
+<p>Seasonal celebrations and festivals are among
+humanity's most ancient and enduring traditions.
+It is often no accident that many of the
+world's oldest and most important religious
+holidays coincide with, or are directly related
+to, the cycles and seasons of the natural world.
+We have always observed the changing seasons
+with a mixture of anticipation and dread,
+knowing that our very survival&#8211;a bountiful
+harvest, plentiful herds, or a successful hunt&#8211;
+depends largely on the whims of Mother Nature.
+We have always celebrated the seasons
+with occasions of ritual and festival, both expressing
+relief and giving thanks for the bounty
+of the land, brought forth by time and our
+own hard work.</p>
+
+<p>Similar to the range and variety of its folk
+beliefs, the seasonal celebrations and festivals
+of the Great Plains reflect the customs and
+traditions of the many groups contained within
+its vast boundaries, taking on a regional
+flavor through the response of people to their
+immediate natural world. Like others around
+the world, the folk of the Great Plains have
+worked to the rhythms of the land, sometimes
+confronting unexpectedly harsh and even brutal
+conditions. Both religious and secular festivals
+typically mark "seasons of work" having
+to do with agriculture or the care of animals:
+hunting, planting, harvesting, breeding stock,
+moving animals from one pasture to another,
+shearing sheep, and butchering animals that
+will not be "wintered over." Agricultural survival
+in the Great Plains requires not only hard
+work but delicate timing. Tasks of planting and
+harvesting seldom can wait but must be timed
+to the whims of rain and sun.</p>
+
+<p>Hard work, harsh conditions, and delicate
+timing notwithstanding, the seasons in the
+Great Plains are also accompanied by equally
+hard play and merry socializing, especially after
+the work is done. Special foods, songs,
+games, and customs attend each seasonal celebration.
+Food and drink are absolutely necessary
+elements, along with music and dancing.
+Historically, Plains folk seemed to enjoy just
+about any excuse to get together and have fun:
+parades, races, speeches, contests, dressing up
+(even cross-dressing), role reversals, and general
+carousing typically accompany seasonal
+festivals.</p>
+
+<p>Spring in the Plains is a time not only for
+planting but also for celebrating the end of
+winter and reveling in the sheer joy of being
+alive. Although seasonal customs change and
+sometimes pass away with time, children in
+parts of the Great Plains still dance and sing
+around the maypole and make May baskets of
+spring flowers for their neighbors. Bonfire
+dancing also once accompanied general spring
+festivities, especially among Swedes, usually at
+Easter. Ethnic groups such as the Swedes and
+the Finns contributed their own unique festivals&#8211;
+such as the celebration of Midsummer's
+Day&#8211;to the cultural mix of the Great Plains.</p>
+
+<p>Seasonal work affords plenty of occasions
+for festive socializing. Often this is a matter
+of necessity: it takes more than one hand or
+one family to finish a harvest on time, and
+the fruits of that harvest provide the means
+for socializing. Once-common activities such
+as cornhusking bees, bean picking, pea shelling,
+and watermelon feeds provided opportunities
+for women and children to both work
+and socialize. The women exchanged news
+and information and checked out prospective
+mates for their daughters and sons. Seasonal
+activities and festivals were, and still are, an
+important part of community building for
+Plains folk.</p>
+
+<p>Additionally, seasonal work itself is often
+intertwined with play in the form of games or
+contests: Who can pick the most corn or harvest
+the most wheat? Who's the fastest sheep
+shearer, the best cowpoke? Who makes the
+best fruit pie or jam? Who can grow the largest
+pumpkin? Both rodeos and state and local
+fairs have evolved as premier events in the
+Great Plains, designed to demonstrate the
+level of one's skills and to showcase the bounty
+of the harvest. Even local churches are lovingly
+decorated with the fruits of the harvest season.
+The late summer and fall harvest seasons
+still provide numerous opportunities for both
+work and festive play, ending with the final
+twin harvest celebrations of Halloween, with
+its puckish and unruly mischief, and Thanksgiving,
+with its solemn and grateful sharing of
+harvest bounty.</p>
+
+<p>Although many seasonal celebrations of the
+Great Plains are similar to those found in
+other parts of the country, Plains folk nevertheless
+put their own distinctive stamp on
+the fun. Independence Day has not been the
+same in Lewistown, Montana, since two desperados
+tried to hold up the town in 1884.
+Each year, the whole town reenacts the dastardly
+crime, complete with the mock shooting
+of "Rattlesnake Jake" and his partner, and
+the unfortunate shooting death of the unlucky
+citizen who just happened to be in the way.</p>
+
+<p>Christmas celebrations also undergo interesting
+transformations in the Plains. While
+Santa Claus normally wears a jolly red suit, he
+is just as likely to be dressed as a rowdy, rollicking
+cowboy in the Plains. Good little girls
+and boys leave cookies and milk for Santa.
+German children in the Plains make sure to
+leave three ears of corn, one for each of the
+Three Wise Men, for Santa's reindeer. Christmas
+dinner is a lovingly prepared feast, but for
+Swedes in the Great Plains it is literally a smorgasbord,
+a custom that dates back at least to
+the time of the Vikings. Where pines and evergreens
+are plentiful, expect to find Christmas
+trees with all the usual trimmings. But in Kansas,
+where such trees were absent, early Plains
+settlers creatively wove a "Christmas arch"
+from which to hang their Christmas stockings
+and gifts.</p>
+
+<p>Above all, the settlers of the Great Plains
+were "make do" people when it came to
+seasonal celebrations and festivals, adapting
+to the demands of the land and crafting new
+traditions to honor and celebrate the never-ending
+transformation and renewal of life in
+the Plains.</p>
+
+<closer>
+<signed>Nikki Bado-Fralick<lb/>
+Iowa State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Johnson, Dorothy M. "Independence Day, 1884!" <title level="j">Montana</title>
+8 (1958): 2–7.</bibl> <bibl>Sackett, S. J., and William E. Koch, eds.
+<title level="m">Kansas Folklore</title>. Lincoln: University of Nebraska Press,
+1961.</bibl> <bibl>Welsch, Roger L. <title level="m">A Treasury of Nebraska Pioneer Folklore</title>. Lincoln: University of Nebraska Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

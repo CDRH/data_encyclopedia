@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Edwards, Bob (1864-1922)</title>
+<title level="m" type="sub"></title>
+<author>Diane Howard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Howard, Diane">Diane Howard</author>. <title level="a">"Edwards, Bob (1864-1922)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">511-512</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">Edwards, Bob (1864-1922)</head>
+
+<p>One of Canada's leading journalists, Bob Edwards
+was a critic of government officials and
+the excessive moralism of the churches as well
+as a supporter of the emancipation of women
+and the temperance crusade. He was best
+known as the one-man staff, editor, and publisher
+of the <title level="j">Calgary Eye Opener</title> and remembered
+for his off-color tales and jokes. Edwards
+built the paper's circulation and his
+own reputation for social criticism combined
+with humor.</p>
+
+<p>Robert Chambers Edwards was born on
+September 12, 1864, in Edinburgh, Scotland.
+He was orphaned at an early age and, with his
+brother Jack, raised by an aunt. He was educated
+at Glasgow University, where he studied
+philosophy and literature. For a brief period,
+Edwards traveled throughout Europe, settling
+in the south of France, where he continued
+the family tradition of newspaper writing and
+publishing. His first enterprise was an English
+newspaper named the <title level="j">Traveler</title>, which he published
+on the Riviera and which catered to
+English gentry traveling abroad.</p>
+
+<p>In 1884 Bob traveled with his brother to the
+United States and for the next ten years found
+assorted jobs working on farms and cattle operations
+in Wyoming, Iowa, and Alberta, Canada.
+In 1897 he finally settled down in the
+small town of Wetaskiwin, fifty miles south
+of Edmonton. There he established the <title level="j">Wetaskiwin Free Lance</title>, the first newspaper to
+be published between Edmonton and Calgary.
+Edwards wrote less about "real news" and
+more on the social issues of the day. The editor
+of the <title level="j">Calgary Herald</title> was impressed by Edwards's
+humor and witty journalistic prose
+and offered to reprint some of his articles in
+the Calgary paper.</p>
+
+<p>In 1898 Bob Edwards moved to Calgary,
+where he continued to publish and write for
+the <title level="j">Wetaskiwin Free Lance</title>. He soon moved on
+to Winnipeg, where he struggled as a news
+reporter for the <title level="j">Winnipeg Free Press</title>. Disillusioned
+as a writer for a large daily, Edwards
+returned to the small-town life he so enjoyed
+and set up shop in High River, where he published
+the first edition of the <title level="j">Eye Opener</title> in
+March 1902. The hard-drinking, carefree Edwards
+created fictional characters and tales
+considered shocking by small-town standards,
+and eventually he moved his operation to Calgary.
+As soon as he was settled, Edwards continued
+to build his reputation by reporting on
+various local scandals with satire and wit.</p>
+
+<p>Over the next twenty years Bob Edwards
+became known for standing up for the common
+person, highlighting the plight of prostitutes,
+and revealing the scams of fraudulent
+real estate developers. Personally, he battled
+severe alcoholism, so much so that in 1916 he
+was one of the supporters of prohibition in
+Alberta. A year later he married a Scottish
+woman who was less than half his age.</p>
+
+<p>In the summer of 1920 Edwards published a
+soft-cover book of some of his best stories,
+editorials, and jokes. It was an enormous success
+and appeared regularly as an annual edition
+for the remainder of his life. Edwards
+died on November 14, 1922, leaving a long
+legacy of witty writings depicting the political,
+social, and economic times of the early Canadian
+western frontier. To honor Bob Edwards,
+Alberta Theater Projects initiated an award in
+his name recognizing Canadian writers who
+exemplify the spirit of freedom of expression.</p>
+
+<closer>
+<signed>Diane Howard<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dempsey, Hugh. <title level="m">The Best of Bob Edwards</title>. Edmonton, Alberta:
+Hurtig Publishers, 1975.</bibl> <bibl>Longpr&#233;, Kerry, and Margaret
+Dickson. <title level="m">Provocative Canadians: In the Spirit of Bob Edwards</title>. Calgary, Alberta: Bayeux Arts, 1999.</bibl> <bibl>MacEwan,
+Grant. <title level="m">Eye Opener Bob: The Story of Bob Edwards</title>. Saskatoon,
+Saskatchewan: Western Producer Prairie Books,
+1974.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

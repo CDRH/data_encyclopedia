@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.019 SYSTEM "egp.ag.019.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cattle Ranching</title>
+<title level="m" type="sub"></title>
+<author>Kenneth C. Dagel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dagel, Kenneth C.">Kenneth C. Dagel</author>. <title level="a">"Cattle Ranching."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">37-38</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATTLE RANCHING</head>
+
+<figure n="egp.ag.019" rend="granted">
+<figDesc>Cattle ranching</figDesc>
+</figure>
+
+<p>Perhaps no other activity has so well defined
+the character of the Great Plains in literature,
+movies, and the national psyche as cattle ranching. 
+Ranching, as it developed on the Plains,
+was well adapted to the physical environment.
+Cattle were able to consume the nutrient-rich
+grasses, just as the bison had. Even today, grass
+is the most important natural resource for
+ranchers, and little tillage agriculture takes
+place in order to sustain the herds.</p>
+
+<p>Cattle ranching in the Great Plains of the
+United States and Canada differs from the
+raising of beef cattle on small farms farther
+east. In the Great Plains it is the primary activity,
+not an adjunct to farming, and it is conducted
+on horseback (and, more recently, out
+of a pickup truck). Nearly 50 percent of beef
+cattle in the United States are raised in the
+Great Plains, and 33 percent of Great Plains
+ranches have 1,000 or more cattle. Sixty percent
+of Canada's beef cattle are raised in the
+Prairie Provinces, but the average number of
+cattle per ranch is slightly less than in the
+United States.</p>
+
+<p>Although modified by Californian and
+midwestern involvement, Great Plains cattle
+ranching was formed primarily by Texan influences.
+The impetus for cattle ranching in
+the Great Plains began just south of the Edwards
+Plateau in Texas. In a diamond-shaped
+area reaching south of San Antonio to Mexico,
+free-roaming cattle of Spanish bloodlines existed
+in large numbers by the early 1800s.
+Texans returning home after the Civil War
+rounded up as many of these cattle as they
+could in an attempt to make money. Some
+started ranches in Texas. Others drove their
+newfound herds north to the railhead at Sedalia,
+Missouri. As the railroad and farmers
+pushed westward, cattle were trailed to terminals
+at Abilene, Newton, Ellsworth, and
+Dodge City, Kansas. From the railhead, cattle
+were shipped east, where they brought
+as much as $4.75 per hundredweight in 1884.
+Prices varied considerably depending on the
+quality of cattle shipped and where they were
+shipped, but the profit margin was high
+enough during the cattle-trailing period from
+1866–90 that more than 5 million head were
+moved out of Texas to eastern markets and to
+ranges farther north in the Great Plains. For
+all of its glory, however, cattle trailing was not
+cattle ranching but merely a prelude to large,
+permanently established cattle ranches that
+developed late in the trailing period.</p>
+
+<p>Ranches were established throughout the
+Great Plains from Texas to the Prairie Provinces.
+Ranching in Canada developed coincident
+with that in the United States and was
+not simply an extension of the cattle business
+north of the border. A major difference
+between the two countries was that a government
+program in Canada allowed up to
+100,000 acres to be leased to ranchers, while
+early ranchers and other, sometimes foreign,
+interests ran large numbers of cattle on huge
+tracts of grassland in both countries. The
+Texas-based <hi rend="smallcaps">XIT</hi> Ranch controlled 3 million
+acres in Texas and another 2 million acres in
+Montana. The Hash Knife Ranch near Belle
+Fourche, South Dakota, ran 96,000 cattle.</p>
+
+<p>In the United States, Texas served initially as
+a mild-weather breeding ground from which
+cattle were sold to ranchers farther north. The
+open range of the Northern Great Plains was
+the fattening ground. Roundups were performed
+in the spring to brand and count the
+cattle and in the fall to cut out the beef cattle
+to be sold at market. The roundups completed
+in the late 1800s were the same in principle,
+and much the same in practice, as contemporary
+roundups. Indeed, striking similarities
+exist between the calendar of ranch activities
+in 1890 and that of today. Then, as now, the
+cycle was closely tied to the seasons and the
+grass that provided the main source of food
+for the cattle. The feeding of hay and grain
+supplements on contemporary ranches has
+only slightly altered the basic cycle.</p>
+
+<p>The annual sequence of events varies in timing
+and technique from Texas to Canada but is
+similar in purpose and structure throughout
+the region. During the coldest months of the
+year, cattle remain on those areas of the range
+that offer some protection from the elements.
+This can include rolling topography close to
+the ranch that provides a natural barrier to
+wind and snow. This is also the time when
+supplemental feeding is most important, especially
+if heavy snow cover makes it difficult
+for cattle to graze. Cattle from backgrounding
+operations, where cattle are kept over winter,
+are marketed during the first three months of
+the year.</p>
+
+<p>Calving season can begin as early as the last
+week in January and continue until June. This
+is frequently a time of round-the-clock work
+for ranchers when they ride close to the herd
+to watch for any cow that may have difficulty
+calving. If the cows are located at some distance
+from the base ranch, cowboys may be
+hired to help watch the herd on a daily basis
+and then return to their homes at night. When
+old enough, the calves are branded, vaccinated,
+and eartagged, and bull calves are castrated
+prior to trailing them to summer pasture
+around the middle of June when grasses
+are reaching their peak. In early summer, the
+job of putting up hay for the winter begins in
+earnest, and, depending on the precipitation
+and the type of grass or legume, this work may
+continue well into the fall.</p>
+
+<p>In the fall, cattle are rounded up from the
+summer pasture and given necessary vaccinations,
+while calves are weaned. In operations
+that do not background calves, steer calves
+weighing 600–800 pounds are shipped to
+market in early to mid-October. By November,
+the cattle are moved to winter pasture in
+protected areas or areas of the ranch that were
+not grazed during the summer and fall during
+the normal rotation of pastures. Winterfeeding
+begins and continues through February if
+conditions demand it.</p>
+
+<p>Of the different types of agricultural operations
+in the Plains, ranching has changed the
+least in the last century. While, in essence,
+it remains a straightforward method of producing
+food, the adjustments and techniques
+needed to maintain an efficient and environmentally
+sustainable outfit are more complex
+than before. Ranchers must contend with
+drought, cattle diseases, predators, and government
+intervention, just as in the past.
+Modern ranchers must also be concerned
+with changing technologies and the vagaries
+of market demand for red meat. Still, most
+operators consider cattle ranching a lifestyle
+as well as a business. With proper management,
+ranching is a productive and attractive
+activity in semiarid environments like the
+Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.015">Cowboy Culture</ref>.</p>
+
+<closer>
+<signed>Kenneth C. Dagel<lb/>
+Missouri Western State College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jordan, Terry. <title level="m">North American Cattle Ranching Frontiers</title>.
+Albuquerque: University of New Mexico Press, 1992.</bibl>
+<bibl>Schlebecker, John T. <title level="m">Cattle Raising on the Plains 1900–
+1961</title>. Lincoln: University of Nebraska Press, 1963.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

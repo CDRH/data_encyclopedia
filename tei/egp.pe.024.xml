@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Endangered Species</title>
+<title level="m" type="sub"></title>
+<author>Hugh H. Genoways</author>
+<author>Margaret R. Bolick</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Genoways, Hugh H.">Hugh H. Genoways</author> and <author n="Bolick, Margaret R.">Margaret R. Bolick</author>. <title level="a">"Endangered Species."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">626-627</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ENDANGERED SPECIES</head>
+
+<p>Endangered species of fauna and flora are
+those species in imminent danger of becoming
+extinct unless mitigating actions are taken,
+particularly in saving critical habitats. The list
+of endangered species in the Great Plains was
+developed using the official list of the Division
+of Endangered Species of the U.S. Fish and
+Wildlife Service and provincial lists for Alberta,
+Manitoba, and Saskatchewan prepared
+by the World Wildlife Fund. The list is dominated
+by vertebrate species, with six species of
+mammals, thirteen birds, one amphibian, and
+six fishes. The only invertebrate is an insect, the
+American burying beetle, and there are ten
+species and two varieties of vascular plants.</p>
+
+<p>The most noticeable characteristic of this
+list is how short it is. There are only thirty-nine endangered species in the entire Great
+Plains. There are no reptiles on the list, and
+the only amphibian on the list is the Houston
+toad, which only marginally enters the Great
+Plains in central Texas. If all the species that
+only marginally enter the Great Plains are
+eliminated, the list would be significantly reduced.
+Among mammals, the gray bat and the
+Indiana bat reach the Great Plains only in extreme
+eastern Kansas, and the ocelot reaches
+the Great Plains only in south Texas. The grizzly
+bear and gray wolf may well be extirpated
+from the Great Plains, although grizzly bears
+may still be extant along the front of the Rocky
+Mountains west of Calgary and gray wolves
+may be found in the Parkland Belt at the
+northern edge of the region in the Canadian
+provinces.</p>
+
+<p>Six species of birds on the list&#8211;burrowing
+owl, greater prairie-chicken, loggerhead shrike,
+mountain plover, piping plover, and sage
+thrasher&#8211;appear in the Great Plains list only
+because they are on one or more of the Canadian
+provincial lists of endangered species. The
+whooping crane and Eskimo curlew only migrate
+through the Great Plains and do not
+breed or reside for very long in the region. Five
+of the six species of fishes (the pallid sturgeon
+being the exception) are from restricted habitats
+at the southwestern edge of the Great
+Plains in Texas. Among the vascular plants,
+there are four types of cacti that enter the Great
+Plains in the desert grasslands along the southwestern
+edge of the region.</p>
+
+<p>The American burying beetle has an extensive
+geographic range in the eastern United
+States, but some of the largest and best-studied
+populations are in Nebraska. The pallid sturgeon
+is found in the Missouri River and its tributaries.
+This leaves very few species on the list
+that have a broad geographic range in the Great
+Plains, including the black-footed ferret, swift
+fox, American peregrine falcon, loggerhead
+shrike, least tern, piping plover, western prairie
+fringed orchid, small white lady's slipper orchid,
+and Mead's milkweed.</p>
+
+<p>Endangered status results from complex
+changes in habitats. The black-footed ferret,
+for example, has been taken to the brink of
+extinction because of the decline of its main
+food source, the black-tailed prairie dog,
+which now occupies only 2 percent of its former
+range. The presence of the burrowing owl
+on the endangered lists of three Canadian
+Prairie Provinces may be linked to the same
+cause.</p>
+
+<p>Why does an extensive phytogeographic region
+such as the Great Plains have so few endangered
+species? There are at least two answers to
+this question. First, habitats in the Great Plains
+cover extensive areas and the phytogeographic
+regions flow almost imperceptibly from the
+shortgrass prairie in the west through the midgrasses
+to the tallgrass prairies of the east. Consequently,
+there are few habitats in which species
+can become isolated and vulnerable. Species
+that do become endangered tend to occupy limited
+geographic ranges or live in very specialized
+ecological niches, such as caves, hot springs, or
+gypsum outcrops. Second, the species that do
+occur in the Great Plains have broad geographic
+distributions and broad ecological resource
+limits. Species with these characteristics are generally
+not those that reach endangered status.</p>
+
+<div2>
+<head type="sub">>Endangered Fauna and FLora of the Great Plains (2001)</head>
+
+<head type="sub"><hi rend="smallcaps">FAUNA</hi></head>
+
+<table rows="8" cols="2">
+<row><cell role="desc">Mammals (7)</cell></row>
+<row><cell role="data"><hi rend="italic">Canis lupus</hi></cell><cell role="data">gray wolf</cell></row>
+<row><cell role="data"><hi rend="italic">Felis pardalis</hi></cell><cell role="data">ocelot</cell></row>
+<row><cell role="data"><hi rend="italic">Mustela nigripes</hi></cell><cell role="data">black-footed ferret</cell></row>
+<row><cell role="data"><hi rend="italic">Myotis grisescens</hi></cell><cell role="data">gray bat</cell></row>
+<row><cell role="data"><hi rend="italic">Myotis sodalis</hi></cell><cell role="data">Indiana bat</cell></row>
+<row><cell role="data"><hi rend="italic">Ursus arctos</hi></cell><cell role="data">grizzly bear</cell></row>
+<row><cell role="data"><hi rend="italic">Vulpes velox</hi></cell><cell role="data">swift fox</cell></row>
+</table>
+
+<table rows="14" cols="2">
+<row><cell role="desc">Birds (13)</cell></row>
+<row><cell role="data"><hi rend="italic">Charadrius melodus</hi></cell><cell role="data">piping plover</cell></row>
+<row><cell role="data"><hi rend="italic">Dedroica chrysoparia</hi></cell><cell role="data">golden-cheeked warbler</cell></row>
+<row><cell role="data"><hi rend="italic">Empidonax traillii extimus</hi></cell><cell role="data">southwestern willow flycatcher</cell></row>
+<row><cell role="data"><hi rend="italic">Eupoda montana</hi></cell><cell role="data">mountain plover</cell></row>
+<row><cell role="data"><hi rend="italic">Falco peregrinus anatum</hi></cell><cell role="data">American peregrine falcon</cell></row>
+<row><cell role="data"><hi rend="italic">Grus americana</hi></cell><cell role="data">whooping crane</cell></row>
+<row><cell role="data"><hi rend="italic">Lanius ludovicianus</hi></cell><cell role="data">loggerhead shrike</cell></row>
+<row><cell role="data"><hi rend="italic">Numenius borealis</hi></cell><cell role="data">Eskimo curlew</cell></row>
+<row><cell role="data"><hi rend="italic">Oreoscoptes montanus</hi></cell><cell role="data">sage thrasher</cell></row>
+<row><cell role="data"><hi rend="italic">Speotyto cunicularia</hi></cell><cell role="data">burrowing owl</cell></row>
+<row><cell role="data"><hi rend="italic">Sterna antillarum</hi></cell><cell role="data">least tern</cell></row>
+<row><cell role="data"><hi rend="italic">Tympanuchus cupido</hi></cell><cell role="data">greater prairie-chicken</cell></row>
+<row><cell role="data"><hi rend="italic">Vireo atricapellus</hi></cell><cell role="data">black-capped vireo</cell></row>
+</table>
+
+<table rows="2" cols="2">
+<row><cell role="desc">Amphibian (1)</cell></row>
+<row><cell role="data"><hi rend="italic">Bufo houstonensis</hi></cell><cell role="data">Houston toad</cell></row>
+</table>
+
+<table rows="7" cols="2">
+<row><cell role="desc">Fishes (6)</cell></row>
+<row><cell role="data"><hi rend="italic">Cyprinodon bovinus</hi></cell><cell role="data">Leon Springs pupfish</cell></row>
+<row><cell role="data"><hi rend="italic">Cyprinodon elegans</hi></cell><cell role="data">Comanche Springs pupfish</cell></row>
+<row><cell role="data"><hi rend="italic">Gambusia heterochir</hi></cell><cell role="data">Clear Creek gambusia</cell></row>
+<row><cell role="data"><hi rend="italic">Gambusia nobilis</hi></cell><cell role="data">Pecos gambusia</cell></row>
+<row><cell role="data"><hi rend="italic">Hybognathus amarus</hi></cell><cell role="data">Rio Grande silvery minnow</cell></row>
+<row><cell role="data"><hi rend="italic">Scaphirhychus albus</hi></cell><cell role="data">pallid sturgeon</cell></row>
+</table>
+
+<table rows="2" cols="2">
+<row><cell role="desc">Insect (1)</cell></row>
+<row><cell role="data"><hi rend="italic">Nicrophorus americanus</hi></cell><cell role="data">American burying beetle</cell></row>
+</table>
+</div2>
+
+<div2>
+<head type="sub"><hi rend="smallcaps">FLORA</hi></head>
+
+<table rows="12" cols="2">
+<row><cell role="desc">Vascular Plans (11)</cell></row>
+<row><cell role="data"><hi rend="italic">Asclepias meadii</hi></cell><cell role="data">Mead's milkweed</cell></row>
+<row><cell role="data"><hi rend="italic">Callirhoe scabriuscula</hi></cell><cell role="data">Texas poppy-mallow</cell></row>
+<row><cell role="data"><hi rend="italic">Coryphantha minima</hi></cell><cell role="data">Nellie cory cactus</cell></row>
+<row><cell role="data"><hi rend="italic">Coryphantha sneedii</hi> var. <hi rend="italic">leei</hi></cell><cell role="data">Lee pincushion cactus</cell></row>
+<row><cell role="data"><hi rend="italic">Coryphantha sneedii</hi> var. <hi rend="italic">sneedii</hi></cell><cell role="data">Sneed pincushion cactus</cell></row>
+<row><cell role="data"><hi rend="italic">Cypripedium candidum</hi></cell><cell role="data">small white lady's slipper orchid</cell></row>
+<row><cell role="data"><hi rend="italic">Echinocereus fendleri</hi> var. <hi rend="italic">kuenzleri</hi></cell><cell role="data">Kuenzler hedgehog cactus</cell></row>
+<row><cell role="data"><hi rend="italic">Erigonum gypsophilum</hi></cell><cell role="data">Gypsum wild-buckwheat</cell></row>
+<row><cell role="data"><hi rend="italic">Frankenia johnstonii</hi></cell><cell role="data">Johnston's frankenia</cell></row>
+<row><cell role="data"><hi rend="italic">Penstemon haydenii</hi></cell><cell role="data">blowout penstemon</cell></row>
+<row><cell role="data"><hi rend="italic">Platanthera praeclara</hi></cell><cell role="data">western prairie fringed orchid</cell></row>
+</table>
+</div2>
+
+<closer>
+<signed>Hugh H. Genoways<lb/>
+University of Nebraska-Lincoln<lb/>
+Margaret R. Bolick<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Benedict, Russell A., Patricia W. Freeman, and Hugh H.
+Genoways. "Prairie Legacies—Mammals." In <title level="m">Prairie Conservation</title>,
+edited by Fred B. Samson and Fritz L. Knopf.
+Washington <hi rend="smallcaps">DC</hi>: Island Press, 1996: 149–68.</bibl> <bibl>Bragg, Thomas
+B., and Allen A. Steuter. "Prairie Ecology&#8211;The Mixed
+Prairie." In <title level="m">Prairie Conservation</title>, edited by Fred B. Samson
+and Fritz L. Knopf. Washington <hi rend="smallcaps">DC</hi>: Island Press, 1996, 53–
+66.</bibl> <bibl>Knopf, Fritz L. "Prairie Legacies&#8211;Birds." In <title level="m">Prairie
+Conservation</title>, edited by Fred B. Samson and Fritz L. Knopf.
+Washington <hi rend="smallcaps">DC</hi>: Island Press, 1996: 135–48.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

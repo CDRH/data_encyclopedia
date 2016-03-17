@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fol.024 SYSTEM "egp.fol.024.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Humor</title>
+<title level="m" type="sub"></title>
+<author>Roger L. Welsch</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Welsch, Roger L.">Roger L. Welsch</author>. <title level="a">"Humor."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">304-305</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HUMOR</head>
+
+<figure n="egp.fol.024" rend="granted">
+<figDesc>Example of Great Plains humor, Yates Center, Kansas, 2001</figDesc>
+</figure>
+
+<p>Without question, the most common form of
+folk and popular humor in the Great Plains,
+and in North America in general, especially
+in recent decades, is the joke. The form of
+the joke changed dramatically through the
+nineteenth and twentieth centuries, the emphasis
+falling away from style, narrative, and
+language, sometimes lengthy and humorous
+throughout, to an almost total reliance on
+a "punch line," a surprising last line without
+which the story has little or no humor.
+That very characteristic is itself parodied and
+thereby showcased in the so-called shaggy-dog
+story, in which the requisite punch line is absent
+or is an execrable pun, less funny than
+painful. That is, this distortion of the prevailing
+joke form clarifies and accentuates its
+usual form. Indeed, at the turn of the millennium,
+the predominant form of American
+joke is little more than a punch line ("Did
+you hear about the blond who . . . ?") or a
+"riddling" joke, a curious question with a surprise
+or punning answer, both provided by the
+joke teller: "What's Polack surf 'n' turf ? Carp
+and kielbasa. How many psychiatrists does it
+take to change a light bulb? Only one, but the
+bulb has to want to be changed." Plains peoples
+participate fully in every dimension of
+humor fashion, from ethnic slurs like the
+above (which, however, almost inevitably have
+evolved from esoteric expressions within the
+derogated ethnic group to become a flag of
+internal identity and pride) to political slanders,
+sexist barbs, and topical commentary.</p>
+
+<p>It is impossible to quantify humor in degree,
+quality, or quantity, but it is suggested
+here that the Great Plains is distinctive in the
+cultivation of at least two forms of the joke:
+the tall tale and the form that is here called
+"civil ribaldry." Both forms have their longest
+and strongest traditions in the rural Plains.</p>
+
+<p>The tall tale is of course an ancient art,
+widely spread throughout the world. Alice
+Fletcher recorded the form during her early
+observations of the Omaha tribe, and non-
+Native invaders carried the form with them
+on horseback and in wagon trains. The true
+tall tale is not a tale at all, rarely having a
+narrative element. Nor, strictly speaking, is it a
+lie, since its exaggerations are so utterly preposterous
+that no one of normal intelligence
+or humor could conceivably mistake a true
+tall tale for a legitimate report—for example,
+"It was so cold folks went to church just to
+hear about hell; . . . so dry I saw two cottonwood
+trees chasing a dog; . . . too windy to
+load rocks."</p>
+
+<p>Nor are such complaints to be mistaken as
+true laments. The faces of persons reciting tall
+tales like the above actually reveal a kind of
+perverse pride. Indeed, one could legitimately
+consider them traditional brags: "Living on
+the Plains is like being hanged . . . the initial
+jolt is fairly sudden but after you hang there a
+while, you kinda get used to it" is a manner of
+bringing attention to one's own courage and
+strength even while modestly denigrating the
+geography in question. "Modestly" because
+the exaggerations and extensions are largely
+true, if slightly overdrawn! While the tall tale
+is not unique to the Plains by any stretch of
+the imagination (so to speak), the form may
+well have flourished there as nowhere else.
+This may be because the dramatic extremes of
+the Plains have driven the boaster to ever
+greater&#8211;and funnier&#8211;extremes to match, yet
+outdo, the truth.</p>
+
+<p>The tall tale is nurtured primarily in rural
+contexts but finds wider distribution through
+press releases from elusive tall-tale "contests."
+(Innocent souls sometimes try to organize
+formal tall-tale "contests," which almost inevitably
+fail because the true tall-tale contest
+never happens and is itself a fiction.) The traditional
+tall tale, however, falls far short of the
+shock value demanded by modern folk and
+popular culture humor and is appreciated
+only as a quaint, even childish form.</p>
+
+<p>Far less well known to the general American
+public, and more clearly a Plains survival,
+is a humor type that lacks a formal label but
+may be called "civil ribaldry." These jokes take
+the form of extraordinarily subtle, distinctly
+rural narratives. While there is a punch line,
+unlike the riddling joke, for example, "civil
+ribaldry" does contain a clear narrative element.
+The stories, while slightly off-color, can
+be, and are, told in mixed company, even with
+children present, without much danger of being
+understood by the innocent.</p>
+
+<p>Two examples recently collected in the vicinity
+of Dannebrog, Nebraska, are as follows:</p>
+
+<p rend="indented1">You'll never believe this, Rog, but yesterday
+I was on the gravel between here and
+Grand Island and I spotted Kenny L. out
+disking his fields on his old John Deere . . .
+and he was stark naked from the waist
+down. Not a stitch of clothes on below the
+belt, not even underwear. So, I stopped at
+the edge of the field and waited until he
+came back down the row. I waved him
+down and asked him, "What's this, naked
+from the waist down like that, Kenny?" He
+replied, "Yesterday I worked out here on
+the tractor all day without a shirt on and
+came home with a stiff neck. This is the
+wife's idea . . ." (related by Eric Nielsen).</p>
+
+<p>Only a few weeks ago I entered the Dannebrog
+tavern and found an old friend sitting
+morosely at the bar. I asked him what the
+problem was and this is what he said:</p>
+
+<p rend="idented1">I can't rightly say for sure. You know that
+black mare I was trying to sell? Well, a guy
+offered me $500 for her, but he said he
+needed to have a 15 percent discount for
+paying cash. Well, that was all right by me,
+but I'm not too good with ciphering, so I
+couldn't for the life of me figure out 15 percent
+of $500. So, I took a quick run over to
+the schoolteacher's house, knocked at her
+door, and asked her, "Now, if I was to give
+you $500 for something but need a 15 percent
+discount for paying cash, how much
+would you be taking off?" And she said,
+quick as you can think, "Everything but
+my socks and earrings." Rog, I'm still trying
+to figure that one out (name of narrator
+withheld).</p>
+
+<closer>
+<signed>Roger L. Welsch<lb/>
+Dannebrog, Nebraska</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fletcher, Alice C. <title level="m">Indian Story and Song from North America</title>.
+Lincoln: University of Nebraska Press, 1995.</bibl> <bibl>Welsch,
+Roger. <title level="m">Shingling the Fog and Other Plains Lies</title>. Lincoln:
+University of Nebraska Press, 1980.</bibl> <bibl>Welsch, Roger, and
+Linda K. Welsch. <title level="m">Catfish at the Pump: Humor and the Frontier</title>. Lincoln: University of Nebraska Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pg.027 SYSTEM "egp.pg.027.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Forty-Ninth Parallel</title>
+<title level="m" type="sub"></title>
+<author>Randy William Widdis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Widdis, Randy William">Randy William Widdis</author>. <title level="a">"Forty-Ninth Parallel."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">665-666</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FORTY-NINTH PARALLEL</head>
+
+<figure n="egp.pg.027" rend="granted">
+<figDesc>Earthen boundary marker at the forty-ninth parallel</figDesc>
+</figure>
+
+<p>At just under 740 miles, the forty-ninth parallel
+separating the Prairie Provinces from the
+Northern Plains states is part of the longest
+continuous unguarded boundary line in the
+world. The forty-ninth parallel bisects a borderland
+region characterized by physical uniformity
+in its grassland ecosystem and continental
+climate and by socioeconomic affinity
+in its predominantly rural and agrarian economy,
+low population density, and geographical
+isolation from markets. The kinds of interactions
+taking place over time, as well as
+similar geographical conditions, have added
+to the synthesis within this borderland region.
+North-south intermingling occurred well before
+European settlement, as the American
+and Canadian fur trading systems converged
+within a frontier context in which the border,
+first established in an 1818 treaty between the
+United States and Great Britain, was relatively
+meaningless. This unsurveyed line, stretching
+from the Lake of the Woods in southwestern
+Ontario to the Rocky Mountains and later extended
+to the Pacific Coast, was ignored by the
+buffalo and by the whites, Native peoples, and
+M&#233;tis who hunted them. Further integration
+in the nineteenth century was ensured by the
+development of north-south trade links between
+the Hudson's Bay Company and St.
+Paul and Chicago capitalists who competed
+for control of the Northern Plains and saw the
+monopoly of the British firm in Canada as an
+impediment to their imperialist schemes. Fort
+Benton, Montana, located at the head of navigation
+on the Missouri River and functioning
+as the gateway to the Whoop-Up Trail to Fort
+Macleod and Calgary, dominated the commerce
+of the Canadian Plains for twenty-five
+years (1858-83).</p>
+
+<p>Even after the boundary line was delineated
+in 1874 by a joint British and American commission,
+north–south flows continued, primarily
+in terms of goods and then people. Yet
+immediately the boundary acquired significance,
+as it became the focus for changing relations
+taking place within the borderland region.
+It cut across the hunting grounds of
+Native peoples and Métis and erased their former
+territories. Ironically, these groups viewed
+it as a "Medicine Line" because it represented
+refuge from persecution by whites on the other
+side. During the 1870s the whiskey trade with
+Natives caused tension along the border and
+was used by Canadian nationalists to fuel anti-
+American sentiment. In this context the fortyninth
+parallel came to be viewed by Canadians
+as a "shield" to America's "manifest destiny,"
+while for most Americans, the border shared
+with Canada was too far removed to acquire
+much notice at all.</p>
+
+<p>At the beginning of the twentieth century
+the Prairies held the promise of the "Last Best
+West" for Canadians, Europeans, and a considerable
+number of Americans, while the
+Northern Plains was increasingly viewed as a
+remote place, a region to be bypassed by those
+seeking opportunity in the Far West. While
+integration within the Northern Plains and
+Prairie borderland region continued to occur
+because of a common hinterland, migration
+flows, the diffusion of technology and ideas,
+and the evolution of capital relations across
+the border, the east-west flow of trade and
+migration into the region paralleling the Canadian
+Pacific Railway and the Great Northern
+Railroad served to form national ties that
+counterbalanced the continuing north-south
+connections. And even though the border was
+obscured by the migration of settlers from
+eastern North America and Europe who carried
+with them an array of social and economic
+affiliations, their different settlement
+histories, loyalties, political cultures, urban
+systems, and core-periphery relations ensured
+divergence between the Northern Plains and
+Prairies.</p>
+
+<p>The forty-ninth parallel has served as a major
+symbol of the predominant east–west
+development in both countries, and for Canadians
+it takes on added importance as a territorial
+axis, defined in terms of their relationship
+with the United States. In this context, this
+artificial line has become a matrix for Canadian
+culture, at least an Anglo-Canadian culture,
+which is by its nature regional in composition
+as well as in origin. Today, however,
+the forty-ninth parallel as a spatial metaphor
+has become blurred in a world where the forces
+of new technologies, globalization, and "timespace
+compression" have challenged the traditional
+Canadian view of the border as a territorial
+symbol of sovereignty and separation.
+In this new global environment, place as defined
+by borders is no longer the essential element of
+identity. Regional differences are diminishing in
+the face of homogeneous economic forces and a
+global culture, as is the importance of cartographic
+lines and compass points that enable
+inhabitants of this region, regardless of which
+side of the forty-ninth they inhabit, to orient
+themselves in time and space.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.032">Settlement Patterns, Canada</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.038">Last Best West</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.041"><hi rend="smallcaps">NAFTA</hi></ref> / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.042">Whoop-Up Trail</ref>.</p>
+
+<closer>
+<signed>Randy William Widdis<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lecker, Robert, ed. <title level="m">Borderlands: Essays in Canadian-
+American Relations</title>. Toronto: <hi rend="smallcaps">ECW</hi> Press, 1991.</bibl> <bibl>Sharp, Paul
+F. "The American Farmer and the 'Last Best West.'" <title level="j">Agricultural
+History</title> 21 (1947): 65–74.</bibl> <bibl>Widdis, Randy W. <title level="m">With
+Scarcely a Ripple: Anglo-Canadian Migration into the
+United States and Western Canada, 1880–1920</title>. Montreal:
+McGill-Queen's University Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

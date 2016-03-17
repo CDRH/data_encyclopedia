@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Quivira</title>
+<title level="m" type="sub"></title>
+<author>Ralph H. Vigil</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vigil, Ralph H.">Ralph H. Vigil</author>. <title level="a">"Quivira."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">395</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<!-- this file may require further name-keying -->
+
+<div1>
+<head type="main">QUIVIRA</head>
+<figure n="egp.ii.048" rend="granted" type="noclick">
+<figDesc>Map of Quivira Expeditions</figDesc>
+</figure>
+
+<p>Rumors of the land of Quivira, one of many fantastic realms of gold sought by Spanish conquistadors, lured the army of <persName reg="de Coronado, Francisco V&#225;zquez">Francisco V&#225;zquez de Coronado</persName> into the <geogName rend="region" reg="Great Plains">Great Plains</geogName> in 1541. Soon after the expedition failed to find the mythical Seven Cities of Cibola at Zuni in <geogName rend="region" reg="Western New Mexico">western New Mexico</geogName>, the Spaniards received a delegation of Indians from Pecos (Cicuye), who welcomed them to their country. At Pecos the exploring party sent by <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName> met an Indian captive of the <geogName rend="region" reg="Great Plains">Plains</geogName> whom they called the Turk. After the leaders of Pecos Pueblo persuaded the Turk to lead the Spaniards into the <geogName rend="region" reg="Great Plains">Plains</geogName> and lose them, he was given to the Spaniards as a guide. On the buffalo plains beyond Pecos, the Turk told the soldiers so many and such great things about his country that they decided to return and report this welcome news to <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName>.</p>
+
+<p>As understood by the Spaniards, in the farther part of the Turk's country there were large settlements and a river two leagues wide with fish as big as horses. The lords of Quivira had large canoes with sails and more than twenty rowers on each side, and their chief lord, a white-haired and bearded man called Tatarrat, worshiped a gold cross and an image of a woman, the ruler of heaven. King Tatarrat napped under a great tree adorned with many gold bells that swayed in the breeze and lulled him to sleep; so rich was the kingdom that everyone had jugs and bowls of gold and ordinary dishes of wrought plate.</p>
+
+<p>After wintering at Tiguex on the <geogName rend="river" reg="Rio Grande">Rio Grande</geogName>, near present-day Albuquerque, the army went in search of Quivira in the spring of 1541. During the journey across the immense plains, <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName> realized that the Turk had deceived him. After sending the army back to Tiguex, he and Fray Juan de Padilla went on with a small company of horsemen and foot soldiers. Using friendly Teyas Indians as guides, <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName> reached Quivira in July and discovered it to be a province of the <orgName rend="tribe" key="tri.wic" reg="Wichita">Wichita Indians</orgName> in the vicinity of <placeName rend="settlement" key="ks.gb" reg="Great Bend, Kansas">Great Bend, Kansas</placeName>. These people lived in grass lodges, and their lord wore a copper necklace, but no gold and silver were found. After the Turk was killed for his treachery, <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName> returned to Tiguex, where his soldiers, poorly clothed and covered with lice, fantasized about the vast treasures they might have found had they continued to search for that better land.</p>
+
+<p>Despite <persName reg="de Coronado, Francisco V&#225;zquez">Coronado</persName>'s failure, the chimera of Quivira continued to beckon. In 1593, three years before <persName reg="de O&#241;ate, Juan">Juan de O&#241;ate</persName> took formal possession of <placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName>, <persName reg="de Bonilla, Francisco Leyva">Francisco Leyva de Bonilla</persName> led an illegal expedition into the <geogName rend="region" reg="Great Plains">Plains</geogName> in search of Quivira; he was killed by a companion, and most of his small force were killed by Indians. In 1601 an Aztec survivor of the <persName reg="de Bonilla, Francisco Leyva">Bonilla</persName> expedition guided <persName reg="de O&#241;ate, Juan">Governor O&#241;ate</persName> and some seventy men in search of Quivira. The <orgName rend="tribe" key="tri.wic" reg="Wichita">Wichita Indians</orgName> along the <geogName rend="river" reg="Arkansas River">Arkansas River</geogName> gave them beads before they recrossed the <geogName rend="region" reg="Great Plains">Plains</geogName> in October. In the 1670s <persName reg="de Pe&#241;alosa, Don Diego">Don Diego de Pe&#241;alosa</persName>, a renegade governor of <placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName> tried by the Inquisition, presented an altered version of the O&#241;ate expedition to the French government; it served, in part, to launch the La Salle expedition and the beginnings of international conflict in the borderlands. As late as 1720 the governor of Coahuila and <placeName rend="state" key="tx" reg="Texas">Texas</placeName> led 500 mounted troops into East Texas in an attempt to check French defenses beyond the <geogName rend="river" reg="Red River">Red River</geogName> and to discover the rich lands of Gran Quivira.</p>
+
+<p>Quivira and various other illusory golden realms were the products of the mythic imaginary <geogName rend="region" reg="The West">West</geogName>. Mistaken geographical theory, a thirst for gold, and the utopian dream of friars to convert the Indians made for the invention of America before reality intruded. The search for Quivira, like other fantasies, acted as a motivating force for the discovery, exploration, and eventual settlement of the <geogName rend="region" reg="Western Hemisphere">Western Hemisphere</geogName>. As <placeName rend="country" key="usa" reg="United States of America">America</placeName> became better known, Quivira and other elusive kingdoms became themes of myth, fable, and fiction.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.005">Coronado</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Ralph H. Vigil<lb/>
+University of Nebraska-Lincoln</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Brandon, William. <title level="m">Quivira: Europeans in the Region of the Santa Fe Trail, 1540–1820</title>. Athens: Ohio University Press, 1990.</bibl> <bibl>Gand&#237;a, Enrique de. <title level="m">Historia crítica de los mitos de la conquista americana</title>. Madrid: J. Rold&#225;n y Compa&#241;&#237;a, 1929.</bibl> <bibl>Vigil, Ralph H. "<title level="a">Spanish Exploration and the Great Plains in the Age of Discovery: Myth and Reality</title>." <title level="j">Great Plains Quarterly</title> 10 (1990): 3–17.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

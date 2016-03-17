@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Singleton, Pap (1809-1892)</title>
+<title level="m" type="sub"></title>
+<author>Gary R. Entz</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.039</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Entz, Gary R.">Gary R. Entz</author>. <title level="a">"Singleton, Pap (1809-1892)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">21-22</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SINGLETON, PAP (1809-1892)</head>
+
+<p>Benjamin "Pap" Singleton planted black separatist
+colonies in Kansas and distinguished
+himself as a spokesperson for the "Exodusters."
+Born into slavery in Davidson County
+near Nashville, Tennessee, Singleton escaped
+in 1846 to Detroit, Michigan, where he helped
+fugitives find refuge in Canada. After the Civil
+War he returned to Nashville, but the growing
+pervasiveness of segregation, black codes, and
+lynching violence soon convinced him that
+African Americans could not trust elected officials
+to safeguard citizenship rights in the
+South. In 1874 he banded with eight associates
+and organized the Edgefield Real Estate and
+Homestead Association to encourage a cooperative
+migration to the Kansas plains.</p>
+
+<p>The group held an emigration convention
+in 1875, but poverty and conflicting reports
+about the suitability of the Great Plains for
+settlement prevented them from making an
+immediate move. In late 1876, however, Singleton
+agreed to bring settlers to railroad
+land in Cherokee County in southeastern
+Kansas, and in early 1877 African American
+colonists began arriving to build the Singleton
+Colony north of Baxter Springs. High land
+prices ensured the colony's rapid demise, so in
+1878 Singleton redirected his attention toward
+the unsold Kansas Reservation trust lands in
+Morris and Lyon Counties and planted a second
+Singleton Colony around the village of
+Dunlap. While the second colony survived and
+became home to the Presbyterian Church's
+Freedmen's Academy of Dunlap, Kansas, the
+1879 arrival of the Exodusters diverted Singleton
+away from western colonization and
+pushed him toward the goal of national race
+unity.</p>
+
+<p>Singleton became a self-appointed spokesperson
+for the Exodusters and in 1880 declared
+during testimony before the U.S. Senate that
+he was the father of the entire migration. In
+1881 he capitalized on his newly won fame by
+organizing the Colored United Links (<hi rend="smallcaps">CUL</hi>) in
+Topeka, Kansas, which he hoped would grow
+to unite African Americans across the United
+States in the cooperative development of
+black-owned industrial enterprises and educational
+facilities. The <hi rend="smallcaps">CUL</hi> never expanded far
+beyond its Plains headquarters and soon fell
+into decline. Singleton devoted his remaining
+years to organizing or speaking out on behalf
+of separatist and colonization movements like
+Kansas City's United Transatlantic Society. In
+1889 Singleton raised his voice for the final
+time when he advised African Americans to
+migrate to the Southern Plains and help turn
+part of the Oklahoma Territory into an all-black
+state. He reportedly died in St. Louis
+in 1892.</p>
+
+<closer>
+<signed>Gary R. Entz<lb/>
+McPherson College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Entz, Gary R. "<title level="a">Image and Reality on the Kansas Prairie:
+'Pap' Singleton's Cherokee County Colony</title>." <title level="j">Kansas History</title>
+19 (1996): 124–39.</bibl> <bibl>Hickey, Joseph V. "<title level="a">'Pap' Singleton's
+Dunlap Colony: Relief Agencies and the Failure of a Black
+Settlement in Eastern Kansas</title>." <title level="j">Great Plains Quarterly</title> 11
+(1991): 23–36.</bibl> <bibl>Painter, Nell Irvin. <title level="m">Exodusters: Black Migration
+to Kansas after Reconstruction</title>. Lawrence: University
+Press of Kansas, 1986.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

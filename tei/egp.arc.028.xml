@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.028 SYSTEM "egp.arc.028.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Herminghaus, Ernst (1890-1965)</title>
+<title level="m" type="sub"></title>
+<author>Richard K. Sutton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sutton, Richard K.">Richard K. Sutton</author>. <title level="a">"Herminghaus, Ernst (1890-1965)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">84</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<figure n="egp.arc.028" rend="granted">
+<figDesc>Administration Building, Texas Tech University, William Ward Watkin, architect</figDesc>
+</figure>
+
+<div1>
+<head type="main">HERMINGHAUS, ERNST 1890-1965</head>
+
+<p>Born December 31, 1890 and raised in Lincoln
+Nebraska, Ernst H. Herminghaus became
+in 1915 the first practicing landscape architect
+residing in Nebraska. His design career
+spanned fifty years and included landscape
+projects for the Nebraska State Capitol, Lincoln's
+Pioneers Park, and numerous private
+gardens.</p>
+
+<p>Herminghaus graduated in horticulture
+from the University of Nebraska in 1913 and
+from the landscape architecture program at
+the Harvard Graduate School of Design in
+1915. An enthusiastic plant expert, Herminghaus
+taught landscape design and history in
+the University of Nebraska's architecture program
+during the early 1930s. During both
+world wars, Herminghaus worked on designs
+for military bases at Hastings, Nebraska,
+and Hanford, Washington, and in Alaska and
+England.</p>
+
+<p>Because he learned design under Frederick
+Law Olmsted and Henry Vincent Hubbard at
+Harvard, Herminghaus's designs for Pioneers
+Park and private residences read like a Beauxarts
+pattern book for landscapes. Herminghaus
+used Pioneers Park's rolling topography
+to highlight a series of sequential views within
+and beyond the park. Distant views focused
+on the Nebraska State Capitol tower, and internal
+views terminated at large sculptures.
+The park's first 160 areas are exclusively devoted
+to a series of carefully linked, informally
+planted spaces. Tight spatial control in this
+rural park was created by dense plantings of
+conifers. Expression of his rich plant vocabulary
+resulted in a varied palette of deciduous
+trees and shrubs. Pioneers Park has been
+placed on the National Register of Historic
+Places.</p>
+
+<p>Herminghaus's 1933 plan for the Nebraska
+State Capitol grounds reveals that he understood
+the visual needs of the building and
+landscape better than the architects. Elements
+of the plan include a broad lawn with carefully
+placed deciduous trees and a foundation
+planting of large evergreens. The lack of ornamental
+shrubs keeps the viewer focused upon
+the building's rich architectural detail. However,
+in the capitol's interior courtyards the
+full ornamental expression of Herminghaus's
+horticultural knowledge is seen in formal
+plantings of bright seasonal flowers and diverse
+shrub borders. Herminghaus's Nebraska
+State Capitol landscape plan was the state's
+largest planting project up to that time.</p>
+
+<p>Herminghaus was more than a mere technician.
+He was also a teacher, and he inspired
+humanistic goals in his design work. After
+his death on September 20, 1965, in Newton,
+Connecticut, Ernst Herminghaus's ashes were
+scattered in Pioneers Park.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>Richard K. Sutton</signed>
+University of Nebraska-Lincoln</closer>
+</div1>
+
+<div1>
+<bibl>Sutton, Richard K. "Ernst Herminghaus, Landscape Architect."
+<title level="j">Nebraska History</title> 66 (1985): 372–91.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bean, Judge Roy (c. 1825-1903)</title>
+<title level="m" type="sub"></title>
+<author>Derrick S. Ward</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ward, Derrick S.">Derrick S. Ward</author>. <title level="a">"Bean, Judge Roy (c. 1825-1903)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">446</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BEAN, JUDGE ROY (c. 1825-1903)</head>
+
+<p>Judge Roy Bean, the legendary "Law West of
+the Pecos," operated a combination courthouse-
+saloon on the West Texas frontier near
+the junction of the Pecos River and the Rio
+Grande for more than twenty years. Bean was
+one of the most colorful, individualistic, and
+controversial personalities on the Great Plains.
+In terms of his place in American folklore,
+Bean has been compared to Davy Crockett,
+Mike Fink, and Paul Bunyan.</p>
+
+<p>Roy Bean was born sometime between 1825
+and 1830 in Mason County, Kentucky, to
+Francis and Anna Bean. At about the age of
+sixteen, Roy is said to have traveled to New
+Orleans, where, after alleged complicity in a
+major French Quarter brawl, he fled the Crescent
+City to avoid possible legal and extralegal
+repercussions. Later in his youth Bean reportedly
+helped run a saloon–trading post with
+his brother Samuel in Chihuahua, Mexico.
+There he killed a machete-wielding desperado
+who attempted to rob the saloon, and Bean
+once again found himself on the run when the
+outlaw's friends and relatives vowed revenge.
+He wound up in southern California sometime
+in 1850.</p>
+
+<p>The accounts of Roy Bean's exploits in California
+are deeply imbedded in the state's
+folklore and early history. They reflect the romanticism
+of Old California and attempt to
+portray Bean as a bona fide folk hero, some
+kind of King Arthur-meets-Mike Fink figure.
+He is said to have fought a duel on horseback
+over the affections of the local young ladies of
+San Diego. After winning the contest and
+being jailed for dueling, Bean escaped, digging
+his way out with tools smuggled to him in
+tamales prepared by sympathetic local girls.
+Next, Roy Bean and his brother Joshua ran the
+Headquarters Saloon in San Gabriel, nine
+miles outside of Los Angeles, until 1852, when
+Joshua was murdered, allegedly by members
+of the Joaquin Murrieta gang. After leaving
+California in the mid-1850s, Bean married,
+had children, plied numerous trades, and became
+an embargo runner for the Confederacy
+on the Texas border during the Civil War.</p>
+
+<p>The legend of Judge Roy Bean developed
+across the desolate regions of southwestern
+Texas in 1882, when he was nearly sixty. A
+shrewd businessman, Bean capitalized on the
+construction of the Southern Pacific Railroad
+by establishing a saloon-courthouse at a settlement
+called Vinegarroon and later at nearby
+Langtry. Contrary to popular belief, Bean
+was an authorized justice of the peace with the
+full power of the law and often a detachment
+of Texas Rangers to enforce his authority. He
+was supported by and served the interests of
+both the government and the wealthy ranch
+owners who sought increased law and order.
+Using the 1879 <title>Revised Statutes of Texas</title> as his
+legal guide, Judge Roy Bean performed marriages,
+held inquests, granted divorces, and
+tried horse thieves, drunks, and killers for two
+decades.</p>
+
+<p>The true history of Judge Roy Bean is so
+intertwined with myth, legend, and folklore
+that it is difficult to separate fact from fiction.
+Some of the tales are memorable indeed: Bean
+fining a corpse $40 for "carrying a concealed
+weapon"; the large beer-drinking black bear
+that patrolled his courthouse-saloon and slept
+at the foot of his bed; his infatuation with the
+British actress Lily Langtry. (His saloon the
+Jersey Lily was named for her, but he lied
+when he wrote her that the town of Langtry,
+Texas, was named in her honor.) Judge Roy
+Bean died peacefully in his saloon from "excess
+of liquor" on March 19, 1903, and was
+buried at Del Rio, Texas. For better or worse,
+Judge Roy Bean has become an American folk
+hero, coming to symbolize the independent,
+strong, pragmatic, rugged frontier individual,
+able to stand up against the coarser natural
+and human elements and prevail.</p>
+
+<closer>
+<signed>Derrick S. Ward<lb/>
+Ventura, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lloyd, Everett. <title level="m">Law West of the Pecos: The Story of Judge Roy Bean, the Original Manuscript</title>. San Antonio: Naylor
+Company, 1936.</bibl> <bibl>McDaniel, Ruel. <title level="m">Vinegarroon: The Saga of Judge Roy Bean, the Law West of the Pecos</title>. Kingsport <hi rend="smallcaps">TN</hi>:
+Southern Publishers, 1936.</bibl> <bibl>Sonnichsen, C. L. <title level="m">Roy Bean: Law West of the Pecos</title>. Lincoln: University of Nebraska
+Press, 1986.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agricultural Meteorology</title>
+<title level="m" type="sub"></title>
+<author>Kenneth G. Hubbard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Marten, James">Kenneth G. Hubbard</author>. <title level="a">"Agricultural Meteorology."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">33</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AGRICULTURAL METEOROLOGY</head>
+
+<p>Agricultural meteorology is the behavior of
+the atmosphere in relation to crops and soils.
+In the Great Plains, agriculture is dependent
+on the atmosphere in many ways. The atmosphere,
+in turn, links the Great Plains to other
+parts of the globe. This linkage is forged by air
+masses entering and leaving the region. These
+air masses provide plants with a dynamic and
+renewable source of carbon dioxide and water
+and modify other contributing factors, such
+as light and leaf temperature.</p>
+
+<p>With no geographic barriers to the movement
+of Arctic air from the north or Gulf
+air from the south, Great Plains weather is
+characterized by alternate intrusions of warm
+and cold air, and the region therefore experiences
+high variability in temperature, cloudiness,
+humidity, and precipitation during all
+seasons. Temperatures are harsh during winter,
+particularly in the Northern Plains, where
+perennial plants retreat into dormancy and
+farmers grow annual crops, like spring wheat.
+Summer provides desirable temperatures for
+plant growth and development.</p>
+
+<p>The energy required to successfully grow
+wheat, corn, soybeans, hay, and other crops
+mainly comes from abundant sunshine. Of
+course, without the atmosphere to absorb energy
+and emit a portion of it back to the earth
+(the greenhouse effect) the surface temperatures
+would be too low to support life. The
+atmosphere also exchanges energy through
+contact with the underlying surface of the
+ground as air masses pass through the region.
+This amount of energy is governed by the
+speed, humidity, and temperature of the air
+and the temperature and humidity of the underlying
+surface. Changes in the Plains landscape
+from natural grasslands to managed
+croplands, pastures, and windbreaks altered
+the disposition of atmospheric energy in the
+local climate. Irrigation also changes the local
+climate: in a dry field much of the energy goes
+into heating the overlying air, whereas in an
+irrigated field much of the available energy
+goes into evaporation and transpiration.</p>
+
+<p>Growing season precipitation accounts for
+a large fraction of the annual precipitation.
+Soil moisture is frequently depleted during
+the growing season but replenished during
+winter and early spring, thereby providing a
+buffer to plants against dry weather that may
+occur early in the growing season. Evaporation
+from soils and transpiration from plants
+draw on stored soil moisture and increase
+with greater plant biomass, higher temperatures,
+solar radiation, and wind speed. Evaporation
+and transpiration decrease with increases
+in atmospheric humidity. Drought
+occurs when soil moisture falls below the
+amount required to meet the crops' need for
+water.</p>
+
+<p>The main influence of the atmosphere on
+agriculture is the control exerted by the water
+and energy on crop production. The atmosphere,
+however, has other impacts on agriculture.
+For example, in wet periods the frequent
+formation of dew on plant leaves (leaf
+wetness) will increase crop damage due to
+plant diseases. Drought conditions favor other
+pests, like spider mites in corn.</p>
+
+<p>Agricultural meteorologists monitor
+weather in order to quantify both the potential
+resources and possible damages associated
+with the dynamic atmosphere. Proper use of
+this information in decision making can both
+reduce risk and increase profit associated with
+agriculture, thus contributing to the goal of
+sustainable agricultural production in the
+Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.019">Climate</ref>.</p>
+
+<closer>
+<signed>Kenneth G. Hubbard</signed>
+<signed>University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rosenberg, N. J., B. L. Blad, and S. B. Verma. <title level="m">Microclimate:
+The Biological Environment</title>. New York: John Wiley and
+Sons, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

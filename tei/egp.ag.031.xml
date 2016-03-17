@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Family Farm</title>
+<title level="m" type="sub"></title>
+<author>John Opie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Opie, John">John Opie</author>. <title level="a">"Family Farm."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">44</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FAMILY FARM</head>
+
+<p>Americans have long cherished the family
+farm as the place where the patriotic virtues
+of rugged individualism, hard work, and selfsu.
+ciency are practiced best. This institution
+was identified as early as the eighteenth century
+by Thomas Jefferson and J. Hector St.
+John de Crevecoeur and later by Frederick
+Jackson Turner who made the family farm the
+centerpiece of his "frontier thesis"; by novelists
+Hamlin Garland, Willa Cather, and Wallace
+Stegner; by modern activists like Wendell
+Berry and Wes Jackson; and by agricultural
+philosopher Paul B. Thompson. Overall, the
+family farm has persisted for more than a
+hundred years on the Plains as a decentralized
+cottage industry in an increasingly industrialized
+world. In Canada, for example, more
+than 99 percent of farm businesses are family
+operations.</p>
+
+<p>Traditionally on the family farm, household
+members owned the land, and everyone,
+including women and children, worked the
+farm. Its sweat equity and cash flow depended
+upon its own resources. The family farm
+stood for cherished rural values of conservation,
+frugality, responsibility, honesty, dignity
+in work, belief in community, concern for
+future generations, neighborliness, and selfreliance.
+It was institutionalized by the Land
+Ordinance of 1785, which privatized the public
+domain, and by the classic 160-acre quarter
+section provided by the Homestead Act of
+1862. The expansion of family farms across the
+United States was not significantly modified
+until the end of public land sales in 1935. Similarly,
+in the Prairie Provinces, the Dominion
+Lands Act of 1872 promoted settlement and
+family farms with virtually free provisions of
+160-acre homesteads.</p>
+
+<p>On the semiarid Great Plains, family farmers
+faced great challenges because of the climate
+extremes and repeated droughts. During
+the Dust Bowl of the 1930s, almost half of U.S.
+Plains farms were abandoned. Family farmers
+who remained became clients of government
+aid, which is a necessary ingredient of survival
+even today. Compared to 1950, half the number
+of Great Plains farmers worked the same
+amount of land in 1980, and the number will
+likely be halved again by the end of the first
+decade of the twenty-first century. During the
+twentieth century, large-scale, centralized, industrial
+agriculture gradually replaced family
+farms to produce most of the nation's food
+and fiber. This put the family farm at risk.
+While 94 percent of U.S. farms were still small
+family farms in 1998&#8211;those with less than
+$250,000 gross receipts annually and with a
+net cash income of less than $23,000&#8211;they
+received only 41 percent of all farm receipts.</p>
+
+<p>Family farming might survive into the
+future through niche agriculture, based on
+low capital investment, intensive labor and
+management, and high value crop and livestock
+production. Such specialty farming includes
+direct marketing of organic foods,
+new-generation cooperatives and enlargement
+of local farmers' markets, subscription
+farming, and farm-to-chef direct marketing,
+all outside the industrialized food stream.
+Family farming, which still works the majority
+of the nation's farm acreage, can also promote
+sustainable agriculture and reap significant
+environmental benefits by on-site
+management of soil, water, and wildlife. Family
+farming continues to be a major source of
+images, metaphors, myths, and realities about
+the intimate bond between humanity and the
+wider natural world.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.023">Land Laws and Settlement</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.004">Anti-Corporate Farming Laws</ref>.</p>
+
+<closer>
+<signed>John Opie<lb/>
+New Jersey Institute of Technology</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Comstock, Gary, ed. <title level="m">Is There a Moral Obligation to Save
+the Family Farm?</title> Ames: Iowa State University Press, 1988.</bibl>
+<bibl>Opie, John. <title level="m">The Law of the Land: Two Hundred Years of
+American Farmland Policy</title>. Lincoln: University of Nebraska
+Press, 1987.</bibl> <bibl>Strange, Marty. <title level="m">Family Farming: A New
+Economic Vision</title>. Lincoln: University of Nebraska Press,
+1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

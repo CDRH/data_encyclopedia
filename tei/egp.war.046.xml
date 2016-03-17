@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Strategic Air Command</title>
+<title level="m" type="sub"></title>
+<author>Scott D. Hughes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hughes, Scott D.">Scott D. Hughes</author>. <title level="a">"Strategic Air Command."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">837-838</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STRATEGIC AIR COMMAND</head>
+
+<p>The Strategic Air Command (<hi rend="smallcaps">SAC</hi>) was established
+on March 21, 1946, to deter threats from
+communist nations, prevent nuclear warfare,
+and wage the cold war. <hi rend="smallcaps">SAC</hi> served to project a
+global military presence as the bomber leg of
+the United States nuclear triad that included
+submarine-launched missiles and land-based
+intercontinental ballistic missiles. Not solely
+devoted to deploying nuclear weapons, <hi rend="smallcaps">SAC</hi>
+made significant contributions to conventional
+warfare in Vietnam and Iraq during the
+Gulf War.</p>
+
+<p><hi rend="smallcaps">SAC</hi> languished from inadequate funding
+and unclear direction during its first years under
+commander Gen. George C. Kenney. As a
+result of the Berlin blockade and airlift of 1948,
+however, the mission of <hi rend="smallcaps">SAC</hi> crystallized. The
+Berlin crisis had exposed serious structural
+and logistical problems that threatened the
+ability of the United States to enforce its policy
+of containment against the Soviet Union. In
+response, Gen. Curtis E. LeMay assumed command
+of <hi rend="smallcaps">SAC</hi> and set about building a credible
+airborne fighting force. After moving its headquarters
+from Andrews Field, Maryland, to
+Offutt Air Force Base near Omaha, Nebraska,
+LeMay instituted fundamental changes in
+training, housing, food services, and recreation.
+A pragmatic leader, LeMay prepared <hi rend="smallcaps">SAC</hi>
+for a war that could begin at any time and for
+air combat and bombing missions that would
+have to be deployed immediately. By 1949,
+when the Soviets exploded their first atomic
+bomb, <hi rend="smallcaps">SAC</hi> had mobilized its resources and
+crew competence to levels sufficient to meet
+this new challenge.</p>
+
+<p>In the wake of the Soviet nuclear detonation,
+the beginning of the Korean War, and
+new initiatives detailed under <hi rend="smallcaps">NSC</hi>-68, the National
+Security Council's blueprint for waging
+the cold war, the role of <hi rend="smallcaps">SAC</hi> in the worldwide
+defense of American interests grew. By 1950
+<hi rend="smallcaps">SAC</hi> had 225 atomic bomb-carrying aircraft
+(including <hi rend="smallcaps">B</hi>-29s, <hi rend="smallcaps">B</hi>-50s, and thirty-four <hi rend="smallcaps">B</hi>-36s).
+As cold war relations deteriorated and both the
+United States and the Soviet Union developed
+thermonuclear weapons, <hi rend="smallcaps">SAC</hi> expanded its role
+in providing strategic defensive and offensive
+capabilities. In June 1955 <hi rend="smallcaps">SAC</hi> accepted delivery
+of the first <hi rend="smallcaps">B</hi>-52, the jet bomber that became its
+trademark symbol. In January 1957 <hi rend="smallcaps">SAC</hi> headquarters
+moved to a new control center. From
+a two-tiered building, comprised of a threestory
+aboveground administrative structure
+and a three-story belowground war command
+center, <hi rend="smallcaps">SAC</hi> coordinated its global presence,
+controlling both bomber and missile systems.</p>
+
+<p>In late 1957, under its new commander,
+Gen. Thomas S. Powers, <hi rend="smallcaps">SAC</hi> assumed its wellknown
+motto, "Peace Is Our Profession." Also
+during 1957, with cold war tensions increasing,
+the American military establishment put
+its nuclear forces on alert status. This condition
+continued until September 28, 1991, when
+President George H. W. Bush issued a stand-down
+order, ending a thirty-five-year period
+when American nuclear weapons were on
+launch-ready status and a certain percentage
+of the American nuclear bomber force continuously
+remained airborne. <hi rend="smallcaps">SAC</hi> ceased to exist
+on June 1, 1992, when the U.S. Strategic Command
+(<hi rend="smallcaps">USSTRATCOM</hi>), also headquartered at
+Offutt Air Force Base, took over control of
+the nation's strategic forces for the post-cold
+war era.</p>
+
+<p><ref target="http://www.stratcom.mil/">Strategic Air Command</ref> website.</p>
+
+<closer>
+<signed>Scott D. Hughes<lb/>
+Albuquerque, New Mexico</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hopkins, J. C., and Sheldon A. Goldberg. <title level="m">The Development
+of <hi rend="smallcaps">SAC</hi>, 1946-1986: The Fortieth Anniversary History</title>.
+Offutt Air Force Base, Nebraska: Office of the Historian,
+1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

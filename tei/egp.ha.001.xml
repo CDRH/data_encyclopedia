@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ha.001 SYSTEM "egp.ha.001.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispanic Americans</title>
+<title level="m" type="sub"></title>
+<author>Malcolm Yeung</author>
+<author>Evelyn Hu-DeHart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Yeung, Malcolm">Malcolm Yeung</author> and <author n="Hu-DeHart, Evelyn">Evelyn Hu-DuHart</author>. <title level="a">"Hispanic Americans."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">345-351</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HISPANIC AMERICANS</head>
+
+<p>When Damasso Armend&#225;riz left his South
+Texas home in 1994 to work at Millard Processing
+Services in Omaha, Nebraska, he
+thought he was going to start a life that would
+offer more than the one he was leaving. After
+all, the recruiters from the pork-processing
+plant had promised him free housing and a
+managerial position. But as soon as Armend&#225;riz
+stepped into the jam-packed Ford Clubwagon,
+the vehicle designated to transport Armend&#225;riz
+and several others from El Paso,
+Texas, to Omaha, he knew that he had been
+mistaken. And when he arrived in Omaha, he
+found to his dismay that his housing consisted
+of a rundown apartment with bug-infested,
+torn-up furniture. The promised managerial
+position did not materialize, and company officials
+instead placed him on the processing
+lines, a job that was not only grueling but dangerous.
+It was a situation shared by the other
+600 Mexicans and Mexican Americans working
+in the plant.</p>
+
+<p>Although Armend&#225;riz's dismal tale took
+place only six years from the twenty-first century,
+his experience coming to <hi rend="italic">El Norte</hi> was
+not unique. He is but one of many who have
+migrated from the south to the Great Plains
+since the sixteenth century. Spaniards, Mexicans,
+and Mexican Americans, joined recently
+by Central Americans, have maintained a noticeable
+presence in the Great Plains for almost
+500 years; they have contributed their
+labor and ideas to building settlements and
+the Plains economy, and they have enriched
+its culture.</p>
+</div1>
+
+<div1>
+<head type="sub">The Spanish and the Plains, 1540-1821</head>
+
+<p>The Spanish were the first Europeans to recognize
+the importance of the Plains. Their
+presence was initially established through the
+gradual penetration of the Southern Plains by
+exploration sponsored by the Spanish state
+and military, wealthy ranchers and miners,
+and the Catholic Church. Later, Spanish influence
+emanated from settlements and colonies
+around the Southern Plains.</p>
+
+<p>It all started in the sixteenth century when
+Spain, having secured Mesoamerica, turned
+its colonization machine to the north. &#193;lvar
+N&#250;&#241;ez Cabeza de Vaca, the second-in-command
+of the ill-fated P&#225;nfilo de Narv&#225;ez expedition
+to western Florida, skirted the Southern
+Plains in his journey from the Texas coast
+to Mexico City in 1528–36. He brought back
+rumors of the mythical Seven Cities of Cíbola.
+To investigate Cabeza de Vaca's report, Viceroy
+Antonio de Mendoza sent Father Marcos de
+Niza to the north in 1539. The Pueblo Indians
+forced Father Marcos to turn back, but his
+report of C&#237;bola, a magnificent Rio Grande
+pueblo larger than any Mexican city, enticed
+Viceroy Mendoza to appoint Francisco Vásquez
+de Coronado to lead a large expedition
+to occupy the region. When C&#237;bola proved to
+be but an ordinary pueblo, Coronado took
+thirty-six men east to the Southern Plains in
+1541. There, according to a Pawnee captive
+nicknamed El Turco, he would find the fabled
+province of Quivira. From central Kansas,
+beyond the land of "cattle and sky" (as the
+expedition's chronicle described the flat,
+bison-rich expanses of the Llano Estacado),
+Coronado eventually found Quivira&#8211;a Wichita
+Indian village with beautiful grass lodges
+and well-tended cornfields, but no gold.</p>
+
+<p>Coronado returned to Mexico in disgrace,
+but the notion of wealth and a better life in
+the north remained alive in New Spain. When
+France and England entered the colonization
+race in the late sixteenth century, Spanish officials began to worry that they might penetrate
+the North American interior and threaten
+their lucrative mines in northern Mexico. Settlement
+was needed in the Rio Grande Valley
+and beyond, and an official competitive settlement
+contract was announced. After several
+aborted attempts, Don Juan de O&#241;ate,
+a wealthy silver baron, took 500 settlers and
+more than 1,000 head of stock north in 1598
+and established a permanent colony in the Rio
+Grande Valley. In 1609 a mission was built at
+Santa Fe, which in 1610 became the capital of
+the new royal province of New Mexico. By the
+1620s a modest but entrenched Spanish colony,
+with missions, ranches, and land grants, had
+been established in the Rio Grande Valley. Except
+for a brief interim during the Pueblo Revolt
+in 1680.92, the colony persisted. The establishment
+of New Mexico revolutionized life
+among the Pueblo Indians, who felt the full
+burden of repressive Spanish colonial rule, but
+it also had enormous impact on the adjacent
+grasslands. Due to the proximity of New Mexico
+to the Southern Plains&#8211;only the narrow
+and relatively passable Sangre de Cristo Range
+separated them&#8211;their histories would be intimately
+linked.</p>
+
+<p>Meanwhile, rapid French expansion forced
+the Spanish to act also in the east. By the late
+1680s the French were exploring the lower Mississippi
+Valley, and a few years later the French
+unsuccessfully tried to plant a colony on the
+east coast of Texas. New Spain responded by
+officially creating the province of Texas in 1691
+and sending its first governor, Domingo de
+Ter&#225;n, to lead church, civilian, and military
+colonization efforts. Spain moved into East
+Texas first, and by the 1710s it had established a
+string of missions at the southeastern edge of
+the Southern Plains. In an effort to connect
+northern Mexico with its far-flung Texas outposts,
+a presidio, San Antonio de B&#233;jar, was
+built in 1718, followed shortly by a mission, San
+Antonio de Valero (later called the Alamo).
+The French threat had created a strong commitment
+by Spain to settle Texas and to occupy
+the southern flank of the Plains. For the next
+100 years the Texas colony and the Southern
+Plains would have a complex, fluctuating relationship,
+which profoundly affected both.</p>
+
+<p>Although the Spanish endured on the borders
+of the Southern Plains until the collapse
+of the Spanish Empire in 1821, they never
+made serious attempts to colonize the grasslands.
+The nomadic and seminomadic hunters
+of the Southern Plains&#8211;Apaches, Comanches,
+Wichitas, and others&#8211;were an insurmountable
+obstacle to the Spanish imperial system,
+which was based on the exploitation of sedentary
+agricultural Indians and their labor. The
+futility of absorbing the Plains into the empire
+became painfully clear in the early eighteenth
+century, when Spain, in an effort to block
+France's commercial expansion, tried to establish
+a military presence in the region. Alarmed
+by reports of French activities among the Pawnees
+and Apaches, Governor Antonio Valverde
+y Cosio commissioned Lieutenant Governor
+Pedro de Villazur to lead an expedition to the
+Platte River and to determine whether a presidio
+in southeastern Colorado would serve to
+eliminate the French threat. In 1720, traveling
+with sixty Pueblos and forty-two Spanish
+troops, Villazur marched to the confluence of
+the Platte and Loup Rivers in central Nebraska,
+farther than any Spanish expedition from New
+Mexico would ever travel in the Great Plains.
+There, Pawnees and Otoes with French guns
+destroyed them. Villazur was killed along with
+twenty-nine soldiers, one-third of New Mexico's
+troops. Humiliated, the Spanish retreated
+to their existing Rio Grande settlements.</p>
+
+<p>A similar fate ended Spain's attempt to expand
+its reach north of Texas in the 1750s.
+Over the years Lipan Apaches, pressured by
+southward-expanding Comanches, had repeatedly
+asked for a mission and, thereby,
+Spanish protection. In 1757 Spanish o.cials
+finally responded to the Lipan requests by
+sending six missionaries and 100 soldiers and
+their families to build a mission and a presidio
+on the San Saba River. The site, about three
+miles east of the present town of Menard,
+Texas, was chosen because it was suitable for
+irrigated farming and was near a rich mineral
+region. Yet within a year, Mission Santa Cruz
+de San Sab&#225; and Presidio de San Luis de las
+Amarillas, the only Spanish mission and presidio
+ever established in the Plains, lay in
+ruins, destroyed by Comanches, Wichitas, and
+Hasinais who wanted to prevent the Spanish-
+Apache alliance. The attempt to extend the
+Spanish frontier into the Texas Plains ended in
+utter failure.</p>
+
+<p>The Villazur and San Sabá disasters fundamentally
+altered the history of the Great
+Plains. During the remaining years of the
+Spanish presence in the Americas, New Mexico
+and Texas devolved into sleepy outposts
+rather than serving as springboards for Plains
+colonization. In the 1770s, when New Spain's
+northern colonies were organized into a huge
+semiautonomous administrative unit, the <hi rend="italic">Provincias
+Internas</hi>, the rationale for the arrangement
+in New Mexico and Texas was to improve
+the colonies' defensive, not expansive,
+potential. But the absence of colonization did
+not mean that there was no interaction between
+the Spanish and the Plains. Throughout
+the Spanish era, trade goods, animals, and microbes
+were disseminated into the Plains, radically
+changing both land and life.</p>
+
+<p>Diseases spread from the colonies to the adjacent
+grasslands, killing tens of thousands of
+Indians who had no resistance against European
+microbes. It is not known when the first
+epidemics struck, but many scholars believe
+that the Plains Indian population in 1700 was
+only a fraction of what it was before contact.
+But the colonies also benefited the Plains Indians.
+The most positive exchange was the reintroduction
+of horses to the grasslands. The
+first horses probably came to the Plains in the
+early seventeenth century, but the diffusion
+accelerated greatly after the Pueblo Revolt,
+when Pueblos and Plains Indians engaged in
+active trade in horses left behind by the Spanish.
+Within a few generations, the Plains Indians
+reinvented themselves and became some
+of the most refined hunting and equestrian
+cultures in history.</p>
+
+<p>In addition to microbes and animals, people
+crossed the boundaries between the Spanish
+colonies and the Plains. In the eighteenth
+and early nineteenth centuries, Comanches
+sold thousands of Apache and Pawnee captives
+to New Mexico. The commerce in humans
+was also encouraged by the <hi rend="italic">Recopilaci&#243;n</hi>
+of 1681, which obliged the Spanish to ransom
+Native Americans enslaved by other Native
+Americans. Called <hi rend="italic">indios gen&#243;zaros</hi>, these captives
+lacked social status within either Spanish
+or Puebloan society. With no land or property,
+gen&#243;zaros were put in new settlements
+constructed as frontier outposts on the western
+Plains border. There they constituted the
+front line of defense protecting the Spanish
+presence in the Southwest.</p>
+
+<p>The movement of diseases, horses, and
+people in and out of the Plains was abetted by
+economic interaction. Initially, the Spanish.
+Plains Indian trade grew out of necessity: the
+Spanish needed Plains goods&#8211;hides, dried
+meat, and tallow&#8211;and the Jumanos, Comanches,
+and other Native American groups were
+eager to obtain horses, metal goods, and firearms.
+Later, as Spanish officials realized that
+the Plains was beyond their military grasp,
+they attempted to control the Plains Indians
+through trade. In an effort to block French
+and, later, American expansion into the Plains
+and northern Mexico, the Spanish tried to
+turn the Southern Plains into a buffer zone by
+drawing the region's Indians into their commercial
+orbit.</p>
+
+<p>Spurred by these economic and political
+motives, Spanish–Plains Indian trade flourished,
+particularly in New Mexico. As they had
+done for centuries, Plains nomads came every
+year to Pueblo trade fairs, which in the eighteenth
+century were increasingly dominated
+by Spanish merchants. Texas, the poorer of the
+two colonies, was slower to develop trade with
+the Plains tribes. There was some trade at San
+Antonio de B&#233;jar. But in most cases the Indians
+focused on raiding the poorly protected missions
+and ranches for horses, mules, cattle,
+and goods.</p>
+
+<p>Before the 1780s the trade was also often
+interrupted in New Mexico by raids launched
+by Comanches and Apaches who were either
+looking for horses and corn or trying to force
+the Spanish into more favorable trade arrangements.
+A new era in Spanish–Plains Indian
+relations began in 1785-86, when the
+Spanish governments in Texas and New Mexico
+signed treaties with the Comanches. The
+Spanish promised secure trade, gifts, and access
+to guns, while the Comanches promised
+to stop raiding. In addition, both agreed to
+wage a joint war against the Apaches, which
+led to sporadic Comanche-Spanish expeditions
+against the few Apache bands still living
+on the Plains margins.</p>
+
+<p>The peaceful relations with the Comanches
+after the 1780s also enticed Spanish and Puebloan
+traders from New Mexico to venture
+onto the open grasslands. Known as <hi rend="italic">comancheros</hi>,
+these traders flourished in the Plains
+until the 1870s, exchanging bread, metal, tobacco,
+guns, ammunition, and alcohol for
+bison products, horses, and other Plains exports.
+Contemporaries of the comancheros
+were <hi rend="italic">ciboleros</hi>, bison hunters from New Mexico,
+who made annual winter hunting expeditions
+to provide meat for their families and
+hides for a burgeoning Santa Fe–Chihuahua
+trade. Roaming the Llano Estacado from
+semipermanent camps, the ciboleros may
+have taken as many as 25,000 bison hides back
+to New Mexico during the peak years of the
+early nineteenth century.</p>
+
+<p>Spain's role in the geopolitics of the Plains
+was also changing. In 1763, as a result of the
+French and Indian War, Spain gained Louisiana,
+which at that time included all of the
+Great Plains except for the far northern regions.
+The new geopolitical arrangement allowed
+the Spanish to relax their frontier defenses
+in New Mexico and Texas. On the other
+hand, the southward push of Canada-based
+British fur traders in the late eighteenth century
+forced Spanish officials to take action
+in the Northern Plains. In an effort to block
+British expansion, the officials promoted trade
+and exploration along the upper Missouri
+River, the commercial and transportation artery
+of the Northern Plains. Enticed by a large
+cash prize, French and Spanish merchants in
+St. Louis formed the Missouri Company and
+sent three exploring parties up the river between
+1794 and 1796, reaching as far as the
+Mandan villages in present-day North Dakota.</p>
+
+<p>In 1800, however, military losses in European
+wars forced Spain to return Louisiana to
+France. Spain was soon shocked to find an
+aggressive republic, the United States, on her
+<hi rend="italic">Provincias Internas</hi> border, following Napoleon's
+sale of Louisiana to the Americans in
+1803. Once again, Spain was restricted to the
+Southern Plains. For the remainder of their
+tenure in North America, the Spanish made
+a concerted effort to keep the Americans out
+of the Southern Plains, which they continued
+to use as a buffer zone for Mexico's silver
+mines. Spanish officials, for example, liberally
+granted licenses to comancheros, for they
+thought that the itinerant traders could help
+to gather intelligence on American actions in
+the Plains. Legally, because France and the
+United States had not formalized the southern
+border of the Louisiana Purchase, neither side
+had a definite claim to the Southern Plains.</p>
+
+<p>The Spanish–Plains Indian interaction remained
+active until the collapse of the Spanish
+Empire. A decade of unrest culminated in
+the Mexican Revolution in 1821, which ended
+three centuries of Spanish presence in North
+America. Still, the Spanish legacy was profound.
+Missions, presidios, and ranches had
+fixed the Spanish and their institutions and
+culture on the Plains margins. An amalgamation
+of the Indigenous peoples and Spanish
+gave rise to a dynamic mestizo culture, which
+became an integral part of life in the Plains.
+Politically, Mexico inherited Spain's claim to a
+great portion of the Southern Plains, a demand
+that was confirmed in the Adams-On&#237;s
+Treaty in 1819, just two years before the end
+of Spain's hegemony. According to the treaty,
+American and Spanish possessions were separated
+in the east by the Sabine River (which
+still separates Louisiana and Texas) and in the
+north by the Red River and, west of the 100th
+meridian, the Arkansas River. Although these
+boundaries were largely abstractions that ignored
+Native Americans' territorial claims,
+the fact that Spain managed to claim such a
+large portion of the Southern Plains testifies
+to its significant historical role in the region.</p>
+</div1>
+
+<div1>
+<head type="sub">Mexicans and the Plains, 1821-1846</head>
+
+<p>The period of Mexican rule in New Mexico
+and Texas was marked by growing political
+instability, economic difficulties, and dismantling
+of missions, presidios, and other colonial
+institutions. New Mexico and Texas were isolated
+from the political core of central and
+southern Mexico and suffered from a lack of
+governmental direction and from deteriorating
+economic systems. Also a reflection of
+their isolation from Mexico's core areas, New
+Mexico and Texas began to be pulled into the
+American orbit. The growing American influence
+first contributed to the Texas Revolution
+in 1836, then culminated in the annexation of
+Texas and New Mexico by the United States in
+1845 and 1848, respectively.</p>
+
+<p>Yet these enormous changes created only
+ripples in the Plains. Throughout the Mexican
+period, comancheros continued to make trade
+journeys among Comanches and Kiowas,
+keeping in place the economic ties between
+New Mexico and the Plains. Trade, albeit
+more limited in scope, also continued on the
+Texas frontier. However, the acute financial
+problems of the Republic of Mexico made it
+impossible for the frontier officials to abide by
+the provisions of the Indian treaties, which
+prompted the Comanches and Kiowas to escalate
+their raiding activities in New Mexico and
+Texas. In Texas an additional problem was the
+relentless northward and westward thrust of
+the settlement frontier, which gained momentum
+in the 1820s as increasing numbers of
+Americans and Europeans migrated to the
+province. By 1833 a great portion of the Plains
+south of the Arkansas River had already been
+allocated to immigration agents called <hi rend="italic">empresarios</hi>,
+although the lands were still under
+Comanche and Kiowa control. When settlers
+pushed to the north, the Comanches and
+Kiowas retaliated with raids. By 1840 raiding
+had become so widespread that a virtual state
+of war existed on the New Mexico and Texas
+Plains border.</p>
+
+<p>The most crucial development of the Mexican
+period in the Plains was the expansion of
+the private land-grant system onto the Llano
+Estacado. This rose from the dread of American
+territorial expansion, which was fueled
+by growing American economic influence in
+New Mexico after the opening of the Santa Fe
+trade in 1821. Determined to eliminate the
+American threat, Mexican governors in the
+1820s and 1830s made huge land grants to the
+Baubiens, Mirandas, and other leading families
+of New Mexico. The recipients of the
+grants agreed to put settlers on their lands,
+which, the governors hoped, would fasten
+Mexico's hold on the territory and act as a
+barrier against American expansion. By the
+early 1840s the whole western flank of the
+Southern Plains from the Arkansas River to
+the Canadian River had already been allocated
+as private grants. Although Indian occupation
+kept the assigned lands thinly populated, the
+grants gave the Mexican elite a strong legal
+claim to large portions of the Southern Plains
+on the eve of American takeover.</p>
+</div1>
+
+<div1>
+<head type="sub">Mexican Americans and the Plains, 1846-1900</head>
+
+<p>The annexation of Texas pushed the United
+States and Mexico toward war. Mexico had
+never recognized Texas independence and
+viewed the annexation as an act of aggression.
+The United States did recognize the Republic
+of Texas in 1837: because so many Americans
+had migrated to Texas, it was considered a
+logical extension of a growing empire that
+would eventually reach to the Pacific. The
+Plains proper, firmly in the possession of the
+Indians, played a marginal role in this struggle.
+However, because Texas claimed a southern
+and western border all the way to the Rio
+Grande, and because Mexico insisted on the
+Nueces River, the Southern Plains was involved,
+at least on the map, in an international
+conflict. The Mexican American War of 1846.
+48, although fought outside the Plains, still
+had enormous ramifications for the region.
+The Treaty of Guadalupe Hidalgo, which stipulated
+the terms of the peace, transferred New
+Mexico and part of Colorado to the United
+States, extended the Texas boundary to the
+Rio Grande, and, in effect, placed the Southern
+Plains within the United States.</p>
+
+<p>At first the United States focused its efforts
+on the Rio Grande Valley in New Mexico and
+in the San Antonio region in Texas. The immediate
+goal was to absorb those economic
+and population centers into the national system
+by introducing American jurisdiction, establishing
+representative governments, controlling
+the Catholic Church, and remaking
+land laws. While major economic, social, and
+political changes were forced upon the Mexican
+Americans of New Mexico and Texas, they
+still retained their distinctive culture. They
+clung to Catholicism, Spanish and Mexican
+customs, and the Spanish language, and they
+celebrated Mexican national holidays and
+built adobe houses. They also demanded
+power, better living conditions, and fair treatment.
+During the latter part of the nineteenth
+century, most of New Mexico's territorial delegates
+to Washington <hi rend="smallcaps">DC</hi> were Mexican Americans.
+In Texas, Tejano workers organized several
+strikes.</p>
+
+<p>Meanwhile, the Plains remained a periphery
+where Mexican-born ciboleros and comancheros
+could operate relatively undisturbed
+by the federal government. In fact, the
+comanchero trade reached its height as late as
+the 1860s and 1870s, when the comancheros
+began to traffic in cattle the Comanches stole
+from Texas ranches. Texas longhorns found a
+ready market among wealthy New Mexican
+merchants, who had begun to produce meat
+for federal beef contractors. Encouraged by
+the burgeoning trade, comancheros started
+to build semipermanent trading centers along
+the well-traveled trade routes of the Llano
+Estacado. These trading camps, which often
+featured dugouts, stone houses, and rudimentary
+irrigation systems, represented the first
+substantial Mexican American settlements in
+the Plains.</p>
+
+<p>The confinement of Native Americans on
+reservations by the mid-1870s paved the way
+for an even more permanent Mexican American
+settlement in the Plains. <hi rend="italic">Pastores</hi> (shepherds)
+from New Mexico filled the vacuum
+left by the removed Comanches, Kiowas, and
+Plains Apaches. Prompted by a growing market
+for wool in the United States after the Civil
+War, the pastores expanded their operations
+from the Rio Grande and Pecos Valleys onto
+the Llano Estacado, where abundant shortgrasses
+provided plentiful forage for their
+herds. Using the traditional Spanish transhumance
+system, pastores moved their flocks
+between summer and winter pastures, making
+large circuits along old Indian and comanchero
+trails. A mix of merino and Spanish
+<hi rend="italic">chaurro</hi> breeds, New Mexican sheep proved to
+be well adapted to the Plains environment,
+and their owners thrived.</p>
+
+<p>As the number of pastores on the Llano
+Estacado grew, they began to congregate into
+small communities called <hi rend="italic">plazas</hi>. By the 1880s
+dozens of small and large plazas were distributed
+along the Canadian River valley and
+its tributaries, the core sheepherding region.
+Besides their function as herding centers, the
+plazas were nuclei of Mexican American culture
+in the Plains. A typical plaza featured
+a single line of adobe or rock houses surrounded
+by a New Mexican.type stone wall.
+An irrigation ditch, or <hi rend="italic">acequia</hi>, provided water
+for a fruit orchard and small fields of
+corn, beans, melons, and peppers. Social
+life revolved around fiestas, all-night <hi rend="italic">bailes</hi>
+(dances), traditional Mexican games such as
+<hi rend="italic">la pelota</hi> (a form of field hockey), and regular
+Catholic services (the Catholicism practiced
+in the plazas could differ considerably from
+the Catholicism practiced elsewhere in New
+Mexico and Texas, where there was much
+more official church control). A nearby cemetery
+signaled a long-term commitment to the
+region.</p>
+
+<p>The pastores flourished in the Plains until
+the mid-1880s, when they were replaced by the
+expanding open-range cattle industry. By the
+1890s only a few pastores remained on their
+shrinking pastures; most had been eliminated
+by Anglo-American ranchers' barbed wire,
+threats, and restrictive laws. Many retreated to
+the urban areas of New Mexico, only to return
+in large numbers to build railroads across the
+Texas Panhandle in the late 1880s and 1890s.
+Some pastores remained on the Llano Estacado
+and began to work for the same cattle
+barons who had dispossessed them. By the
+1880s about one-fourth of all cowboys working
+on the Plains cattle trails were Mexican
+Americans. Through their labor, these Mexican
+Americans made a significant contribution
+to an industry that had already been
+heavily influenced by Spanish and Mexican
+ranching heritage. From the gear and methods
+used, to its vocabulary, the Anglo-American
+cattle industry of the Great Plains was built
+on a Spanish-Mexican foundation. Anglo
+cowboys, often working alongside <hi rend="italic">vaqueros</hi>,
+rode on Mexican stock saddles, garnished
+their stirrups with "taps" (<hi rend="italic">tapaderas</hi>), used the
+lasso (<hi rend="italic">lazo</hi>) or lariat (<hi rend="italic">la reata</hi>), collected the
+animals in annual roundups (<hi rend="italic">rodeo</hi> or <hi rend="italic">corrada</hi>),
+and relaxed by engaging in rowdy
+drinking binges (<hi rend="italic">parrandas</hi>).</p>
+
+<p>While Mexican Americans were making
+important contributions to the social and economic
+life of the Southern Plains, their hold
+on the land was slipping away. The Treaty of
+Guadalupe Hidalgo had promised to respect
+the landholdings of Mexican citizens, but decisions
+made in American courts and legislatures
+undermined the principle. In 1854 the
+first American surveyor-general to New Mexico
+discovered multiple claims and overlapping
+land grants. Confusion governed New
+Mexican land policy, triggering more claims
+and divesting many Mexican Americans of
+their homes and fields. Furthermore, after the
+introduction of the Homestead Act in 1862,
+Mexican Americans also had to compete with
+Anglo farmers for the land.</p>
+
+<p>In 1891 Congress created the Court of Private
+Land Claims to hear disputes in New
+Mexico and Colorado. In a few years, Mexican
+Americans lost more than 33 million acres.
+Lawyers were paid for their services in land;
+some attorneys amassed fortunes by taking
+huge amounts of land from villages as fees.
+Dispossessed Mexican Americans sought
+work in Colorado as miners, in Texas as rail
+workers, and on the Central Plains as <hi rend="italic">betabeleros</hi>&#8211;
+beet workers, planters, and harvesters.</p>
+
+<p>Mexican Americans did not accept these
+changes without resistance. In the late 1880s,
+largely as a response to the uncertainty and
+corruption surrounding land titles, a group of
+Mexican Americans and sympathetic Anglos
+organized a vigilante group called <hi rend="italic">Gorras
+Blancas</hi>, or White Caps. Operating mainly in
+the New Mexico Plains, the Gorras Blancas
+resisted fencing of the ranges by railroad companies,
+cattlemen, and other land claimants
+and sought to protect Hispano land grants.
+They tore up railroad tracks and fences,
+formed a local political party, and were instrumental
+in obtaining legislative action to preserve
+the grants.</p>
+
+<p>By the end of the nineteenth century, the
+culture of the Great Plains&#8211;its economy, architecture,
+social customs, and ethnic fabric&#8211;
+displayed strong traces of Spanish and Mexican heritage. This heritage reflected the long
+tenure of Spanish and Mexican people in and
+around the region, a tenure that had begun
+with the first Spanish expeditions in the sixteenth
+century. Around 1900 a new period began
+in the history of Mexican Americans and
+the Great Plains. Before 1900, Spanish, Mexican,
+and Mexican American influence had
+emanated to the Plains from the adjacent regions
+of New Mexico and Texas. In the twentieth
+century, however, people from all over
+Mexico and from Central America began to
+migrate to the Plains in search of employment
+and to escape the economic or political conditions
+in their home countries.</p>
+</div1>
+
+<div1>
+<head type="sub">Latinos and the Plains in the Twentieth Century</head>
+
+<p>During the twentieth century two important
+trends emerged with reference to Mexicans
+and Mexican Americans and the Great Plains.
+First, they moved more widely throughout the
+region. Migration to the Central Plains was
+particularly significant, and that migratory
+process was different from past migrations.
+The displacement and the transitory aspects
+of the migration of Mexicans and Mexican
+Americans fueled labor abuses and unrest.
+Some Plains industries, such as meatpacking,
+became dependent upon Mexican and Mexican
+American labor. Second, Mexican Americans
+had begun to infiltrate the power structures
+of American society, including political
+offices. This new development reached the
+highest levels of local, state, and national government.
+Throughout these changes, Mexican
+Americans retained significant aspects of their
+culture, with their music, art, and culture developing
+regional and national prominence.</p>
+
+<p>Beginning in the 1880s the Mexican population
+in the Great Plains began to increase, the
+direct result of a transportation revolution created
+by the railroad. Between 1882 and 1912 U.S.
+rail corporations built four lines from the
+heart of Mexico into California and New Mexico.
+Following these lines (and often building
+them) Mexicans traveled to Texas, Colorado,
+and Oklahoma to work in booming coal and
+agricultural industries. It was, however, the social
+upheaval surrounding the Mexican Revolution,
+which began in 1910, that pushed large
+numbers of Mexicans into the United States
+and the Great Plains. The first major wave of
+immigration started in 1900. Most of these
+"first wavers" settled in Kansas; a smaller number
+made their way to other Central Plains
+states. In 1900 the U.S. census counted only 182
+Mexicans in Oklahoma, Kansas, Nebraska,
+South Dakota, and North Dakota combined.
+But by 1910 that number had increased to
+11,384. Over the course of the following decade,
+23,201 Mexicans migrated into these states, and
+in the 1920s, 32,240 more followed. Actual
+numbers were much higher; census authorities
+have noted that these figures represent a gross
+undercount of migratory Mexican immigrants.
+Immigration halted in the 1930s, as the
+Great Depression eliminated job opportunities
+and some states started repatriation movements,
+deporting both Mexicans and Mexican
+Americans to Mexico. By 1940 this immigration
+had lowered the region's Mexican and
+Mexican American population to 8,452.</p>
+
+<p>Most Mexicans in the Plains lived a migratory
+life. They were mainly males, and they
+frequently traveled back across the border,
+visiting the families they had left behind in
+Mexico. The nature of their employment,
+moreover, was very transient, so Mexican migrants
+frequently moved around within the
+Plains. They labeled themselves <hi rend="italic">solos</hi>, characterizing
+the solitary migrant lives that most of
+these immigrants led. The lives and work patterns
+of solos, therefore, were the result of several
+interrelated factors: the labor market, the
+demands of employers, the convenience of rail
+travel, and the desire to see their families.</p>
+
+<p>Two other factors influenced the kind of
+jobs that were made available to Mexican
+workers. Racism excluded Mexicans from
+skilled and semiskilled work; only unskilled
+industrial and agricultural employment remained
+open. Moreover, not only were the
+majority of jobs unskilled and poorly paid, but
+they were also seasonal. Railroad companies, a
+major employer of immigrants, usually hired
+from March through May or October. Sugar
+beet growers, the other major employer, hired
+in six-month cycles ending in November or
+December. The seasonal nature of the solos'
+employment left them with a period of time
+during which they could return to Mexico or
+the Southern Plains and see their families. This
+travel was facilitated by the extensive rail networks
+that crisscrossed the Plains and extended
+well into Mexico. While the initial wave
+of Mexicans came as solos, later waves of migrants
+settled down permanently. After 1910
+railroad companies came to the conclusion
+that seasonal workers were less profitable than
+permanent workers&#8211;a seasonal worker could
+easily protest low wages by leaving his job and
+finding a new one elsewhere. So rail companies
+began hiring Mexicans in more permanent
+positions. To encourage this they began transporting
+entire Mexican families into the
+United States and settling them in the company's
+locale. By 1927 sugar beet companies
+were copying railroad hiring practices. At the
+end of the decade, the seeds of permanent
+Mexican American communities in the Central
+Plains had been planted, and the <hi rend="italic">colonias</hi>
+in the Southern Plains were replenished.</p>
+
+<p>Migration patterns varied with the type of
+employment. Mexicans employed in the rail
+industry, <hi rend="italic">traqueros</hi>, crossed the Mexico-U.S.
+border at El Paso. There they were recruited to
+work for railroads from all over the nation.
+Traqueros heading to the Plains traveled first
+to Kansas City, where most stayed to work for
+the Santa Fe Railroad. A smaller number
+moved on to other areas. Betabeleros, laborers
+in the sugar beet fields, followed a different
+migratory route. Sugar companies, in particular
+the Great Western Sugar Company, recruited
+thousands of Mexicans directly from
+Mexico and brought them through New Mexico
+and the Southern Plains. The numbers escalated
+as the industry grew, increasing significantly
+when World War I reduced domestic
+labor supplies. In 1915 Great Western recruited
+only 500 Mexican workers; in 1920 the company
+hired 13,000 Mexicans, and in 1926,
+14,500 Mexicans. As with traqueros, betabeleros
+first gathered in Kansas City. From there,
+they moved to the beet fields of northern Colorado,
+Nebraska, Kansas, Wyoming, Montana,
+South Dakota, and North Dakota. By
+1920 Mexicans became synonymous with beet
+workers in the Plains, and by 1927 they comprised
+90 percent of all beet workers in the
+region.</p>
+
+<p>Despite the different routes of arrival and
+their uneven distribution over Plains states,
+betabeleros in the Plains demonstrated a
+strong working-class solidarity. These workers
+succeeded in organizing despite their migratory
+lifestyles and the racism directed against
+them by employers who had a free hand in
+using union-busting tactics. The workers first
+formed organizations such as the <hi rend="italic">Comisi&#243;n
+Honorifica Mexicana</hi> to protest discrimination.
+By World War I, with encouragement
+from the Industrial Workers of the World, the
+betabeleros organized to gain higher wages. In
+the early 1920s they formed the Mexican Beet
+Workers Committee, later <hi rend="italic">Asociaci&#243;n de Betabeleros</hi>,
+an organization aimed at improving
+working conditions and ensuring fair employment
+practices.</p>
+
+<p>At its peak, the Asociaci&#243;n de Betabeleros
+united some 10,000 workers from Colorado,
+Nebraska, Kansas, Wyoming, and Montana.
+When the American Federation of Labor
+(<hi rend="smallcaps">AFL</hi>) rejected their efforts to affiliate, the
+Asociacion aligned instead with communists
+and socialists to form the United Front Committee
+of Agriculture Workers in 1932. Although
+they commanded a formidable membership
+of 18,000, they were still not able to
+strike successfully against the powerful sugar
+companies of the Great Plains.</p>
+
+<p>In 1935 several local beet-worker organizations
+joined to form the Colorado Conference
+of Beet Field and Agricultural Unions. They
+then affiliated with the Agricultural Workers
+Union, a branch of the <hi rend="smallcaps">AFL</hi>. In 1937 these
+workers left the <hi rend="smallcaps">AFL</hi> to affiliate with the United
+Cannery, Packing, and Agricultural Workers
+of America (<hi rend="smallcaps">UCAPAWA</hi>), a branch of the newly
+formed Congress of Industrial Organization.
+ucapawa claimed some 18,000 to 20,000 Mexican
+American beet workers in the Plains, of
+whom 60 percent were Mexican-born and 40
+percent American-born. But like the other
+efforts at organization, <hi rend="smallcaps">UCAPAWA</hi> failed, in this
+case because of the inept leadership of European
+American organizers who knew little
+about the beet industry or Mexican Americans.</p>
+
+<p>Although the majority of Mexican Americans
+in the Plains were betabeleros and traqueros,
+some worked in other industries as
+well. During World War I, Mexican Americans
+were employed in the meatpacking industry in
+Kansas, Oklahoma, and Nebraska. In 1921, 200
+to 300 Mexican Americans worked in Kansas
+City plants, and in 1927 approximately 600
+worked in the South Omaha stockyards. They
+also worked in the cotton fields of southern
+Oklahoma and the mines of southeastern
+Oklahoma and southern Colorado. In the
+mining town of Lafayette, just outside Denver,
+for example, Mexican Americans composed 52
+percent of the miners between 1921 and 1928.</p>
+
+<p>The economic hardships of the Great Depression
+intensified racist attitudes toward
+Mexican immigrants. Nativists, many of
+whom belonged to trade unions, blamed
+cheap Mexican labor for stealing jobs from
+"hardworking Americans," meaning Anglos.
+The U.S. government responded by implementing
+a program designed to "repatriate"
+undocumented workers. While for the most
+part this program did not extend beyond California,
+Arizona, and the Plains states of Texas
+and New Mexico, Immigration and Naturalization
+Service (<hi rend="smallcaps">INS</hi>) officials derived the idea
+of mass deportation from the practices of a
+Plains city. As early as 1921, metropolitan Denver's
+county sheriff had independently ordered
+his law enforcement department to bus
+undocumented workers back to the Mexican
+border.</p>
+
+<p>While one segment of the American public
+was aligned against Mexican immigration, another
+segment, growers in the Southern Plains,
+clamored for more low-paid Mexican workers.
+Manpower shortages during World War II further
+increased the need for labor. The federal
+government responded by entering into an
+agreement with the Mexican government that
+created what later came to be known as the
+Bracero Program. Through this 1942 agreement,
+the Mexican government facilitated the
+importation of temporary workers in exchange
+for the guarantee that Mexican nationals
+would have full protection under federal
+laws.</p>
+
+<p>The Bracero Program provided muchneeded
+labor to several Plains states. There is,
+however, a dearth of information about exactly
+how many braceros entered the Plains,
+where they went, and in what industries they
+worked. Texas was probably the only Plains
+state to receive large numbers of braceros.
+They faced great difficulties there. Almost
+from the outset of this program, the Mexican
+government banned braceros from entering
+the state because of racial abuses practiced by
+Texas growers. A similar situation existed in
+Wyoming. Consequently, after Wyoming received
+just 650 braceros in 1942 and 1943, the
+Mexican government prohibited its nationals
+from working in the state. Both Texas and Wyoming
+eventually regained access to braceros,
+and Texas continued to import large numbers
+until the end of the program in 1964.</p>
+
+<p>Twenty years after the first repatriation program,
+the federal government mounted yet
+another initiative to deport undocumented
+workers, ironically at a time when the Bracero
+Program was still going strong. "Operation
+Wetback" began in 1954 and lasted a little over
+two years. Of the Plains states, only Texas and
+New Mexico were targeted. In Texas, the ins
+deported 81,127 "illegals" and intimidated an
+estimated 500,000 to 700,000 undocumented
+workers into leaving. Many deported workers
+simply turned around at the border and reentered
+the United States. In September of 1956
+the ins officially terminated Operation Wetback,
+proclaiming that it had cleared the targeted
+states of all undocumented Mexicans.
+This program had the devastating effect of allowing
+increased employer exploitation of
+their Mexican workers. If a Mexican worker
+were to complain, the employer would simply
+call the <hi rend="smallcaps">INS</hi>.</p>
+
+<p>This abusive treatment of Mexicans and
+Mexican Americans did not go unchallenged.
+In the 1960s the Chicano movement started
+in California and across the Southwest. One
+valiant effort was that of C&#233;sar Chavez and
+his United Farm Workers. One of the preeminent
+leaders in this labor movement, Dolores
+Huerta, was born in the Plains (in the nowdefunct
+coal-mining town of Dawson, New
+Mexico, in 1930), though she moved to California
+as a child. By the end of the decade,
+Chicano activism focused on three Plains
+states: New Mexico, Colorado, and Texas.
+From these states came three dynamic leaders.</p>
+
+<p>Reies Lopez Tijerina was the first of these
+leaders to emerge. Born in Falls City, Texas,
+in 1926, Tijerina had labored as a youth on
+Texas cotton plantations and in Colorado beet
+fields. He began his political activities in New
+Mexico in the early 1960s. Aiming to reclaim
+land in New Mexico stolen from Hispano
+landowners shortly after the 1848 Treaty of
+Guadalupe Hidalgo, Tijerina formed the <hi rend="italic">Alianza
+Federal de los Pueblos Libres</hi> (Federal Alliance
+of Free City States). In 1968 Tijerina
+organized a political party, <hi rend="italic">Partido Constitucional
+del Pueblo</hi> (People's Constitutional
+Party), which received several thousand votes
+in that year's gubernatorial election. His bestknown
+accomplishments were the 1966 occupation
+of the Echo Amphitheater in the Kit
+Carson National Forest and his 1967 raid on
+the Rio Arriba County Courthouse in Tierra
+Amarilla, New Mexico, an action aimed at arresting
+the district attorney.</p>
+
+<p>In 1969 Tijerina's movement came to an
+abrupt end when U.S. Forest Rangers arrested
+him and his wife for destroying U.S. forest
+signs while attempting to occupy the Coyote
+Campsite, again in the Kit Carson National
+Forest. After 775 days of incarceration, Tijerina
+came out of prison repudiating violence.
+He found upon his release that his position
+of leadership in the movement had waned.
+Another activist from the Plains, Rodolfo
+"Corky" Gonzalez, had simultaneously been
+developing another strand of the Chicano
+movement.</p>
+
+<p>Gonzalez, a native of Denver, parlayed his
+experiences as a professional boxer into a successful
+political and business career. In the
+mid-1960s, however, he changed from mainstream
+politics to activism in an effort to address
+issues specific to his community. Gonzalez
+returned to the Denver barrio to organize
+the Crusade for Justice, a movement for social
+justice, and to lead protests such as the 1968
+West Side High School walkout, which was
+prompted by the killing of fifteen-year-old
+Joseph Archuleta by a police officer. He also
+published an epic poem, "I Am Joaquin," that
+became the most inspirational piece of literature
+in the Chicano movement.</p>
+
+<p>In 1969 Gonzalez organized the Youth Leadership
+Conference (<hi rend="smallcaps">YLC</hi>) in Denver. At this
+event, he adopted the term "Chicano," meaning
+a U.S.-born Mexican, and he introduced
+Mexican Americans to the vision of Aztl&#225;n, the
+mythical Chicano homeland. From that time
+on, the term "Chicano" and the search to regain
+Aztl&#225;n became the defining characteristics
+of a movement for social and economic
+justice among many Mexican Americans of the
+Plains. A long-lasting legacy of the Crusade for
+Justice in Denver is the <hi rend="italic">Escuela Tlatelolco</hi>, a
+community-controlled alternative school still
+in operation three decades after its founding in
+the late 1960s. In 1972, with a mandate from the
+<hi rend="smallcaps">YLC</hi>, Gonzalez organized a Colorado chapter of
+La Raza Unida, an independent Chicano political
+party that had been founded in Texas two
+years earlier.</p>
+
+<p>La Raza Unida was founded in Texas by Jose
+Angel Gutierrez, another important Chicano
+leader. In 1967, while still a student at St.
+Mary's University in San Antonio, Gutierrez
+organized the Mexican American Youth Organization
+(<hi rend="smallcaps">MAYO</hi>). In 1970, after failing to obtain
+<hi rend="smallcaps">MAYO</hi> representation in city government,
+Guti&#233;rrez organized La Raza Unida.</p>
+
+<p>La Raza achieved immediate success in the
+small community of Crystal City in South
+Texas, located just off the Plains. Here, within
+one year, Gutierrez became president of the
+Zavala County school board, and twentythree
+of the twenty-four positions were filled
+by Chicanos. In 1971 La Raza members moved
+to expand the party's influence to a statewide
+level by contesting seats on the Houston, Fort
+Worth, Dallas, and San Antonio city councils
+and school boards. In 1972 Ramsey Munoz ran
+on the La Raza ticket as the party's Texas gubernatorial
+candidate, and he experienced
+greater success than anyone, including La
+Raza leaders, had expected. That same year La
+Raza voted to go national, at which time Gonzalez
+organized the Colorado chapter.</p>
+
+<p>At the beginning of the twenty-first century
+Mexican Americans and Mexicans continued
+to occupy many of the same niches in the
+Great Plains labor market that they had occupied
+for almost a century. Increasingly,
+Central Americans joined them in these jobs.
+Although it is difficult to assign numbers&#8211;
+many are undocumented workers who moved
+back and forth across the border&#8211;it is evident
+that the majority worked in agriculture, manufacturing,
+and construction. Meatpacking
+drew thousands into the region each year. Nowhere
+did this industry have a greater impact
+than in Nebraska.</p>
+
+<p>From 1980 to 1990 the number of Mexicans
+and Central Americans in Nebraska more
+than doubled. This increase was largely explained
+by the opening of meatpacking plants
+in Grand Island, Lexington, Omaha, and other
+cities. Large companies such as Iowa Beef
+Packers were attracted to the area by the promise
+of tax cuts and other benefits. The meatpacking
+companies relied on and recruited
+nonunion immigrant labor, particularly Mexicans and other Latin Americans. In the 1970s
+they paid most of these workers about $6 an
+hour, substantially less than the $30,000 a year
+made by unionized meatpackers, and this
+trend continued into the 1980s and 1990s. Labor
+recruiting focused on Texas border towns
+and was so successful by the mid-1990s that 65
+percent of all meatpacking workers in Nebraska
+were of Mexican origin. In Lexington,
+Nebraska, for example, the Mexican population
+increased from 6 percent of the town in
+1980 to 23 percent in 1993. But there was no job
+security, the housing provided usually turned
+out to be dilapidated, and the work itself was
+grueling and hazardous.</p>
+
+<p>Terrible working and living conditions led
+to unionization drives in the late 1980s. Two
+locals of the United Food and Commercial
+Workers union were particularly active. In
+1989 Local 271 attempted to organize the Millard
+packing plant in Omaha, only to encounter
+resistance from plant management. This
+dispute reached the National Labor Relations
+Board in 1995. Local 22 also attempted to organize
+several plants, including an Iowa Beef
+Packers plant in Fremont and a Monfort plant
+in Omaha. The Monfort effort resulted in a
+union contract in 1997. Meatpacking plants
+often responded to union activity by increasing
+their cooperation with ins officials searching
+for undocumented workers. The result
+was an increase in raids on the Mexican communities
+in the area, and deportations were
+frequent.</p>
+
+<p>Exploitation of Mexican and Mexican
+American meatpacking workers was not limited
+to Nebraska. In Greeley, Colorado, similar
+conditions existed. Following the temporary
+shutdown of a Monfort meatpacking
+plant there in 1980, the local meatpackers'
+union disbanded, giving Monfort a free hand
+in its treatment of the new workers the company
+hired when it reopened in 1982. Monfort
+started by filling its factories with Mexican
+and Central and South American workers.
+Working conditions were no better than at the
+meatpacking plants in Nebraska, and Greeley
+city officials were reluctant to take action
+against Monfort's exploitation of its workers
+because the local economy relied heavily on
+the meatpacking industry.</p>
+</div1>
+
+<div1>
+<head type="sub">The Hispanic Impact</head>
+
+<figure n="egp.ha.001" rend="granted">
+<figDesc>Hispanic population in the U.S. Great Plains as a percentage of total population, by county, in 2000</figDesc>
+</figure>
+
+<p>At the beginning of the twenty-first century,
+Mexicans and Mexican Americans maintained
+a significant presence in the Southern
+Plains. In a broad belt of counties reaching
+along the western Great Plains from the Mexican
+border to southern Colorado, "Persons of
+Hispanic Origin," the designated census category
+encompassing Mexican Americans, Mexicans,
+and other Latin Americans, comprised
+more than 25 percent of the total population.
+In Texas, Hispanics comprised one-third of
+the total state population: a number of counties
+in the Panhandle saw their Hispanic population
+grow by more than 10 percent from
+1990 to 2000. In Colorado, Hispanics made up
+13 percent of the total population. In Denver
+alone there were more than 397,000 Hispanics
+in the 2000 census, comprising almost 19 percent
+of the city's total population.</p>
+
+<p>These large populations have had an extensive
+impact on the social, economic, and political
+makeup of Plains communities. In Denver,
+for instance, Hispanics have turned their
+formidable numbers into political representation.
+Federico Peña, secretary of transportation
+in President Bill Clinton's first administration
+and secretary of energy for two years
+in Clinton's second administration, cut his
+political teeth in Denver. Originally from
+Texas, Pe&#241;a served as Denver's mayor from
+1983 until 1990, when he stepped down from
+that position. As secretary of transportation,
+Peña turned his position into positive gains
+for Denver when he helped the city obtain
+nearly $5 billion in federal funds for a new
+Denver International Airport.</p>
+
+<p>Other distinguished Mexican American
+politicians from Colorado include Polly Baca
+(born in 1943 in Greeley), the first minority
+woman elected to the Colorado Senate, and
+Linda Chavez (who was born in Albuquerque
+in 1947 but grew up in Denver), the highest-ranking
+woman in the Reagan administration
+and a leading conservative figure.</p>
+
+<p>In New Mexico, where in 2000 all the Plains
+counties were more than 25 percent Hispanic,
+political power for Mexican Americans is
+deeply rooted. Miguel Antonio Otero (1829–
+82) served in the territorial legislature, was appointed
+as territorial district attorney, and was
+elected New Mexico's delegate to Congress in
+1855. The tradition continued: Mari-Luci Jaramillo
+(born in 1928 in Las Vegas) was appointed
+ambassador to Honduras by President
+Jimmy Carter in 1976, the first Mexican
+American woman to hold an ambassadorship.
+Bill Richardson went from New Mexico congressman
+to serving as ambassador to the
+United Nations and as secretary of energy in
+the second Clinton administration. In 2002 he
+was elected governor of New Mexico.</p>
+
+<p>Numbers and percentages of Hispanics decrease
+northward up the Plains and eastward
+away from the linear concentration running
+from the Rio Grande to Colorado. Persons of
+Hispanic origin comprise 7 percent of the total
+Kansas population. Finney County, home
+to meatpacking plants in Garden City, has
+Kansas's highest concentration of Hispanics.
+Voters in Hutchinson, in central Kansas, elected
+the Great Plains' first Mexican American
+woman mayor, Frances Garcia, in 1985. In Nebraska,
+Hispanics constitute 5.5 percent of
+the total population, but in the Panhandle,
+the prime sugar-beet-growing region, and in
+counties with meatpacking activities they are
+a more significant presence. Moreover, Hispanics
+are now Nebraska's largest minority
+population and, with a 338 percent growth
+from 1990 to 2000, its fastest-growing one. In
+Oklahoma, Hispanics account for 5 percent of
+the total population; their numbers are relatively few but the distribution is broad. In only
+a handful of counties in Oklahoma is the population
+less than 1 percent Hispanic.</p>
+
+<p>The only other Plains state to have a sizable
+Hispanic population is Wyoming. Along the
+sugar beet belt of southern Wyoming, Hispanics
+comprise between 5 and 25 percent of
+the population in each county. In the Northern
+Plains states, there are relatively few Hispanics.
+Recent (1996) statistics of ethnic origin
+for the Canadian Prairie Provinces show Alberta
+with the largest concentration of Hispanics
+(10,335), but this represents only 0.3
+percent of the total population. Manitoba had
+2,735 Hispanics in 1996 and Saskatchewan
+1,229.</p>
+
+<p>The impact of Mexicans and Mexican
+Americans on the modernization of the Great
+Plains has been invaluable. Without their labor
+there is no doubt that this region would
+not enjoy the farming and industrial prosperity
+that it has achieved. One of Colorado's
+preeminent labor leaders in the postwar era
+was Mexican-born Tim Flores, who rose from
+farm laborer in Greeley and brick mason in
+the Pueblo steel mills to leadership positions
+in the Colorado Labor Council before his
+death in 1988.</p>
+
+<p>Their cultural contributions also have enriched
+the region. The poet Bernice Zamora
+was born in 1938 in the small town of Aquilar
+in south-central Colorado and grew up in
+Pueblo and Denver. The greatest of all women
+golfers, Nancy Lopez, grew up in Roswell,
+New Mexico. Tejano music, originating in the
+Rio Grande Valley at the southern edge of the
+Plains, and a full range of social and political
+programming are now widely broadcast on
+more than forty full-time and scores of parttime
+Spanish-language radio stations from
+Texas to Nebraska and Wyoming. And wherever
+there is a Mexican American population
+of any significant size, there is a family Mexican
+restaurant, perhaps the greatest addition
+to Plains cuisine in the twentieth century.
+These contributions have not always come
+easily. Mexican Americans have often been rewarded
+with racist treatment and second-class
+citizenship. But like the Chicano activists of
+the 1960s and 1970s, they will continue to
+strive for a better life in this region.</p>
+
+<p>The story of the Spanish, Mexicans, and
+Mexican Americans in the Great Plains is one
+that features great sacrifice and perseverance.
+There were dramatic events that shaped migration
+and settlement, such as the Narv&#241;ez
+expedition crashing ashore in Texas, the opening
+of the Santa Fe Trail, and the establishment
+of the Bracero Program. There were collisions
+of empires and economies, such as the
+Mexican Revolution, the Texas Revolution,
+the Mexican American War, and the Industrial
+Revolution. There are cultural continuities,
+built around faith, song, home, and word.
+And there are the people&#8211;Francisco V&#255;squez
+de Coronado and Pedro de Villazur; the traqueros
+and betabeleros; Federico Pe&#241;a and
+Corky Gonzalez; pastores and vaqueros; and,
+yes, recruited worker Damasso Armend&#241;riz.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.005">Coronado</ref>; <ref n="egp.ea.035">Spaniards</ref>; <ref n="egp.ea.041">Villasur, Pedro de</ref> / <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.007">Cowboy Crafts</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.048">Quivira</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.038">Meatpacking</ref>.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>Malcolm Yeung</signed>
+<signed>Evelyn Hu-DeHart</signed>
+University of Colorado at Boulder</closer>
+</div1>
+
+<div1>
+<bibl>Almar&#225;z, F&#233;lix D. Jr. "An Uninviting Wilderness: The
+Plains of West Texas, 1534–1821." <title level="j">Great Plains Quarterly</title> 12
+(1992): 169–80.</bibl> <bibl>Andreas, Carol. <title level="m">Meatpackers and Beef Barons: Company Towns in a Global Economy</title>. Niwot <hi rend="smallcaps">CO</hi>:
+University Press of Colorado, 1994.</bibl> <bibl>Carranza, Miguel A.
+"The Hispanic Presence on the Great Plains: An Introduction."
+<title level="j">Great Plains Quarterly</title> 10 (1990): 67–70.</bibl> <bibl>Castro,
+Tony. <title level="m">Chicano Power: The Emergence of Mexican America</title>.
+New York: Saturday Review Press, 1974.</bibl> <bibl>Cooper, Marc.
+"The Heartland's Raw Deal: How Meat Packing Is Creating
+a New Immigrant Underclass." <title level="j">The Nation</title>, February
+1997: 11–17.</bibl> <bibl>De Le&#243;n, Arnoldo. <title level="m">Mexican Americans in Texas: A Brief History</title>. Wheeling <hi rend="smallcaps">IL</hi>: Harlan Davidson,
+Inc., 1999.</bibl> <bibl>Garcia, Juan R. <title level="m">Mexicans in the Midwest, 1900– 1932</title>. Tucson: University of Arizona Press, 1996.</bibl> <bibl>Gonz&#225;lez,
+Nancie L. <title level="m">The Spanish-Americans of New Mexico: A Heritage of Pride</title>. Albuquerque: University of New Mexico
+Press, 1969.</bibl> <bibl>Haverlank, Terrence. "The Changing Geography
+of U.S. Hispanics, 1850–1990." <title level="j">Journal of Geography</title> 96
+(1997): 134–45.</bibl> <bibl>Nostrand, Richard L. <title level="m">The Hispano Homeland</title>.
+Norman: University of Oklahoma Press. 1992.</bibl> <bibl>Oppenheimer,
+Robert. "Acculturation or Assimilation: Mexican
+Immigration in Kansas, 1900 to World War II." <title level="j">Western Historical Quarterly</title> 16 (1995): 429–48.</bibl> <bibl>Simmons, Helen,
+and Cathryn A. Hoyt, eds. <title level="m">Hispanic Texas: A Historical Guide</title>. Austin: University of Texas Press. 1992.</bibl> <bibl>Smith, Michael.
+"Beyond the Borderlands: Mexican Labor in the
+Central Plains, 1900–1930." <title level="j">Great Plains Quarterly</title> 1 (1981):
+239–51.</bibl> <bibl>Weber, David J. <title level="m">The Spanish Frontier in North America</title>. New Haven <hi rend="smallcaps">CT</hi>: Yale University Press, 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

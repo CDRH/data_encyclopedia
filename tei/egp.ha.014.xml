@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Gen&#237;zaros</hi></title>
+<title level="m" type="sub"></title>
+<author>Thomas D. Hall</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hall, Thomas D.">Thomas D. Hall</author>. <title level="a">"<hi rend="italic">Gen&#237;zaros</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">356</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">GEN&#205;ZAROS</hi></head>
+
+<p><hi rend="italic">Gen&#237;zaro</hi> was a term used in eighteenth- and
+nineteenth-century New Mexico for "detribalized
+Indians," a variety of individuals of
+mixed Native American, but not Pueblo, parentage
+who had adopted at least some Hispanic
+styles of living. They were most common
+in areas of New Mexico adjacent to the
+Southern Plains. Gen&#237;zaros, many of whom
+were descendants of Native Americans who
+made their home in the Great Plains, are a
+little-studied group. They appear to have been
+a transitional group that appeared and then
+disappeared as part of the opening, and later
+closing, of a particular set of frontier relations
+in New Mexico. Even the origin of the term
+gen&#237;zaro is controversial.</p>
+
+<p>The more commonly claimed origin is
+from the term for captive Christians who were
+forcibly converted to Islam and served as
+troops in the Turkish army, called <hi rend="italic">yeni-cheri</hi>,
+anglicized as janissary. Because of the close
+phonetic equivalence and because of similar
+roles played by genizaros in New Mexico, this
+is assumed to be the genesis of the term. Steven
+Horvath argues persuasively for a different
+origin. To the root <hi rend="italic">geno</hi>-, meaning lineage
+or race, are added suffixes -<hi rend="italic">izo</hi> and -<hi rend="italic">aro</hi>,
+yielding the Spanish word. It referred to people
+who were the children of parents from two
+nations, for example France and Spain, or in
+New Mexico, Comanches and Pawnees. Writing
+in 1872, Fray Juan Augustin Morfi explained,
+"This name is given to the children of
+the captives of different nations who have
+married in the province." The term became
+generic for Native Americans who had been
+born among nomadic groups, but who lived
+in New Mexico.</p>
+
+<p>There were two sources of genizaros. First,
+they might have been taken captive in the many
+fights with surrounding nomadic groups. Second,
+they might have been traded (or "rescued")
+from friendly Indian groups who had
+taken them captive in their raids on enemies.
+Typically, they were children or women and
+were used as servants and laborers. To skirt
+the legal ban on slavery, they were officially
+designated as under the protection of a Spanish
+household, whose head was to train them
+in Christianity and Spanish culture generally.
+In practice they were often slaves. They were
+desirable because of labor shortages, especially
+in frontier areas. Consequently, their
+initial commonality was that they had been
+born Native Americans but lived in Hispanic
+society and occupied the lowest social strata.
+Because they often grew up in captivity, they
+knew little of their natal culture and hence
+were often described as "detribalized Indians."</p>
+
+<p>Some gen&#237;zaros eventually earned their freedom
+and worked as day laborers; a few became
+landowners or craftsmen. Two avenues to improved
+status were open to them. They could
+settle new areas where the Spanish government
+sought to expand control. Also, men could
+serve in militia units to fight hostile nomadic
+Indians. Because of their origins their loyalty
+was suspect, but they were deemed particularly
+adept at dealing with or fighting nomadic Indians
+because of their putative fierceness and
+because some had at least rudimentary knowledge
+of one or more languages of nomadic
+Indians. (This same quality allowed them to
+participate in locally lucrative but illegal trade
+with Plains Indians.) Their military role is one
+basis for the common assumption that <hi rend="italic">gen&#237;zaro</hi>
+was a Spanish term for janissary.</p>
+
+<p>Gen&#237;zaros who stood out in battles eventually
+could own land or enter occupations
+other than day laborer or soldier. Land grants
+to gen&#237;zaro settlers typically were along frontiers
+where fighting was heaviest. Through
+time others of ambiguous ancestry might join
+such communities. Thus, gen&#237;zaro came to refer
+to anyone of ambiguous ancestry and/or
+lower status. Eventually, more successful gen&#237;zaros
+passed into the general Hispanic population.
+By the late nineteenth century the term
+gradually fell into disuse. The term is seldom
+used today except by historians and genealogists
+studying New Mexico history.</p>
+
+<p>Determining the number or proportion of
+genizaros is difficult. First, it was a status individuals
+sought to hide. Second, it changed
+through time for individuals and for families.
+Finally, as both social relations and the terms
+for various groups evolved, just who should
+be counted as genizaro changed. Estimates
+range from less than 10 percent of the settled
+population to as high as one-third&#8211;enough
+to be an important social component of Hispanic
+society in colonial New Mexico, especially
+in its interactions with Native Americans
+who lived in the Great Plains.</p>
+
+<p>For some individuals genizaro might be a
+multigenerational transitional status in a passage
+from Indian to Spaniard. Collectively,
+they were a buffer group created by the combination
+of a need for labor and a supply of
+captives from nomadic Indians. When the
+flow of captives slowed, and finally ceased, the
+group was no longer refreshed by new members
+and gradually disappeared.</p>
+
+<closer>
+<signed>Thomas D. Hall<lb/>
+DePauw and Colgate Universities</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gut&#237;errez, Ram&#243;n A. <title level="m">When Jesus Came, the Corn Mothers Went Away: Marriage, Sexuality, and Power in New Mexico, 1500–1846</title>. Stanford CA: Stanford University Press, 1991.</bibl>
+<bibl>Horvath, Steven. "The Social and Political Organization
+of the Gen&#237;zaros of Plaza de Nuestra Se&#241;ora de los Dolores
+de Bel&#233;n, New Mexico, 1740–1812." Ph.D. diss., Brown
+University, 1979.</bibl> <bibl>Magnaghi, Russell M. "Plains Indians in
+New Mexico, the Gen&#237;zaro Experience." <title level="j">Great Plains Quarterly</title> 10 (1990): 86–95.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

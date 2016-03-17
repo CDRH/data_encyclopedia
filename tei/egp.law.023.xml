@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.law.023 SYSTEM "egp.law.023.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jim Crow Laws</title>
+<title level="m" type="sub"></title>
+<author>Alwyn Barr</author>
+<author>Douglas Hales</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Barr, Alwyn">Alwyn Barr</author> and <author n="Hales, Douglas">Douglas Hales</author>. <title level="a">"Jim Crow Laws."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">454-455</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JIM CROW LAWS</head>
+
+<figure n="egp.law.023" rend="granted">
+<figDesc>Drinking at a "colored" water cooler in a streetcar terminal, Oklahoma City, Oklahoma, July 1939</figDesc>
+</figure>
+
+<p>Elaborate discriminatory laws existed in Great
+Plains states with large African American populations
+such as Texas, Oklahoma, and Kansas, while Nebraska, Colorado, Wyoming, and
+Montana, with smaller minority populations,
+created limited and often unenforced segregation
+laws. Because of small African American
+populations, North and South Dakota created
+no such laws. Except for Texas and Oklahoma,
+with their large rural African American populations
+and Southern views of race relations,
+Plains states applied segregation laws almost
+entirely in towns. Other forms of segregation
+in these states existed as a matter of custom.
+Hispanic Americans and Native Americans
+also faced discriminatory laws.</p>
+
+<p>Texas adopted a state constitution in 1876
+that required segregated schools for African
+Americans. Some local school districts also segregated
+Hispanic students. The legislature in
+1876 allowed jury commissions that could eliminate
+African American jurors. In 1891 the legislature
+allowed segregated railroad cars. Six
+years later it outlawed interracial sexual relations.
+Texas added a constitutional amendment
+in 1902 requiring a poll tax for voting that fell
+primarily on working-class African Americans
+and Hispanics. In 1903 a new election law allowed
+political parties to exclude minorities
+from white primaries. Texas strengthened that
+law in 1923. Several towns segregated public accommodations
+and transportation. Some West
+Texas counties excluded African American settlers
+by customs known as "sundown laws."</p>
+
+<p>The first Oklahoma state constitution in
+1907 segregated public schools. The legislature
+added laws segregating transportation and
+forbidding intermarriage. Oklahoma later
+segregated various public accommodations,
+while some towns segregated residential areas.
+In 1910 the state adopted a literacy test and
+a grandfather clause to disfranchise African
+Americans. Both measures were declared unconstitutional
+by the U.S. Supreme Court in
+1915 in <hi rend="italic">Guinn and Beal v. United States</hi>.</p>
+
+<p>Segregation laws in Kansas dealt primarily
+with education. The state constitution of 1859
+specified separate African American schools.</p>
+
+<p>Soon the Kansas legislature created county
+school districts in which African Americans
+could attend white schools if no separate institution
+existed. In 1874 the state passed a civil
+rights law that forbade segregated schools.
+Five years later the legislature revised the
+school code to allow towns of 15,000 population
+to establish separate primary schools for
+African Americans. Secondary schools were
+segregated only in Wyandotte County. African
+Americans challenged segregated schools, but
+the Kansas Supreme Court upheld the segregation
+statute.</p>
+
+<p>Wyoming passed a law allowing a school
+segregation law in 1899. In 1913 the state made
+miscegenation a misdemeanor. Nebraska
+passed a similar law against miscegenation in
+1911. While some de facto segregation existed
+in the state, no other Jim Crow measures became
+law in Nebraska.</p>
+
+<p>Montana, with its large Native American
+population, denied voting rights to persons
+under federal "guardianship" in 1871 and forbade
+voter precincts on reservations. In 1889
+the state opened voting to all male persons
+except Native Americans. After the federal Indian
+Citizenship Act of 1924, Montana divided
+counties into at-large districts to dilute the
+impact of Native American voters. In 1937 the
+state ruled that all deputy voter registrars
+must be taxpaying residents of their precincts.
+Since Native Americans were exempt from
+some local taxes, they could not act as voter
+registrars, and tribal voter registration was effectively
+limited.</p>
+
+<p>In the early twentieth century Jim Crow
+laws on the Plains began to face challenges.
+Important court cases included those in Texas
+that outlawed the white primary by the early
+1940s. After earlier court cases in Texas eliminated
+Hispanic school segregation and Texas
+and Oklahoma cases outlawed segregation at
+the law school/graduate school level, the U.S.
+Supreme Court in <hi rend="italic">Brown v. The Board of Education
+of Topeka</hi> ruled against legal school segregation
+on the basis of race in 1954.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.014">Civil Rights</ref>.</p>
+
+<closer>
+<signed>Alwyn Barr<lb/>
+Douglas Hales<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barr, Alwyn. <title level="m">Black Texans: A History of African Americans in Texas, 1528–1995</title>. Norman: University of Oklahoma
+Press, 1996.</bibl> <bibl>Svingen, Orlan J. "Jim Crow, Indian Style,
+1980s." In <title level="m">Peoples of Color in the American West</title>, edited by
+Sucheng Chan, Douglas Daniels, Mario T. Garcia, and
+Terry P. Wilson. Lexington <hi rend="smallcaps">KY</hi>: D. C. Heath and Company,
+1994: 352–63.</bibl> <bibl>Taylor, Quintard. <title level="m">In Search of the Racial Frontier: African Americans in the American West, 1528– 1990</title>. New York: W. W. Norton, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

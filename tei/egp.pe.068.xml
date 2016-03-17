@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.068">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wind</title>
+<title level="m" type="sub"></title>
+<author>David Emory Stooksbury</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.068</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stooksbury, David Emory">David Emory Stooksbury</author>. <title level="a">"Wind."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">643</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WIND</head>
+
+<p>In popular imagination and folklore wind is
+the weather element that typifies the Great
+Plains. From the warming chinook winds of
+the High Plains to howling blizzards and
+threatening tornadoes, wind shapes how residents
+and others view the Plains. Wind is an
+important player in the mythology of Great
+Plains Native Americans, and the wind is frequently
+mentioned in other Plains literature,
+including <title level="m">The Wonderful Wizard of Oz</title>. Homesteaders
+made frequent mention of the wind in
+their journals. None of this is surprising: apart
+from some coastal regions, the Great Plains is
+the windiest portion of North America.</p>
+
+<p>Since the beginning of homesteading on the
+Plains, wind has been primarily associated
+with disaster. Blizzards have meant catastrophe
+for the cattle industry. Grass fires fanned
+by wind have raced across the landscape, destroying
+buildings and fences while at the
+same time renewing the Plains ecosystem.
+Tornadoes have brought death and destruction
+to the region, obliging residents to build
+storm cellars and to reinforce rooms for protection.
+Farmers and ranchers have planted
+shelterbelts to shield fields from soil erosion,
+crops from moisture loss, and cattle from
+wind-driven snow.</p>
+
+<p>But wind is also a natural resource for
+the Great Plains. For more than 150 years,
+ranchers and farmers have used windmills to
+pump groundwater, without which settlement
+would have been severely restricted. During
+the 1930s and 1940s, small electric wind generators
+were used on remote homesteads to
+power radios. With the coming of inexpensive
+and reliable grid-based electricity, the electric
+wind generator all but disappeared from the
+Great Plains. By the 1990s, however, largescale
+wind projects were being developed in
+Alberta, North Dakota, Colorado, Kansas, Nebraska,
+Texas, and Wyoming. It is likely that
+wind will again become an important energy
+resource for Plains residents.</p>
+
+<p>The power of the wind also has a major
+impact on the topography of the Great Plains.
+Soil erosion and deposition shapes the topography
+of the region. During the drought
+years of the 1930s, tons of topsoil were transported
+east by the wind from the Southern
+and Central Plains. Despite conservation efforts,
+blowing dust from plowed fields and
+tumbleweeds piled against fences are still emblematic
+scenes on the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.061">Wind Energy</ref>.</p>
+
+<closer>
+<signed>David Emory Stooksbury<lb/>
+University of Georgia</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

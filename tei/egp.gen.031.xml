@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sacagawea (ca. 1780-1812)</title>
+<title level="m" type="sub"></title>
+<author>Gerald M. Parsons</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Parsons, Gerald M.">Gerald M. Parsons</author>. <title level="a">"Sacagawea (ca. 1780-1812)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">336</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SACAGAWEA (ca. 1780-1812)</head>
+<figure n="egp.gen.031" rend="granted" type="noclick">
+<figDesc>"Sacagawea statue by Leonard Crunelle, Bismarck, ND, 2004-in front of the North Dakota State Capitol"</figDesc>
+</figure>
+
+<p>The only woman on Lewis and Clark's expedition,
+Sacagawea was a young Shoshone who
+had been captured by Hidatsa raiders near the
+three forks of the Missouri River about 1800.
+She married trader Toussaint Charbonneau
+sometime before 1804. A son, Jean Baptiste,
+called "Pomp" by Clark, was born to them in
+February of 1805. Together, the family traveled
+from the Mandan-Hidatsa villages in presentday
+North Dakota to the Pacific and back.</p>
+
+<p>Sacagawea has been the object of considerable
+myth and misinformation; her contributions
+to the expedition have been both exaggerated
+and minimized. Clark thought more of
+her contributions than did Lewis, though one
+must consider here the eighteenth-century
+tendency to discount contributions of nonwhite
+peoples. In a letter to Charbonneau after
+the expedition, Clark wrote, "Your woman diserved
+a greater reward for her attention and
+services on that rout than we had in our power
+to give her." Lewis's view was more dismissive:
+"If she has enough to eat and a few trinkets
+I believe she would be perfectly content anywhere."</p>
+
+<p>In fact, Sacagawea's contributions were real:
+she provided important geographical data to
+the party at various times, she helped as translator
+with certain tribes, she rescued important
+documents during a canoe mishap in May
+1805, and, perhaps most important, she gave a
+friendlier face to the Corps of Discovery. Clark
+wrote that she "reconsiles all the Indians, as to
+our friendly intentions, a woman with a party
+of men is a token of peace."</p>
+
+<p>Sacagawea died of a "putrid fever" in
+December 1812 near present-day Mobridge,
+South Dakota, at about age thirty-two. Jean
+Baptiste and Sacagawea's daughter, Lizette,
+lived with Clark at St. Louis for a time.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: \
+<ref n="egp.ea.024">Lewis and Clark</ref>.</p>
+
+<closer>
+<signed>Gerald M. Parsons<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McMurtry, Larry, "Sacagawea's Nickname." <title level="j">New York Review of Books</title> 48 (September 20, 2001): 71–72.</bibl> <bibl>Moulton,
+Gary, ed. <title level="m">The Journals of the Lewis and Clark Expedition</title>. 13
+vols. Lincoln: University of Nebraska Press, 1983–2001.</bibl>
+<bibl>Ronda, James P. <title level="m">Lewis and Clark among the Indians</title>. Lincoln:
+University of Nebraska Press, 1984.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

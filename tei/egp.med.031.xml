@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Radio</title>
+<title level="m" type="sub"></title>
+<author>Bruce L. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Bruce L.">Bruce L. Smith</author>. <title level="a">"Native American Radio."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">517</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN RADIO</head>
+<figure n="egp.med.031" rend="granted">
+<figDesc>Logo for National Native News</figDesc>
+</figure>
+
+<p>Radio stations owned and operated by Native
+Americans and Native Canadians serve much
+of the Great Plains. The delivery systems are
+different in the two countries, but the goals
+are similar: to help preserve and promote Indigenous
+languages and cultures.</p>
+
+<p>Broadcast media were once negative forces
+in Indigenous communities because they
+bombarded the communities with Western
+languages, cultures, and values. The media of
+the dominant culture overwhelmed and imperiled
+fragile traditional cultures. In recent
+years, however, electronic media owned and
+operated by Indigenous people have helped to
+restore the balance.</p>
+
+<p>The first Native American radio station
+went on the air in 1973. A scattered few additional
+stations followed during the rest of the
+decade, but their development was hampered
+by a lack of funds. A change in federal government
+policy in the 1980s provided more
+resources to equip and operate Native stations,
+and their numbers grew steadily. As
+of 1999, some forty stations were broadcasting
+across the United States, and others were
+being planned.</p>
+
+<p>Fourteen of the Native stations serve the
+American Great Plains. Each of the stations
+operates independently. They are licensed variously
+to tribal councils, community colleges,
+church groups, and nonprofit corporations.
+Half of the stations are located in the Dakotas,
+with three in North Dakota and four in South
+Dakota. Montana, Wyoming, and Colorado
+are each home to one station, and there are
+four in New Mexico. One is being planned
+for western Minnesota. There are no Native
+stations in Nebraska, Oklahoma, Texas, or
+Kansas.</p>
+
+<p>Some stations receive programming from
+the National Public Radio network, but most
+do not because of the expense involved in
+being a member of the network. Most do receive
+satellite-delivered programming such as
+<title>National Native News</title> (a newscast) and <title>Native America Calling</title> (a call-in program) and other
+services of the American Indian Radio on Satellite
+Network (<hi rend="smallcaps">AIROS</hi>). Many non-Native stations
+in the region also broadcast some of
+these programs. Popular music and public
+service programs, including coverage of powwows
+and other cultural events, are also featured
+on Native stations. Traditional languages
+are used extensively on some stations,
+while others do little or no Native-language
+programming because the languages are seldom
+used anymore or there are multiple Indigenous
+languages in a listening area, which
+limits the use of any single language.</p>
+
+<p>Indigenous stations also serve the Canadian
+provinces in the Great Plains. Similar to the
+situation in the United States, Indigenous
+communities had little control of the media
+that reached them until the 1980s, when the
+Canadian government began to fund and support
+Native-controlled electronic media that
+would protect and preserve Indigenous languages
+and cultures. Alberta, Saskatchewan,
+and Manitoba are each home to sophisticated
+radio networks that deliver signals to dozens of
+communities in each province. Corporations
+in each province provide this service. In Alberta,
+<hi rend="smallcaps">CFWE-FM</hi> radio, owned and operated by
+the Aboriginal Multi-Media Society, reaches
+forty-six communities in the province by satellite.
+In Saskatchewan, the Missinipi Broadcasting
+Corporation provides the service to more
+than thirty communities via fm transmitters
+or cable. In Manitoba, the Aboriginal fm Network
+of Native Communications Inc. reaches
+seventy sites. This centralized network system
+is different from the American model but is an
+efficient means of reaching the large and
+sparsely populated regions that are served.</p>
+
+<closer>
+<signed>Bruce L. Smith<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Browne, Donald R. <title level="m">Electronic Media and Indigenous Peoples: A Voice of Our Own?</title> Ames: Iowa State University
+Press, 1996.</bibl> <bibl>Keith, Michael C. <title level="m">Signals in the Air: Native Broadcasting in America</title>. Westport <hi rend="smallcaps">CT</hi>: Praeger, 1995.</bibl>
+<bibl>Smith, Bruce L., and M. L. Cornette. "Electronic Smoke
+Signals: Native American Radio in the United States." <title level="j">Cultural Survival Quarterly</title> (spring 1998): 28–31.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

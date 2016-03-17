@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.art.040 SYSTEM "egp.art.040.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jones, Joe (1909–1963)</title>
+<title level="m" type="sub"></title>
+<author>Louisa Iarocci</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Iarocci, Louisa">Louisa Iarocci</author>. <title level="a">"Jones, Joe (1909–1963)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">122-123</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JONES, JOE (1909–1963)</head>
+
+<figure n="egp.art.040" rend="granted">
+<figDesc>Joe Jones. American Farm, 1936. Oil and tempera on canvas. 30 x 40 inches (76.2 x 101.6 cm).</figDesc>
+</figure>
+
+<p>Although not well known today, Joe Jones
+rose to national prominence as an artist during
+the Great Depression in the United States.
+Born in St. Louis on April 7, 1909, this grandson
+of a stonemason and son of a house
+painter used his humble beginnings and political
+beliefs to fashion a persona as a working-class
+hero that befitted the times. In the early
+1930s the twenty-year-old was working alongside
+his father painting houses when he began
+to draw attention in local art circles for his
+works on canvas, produced without the benefit
+of formal training. But his middle-class
+backers began to retreat as the young artist
+became as notorious for his controversial political
+activities as he was for his paintings.
+Jones's flight to New York to escape local prosecution
+on a charge of spreading Communist
+propaganda proved to be a wise career move.</p>
+
+<p>His first one-man show in the spring of 1935
+at the American Contemporary Art Gallery
+received rave reviews. His social protest paintings
+such as We Demand, which depicts a
+workers' demonstration, and <title>American Justice</title>,
+which features a lynching, garnered the most
+attention. However, his next exhibition, <title>Paintings of Wheatfields</title>, at the Walker Gallery in
+January 1936, showed him moving in a less
+controversial direction. These tranquil scenes
+of farmers at work in their fields brought
+the self-proclaimed "professor of wheat" five
+prestigious federal contracts for murals in
+post offices in the Midwest and the Great
+Plains, commissioned by the Treasury Section
+of the Fine Arts, a New Deal program that
+sought to bring art to the public while employing
+struggling artists.</p>
+
+<p>While he was in the Plains Jones painted the
+oil on canvas works <title>Turning a Corner</title> (1939) in
+Anthony, Kansas, and <title>Men and Wheat</title> (1940)
+in Seneca, Kansas. Deftly balancing the restraints
+of the administration's guidelines,
+the local postmaster's needs, and the awkward
+constraints of the site, Jones produced typical
+regionalist rural scenes, depicting man,
+machine, and landscape working together in
+harmony. But beyond the mythic ideal of
+a bountiful nature, Jones's compositions
+frankly reveal humanity's mark upon the
+environment&#8211;the lush fields are being thoroughly
+stripped by the anonymous workers,
+their figures merging with the dominating
+forms of modern machinery. The artist expressed
+his desire to portray both the importance
+of wheat to Kansas and the image of
+people at work in the murals. But as social
+realism fell out of fashion in the 1940s, Jones
+abandoned the working hero, focusing instead
+on the portrayal of the landscape for corporate
+clients such as <hi rend="italic">Fortune</hi> magazine and
+Standard Oil. He died of a heart attack in New
+Jersey on April 9, 1963.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>Louisa Iarocci<lb/>
+Boston University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Marling, Karal Ann. "Joe Jones: Regionalist, Communist,
+Capitalist." <title level="j">Journal of the Decorative and Propaganda Arts 1875-1945</title> 4 (1987): 46-58.</bibl> <bibl>Marling, Karal Ann. <title level="m">Wall-to-Wall America: A Cultural History of Post-Office Murals in the Great Depression</title>. Minneapolis: University of Minnesota
+Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

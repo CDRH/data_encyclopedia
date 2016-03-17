@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.068">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ross, Sinclair (1908-1996)</title>
+<title level="m" type="sub"></title>
+<author>David Stouck</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.068</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stouck, David">David Stouck</author>. <title level="a">"Ross, Sinclair (1908-1996)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">492</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROSS, SINCLAIR (1908-1996)</head>
+
+<p>James Sinclair Ross was born on a homestead
+near Prince Albert, Saskatchewan, on January
+22, 1908. His parents separated when he was
+seven, and he was raised by his mother on a
+series of Saskatchewan farms where she made
+her living as a housekeeper. After grade eleven
+schooling, he joined the Royal Bank of Canada
+in 1924 and, with the exception of service
+in the Canadian Army in England from 1942
+to 1946, continued with the bank in several
+Saskatchewan towns, Winnipeg, and Montreal
+until his retirement in 1968. He died in
+Vancouver on February 29, 1996.</p>
+
+<p>Ross is best known for three titles. <title level="m">The Lamp at Noon and Other Stories</title> (1968) collects
+the works of short fiction he wrote in the 1930s
+and 1940s. These stories chronicle the physical
+and psychological hardships of living and
+working on isolated Prairie farms during the
+drought and depression of the 1930s. They
+dramatize the heroic determination that kept
+the settlers from defeat as well as the pride that
+cut them off from nearly all contact with others.
+Ross's major novel, <title level="m">As for Me and My House</title> (1941), is the story of the Reverend Philip
+Bentley and his unnamed wife, their loveless
+marriage, and their efforts to escape from
+the small Prairie town in which they are living.
+Like Ross's short fiction, <title level="m">As for Me and My House</title> is set against a 1930s background of dust
+storms and economic hardship that gives the
+novel dramatic and historical authenticity.
+But its lasting interest derives from the way the
+story is told: in a series of diary entries from
+Mrs. Bentley's point of view and in a taut,
+lyrical prose style that renders for the imagining
+eye both the beauty and the harshness of
+the Prairie setting. Ross's last novel, <title level="m">Sawbones Memorial</title> (1974), is the story of a small Saskatchewan
+community that looks back over its
+past on the evening of the local doctor's retirement
+party. Critics have praised the comic exposure
+of small-town meanness and prejudice
+and the skill with which Ross handled an experimental
+dramatic form. Ross's other two
+novels, <title level="m">The Well</title> (1951) and <title level="m">Whir of Gold</title> (1970),
+have earned less critical and popular interest.</p>
+
+<closer>
+<signed>David Stouck<lb/>
+Simon Fraser University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McMullen, Lorraine. <title level="m">Sinclair Ross</title>. Boston: Twayne, 1979.</bibl>
+<bibl>Stouck, David, ed. <title level="m">Sinclair Ross's "As for Me and My House": Five Decades of Criticism</title>. Toronto: University of
+Toronto Press, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

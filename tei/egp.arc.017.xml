@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dow, Wallace (1844-1911)</title>
+<title level="m" type="sub"></title>
+<author>Michael Bedeau</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bedeau, Michael">Michael Bedeau</author>. <title level="a">"Dow, Wallace (1844-1911)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">76-77</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DOW, WALLACE (1844-1911)</head>
+
+<p>Born in Croydon, New Hampshire, on September
+22, 1844, Wallace Leroy Dow learned
+building skills by working in his father's Newport,
+New Hampshire, contracting business.
+In 1873 Dow formed his own contracting company
+there and was involved in the construction
+of several public buildings. He also
+studied under his uncle Edward Dow, who
+operated a successful architecture firm.</p>
+
+<p>Wallace Dow moved to Pierre, Dakota Territory,
+in October 1880. He relocated to
+Yankton in the winter of 1880-81 and maintained
+an architectural and contracting office
+there until 1883. Dow's first major job was supervising
+the construction of John M. Allen's
+design for the original Main Building (now
+the Conservatory of Music) at Yankton College.
+Beginning in 1882 Dow served as architect
+for the territorial penitentiary at Sioux
+Falls. During his time in Yankton, Dow also
+designed the first structure at the Territorial
+Hospital for the Insane.</p>
+
+<p>In 1883 Dow moved his offices to Sioux Falls
+and dominated the architectural field in South
+Dakota during the 1880s and 1890s. He was
+well connected to the Republican territorial
+and state governments, so there is hardly a
+state institution dating from the late nineteenth
+century that does not have at least one
+Dow building.</p>
+
+<p>Dow was a versatile designer, at home with
+all the popular styles of his time. He utilized
+local quartzite and jasper in many of his most
+striking commissions. Quartzite was particularly
+suited to the masonry Romanesque
+style popularized by H. H. Richardson in the
+1870s and 1880s. One of Dow's most important
+commissions, the Minnehaha County
+Courthouse in Sioux Falls (1889–92), is a tribute
+to Richardsonian design rendered in massive
+rough-finished quartzite blocks. Dow was
+also an early advocate of concrete. His design
+for the South Dakota Pavilion at the 1893 Columbian
+Exposition was composed entirely in
+precast concrete panels attached to a wooden
+frame.</p>
+
+<p>Dow retired in 1905, but he remained active.
+He had patented a device for making
+concrete blocks in 1904, and he spent his later
+years promoting concrete building technology
+as the owner of the Prefection Block Machine
+Company. He died in Sioux Falls on July 5,
+1911.</p>
+
+<closer>
+<signed>Michael Bedeau<lb/>
+Idaho State Historic Preservation Office</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

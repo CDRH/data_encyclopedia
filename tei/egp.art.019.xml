@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Emma Lake Artists' Workshops</title>
+<title level="m" type="sub"></title>
+<author>Kate Hobin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hobin, Kate">Kate Hobin</author>. <title level="a">"Emma Lake Artists' Workshops."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">116</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EMMA LAKE ARTISTS' WORKSHOPS</head>
+
+<p>Artist workshops have been held at Emma
+Lake, Saskatchewan, since 1935. Augustus F.
+(Gus) Kenderdine, an artist trained at the
+Academie Julian in Paris and an instructor in
+the fledgling Department of Art at the University
+of Saskatchewan in Saskatoon, established
+a summer art camp on an eleven-acre boreal
+forest peninsula on the shores of Emma Lake.
+He convinced Dr. Walter Murray, first president
+of the University of Saskatchewan, that
+the art camp could perform a vital role
+in the offerings of the department, and in
+1936 the Murray Point Art School at Emma
+Lake was officially incorporated as a summer
+school program. Participants were teachers
+and artists who came from all over the province
+to learn how to teach art in Saskatchewan
+schools.</p>
+
+<p>After Kenderdine's death in 1947, a new
+generation of Saskatchewan artists came of
+age or moved into the province, including
+Kenneth Lochhead, Arthur McKay, Ronald
+Bloore, Ted Godwin, and Douglas Morton—
+popularly referred to as the Regina Five. In
+1955 Kenneth Lochhead, director of the Regina
+College School of Art, proposed a two-week
+workshop at Emma Lake to follow the Murray
+Point Art School classes. The workshop concept,
+based on modernist art, was established
+to keep Prairie artists in touch with art centers
+such as New York and Toronto. The internationally
+renowned Emma Lake Artists' Workshops
+became an established annual event and
+continued virtually unchanged until the last
+workshop was held in 1995.</p>
+
+<p>Since the mid-1960s the site has also been a
+provincial research area under the auspices of
+the University of Saskatchewan Department
+of Biology for biologists and other researchers.
+It is the most northerly field station in
+Saskatchewan and one of the few sites in Canada
+that specifically examines the boreal forest.
+It was declared as a game preserve in 1962.
+In 1989 the site was officially designated as
+Emma Lake Kenderdine Campus in recognition
+of Gus Kenderdine. Currently, the site
+thrives as a summer campus for artists workshops
+for both university and community
+programs.</p>
+
+<closer>
+<signed>Kate Hobin<lb/>
+University of Saskatchewan</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kate Hobin Papers, Emma Lake Kenderdine Campus
+Files, Community Arts Program, Extension Division,
+University of Saskatchewan, Saskatoon. O'Brian, John, ed.
+<title level="m">The Flat Side of the Landscape&#8211;The Emma Lake Artists'
+Workshops</title>. Saskatoon, Saskatchewan: Mendel Art Gallery,
+1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

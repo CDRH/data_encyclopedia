@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Dallas Morning News</hi></title>
+<title level="m" type="sub"></title>
+<author>Gerald L. Grotta</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grotta, Gerald L.">Gerald L. Grotta</author>. <title level="a">"<hi rend="italic">Dallas Morning News</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">510</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">DALLAS MORNING NEWS</hi></head>
+
+<p>The <title level="j">Dallas Morning News</title> traces its roots to
+the thriving port city of Galveston, where in
+1842 Samuel Bangs, a publisher from Boston,
+founded the <title level="j">Galveston News</title>. After the Civil
+War, a Confederate colonel from North Carolina
+named A. H. Belo joined <title level="j">the Galveston News</title> as bookkeeper. Belo quickly became a
+full partner, and the newspaper became the
+foundation of the A. H. Belo Corporation,
+now one of the largest diversified media companies
+in the United States.</p>
+
+<p>In 1885 Belo told his mailroom manager,
+George Bannerman Dealey, to find a place in
+North Texas to start a sister publication. Dealey
+chose the small town of Dallas and named the
+newspaper the <title level="j">Dallas Morning News</title>. When the
+<title level="j">Dallas Morning News</title> was launched in 1885, its
+most serious challenge came from the far-off <title level="j">St. Louis Post-Dispatch</title>, which had a greater circulation
+in Texas than any Texas newspaper. To meet
+this threat, the <title level="j">Dallas Morning News</title> used a special
+train to deliver copies to McKinney, Sherman,
+Denison, and other towns in North and
+East Texas. It also used trains to deliver copies to
+Fort Worth to the west.</p>
+
+<p>By 1906, the year the predecessor of the <title level="j">Fort Worth Star-Telegram</title> began publication, the
+<title level="j">Dallas Morning News</title> had reached a circulation
+of 38,000, and Dallas was soon to be
+the major city in North Texas. An often-bitter
+rivalry developed between Dallas and Fort
+Worth. Dallas was becoming a sophisticated
+metropolitan center, while Fort Worth remained
+a cow town and proudly identified
+itself as "Where the West Begins." While it had
+some circulation in the Fort Worth area, the
+<title level="j">Dallas Morning News</title> concentrated most of its
+circulation efforts in the city of Dallas and
+cities in the northern and eastern regions of
+Texas. The <title level="j">Fort Worth Star-Telegram</title>, looking
+westward, became the newspaper for all of
+West Texas and into New Mexico.</p>
+
+<p>An almost impenetrable wall grew up along
+the boundary line that separates Dallas County
+and Tarrant County, where Fort Worth is located.
+For most of the twentieth century, the
+<title level="j">Dallas Morning News</title> and the <title level="j">Fort Worth Star-Telegram</title> respected that boundary, and other
+than single-copy newsstand sales, each stayed
+on its own side of the county line. However, by
+the 1960s the thirty-mile-wide rural area between
+Dallas and Fort Worth began to explode
+in industry and population. Arlington grew
+almost overnight from 7,500 to more than
+300,000. Several other cities in the former noman's-
+land had exceeded 100,000 by the end of
+the twentieth century. This led to a major circulation
+war between the <title level="j">Dallas Morning News</title>
+and the <title level="j">Fort Worth Star-Telegram</title>. Both coveted
+the rapidly expanding population as possible
+subscribers and readers. In the 1990s both
+newspapers established Arlington editions
+that grew into the <title level="j">Arlington Morning News</title> and
+the <title level="j">Arlington Star-Telegram</title>. The circulation
+battle also includes the area to the north of
+Arlington known as the Mid-Cities. Most of
+this disputed territory is in Tarrant County.</p>
+
+<p>Although the <title level="j">Dallas Morning News</title> has become
+one of the largest newspapers in the
+country and now competes for the Plains border
+country to the west, it has never approached
+the influence of the <title level="j">Fort Worth Star-Telegram</title> in the West Texas and eastern New
+Mexico portions of the Great Plains.</p>
+
+<closer>
+<signed>Gerald L. Grotta<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">A. H. Belo Corporation: Commemorating 150 Years, 1842– 1992</title>. Dallas: A. H. Belo, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

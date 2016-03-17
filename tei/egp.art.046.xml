@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Peale, Titian Ramsay (1799-1885)</title>
+<title level="m" type="sub"></title>
+<author>Roger L. Nichols</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nichols, Roger L.">Roger L. Nichols</author>. <title level="a">"Peale, Titian Ramsay (1799-1885)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">126</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PEALE, TITIAN RAMSAY (1799-1885)</head>
+
+<p>Titian Ramsay Peale, naturalist, scientific illustrator,
+and explorer, meticulously depicted
+the birds, insects, and plants of the Central
+Plains with high-quality sketches and paintings
+during the 1820s and 1830s.</p>
+
+<p>Peale was born on November 2, 1799, in
+Philadelphia, the son of Charles Willson Peale,
+an artist who founded the Philadelphia (or
+Peale's) Museum. From an early age he demonstrated
+an unusual ability as a naturalist
+and artist. Peale's first exploration came on an
+1817 trip to eastern Florida and the Sea Islands
+of Carolina. Then, in 1819, he was appointed as
+the assistant naturalist for Maj. Stephen H.
+Long's scientific expedition. Ordered to explore
+the Central Plains and the major streams
+that crossed it, the scientists began their journey
+aboard the steamboat <hi rend="italic">Western Engineer</hi>.
+They halted for the winter of 1819–20 near
+present-day Fort Calhoun, Nebraska. The next
+summer Long led the group overland along
+the Platte River to the Front Range of the
+Rockies. For three months they observed,
+mapped, sketched, and gathered plant and animal
+specimens, returning along the Arkansas
+and Canadian Rivers. Because of the scarcity
+of water and trees on the Plains they traversed,
+the explorers labeled the region the Great
+American Desert.</p>
+
+<p>Peale's ensuing reputation as a scientific illustrator
+resulted from the 122 paintings and
+drawings he made while on the expedition. His
+work included colored plates of birds drawn
+for Alexander Wilson's <title level="m">American Ornithology</title>
+(1824-33) and of insects for Thomas Say's
+multivolume <title level="m">American Entomology</title> (1824-28).
+For the next several decades he remained one
+of the top scientific illustrators of the flora and
+fauna of the Central Plains while serving as the
+curator of Peale's Museum and also designing
+coins for the U.S. Mint. He joined Charles
+Wilkes's 1838-42 scientific expedition to the
+Pacific, but conflicts with Wilkes prevented a
+definitive publication of his drawings from the
+voyage. Peale then worked for the U.S. Patent
+Office until his retirement in 1873. He died on
+March 13, 1885, in Philadelphia.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.026">Long, Stephen H.</ref>.</p>
+
+
+<closer>
+<signed>Roger L. Nichols<lb/>
+University of Arizona</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Poesch, Jessie. <title level="m">Titian Ramsay Peale, 1799–1885 and His Journals of the Wilkes Expedition</title>. Philadelphia: American
+Philosophical Society, 1961.</bibl> <bibl>Porter, Charlotte M. <title level="m">The Eagle's Nest: Natural History and American Ideas, 1812– 1842</title>. Tuscaloosa: University of Alabama Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

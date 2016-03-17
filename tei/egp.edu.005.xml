@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Beadle, William H. H. (1838-1915)</title>
+<title level="m" type="sub"></title>
+<author>Devon Jensen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jensen, Devon">Devon Jensen</author>. <title level="a">"Beadle, William H. H."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">198-199</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BEADLE, WILLIAM H. H. (1838-1915)</head>
+
+<p>William Henry Harrison Beadle was born on
+the frontier in Parke County, Indiana, on January
+1, 1838. His father wanted him to farm,
+but he had dreams of an education. He studied
+civil engineering at the University of
+Michigan, graduating in 1861. He then enlisted
+in the Union army and by the end of the war
+had risen to the rank of brigadier general.
+Beadle followed this experience with a law degree
+from the University of Michigan in 1867
+and practiced briefly.</p>
+
+<p>Beadle combined his skills to draft the
+school lands provision at the South Dakota
+Convention of 1885. The impetus for this
+provision came from his appointment by
+President Grant in 1869 as surveyor general of
+the Dakota Territory, where he met with settlers
+face to face and saw state-appropriated
+lands being taken by entrepreneurs. General
+Beadle was convinced that school lands were a
+trust for future generations and should be
+sold at their appraised value and never for less
+than $10 an acre. State legislators thought this
+to be an exaggerated figure, but history soon
+proved Beadle to be right. Shortly thereafter,
+the Dakota land boom started, and with settlers
+immigrating at a rate of several thousand
+per year, there was increased demand for
+teachers, schools, and school lands. Beadle ensured
+that sections 16 and 36 in every township
+in the state were set aside as an endowment
+for public school purposes. His efforts
+have long since been vindicated, with the current
+amount realized from the sale of these
+lands standing at $125 million. Leasing or
+loaning these lands in the future could further
+produce some $7.5 million per annum.</p>
+
+<p>Beadle ended his career as president of the
+Madison State Normal School (now Dakota
+State University) from 1889 to 1906 and as
+a professor of history until his retirement in
+1912. He died on November 15, 1915, in San
+Francisco.</p>
+
+<closer>
+<signed>Devon Johnson<lb/>
+University of South Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>South Dakota Beadle Club. <hi rend="italic">Permanent School Fund in
+South Dakota and the Beadle Club</hi>. Aberdeen <hi rend="smallcaps">SD</hi>: North
+Plains Press, 1976.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

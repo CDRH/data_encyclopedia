@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Miller Brothers</title>
+<title level="m" type="sub"></title>
+<author>Stefanie Decker</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Decker, Stefanie">Stefanie Decker</author>. <title level="a">"Miller Brothers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">273</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MILLER BROTHERS</head>
+<figure n="egp.fil.047" rend="granted">
+<figDesc>The Miller Brothers 101 Ranch Wild West Show wagons</figDesc>
+</figure>      
+
+<p>The Miller brothers, owners of the 101 Ranch
+near Ponca City, Oklahoma, created a worldrenowned
+Wild West show. Col. George Washington
+Miller founded the 101 Ranch in 1893,
+and upon his death the ranch passed into the
+hands of his three sons, Zack, Joe, and George.
+While Zack focused on the ranch's oil development
+and George on the ranch's finances, Joe
+developed the <title>101 Real Wild West Show</title> and
+began touring in 1906. The production featured
+acts by Lucile Mulhall, Buffalo Bill,
+Geronimo, and Bill Picket. The show helped
+launch the careers of Tom Mix and Buck Jones.</p>
+
+<p>A number of early Hollywood Westerns
+were shot on location at the ranch and featured
+many of the ranch cowboys as stars. Among
+these was the 1908 production <title>A Round-Up in Oklahoma</title>, directed by Oklahoma federal
+marshal William Tilghman, himself a participant
+in numerous real adventures. In 1924 Paramount
+used the ranch to film <title>North of 36</title>
+(1924), based on the Emerson Hough novel of
+the same name. Other films shot in their entirety
+or in part on the 101 Ranch were <title>Trail Dust</title> (1924), a tale of the pioneers of the 1870s,
+and the ten-part series, <title>Wild West</title> (1925), a
+story about a circus and medicine show traveling
+through Oklahoma in the 1890s and starring
+dozens of 101 Ranch performers.</p>
+
+<p>The Miller brothers established their own
+motion picture department in 1911 under the
+direction of J. B. Kent, a pioneer Oklahoma
+filmmaker. Their company produced films
+such as <title>Setting up the Strip</title>, <title>On with the Show</title>,
+and <title>The Cherokee Strip</title>. Some of the movies
+were shot on the 101 Ranch, but many others
+were filmed on sound lots in Los Angeles, in
+part because the weather was better there. In
+addition to their own work, the Miller brothers'
+ranch and show casts starred in several
+other Westerns, including <title>War on the Plains</title>
+(1912).</p>
+
+<p>In 1924 the Miller brothers purchased the
+Walter L. Main Circus and combined the two
+shows. With exotic animals like buffalo, tigers,
+bears, and alligators, the show became a sensation
+in the 1920s, and the 101 Ranch hosted
+famous guests like John D. Rockefeller, Gen.
+John J. Pershing, and Presidents Theodore
+Roosevelt and Warren Harding. With the
+deaths of his brothers, Zack assumed control
+of the production in the late 1920s, but the
+Great Depression hit the show and the ranch
+hard. In 1931 a series of lawsuits were filed
+against Miller, one patron asking for $80,000
+in damages because of personal injury sustained
+during a show. Poor attendance, debt,
+more lawsuits, and high traveling expenses
+forced Miller to sell the show in 1932, and,
+after a failed attempt by Al Capone to buy the
+101 Ranch, the federal government purchased
+the land in 1937. Zack Miller moved to Texas,
+where he died in 1952.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.061">Wild West Shows</ref>.</p>
+
+<closer>
+<signed>Stefanie Decker<lb/>
+Oklahoma State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Collings, Ellsworth, and Alma Miller England. <title level="m">The 101 Ranch</title>. Norman: University of Oklahoma Press, 1971.</bibl>
+<bibl>Spears, Jack. "Hollywood's Oklahoma!" <title level="j">Chronicles of Oklahoma</title>
+67 (1989–90): 340–81.</bibl> <bibl>Wallis, Michael. <title level="m">The Real Wild West: The 101 Ranch and the Creation of the American West</title>. New York: St. Martin's Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

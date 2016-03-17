@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.edu.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tribal Colleges</title>
+<title level="m" type="sub"></title>
+<author>Charles A. Braithwaite</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.edu.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Braithwaite, Charles A.">Charles A. Braithwaite</author>. <title level="a">"Tribal Colleges."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">213-214</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRIBAL COLLEGES</head>
+
+<p>Thirty-eight tribal colleges across the United
+States and Canada enroll 30,000 students from
+more than 200 Native American and First Nations
+tribes. Tribal colleges are unsurpassed
+in their ability to provide the knowledge and
+skills Indian students need to become successfully
+employed, and their job placement rates
+are high. In addition, 42 percent of graduates
+from these colleges continue their education
+in other postsecondary institutions. Indian
+students who transfer from tribal colleges are
+four times more likely to complete four-year
+degree programs than those who enter mainstream
+institutions as freshmen.</p>
+
+<p>Twenty-five tribal colleges are located in the
+Great Plains: seven in Montana, five in North
+Dakota, four in South Dakota, three in Alberta,
+two in Nebraska, two in New Mexico,
+one in Kansas, and one in Saskatchewan.
+Maskwacis Cultural College in Alberta was the
+first tribally controlled college in Canada. In
+July 1988 the Legislative Assembly of Alberta
+passed the Maskwacis Cultural College Act,
+which established the college as a private post-secondary
+institution with authority to grant
+certification to students at the certificate and
+diploma levels. Since then, Maskwacis Cultural
+College has grown to offer nine one- and
+two-year program certificates and eight bachelor's
+degrees. Founded in 1884 as an Indian
+boarding school, Haskell Indian Nations
+University in Lawrence, Kansas, became the
+first federally chartered Indian college in the
+United States in 1970. Two tribally controlled
+colleges in the Great Plains were founded in
+1971: Oglala Lakota College in Kyle, South Dakota,
+and Sinte Gleska University in Rosebud,
+South Dakota. Most recently, Little Priest
+Tribal College was chartered in Winnebago,
+Nebraska, in 1996.</p>
+
+<p>In the United States tribal colleges are situated
+on land that is considered to be federal
+trust territory. This means that individual
+states are not required to provide any funding,
+making most tribal colleges dependent upon
+the federal government's treaty obligation and
+trust responsibility to provide education for
+Native American tribes. With unemployment
+on Native American reservations ranging
+from 30 to 70 percent, the greatest challenge
+faced by administrators, faculty, staff, and students
+at tribal colleges is funding. This is reflected
+in the White House Executive Order
+on Tribal Colleges and Universities (1998),
+which lists increasing core funding for operations
+as the first priority for the thirty federal
+departments and agencies involved in tribal
+college education.</p>
+
+<p>The mission statements of the twenty-five
+tribal colleges in the Great Plains stress three
+fundamental concepts. First, all of the colleges
+focus on the importance of students understanding
+their sense of self-identity. For example,
+Dull Knife Memorial College in Lame
+Deer, Montana, states that the college operates
+"in the belief that all individuals should be
+treated with dignity and respect." A second
+common concept emphasized by tribal colleges
+is the preservation and perpetuation of
+their Native cultures. Blackfeet Community
+College in Browning, Montana, for example,
+which serves students from both Montana
+and Canada, states that, "most importantly, it
+is the mission of Blackfeet Community College
+to serve as a living memorial to the Blackfeet
+Tribe, in preserving the traditions and
+culture of a proud and progressive people."
+Finally, tribal colleges stress the importance of
+students being able to understand the differences
+between Native culture and Western society.
+For example, Cankdeska Cikana Community
+College in Crow Agency, Montana
+(formerly Little Hoop Community College),
+states that "the mission of Cankdeska Cikana
+Community College is to provide comprehensive
+post-secondary education which addresses
+both traditional and contemporary aspects
+of learning. The College focuses on
+educating our students to live successfully by
+assisting each in reaching a goal that is desirable
+and attainable for their needs in this
+multi-cultural world." These examples, or
+philosophies, may well explain why tribal colleges
+are so successful in educating Native
+peoples.</p>
+
+<closer>
+<signed>Charles A. Braithwaite<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>American Indian Higher Education Consortium and the
+Institute for Higher Education Policy. <hi rend="italic">Tribal Colleges: An
+Introduction</hi>. Washington <hi rend="smallcaps">DC</hi>: Tribal College Research and
+Database Initiative, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

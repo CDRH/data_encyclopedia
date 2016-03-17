@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.018 SYSTEM "egp.ii.018.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Deadwood, South Dakota</title>
+<title level="m" type="sub"></title>
+<author>Roger P. Miller</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Miller, Roger P.">Roger P. Miller</author>. <title level="a">"Deadwood, South Dakota."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">383</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DEADWOOD, SOUTH DAKOTA</head>
+
+<figure n="egp.ii.018" rend="granted">
+<figDesc><placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood City</placeName>, <placeName rend="territory" key="ter.dak" reg="Dakota Territory">Dakota Territory</placeName>, 1876</figDesc>
+</figure>
+
+<p>A great aura hangs over <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>, a small mining town turned gambling town on the western side of <placeName rend="state" key="sd" reg="South Dakota">South Dakota</placeName> in the <geogName rend="region" reg="Black Hills">Black Hills</geogName>. Its two most famous characters, <persName reg="Hickok, Wild Bill">Wild Bill Hickok</persName> and <persName reg="Calamity Jane">Calamity Jane</persName>, spent little time in the town but left their legacy there, as both are buried next to each other in the <placeName rend="cemetery" key="cem.mmc" reg="Mount Moriah Cemetery">Mount Moriah Cemetery</placeName> overlooking the main part of <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>. <persName reg="Calamity Jane">Calamity Jane</persName> made this request because of her admiration for a man she hardly knew. The now-permanent partnership provides one of the main tourist attractions in <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>.</p>
+
+<p>The name <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName> resulted from the stands of timber that were prevalent in the area when the first miners arrived in response to reports of gold from <persName reg="Custer, George Armstrong">Lieutenant Colonel George Armstrong Custer</persName>'s party in 1874. A century later, despite being designated a national historic landmark in 1961, the town looked set for extinction.</p>
+
+<p><placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName> was saved by the statewide referendum of 1988, which legalized gaming. Crucial to the "yes" vote was the stipulation that a portion of the proceeds had to be used for historic preservation. As a result, November 1, 1989, marked the renaissance (or demise, in the eyes of gambling opponents) of <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>. Evidence of restoration is apparent everywhere, with brick-paved streets, simulated gas lighting, and mostly stone buildings that follow architectural traditions from the period 1880–1940. Trolley buses are a visual reminder of the vehicles that used to run on rails within the town.</p>
+
+<p>Almost 100 casinos compete for the gambling dollars that keep the legacies of characters like <persName reg="Deadwood Dick">Deadwood Dick</persName>, <persName reg="Poker Alice">Poker Alice</persName>, <persName reg="Potato Creek Johnny">Potato Creek Johnny</persName>, and <persName reg="Preacher Smith">Preacher Smith</persName> alive in this iconic survival of the Old West.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ASIAN AMERICANS</hi>: <ref n="egp.asam.008">Deadwood Chinatown</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Roger P. Miller<lb/>
+Black Hills State University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Bennett, Estelline. <title level="m">Old Deadwood Days</title>. New York: J. H. Sears, 1928.</bibl> <bibl>McClintock, John S. <title level="j">Pioneer Days in the Black Hills</title>, edited by Edward L. Senn. Deadwood <hi rend="smallcaps">SD</hi>: J. S. McClintock, 1939.</bibl> <bibl>Watson, P. <title level="m">Deadwood: The Golden Years</title>. Lincoln: University of Nebraska Press, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

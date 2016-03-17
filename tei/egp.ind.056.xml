@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Swather</title>
+<title level="m" type="sub"></title>
+<author>Steven V. Foulke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.056</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Foulke, Steven V.">Steven V. Foulke</author>. <title level="a">"Swather."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">434-435</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SWATHER</head>
+
+<p>A swather, also known as a windrower, is a self-propelled
+agricultural implement that harvests
+all types of hay. The introduction of the
+swather radically altered harvesting techniques
+in the Great Plains (particularly in South Dakota,
+North Dakota, northern Nebraska, and
+southeastern Colorado, where haying is prevalent)
+and throughout the world. The machine
+was refined and marketed by an agricultural
+implement manufacturer in central Kansas
+whose considerable economic clout resulted
+directly from the popularity of the swather.</p>
+
+<p>In the nineteenth and early twentieth centuries
+hay was grown widely on mixed farming
+operations. It was a profitable crop because it
+was consumed as feed by horses and mules in
+cities and rural areas. However, its harvest was
+time-consuming. A different implement was
+necessary for each step in the process: mowing
+the hay, collecting the mowed crop into narrow,
+elongated piles (windrows) in order to
+dry it, and&#8211;to facilitate drying&#8211;"raking" or
+turning over the windrows. Dry hay is critical
+to preventing molding once the crop is baled
+and stored. If the hay is stored when damp, the
+resulting decomposition can eventually generate
+enough heat to cause the hay to catch fire.</p>
+
+<p>Hay-harvesting methods were destined to
+change drastically when Lyle Yost, a Mennonite
+entrepreneur from Hesston, Kansas,
+helped form the Hesston Manufacturing
+Company in 1949. The firm acquired the production
+rights from a machine-shop owner in
+Iowa to a device that single-handedly accomplished
+all the tasks of hay harvesting. Yost's
+company introduced the "swather" (later renamed
+the "windrower") in the mid-1950s. In
+addition to mowing, windrowing, and being
+self-propelled, the swather has an innovation
+that enables hay to dry faster and more thoroughly.
+As the crop is mowed, the stalks are
+crushed (known as conditioning), allowing
+the plant's moisture to evaporate more quickly
+once the hay is stacked in windrows. Ideally,
+conditioning hay eliminates the need for raking
+and protects the protein-rich tips and
+leaves of harvested plants. Today's windrowers
+are larger and more sophisticated than earlier
+models, and their central role in haying remains
+undiminished.</p>
+
+<p>Based largely on the popularity of the
+swather, Yost's fledgling company eventually
+employed well over 1,000 people and became
+an international force in the implement industry.
+In 1966 the company was renamed
+Hesston Corporation. In the late 1980s the
+business underwent major financial restructuring,
+but it continues to manufacture agricultural
+implements as Hay and Forage, Inc.
+Hesston Corporation and its home community,
+Hesston, became synonymous with hay
+harvesting. The town of Hesston was transformed
+from a small farming hamlet into a
+prosperous suburban-like community by the
+company's success. Hesston high school sports
+teams are known as the Swathers, which says
+much about the influence of Yost, his company,
+and his hay harvester.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.046">Hay</ref>.</p>
+
+<closer>
+<signed>Steven V. Foulke<lb/>
+Perry, Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jones, Billy M. <title level="m">Factory on the Plains: Lyle Yost and the Hesston Corporation</title>. Wichita <hi rend="smallcaps">KS</hi>: Center for Entrepreneurship,
+Wichita State University, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

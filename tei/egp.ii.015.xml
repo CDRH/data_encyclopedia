@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cowboy Culture</title>
+<title level="m" type="sub"></title>
+<author>M. J. Van Deventer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Van Deventer, M. J.">M. J. Van Deventer</author>. <title level="a">"Cowboy Culture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">381&#8211;382</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COWBOY CULTURE</head>
+
+<p>Today, the culture of America's favorite icon&#8211;the cowboy&#8211;is known around the world. Other callings that helped shape the West, like lumberjacking, farming, railroading, and hard rock mining, were equally as arduous and often as dangerous, but they pale in comparison to the compelling image of the cowboy. The infatuation with all aspects of cowboy life certainly refutes a statement made by <persName reg="Harger, Charles Moreau">Charles Moreau Harger</persName>, who wrote in <hi rend="italic">Scribner's Magazine</hi> in 1892: "The cowboy, with his white, wide-trimmed hat, his long leather cattle whip, his lariat, and his clanking spur is a thing of the past." Despite <persName reg="Harger, Charles Moreau">Harger</persName>'s prediction, cowboy culture continues to have an impact on mainstream culture. Few other western themes have spawned such a rich vocabulary, created such distinctive clothing, or inspired unique genres of literature, poetry, music, and dance.</p>
+
+<p>Cowboys came from many different backgrounds and traditions. Some young cowboys grew up around cattle on western ranches, while others had run away from home or crossed the ocean in search of work and a new life. African American, Native American, Hispanic, and even English and Scottish cowboys worked side by side with native-born white cowboys on Plains ranches and cattle drives. The many faces of the cowboy reflect a more colorful, authentic story of <geogName rend="region" reg="The West">the West</geogName> than the homogenized image created by novels and movies.</p>
+
+<p><persName reg="Rollins, Philip Ashton">Philip Ashton Rollins</persName>, who gave the world its first professional look at cowboy life in his 1922 book, <hi rend="italic">The Cowboy: An Unconventional History of Civilization on the Old-Time Cattle Range</hi>, recognized the rich Hispanic tradition in cattle ranching by noting that American cowboys "obtained from Mexican sources all the tools of his trade, all technic of his craft, the very words by which he designated his utensils, the very animals with which he dealt." Words such as <hi rend="italic">cincha</hi> (cinch), <hi rend="italic">chaparejos</hi> (chaps), <hi rend="italic">catallerango</hi> (wrangler), <hi rend="italic">reata</hi> (lariat), <hi rend="italic">vaquero</hi> (cowboy), and rodeo are Hispanic in origin.</p>
+
+<p>For young cowboys and buckaroos, working cattle was not just a job but also a lifestyle, one that was lived in the freedom of the outdoors and, most of the time, on horseback. Though the seasonal nature of his work might require moving from ranch to ranch, the cowboy could always expect room and board plus his wages. Pay on most ranches ranged from $25 to $40 per month from the 1870s to the turn of the century. The quality of a ranch's bunkhouse and chuck wagon grub often determined how long a cowboy stayed on a particular spread.</p>
+
+<p><hi rend="italic">Webster's Dictionary</hi> does not do justice to a cowboy's interpretation of "culture." For the frontier cowboy, culture meant his horse and saddle, his lariat cracking in the air, and the smell of burning hair and flesh as the red-hot branding iron met the hide of a calf. For a cowboy, culture is sleeping under a blanket of stars, tasting the dust on a long, hot trail drive, smelling thick, steaming coffee on a frosty morning. A cowboy's culture, both historically and in contemporary times, is defined by his tools and its trappings, from custom-made boots and hats to hand-tooled saddles and finely braided <hi rend="italic">reatas</hi>. The popular appeal of these cowboy accoutrements, in America and abroad, symbolizes the magnetism of the cowboy and his hold on the nation's collective psyche.</p>
+
+<p>By reputation, cowboys never walked if they could ride, so their saddle became their favorite utilitarian possession. Over the course of 150 years, the shape of the western stock saddle adjusted to the needs of the men who worked cattle from horseback. The classic American stock saddle of the 1850s through the 1870s evolved from saddles developed by the vaqueros of <geogName rend="region" reg="Northern Mexico">northern Mexico</geogName> and <placeName rend="state" key="ca" reg="California">California</placeName>. The saddle had to be a comfortable and secure seat for riders who spent long hours on horseback. The development of a strong pommel, or "horn," and more secure rigging made the western saddle a working platform for roping cattle. Shape and decoration varied according to regional styles or to the amount of equipment to be attached. By 1900 the western stock saddle had evolved into a distinctive and practical piece of equipment that reflected the colorful ranching heritage of each region of the country.</p>
+
+<p>As important to the cowboy as his saddle was his lariat. There were numerous styles and materials&#8211;linen, horsehair, women's hair, grass, and leather&#8211;but the fancy braided rawhide ropes made by the late <persName reg="Ortega, Luis">Luis Ortega</persName> are considered the finest in the world. <persName reg="Ortega, Luis">Ortega</persName> also made quirts, hackamores, and hobbles, and his collection of braided rawhide cowboy gear is now preserved at the <orgName rend="museum" key="mus.nchf" reg="National Cowboy Hall of Fame">National Cowboy Hall of Fame</orgName> in <placeName rend="settlement" key="ok.okc" reg="Oklahoma City, Oklahoma">Oklahoma City, Oklahoma</placeName>.</p>
+
+<p>Even the cowboy's clothing reflected his outdoor lifestyle and regional and cultural background. Freshly creased or crumpled, the cowboy hat is recognized around the world as a symbol of the <geogName rend="region" reg="American West">American West</geogName>. The Spanish influence was so pervasive in the West that mail-order catalogs as late as 1900 still referred to the hat of the "cow boy" as a <hi rend="italic">sombrero</hi>.</p>
+
+<p>Regional styles, the environment, and weather often dictated a cowboy's clothing. The type of brush or foliage a cowboy encountered in the course of his work, for example, determined the style of his chaps. By the 1890s commercial products like Stetson hats and Levi Strauss denim "overalls" were marketed specifically for the working cowboy. Eventually, the popularity of rodeo champions and Western movie stars transformed the utilitarian work clothing of cowboys into western fashion. Ten-gallon hats, embroidered shirts, and brightly colored boots are recognized worldwide as distinctly cowboy in origin.</p>
+
+<p>Like hats, chaps, and kerchiefs, boots also had functional origins. Tall, snug-fitting boots with high heels had become the hallmark of <geogName rend="region" reg="Great Plains">Great Plains</geogName> trail-drive cowboys by the 1870s. Boot makers such as <persName reg="Justin, Joe">"Big Daddy" Joe Justin</persName> set up shop in cow towns, hoping to get a share of the drovers' wages before they headed back to the range. Many of these cobblers drew on a German heritage and made alterations to the classic European riding boot based on suggestions from cowboys. By 1900 the bulky riding boot had transformed into the basic boot pattern recognized today. Thetwentieth century brought more changes in toe shape, decoration, and materials, elevating the humble boot to the status of folk art and high fashion.</p>
+
+<p>Two elements that have provided flashy elegance in cowboy culture are bits and spurs. Also born of utility and also of Spanish origin, bits and spurs have always been made and used by any culture that relied on the horse for transportation. Still collectors' items, those being made today by master artisans spare nothing to continue the tradition of flamboyant craftsmanship seen in the gleaming embossed silver and hand-tooled leather used to create these original trappings of the cowboy lifestyle.</p>
+
+<p>Some aspects of cowboy life have changed since the nineteenth century. For example, cattle are more often rounded up by cowboys driving pickups than on horseback. But interest in cowboy history and culture is as strong and as diverse as the stories told by old ranch hands while sitting around a campfire singing trail songs or playing checkers or cards in the bunkhouse. Just experience any of the hundreds of cowboy songfests, poetry gatherings, chuck wagon cook-offs, ranch rodeos, collectible shows, and other western happenings, and you will find plenty of living cowboy culture.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.007">Cowboy Crafts</ref> / 
+<hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.034">Ranching Heritage</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.033">Justin, H. J., and Sons</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">M. J. Van Deventer<lb/>
+National Cowboy and Western<lb/>
+Heritage Museum</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Beard, Casey. <title level="m">Tools of the Cowboy Trade</title>. Salt Lake City: Gibbs-Smith Publishers, 1997.</bibl> <bibl>Martin, Ned and Jody. <title level="m">Bit and Spur Makers in the Vaquero Tradition</title>. Nicasio <hi rend="smallcaps">CA</hi>: Hawk Hill Press, 1997.</bibl> <bibl>Slatta, Richard W. <title level="m">The Cowboy Encyclopedia</title>. Santa Barbara <hi rend="smallcaps">CA</hi>: <hi rend="smallcaps">AFL-CIO</hi>, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

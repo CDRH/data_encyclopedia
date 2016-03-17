@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fol.000 SYSTEM "egp.fol.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Folkways</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+       
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Folkways</head>
+
+<figure n="egp.fol.000" rend="granted">
+<figDesc>The John Curry Homestead, near West Union, Nebraska, 1886</figDesc>
+</figure>
+
+<list>
+<item><ref n="egp.fol.001">Folkways</ref></item>
+<item><ref n="egp.fol.002">Adams, Ramon</ref></item>
+<item><ref n="egp.fol.003">Animal Lore</ref></item>
+<item><ref n="egp.fol.004">Blizzard Stories</ref></item>
+<item><ref n="egp.fol.005">Cattle Guards</ref></item>
+<item><ref n="egp.fol.006">Chinook Stories</ref></item>
+<item><ref n="egp.fol.007">Cowboy Crafts</ref></item>
+<item><ref n="egp.lt.012">Cowboy Poetry <hi rend="italic">See</hi> <hi rend="smallcaps">Literary Traditions</hi></ref></item>
+<item><ref n="egp.fol.009">Dobie, J. Frank</ref></item>
+<item><ref n="egp.fol.010">Farm Inheritance Practices</ref></item>
+<item><ref n="egp.fol.011">Farming Lore</ref></item>
+<item><ref n="egp.fol.012">Folk Art</ref></item>
+<item><ref n="egp.fol.013">Folk Belief</ref></item>
+<item><ref n="egp.fol.014">Folk Dance</ref></item>
+<item><ref n="egp.fol.015">Folk Music</ref></item>
+<item><ref n="egp.fol.016">Folk Songs</ref></item>
+<item><ref n="egp.fol.017">Folk Speech</ref></item>
+<item><ref n="egp.fol.018">Folk Toys</ref></item>
+<item><ref n="egp.fol.019">Foodways</ref></item>
+<item><ref n="egp.fol.020">Fur Trade Lore</ref></item>
+<item><ref n="egp.fol.021">Ghost Stories</ref></item>
+<item><ref n="egp.fol.022">Grave Markers</ref></item>
+<item><ref n="egp.fol.023">Grinnell, George Bird</ref></item>
+<item><ref n="egp.fol.024">Humor</ref></item>
+<item><ref n="egp.fol.025">Hunting Lore</ref></item>
+<item><ref n="egp.fol.026">Insect Lore</ref></item>
+<item><ref n="egp.fol.027">Lomax, John A.</ref></item>
+<item><ref n="egp.fol.028">Mock Weddings</ref></item>
+<item><ref n="egp.fol.029">Mythical Animals</ref></item>
+<item><ref n="egp.fol.030">Nicknames</ref></item>
+<item><ref n="egp.fol.031">Pecos Bill</ref></item>
+<item><ref n="egp.fol.032">Personal Experience Narratives</ref></item>
+<item><ref n="egp.fol.033">Plains Indian Narratives</ref></item>
+<item><ref n="egp.fol.034">Plant Lore</ref></item>
+<item><ref n="egp.fol.035">Play Party</ref></item>
+<item><ref n="egp.fol.036">Proverbs and Proverbial Sayings</ref></item>
+<item><ref n="egp.fol.037">Quilting</ref></item>
+<item><ref n="egp.fol.038">Roadside Attractions</ref></item>
+<item><ref n="egp.fol.039">Seasonal Celebrations</ref></item>
+<item><ref n="egp.fol.040">Shivarees</ref></item>
+<item><ref n="egp.fol.041">Siringo, Charles</ref></item>
+<item><ref n="egp.fol.042">Tall Tales</ref></item>
+<item><ref n="egp.fol.043">Tornado Stories</ref></item>
+<item><ref n="egp.fol.044">Trickster</ref></item>
+<item><ref n="egp.fol.045">Welsch, Roger</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

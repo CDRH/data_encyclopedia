@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Center for Rural Affairs</title>
+<title level="m" type="sub"></title>
+<author>Marie Powell</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Powell, Marie">Marie Powell</author>. <title level="a">"Center for Rural Affairs."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">39</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-10</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CENTER FOR RURAL AFFAIRS</head>
+
+<p>The Center for Rural Affairs, established
+in 1973 in Walthill, Nebraska, was created
+through the vision of two vista volunteers,
+Don Ralston and Marty Strange. The center
+established its reputation early as an agricultural
+advocate with a conscience and a strong,
+independent voice on agricultural matters
+throughout the Great Plains and beyond.</p>
+
+<p>The center immediately confronted several
+agricultural issues with serious economic, social,
+and environmental overtones. Taking issue
+with irrigation in the fragile Nebraska
+Sandhills, large-scale hog confinements, and
+the decline of independent banking in rural
+Nebraska, it earned a reputation for sound
+research and honest, practical, and fair solutions.
+Subsequently, research expanded into
+global warming, rural economic development
+policy, unfair livestock markets, and federal
+farm policy. Most recently the center has examined
+the structure of agriculture and new
+marketing opportunities for family farmers.</p>
+
+<p>Advocacy is equally important to the center's
+history and character. Major policy
+thrusts include tax reform and school finance
+in Nebraska as well as conservation and fairness
+in federal farm policy. The center has
+worked alone and with others to invigorate
+and broaden the meaning of sustainable agriculture
+and to hasten its acceptance in the
+agricultural community.</p>
+
+<p>Engaging people to find their own solutions
+has been another major thrust of its work.
+When the energy crisis of the 1970s created an
+opportunity for small farms to demonstrate
+appropriate technology, the center created the
+nation's first on-farm research program with
+the Small Farm Energy Project. The Rural Enterprise
+Assistance Project (<hi rend="smallcaps">REAP</hi>) builds on
+the entrepreneurial assets of rural people and
+helps communities to support them. And the
+Land Link program connects retiring farmers
+with beginning farmers, placing farmland in
+the next generation's hands. The center sponsors
+a total of eight such projects to help build
+rural communities and family farms. Truly
+one of a kind, the Center for Rural Affairs is a
+leader in advocating social and environmental
+justice in rural America.</p>
+
+
+<p><ref target="http://www.cfra.org/">Center for Rural Affairs</ref> website.</p>
+
+<closer>
+<signed>Marie Powell<lb/>
+Center for Rural Affairs</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Stewart, Elinore Pruitt (1876-1933)</title>
+<title level="m" type="sub"></title>
+<author>Susanne K. George</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="George, Susanne K.">Susanne K. George</author>. <title level="a">"Stewart, Elinore Pruitt (1876-1933)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">337</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STEWART, ELINORE PRUITT (1876-1933)</head>
+
+<p>Born in White Bead Hill in the Chickasaw Nation,
+Indian Territory, on June 3, 1876, Elinore
+Pruitt Stewart was no stranger to hardship. At
+eighteen, with both parents dying within a
+year of each other, Stewart became responsible
+for six siblings. A few years later, she married
+and presumably divorced Harry Rupert.
+In 1906 she moved with her daughter, Jerrine,
+and two sisters to Denver, where she told
+everyone that she was a widow. A life of poverty
+in Denver encouraged her to try homesteading,
+so in 1909 she answered Clyde Stewart's
+advertisement for a housekeeper in the
+<title level="j">Denver Post</title>. Stewart and her daughter arrived
+in Burntfork, Wyoming, in April 1909. In May
+she filed on 160 acres adjoining Clyde's homestead,
+and within eight weeks, married her
+employer. Stewart spent the rest of her life
+on the ranch, except for a few years when
+the family moved to Boulder, Colorado, for
+the children's education. She died in a Rock
+Springs hospital on October 8, 1933, at the age
+of fifty-seven.</p>
+
+<p>Stewart's life is not unique, for many women
+homesteaded as well as became "mail-order
+brides." However, her contributions to American
+history and literature are the letters that
+she wrote to a former employer in Denver,
+Mrs. Juliet Coney, which were published serially
+in the <title level="j">Atlantic Monthly</title> and then in book
+form by Houghton Mifflin Company as <title level="m">Letters of a Woman Homesteader</title> (1914) and <title level="m">Letters on an Elk Hunt</title> (1915). Stewart describes in detail
+the joys and hardships of homesteading and
+raising a family on the frontier. Each letter
+is often a complete narrative in itself; however,
+together they combine to create a type of
+story cycle, with characters and themes recurring.
+Although largely autobiographical, these
+works were written for publication, and she
+was known to have "never let the facts get in the
+way of a good story."</p>
+
+<closer>
+<signed>Suanne K. George<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>George, Susanne K. <title level="m">The Adventures of the Woman Homesteader: The Life and Letters of Elinore Pruitt Stewart</title>. Lincoln:
+University of Nebraska Press, 1992.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

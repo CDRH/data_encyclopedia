@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fitzgerald, Lionel Lemoine (1890-1956)</title>
+<title level="m" type="sub"></title>
+<author>Joan Murray</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Murray, Joan">Joan Murray</author>. <title level="a">"Fitzgerald, Lionel Lemoine (1890-1956)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">117</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FITZGERALD, LIONEL LEMOINE (1890-1956)</head>
+
+<p>Lionel LeMoine FitzGerald was a member of
+Canada's Group of Seven, joining in 1932. In
+1933 he became a founder of the Canadian
+Group of Painters. FitzGerald was born in
+Winnipeg on March 17, 1890. After study in
+Winnipeg and Pittsburgh and at the Art Students
+League in New York in 1921 with Boardman
+Robinson and Kenneth Hayes Miller,
+FitzGerald joined the Winnipeg School of Art
+in 1924 and became its principal in 1929. He
+held that position until 1947.</p>
+
+<p>FitzGerald's art is distinguished by its precise,
+often pointillistic, technique, poetic intensity,
+quiet tone, and subtle color. He explored
+the light and feeling of space on the
+Prairies, often using the area around his home
+in St. James, Manitoba, near Winnipeg. Located
+there for most of his career (though
+stimulated by visits in the 1940s to British Columbia,
+where he met Lawren Harris, a fellow
+member of the Group of Seven), he sought the
+"inner life of things."</p>
+
+<p>In the 1950s FitzGerald turned to abstraction
+to express himself, but most critics agree
+that he was a typical Prairie artist. Lawren
+Harris believed that the brittle clarity of the
+atmosphere of the Prairies was reflected in
+FitzGerald's landscapes. In the catalog for the
+FitzGerald memorial exhibition, Ferdinand
+Eckhardt, director of the Winnipeg Art Gallery,
+wrote in 1958 that FitzGerald's work was
+typical of the Prairie Provinces "not only in
+subject matter but also in its simplicity, intensity,
+and friendly atmosphere." However, Alan
+Jarvis, director of the National Gallery of Canada,
+in the same catalog described FitzGerald's
+art as classical in a modern sense: "It was
+highly personal, sensitive and fastidious." He
+also stressed its universal significance. Fitz-
+Gerald also painted nudes and still lifes.
+Among his well-known works is <title>Doc Snyder's House</title> (1931), now at the National Gallery of
+Canada, Ottawa. FitzGerald died in Winnipeg
+on August 5, 1956.</p>
+
+<closer>
+<signed>Joan Murray<lb/>
+Robert McLaughlin Gallery</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">L. L. FitzGerald 1890–1956: A Memorial Exhibition</title>. Exhibition
+Catalog. Ottawa: National Gallery of Canada, 1958.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

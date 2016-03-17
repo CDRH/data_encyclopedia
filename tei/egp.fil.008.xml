@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.008 SYSTEM "egp.fil.008.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brooks, Louise (1906-1985)</title>
+<title level="m" type="sub"></title>
+<author>Thomas Gladysz</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gladysz, Thomas">Thomas Gladysz</author>. <title level="a">"Brooks, Louise (1906-1985)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">260-261</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BROOKS, LOUISE (1906-1985)</head>
+
+<figure n="egp.fil.008" rend="granted">
+<figDesc>Louise Brooks, ca. 1928.</figDesc>
+</figure>
+
+<p>Actress, dancer, and writer on film, Louise
+Brooks is perhaps best known for her role as
+Lulu in the silent film <title>Pandora's Box</title> (1929).
+She was born Mary Louise Brooks on November
+14, 1906, in Cherryvale, Kansas, to Leonard
+and Myra Brooks, a lawyer and touring
+speaker, respectively. Her first stage role was at
+age four; she later performed as a dancer at
+local clubs and fairs in southeastern Kansas.
+At age fifteen Brooks joined the Denishawn
+Dance Company, the leading modern dance
+troupe in America. After two years with Denishawn,
+Brooks left the company and landed
+parts as a chorus girl in George White's Scandals
+and as a specialty dancer in the Ziegfeld
+Follies. She had the distinction of being
+the first person to dance the Charleston in
+London.</p>
+
+<p>Brooks's performance in the Follies led to a
+tryout in the movies. Her early films include
+<title>The American Venus</title> (1926), <title>It's the Old Army Game</title> (1926), <title>The Show-off</title> (1926), and <title>Love 'Em and Leave 'Em</title> (1926), all of which were
+social comedies typical of the era. Subsequent
+dramatic roles include <title>A Girl in Every Port</title>
+(1928), <title>Beggars of Life</title> (1928), and <title>The Canary Murder Case</title> (1929). Brooks appeared as Lulu,
+a femme fatale, in G. W. Pabst's German production
+of <title>Pandora's Box</title> in 1929, one of the
+great films of the silent era. She also starred in
+Pabst's <title>Diary of a Lost Girl</title> (1929) and in the
+French production <title>Prix de beaut&#233;</title> (1930).</p>
+
+<p>Brooks's career had declined by the mid-
+1930s. After a brief sojourn in Wichita, the
+once-celebrated actress settled in New York
+City, where she lived for more than a decade
+in obscurity. She later moved to Rochester,
+New York, and began writing; her first article
+appeared in 1956. Over the next three decades,
+Brooks contributed numerous essays to various
+film journals. Her highly acclaimed 1982
+book, <title>Lulu in Hollywood</title>, includes essays
+about her life and the careers of other movie
+stars. Brooks's legendary beauty and distinctive
+bob hairstyle have been celebrated in numerous
+films, plays, novels, poems, comic
+strips, artwork, and songs. She died of a heart
+attack in Rochester on August 8, 1985.</p>
+
+<closer>
+<signed>Thomas Gladysz<lb/>
+Louise Brooks Society</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brooks, Louise. <title level="m">Lulu in Hollywood</title>. New York: Knopf,
+1982.</bibl> <bibl>Jaccard, Roland. <title level="m">Louise Brooks: Portrait of an Anti-Star</title>. New York: Zoetrope, 1986.</bibl> <bibl>Paris, Barry. <title level="m">Louise Brooks</title>. New York: Knopf, 1989.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

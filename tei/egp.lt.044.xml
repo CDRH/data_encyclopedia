@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McMurtry, Larry (b. 1936)</title>
+<title level="m" type="sub"></title>
+<author>Dorys Crow Grover</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Grover, Dorys Crow">Dorys Crow Grover</author>. <title level="a">"McMurtry, Larry (b. 1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">484-485</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCMURTRY, LARRY (b. 1936)</head>
+<figure n="egp.lt.044" rend="granted" type="noclick">
+<figDesc>Writer Larry McMurtry</figDesc>
+</figure>
+
+<p>Born June 3, 1936, in Wichita Falls, Texas, to
+Hazel Rugh McIver and Jefferson McMurtry,
+Lawrence Jefferson McMurtry grew up with
+ranch hands and cowboys. He received a
+bachelor of arts degree from the University of
+North Texas and a master of arts degree from
+Rice University and studied creative writing
+at Stanford. He married Josephine Ballard on
+July 15, 1959; they divorced in 1966. He has one
+son, James Lawrence. McMurtry taught creative
+writing at Rice from 1963 to 1969 and
+now lives in Archer City, Texas, where he runs
+a bookstore called Booked Up.</p>
+
+<p>McMurtry has published twenty-one novels
+and much nonfiction, and he has received
+numerous literary awards. His trail-driving
+novel, <title level="m">Lonesome Dove</title> (1985), received the
+Spur Award of the Western Writers of America, the Texas Institute of Letters Prize, and a
+<title level="m">Pulitzer Prize</title> (1986). McMurtry has written
+sequels to all of his most popular books. He
+followed the characters of Lonesome Dove in
+sequels, prequels, and the television miniseries
+films <title level="m">The Streets of Laredo</title> (1995), Return
+to <title level="m">Lonesome Dove</title> (1993), and <title level="m">Dead Man's Walk</title> (1996), but he has never managed to improve
+on the originals. <title level="m">The Last Picture Show</title>
+(1966) was reprised in <title level="m">Texasville</title> (1987), and
+<title level="m">Duane's Depressed</title> (1999) and other works are
+linked by their characters.</p>
+
+<p>What makes McMurtry's Lonesome Dove
+one of the best Westerns ever written is his
+ability to combine a rip-snorting story full
+of wonderful characters with a history of and
+elegy for America's westward migration. <title level="m">Lonesome Dove</title> joins <title level="m">Horseman, Pass By</title> (1961) and
+<title level="m">Leaving Cheyenne</title> (1963) as McMurtry's Texas
+trilogy. McMurtry's <title level="m">In a Narrow Grave</title> (1968)
+collects many of his published essays.</p>
+
+<p>Most of McMurtry's novels have a certain
+wistfulness. Sadness and laconic humor, occasioned
+by loneliness and an awareness of the
+uncertainties of life, run through his work in
+an insistent refrain.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.031"><hi rend="italic"><title>Hud</title></hi></ref>; <ref n="egp.fil.038"><hi rend="italic"><title>The Last Picture Show</title></hi></ref>.</p>
+
+<closer>
+<signed>Meredith McClain<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lich, Lera Patrick Tyler. <title level="m">Larry McMurtry's Texas: Evolution of the Myth</title>. Austin: Eakin, 1987.</bibl> <bibl>Reynolds, Clay, ed. <title level="m">Taking Stock: A Larry McMurtry Casebook</title>. Dallas: Southern
+Methodist University Press, 1989.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

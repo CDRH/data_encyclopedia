@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kreisel, Henry (1922–1991)</title>
+<title level="m" type="sub"></title>
+<author>Shirley Neuman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Neuman, Shirley">Shirley Neuman</author>. <title level="a">"Kreisel, Henry (1922–1991)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">480-481</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KREISEL, HENRY (1922–1991)</head>
+
+<p>Born in Vienna on June 5, 1922, Jewish novelist,
+literary critic, and academic Henry Kreisel
+escaped to England after the German annexation
+of Austria in 1938. Along with other
+German-speaking Jews and political refugees,
+he was apprehended as an "enemy alien" in
+May 1940 and sent to an internment camp
+in New Brunswick, Canada. He described his
+camp experience as fortunate in that it liberated
+him from his factory job and, in the debates among the many intellectuals interned
+with him, proved to be an excellent "university."
+While interned, he decided to become
+a writer in English, taking as his inspiration
+Joseph Conrad. Released in November 1941,
+he studied at Harbord Collegiate and the University
+of Toronto and went on to a career at
+the University of Alberta as professor of English
+and vice-president. He died on April 22,
+1991.</p>
+
+<p>Kreisel conceived of his fiction as seeing Europe
+(particularly, the Holocaust) through
+Canadian eyes and Canada (particularly, its
+political security and na&#239;vet&#233;) through immigrant
+eyes. In his novels <title level="m">The Rich Man</title> (1948)
+and <title level="m">The Betrayal</title> (1964) and in the short stories
+collected in <title level="m">The Almost Meeting</title> (1981),
+most of which are set during the months immediately
+preceding the Holocaust or the
+months and years immediately following it, he
+explores themes of emotional loss and survival,
+human dilemmas and weakness leading
+to moral paralysis and betrayal, and human
+forgiveness.</p>
+
+<p>Kreisel became a strong and perceptive
+voice defining Prairie fiction in "The Broken
+Globe" (1965), his story of a Ukrainian immigrant
+farmer's passionate attachment to his
+land, and in the essay "The Prairie: A State of
+Mind" (1968). This essay surveys earlier fiction
+about the Canadian Prairies, beginning
+by noting its frequent analogies between the
+Prairie landscape and the sea in terms of the
+vacancy, stillness, and wind of both. Arguing
+that the physical fact of the Prairie landscape
+produces a state of mind in which men feel
+compelled to conquer the land while also feeling
+diminished and spiritually imprisoned in
+its vastness, he suggests that this landscape is
+productive of a puritanism subject to occasional
+eruptions of violence. This essay was
+one of the first to note that European settlers'
+writings about the Prairies suppressed the history
+and presence of Native peoples.</p>
+
+<p>Henry Kreisel played an active role in the
+development of Canadian literature curricula
+in the university and was a founding member
+(1977) of NeWest Press, which defined its publishing
+mandate in terms of Prairie regionalism.</p>
+
+<closer>
+<signed>Shirley Neuman<lb/>
+University of British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Brenner, Rachel Feldhay. "Henry Kreisel—European Experience
+of Canadian Reality: A State of Mind." <title level="j">World Literature Written in English</title> 28 (1988): 269–87.</bibl> <bibl>Henry
+Kreisel Papers, Mss., Collection of the Library of the University
+of Manitoba, Winnipeg.</bibl> <bibl>Neuman, Shirley, ed. <title level="m">Another Country: Writings by and about Henry Kreisel</title>. Edmonton:
+NeWest Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

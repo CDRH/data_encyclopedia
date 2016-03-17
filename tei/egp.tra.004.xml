@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Board of Railway Commissioners</title>
+<title level="m" type="sub"></title>
+<author>Ken Cruikshank</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.004</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cruikshank, Ken">Ken Cruikshank</author>. <title level="a">"Board of Railway Commissioners."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">799-800</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BOARD OF RAILWAY COMMISSIONERS</head>
+
+<p>The Board of Railway Commissioners of Canada
+regulated all the major railways in Canada
+under the authority of the Railway Act of 1903. A
+broad coalition of interests, including Prairie
+farmers and merchants, supported the creation
+of this independent regulatory commission,
+similar to the American Interstate Commerce
+Commission. The Canadian government appointed
+three commissioners to supervise a
+wide range of activities, including the establishment
+of rules and regulations for employees, the
+inspection of new lines, the installation of safety
+devices, and the investigation of accidents. In
+1908 an additional three commissioners were
+appointed and were expected to regulate the
+railway, express, telegraph, telephone, and hydroelectric
+business. The commissioners' most
+publicly visible activity involved the regulation
+of freight and passenger rates, and their actions
+influenced the rate structure in Canada, nowhere
+more dramatically than in the Prairie
+Provinces.</p>
+
+<p>Between 1907 and 1914, the commissioners
+gradually eliminated a number of rate advantages
+enjoyed by merchants in Winnipeg,
+Manitoba, since the nineteenth century. These
+changes allowed rapidly growing business
+communities in Regina, Calgary, and other
+towns to compete with Winnipeg as distributing
+and service centers. Western business leaders
+continued to complain that the railways
+granted lower rates to their competitors outside
+the region, in central Canada. To address
+these concerns, the commissioners consistently
+recommended higher rate increases in
+central than in western Canada during and
+immediately following World War I. As a result,
+between 1914 and 1921, a 34 percent difference
+between central Canadian and Prairie
+western rates on fifth-class freight (the most
+common classification of merchandise distributed
+in carloads) had been narrowed to 14
+percent. Thereafter, the railway commissioners
+addressed more specific Prairie grievances,
+particularly related to commodities such as
+grain and livestock. Against the advice of the
+railway commissioners, the Canadian government
+reintroduced the 1897 Crow's Nest Pass
+rates on grain in 1922, rates that remained in
+effect and controversial until the 1980s.</p>
+
+<closer>
+<signed>Ken Cruikshank<lb/>
+McMaster University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cruikshank, Ken. <title level="m">Close Ties: Railways, Government and
+the Board of Railway Commissioners, 1851–1933</title>. Montreal:
+McGill-Queen's University Press, 1991.</bibl> <bibl>Darling, Howard.
+<title level="m">The Politics of Freight Rates</title>. Toronto: McClelland and
+Stewart, 1980.</bibl> <bibl>MacGibbon, D. A. <title level="m">Railway Rates and the
+Canadian Railway Commission</title>. New York: Houghton
+MiÄin, 1917.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

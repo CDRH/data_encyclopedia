@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bird Migrations</title>
+<title level="m" type="sub"></title>
+<author>Amy L. Richert</author>
+<author>Kevin E. Church</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Richert, Amy L.">Amy L. Richert</author> and <author n="Church, Kevin E.">Kevin E. Church</author>. <title level="a">"Bird Migrations."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">619-620</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BIRD MIGRATIONS</head>
+
+<p>Bird migrations are regular two-way movements
+of birds that have evolved to assure
+more space and food for raising offspring as
+well as increased overwinter survival. Internal
+rhythms, often related to the reproductive
+cycle, are triggered by photoperiod (changing
+amount of daylight), prompting the migration.
+Weather conditions usually influence
+date of departure and pace of advancement
+toward a destination. The result is one of the
+Great Plains's most spectacular natural events,
+as millions of birds move northward to breeding
+grounds and southward to wintering sites
+over large expanses of grasslands, wetlands,
+and grain fields.</p>
+
+<p>The endangered whooping crane (<hi rend="italic">Grus
+americana</hi>) is probably the most renowned
+Plains migrant. All of the world's naturally occurring
+whoopers (about 170 individuals) migrate
+between Arkansas National Wildlife Refuge,
+along the Texas coast, and Wood Buffalo
+National Park, along the borders of Alberta,
+Saskatchewan, and the Northwest Territories,
+using a pathway that covers the north to south
+extent of the Plains region. Most migrant
+waterfowl common to the Plains, such as the
+lesser snow goose (<hi rend="italic">Chen caerulescens</hi>), white-fronted
+goose (<hi rend="italic">Anser albifrons</hi>), northern pintail
+(<hi rend="italic">Anas acuta</hi>), and mallard (<hi rend="italic">A. platyrhynchos</hi>),
+follow the Central Flyway, a locational
+characterization of seasonal waterfowl movements
+used for international management of
+migratory game birds. The flight strategies of
+other Plains migrants, such as raptors (burrowing
+owl [<hi rend="italic">Speotyto cunicularia</hi>] and ferruginous
+hawk [<hi rend="italic">Buteo regalis</hi>]), shorebirds
+(upland sandpiper [<hi rend="italic">Bartramia longicauda</hi>],
+long-billed curlew [<hi rend="italic">Numenius americanus</hi>],
+and red-necked phalarope [<hi rend="italic">Libipes lobatus</hi>]),
+and songbirds (Harris's sparrow [<hi rend="italic">Zonotricha
+querula</hi>] and clay-colored sparrow [<hi rend="italic">Spizella
+pallida</hi>]), are more temporally and spatially
+diverse.</p>
+
+<p>Bald eagles (<hi rend="italic">Haliaeetus leucocephalus</hi>) are the
+first migrators during early spring. The next
+arrivals are sandhill cranes (<hi rend="italic">Grus canadensis</hi>),
+ducks, and geese. During later spring, shorebirds
+are followed by songbirds. Some migrant
+songbirds, such as the dickcissel (<hi rend="italic">Spiza americana</hi>),
+arrive on breeding grounds in the
+Northern Plains while individuals of the same
+species have already completed their nesting in
+the Southern Plains and started their migration
+to wintering grounds. Arctic nesters such as the
+Harris's sparrow move to the Central Plains for
+the entire winter, whereas the snow bunting
+(<hi rend="italic">Plectrophenax nivalis</hi>) moves in and out of the
+Central Plains in response to severe weather.</p>
+
+<p>Many Plains migrants use different routes
+during spring and fall, possibly to optimize
+feeding opportunities or avoid harsh winds.
+For example, the American golden plover
+(<hi rend="italic">Pluvialis dominica</hi>) breeds from the northern
+coast of Alaska to the eastern shores of northern
+Canada, flies southward along the Atlantic
+coast to its wintering area in southern South
+America, then forms a migration loop as it
+returns to its breeding grounds by flying over
+the Great Plains.</p>
+
+<p>Distances that birds migrate vary within
+and among species. Individuals that nest in
+the southernmost part of the lark bunting's
+(<hi rend="italic">Calamospiza melanocorys</hi>) breeding range
+migrate shorter distances to wintering locations
+(less than fifty miles) than those in the
+northern part of the breeding grounds (hundreds
+of miles). Blue-winged teal (<hi rend="italic">Anas discors</hi>)
+that nest close to the Arctic Circle and
+winter in Argentina move a distance of about
+7,000 miles. Long-distance fliers rely on a variety
+of cues for navigation, such as the position
+of celestial bodies, the magnetic field of
+the earth, and landscape features. For example,
+shorebirds and cranes closely follow paths
+that lie over a series of basin wetlands that
+extend from the Texas coast to the Northwest
+Territories.</p>
+
+<p>Long-distance migrants may fly without
+stopping. Others may spend a few hours, days,
+or even weeks at a particular location for rest
+and refueling. Birds that fly long distances before
+stopping rely on fat reserves for energy or
+winds associated with weather systems. Shorebirds
+are especially known for moving great
+distances in short time periods. The American
+golden plover for example, can move 4,000
+miles in less than three days with the help of
+winds in the direction of flight. Most Great
+Plains migrants are not equipped to make
+such marathon flights. Instead, they make regular
+refueling and drinking stops.</p>
+
+<p>Locations where migrants land for short duration
+are referred to as stopover sites. Solitary
+birds or family groups usually use these sites.
+Examples are the seasonally flooded fields and
+shallow wetlands used by whooping cranes for
+feeding and resting. Habitats used by migrating
+birds for longer time periods to replenish
+energy for farther movement or gain weight
+for reproduction are sometimes referred to as
+staging areas. Large groups of Plains migrants
+are often associated with wetland-related staging
+areas, many of which are protected as state
+or national conservation areas, such as Bosque
+del Apache, New Mexico, Cheyenne Bottoms
+Wildlife Management Area, Kansas, J. Clark
+Salyer National Wildlife Refuge, North Dakota,
+and Delta Marsh, Manitoba, Canada. Arguably
+the best location in the world for viewing
+bird migrations is the Central Platte River
+Valley and Rainwater Basin of south-central
+Nebraska, which attracts up to three million
+geese, fifty-two species of waterbirds, and
+the world's largest concentration of cranes
+(500,000) in spring.</p>
+
+<p>Since 1900, habitat alterations, such as channel
+flow reduction, wetland drainage, and conversion
+of grassland to cropland, have rendered
+migrant species more susceptible to diseases
+and natural disasters such as drought. Traditionally,
+conservation efforts for Plains species
+emphasized breeding and wintering locations.
+Current studies emphasize understanding habitat
+requirements during migration and how to
+most effectively protect migrant species.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: <ref n="egp.sr.041">National Wildlife Refuges</ref> / <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.005">Cheyenne Bottoms</ref>;
+<ref n="egp.wat.020">Platte River Whooping Crane Maintenance Trust</ref>.</p>
+
+<closer>
+<signed>Amy L. Richert<lb/>
+University of Nebraska-Lincoln<lb/>
+Kevin E. Church<lb/>
+Nebraska Game and Parks Commission</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Alerstam, Thomas. <title level="m">Bird Migration</title>. New York: Cambridge
+University Press, 1990.</bibl> <bibl>Farrand, John, Jr., ed. <title level="m">The Audubon
+Society Master Guide to Birding</title>. New York: Alfred A.
+Knopf, 1983.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

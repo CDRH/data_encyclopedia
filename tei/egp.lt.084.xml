@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.084">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Woiwode, Larry (b. 1941)</title>
+<title level="m" type="sub"></title>
+<author>Denis R. Fournier</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.084</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Fournier, Denis R.">Denis R. Fournier</author>. <title level="a">"Woiwode, Larry (b. 1941)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">498</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WOIWODE, LARRY (b. 1941)</head>
+
+<p>Even though Larry Woiwode moved out of
+North Dakota when he was eight and did not
+return to live there until 1978, he is imbued
+with the "Dakota mystique"&#8211;a sense of awe at
+the vast land, a need for family and community,
+and an awareness of and a faith in God
+that helps people there survive. Two of his
+novels (<title level="m">Beyond the Bedroom Wall: A Family Album</title>, 1975; <title level="m">Born Brothers</title>, 1988), a number
+of his short stories, and some of his poems
+focus on North Dakota people and on the
+Northern Plains experience. Whether a specific
+work is set in North Dakota or not, a
+sense of place, of family, and of God permeates
+Woiwode's writing, especially in his semi-autobiographical
+<title level="m">Beyond the Bedroom Wall</title>.
+One reads this novel as if paging through a
+family picture album full of places, biographical
+vignettes, fragments of memories, and
+longer reminiscences that leave the reader curious
+about the characters and incidents recorded
+in the "snapshots." Parts 1 and 2, set in
+rural North Dakota, trace the history of the
+family through four generations, until they
+move to Illinois.</p>
+
+<p>As of 1998, Woiwode had written three
+other novels (<title level="m">What I'm Going to Do, I Think</title>,
+1969; <title level="m">Poppa John</title>, 1981; <title level="m">Indian Affairs</title>, 1992),
+two volumes of short stories (<title level="m">The Neumiller Stories</title>, 1989; <title level="m">Silent Passengers</title>, 1993), and two
+of poetry (<title level="m">Poetry North: Five Poets of North Dakota</title>, 1970; <title level="m">Even Tide</title>, 1977). In addition
+to published interviews, Woiwode has short
+stories, poems, and nonfiction pieces that
+have not yet been collected. Woiwode is a
+careful craftsman, a compelling storyteller,
+and a stylist with a gift for both lyrical and
+precise expression.</p>
+
+<closer>
+<signed>Denis R. Fournier<lb/>
+University of Mary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gardner, John. "The Family of a Man and the Family of
+Man." Review of <title level="m">Beyond the Bedroom Wall: A Family Album</title>,
+by Larry Woiwode. <title level="j">New York Times Book Review</title>,
+September 28, 1975, 1–2.</bibl> <bibl>Quantic, Diane Dufva. <title level="m">The Nature of the Place: A Study of Great Plains Fiction</title>. Lincoln:
+University of Nebraska Press, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

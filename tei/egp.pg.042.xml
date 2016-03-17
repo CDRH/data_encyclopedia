@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lougheed, Edgar Peter (b. 1928)</title>
+<title level="m" type="sub"></title>
+<author>Patrick H. Brennan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Brennan, Patrick H.">Patrick H. Brennan</author>. <title level="a">"Lougheed, Edgar Peter (b. 1928)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">672-673</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOUGHEED, EDGAR PETER (b. 1928)</head>
+
+<p>Edgar Peter Lougheed was born in Calgary on
+July 26, 1928, he was the grandson of Sir James
+Lougheed, one of the dominant legal, political,
+and business figures in early Alberta history.
+Lougheed earned a bachelor of arts and
+bachelor of laws from the University of Alberta
+and master of business administration
+from Harvard University. Returning to Calgary
+in 1954, he spent the next eleven years in a
+successful combination of corporate and private
+legal practice. In 1965 he turned to politics,
+assuming the leadership of the moribund
+Progressive Conservative Party. Lougheed
+served as premier of Alberta from 1971 until
+his retirement in 1985.</p>
+
+<p>By the late 1960s postwar oil and gas wealth
+had created a "new" Alberta. Appealing to this
+Alberta with the simple slogan "Now," Lougheed
+and the Progressive Conservatives swept
+into power in 1971, ending Social Credit's dynasty.
+While expenditures on traditional responsibilities
+soared, his government focused
+much of its attention on joint public–private
+sector "megaprojects" such as the Athabaska
+tar sands development. Another landmark initiative,
+the Alberta Heritage Trust Fund, targeted
+its oil-derived revenues for both the enrichment
+of the province's social and cultural
+fabric and the diversification of its boom-andbust
+resource economy.</p>
+
+<p>Disagreements with the federal government
+over energy resource pricing and taxation
+simmered throughout the 1970s as Alberta
+boomed, finally boiling over in 1980 with the
+National Energy Program (<hi rend="smallcaps">NEP</hi>). Lougheed
+denounced the nep as an economic and constitutional
+declaration of war on Alberta. Two
+years later Alberta's economy and provincial
+revenues had crashed, but Lougheed won a
+third landslide reelection by blaming Ottawa
+while deftly downplaying the role of sliding
+world oil prices and his own administration's
+excessively ambitious spending. Although initially
+dismissed by most non-Albertans as a
+"blue-eyed sheik" selfishly hoarding the province's
+windfall resource wealth, his steadfast
+opposition to both Quebec separatism and
+Prime Minister Pierre Trudeau's centralizing
+constitutional vision gradually won him
+respect.</p>
+
+<p>Lougheed's legacy was a period of remarkable
+social and economic development that
+gave Albertans an unprecedented sense of self-confidence
+and in the process compelled other
+Canadians to acknowledge Alberta's growing
+importance in national affairs.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.046">Petroleum, Canada</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.028">Lougheed, James</ref>.</p>
+
+<closer>
+<signed>Patrick H. Brennan<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hustak, Alan. <title level="m">Peter Lougheed: A Biography</title>. Toronto:
+McClelland and Stewart Ltd., 1979.</bibl> <bibl>Wood, David. <title level="m">The
+Lougheed Legacy</title>. Toronto: Key Porter Books, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

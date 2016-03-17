@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.mus.018 SYSTEM "egp.mus.018.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Frontier Opera Houses</title>
+<title level="m" type="sub"></title>
+<author>D. Layne Ehlers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ehlers, D. Layne">D. Layne Ehlers</author>. <title level="a">"Frontier Opera Houses."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">538-539</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<figure n="egp.mus.018" rend="granted">
+<figDesc>Frontier opera houses (Lodgepole, Nebraska, Opera House, built in 1911, closed in the late 1940s)</figDesc>
+</figure>
+
+
+<div1>
+<head type="main">FRONTIER OPERA HOUSES</head>
+
+<p>Frontier communities regarded opera houses
+as visual symbols of prosperity&#8211;ence, promise,
+and culture. Though more properly "opera
+hall," the name "opera house" suggested refinement
+and elegance to local residents, so
+it prevailed. The opera house heyday lasted
+from about ten years after a town's founding
+until approximately 1917. Often on the second
+floor of the town's first brick building, opera
+houses contained an open space large enough
+for a significant portion of the community to
+congregate. All contained stages, some had
+permanent seating, but most consisted of a
+large room that could be arranged in a variety
+of configurations depending on need&#8211;dances,
+political meetings, banquets, basketball games,
+concerts, home talent shows, or professional
+entertainment.</p>
+
+<p>Opera houses represented all types of vernacular
+Main Street architecture from the
+early two-part commercial block second-floor
+theaters to the one-part community auditorium models favored in the early twentieth
+century. These theaters functioned as the
+heart of frontier society, gathering places
+where folks could celebrate life and escape its
+daily rigors. Originally owned and managed
+by a civic-spirited merchant, they eventually
+passed into public ownership.</p>
+
+<p>The opera house "season" lasted from late
+fall to early spring, beginning after the crops
+were in and lasting as long as the rutted roads
+remained frozen to accommodate evening
+travel. Frequent dances provided income for
+fire departments, dancing schools, lodges,
+bands, commercial clubs, and ball teams.
+Home talent performances by cornet bands,
+community instrumentalists, choral unions,
+local music students, and college or church
+choirs always earned high praise from local
+newspaper editors.</p>
+
+<p>Several times each season, an opera house
+manager contracted for professional entertainment,
+often through a lyceum bureau
+booking agency. Unable to accommodate the
+more pricey offerings of combination companies
+booked out of New York, most Plains
+communities settled for concerts or other entertainments
+by smaller groups such as the
+Hallowell Concert Company, complete with
+baritone and lady trap-drummer; Round's
+Ladies Orchestra; the Schubert Symphony
+and Ladies Quartette; the Sue Burgess Concert
+Company, featuring contralto, reader, violinist,
+and pianist; Blind Boone, a pianist who
+drew rowdy crowds; and Mrs. Winters, a melodious
+whistler. More exotic musicians included
+the Royal Hawaiian Concert Company,
+Kulolo's Hawaiians, Vierra's Royal Hawaiians,
+Ramos' Spanish Orchestra, Losseff's Russian
+Quartet, the Swiss Bell Ringers, and the Chicago
+Boys' Choir, which traveled with marambophone,
+bagpipes, tambourine, castanets,
+and a harp.</p>
+
+<p>Opera houses declined as a performance
+venue after 1917 for a variety of reasons related
+to twentieth-century technology. Many had
+reached the end of their architectural usefulness
+and could no longer safely support large
+crowds of people; the devastation of the 1903
+Iroquois Theatre fire in Chicago, which killed
+600 people, made the nation aware of the dangers
+of second-floor theaters. Automobiles,
+shifts in population, and postwar affluence
+meant smaller audiences in small towns. Most
+important, motion pictures proved more attractive
+to audiences and more cost-effective
+to managers than traveling troupes. Plains
+towns built no true frontier opera houses after
+World War I. Today, small Great Plains towns
+use community auditoriums to fill the nonentertainment
+functions of the opera house,
+while larger cities and television provide the
+performance venues.</p>
+
+<closer>
+<signed>D. Layne Ehlers<lb/>
+Bacone College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Ehlers, D. Layne. "This Week at the Opera House: Popular
+Music Entertainment at Great Plains Opera Houses, 1887–
+1917." <title level="j">Great Plains Quarterly</title> 20 (2000): 183–95.</bibl> <bibl>Zivanovic,
+Judith K., ed. <title level="m">Opera Houses of the Midwest</title>. Manhatten <hi rend="smallcaps">KS</hi>:
+Mid-America Theatre Conference, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.044">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Oakies</title>
+<title level="m" type="sub"></title>
+<author>Brad A. Bays</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.044</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bays, Brad A.">Brad A. Bays</author>. <title level="a">"Oakies."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">393</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OAKIES</head>
+
+<p>"Okies," as Californians labeled them, were refugee farm families from the <geogName rend="region" reg="Southern Plains">Southern Plains</geogName> who migrated to <placeName rend="state" key="ca" reg="California">California</placeName> in the 1930s to escape the ruin of the Great Depression and the Dust Bowl. The refugees came from several states, including the drought-ravaged corners of <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName>, <placeName rend="state" key="co" reg="Colorado">Colorado</placeName>, and <placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName> but especially the impoverished parts of <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName> (the origin of one fifth of Okies), <placeName rend="state" key="tx" reg="Texas">Texas</placeName>, <placeName rend="state" key="ak" reg="Arkansas">Arkansas</placeName>, and <placeName rend="state" key="mo" reg="Missouri">Missouri</placeName>.</p>
+
+<p>Okies were escaping two distinct although simultaneous and bordering catastrophes, one economic, the other more environmental. Many Okies&#8211;families from <placeName rend="state" key="ak" reg="Arkansas">Arkansas</placeName>, <placeName rend="state" key="mo" reg="Missouri">Missouri</placeName>, <geogName rend="region" reg="Eastern Oklahoma">eastern Oklahoma</geogName>, and <geogName rend="region" reg="East Texas">East Texas</geogName>&#8211;were not Dust Bowl refugees but instead were tenant-farming casualties of sinking commodity prices and agricultural mechanization during the 1920s. Beef and oil prices plummeted after World War I, and the price of cotton fell from thirty-five cents per pound in 1919 to six cents in 1931. Farmers hung on by expanding production and assuming more debt, prompting widespread foreclosures after 1929. In an effort to raise prices, the Agricultural Adjustment Act of 1933 subsidized landowners to take land out of production, allowing them to mechanize, consolidate holdings, discontinue leases, and evict sharecroppers. This was especially the case in <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName>, which had by far the nation's highest rate of farm tenancy.</p>
+
+<p>The Dust Bowl years on the <geogName rend="region" reg="Southern Plains">Southern Plains</geogName> also had economic origins. Mechanization and falling wheat prices in the 1920s combined to fuel the "Great Plow-Up," a decade of aggressive expansion of cultivated acreage during which farmers hoped for a good year that would allow them to recover spiraling debts on new equipment and land. In 1931, however, the rains stopped, and the <geogName rend="region" reg="Great Plains">Great Plains</geogName> entered a decade-long drought. Suitcase-farming speculators wrote off their investments, but everyone's farms began to blow away in spectacular dust storms in 1932. Families suffered drought, wind, dust, and death from dust pneumonia for half a decade before the horrific dust storms and heat of 1935-36 forced many to abandon their homes and search for a new life in the <placeName rend="state" key="ca" reg="California">Golden State</placeName>. The Dust Bowl exodus reduced the populations of <placeName rend="state" key="tx" reg="Texas">Texas</placeName> and <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName> panhandle counties by as much as onefourth and killed or stunted numerous towns. The images of the refugees&#8211;hungry, gaunt families riding overloaded jalopies over lonely Route 66&#8211;remain vivid in the American collective memory.</p>
+
+<p>Predominantly upland southerners, the half-million Okies met new hardships in <placeName rend="state" key="ca" reg="California">California</placeName>, where they were unwelcome aliens, forced to live in squatter camps and to compete for scarce jobs as agricultural migrant laborers. They displaced Mexican workers, but despite the initial fears of landowners that they would demand better working conditions, these conservative, self-reliant, and persevering folk proved even easier to exploit. With many more willing hands than jobs, wage rates dropped. Crowded, filthy squatter camps rose up along the roads and streams of the <geogName rend="valley" reg="San Joaquin Valley">San Joaquin Valley</geogName>, leading Californians to attribute the scene to the refugees' own regionally derived ignorance and sloth. Federal relief in the form of labor camps (such as <persName reg="Steinbeck, John">Steinbeck</persName>'s "Wheat Patch"), dubbed "Little Oklahomas," were hardly effective.</p>
+
+<p>Genuine relief for the Okies arrived in 1940, when federal defense dollars inflated <geogName rend="region" reg="West Coast">West Coast</geogName> industries, allowing many to abandon the orchards for shipyards and bomb plants. In fact, while the squatter camps disappeared, the number of people coming to <placeName rend="state" key="ca" reg="California">California</placeName> from the <geogName rend="region" reg="Southern Plains">Southern Plains</geogName> actually increased in the 1940s. These "defense Okies" poured into <placeName rend="county" key="co.ca.la" reg="Los Angeles County, California">Los Angeles</placeName> and <placeName rend="county" key="co.ca.ora" reg="Orange County, California">Orange County</placeName> during the war years and continued to take jobs in the state's aeronautical, petroleum, and automotive industries in the 1950s.</p>
+
+<p>The Okie migration brought the dialects, denominations, politics, and attitudes of the Southern Plains to California, where they persist in places like <placeName rend="settlement" key="ca.bak" reg="Bakersfield, California">Bakersfield</placeName>. Although the Okie experience is best described in <persName reg="Steinbeck, John">Steinbeck</persName>'s works, it also affected popular culture in diverse musical genres, including the ballads of social radical <persName reg="Guthrie, Woody">Woody Guthrie</persName>, which inspired urban folk and rock music, as well as infusions into country music in the steely, apolitical, bumpkin sound of <persName reg="Owens, Buck">Buck Owens</persName> and the melancholy, oppressed-yet-patriotic ballads of <persName reg="Haggard, Merle">Merle Haggard</persName>. Separated by ideology and a generation, both <persName reg="Guthrie, Woody">Guthrie</persName> and <persName reg="Haggard, Merle">Haggard</persName> painted in their lyrics the imagery of a cruel, decadent <placeName rend="state" key="ca" reg="California">California</placeName> and a righteous, nostalgic <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName>. That image lasts in the regional meanings of "Okie": a <placeName rend="state" key="ca" reg="California">California</placeName> insult and an endearing nickname in the <geogName rend="region" reg="Southern Great Plains">Southern Great Plains</geogName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.026"><hi rend="italic">The Grapes of Wrath</hi></ref> / <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.019">Guthrie, Woody</ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.022">Dust Bowl</ref> / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.032">Route 66</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Brad A. Bays<lb/>
+Oklahoma State University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Gregory, James N. <title level="m">American Exodus: The Dust Bowl Migration and Okie Culture in California</title>. New York: Oxford University Press, 1989.</bibl> <bibl>Shindo, Charles J. <title level="m">Dust Bowl Migrants in the American Imagination</title>. Lawrence: University Press of Kansas, 1997.</bibl> <bibl>Steinbeck, John. <title level="m">The Harvest Gypsies: On the Road to the Grapes of Wrath</title>. Introduction by Charles Wollenberg. Berkeley <hi rend="smallcaps">CA</hi>: Heyday Books, 1988.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

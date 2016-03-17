@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cleary Kate M. (1863-1905)</title>
+<title level="m" type="sub"></title>
+<author>Susanne K. George</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="George, Susanne K.">Susanne K. George</author>. <title level="a">"Cleary, Kate M. (1863-1905)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">326-327</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CLEARY, KATE M. (1863-1905)</head>
+<figure n="egp.gen.008" rend="granted" type="noclick">
+<figDesc>Photograph of Kate M. Cleary</figDesc>
+</figure>
+    
+
+<p>Detailing the life of small-town pioneers, Kate
+M. Cleary wrote novels, stories, sketches, and
+poems about Nebraska in the late 1800s. Born
+on August 22, 1863, in Richibucto, New Brunswick,
+Canada, she moved with her mother and
+two brothers in 1880 to Chicago, where the
+whole family wrote to support themselves. In
+1884 she married Michael Cleary, and the couple
+moved to the newly founded village of
+Hubbell, Nebraska. While in Hubbell, the
+Clearys had six children, losing two daughters
+within a year of each other. The family moved
+back to Chicago in 1898.</p>
+
+<p>After nearly dying from childbirth fever in
+1894, Cleary became dependent on the morphine
+that her doctor had given her to relieve
+the pain. She battled ill health as well as addiction
+throughout her life, finally admitting herself
+to the Elgin Asylum for the Insane for
+drug treatment. After her treatment she separated
+from her husband and dedicated herself
+to writing, insisting on supporting the children's
+private schooling. She died of heart
+failure in Chicago on July 16, 1905, at age
+forty-one, just as she had begun negotiating
+with publisher Houghton Mifflin on a collection
+of her short stories. It was never published.</p>
+
+<p>Throughout her lifetime Cleary wrote hundreds
+of stories, which appeared in such diverse
+outlets as the <title level="j">Chicago Tribune</title>, <title level="j">Cosmopolitan</title>,
+and <title level="j">McClure's</title>. The best of them
+are about early Plains settlers, especially the
+men and women in rural villages. Many of
+them are realistic or naturalistic depictions of
+the hardships of western pioneers. Others,
+however, are humorous and satirical portrayals,
+gently mocking social pretensions and the
+idealized Cult of True Womanhood.</p>
+
+<closer>
+<signed>Susanne K. George<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>George, Susanne K. <title level="m">Kate M. Cleary: A Literary Biography with Selected Works</title>. Lincoln: University of Nebraska
+Press, 1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Welsh</title>
+<title level="m" type="sub"></title>
+<author>Wayne K. D. Davies</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Davies, Wayne K. D.">Wayne K. D. Davies</author>. <title level="a">"Welsh."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">251-252</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WELSH</head>
+
+<p>The Welsh are one of the least numerous of
+the ethnic groups that settled in the Great
+Plains. The peak of immigration of the Welsh
+to America was at the beginning of the twentieth
+century, but the ten American states of
+the Great Plains showed only 7,259 people
+born in Wales at this time, with another 542 in
+the Canadian Prairies, but as the latter area
+was settled the Canadian numbers grew to
+3,597 in 1911 and 5,980 in 1921. However, all
+these figures are probably underestimates
+since the Welsh were often grouped with the
+English or British ethnic categories. In recent
+censuses the numbers of Welsh recording a
+single ancestry are among the lowest of all ethnic
+groups, due to high levels of intermarriage
+with other peoples and cultural absorption.</p>
+
+<p>Although the numerical contribution is
+small, the Welsh have made important contributions
+to the development of the region. Several
+of the earliest European pioneers in the
+exploration and mapping of the northern
+reaches of the Great Plains, including David
+Thompson and John Thomas Evans, came
+from Wales. But it was the development of
+agricultural settlement in the region that attracted
+significant numbers of Welsh people.
+The largest and most persistent of the agricultural
+concentrations are in Emporia, Kansas,
+beginning in 1856–58, and Edmunds County,
+South Dakota, beginning in 1883, with several
+other smaller clusters, such as Arvonia, Kansas,
+and Richardson County, Nebraska, forming
+in the 1860s and 1870s. Small concentrations
+of Welsh miners were also attracted to
+Coal and Pittsburg Counties in Oklahoma after
+1880 and Cambria County in Wyoming after
+1867.</p>
+
+<p>In Canada also, two rural settlement areas
+associated with the Welsh stand out. The
+Wood River area east of Ponoka in Alberta
+developed in 1900–1905 and attained a peak of
+around 200 people in 1910. Although some of
+the settlers had been born in Wales, many were
+American-born (mainly in Kansas and Nebraska),
+so the Wood River settlement was
+largely a Welsh American initiative. Of the two
+original Welsh chapels, Zion still survives, although
+regular services ended in 1995. Another
+Welsh area, of approximately the same
+size, was established near Bangor, Saskatchewan,
+in 1902–3, but again these were largely
+first- and second-generation Welsh, this time
+from Patagonia, Argentina. The concentration
+of names of Welsh origin still survives in the
+area, and services are still held in two of
+the original four churches, Llewellyn Bethel
+United and St. David's Anglican, although
+the use of Welsh died out in the 1930s.</p>
+
+<p>The fact that these two primary rural settlements
+in the Canadian Prairies were settled by
+Welsh from outside Wales indicates the pull of
+other areas upon potential Welsh immigrants
+to the Great Plains. However, the negative
+comments about working conditions in western
+Canada from a group of young Welshmen
+who worked on the construction of the Crowsnest
+Pass railway line west of Lethbridge in
+1897–98 might have also discouraged potential
+Welsh immigrants. Their complaints received
+wide publicity in Britain and led immigrant
+agents to try to cover up the bad news. Nevertheless,
+small numbers of Welsh continued
+to immigrate to the coal-mining areas and also
+to the bigger cities, many of which had Welsh
+churches by the 1920s.</p>
+
+<p>Vestiges of the Welsh cultural heritage still
+survive in many areas, such as the celebration
+of St. David's Day on March 1 in Emporia,
+Kansas, and the annual Gymanfa Ganu, a
+chapel-based singing festival in Ponoka, Alberta,
+in August. In mining areas the Welsh
+often played an important part in political
+and workforce activity, for many of the Welsh
+had known the value of union activity in their
+homeland. But many of the Welsh were also
+known for their piety, so in most settlement
+areas and the bigger cities Nonconformist
+chapels were built and became the focus of
+Welsh cultural life.</p>
+
+<p>Unfortunately, the small size of most of the
+Welsh rural settlements, their distances apart,
+and the inability to reinforce cultural heritage
+through continued emigration from the
+homeland led to the decline in cultural separateness.
+In addition, the loss of the Welsh
+language in many of the industrial areas of
+Wales and the decline of the Nonconformist
+religion provided a further blow to the distinctiveness
+of Welsh immigrants. In industrial
+areas, the limited economic life of most
+mines exacerbated the problem of cultural
+survival, for people were forced to move on
+once the mine was exhausted. In most large
+cities in the region the same decline in cultural
+identity can also be seen, and the Welsh
+churches that were the focus of communities
+closed in the decades before and after World
+War II. However active Welsh societies can
+still be found in most large cities, while the
+Welsh passion for rugby led many immigrants
+to promote the game, especially in Canada.
+But it is new immigrants from Wales in the
+cities, often in teaching or skilled worker positions,
+who have helped keep the Welsh heritage
+alive, while many Welsh societies have
+been reinvigorated or even re-created in the
+last two decades because of a greater interest
+in cultural heritage.</p>
+
+<closer>
+<signed>Wayne K. D. Davies<lb/>
+University of Calgary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Davies, Wayne K. D. "The Welsh in Canada: A Geographical
+Overview." In <title level="m">The Welsh in Canada</title>, edited by M.
+Chamberlain. Swansea <hi rend="smallcaps">UK</hi>: Canadian Studies in Wales
+Group, 2002: 1–48.</bibl> <bibl>Williams, J. G. <title level="m">Songs of Praise: Welsh Rooted Churches beyond Britain</title>. Clinton <hi rend="smallcaps">NY</hi>: Gwenfrewi
+Santes Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

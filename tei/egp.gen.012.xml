@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Eastman, Elaine Goodale (1863-1953)</title>
+<title level="m" type="sub"></title>
+<author>Ruth Ann Alexander</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Alexander, Ruther Ann">Ruth Ann Alexander</author>. <title level="a">"Eastman, Elaine Goodale (1863-1953)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">328</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EASTMAN, ELAINE GOODALE (1863-1953)</head>
+
+<p>Elaine Goodale Eastman wrote extensively
+about Native Americans, both as a collaborator
+with her husband, Dakota physician and
+writer Charles Eastman, and under her own
+name. Born on October 9, 1863, at Sky Farm in
+the Berkshires of Massachusetts, Eastman
+wrote poetry as a child, used her literary talents
+while a teacher of Sioux at Hampton Institute,
+and sent letters and articles to eastern
+publications during four years of teaching and
+supervising Native schools on the Great Sioux
+Reservation from 1886 to 1890.</p>
+
+<p>At Pine Ridge at the time of the Wounded
+Knee Massacre, she met and married Dr. Eastman.
+Thereupon she sacrificed her own literary
+ambition to further the career of her husband
+and the cause of his people. When he
+had difficulty providing for the family, she encouraged
+him to write stories of his Native
+childhood, which she edited and published.
+Together they produced nine books, most under
+his name alone. He became famous as a
+writer and lecturer on Native American life,
+while she remained anonymous at home in
+Massachusetts caring for their six children. In
+all this Elaine Eastman exhibited a "feminist
+Protestant ethic," whereby all the virtues of
+the Protestant ethic&#8211;industry, thrift, and
+enterprise&#8211;were applied to the service of others,
+specifically her husband and Native
+Americans.</p>
+
+<p>Illness, constant financial problems, and
+the death of a daughter increased the strains
+on an already troubled marriage, which ended
+in 1921. The couple neither divorced nor reconciled.
+Elaine Eastman continued to write
+until she was almost ninety, drawing material
+from her own childhood and marriage, as well
+as from her experience living with and teaching
+the Sioux. Although her posthumously
+published memoirs provide a sympathetic
+and readable account of Sioux life in the 1880s,
+none of her seven books achieved the success
+of those published under her husband's name.
+Elaine Eastman died on December 22, 1953, at
+Hadley, Massachusetts.</p>
+
+<closer>
+<signed>Ruth Ann Alexander<lb/>
+South Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Alexander, Ruth Ann. "Elaine Goodale Eastman and the
+Failure of the Feminist Protestant Ethic." <title level="j">Great Plains Quarterly</title> 8 (1988): 89–101.</bibl> <bibl>Eastman, Elaine Goodale. "All
+the Days of My Life." <title level="j">South Dakota Historical Review</title> 2
+(1937): 171–84.</bibl> <bibl>Eastman, Elaine Goodale. <title level="m">Sister to the Sioux</title>, edited by Kay Graber. Lincoln: University of Nebraska
+Press, 1978.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

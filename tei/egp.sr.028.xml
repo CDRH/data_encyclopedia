@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hogan, Ben (1912-1997)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Hogan, Ben (1912-1997)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">776</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOGAN, BEN (1912-1997)</head>
+
+<p>William Benjamin "Bantam Ben" Hogan,
+America's premier golfer during the 1940s and
+1950s, was born on August 13, 1912, in Dublin,
+Texas. At the age of nine his father committed
+suicide, forcing the family to move to Fort
+Worth. As a youngster Ben helped supplement
+the meager family income by selling newspapers
+and working as a caddie at Glen Garden
+Country Club. Hogan began playing on
+his days off and quickly became a proficient
+golfer after switching from a left- to a right-handed
+swing.</p>
+
+<p>He turned professional at the age of seventeen
+but struggled for the first decade of
+his golfing career due to a propensity for slicing
+the ball. Throughout his early golfing career
+he was forced to take odd jobs to support
+his wife, Valerie, whom he had married in
+1937. By 1940, however, after countless hours
+at the driving range perfecting his swing,
+Hogan finished the year with five tournament
+wins and was the country's leading money
+winner. His professional career was put on
+hold between 1942 and 1945 due to military
+service in the Army Air Corps, but he returned
+to the professional tour in 1946 and
+won the Professional Golfers' Association
+(<hi rend="smallcaps">PGA</hi>) Championship.</p>
+
+<p>Hogan's career and life nearly ended in 1949
+when a bus hit his car head-on and it seemed
+that he would never walk again. Determined
+to prove his doctors wrong, Hogan recovered
+and returned to the tour in 1951, winning the
+U.S. Open and the Masters tournaments that
+year. Lingering injuries, however, limited
+Hogan to only seven tournaments a year. In
+1953, arguably his finest year, Hogan won five
+of six tournaments, including his fourth U.S.
+Open title, his second Masters, and the British
+Open. Hogan continued to win tournaments
+until his retirement in 1960.</p>
+
+<p>Hogan was known as a fierce competitor.
+With his signature white visor pulled low over
+his eyes, he intimidated opponents by blocking
+out everything around him as he drove
+toward the green. Hogan ended his career
+with sixty-three tournament wins (third all-time),
+including four U.S. Opens and two
+Masters titles. He was a four-time <hi rend="smallcaps">PGA</hi> player
+of the year and is a member of every golf Hall
+of Fame, including the <hi rend="smallcaps">PGA</hi> Hall of Fame.</p>
+
+<p>After retiring Hogan focused on the golf
+equipment business that he had established
+in Fort Worth during the 1950s. Although he
+sold the company in 1960, he remained as the
+chairman and played an important role in golf
+club design for the next twenty years. Hogan
+died on July 25, 1997, in Fort Worth, Texas.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Sampson, Curt. <title level="m">Hogan</title>. Nashville: Rutledge Hill Press,
+2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

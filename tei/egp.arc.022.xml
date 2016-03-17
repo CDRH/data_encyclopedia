@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.022 SYSTEM "egp.arc.022.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fort Architecture</title>
+<title level="m" type="sub"></title>
+<author>Alison K. Hoagland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoagland, Alison K.">Alison K. Hoagland</author>. <title level="a">"Fort Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">80</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FORT ARCHITECTURE</head>
+
+<figure n="egp.arc.022" rend="granted">
+<figDesc>Fort Sill, Indian Territory, 1871</figDesc>
+</figure>
+
+<p>In the nineteenth century, army posts throughout
+the Great Plains region varied widely in
+appearance, reflecting the lack of a centralized
+design authority. Post commanders exercised
+great latitude in construction decisions, often
+relying on poorly trained lieutenants who
+designed buildings and oversaw their construction.
+Low levels of funding forced these
+officers to rely on available materials and expertise,
+resulting in a diverse array of architecture
+within forts as well as among them.
+Nonetheless, two aspects of fort design were
+consistent: the general layout and the expression
+of the military hierarchy in the architecture
+of the quarters.</p>
+
+<p>Contrary to the usual image of a fort, stockades
+were rare, especially in the Great Plains,
+where wood was hard to obtain. Examples of
+perimeter vertical-log stockades include Fort
+Phil Kearny in present-day Wyoming and
+Fort Rice, North Dakota, as well as Canadian
+North-West Mounted Police forts of the
+1870s such as Fort Macleod, Alberta, and Fort
+Walsh, Saskatchewan. Without a stockade, a
+fort could be entered at any point; access was
+not controlled. All forts had a parade ground,
+an open space in the center where troops
+could assemble. The primary buildings&#8211;officers' quarters, barracks, headquarters building,
+guardhouse&#8211;faced this parade ground,
+with secondary structures, including stables,
+workshops, laundresses' quarters, and hospital,
+behind it.</p>
+
+<p>The only published army regulation concerning
+the architecture of a fort allocated the
+number of rooms by rank, limiting lieutenants,
+for instance, to one room plus a kitchen.
+As a result, the highest-ranking officer at
+a post had the largest house. Officers' quarters
+were domestic in appearance, with front
+porches, gable roofs, and picket-fenced yards.
+Often, lower-ranking officers occupied double
+quarters with separate entrances. Barracks
+were long, one- or two-story structures, with
+their broad fronts facing the parade ground.
+One open room served as the dormitory for
+an entire company; mess halls and kitchens
+were in separate structures, in wings off the
+rear, or on the first floor of two-story buildings.
+Designs for these buildings originated at
+the post, and the quartermaster general could
+approve or reject them.</p>
+
+<p>The individuality of the forts was particularly
+evident in the building materials employed.
+The army authorized permanent forts
+to be built of stone or brick. Temporary
+forts&#8211;which was the designation of most
+forts in the Great Plains, despite their decadeslong
+utilization&#8211;could employ stone only if
+it were cheaper than alternatives. Troops
+built wood-framed buildings with board-and-batten
+or clapboarded walls, as at North Platte
+Station, Nebraska, on the Union Pacific Railroad
+line. Cruder, quicker wood buildings included
+"picket" or "stockade" buildings constructed
+of small-diameter vertical logs, as at
+Fort Richardson, Texas. Panel construction&#8211;
+horizontal logs let into vertical posts, which
+fashioned short timber into long buildings&#8211;
+proved to be the most expedient form of
+log construction, as seen at Fort Robinson,
+Nebraska.</p>
+
+<p>Because of the scarcity of wood throughout
+much of the region, army officers sought alternative
+materials. Adobe&#8211;earth formed
+into bricks and dried in the sun.found extensive
+use at forts ranging from Fort Davis,
+Texas, to Fort Laramie, Wyoming, and Fort
+Shaw, Montana. The army also experimented
+with concrete construction. Officers at Sidney
+Barracks, Nebraska, in 1872 used a "limegrout"
+mixture of lime, sand, aggregate, and
+no cement. Soon after, officers at Fort Laramie,
+Wyoming, and Fort Hartsuff, Nebraska,
+constructed most of their new buildings of
+concrete.</p>
+
+<p>In 1882 Commanding General William T.
+Sherman outlined his plans for concentrating
+his troops in the West into fewer, larger posts.
+By 1891 111 western forts had been reduced to
+62. The quartermaster general's officce took an
+active role in rebuilding the posts, producing
+standardized plans by the mid-1890s. These
+new brick buildings&#8211;barracks as well as officers'
+quarters&#8211;were spacious and imposing.
+The standardized plans employed a Spanish
+Colonial appearance for forts in the southwestern
+Plains, including Fort Sill, Oklahoma,
+and an English Colonial Revival style for the
+rest, including Fort D. A. Russell in Wyoming.
+Buildings at different posts now resembled
+each other closely; for example, designs for
+buildings at Fort D. A. Russell served as models
+for other forts across the country, including
+the officers' quarters at Fort George
+Wright, Washington, and the commanding
+officer's quarters at Fort Totten, North Dakota.
+Use of standardized designs issued from
+Washington <hi rend="smallcaps">DC</hi> continued through the twentieth
+century, resulting in an increasingly uniform
+military architecture nationwide.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.017">Frontier Forts</ref>.</p>
+
+<closer>
+<signed>Alison K. Hoagland<lb/>
+Michigan Technological University<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Anderson, Thomas M. "Army Posts, Barracks and Quarters."
+<title level="j">Journal of the Military Service Institution of the United States</title> 2 (1882): 421–47.</bibl> <bibl>Risch, Erna. <title level="m">Quartermaster Support of the Army, 1775–1939</title>. Washington <hi rend="smallcaps">DC</hi>: Center for
+Military History, U.S. Army, 1962.</bibl> <bibl>Robinson, Willard B.
+<title level="m">American Forts: Architectural Form and Function</title>. Urbana:
+University of Illinois Press, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

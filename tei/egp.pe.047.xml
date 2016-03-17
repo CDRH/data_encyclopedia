@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.047">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Physiography</title>
+<title level="m" type="sub"></title>
+<author>Michael D. Blum</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.047</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Blum, Michael D.">Michael D. Blum</author>. <title level="a">"Physiography."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">636-637</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PHYSIOGRAPHY</head>
+
+<p>The Great Plains, as defined in Nevin M. Fenneman's
+classic work, <title level="m">Physiography of Western
+United States</title> (1931), is a distinct physiographic
+region that lies between the Rocky Mountains
+to the west and the Canadian Shield, Central
+Lowlands, and Gulf Coastal Plain regions to
+the east, and stretches from the Canadian
+Prairies in the north to the Edwards Plateau in
+Texas. Although broadly described as a low
+relief part of the North American interior, the
+Plains landscape is complex and diverse and
+owes its origin to a variety of geologic processes,
+with specific subregions dominated by
+fluvial, eolian, volcanic, or glacial landforms.
+This diversity is best discussed with reference
+to traditionally recognized subregions.</p>
+
+<p>The High Plains, stretching from Nebraska
+to Texas, can be thought of as the core of the
+Great Plains in terms of its geologic history, its
+current morphological expression, and the
+perception of a vast featureless landscape. The
+High Plains's surface is constructional in origin,
+representing the accumulation of fluvial
+sediments of Tertiary age that were shed from
+the Rockies in a series of west-to-east trending
+river valleys and alluvial plains, with coeval
+eolian (wind-blown) sediments blanketing the
+uplands. Following this accumulation phase,
+major rivers that rise in the Rockies (Platte,
+Arkansas, Canadian, Pecos), plus rivers that
+originate on the High Plains surface (Niobrara,
+Republican, Smoky Hill, Cimarron,
+Red), cut distinct valleys through this former
+accumulation surface and formed a series of
+downward-stepping terraces. Erosionally isolated
+remnants of the High Plains include
+Scotts Bluff and Chimney Rock National Monuments,
+located along the North Platte River in
+Nebraska, that have long served as landmarks
+for travelers moving westward. Outside of the
+major river valleys, eolian and other processes
+dominate the relatively undissected parts of
+the High Plains surface. The most notable
+eolian landscape is the Nebraska Sandhills, the
+largest sand dune field in the Western Hemisphere.
+Individual dunes can be more than 300
+feet in height and extend for many miles. Although
+the dunes are now grass-covered, they
+have been active multiple times during the last
+few thousand years when regional climates
+were drier. At the southern end of the High
+Plains in Texas, on the Llano Estacado, thick
+accumulations of wind-blown sediments cover
+Tertiary fluvial deposits and have produced a
+flat landscape, one that is punctuated by tens of
+thousands of mostly dry lake basins, or playas,
+and a series of narrow ephemeral stream channels
+that are locally referred to as draws.</p>
+
+<p>The northern boundary of the High Plains
+is defined by the Pine Ridge Escarpment, with
+three key Great Plains physiographic subregions
+lying farther to the north. Just north
+of the High Plains, the Unglaciated Missouri
+Plateau of eastern Montana, eastern Wyoming,
+and the western Dakotas consists of broad tablelands
+where the Tertiary cover has been
+mostly stripped by the Missouri River and its
+tributaries. The tablelands are punctuated by
+a number of isolated mountain ranges and
+areas of deeply dissected badlands topography
+where the Tertiary cover is still present. Several
+mountain ranges in Montana (Highwood,
+Bearpaw, Little Rocky, Judith, Big Snowy, Big
+Belt, Little Belt, Castle, and Crazy) originated
+as masses of intrusive and/or volcanic igneous
+rock. The best examples of badlands topography
+are the White River Badlands of Badlands
+National Park in South Dakota and the Little
+Missouri Badlands of Theodore Roosevelt National
+Park in North Dakota. The eastern
+boundary of the Missouri Plateau is defined by
+the Missouri Escarpment, where the landscape
+descends 500 to 650 feet to the glaciated Central
+Lowlands. The Black Hills of western
+South Dakota are often treated as a distinct
+subregion. They originated as a folded and
+thrusted mass of ancient sedimentary and
+crystalline rocks similar to, and geologically
+related to, the Rockies farther west. The presidential
+faces on Mount Rushmore National
+Memorial are carved in granites that make up
+the core of this mountain range, whereas Wind
+Cave and Jewel Cave were formed by dissolution
+of the tilted limestones that encircle the
+crystalline core. Devils Tower National Monument
+is a near-vertical erosional remnant of an
+igneous intrusion on the western periphery of
+the Black Hills in Wyoming.</p>
+
+<p>Farther north and east are the Glaciated Interior
+Plains of northeastern Montana, northern
+and eastern North Dakota, and eastern
+South Dakota in the United States and Alberta,
+Saskatchewan, and Manitoba in Canada.
+For this encyclopedia, the northern limits
+of the Great Plains in Canada have been defined
+on the basis of a biogeographic boundary,
+the Parkland Belt, which roughly corresponds
+to the Manitoba Escarpment on the
+east-northeast and the North Saskatchewan
+River valley on the north. Within this part of
+the Glaciated Interior Plains, remnants of Tertiary
+fluvial sediments shed from the Rockies
+form prominent topographic features, including
+the Hand Hills and Swan Hills of western
+Alberta, the Cypress Hills of southern Saskatchewan,
+Wood Mountain in southern Saskatchewan,
+northern Montana, and northern
+North Dakota, and Turtle Mountain in southern
+Manitoba and northern North Dakota.
+Elsewhere, the landscape is mostly underlain
+by sedimentary rocks of Cretaceous age and
+bears the imprint of the numerous glaciations
+of the Pleistocene Ice Ages, especially the most
+recent glaciation that ended 10,000 to 12,000
+years ago. Accordingly, Cretaceous rocks are
+mostly covered by glacial sediments and landforms,
+and the landscape is flat to gently rolling
+with numerous shallow internally drained
+depressions, scattered low-relief hills, and narrow
+incised river valleys that originated as
+meltwater channels. The Red Deer River valley,
+east of Calgary, Alberta, is an example of a
+former meltwater channel, with postglacial
+dissection having created the extensive badlands
+topography that is best known for the
+fossils discovered at Dinosaur Provincial Park.
+The numerous glacial advances have also disrupted
+and diverted the preglacial drainage in
+the region, so that major rivers that originate
+in the Canadian Rockies, like the North Saskatchewan
+and South Saskatchewan, used to
+flow to Hudson Bay and the Arctic Ocean, but
+now flow into remnants of large glacial lakes
+in Manitoba. At an even grander scale, the
+upper Missouri River used to flow out of
+Montana and North Dakota to Hudson Bay as
+well, but it was diverted southeast by the glaciers
+to join the Mississippi River and flow to
+the Gulf of Mexico.</p>
+
+<p>The western margins of the High Plains remain
+connected to the Rockies only along the
+Gangplank of southeastern Wyoming and along
+a short reach between Denver and Colorado
+Springs, which forms the divide between the
+Platte and Arkansas River drainages. Elsewhere,
+the Colorado Piedmont lies between the High
+Plains and the Front Range of the Rockies, at
+elevations distinctly lower than the High Plains
+surface, and consists of a series of river terraces
+on which major urban centers of Colorado
+(Colorado Springs, Denver, and Fort Collins)
+have developed. These terraces represent
+former floodplain levels of the South Platte and
+Arkansas Rivers and their principal Rocky
+Mountain tributaries and were formed as they
+cut down through and removed the old High
+Plains's surface and its underlying Tertiary
+fluvial deposits. In many places, terrace surfaces
+and the surrounding dissected bedrock landscape
+are covered by small sand dune fields as
+well. The Raton Section, straddling the border
+between Colorado and New Mexico, lies between
+the High Plains and the Rockies and is a
+landscape dominated by recent volcanic activity,
+with volcanic rocks covering Tertiary
+fluvial deposits and older sedimentary rocks.
+Prominent features include lava-capped tablelands
+such as Raton Mesa and Mesa de Maya
+and a variety of volcanic peaks. Capulin Volcano
+National Monument, for example, rising almost
+1,000 feet above the surrounding landscape, is
+a cinder cone volcano that erupted between
+10,000 and 4,000 years ago. Farther south, the
+broad Pecos Valley lies between the Sangre de
+Cristo Range of the Rockies and the Mescalero
+Escarpment, which defines the western boundary
+to the Llano Estacado. In addition to the
+Pecos River, which originates in the Sangre de
+Cristos and flows south through the Edwards
+Plateau to the Rio Grande, key elements of the
+landscape here include many sinks, depressions,
+and caves, referred to collectively as karst topography,
+that formed as a result of the dissolution
+of ancient limestone bedrock. The bestknown
+solution features are found at Carlsbad
+Caverns National Park.</p>
+
+<p>Two subregions can be recognized to the
+east of the High Plains. The Plains Border of
+southern Nebraska, Kansas, and northern
+Oklahoma is a more dissected continuation of
+the High Plains, as a number of west to east
+flowing rivers (Republican, Solomon, Saline,
+Smoky Hill, Arkansas, Cimarron, North Canadian)
+have cut broad valleys through the Tertiary
+cover, which is only preserved along relatively
+narrow stream divides in the western
+part of this subregion. The Low Rolling Plains
+subregion farther south in Oklahoma and
+West Texas is even more dissected, cut by the
+Canadian, Washita, Red, and Brazos Rivers,
+and completely separated from the High Plains
+by the prominent Caprock Escarpment. Both
+areas have in common westward-dipping pre-
+Tertiary sedimentary rocks, the dissection of
+which has produced a series of alternating
+north–south oriented, relatively featureless
+plains developed in easily eroded shales and
+prominent east-facing scarps developed in
+more resistant sandstones or limestones. In
+addition to the dissected and scarped terrain,
+other notable features include the Arbuckle
+Mountains and Wichita Mountains of southcentral
+Oklahoma, where ancient sedimentary
+and crystalline rocks were uplifted long ago
+and still remain at elevations 650 to 1,000 feet
+higher than the surrounding plains.</p>
+
+<p>The southern limits of the High Plains, or
+Llano Estacado, merge almost imperceptibly
+with the Edwards Plateau, the southernmost
+extension of the Great Plains. The landscape
+here consists of broad tablelands formed in
+pre-Tertiary limestones, punctuated by deeply
+incised bedrock valleys of the major rivers. The
+Pecos River, for example, flows north to south
+until it merges with the Rio Grande, whereas
+the Colorado River and its tributaries drain the
+northern part of the plateau, and the Nueces,
+San Antonio, and Guadalupe Rivers drain the
+southern and southeastern margins. The Central
+Texas Uplift to the north and east of the
+Edwards Plateau is actually a topographic
+basin (often referred to as the Llano Basin) that
+represents an exhumed landscape of ancient
+upwarped sedimentary rocks surrounding a
+crystalline core that was exposed as limestones
+of the Edwards Plateau were completely removed
+by the Colorado River and its tributaries.
+Dissected remnants of limestone tablelands,
+referred to as the Callahan Divide, occur
+north of the Central Texas Uplift and Colorado
+Valley and represent the divide between the
+Colorado drainage and that of the Brazos
+River, whereas more continuous dissected
+limestone topography farther east, wholly
+within the Brazos drainage, is referred to as the
+Lampasas Cut Plain. The southeastern margin
+of the Edwards Plateau is deeply dissected and
+referred to as the Texas Hill Country, whereas
+the Balcones Escarpment, at the foot of which
+the major urban centers of San Antonio and
+Austin have grown, separates the Hill Country
+from the Gulf Coastal Plain Physiographic
+Province.</p>
+
+<closer>
+<signed>Michael D. Blum<lb/>
+Louisiana State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fenneman, Nevin M. <title level="m">Physiography of Western United
+States</title>. New York: McGraw Hill, 1931.</bibl> <bibl>Klassen, R. W.
+"Quaternary Geology of the Southern Canadian Interior
+Plains." In <title level="m">Quaternary Geology of Canada and Greenland</title>,
+edited by R. J. Fulton. Ottawa: Geological Society of Canada,
+1989: 97–174.</bibl> <bibl>Thornbury, William D. <title level="m">Regional Geomorphology
+of the United States</title>. New York: Wiley, 1965.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

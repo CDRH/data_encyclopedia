@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sports and Recreation</title>
+<title level="m" type="sub"></title>
+<author>Jeff Stuyt</author>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.001</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stuyt, Jeff">Jeff Stuyt</author> and <author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Sports and Recreation."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">763-766</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SPORTS AND RECREATION</head>
+
+<p>In many respects, sports and recreation in
+the Great Plains are no different from those
+activities in other North American regions.
+Every weekend, parents take their boys and
+girls to play in local soccer leagues, college
+football teams compete for honors on the
+gridiron, and golfers stride the fairways. But
+in important ways, there are attributes of
+sports and recreation that are specific to the
+Great Plains or are particularly emphasized in
+the Great Plains and that are, therefore, distinguishing
+characteristics of the region's personality.
+Six-man football, for example, is a Plains
+innovation, a response to a sparse population
+in rural areas and the inadequate supply of
+players for the conventional game. There are
+annual events such as the Calgary Stampede,
+the Crow Fair, and the Sturgis Motorcycle
+Rally that are purely Plains affairs, and there
+are the great sportsmen and sportswomen
+such as Jim Thorpe, Gordie Howe, and Nancy
+Lopez whose achievements have brought distinction
+to the region. More mundanely, there
+is the small-town ritual of "cruising around"
+from the Dairy Queen to the cornfields and
+back; the tractor pull, a featured event at
+county and state fairs; and the softball game, a
+true community event and intergenerational
+activity. Any discussion of sports and recreation
+in the Great Plains, however, must start
+with Native American games, which were
+played throughout the region for centuries.</p>
+</div1>
+
+<div1>
+<head type="sub">Native American Traditions</head>
+
+<p>Traditionally, Native American games were
+inseparable from their religions. Native American
+creation stories often involved contests
+between two opposing Twin Gods armed with
+clubs or bows and arrows. Games were replays
+of those creation stories while at the same
+time providing forums for achievement, recreation,
+and gambling.</p>
+
+<p>Native American games fall into two broad
+categories: games of chance and games of dexterity.
+The former includes dice games and
+hidden ball games; the latter includes archery,
+the snow snake, the hoop and pole game, and
+various ball and running games. Many of
+these games were played throughout Native
+North America, but all had their local expressions
+in the Great Plains.</p>
+
+<p>Dice games, involving dice made from many
+different materials, were played by every Plains
+tribe. They were generally played at night after
+the day's labor was done, and they sometimes
+went on all night, with considerable stakes involved.
+More often than not, they were played
+by women. Blackfeet women in Montana, for
+example, used four elaborately etched bison
+rib bones as dice. Sitting opposite each other,
+the women threw the dice on the ground,
+adding scores according to which side was up,
+until a winning score of twelve was attained.
+Omaha and Cheyenne women used plum
+stones with patterns burned into one side, and
+the dice were thrown into a wooden bowl or
+basket.</p>
+
+<p>The hand game was one of the most widely
+played games of chance. Because it was done
+entirely by gesture, it could be played between
+members of different tribes who did not speak
+each other's language. In this game, an object
+made of bone, wood, shell, or hide was moved
+rapidly from hand to hand by one of the players.
+The opposing player, carefully tracking the
+sleight of hand, had to judge which hand held
+the object. The performance was accompanied
+by singing, which started out low and built to a
+crescendo as the swaying player switched the
+object back and forth until a hand was chosen.
+This was a man's game and often an occasion
+of competition between members of different
+tribes. There is an account of such a game on a
+Kiowa calendar from 1881-82. A Kiowa leader,
+Buffalo Bull Coming Out, was challenged by
+an Apache chief and medicine man. Both
+claimed the supernatural powers necessary to
+win. A large crowd waged prized possessions
+on the outcome, and the victory went to the
+Kiowa chief.</p>
+
+<p>Games with bows and arrows were ubiquitous
+in the Great Plains and took many
+forms. For example, Pawnee boys or men
+would try to shoot arrows across another arrow
+that had been placed on the ground. The
+winner took all the arrows. In one Mandan
+version, young men, having paid an entry fee
+of a bison robe or other valued item, would
+shoot arrows in the air, one after the other.
+The winner who kept the most arrows in the
+air at one time took the prizes home.</p>
+
+<p>The snow snake was another game of dexterity
+that was played wherever frozen conditions
+prevailed. Played by men and women,
+young and old, it involved sliding polished
+rocks, shaped bones, or spears along a track in
+the ice or snow. The player who slid the implement
+the farthest or the most accurately to a
+designated point was the winner.</p>
+
+<p>The hoop and pole game, in a great variety
+of versions, was played throughout the region.
+A hoop made of wood, often covered with
+rawhide and netted in various designs, was
+rolled down a flattened track. The contestants
+(two men) tried to throw rods through the
+hoop or across the hoop as it started to fall.
+Again, there was gambling on the outcome of
+the game, but this did not obscure its religious
+implications. The Skidi Pawnee, for example,
+played the game to attract the bison, the rods
+representing bison bulls and the hoop a bison
+cow.</p>
+
+<p>Lacrosse was played on the Northern Great
+Plains and in Indian Territory in the second
+half of the nineteenth century, although it
+was more common in eastern North America.
+Shinny, played with a curved wooden bat and
+a wooden or buckskin ball, was more prevalent
+on the Plains. Shinny was particularly a
+woman's game, although it was also played by
+men and sometimes by men against women.
+The objective was to knock the ball through
+the opponent's often-distant goal. Footraces
+were also common, and, for a man, being a
+celebrated runner, especially over long distances,
+was valued only behind being a successful
+warrior and hunter.</p>
+
+<p>Many of these games died out as European
+American games and sports were adopted. Of
+the introduced sports, none was more suited
+to Native American skills and tradition than
+rodeo, which continues the horsemanship
+skills of the Plains Indians. Continuity is also
+apparent in other developments. The contemporary
+powwow combines ceremony, gift giving,
+and the athleticism and grace of dance
+competition. Gaming, which so rapidly developed
+on reservations in the 1990s, clearly continues
+the deeply rooted Native American tradition
+of gambling. Long-distance running
+remains a Native American specialty, epitomized
+by Billy Mills, a Lakota from Pine Ridge
+Reservation who shot from the pack during
+the final 200 meters of the 10,000-meter final
+race at the 1964 Tokyo Olympics, breaking the
+Olympic record in the process. And in any list
+of the twentieth century's top athletes, Jim
+Thorpe of the Sauk and Fox Tribe of Oklahoma
+must surely rank near the top.</p>
+</div1>
+
+<div1>
+<head type="sub">Sports and Recreation on the Great Plains Frontier</head>
+
+<p>On the overland trails in the 1840s and 1850s
+and on the farms and ranches that were the
+foundation of nineteenth-century Plains society,
+there was little time for sports and recreation.
+On the trails, in the evening, when the
+horses were tethered and the dinner dishes
+cleared away, the sounds of a fiddle and laughing
+dancers might attest to a brief period of
+recreation before the serious business of a
+good night's sleep intervened. On the farm,
+the end of the harvest became an occasion for
+celebration and perhaps a community picnic,
+and work tasks like quilting and raising barns
+were facilitated by bringing neighbors together
+in a social event.</p>
+
+<p>The Great Plains frontier was not only
+rural, however. In fact, towns were often created
+first: there had to be central places to
+provide land offices, goods and services, and
+market outlets for prospective farmers. These
+towns were points of connection, via railroad,
+telegraph, and newspaper, to the larger and
+more sophisticated cities to the east. Fads and
+fashions diffused westward, including new varieties
+of recreation and sports.</p>
+
+<p>At the booming Kansas cattle towns of
+Wichita, Caldwell, and Dodge City in the 1880s
+there were two distinct seasons of recreational
+activities and two distinct social groups to pursue
+them. During late spring and summer, the
+cattle drives reached the towns, and the streets
+and saloons became a constant carnival. During
+the fall and winter season, the towns were
+left to their sedate, permanent populations and
+their respectable church socials and dances.
+These two groups represent, perhaps in exaggerated
+form, the larger American society of
+the time: the growing middle class, with its
+Victorian mores, emphasizing hard work and
+self-control, values that were antithetical to exciting
+sports and idle recreation; and the underclass
+(along with debauched aristocrats),
+which placed a much higher premium on play.</p>
+
+<p>When the cattlemen reached the railhead
+towns, the respectable population withdrew.
+The towns filled up with actors, musicians,
+and other showmen. Bustling street scenes featured
+cockfights, bear baiting, pugilists, organ
+grinders with their monkeys, and tightrope
+walkers. The saloons and dance halls
+throbbed. The only time the two social strata
+mixed were when the circus (a European import)
+came to town or at an occasional polo
+game, which seemingly was genteel enough for
+the upper crust yet a natural for the cowboys.</p>
+
+<p>When the cowboys left, resident social life
+took over. Culture was emphasized, with traveling
+acting troupes staging Shakespeare as
+well as popular melodramas. An opera house
+was essential. Light opera, particularly Gilbert
+and Sullivan, dominated the stage. Drama and
+literary societies flourished: the dawn of the
+"machine age" had ushered in an era of leisure
+for the middle classes, and in the Victorian
+era, leisure was to be used in edifying ways.</p>
+
+<p>Individual, though again genteel, sports became
+popular in the 1880s. Croquet, suitable
+for women constrained by corsets, was the rage
+in the Kansas cattle towns in the 1880s. It provided
+a suitable context for courting. The contemporaneous
+American bicycle craze, however,
+did not take hold in Plains towns where
+the streets were often mud and everyone rode
+horses or, another innovation, drove a horse
+and buggy. Roller-skating was also very popular
+and the only one of the individualized
+sports to be commercialized. In 1884, for example,
+the citizens of Caldwell converted the
+lower floor of the Grand Opera House into a
+65-by-15-foot rink. Not to be outdone, the following
+year Dodge City opened a skating rink
+and opera house with a 100-by-300-foot floor
+and a gallery for spectators, a relatively new
+development in sports and recreation.</p>
+
+<p>Organized spectator sports were in their infancy
+in the 1880s throughout North America.
+Horse racing was an attraction for the citizens
+of the cattle towns, but baseball was the main
+spectator sport. Settlers coming into Kansas
+brought the sport with them. By 1867 Leavenworth
+was home to the Frontier Baseball
+Club, and by the 1880s there were competitive
+teams in Dodge City, Wichita, and Caldwell.
+The rules favored the batter (more effective
+overhand pitching was not permitted until
+1884), which explains how Wichita could defeat
+Emporia by a score of 58 to 27.</p>
+
+<p>Plains towns were not only importers of
+eastern fads; they also produced their own entertainers.
+On July 4, 1882, William F. Cody first
+featured his combined rodeo-circus-drama at
+North Platte, Nebraska. By 1887 Buffalo Bill's
+Wild West show was touring Europe. At the
+same time, the Dodge City Cowboy Band, regaled
+in exaggerated Western outfits, was playing
+to enthusiastic reviews throughout the
+Midwest. Significantly, these shows were not
+as popular in their home states, where they
+seemed phony, as they were in distant places,
+where they confirmed stereotypes.</p>
+
+<p>The late nineteenth century also saw the beginning
+of organized sports in the Prairie
+Province region of Canada. This was allowed
+by the same developments that were taking
+place in the United States, not least of which
+were improved transportation systems that enabled
+teams and spectators to move between
+venues. But the situation in the Prairie Provinces
+was diãerent from that in the American
+Great Plains in significant ways. A stronger
+British heritage was expressed in the greater
+popularity of sports such as cricket, rugby, soccer,
+and especially curling. The long and frigid
+winters reinforced the popularity of curling
+and stimulated the growth of ice hockey as well
+as indoor sports such as basketball. However,
+the isolation of the Prairie Provinces from the
+coasts, even after the completion of the Canadian
+Pacific Railway in 1885, resulted in north.
+south connections across the international
+boundary, which eventually introduced a
+strong American influence into the regional
+sporting scene, displacing traditional British
+sports.</p>
+
+<p>The initial British influence on Prairie
+Provinces sports and society is shown, for example,
+in the founding of the Qu'Appelle,
+Saskatchewan, hunt club in 1889. The club
+purchased its hounds from the Toronto Hunt
+Club. The earliest introduced competitive
+team sports in the region were cricket and soccer.
+There was a Northwest Cricket Club in
+Manitoba, for example, in 1864. Soccer was
+often played by North-West Mounted Police
+teams against teams from local communities.
+Curling, introduced from Scotland (and still
+governed by the parent body based in Scotland
+as late as 1900), was both a major competitive
+sport and the main winter pastime of
+urban and rural dwellers throughout the region.
+Manitoba was generally the national
+curling champion in the 1920s and 1930s.</p>
+
+<p>By 1905 ice hockey was the main competitive
+sport in the Prairie Provinces; every town, no
+matter how small, had a rink and a team. From
+its origins in Montreal in the 1880s, the game
+expanded to Manitoba by 1890. In its early
+years, ice hockey was a middle-class sport and
+strictly amateur. The first city leagues in Winnipeg,
+Regina, and Edmonton were sponsored
+by colleges, banks, newspapers, and churches.
+The institutionalization of ice hockey in the
+schools ensured a steady supply of players, and
+gradually Prairie Provinces teams were able to
+compete with the established eastern teams. In
+1920, at the Antwerp Olympics, the Winnipeg
+Falcons proved that the Canadians were the
+best in the world by winning all their games
+and the gold medal. The tradition has continued:
+the Edmonton Oilers of the 1980s were
+one of the finest teams of all time.</p>
+
+<p>The Prairie Provinces, however, were also
+receptive to the developing American national
+sports, basketball, baseball, and football. This
+was largely the result of the northward migration
+of Americans across the forty-ninth parallel
+in the late nineteenth and early twentieth
+centuries. The Mormon community in Raymond,
+in southern Alberta, was particularly
+influential in the establishment of basketball.
+In this area, basketball was also aided and
+abetted by the warm chinook winds, which
+frequently melt the ice, thus impeding outdoor
+curling and ice hockey. Basketball caught
+on widely: from 1915 to 1940 the Edmonton
+Grads were the best women's team in the
+world.</p>
+
+<p>Baseball and American football (with Canadian
+variations) developed at the expense of
+cricket and rugby, demonstrating the growth
+of the American influence on Canadian society
+in general. Baseball became the main
+summer sport and recreational activity in the
+Prairie Provinces soon after 1900. No sports
+day or Dominion Day in a small town was
+complete without an intercommunity game.
+At the professional level (money was involved
+in Canadian baseball from the start), teams
+from Edmonton and Winnipeg were playing
+American rivals from Grand Forks, Fargo, and
+Jamestown by 1905. Similarly, Canadian football
+teams, often associated with universities,
+were competing against teams from North
+Dakota by 1920. Clearly, in the arena of competitive
+sports in the early twentieth century,
+the Northern Great Plains and the Prairie
+Provinces were part of the same region.</p>
+</div1>
+
+<div1>
+<head type="sub">Twentieth-Century Scenes</head>
+
+<p>In the twentieth century, Plains sports, like
+sports elsewhere in North America, became institutionalized
+and commercialized to an extent
+that could not have been imagined when organized
+sports were in their infancy in 1900. Baseball
+led the way, complete with its hierarchy of
+leagues, its famous stadiums, and its World Series.
+Top players, both heroes and villains, were
+as famous as Hollywood stars. Far from this
+glamour, in small towns throughout the Plains
+young men played in the summer minor
+leagues, dreaming of emulating their heroes or
+at least of making enough money to attend
+college. For two generations before 1950, baseball
+held the promise, an illusion for most, of a
+life beyond the local.</p>
+
+<p>After 1950 television changed the nature of
+sports (for example, adding at least thirty
+minutes of commercials to each professional
+football game) and moved the spectator into
+the living room. This, in turn, changed recreational
+patterns, resulting in some people
+spending a substantial amount of time in the
+armchair in front of television sports. Countering
+this, and partly in reaction to it, was the
+rise of mass participation in sports and leisure
+activities as the foundation for a healthy lifestyle.
+Indeed, in the second half of the twentieth
+century, as the following examples demonstrate,
+some people's identities became
+linked as much to what they did in their leisure
+time as to what they did for a job.</p>
+
+<p>Football, particularly college and high
+school football, is the preeminent competitive
+sport and a powerful shaper of community
+identity over much of the Great Plains. The
+professional game is also important but less
+pervasive on the American Plains, because the
+region's teams are few (the Denver Broncos
+and the Kansas City Chiefs) and in peripheral
+locations. In the Prairie Provinces, the Canadian
+version of football (with its larger field,
+twelve-man teams, and three downs to advance
+the ball ten yards) is well represented
+in successful professional teams in Calgary,
+Edmonton, and Winnipeg. But there, ice
+hockey has pride of place in both allegiance
+and participation.</p>
+
+<p>College football on the American Great
+Plains is more than a sport. For better or
+worse, the prestige and self-respect of states
+are intimately connected to the fortunes of
+their university football teams. There has, indeed,
+been great success: the University of
+Oklahoma was national champion in 1950,
+1955, 1956, 1974, 1975, and 2000, the University
+of Nebraska–Lincoln won the honor in 1970,
+1971, 1994, 1995, and 1997 (shared), and the
+University of Colorado was the nation's best
+college team in 1991 (shared). Eleven Heisman
+Trophy winners have rushed and passed their
+ways out of Plains universities. Stadiums are
+consistently filled on game days. Memorial
+Stadium in Lincoln, Nebraska, temporarily
+becomes the state's third largest population
+concentration when the Cornhuskers are
+playing at home. Iconography abounds as
+supporters don their team's colors, and team
+flags proclaim allegiance up and down the
+block. Stores, restaurants, and bars do more
+business than the rest of the week combined.
+Universities do well too: the football coach is
+often the highest paid employee, and successful
+teams like Nebraska have athletic department
+budgets (garnered from merchandise
+sales, concessions, television contracts, and
+game receipts) that small countries might well
+envy.</p>
+
+<p>The heart of Plains football, however, beats
+fastest in the innumerable small towns that
+punctuate the region's sparsely populated
+spaces. Local high school teams are emblems
+of community pride. Their successes are proclaimed
+on the sign that greets the visitor to
+the town (Class C State Champions, 1954),
+and their failures are lamented in taverns and
+coffee shops. Within the Great Plains, there is
+no more important high school football tradition
+than in Texas and Oklahoma.</p>
+
+<p>Sports geographer John Rooney has proven,
+quantitatively, that the Southern Great Plains
+is one of the two most important areas of high
+school football in the United States, producing
+more players for the college game than any
+others. (The other region is the northern Appalachians
+of Pennsylvania, Ohio, and West
+Virginia, significantly, an early source for
+many migrants to the Texas and Oklahoma oil
+fields.) The counties centered on the Texas oil
+towns of Midland and Odessa, the Texas Panhandle,
+and a broad zone reaching from about
+Abilene, Texas, into western Oklahoma turn
+out approximately four times as many college
+football players per capita than the national
+average. Rugged individualism, the lack of alternative
+outlets for achievement, deep-rooted
+traditions, and strong community support are
+some of the reasons for this preeminence. In
+some small towns in Texas, more than 50 percent
+of the males try out for the football team,
+and stadium capacities often exceed the communities'
+populations. There is a dark side to
+this, however. Enthusiasm crosses over into
+fanaticism, performance in the classroom becomes
+less important than performance on the
+field, and people's lives are collapsed into football,
+which is, after all, only a game.</p>
+
+<p>Rodeo is also more prominent in the Great
+Plains than in other Canadian and American
+regions. The sport emerged from the Plains
+open range cattle era and remains closely connected
+to ranching. The first "cowboy tournaments"
+("rodeo," from the Spanish rodear,
+which means "to encircle," was not used until
+the early twentieth century) took place on the
+range in the 1870s, as practical skills of roping
+and riding were displayed in competitions between
+different outfits. The contests evolved,
+attracted spectators, and moved from the
+range to towns. Early competitions were often
+associated with Wild West shows, which featured
+bucking, roping, and steer-wrestling
+competitions. Cheyenne Frontier Days, first
+held in 1897 (and held annually since that
+time), initially combined these rodeo contests
+with Wild West activities such as sham battles
+and stagecoach holdups.</p>
+
+<p>As rodeo evolved, its procedures were formalized,
+and professional governing bodies
+were organized. The Rodeo Association of
+America was formed in 1928, later to mature
+into the Professional Rodeo Cowboys Association.
+The Canadian Rodeo Association was organized
+in 1944. In 1929 the Rodeo Association
+of America began naming an all-around champion
+based on performances in bareback riding,
+bull riding, calf roping, saddle bronc riding, and
+steer wrestling. These events remain standard in
+any rodeo, regardless of location. Barrel racing is
+included in some rodeos but often as a side
+event: in the predominantly male world of competitive
+rodeo, this is the only event that women
+and girls are allowed to enter. Women as rodeo
+queens, do, however, play important roles in
+rodeos, especially in promoting the event. There
+are separate women's rodeos, sponsored by the
+Women's Professional Rodeo Association of
+Blanchard, Oklahoma, and the greatest of all
+women rodeo stars, Barbara Tad Lucas, is from
+the Plains. There is also a junior circuit, with
+another Plains organization, the Little Britches
+Rodeo Association of Colorado Springs, a major
+sponsor. The primacy of the Great Plains
+region in this sport is further confirmed by the
+location of the headquarters of the Professional
+Rodeo Cowboys Association in Colorado
+Springs and the Canadian Rodeo Association
+in Calgary.</p>
+
+<p>The prestigious rodeos such as Cheyenne
+Frontier Days and the Calgary Stampede are
+major economic and cultural events. In the
+1980s, by one estimate, more than $3 million
+flowed into Cheyenne businesses during rodeo
+days. So ingrained is cowboy culture in
+the thoroughly modern city of Calgary that
+when a new indoor sports arena was constructed
+for the 1988 Winter Olympics it was
+named the Saddledome, and the roof was
+shaped accordingly. But, like high school football,
+the foundations of rodeo are local. In
+hundreds of communities from spring to fall,
+at fairs and carnivals, at colleges and impromptu
+affairs, the cowboy heritage of the
+Great Plains is celebrated in human-animal
+competitions, reinforcing the regional sense
+of rugged individualism.</p>
+
+<p>Hunting, of course, also harks back to the
+region's recent frontier past, to a time when
+relations with nature were adversarial. Hunting
+for food may not be the necessity that it
+once was, but there is no denying that hunting
+retains its elemental role in Plains life. In every
+one of the Plains states, adults hunt, fish, and
+participate in other wildlife-associated recreation
+to a degree well above the national average.
+In North Dakota, for example, in 1985
+45 percent of the adult population hunted,
+fished, or engaged in such "nonconsumptive"
+activities as wildlife observation and activity.
+These sporting and recreational activities
+earned $108 million for North Dakota that
+year from trip-related expenses, equipment,
+and permits. Some of this income is applied to
+wildlife preservation.</p>
+
+<p>However, only 18 percent of North Dakotans
+hunt exclusively. In fact, there is concern
+in Plains states that hunting is a dying tradition.
+Although more women are hunting, the
+total number of hunters has been falling in
+recent years. Young people are not joining the
+ranks of hunters as much as in the past, despite
+efforts by states, through hunter education
+courses, to encourage them to do so. Opposition
+groups such as the Fund for Animals may
+be partly responsible for the decline of hunting.
+In the late 1990s the Fund for Animals
+offered a mountain bike valued at $1,000 to the
+first Wyoming youngster to turn in his or her
+permit for a special elk hunt and give up hunting
+for a season. No one took up the offer, but
+it does underscore the serious nature of activism
+against hunting. Other societal trends
+such as urbanization and multiple jobs, which
+reduce leisure time, may also be causes of the
+decline of participation in hunting.</p>
+
+<p>Hunting and fishing are also controversial
+in other ways in the Great Plains. The landmark
+case <title>Montana v. United States</title>, which
+was decided by the Supreme Court in 1981,
+concerned the right of the Crow tribe to regulate
+hunting and fishing on lands within its
+reservation owned by non-Indians. The Court
+agreed that the Crows have the right to regulate
+non-Indian hunting on Indian lands on
+the reservation but denied that they have the
+right to regulate non-Indian hunting on non-Indian
+lands unless hunting threatened the
+tribe's political or economic security. Reservations
+up and down the Plains are patchworks
+of Indian and non-Indian lands, so hunting
+and fishing on reservations becomes a complicated
+matter, both practically and legally, involving
+contentious issues of sovereignty between
+tribes and states.</p>
+
+<p>There is ample opportunity for Great Plains
+residents and visitors to enjoy the physical environment
+and cultural heritage of the region
+in lands set aside expressly for that purpose.
+Innumerable state parks, many of them the
+product of the Civilian Conservation Corps in
+the 1930s, are scattered throughout the Great
+Plains. North of the international boundary
+provincial parks provide similar hunting, fishing,
+and scenic amenities.</p>
+
+<p>National parks are relatively few (Theodore
+Roosevelt National Park in North Dakota,
+Badlands and Wind Cave National Parks in
+South Dakota, Carlsbad Caverns National
+Park in New Mexico, Riding Mountain National
+Park in Manitoba, and Elk Island National
+Park in Alberta), but there are many
+national monuments, national historic sites,
+and national recreation areas throughout the
+region.</p>
+
+<p>As might be expected, national forests are
+also few. Indeed, the presence of any&#8211;for example,
+the McKelvie National Forest in the
+Nebraska Sandhills, which, after frequent
+fires, looks more like a savanna than a forest&#8211;may
+well seem like an ecological anomaly. The
+Great Plains, however, stand out on the map
+of national grasslands: seventeen of the twenty
+largest sites in the United States are in the region,
+including the largest, the Little Missouri
+National Grassland of North Dakota. That
+state also has the nation's major concentration
+of national wildlife areas, places put aside for
+the protection of endangered species or for
+the conservation of animals for hunting. Fully
+108 of the total 844 national wildlife areas in
+the United States are in the prairie pothole
+lands of North Dakota.</p>
+
+<p>Finally, it should be noted that from Denver
+and Calgary as well as from smaller urban
+concentrations in the lee of the Rocky Mountains,
+ski slopes and other sporting and recreational
+riches of the High Country are right
+at hand. Plains residents may be proud of
+their wide horizons and flowing grasslands,
+but that's no reason to eschew convenient
+mountains.</p>
+</div1>
+
+<div1>
+<head type="sub">Future Scenarios</head>
+
+<p>Given the accelerating pace of change in Great
+Plains sports and recreation over the last century,
+from the croquet craze in the Kansas cattle
+towns to the proliferation of spectator
+sports options in the age of television, it is
+difficult to anticipate future scenarios. New
+legislation can radically alter the sporting
+scene in a relatively brief period of time. Title
+IX of the Education Amendments Act of 1972,
+for example, ushered in a new era of competitive
+women's sports at American universities.
+There is now no fiercer rivalry in Plains sports
+than the Texas Tech.University of Texas women's
+basketball game. Changes in society can
+mean the demise of traditional sports. With
+continuing rural depopulation and associated
+school consolidation, six-man football will
+probably fade from the scene. Changes in
+technology can produce unforeseen opportunities
+for recreation. The abandonment of
+railroad tracks and their conversion into biking,
+hiking, and bridle trails (Rails to Trails)
+have greatly enhanced recreation in the Great
+Plains in recent years, allowing access into the
+countryside instead of around the perimeters
+of gridded farmland. Through satellite dishes,
+cable, and the Internet, Great Plains residents,
+no matter how isolated, now have easy access
+to international sports such as soccer or rugby
+that may well compete with national sports
+like football and rodeo for allegiance in the
+future. Still, the hold of those homegrown
+sports is tenacious. They are rooted in the region's
+past, and they continue to define its
+identity.</p>
+</div1>
+
+<div1>
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.011">Cattle Towns</ref> /
+<hi rend="smallcaps">GENDER</hi>: <ref n="egp.gen.030">Rodeo Queens</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.015">Cowboy Culture</ref>; <ref n="egp.ii.025">Friday Night Football</ref>; <ref n="egp.ii.061">Wild West Shows</ref> / <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.033"><hi rend="italic"><title>Montana v. United States</title></hi></ref> /
+<hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.018">Frontier Opera Houses</ref>.</p>
+</div1>
+
+<div1> <p/>
+<closer>
+<signed>Jeff Stuyt</signed>
+<signed>Lubbock, Texas</signed>
+<signed>David J. Wishart</signed>
+University of Nebraska-Lincoln</closer>
+</div1>
+
+<div1>
+<bibl>Bissinger, H. G. <title level="m">Friday Night Lights: A Town, a Team, and a
+Dream</title>. New York: HarperCollins, 1990.</bibl> <bibl>Culin, Stewart.
+<title level="m">Games of the North American Indians</title>. Bureau of American
+Ethnology, 1902-3. Washington <hi rend="smallcaps">DC</hi>: Government Printing
+Office, 1907.</bibl> <bibl>Fredriksson, Kristine. <title level="m">American Rodeo: From
+Buffalo Bill to Big Business</title>. College Station: Texas A&amp;M
+University Press, 1985.</bibl> <bibl>Haywood, C. Robert. <title level="m">Victorian
+West: Class and Culture in Kansas Cattle Towns</title>. Lawrence:
+University Press of Kansas, 1991.</bibl> <bibl>Howell, Maxwell L., and
+Reet A. Howell. <title level="m">History of Sport in Canada</title>. Champaign <hi rend="smallcaps">IL</hi>:
+Stipes Publishing Company, 1985.</bibl> <bibl>Lawrence, Elizabeth Atwood.
+<title level="m">Rodeo: An Anthropologist Looks at the Wild and
+Tame</title>. Chicago: University of Chicago Press, 1982.</bibl> <bibl>Metcalfe,
+Alan. <title level="m">Canada Learns to Play: The Emergence of Organized
+Sport, 1807-1914</title>. Toronto: McClelland and Stewart
+Ltd., 1989.</bibl> <bibl><title level="m">National Survey of Fishing, Hunting, and Wildlife-Associated
+Recreation: North Dakota</title>. Washington <hi rend="smallcaps">DC</hi>:
+Department of the Interior, 1989.</bibl> <bibl>Rader, Benjamin G.
+<title level="m">American Sports: From the Age of Folk Games to the Age of
+Televised Sports</title>. Englewood Cliffs <hi rend="smallcaps">NJ</hi>: Prentice-Hall, 1996.</bibl>
+<bibl>Rooney, John F., Jr. <title level="m">A Geography of American Sport: From
+Cabin Creek to Anaheim</title>. Reading <hi rend="smallcaps">MA</hi>: Addison-Wesley
+Publishing Company, 1974.</bibl> <bibl>Zinser, Charles I. <title level="m">Outdoor Recreation:
+United States National Parks, Forests and Public
+Lands</title>. New York: John Wiley and Sons, 1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

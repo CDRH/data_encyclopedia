@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Clement, Amanda (1888-1971)</title>
+<title level="m" type="sub"></title>
+<author>Gai Ingham Berlage</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.008</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Berlage, Gai Ingham">Gai Ingham Berlage</author>. <title level="a">"Clement, Amanda (1888-1971)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">768</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CLEMENT, AMANDA (1888-1971)</head>
+
+<p>Amanda Clement was born on March 20,
+1888, in Hudson, South Dakota. She became
+the first paid female umpire in men's baseball.
+Her career occurred quite by accident. Two
+lodge teams were scheduled to play a game
+before her brother's semipro game when the
+umpire did not show up. Her brother suggested
+that they ask Amanda. Clement's umpiring
+was so fair that her brother's team
+and other semipro teams enlisted her services.
+Subsequently, from about 1904 to 1911, she
+umpired about fifty semipro games each summer
+in the Dakotas, Nebraska, Minnesota,
+and Iowa, earning between $15 and $25 per
+game.</p>
+
+<p>Being a professional umpire in the early
+twentieth century was not only a man's occupation
+but was also dangerous. Several
+minor-league umpires lost their lives, and
+many minor and major leaguers were assaulted
+by angry fans. Yet Clement never experienced
+any abuse. Fans and players respected
+her expertise. Gamblers liked her because her
+calls could not be bought. Baseball promoters
+delighted in her drawing power as the "Only
+Lady Umpire in the World." And sportswriters
+enjoyed bragging that "South Dakota has
+a woman umpire who is said to be about
+the best preserver of the peace in the whole
+northwest."</p>
+
+<p>Amanda Clement in many ways epitomized
+the modern woman. An all-around athlete,
+she made her mark in history by being the first
+woman baseball umpire, but she also worked
+as a newspaper reporter, city assessor, justice
+of the peace, and social worker. She died on
+July 20, 1971, in Sioux Falls, South Dakota.</p>
+
+<closer>
+<signed>Gai Ingham Bridge<lb/>
+Iona College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berlage, Gai Ingham. <title level="m">Women in Baseball: The Forgotten
+History</title>. Westport <hi rend="smallcaps">CT</hi>: Praeger, 1994.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

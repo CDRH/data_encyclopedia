@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gale, Dorothy</title>
+<title level="m" type="sub"></title>
+<author>Thomas Fox Averill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Averill, Thomas Fox">Thomas Fox Averill</author>. <title level="a">"Gale, Dorothy."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">387&#8211;388</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GALE, DOROTHY</head>
+<figure n="egp.ii.027" rend="granted" type="noclick">
+<figDesc>Dorothy with the silver shoes, illustrated by W. W. Denslow</figDesc>
+</figure>
+
+<p>Although <hi rend="italic">The Wonderful Wizard of Oz</hi> (1900) features <persName reg="Gale, Dorothy">Dorothy</persName> as the main character, she had no surname until the third Oz book, <hi rend="italic">Ozma of Oz</hi> (1907). Most readers associate <persName reg="Gale, Dorothy">Gale</persName> with the cyclone that swept <persName reg="Gale, Dorothy">Dorothy</persName> to Oz in the first place, but the book in which she is named transports her to Oz via a maelstrom at sea: <persName reg="Gale, Dorothy">Dorothy</persName> and Uncle Henry are traveling to relatives in <placeName rend="country" key="au" reg="Australia">Australia</placeName> so that he can rest from all the hard work he's done on his <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> farm. But <persName reg="Gale, Dorothy">Dorothy Gale</persName> and a "gale" of wind make a logical association. Interestingly, when <persName reg="Baum, L. Frank">L. Frank Baum</persName> was editor of the <hi rend="italic"><orgName rend="newspaper" key="news.asp" reg="Aberdeen Saturday Pioneer">Aberdeen (Dakota Territory) Saturday Pioneer</orgName></hi>, he published long and frequent accounts of <geogName rend="region" reg="Great Plains">Great Plains</geogName> weather. In 1879 six Gales of <placeName rend="settlement" key="ks.irv" reg="Irving, Kansas">Irving, Kansas</placeName>, were killed in a nationally famous double tornado. The <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> state song, "Home on the Range," widely adapted to many locations during the nineteenth century, starts its second verse with "Oh, give me the gale, of the Solomon vale." Perhaps <persName reg="Baum, L. Frank">Baum</persName> was simply echoing the surname of his mother-in-law, <persName reg="Gage, Maude">Maude Gage</persName>.</p>
+
+<p>However <persName reg="Gale, Dorothy">Dorothy</persName> came by her last name, she is a famous <geogName rend="region" reg="Great Plains">Great Plains</geogName> citizen and a true westerner. She is an agent for change: she kills two witches in Oz (one with a house, the other with water, just as many pioneers used those weapons to great effect on the <geogName rend="region" reg="Great Plains">Plains</geogName>), and she substitutes benevolent rulers in their places. She is loyal to home and once in Oz determinedly sets her mind to returning to it. Nothing sways her resolve. She unites various people and creatures in democratic fashion, she's very practical, she's conscientious and clean (mopping up the "mess" of the melted Wicked Witch of the West), and she acts calmly, without fear, in spite of her age. Finally, she knows life on the <geogName rend="region" reg="Great Plains">Plains</geogName>, explaining that her desire for a quick return home comes from her assumption that Aunt Em will think she's dead and that the poor woman cannot afford mourning clothes if the crops are no better than they were the year before.</p>
+
+<p>In subsequent books, <persName reg="Baum, L. Frank">Baum</persName> tired of disasters as vehicles to transport <persName reg="Gale, Dorothy">Dorothy</persName> to Oz, and she left the <geogName rend="region" reg="Great Plains">Great Plains</geogName> and <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> in 1910, in <hi rend="italic">The Emerald City</hi> of Oz, to take up permanent residence as part of Ozma's court. <persName reg="Baum, L. Frank">L. Frank Baum</persName> lasted only three years in the <geogName rend="region" reg="Great Plains">Great Plains</geogName>; <persName reg="Gale, Dorothy">Dorothy Gale</persName> lasted ten. Together they gave the region one of its admirable citizens, someone with the heart, brains, and courage to thrive in a difficult environment.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: 
+<ref n="egp.lt.003">Baum, Frank L.</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Thomas Fox Averill<lb/>
+Washburn University</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Averill, Thomas Fox. "<title level="a">Oz and Kansas Culture</title>." <title level="j">Kansas History</title> 12 (1989): 2–12.</bibl> <bibl>Greene, David L., and Dick Martin. <title level="m">The Oz Scrapbook</title>. New York: Random House, 1977.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

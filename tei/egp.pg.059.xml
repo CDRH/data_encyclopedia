@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.059">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">North Dakota</title>
+<title level="m" type="sub"></title>
+<author>Theodore B. Pedeliski</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.059</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pedeliski, Theodore B.">Theodore B. Pedeliski</author>. <title level="a">"North Dakota."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">681-682</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORTH DAKOTA</head>
+
+<p>In 1889, Dakota Territory, which had been created
+in 1861, was divided into the states of
+North and South Dakota. From earliest statehood,
+North Dakota was strongly Republican.
+The delegates to the Constitutional Convention
+in 1889 were overwhelmingly so. The
+Republican machine run by railroad lobbyist
+Alexander McKenzie was challenged by the
+Farmers Alliance and by reform Republicans
+and Democrats who were able to elect Gov. Eli
+Shortridge, a Populist, in 1892, and Gov. John
+Burke, a Democrat, in 1906, 1908, and 1910.
+North Dakota became the spawning ground
+for the Nonpartisan League (<hi rend="smallcaps">NPL</hi>), a populistreform
+organization that was able to capture
+the legislature and statewide offices in 1918 and
+pass a platform including state-owned enterprises
+such as a state bank, flour mill, and hail
+insurance program. The <hi rend="smallcaps">NPL</hi> was nonpartisan
+in name only: it filed its candidates on the
+Republican primary ballot, and the primaries
+became key to control of state government.
+The two Republican factions, the npl and the
+Independent Voters Association, while bitter
+foes, would meet to select national party committeemen
+and divide the delegates selected
+for the National Republican Convention.</p>
+
+<p>The <hi rend="smallcaps">NPL</hi>'s dominance lasted only until 1921,
+when the Independent Voters Association was
+able to bring about a voter recall of the <hi rend="smallcaps">NPL</hi>
+governor, attorney general, and commissioner
+of agriculture. The decade of the 1920s was a
+period of political chameleons who changed
+political affiliation to run as Democrats if they
+lost in the Republican primaries. The <hi rend="smallcaps">NPL</hi> was
+not able to regain control of state government
+until 1932. It refurbished its populist image,
+adopting diversity rules guaranteeing delegates
+for women, labor, Native Americans,
+and veterans. It elected Bill Langer as governor
+and won complete control of the legislature.
+After Langer's conspiracy conviction and removal
+from office in 1934, the state had four
+governors in seven months. The year 1938 saw
+a Democrat governor, John Moses, elected
+with Republican crossover votes. Moses and a
+conservative Republican-Democrat coalition
+controlled state politics until 1944.</p>
+
+<p>In 1946 the lines were drawn between the
+npl and the Republican Organizing Committee
+(<hi rend="smallcaps">ROC</hi>). The <hi rend="smallcaps">ROC</hi> swept state elections, and
+the <hi rend="smallcaps">NPL</hi> faded in influence.</p>
+
+<p>From 1947 until 1956 a movement of "<hi rend="smallcaps">NPL</hi>
+insurgents," along with the Farmers Union
+and Democrats, worked to move the npl into
+filing in the Democratic column. In 1956 the
+npl voted to merge with the Democrats, but it
+took until 1962 before they held a unified convention.
+They slowly emerged as a competitive
+party whose candidates won a U.S. Senate seat
+and the governorship in 1960. The 1980s represented
+the high-water mark of Democratic
+Party influence, with election of Govs. Art
+Link and George Sinner, election of the congressional
+delegation, a majority of statewide
+offices, and control of at least one house of the
+legislature in 1983, 1987, and 1989.</p>
+
+<p>After 1992 the Republicans regained the
+governorship under Ed Schafer and elected
+large majorities in the legislature. Majority
+party leaders in the legislature asserted their
+dominance over policy vis-&#224;-vis their own
+governor and moved to establish more legislative
+checks on executive branch action. Democrats
+have held onto the state's congressional
+delegation, but that represents a tendency of
+state voters to focus on personalities over parties
+and to favor incumbents efficacious in defending
+the state's interests in Washington.
+The swings of power between the <hi rend="smallcaps">NPL</hi> and <hi rend="smallcaps">ROC</hi>
+and Republicans and Democrats did not affect
+some trusted and popular officeholders who
+were able to serve for decades.</p>
+
+<p>North Dakota politics is an expression of a
+participatory political culture with high levels
+of voter turnout. Voters also actively employ
+the initiative and referendum in their politics.
+From 1918 to 1998 the state put some 222 constitutional
+amendments (41 by petition), 65
+referrals, and 141 initiatives on the ballot. Signature
+requirements to put measures on the
+ballot are quite low (2 percent of population
+for initiative or referendum, 4 percent for
+constitutional amendment). Ballot measures
+have become a vehicle to overturn tax laws
+and to legislate morality issues (liquor, gambling,
+Sunday opening) that the legislature
+seeks to avoid. These mechanisms have also
+been the sounding board for political mavericks
+who express their distrust of elected officials
+and seek to legislate around the legislature.
+One of the preeminent "referral kings"
+was Robert P. McCarney, who spent over a
+decade challenging the legislature in this manner.
+Until 1998, at least, ultraconservative
+groups that have had success in putting their
+agenda on popular initiatives in other states
+had been unsuccessful in co-opting the North
+Dakota electorate.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: <ref n="egp.pd.039">Nonpartisan League</ref>.</p>
+
+<closer>
+<signed>Theodore B. Pedeliski<lb/>
+University of North Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Howard, Thomas, ed. <title level="m">The North Dakota Political Tradition</title>.
+Ames: Iowa State University Press, 1981.</bibl> <bibl>Omdahl, Lloyd B.
+<title level="m">Insurgents</title>. Dakota Territory centennial ed. Brainerd <hi rend="smallcaps">MN</hi>:
+n.p., 1961.</bibl> <bibl>Robinson, Elwyn B. <title level="m">History of North Dakota</title>.
+Lincoln: University of Nebraska Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

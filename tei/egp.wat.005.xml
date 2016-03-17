@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cheyenne Bottoms</title>
+<title level="m" type="sub"></title>
+<author>John L. Zimmerman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zimmerman, John L.">John L. Zimmerman</author>. <title level="a">"Cheyenne Bottoms."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">851</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CHEYENNE BOTTOMS</head>
+
+<p>Cheyenne Bottoms is a 41,000-acre elliptical
+basin, formed during the late Pleistocene,
+north of the great bend on the Arkansas River
+in Barton County, Kansas. This depression,
+surrounded by agricultural land and mixedgrass
+prairie, contains the largest remnant
+wetland in Kansas and is an important stopover
+site for tens of thousands of migratory
+waterfowl and shorebirds, as well as a nesting
+haven for herons, ducks, rails, gulls, and terns.
+It has been estimated that more than 90 percent
+of the continental populations of several
+shorebird species east of the Rocky Mountains
+stop at the bottoms during their spring migration
+from the Southern Hemisphere to the
+Arctic. No other location in the Great Plains
+attracts even 10 percent of the number of
+shorebirds during migration.</p>
+
+<p>The site has been designated as a Wetland of
+International Importance by the Ramsar Convention
+and is listed as a Hemispheric Reserve
+by the Western Hemisphere Shorebird Preserve
+Network. Since 1949, half of the area has
+been managed by the Kansas Department of
+Wildlife and Parks, which uses diverted surface
+water to provide habitat for migrant
+and breeding waterbirds. However, increasing
+competition for limited surface flows and continued
+withdrawal of groundwater for irrigation
+has threatened the state's ability to maintain
+this wetland. The conflict went to court
+and was resolved, ensuring that the bottoms
+will receive at least some of its allotted water.
+During the past decade, an additional 6,500
+acres of prime wetland within the basin have
+been preserved by The Nature Conservancy.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.008">Bird Migrations</ref>.</p>
+
+<closer>
+<signed>John L. Zimmerman<lb/>
+Kansas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gilpin, John. <title level="m">Prairie Promises: History of the Bow River
+Irrigation District</title>. Vauxhall, Alberta: Bow River Irrigation
+District, 1976.</bibl> <bibl>Kirk, D. W. <title level="m">The Bow River Irrigation Project:
+The History and Development of the Bow River Irrigation
+Project up to and Including Its Purchase by the Government
+of Canada in 1950</title>. Regina, Saskatchewan: Prairie Farm
+Rehabilitation Administration, 1955.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.014 SYSTEM "egp.sr.014.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Curling</title>
+<title level="m" type="sub"></title>
+<author>Rick Patzke</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Patzke, Rick">Rick Patzke</author>. <title level="a">"Curling."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">770-771</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CURLING</head>
+
+<figure n="egp.sr.014" rend="granted">
+<figDesc>Curlers from the Dakotah Curling Club, Drayton, North Dakota, 1900-5</figDesc>
+</figure>
+
+<p>The winter ice sport of curling was introduced
+to the Great Plains by Scottish immigrants. The
+minimal equipment needed&#8211;ice, brooms, and
+stones&#8211;made it easy for these sportsmen to
+continue the tradition, especially in the early
+days when the playing stones weren't always
+uniform. Curling involves two teams of four
+players each alternately sliding stones (today,
+each stone weighs forty-two pounds) along an
+ice lane toward a target of concentric circles.
+Points are scored for having more stones closer
+to the "tee" (the center of the circles).</p>
+
+<p>With long, cold winters and many ponds,
+lakes, and rivers, the northern parts of the
+Great Plains are especially suited for curling.
+In the Canadian provinces of Manitoba, Saskatchewan,
+and Alberta, the length of the
+playing season quickly helped curling surpass
+other sports such as baseball and cricket in
+popularity. Curling developed as more than a
+competitive game. During the winter the social
+fabric of the Prairie communities centered
+around each town's curling rink.</p>
+
+<p>Just as the railroad's expansion helped establish
+new settlements in western Canada
+and the United States, so, too, did it help to
+spread curling, especially when Scotsmen
+were part of the railway gangs. Manitoba first
+recorded curling in 1876, and by 1888 pioneers
+there had formed the province of Manitoba
+and Adjoining Territories branch of the Royal
+Caledonian Curling Club of Scotland. A year
+later the branch hosted the world's largest
+bonspiel, or tournament, of the times, with
+sixty-two rinks (teams) competing in Winnipeg.
+In 1988 the 100th annual Manitoba
+Curling Association bonspiel drew a world-record
+1,280 rinks.</p>
+
+<p>Curling was played in the territory of Saskatchewan as early as 1880, when tamarack
+blocks shaped to resemble curling stones were
+fitted with iron handles and slid across the
+frozen Saskatchewan River. The dedication of
+Saskatchewan's curlers is best illustrated by
+the journey undertaken by a Prince Albert
+team intent on playing in the 1890 Winnipeg
+bonspiel. The foursome walked 200 miles,
+their stones carted by ponies, just to catch a
+train that required another three days to reach
+Winnipeg. The roots of curling are still strong
+in the province today: the Saskatchewan Curling
+Association is the largest of its kind in the
+world. At its peak in 1960–61, the association
+had 578 member clubs. Among the province's
+best-known curlers was Regina's Richardson
+family rink, which in 1959 won the first of four
+national and world championships in five
+years.</p>
+
+<p>Curling stones were also regularly thrown in
+Alberta by the 1880s, shortly after the arrival
+of the railroad. In 1959 Calgary's Big Four Curling
+Club became the world's largest, boasting
+forty-eight sheets divided between two levels.
+Calgary was also the site of the first world
+championship held outside of Scotland, in
+1964, and of the Olympic curling demonstration
+in 1988.</p>
+
+<p>Curling filtered across the U.S. Great Plains
+much as it did across Canada but with additional
+influence from the north. Initial members
+of the Manitoba Curling Association included
+clubs in Butte, Montana, and St. Paul,
+Minnesota. However, the sport has never become
+as established in the United States as it
+has in Canada, the "Curling Capital of the
+World." The three Canadian Prairie Provinces
+are each home to about 14 percent of that
+country's estimated 1.5 million curlers. Altogether,
+the twenty existing clubs in the seven
+Great Plains states with curling (including
+western Minnesota) have approximately 1,500
+curlers out of 15,000 nationwide. North Dakota's
+twelve clubs are the largest concentration
+in the region. The Drayton Curling Club,
+whose first "home" was a stretch of ice on the
+Red River, celebrated its centennial in 2001.
+The Great Plains states have been home to
+twenty-four national curling champions in
+the history of U.S. men's, women's, and mixed
+events, including nine junior men's teams, two
+of which won world titles.</p>
+
+<p>Manitoba has produced twenty-five national
+men's champions alone since the Canadians
+first contested for a title in 1927. Saskatchewan
+boasts eleven women's champions
+and is also home to the team that won the
+women's gold medal in the 1998 Winter Olympic
+Games in Nagano, Japan, where curling
+first became a full-medal sport. Alberta also
+has many national champions, including
+eighteen men's and thirteen junior men's
+teams. Altogether, the three provinces have
+also welcomed home thirty-one world curling
+champions.</p>
+
+<closer>
+<signed>Rick Patzke<lb/>
+U.S. Curling Association</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Argan, Wm. P. <title level="m">Saskatchewan Curling: Heartland Tradition</title>.
+Regina: Saskatchewan Curling Association, 1991.</bibl> <bibl>Haig,
+Senator John T. <title level="m">1948 Manitoba Curling Association Yearbook</title>.
+Winnipeg: Manitoba Curling Association, 1948.</bibl>
+<bibl>Smith, David B. <title level="m">Curling: An Illustrated History</title>. Edinburgh:
+John Donald Publishers Ltd., 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

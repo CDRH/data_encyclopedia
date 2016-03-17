@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lutheranism</title>
+<title level="m" type="sub"></title>
+<author>Douglas Firth Anderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Anderson, Douglas Firth">Douglas Firth Anderson</author>. <title level="a">"Lutheranism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">750-751</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LUTHERANISM</head>
+
+<p>Lutherans are members of a Protestant tradition
+flowing from the life and thought of Martin
+Luther, the sixteenth-century German
+monk turned theologian, pastor, and family
+patriarch. Lutherans became a major religious
+group in the Great Plains of North America in
+the latter half of the nineteenth century, and as
+the twenty-first century began, they continued
+to color the society and culture of various locales
+in the Plains and their borderlands.</p>
+
+<p>Theologically, Lutherans have identified
+themselves as evangelical in that Luther in his
+break with Roman Catholicism stressed the
+Gospels and the evangel of justification by
+faith in the gracious work of God in Jesus
+Christ. An individual's ultimate standing before
+God, in other words, is not gained by
+moral works or by keeping God's law; rather, it
+is by <hi rend="italic">sola gratia</hi> (grace alone) and <hi rend="italic">sola fides</hi>
+(faith alone). <hi rend="italic">Sola scriptura</hi> (Scripture alone)
+has also been a key affirmation of Lutherans,
+indicating that the canonical books of the
+Bible, not any church office, institution, or
+theological tradition, are the ultimate norm
+for Christian life and thought. Nevertheless,
+confessionalism has always been a strong component
+in Lutheran identity. Next to the ecumenical
+creeds of the early church, the two
+most important confessional documents for
+Lutherans have been the Augsburg Confession
+(1530) and Luther's Small Catechism (1529).
+These and other documents were gathered in
+1580 into the Book of Concord, a collection
+that remains formally important for Lutheran
+theology.</p>
+
+<p>Lutheran immigrants to the Great Plains
+brought with them not only a strong theological
+tradition but also conceptions of church
+order and elements of an ethos that shaped
+the social and cultural institutions they constructed.
+In the German and Scandinavian
+states from which the vast majority of Great
+Plains Lutherans came in the nineteenth century,
+Lutheranism was formally established. In
+the Plains of North America, however, legal
+nonestablishment, together with the vastness of
+the region, reinforced the primacy of the local
+congregation in Lutheran life. At the local level,
+Lutheran leadership is still formally embodied
+in the pastorate and also in elected lay officials.
+The office of bishop has become widespread
+among Lutheran groups, but as a useful administrative
+office rather than one representing
+apostolic succession. Above this local level, Lutherans
+organized regional synods based largely
+on differences in ethnicity. Only in the latter
+half of the twentieth century, as ethnicity has
+softened, has the plethora of Lutheran synodical
+bodies represented in the Great Plains begun
+to significantly diminish through mergers.
+Since 1988 the vast majority of Plains Lutherans
+are affiliated with either the Evangelical
+Lutheran Church of America (<hi rend="smallcaps">ELCA</hi>) or the Lutheran
+Church, Missouri Synod (<hi rend="smallcaps">LCMS</hi>), the
+former theologically and socially more pluralist
+than the latter.</p>
+
+<p>An important aspect of a Lutheran ethos in
+the North American Plains has been pietism, a
+diffuse revitalization movement of the seventeenth
+and eighteenth centuries that was later
+reinforced by similar revitalization movements
+in the nineteenth century. This pietist stream
+reinforced among many Lutherans a stress on
+personalizing belief. It also stressed the embodiment
+of such commitment through "godly"
+practices and the avoidance of "worldly" practices.
+Also worth noting in a Lutheran ethos are
+the patriarchal family, enacted by Luther himself
+and carried on symbolically through the
+present by the local pastor and his family, and
+Lutheran corporate worship, which has consistently
+stressed the proclamation of the Word,
+the importance of the sacraments of baptism
+and the Lord's Supper, and the role of music,
+particularly chorales, in engaging the participation
+of the entire community.</p>
+
+<p>The arrival of Lutherans in the Plains began
+with major migrations of Germans and, to a
+lesser extent, Scandinavians to the central and
+upper portions of the Mississippi River basin
+in the 1840s and 1850s. The political and economic
+upheavals of an industrializing and liberalizing
+Europe were factors that prompted
+emigration, but economic opportunity, particularly land, was the most pervasive pull.
+By the time the American Civil War began
+in 1861, Wisconsin, Minnesota, Missouri, and
+a section of Texas had received thousands
+of these Lutheran emigrants. The Englishspeaking
+descendants of colonial-era Lutherans,
+primarily concentrated in Pennsylvania,
+and the more recent German-speaking Lutherans
+centered in Ohio held relatively little
+appeal for these newly arriving Lutherans. Instead,
+the emigrants formed new synods, most
+notably the Missouri Synod (1847), but also
+Hauge's Synod (Norwegian, 1846), the Texas
+Synod (German, 1851), the Norwegian Synod
+(1853), and the Augustana Synod (Swedish,
+1860). The founding of Augustana College in
+Sioux Falls (now South Dakota) in 1860 foreshadowed
+what this planting of Lutheranism
+in the eastern borderlands of the U.S. Great
+Plains would bring once the Civil War ended.</p>
+
+<p>Lutherans secured their initial planting in
+the Plains proper with two phases of settlement
+after 1865. The earlier phase was in the
+Northern Plains between roughly 1865 and
+1900. The regional shape and depth of this
+migration is suggested by the establishment of
+Lutheran institutions of higher education. By
+1900, in addition to Augustana College, the
+following had been founded: Bethany College
+(Augustana Synod) and Saint John's College
+(Missouri Synod) in Kansas; Dana College
+(United Danish), Midland College (General
+Synod), and Concordia Teachers College
+(Missouri Synod) in Nebraska; and Texas Lutheran
+College (Texas Synod).</p>
+
+<p>The second phase was the spilling over of this
+migration into the Canadian Prairie Provinces
+between 1890 and 1914. The Lutheran population
+swelled enough so that in 1915 the General
+Council of Lutherans organized the Saskatoon
+Theological Seminary, Saskatchewan.</p>
+
+<p>Lutheran communities in the Great Plains
+have received their finest literary depiction to
+date in the novels of Ole Rölvaag, who lived
+and worked on a farm in South Dakota for
+three years in the late 1890s before attending
+Augustana College. Prior to World War I, Lutherans
+in the Great Plains were comparatively
+isolated geographically and insulated
+culturally. Whether in Block Corners, Kansas,
+Dalesburg, South Dakota, or some other German
+or Scandinavian enclave in the Plains,
+community life for observant Lutherans was
+centered around church and school. The pastor
+and, in the most conservative communities,
+the Lutheran schoolteacher provided
+the theological, social, and cultural leadership
+locally that was integral to sustaining ethnic as
+well as religious identity until well into the
+twentieth century. The church building, and
+sometimes a separate school building, provided
+a material center for community life,
+which was expressed formally in corporate
+worship, in congregational and school events
+such as picnics and mission festivals, and,
+by the turn of the nineteenth and into the
+twentieth century, women's groups and youth
+groups as well. Home missions by various
+Lutheran synods, while similar in most respects
+to those undertaken by various anglophone
+Protestant denominations, were limited
+to organizing congregations among the sending
+group's ethnic compatriots rather than
+seeking to evangelize outside the ethnic group.</p>
+
+<p>The twentieth century's world wars and economic
+depression were major catalysts for undermining
+isolation and insulation. Lutheran
+ethnicity has not disappeared, however; it has
+merely softened its tone and expanded and
+blurred its borders. Radio storyteller Garrison
+Keillor's Norwegian Lutherans, while fictional
+and nostalgic, are evocative of a persistent
+ethos as much Lutheran as it is ethnic, and
+Lake Wobegon is a place almost as much Plains
+as it is Prairie. As of 1990 the political units of
+the Great Plains with the largest percentages of
+the population expressing a Lutheran a.liation
+are North Dakota (36 percent), South
+Dakota (30 percent), and Nebraska (16 percent).
+Such proportions suggest that, whatever
+changes may come to Plains Lutherans as a
+collective religious tradition and community,
+they will remain a significant element in the
+region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.067">R&#246;lvaag, O. E.</ref></p>
+
+<closer>
+<signed>Douglas Firth Anderson<lb/>
+Northwestern College, Orange City, Iowa</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Coburn, Carol K. <title level="m">Life at Four Corners: Religion, Gender,
+and Education in a German-Lutheran Community, 1868</title>.
+1945. Lawrence: University Press of Kansas, 1992.</bibl> <bibl>Gjerde,
+Jon. <title level="m">The Minds of the West: Ethnocultural Evolution in the
+Rural Middle West, 1830-1917</title>. Chapel Hill: University of
+North Carolina Press, 1997.</bibl> <bibl>Nelson, E. Clifford, ed. <title level="m">The
+Lutherans in North America</title>. Philadelphia: Fortress Press,
+1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

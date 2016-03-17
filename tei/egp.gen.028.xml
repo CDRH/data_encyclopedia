@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Persons Case</title>
+<title level="m" type="sub"></title>
+<author>Frances W. Kaye</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kaye, Frances W.">Frances W. Kaye</author>. <title level="a">"Persons Case."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">334-335</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PERSONS CASE</head>
+
+<p>The "Persons Case" was raised by five Alberta
+women and resulted in the October 18,
+1929, decision by the British Privy Council
+that women were legally "persons," not just
+in Canada but throughout the whole British
+Empire.</p>
+
+<p>The case had its roots back in 1916, when
+Emily Murphy took her seat in Edmonton as
+the first woman police magistrate in the empire.
+A lawyer against whose client she had
+ruled claimed that, as a woman, she was not a
+"person" in terms of the British North America
+Act, Canada's enabling legislation, and
+hence was not eligible to serve as a magistrate.
+The lawyer did not follow up his objection,
+but ten years later Justice Murphy began to be
+considered for appointment as Canada's first
+woman senator. The British North America
+Act allowed qualified "persons" to sit in the
+Senate, but an 1876 British court had ruled
+that "women are persons in matters of pains
+and penalties, but are not persons in matters
+of rights and privileges." Murphy joined forces
+with four others&#8211;Nellie McClung and Louise
+McKinney, both suffrage leaders and former
+members of the Alberta Legislative Assembly;
+Henrietta Muir Edwards, an expert on women's
+legal status; and provincial cabinet minister
+Irene Parlby&#8211;to ask for an interpretation
+of the act. When the Supreme Court of Canada
+ruled that women were not "persons" in
+the senatorial sense, the five women pursued
+the case to the British Privy Council, then
+Canada's court of last resort, which eventually
+admitted that women were "persons."</p>
+
+<p>A statue commemorating the "Famous
+Five" was erected in Calgary, Alberta, in 1999.</p>
+
+<closer>
+<signed>Frances W. Kaye<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Prentice, Alison, Paula Bourne, Gail Cuthbert Brandt, Beth
+Light, Wendy Mitchison, and Naomi Black. <title level="m">Canadian Women: A History</title>. Toronto: Harcourt Brace Canada, 1996.</bibl>
+<bibl>Savage, Candace. <title level="m">Our Nell: A Scrapbook Biography of Nellie L. McClung</title>. Saskatoon: Western Producer Prairie Books,
+1979.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

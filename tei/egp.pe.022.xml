@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.022 SYSTEM "egp.pe.022.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Dust Bowl</title>
+<title level="m" type="sub"></title>
+<author>R. Douglas Hurt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hurt, R. Douglas">R. Douglas Hurt</author>. <title level="a">"Dust Bowl."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">625-626</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DUST BOWL</head>
+
+<figure n="egp.pe.022" rend="granted">
+<figDesc>Dust cloud rolling over western Kansas town, February 21, 1935</figDesc>
+</figure>
+
+<p>The Dust Bowl was an area of drought and
+severe wind erosion in southwestern Kansas,
+southeastern Colorado, northeastern New
+Mexico, and the panhandles of Oklahoma and
+Texas during the 1930s. This area extended approximately
+400 miles from north to south
+and 300 miles from east to west, although the
+boundary was never precise because of fluctuations
+in annual precipitation.</p>
+
+<p>The area was first given the name "Dust
+Bowl" by Robert E. Geiger, a reporter for the
+<title level="j">Washington <hi rend="smallcaps">DC</hi> Evening Star</title>, who used the
+term in an article following a severe dust
+storm, known as a black blizzard, on April 14,
+1935. Soon, the Soil Conservation Service and
+the public were using the phrase Dust Bowl to
+identify the area of the Southern Great Plains
+that experienced the worst drought, wind erosion,
+and dust storms.</p>
+
+<p>Although drought and dust storms are natural
+phenomena in the Great Plains, it was the
+rapid expansion of wheat production following
+World War I that destroyed soil-holding
+native grasses and created the Dust Bowl. After
+drought ruined the wheat crop during the
+autumn of 1931, the prevailing winds began to
+lift the soil and plague the region with dust
+storms by late January 1932.</p>
+
+<p>As the drought and dust storms worsened
+during the mid-1930s, the federal government
+responded to the economic and technical
+needs of the drought-stricken farmers in the
+Dust Bowl with a host of programs. The Agricultural
+Adjustment Administration provided
+funds to farmers who agreed to limit wheat
+and cotton production, while the Commodity
+Credit Corporation offered price supporting
+loans on these crops. The Soil Conservation
+Service demonstrated terracing, strip cropping,
+and grass seeding techniques that prevented
+wind erosion and provided financial
+assistance that enabled farmers to apply these
+techniques. The Resettlement Administration
+and the Farm Security Administration furnished
+loans to the most destitute farmers who
+could not receive credit from other lending
+institutions to sustain their families and
+agricultural operations. The Farm Security
+Administration also purchased wind-eroded
+lands from farmers and returned those areas
+to grasslands. Originally known as landutilization
+projects, they are now identified as
+national grasslands.</p>
+
+<p>In 1935 the Resettlement Administration
+filmed the documentary <title>The Plow That Broke
+the Plains</title>, hoping to gain public and congressional
+support for its program to resettle
+people from the worst of the eroded lands. In
+1937 <title level="j">Life</title> magazine published several paintings
+by Alexandre Hogue that depicted conditions
+in the Dust Bowl. Residents of the Dust Bowl
+criticized these works because they seemed to
+place the blame for the dust storms on the
+farmers and their new laborsaving technology,
+such as tractors and combines, rather than on
+drought. In 1940, Congress ordered the film
+withdrawn from circulation.</p>
+
+<p>In 1938 wind erosion began to diminish with
+the return of near-normal precipitation to
+many areas of the Dust Bowl. By 1940 the
+drought on the Southern Great Plains had
+ended. The federal programs that had helped
+farmers remain on the land, practice soil conservation,
+and endure the economic crisis of
+the Great Depression were not without their
+critics. Given the problems of drought, dust,
+and economic depression, however, these programs
+provided essential assistance at a time
+when abnormal climatic conditions and poor
+farming practices created unprecedented wind
+erosion and earned the Southern Great Plains
+its reputation as the Dust Bowl.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: <ref n="egp.ag.003">Agricultural Adjustment Administration</ref>; <ref n="egp.ag.037">Farm Security Administration</ref>/ <hi rend="smallcaps">ART</hi>: <ref n="egp.art.018">Dust Bowl Photographers</ref>;
+<ref n="egp.art.032">Hogue, Alexandre</ref> / <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.026"><hi rend="italic">The Grapes of Wrath</hi></ref>;
+<ref n="egp.fil.055"><hi rend="italic">The Plow That Broke the Plains</hi></ref> / <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.019">Guthrie, Woody</ref>.</p>
+
+<closer>
+<signed>R. Douglas Hurt<lb/>
+Iowa State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hurt, R. Douglas. <title level="m">The Dust Bowl: An Agricultural and Social
+History</title>. Chicago: Nelson-Hall, 1981.</bibl> <bibl>Riney-Kehrberg,
+Pamela. <title level="m">Rooted in Dust: Surviving Drought and Depression
+in Southwestern Kansas</title>. Lawrence: University Press of
+Kansas, 1994.</bibl> <bibl>Worster, Donald. <title level="m">Dust Bowl: The Southern
+Plains in the 1930s</title>. New York: Oxford University Press,
+1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

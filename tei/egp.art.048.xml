@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ranney, William (1813-1857)</title>
+<title level="m" type="sub"></title>
+<author>Evan M. Maurer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dippie, Brian W.">Brian W. Dippie</author>. <title level="a">"Ranney, William (1813-1857)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">126</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RANNEY, WILLIAM (1813-1857)</head>
+
+<p>William Tylee Ranney, born in Middletown,
+Connecticut, on May 9, 1813, achieved a substantial
+reputation as a genre artist specializing
+in hunting and western scenes prior to his
+death in Hoboken, New Jersey, on November
+18, 1857, at the age of forty-four.</p>
+
+<p>Since he was born and died in the East,
+Ranney's affinity for western subjects requires
+explanation. The war for Texas independence
+lured him west in 1836, when he was an art
+student in Brooklyn, and he spent a formative
+year in the Southwest that left no impression
+on his work as a portraitist and painter of
+history and genre scenes until 1846, when the
+annexation of Texas and the Mexican War created
+a demand for western subjects. Unlike
+George Catlin, Ranney was not a painter of
+Indians. He concentrated on white pioneers
+and, a contemporary thought, "caught the
+spirit of border adventures."</p>
+
+<p>Ranney's style was highly refined if rather
+static, and he was adept at the precise detail
+dear to genre painting with its focus on everyday
+life. His western scenes depicted parties
+of pioneer men and women on the move and
+picturesque frontier types sometimes fighting
+Indians, more often gossiping in and meandering
+through a spacious land tinted in sunset
+colors. Though his only personal experience
+was in Texas, Ranney generalized the
+settings in his western paintings. Texas became
+the "broad prairie" in <title>The Retreat</title>
+(1850), which showed three trappers fleeing
+from pursuing Indians across an open country
+devoid of shelter, and in <title>Advice on the Prairie</title>
+(1853), which showed a party of emigrants
+listening raptly to a veteran plainsman tell
+them of what lay ahead. Ranney, in short,
+worked his own variations on the West as a
+theater for perilous adventure and as a prospective
+paradise for those who dreamed of a
+land of milk and honey.</p>
+
+<closer>
+<signed>Brian W. Dippie<lb/>
+University of Victoria</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dippie, Brian W. <title level="m">West-fever</title>. Los Angeles: Autry Museum
+of Western Heritage in Association with the University of
+Washington Press, 1998.</bibl> <bibl>Grubar, Francis S. <title level="m">William Ranney: Painter of the Early West</title>. New York: Clarkson N.
+Potter, 1962.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

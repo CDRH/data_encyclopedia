@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Corn Palace</title>
+<title level="m" type="sub"></title>
+<author>Nicholas J. Aieta</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.014</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Aieta, Nicholas J.">Nicholas J. Aieta</author>. <title level="a">"Corn Palace."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">381</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CORN PALACE</head>
+<figure n="egp.ii.014" rend="granted" type="noclick">
+<figDesc>Mitchell, South Dakota's Corn Palace in 2005</figDesc>
+</figure>
+
+<p>The <placeName rend="museum" key="mus.cnpe" reg="Corn Palace">Corn Palace</placeName> is located in <placeName rend="settlement" key="sd.mit" reg="Mitchell, South Dakota">Mitchell, South Dakota</placeName>, in the <geogName rend="valley" reg="James River Valley">James River Valley</geogName>. <placeName rend="settlement" key="sd.mit" reg="Mitchell, South Dakota">Mitchell</placeName> was first platted in 1879. In 1892 the town began a six-day festival at the height of harvest season. One key event during this festival included constructing a simple frame building, the exterior of which was decorated with the principal product of the region&#8211;corn. A more permanent structure, replacing a second corn palace, was erected and opened in time for the 1921 festival. Eventually, seating in the building expanded to hold more than 5,000 people. The festival continues today and is typically held during the last week of August and the first week of September.</p>
+
+<p>The structure is built of reinforced concrete. The exterior and interior of the building are covered with corn, sometimes as many as 600,000 ears. In addition, 2,000 to 3,000 bushels of other grains such as flax, rye, wheat, oats, and millet as well as bromegrass, bluegrass, and straw are combined with the corn to depict a different theme each year. The design is usually by local artists and is built upon themes such as "South Dakota Birds," "Salute to Agriculture," and "Youth in Action." Separate shades of corn are used to add depth to the various scenes.</p>
+
+<p>The palace itself has been and still is used for various events besides the annual corn festival. <persName reg="Sousa, John Philip">John Philip Sousa</persName>'s band, <persName reg="Hope, Bob">Bob Hope</persName>, and <persName reg="Welk, Lawrence">Lawrence Welk</persName> are just a few of the famous acts to have performed there. The <placeName rend="museum" key="mus.cnpe" reg="Corn Palace">Corn Palace</placeName> is also home to high school and college basketball games&#8211;the <hi rend="smallcaps">NBA</hi> rookie of the year for the 2000–2001 season, <persName reg="Miller, Mike">Mike Miller</persName>, played his high school games there.</p>
+
+<p><ref target="http://www.cornpalace.org/">Corn Palace</ref> website.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Nicholas J. Aieta<lb/>
+Clarksville, Tennessee</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Reese, M. Lisle. <title level="m">South Dakota: A Guide to the State</title>. New York: Hastings House, 1952.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

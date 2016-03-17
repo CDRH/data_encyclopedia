@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Suffrage Movement</title>
+<title level="m" type="sub"></title>
+<author>Karen M. Morin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Morin, Karen M.">Karen M. Morin</author>. <title level="a">"Suffrage Movement."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">337-338</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUFFRAGE MOVEMENT</head>
+
+<p>The suffrage movement&#8211;the campaign to secure
+women's right to vote in federal (presidential)
+elections&#8211;comprised the "first wave"
+of feminist activism in North America. Several
+of the Great Plains states (or former territories)
+and the Canadian Prairie Provinces
+were the first in their nations to obtain women's
+suffrage. This largely white middle-class
+movement constituted one of the hardestfought
+struggles for equality in the region.
+Along with their demand for the vote, suffragists
+advanced a number of social and moral
+issues to the forefront of North American political
+debate.</p>
+
+<p>Many Canadian provinces and U.S. states
+had granted partial or limited voting rights
+to women on school, taxes, and bond issues
+prior to universal suffrage. Canadian women
+were federally enfranchised in 1918 (women in
+or connected to the armed forces obtained
+voting privileges the previous year). In Canada,
+women's formal enfranchisement began
+in the Prairie Provinces, largely under the
+leadership of Nellie McClung. In January 1916
+Manitoba became the first province to guarantee
+women the right to vote and hold provincial
+office, followed by Saskatchewan, Alberta,
+and Ontario later that same year.</p>
+
+<p>In the United States, Wyoming Territory led
+the way by passing presidential suffrage legislation
+in 1869 (with full women's suffrage ensured
+with Wyoming's statehood in 1890).
+This was fifty-one years before ratification
+of the Nineteenth Amendment (the women's
+suffrage amendment to the U.S. Constitution).
+Neighboring states in the Great Plains
+followed Wyoming, granting full women's
+suffrage either by constitutional amendment
+or by legislative enactment: Colorado (1893),
+Kansas (1912), Montana (1914), North Dakota
+and Nebraska (1917), and Texas, South Dakota,
+and Oklahoma (1918). Thirteen out of
+the fifteen states that had ratified a full suffrage
+amendment in their state constitutions
+prior to the federal constitutional amendment
+were in the western half of the country.</p>
+
+<p>The patterns of the women's suffrage movement,
+with its roots in eastern cities but its
+concrete expression in the Plains, Prairies, and
+other points west, were the result of a number
+of demographic, political-economic, and social
+processes. One way of understanding the
+success of suffrage in Wyoming, for example,
+is that suffrage was seen as having the potential
+to attract women settlers and thereby stabilize
+family life and, eventually, the frontier
+economy. (Beyond that, the Wyoming territorial
+legislative body that passed suffrage
+consisted of only fourteen people!) But while
+opportunistic politicians may have used suffrage
+to promote the Prairies and Plains in this
+way, there is no evidence that the women's
+vote actually attracted any settlers.</p>
+
+<p>The suffrage movement began in the United
+States and Canada in conjunction with a number
+of other moral reform movements of the
+1830s and 1840s, including abolition, temperance,
+and health reform. As middle-class white
+women's domain was confined more and more
+exclusively to the home, activism in reform
+movements became one of the few accepted
+"careers" open to them. Women's participation
+in reform movements in many ways did
+not challenge the division of society into separate
+spheres, since many women's involvements
+drew on an ideology of women's superior moral character and virtue in the fight for
+better schools, health care, and other public
+social services. Women's suffrage, like these
+other involvements, was expected to reform
+politics and thus "civilize" communities.</p>
+
+<p>In Canada, women's service to society, such
+as their help in settling the Prairies or their
+sacrifices for the war effort, was a primary argument
+for women's suffrage. The Woman's
+Christian Temperance Union (<hi rend="smallcaps">WCTU</hi>) was active
+in Manitoba, where women's "moral authority"
+to speak for prohibition lent validity
+to their arguments for the vote. The situation
+in Kansas was similar: women's struggle for
+the vote there was tied to their moral arguments,
+especially to the very active wctu
+and abolitionist movements. In Kansas, however,
+it was also suffrage's identification with
+prohibition that provoked much hostility toward
+it and delayed its passage far longer than
+expected.</p>
+
+<p>The suffrage movement in the Plains and
+Prairies was also tied to women's participation
+in rural agrarian reform movements such as
+the Grange, the Farmers Alliance, and the
+Populist Party. Colorado's rural populist
+roots, for instance, combined with its urban
+radical labor movement, led to the related
+movement for women's suffrage. When suffrage
+passed in Colorado in 1893, a wide coalition
+of support had been established among
+white middle-class suffrage leaders, men and
+women in organized labor (such as the Labor
+Union Party), and rural supporters of agricultural
+reform.</p>
+
+<p>On one hand, suffrage was a clear indicator
+of women's rights; many women perceived it
+as such, and some American women even died
+for it. Certainly, early suffragists saw voting
+rights as having a clear political purpose. They
+managed to establish a feminist discourse in
+North America that paved the way for a more
+nuanced feminism later in the twentieth century
+that was concerned with human rights
+more broadly. On the other hand, suffrage
+was not necessarily granted as a "women's
+rights" issue but was often a cynical and opportunistic
+political gesture by elite men.
+"Women's rights" were not necessarily advanced
+by suffrage, either. In fact, not all
+women were granted suffrage (Native American
+and Mexican American women, for example,
+were not); women's voting patterns
+turned out to be similar to men's; and the
+social improvement suffragists fought for
+largely failed to materialize.</p>
+
+<closer>
+<signed>Karen M. Morin<lb/>
+Bucknell University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Beeton, Beverly. <title level="m">Women Vote in the West: The Woman Suffrage Movement, 1869-1896</title>. New York: Garland Publishing,
+Inc., 1986.</bibl> <bibl>Cleverdon, Catherine L. <title level="m">The Woman Suffrage Movement in Canada</title>. Toronto: Toronto University
+Press, 1974.</bibl> <bibl>Flexner, Eleanor. <title level="m">Century of Struggle: The Woman's Rights Movement in the United States</title>. Cambridge:
+Harvard University Press, 1975.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

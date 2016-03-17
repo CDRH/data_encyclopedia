@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sign Language</title>
+<title level="m" type="sub"></title>
+<author>Allan R. Taylor</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.106</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Raylor, Allan R.">Allan R. Taylor</author>. <title level="a">"Sign Language."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">600-601</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SIGN LANGUAGE</head>
+
+<p>The Plains Sign Language (<hi rend="smallcaps">PSL</hi>) is the most
+sophisticated Aboriginal sign language known.
+<hi rend="smallcaps">PSL</hi> is a direct signaling system; its symbols are
+understood without any reference to a spoken
+language. At its zenith in the mid–nineteenth
+century, <hi rend="smallcaps">PSL</hi> was the principal lingua franca of
+the trans-Mississippi West. There were three
+dominant regional dialects: Southern Plains,
+Northern Plains, and Plateau (the mountainous
+region north of the Great Basin). The
+variation between these was mostly in vocabulary,
+although sign mechanics also varied.</p>
+
+<p>It is not known where or when <hi rend="smallcaps">PSL</hi> originated,
+but it was likely the Texas Gulf Coast,
+where a large number of mutually unintelligible
+languages were spoken. Given its complexity
+and wide use, the <hi rend="smallcaps">PSL</hi> must be many centuries
+old. The earliest probable observations
+of the <hi rend="smallcaps">PSL</hi> by Europeans were by Spaniards in
+the Southern Plains in the first half of the sixteenth
+century. During the nineteenth century,
+the <hi rend="smallcaps">PSL</hi> was used throughout the Plains,
+from the Texas Panhandle to the Missouri
+River and beyond, eventually reaching the Canadian
+Prairies. But sign use was also prominent
+outside this area, wherever tribes were
+influenced by Plains culture.</p>
+
+<p>During the period when the <hi rend="smallcaps">PSL</hi> was an
+ongoing lingua franca, the Kiowas, Comanches,
+Cheyennes, and Arapahos were known
+as especially skilled signers. It may be significant
+that these tribes, who spoke mutually unintelligible
+languages, were often allies. Adult
+men are thought to have been the primary
+users of <hi rend="smallcaps">PSL</hi>, although some women knew and
+used <hi rend="smallcaps">PSL</hi> as well. Apart from conversational
+uses, <hi rend="smallcaps">PSL</hi> was also usual in public storytelling.
+This use survives into the present. Signing was
+also used for oratory, largely before multilingual
+audiences.</p>
+
+<p>psl makes heavy use of portrayal of meanings
+by descriptive gesture, thus <hi rend="smallcaps">PSL</hi> is heavily
+pantomimic, but many signs are also merely
+conventional. <hi rend="smallcaps">PSL</hi> is, then, a mixed system
+varying from gestures whose reading is obvious,
+to gestures whose meaning cannot be
+inferred and which must be learned. All <hi rend="smallcaps">PSL</hi>
+signs are built from around eighty mutually
+contrasting basic gestures. Each sign usually
+includes three or four of these, formed with
+either one or both hands, which may be used
+in a stationary position or moved about. Signs
+are normally produced in a continuous flow
+of motion, but sentences and longer segments
+of discourse may be set off by brief pauses.
+When signing is done at a distance, movements
+are exaggerated in various ways to
+make the sign more "readable."</p>
+
+<p>Signing was often accompanied by verbal
+language. Usually the verbal speech had the
+same meaning as the signed message. But this
+does not mean that signed messages were a
+translation of a spoken analog, following the
+rules of the spoken language. <hi rend="smallcaps">PSL</hi> is an independent
+language with its own rules. The order
+of words in a signed sentence is fairly free, and
+the same thing can usually be said with a number
+of alternate word orders, though a particular
+word order is usually preferred. In general,
+subjects precede verbs, and modifiers follow
+the element modified.</p>
+
+<p>Unfortunately, <hi rend="smallcaps">PSL</hi> is now almost completely
+obsolete, although some signers can
+still be found here and there on Plains reservations.
+But time is short. Soon, only memories
+will remain as testimony to the former existence
+of the fascinating and colorful system of
+communication which we know as the Plains
+Sign Language.</p>
+
+<closer>
+<signed>Allan R. Taylor</signed>
+University of Colorado at Boulder</closer>
+</div1>
+
+<div1>
+<bibl>Clark, William Philo. <title level="m">The Indian Sign Language</title>. Lincoln:
+University of Nebraska Press, 1982.</bibl> <bibl>Taylor, Allan R. "Nonverbal
+Communication in Aboriginal North America: The
+Plains Sign Language." In <title level="m">Aboriginal Sign Languages of the
+Americas and Australia</title>, edited by Thomas A. Sebeok and
+Donna Jean Umiker-Sebeok, 2:223–44. New York: Plenum
+Press, 1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

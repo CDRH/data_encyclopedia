@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Appropriation Doctrine</title>
+<title level="m" type="sub"></title>
+<author>Theron Josephson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.002</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Josephson, Theron">Theron Josephson</author>. <title level="a">"Appropriation Doctrine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">850-851</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">APPROPRIATION DOCTRINE</head>
+
+<p>The appropriation doctrine is a system of water
+rights that gives an individual the right
+to use a quantifiable amount of water. The
+appropriation doctrine is also referred to as
+prior appropriation because the right to use
+water is prioritized on the basis of the date
+the use was established. This characteristic is
+often summed up in the phrase "first in time,
+first in right." Under appropriation law, the
+first person to obtain an appropriation right
+receives the right to use a fixed amount of
+water without regard for other water users. In
+the case of a water shortage, the holder of the
+first prioritized right receives his or her entire
+amount to the possible exclusion of all others.
+Subsequent appropriative rights are filled
+based on the order of the dates of acquisition,
+until there is no more water available.</p>
+
+<p>Traditionally there are three elements necessary
+to acquire an appropriative right: intent to
+use the water, a physical diversion of the water
+from the natural stream course, and an application
+of the water diverted to a beneficial
+use. Once acquired the right can be bought and
+sold. Water obtained under the appropriation
+doctrine can be used in a manner not consistent
+with the use existing at the time the right
+was acquired, so long as it is considered a "beneficial"
+use. An appropriative right is a usufructuary
+right, or right to use the water, as
+opposed to owning the water itself. There is no
+requirement that the water be applied to riparian
+land or even to land within the same
+watershed. Thus the appropriation doctrine
+promotes the consumptive use of water as a
+commodity, without regard to the location of
+the use or location of the source.</p>
+
+<p>The rationale of the doctrine comes from
+personal property law theory. Traditionally,
+society is deemed enriched as individuals
+transform nature into usable economic commodities.
+For example, the law gave individuals
+incentives to capture wild animals or to
+mine gold by giving the person title to that
+which he or she had brought into possession.
+In like manner, water meandering through the
+Great Plains was captured by individuals and
+transformed into an economic commodity
+usable to settlers.</p>
+
+<p>The appropriation doctrine originated in
+California as nineteenth-century miners looked
+for ways to augment the supply of water needed
+for mining operations. The doctrine first became
+law in the Great Plains in 1882 as a remedy
+for conflicts arising from agricultural water use
+in northeastern Colorado. Promoted by agricultural
+interests in the Great Plains, the appropriation
+doctrine was widely adopted as an
+alternative to riparian rights because of a
+common vision of future growth and a perception
+of water scarcity in the region. The
+doctrine promoted settlement because it allowed
+water to be detached and used in areas
+remote from the stream. Appropriation law
+rewarded those who had diverted water for
+use in a dry environment by giving them a
+secure right to a quantifiable amount of water
+upon which to base their operations. In North
+Dakota, South Dakota, Nebraska, and Kansas,
+appropriation is now the exclusive means of
+acquiring water rights, and in Oklahoma the
+conflicting doctrine of riparian rights is restricted
+to household and livestock uses.</p>
+
+<closer>
+<signed>Theron Josephson<lb/>
+Ferris State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dunbar, Robert G. <title level="m">Forging New Rights in Western Water</title>.
+Lincoln: University of Nebraska Press, 1983.</bibl> <bibl>Hutchins,
+W. A. <title level="m">Water Rights in the Nineteen Western States</title>. Washington
+<hi rend="smallcaps">DC</hi>: Government Printing Office, 1974.</bibl> <bibl>Trelease,
+Frank J., and George A. Gould. <title level="m">Cases and Materials on
+Water Law</title>, 4th ed. St. Paul <hi rend="smallcaps">MN</hi>: West Publishing Company,
+1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ware, John (1845–1905)</title>
+<title level="m" type="sub"></title>
+<author>Dawn Nickel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+ 
+<sourceDesc>
+<bibl><author n="Nickel, Dawn">Dawn Nickel</author>. <title level="a">"Ware, John (1845–1905)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">23</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WARE, JOHN (1845-1905)</head>
+<figure n="egp.afam.042" rend="granted">
+<figDesc>John Ware and family (blackpast.org)</figDesc>
+</figure>     
+
+<p>By 1885, only three years after migrating to
+the foothills southwest of Calgary, Alberta,
+former slave and experienced cowboy John
+Ware had earned a reputation as the "best
+rough-rider in the North-West." Despite being
+nicknamed "Nigger John," contemporary accounts
+suggest that over time the color of his
+skin had less influence on how people perceived
+him than did his renowned strength,
+riding skills, and gentlemanly demeanor.</p>
+
+<p>Born in South Carolina in 1845, John Ware
+was freed from slavery at the end of the Civil
+War. By the late 1870s he had gained valuable
+experience in Texas as a cowhand and herdsman.
+In 1882, at the end of a long and arduous
+cattle drive from Montana to southwestern
+Alberta, Ware decided to stay in the area when
+he learned that employment opportunities
+with the large cattle companies were plentiful
+for experienced cowboys. By 1890 Ware was
+able to purchase his own ranch in the foothills,
+and in 1900 he moved with his wife and
+children to his second and last ranch, situated
+along the Red Deer River, east of Brooks, Alberta.
+John Ware died as a result of a riding
+accident on September 11, 1905.</p>
+
+<p>John Ware's personality and reputation as
+a successful horseman and rancher accorded
+him much respect and admiration during his
+twenty-three years in the region. After his
+death a creek, a coulee, a mountain, and eventually
+a folk song were given his name.</p>
+
+<closer>
+<signed>Dawn Nickel<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Winks, Robin W. <title level="m">The Blacks in Canada</title>. Montreal: McGill-Queen's University Press, 1997.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

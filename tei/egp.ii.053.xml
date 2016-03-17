@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ii.053 SYSTEM "egp.ii.053.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Roughnecks and Roustabouts</title>
+<title level="m" type="sub"></title>
+<author>Kenny A. Franks</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Franks, Kenny A.">Kenny A. Franks</author>. <title level="a">"Roughnecks and Roustabouts."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">397</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">ROUGHNECKS AND ROUSTABOUTS</head>
+
+<figure n="egp.ii.053" rend="granted">
+<figDesc>The drilling floor of a cable tool-drilling rig</figDesc>
+</figure>
+
+<p>Roughnecks, skilled members of drilling crews, are employed in the drilling of oil wells. Once the wells are put on-line, roughnecks hurry to find work in the next oil strike. Roustabouts, unskilled laborers, also follow the oil booms; however, they often take work outside of drilling operations and sometimes became more permanent oil-town residents. Many from both groups are young and unmarried men who work hard and spend their money with abandon to relieve the monotony of the work and the often wretched living conditions. Lured by the excitement and adventure of "black gold," they have long migrated from one strike to another throughout the <geogName rend="region" reg="Great Plains">Great Plains</geogName>, from the <geogName rend="river" reg="Rio Grande of Texas">Rio Grande of Texas</geogName> north to the <geogName rend="region" reg="Candian Prairie Provinces">Prairie Provinces</geogName> of <placeName rend="country" key="can" reg="Canada">Canada</placeName> and from the midcontinent region of <placeName rend="state" key="ok" reg="Oklahoma">Oklahoma</placeName> and <placeName rend="state" key="ks" reg="Kansas">Kansas</placeName> west to the <geogName rend="mountains" reg="Rocky Mountains">Rocky Mountains</geogName>. Icons in literature and motion pictures, roughnecks and roustabouts in oil boomtowns such as Whizbang, <placeName rend="settlement" key="tx.bor" reg="Borger, Texas">Borger</placeName>, <placeName rend="settlement" key="ca.art" reg="Artesia, California">Artesia</placeName>, and El Dorado replaced the earlier cowboys of <placeName rend="settlement" key="ks.abi" reg="Abilene, Kansas">Abilene</placeName> and <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge City</placeName>, prospectors from <placeName rend="settlement" key="ok.cc" reg="Custer City, Oklahoma">Custer City</placeName> and <placeName rend="settlement" key="sd.dea" reg="Deadwood, South Dakota">Deadwood</placeName>, and bullwhackers on the <placeName rend="trail" key="tra.sfe" reg="Santa Fe Trail">Santa Fe Trail</placeName> and the <placeName rend="trail" key="tra.prr" reg="Platte River Road">Platte River Road</placeName> in the lore of the <geogName rend="region" reg="Great Plains">Great Plains</geogName>.</p>
+
+<p>A roughneck is expected to handle a number of tasks. He could be a bit dresser in charge of repairing and sharpening drill bits; a brakeout man, who adjusts the heavy tongs used to loosen pipe joints as they are pulled out of the hole; a cathead man in charge of the winch head on the draw-works countershaft of a rotary rig; a chain slinger, back-up man, or C-slinger, who handles the tongs used to hold the lower section of drill pipe while the upper section is unscrewed; a tool dresser or toolie, who assists the driller and keeps the tools in good repair; a floorman or slip puller, who performs general tasks on the floor of a derrick; a lead-tong man, pipe stabber, or pipe racker, who handles the lead tong and stacks pipe. An inexperienced roughneck is known as a farmer. The tool pusher, also called a stud horse, stud duck, or stud terrapin, is in charge of the roughnecks on a drilling crew.</p>
+
+<p>A roustabout, also called a gaffer, assists the drilling foreman with tasks such as feeding fuel to boilers on cable tool rigs or performs general work around producing oil wells and oil company property. A head roustabout is the name given to a district superintendent who oversees several drilling rigs.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.035">Oil Boomtowns</ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.046">Petroleum, Canada</ref>; <ref n="egp.ind.047">Petroleum, United States</ref>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">Kenny A. Franks<lb/>
+Oklahoma Heritage Association</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Boone, Lalia Phipps. <title level="m">The Petroleum Dictionary</title>. Norman: University of Oklahoma Press, 1952.</bibl> <bibl>Day, David Talbot. <title level="m">The Handbook of the Petroleum Industry</title>. New York: Wiley Publishing Company, 1922.</bibl> <bibl>Franks, Kenny A., and Paul F. Lambert. <title level="m">Voices from the Oil Field</title>. Norman: University of Oklahoma Press, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

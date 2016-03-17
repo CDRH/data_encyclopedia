@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispanic Architecture</title>
+<title level="m" type="sub"></title>
+<author>Chris Wilson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wilson, Chris">Chris Wilson</author>. <title level="a">"Hispanic Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">84-85</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HISPANIC ARCHITECTURE</head>
+
+<p>Mexican pioneers first introduced their adobe
+building tradition to the Plains in the 1830s.
+Later, in the mid-1890s California Mission Revival
+style initiated the self-conscious use of
+Hispanic imagery for commercial, civic, and
+residential purposes. Mexican and Mexican
+American workers recruited to the region by
+agricultural interests and the railways after
+1900 were first provided with rudimentary
+housing but in time developed their own distinctive
+colonias and barrios. These manifestations
+of Hispanic architecture have been
+strongest on the southern and western reaches
+of the Great Plains but have echoed north at
+least into the Dakotas. However, the relation
+of the houses built and lived in by Mexican
+Americans&#8211;the primary Hispanic residents
+of the Great Plains&#8211;to self-conscious Hispanic
+Revival–style buildings has often been
+tenuous.</p>
+
+<p>Workmen hired from New Mexico in the
+early 1830s constructed Bent's Fort in southeastern
+Colorado of adobe, following the
+Spanish Mexican presidio plan of an enclosed
+quadrangle with rooms one deep on each side
+and two towers at opposite corners. Bent's Fort
+was the model for six fur-trading forts built
+over the next ten years along the South and
+North Platte Rivers in northeastern Colorado
+and southeastern Wyoming. The U.S. Army
+adopted adobe as the most cost-effective material
+for its installations on the Central and
+Southern Plains from the late 1840s into the
+1870s. However, only at Fort Mitchell, in western
+Nebraska, did the army also adopt the
+quadrangle plan.</p>
+
+<p>Between the mid-1830s and 1900, mestizos
+from north-central New Mexico pushed into
+southeastern Colorado and the panhandles of
+Texas and Oklahoma, while Tejano settlers
+moved up the Rio Grande and the Pecos River
+onto the Southern Plains in Texas. Both
+groups carried the Spanish Mexican vernacular
+building tradition of massive load-bearing
+walls. These were primarily built of adobe, although
+they could also be made of unfinished
+stone, vertical posts, or hewn horizontal logs,
+all finished with earthen plaster. Log or milled
+beams topped by branches or milled decking
+and a layer of earth formed the typical flat
+roofs. Most houses were two to four rooms,
+each with an exterior door and arranged in
+single file or L-shaped plans. After 1865 carpenter
+Greek Revival detailing and gabled and
+hipped roofs of wood or corrugated metal
+were added to this owner-built vocabulary.</p>
+
+<p>While most early Plains towns took their
+architectural inspiration from Europe and the
+East, Spanish Mexican borderlands history
+made the romantic evocation of Hispanic
+styles plausible, especially on the Southern
+Great Plains. The Texas and Colorado state
+buildings at the 1893 Chicago World's Fair
+evoked this Spanish heritage, and around 1897
+the Santa Fe Railway adopted the California
+Mission style for its depots and track-side
+Harvey House hotels as part of its campaign to
+attract tourists from the Midwest.</p>
+
+<p>Most popular from 1900 to 1925, the Mission
+style employed buff brick or light stuccoed
+walls, red tile roofs, arched porches,
+curved and stepping parapets fronting gable
+ends, and occasional towers patterned on
+Spanish missions. While the Mission-style basics
+of stucco and red tile continued after 1920,
+mixtilinear parapets became less common,
+and a richer vocabulary of cast stone and
+glazed terra-cotta ornament based on the baroque
+churches of Mexico and Spain provided
+the predominant accents for Spanish Colonial
+Revival buildings. This Mission-Spanish Colonial
+genre was adopted primarily for train
+depots, hotels, tourist courts, movie theaters,
+sanitariums, veterans hospitals, Catholic
+churches, suburban homes, and both public
+and mission church schools, especially those
+for Mexican or Indian students. Texas Tech
+University in Lubbock adopted Spanish Colonial
+Revival for its campus in the 1920s.</p>
+
+<p>The related Pueblo Revival style, developed
+primarily in New Mexico in the second decade
+of the twentieth century, incorporated elements
+of the flat-roofed, multistory Pueblo
+villages and the carved corbel brackets and
+adobe of early Spanish missions. The style was
+used for public buildings, hotels, and Indian
+schools in the Great Plains. An occasional aficionado
+of Santa Fe and Taos might also build
+a Pueblo-style suburban home. Although the
+projecting log <hi rend="italic">vigas</hi> of the Pueblo style and the
+simple curved and stepping Mission parapets
+occasionally echoed the Mexican American
+owner-built vernacular, those commissioning
+and designing the great majority of Hispanic
+Revival buildings were non-Hispanics.</p>
+
+<p>Even as the Mission style gained popularity
+about 1900, workers recruited from Mexico
+and the Southwest were provided rudimentary
+housing: tents and boxcar houses next to
+rail yards and scrap-lumber shacks for migrant
+farm laborers. In the 1920s, as laborers
+in the sugar beet fields of Colorado, Wyoming,
+Nebraska, and the Dakotas sought yearround
+residence, the Great Western Sugar
+Company responded by developing a series of
+workers colonies. Apparently built by the
+workers themselves in the off-season, the
+housing employed the flat-roofed adobe vernacular
+tradition.</p>
+
+<p>In medium-size and large communities,
+once workers secured permanent employment
+they quickly moved out of company housing
+and into working-class districts. Their barrio
+communities took names like Guadalupe, Little
+Mexico, Argentine, Santa Fe, El Hueso, and
+Chihuahua Hill. Workers often rented existing
+two-room cottages, shotgun houses, and
+modest bungalows. The desire for home
+ownership, however, led many extended families
+to pool their resources and purchase a
+house. Some families built cottages to the rear
+from lumber, used railroad ties, rails, and corrugated
+sheet metal that might house newly
+arrived relatives or be rented to produce extra
+income. Some families created enclosed compounds
+with packed dirt patios to the rear
+and defined their front yards with low chainlink
+and wrought-iron fences or concrete
+block walls. Barrios are often distinguished by
+shrines to the Virgin of Guadalupe, Chicano
+murals, and vibrant red, turquoise, and pastel
+colors.</p>
+
+<p>Today, many descendants of Mexican American
+pioneers and of the first Mexican immigrants
+to the Great Plains have entered
+integrated, middle-class suburbs, where the
+generic Mission style of Taco Bell and scattered
+Mediterranean-style houses hint at the
+region's Hispanic heritage. In the barrios and
+on the fringes of small agricultural communities,
+the current generation of Mexican and
+Central American immigrants who help support
+the restaurants, construction trades, and
+food-processing and meat-packing plants still
+face chronic problems of substandard and
+overcrowded housing.</p>
+
+<closer>
+<signed>Chris Wilson<lb/>
+University of New Mexico<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Murphy, David. "Building in Clay on the Central Plains."
+In <title level="m">Perspectives in Vernacular Architecture III</title>, edited by
+Thomas Carter and Bernard L. Herman. Columbia: University
+of Missouri Press, 1989: 74–85.</bibl> <bibl>Pratt, Boyd C.
+"Homesteading the High Plains of New Mexico: An Architectural
+Perspective." <title level="j">Panhandle-Plains Historical Review</title>
+63 (1990): 1–33.</bibl> <bibl>Wilson, Chris. "When a Room Is the
+Hall: The Houses of West Las Vegas, New Mexico." In
+<title level="m">Images of an American Land: Vernacular Architecture in the Western United States</title>, edited by Thomas Carter. Albuquerque:
+University of New Mexico Press, 1997: 113–28.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

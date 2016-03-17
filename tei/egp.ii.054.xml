@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">State and Province Symbols</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"State and Province Symbols."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">397&#8211;398</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<div1>
+<head type="main">STATE AND PROVINCE SYMBOLS</head>
+
+<table rows="14" cols="6">
+<row><cell role="desc">State/Provinces</cell><cell role="desc">Nickname</cell><cell role="desc">Animal</cell><cell role="desc">Bird</cell><cell role="desc">Flower</cell><cell role="desc">Tree</cell></row>
+
+<row><cell role="data">Colorado</cell><cell role="data">Centennial State</cell><cell role="data">bighorn sheep</cell><cell role="data">lark bunting</cell><cell role="data">columbine</cell><cell role="data">blue spruce</cell></row>
+<row><cell role="data">Kansas</cell><cell role="data">Sunflower State</cell><cell role="data">bison</cell><cell role="data">western meadowlark</cell><cell role="data">sunflower</cell><cell role="data">eastern cottonwood</cell></row>
+<row><cell role="data">Oklahoma</cell><cell role="data">Sooner State</cell><cell role="data">bison</cell><cell role="data">scissor-tailed flycatcher</cell><cell role="data">mistletoe</cell><cell role="data">redbud</cell></row>
+<row><cell role="data">Montana</cell><cell role="data">Treasure State</cell><cell role="data">grizzly bear</cell><cell role="data">western meadowlark</cell><cell role="data">bitterroot</cell><cell role="data">Ponderosa pine</cell></row>
+<row><cell role="data">Nebraska</cell><cell role="data">Cornhusker State</cell><cell role="data">white-tailed deer</cell><cell role="data">western meadowlark</cell><cell role="data">goldenrod</cell><cell role="data">eastern cottonwood</cell></row>
+<row><cell role="data">New Mexico</cell><cell role="data">Land of Enchantment</cell><cell role="data">black bear</cell><cell role="data">roadrunner </cell><cell role="data">yucca</cell><cell role="data">Pi&#241;on</cell></row>
+<row><cell role="data">North Dakota</cell><cell role="data">Peace Garden State</cell><cell role="data"></cell><cell role="data">western meadowlark</cell><cell role="data">wild prairie rose</cell><cell role="data">American elm</cell></row>
+<row><cell role="data">South Dakota</cell><cell role="data">Coyote State</cell><cell role="data">coyote</cell><cell role="data">ring-necked pheasant</cell><cell role="data">pasque flower</cell><cell role="data">Black Hill spruce</cell></row>
+<row><cell role="data">Texas</cell><cell role="data">Lone Star State</cell><cell role="data">longhorn and armadillo</cell><cell role="data">mockingbird</cell><cell role="data">bluebonnet</cell><cell role="data">pecan</cell></row>
+<row><cell role="data">Wyoming</cell><cell role="data">Equality State</cell><cell role="data">bison</cell><cell role="data">western meadowlark</cell><cell role="data">Indian paintbrush</cell><cell role="data">plains cottonwood</cell></row>
+<row><cell role="data">Alberta</cell><cell role="data"></cell><cell role="data"></cell><cell role="data">great horned owl</cell><cell role="data">wild rose</cell><cell role="data">lodgepole pine</cell></row>
+<row><cell role="data">Manitoba</cell><cell role="data"></cell><cell role="data"></cell><cell role="data">great gray owl</cell><cell role="data">prairie crocus</cell><cell role="data">white spruce</cell></row>
+<row><cell role="data">Saskatchewan</cell><cell role="data"></cell><cell role="data"></cell><cell role="data">sharp-tailed grouse</cell><cell role="data">western red lily</cell><cell role="data">white birch</cell></row>
+</table>
+
+<p>The <geogName rend="region" reg="Great Plains">Great Plains</geogName> region has had many symbols thrust upon it, generally from the outside. Often they are pejorative, including <geogName rend="region" reg="Great American Desert">Great American Desert</geogName>, flyover country, and, in its dismissal of the reality of residents in the region, buffalo commons. But the states and provinces that make up the <geogName rend="region" reg="Great Plains">Plains</geogName> have also chosen their own symbols, from birds and flowers to nicknames and slogans, and, as might be expected, these reflect their environments more accurately than the imposed images. They also present a more positive face to the world.</p>
+
+<p>Quite a few of the symbols, particularly those emblems of identity drawn from the physical environment, are widely represented. For example, the western meadowlark, whose joyous, flutelike song enriches the Plains aural landscape, is the official bird of five <geogName rend="region" reg="Central Plains">Central</geogName> and <geogName rend="region" reg="Northern Plains">Northern Plains</geogName> states; the honeybee (even though it is a foreign import) is the official insect of four states; the bison, historically the defining symbol of the Plains, is the official animal of three states; and the wild prairie rose of roadsides, pastures, and meadows is the official flower on both sides of the fortyninth parallel in <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName> and <placeName rend="state" key="ab" reg="Alberta">Alberta</placeName>. Other environmental symbols&#8211;<placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName>'s roadrunner, for example&#8211;are more geographically specific.</p>
+
+<p>The range of representative symbols is extraordinarily broad, especially in the <placeName rend="country" key="usa" reg="United States of America">U.S.</placeName> section of the <geogName rend="region" reg="Great Plains">Plains</geogName>. (The approval process in the <geogName rend="region" reg="Prairie Provinces">Prairie Provinces</geogName> is far more bureaucratic and stringent, resulting in fewer official symbols.) <placeName rend="state" key="tx" reg="Texas">Texas</placeName> has three state mammals, large (longhorn), small (armadillo), and flying (free-tailed bat); <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName> has a state soil, the Holdrege series; <placeName rend="state" key="tx" reg="Texas">Texas</placeName>, <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName>, and <placeName rend="state" key="co" reg="Colorado">Colorado</placeName> recognize square dancing as their state dance; <placeName rend="state" key="nm" reg="New Mexico">New Mexico</placeName> claims the bizcochito as its state cookie; and <placeName rend="state" key="co" reg="Colorado">Colorado</placeName> has a state tartan, which, generously, "may be worn by any resident or friend of <placeName rend="state" key="co" reg="Colorado">Colorado</placeName>, whether or not of Celtic heritage." More ubiquitous icons include state and province flags, seals, mottos, and songs, the last of which have a tendency to nostalgia.</p>
+
+<p>How are these diverse symbols chosen, and why? Economic influence plays a role; hence, milk is <placeName rend="state" key="nd" reg="North Dakota">North Dakota</placeName>'s official state beverage, in recognition of the importance of the dairy industry. Official flowers and birds are often promoted by women's clubs, and agricultural and conservation societies are often behind the selection of state grasses. Selections are sometimes made more democratically: <placeName rend="state" key="ne" reg="Nebraska">Nebraska</placeName> schoolchildren chose the western meadowlark as the state bird, and in 1982 55,000 school-children in 425 <placeName rend="state" key="mt" reg="Montana">Montana</placeName> schools selected the grizzly bear as the state animal by a two-to-one margin over the elk. Sometimes symbols are chosen by happenstance. In 1956 the <orgName rend="government" key="gov.nd.mvd" reg="North Dakota Motor Vehicle Department">North Dakota Motor Vehicle Department</orgName> put the words "Peace Garden State" on its license plates in recognition of the <orgName rend="monument" key="mon.ipg" reg="International Peace Garden">International Peace Garden</orgName>, which straddles the international boundary with <placeName rend="state" key="mb" reg="Manitoba">Manitoba</placeName>. The name proved so popular that the 1957 legislature made it official. It certainly beats <geogName rend="region" reg="Great American Desert">Great American Desert</geogName>.</p>
+
+<closer>
+<signed rend="right"><hi rend="italic">David J. Wishart<lb/>
+University of Nebraska-Lincoln</hi></signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

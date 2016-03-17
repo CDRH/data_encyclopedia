@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Leader-Post</hi> (Regina)</title>
+<title level="m" type="sub"></title>
+<author>Jim McKenzie</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="McKenzie, Jim">Jim McKenzie</author>. <title level="a">"<hi rend="italic">Leader-Post</hi> (Regina)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">515-516</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">Leader-Post</hi> (Regina)</head>
+
+<p>The <title level="j">Leader-Post</title> is the only newspaper published
+in Regina, Saskatchewan. It is typical of
+the monopoly papers operated across Canada
+by the nation's biggest chain, the Hollinger
+organization, which owns not only the <title level="j">Leader-Post</title> but also the <title level="j">Star-Phoenix</title> in Saskatoon
+and the province's two other dailies in Moose
+Jaw and Prince Albert.</p>
+
+<p>The <title level="j">L-P</title>, as it is popularly known, was
+started by Nicholas Flood Davin, a flamboyant
+Irish lawyer, shortly after Regina was
+founded in 1882. Davin's small weekly paper,
+which he modestly called the <title level="j">Leader</title>, reflected
+its owner's feisty personality. Davin, a Conservative,
+used the paper to propel himself into
+Parliament, then sold out to Walter Scott, a
+Liberal. Scott also used the <title level="j">Leader</title> as a political
+stepping stone and eventually became
+Saskatchewan's first premier.</p>
+
+<p>The <title level="j">Leader</title> prospered and became a daily
+when Regina's economy boomed at the beginning
+of the twentieth century. After that, the
+paper went through several owners. Meanwhile,
+a competing paper, the <title level="j">Regina Daily Post</title>, had started up. The Sifton family bought
+them both in 1928 and amalgamated them,
+enjoying a monopoly for the next seven decades
+before selling out to the profit-hungry
+Hollinger, which promptly fired a quarter of
+the staff to cut costs.</p>
+
+<p>During its peak under the Siftons, the
+<title level="j">Leader-Post</title> provided solid coverage of the city
+and southern Saskatchewan. It maintained bureaus
+in Moose Jaw, Swift Current, Yorkton,
+Weyburn, and Estevan as well as Ottawa. During
+those good years, from the 1950s to the
+1970s, the <title level="j">L-P</title> was the best source of news
+between Winnipeg and Calgary.</p>
+
+<p>But over the past quarter-century, competition
+from television, declining reader interest,
+and a gradual shift in policy toward putting
+profit ahead of public service have combined
+to reduce the <title level="j">L-P</title> to a shadow of its former
+self. It no longer holds a preeminent place in
+the journalistic community, and the remaining
+newsroom staffers have become so disgruntled
+that they recently voted to form a
+labor union.</p>
+
+<p>Today's editions of the paper are filled with
+wire copy, human-interest features, and other
+easy-to-get material. The scaled-down newsroom
+staff attends car accidents and news
+conferences, but the paper offers little when it
+comes to enterprise or investigative reporting.
+An independent rival weekly recently failed,
+so the <title level="j">L-P</title> has no competition and no incentive
+to improve.</p>
+
+<p>News coverage is not the only thing that has
+declined. The once-spirited paper has become
+timid and bland. Today's editorial page comes
+out in favor of responsible citizenship, good
+government, and other banalities. The only
+thing the <title level="j">Leader-Post</title> regularly gets upset
+about is the fate of the Saskatchewan Roughriders
+football team, which the sports department
+covers in the minutest detail.</p>
+
+<p>The <title level="j">L-P</title> is a big booster of the community,
+taking part in promotional events and beating
+the drum for good causes. The paper's appearance
+is better than its content. Its pages
+are well laid out, while reproduction of color
+ads and photos is good, thanks to a highquality
+press and a modern plant.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.041">Regina, Saskatchewan</ref>.</p>
+
+<closer>
+<signed>Jim McKenzie<lb/>
+University of Regina</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

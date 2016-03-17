@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mexican American Cuisine</title>
+<title level="m" type="sub"></title>
+<author>Barbara G. Shortridge</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shortridge, Barbara G.">Barbara G. Shortridge</author>. <title level="a">"Mexican American Cuisine."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">362</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MEXICAN AMERICAN CUISINE</head>
+
+<p>Of the familiar ethnic triad of foods in the
+United States, Mexican American dishes far
+outdistance those from Italy and China in
+the Great Plains. This is true both for locally
+owned restaurants and for fast-food franchises.
+The cuisine became known because of
+the region's proximity to the Southwest, and
+it became popular because it is inexpensive,
+tastes good, and is filling. The wide diffusion of
+Mexicans and Mexican Americans throughout
+the Plains in recent decades has meant that
+family Mexican restaurants and Mexican grocery
+stores have come even to small communities,
+diversifying and enriching the culinary
+landscape.</p>
+
+<p>What most Plains people are eating is Tex-
+Mex, a modified version of Mexican food
+originally adapted to please Anglo palates that
+preferred less heat and more meat. Some food
+items, such as tortilla chips, were actually concocted
+for the U.S. market. The preparation
+style and ingredient list is different from historic
+Mexican cooking in that Tex-Mex has
+more cheese and tomato-based sauces. It differs
+from Spanish-colonial cooking in its
+spices, variety of meats, and wheat-based pastries.
+Tex-Mex has its origins as a lower-class or
+peasant food, similar in function to Cajun
+food within southern Louisiana culture. In
+fact, Tex-Mex food represents such a jumbled
+mixing of food traditions from several cultures
+that it is difficult to untangle the regional
+origins and discuss authenticity. It is truly a
+hybrid product.</p>
+
+<p>In a restaurant setting, a Tex-Mex meal is
+invariably initiated by a basket of tortilla chips
+and fresh tomato salsa, with options for varying
+degrees of heat. A common meal is a combination
+plate that might include a beef taco
+served in a crisp corn tortilla, a chicken enchilada
+with sauce, a bean burrito wrapped in
+a flour tortilla, and sides of refried beans and
+Spanish rice. One end of the plate contains a
+mound of shredded iceberg lettuce with fresh
+tomato chunks, and a layer of grated cheese
+covers everything. Dessert might be sopapillas,
+while a beverage of choice is often a beer
+or margarita. Liquid of some kind is essential,
+as the diner does not always know in advance
+the heat level of the dish. The ambiance of the
+restaurant setting is, of course, dependent
+upon the imagination of the owner, but the
+decor often includes bright, tropical colors,
+<hi rend="italic">ristras</hi> of dried red chiles, painted clay pottery,
+and ironwork. Mexican music is almost mandatory
+and is important in conveying the upbeat,
+festive atmosphere associated with this
+cuisine.</p>
+
+<p>Three classic Tex-Mex items&#8211;tacos, nachos,
+and chili&#8211;have escaped their ethnic origins
+and become "American." Other foods belonging
+to this cuisine are more likely to be found in
+the Mexican American home, although some
+have begun to be incorporated into restaurant
+settings as customers demand more variety.
+Pico de gallo, chicharron, gorditos, and chalupas
+are in the process of making it in the
+commercial world. Others, such as tamales, are
+often homemade, special-occasion food. Cabrito,
+offal food, barbacoa, panocha, chorizo,
+bu&#241;uelos, and handmade tortillas all fall
+mostly in the category of home consumption
+only. As the Mexican American population becomes
+more urban, lack of time to prepare
+labor-intensive dishes and the inability to
+butcher animals and cook outside in a pit are
+changing some aspects of the cuisine.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.019">Foodways</ref>.</p>
+
+<closer>
+<signed>Barbara G. Shortridge<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bentley, Amy. "From Culinary Other to Mainstream American:
+Meanings and Uses of Southwestern Cuisine." <title level="j">Southern Folklore</title> 55 (1998): 238-52.</bibl> <bibl>Graham, Joe S. "Mexican-
+American Traditional Foodways at La Junta De Los Rios."
+<title level="j">Journal of Big Bend Studies</title> 2 (1990): 1-27.</bibl> <bibl>Pilcher, Jeffrey
+M. <title level="m">¡Que vivan los tamales! Food and the Making of Mexican Identity</title>. Albuquerque: University of New Mexico Press,
+1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

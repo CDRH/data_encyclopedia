@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Great Plains Black Museum</title>
+<title level="m" type="sub"></title>
+<author>Daniel Boamah-Wiafe</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Boamah-Wiafe, Daniel">Daniel Boamah-Wiafe</author>. <title level="a">"Great Plains Black Museum."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">15</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GREAT PLAINS BLACK MUSEUM</head>
+<figure n="egp.afam.020" rend="granted">
+<figDesc>The Great Plains Black Museum, Omaha, Nebraska</figDesc>
+</figure> 
+    
+<p>The Great Plains Black Museum at 2213 Lake
+Street in Omaha, Nebraska, has one of the
+largest repositories of historical materials
+and resources on the African American experience
+in the United States. The museum
+opened in the historic Webster Telephone Exchange
+building in February 1976 with more
+than 10,000 rare books, artifacts, magazines,
+documents, letters, pictures, and other memorabilia
+from Mrs. Bertha Calloway's private
+collection. The museum was also supported by
+a $101,000 grant from the board of the American
+Bicentennial Administration. Other financial
+support has come from private contributions,
+voluntary donations, and state agency
+grants.</p>
+
+<p>From its inception, the central mission of
+the museum has been the preservation and
+enhancement of knowledge about the history
+and culture of African Americans in the Great
+Plains. Today, the museum has more than
+100,000 items, displayed in several galleries,
+depicting the diversity of the African American
+experience in the region. The exhibits are
+grouped into several divisions, each displayed
+in a separate room. The military room, for
+example, houses pictures, clothing, correspondence,
+wills, medals, discharge papers,
+and other documents. Other divisions are devoted
+to African and African American arts
+and artifacts, African American women of the
+Great Plains, rare books, church and religion,
+and music and entertainment. There are also
+exhibits on African American homesteaders
+and a section commemorating African American
+political leaders in the region.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.028">Museums</ref>.</p>
+
+
+<closer>
+<signed>Daniel Boamah-Wiafe<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Calloway, Bertha W., and Alonzo N. Smith. <title level="m">Visions of
+Freedom on the Great Plains: An Illustrated History of African
+Americans in Nebraska</title>. Virginia Beach <hi rend="smallcaps">VA</hi>: Donning
+Company Publishers, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

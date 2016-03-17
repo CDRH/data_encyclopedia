@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.067">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sustainable Agriculture</title>
+<title level="m" type="sub"></title>
+<author>Charles A. Francis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.067</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Francis, Charles A.">Charles A. Francis</author>. <title level="a">"Sustainable Agriculture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">53-54</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUSTAINABLE AGRICULTURE</head>
+
+<p>To maintain human economic activity and
+quality of life in the Great Plains, it is essential
+to develop a strategy that efficiently
+uses and conserves natural resources over the
+long term. Agriculture provides the opportunity
+to use the water, soil, and other renewable
+resources of the Plains, but strategies and
+systems for crop, forage, and livestock production
+need to be designed for maximum
+sustainability. This means an agriculture that
+does not overly exploit or deplete these resources,
+an agriculture that is productive, economically
+sound, environmentally benign,
+and socially viable. One of the most successful
+models that meets these criteria, including
+maintaining rural communities, is a sustainable
+agriculture based on renewable resources,
+private farm ownership, and family farming
+units.</p>
+
+<p>What defines the Plains climate for agriculture
+is a rate of evapotranspiration (water loss
+from soil and plants) that exceeds the rate
+of rainfall for an important part of the crop-growing
+season. There are many ways to compensate
+for this adverse climate, all involving
+capturing and storing moisture in the soil so
+that it will be available when crops are growing.
+They include reduced or zero tillage during
+land preparation, choosing crops that have
+low water needs, planting lower crop populations
+that will use less water, and managing
+weeds in a way that limits their water use. Application
+of chemical herbicides, coupled with
+minimum or zero tillage, can drastically reduce
+water loss from the soil surface, but there
+is the potential hazard of chemical contact by
+human applicators or nontarget members of
+the ecosystem. Woody perennial windbreaks
+can reduce transpiration from crops and increase
+production. A combination of these
+water-saving and harvesting methods makes
+maximum possible use of accumulated water
+storage from snow and rain.</p>
+
+<p>Irrigation was long used in the Great Plains
+by Native Americans and later by European
+American immigrants who settled near rivers.
+There is now a large irrigated acreage in Nebraska,
+western Kansas, the Texas Panhandle,
+and southern Alberta. Although some acres
+depend on surface water supplies that are renewed
+each year, a large portion of irrigation
+in the Central and Southern Plains comes
+from the Ogallala Aquifer. During the past two
+decades this source of groundwater has been
+seriously depleted, especially in the Southern
+Plains. Farmers there have shifted from irrigated
+corn to less demanding crops such as
+grain sorghum and cotton. The Ogallala Aquifer
+is recharged through the Sandhills of Nebraska
+and from playa lakes on the Southern
+Plains, and thus can recuperate if irrigation is
+curtailed. Deeper aquifers below the Ogallala
+are composed of fossil water that, once depleted,
+is lost. Although irrigated production
+of cereals such as corn, grain sorghum, and
+wheat has been profitable over the past five
+decades, it is unlikely that production will
+continue, because Plains farmers have to compete
+with farmers farther east in the United
+States and in other countries with better rainfall
+conditions and much lower production
+costs. It is likely that scarce irrigation will be
+used only on specialty, higher-value crops in
+the future, hence the importance of sustainable
+agriculture.</p>
+
+<p>Sustainable agriculture generally includes
+such production practices as crop rotation,
+integrated pest management, soil fertility that
+depends to the greatest extent possible on
+legumes and grasses in the sequence, and a
+minimum program of tillage that helps prevent
+soil erosion. Many proponents maintain
+that raising livestock as an integral component
+of the system is essential to long-term soil fertility
+and sustainability. Livestock provide a
+ready outlet for green forages and hay and
+speed the cycling of nutrients by consuming
+these forages and leaving manure in the fields.
+They also can graze crop residues in place,
+making use of such forages and cycling nutrients
+through manure. Composting animal
+manures and urban organic wastes is another
+method of returning important nutrients to
+the land and building soil organic matter. Although
+much of the nitrogen and some other
+elements are lost during the composting process,
+the nutrients are present in a more stable
+condition that makes them less susceptible to
+loss from the system after incorporation into
+the soil.</p>
+
+<p>To be sustainable, an agricultural system
+must be economically viable in both the short
+term and the long term. Thus it is essential
+to design systems that enhance the resources
+on which productivity is based rather than
+pursuing a simplified system that exploits
+nonrenewable resources such as fossil fuels
+and sacrifices long-term sustainability for
+short-term gain. Federal price-support programs
+for specific crops distort the long-term
+biological and ecological realities, since farmers
+feel forced to seek monoculture strategies
+that maximize short-term gains. Likewise,
+short-term rental or lease agreements for land
+provide little incentive for the operator to
+conserve soil and focus on the future value of
+this resource. For these reasons, an agriculture
+based on family farm ownership and entrepreneurship
+seems the most likely to provide
+stability in food production and conservation
+of resources.</p>
+
+<p>Social viability of rural communities is the
+final dimension of sustainable agriculture.
+When farms in the Great Plains were consolidated
+over the past century, the result was
+fewer people on the land as well as fewer in
+rural communities to provide support services
+and social infrastructure. Many small towns in
+the Plains have disappeared. In part this is a
+natural consequence of mechanization of agriculture,
+with fewer hands needed to till and
+harvest. It is also a result of improved transportation,
+since commodities can now be
+marketed over a wide area rather than depending
+on a local elevator or other buyer. On
+the business side, it is clear that the larger the
+farm the less the reliance on local services—
+pesticides, fertilizers, and equipment now may
+be purchased from a several state area rather
+than from the local dealer. The impact of large
+farms is loss of local business and consequently
+the loss of other rural infrastructure:
+churches, schools, medical facilities, entertainment,
+in short the loss of community.
+Such a system is clearly not sustainable from
+the family standpoint, and an agriculture that
+depends on distant ownership and minimumwage
+jobs does not promote conservation of
+natural or human resources. Building systems
+that add value to products locally, that generate
+both food and income for local residents,
+and that cycle dollars around in the community,
+rather than extracting them from the
+land and people, can lead to a more sustainable
+agriculture and food system for the Great
+Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.049">Small Towns</ref> / <hi rend="smallcaps">WATER</hi>: <ref n="egp.wat.011">Irrigation</ref>; <ref n="egp.wat.018">Ogallala Aquifer</ref>.</p>
+
+<closer>
+<signed>Charles A. Francis<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Edwards, Clive A., Rattan Lal, Patrick Madden, Robert H.
+Miller, and Gar House, eds. <title level="m">Sustainable Agricultural Systems</title>.
+Ankeney <hi rend="smallcaps">IA</hi>: Soil and Water Conservation Society,
+1990.</bibl> <bibl>Francis, Charles A., Cornelia B. Flora, and Larry D.
+King. <title level="m">Sustainable Agriculture in Temperate Zones</title>. New
+York: John Wiley &amp; Sons, 1990.</bibl> <bibl>Hegyes, Gabriel, and
+Charles Francis. <title level="m">Future Horizons: Recent Literature in Sustainable Agriculture</title>. Lincoln: Center for Sustainable Agricultural
+Systems, University of Nebraska–Lincoln, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.art.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sandz&#233;n, Sven Birger (1871-1954)</title>
+<title level="m" type="sub"></title>
+<author>Bruce R. Kahler</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.art.056</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kahler, Bruce R.">Bruce R. Kahler</author>. <title level="a">"Sandz&#233;n, Sven Birger (1871-1954)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">129</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SANDZ&#201;N, SVEN BIRGER (1871-1954)</head>
+
+<p>Sven Birger Sandz&#233;n was one of the premier
+landscape painters of the Great Plains during
+the first half of the twentieth century. Born
+in Blidsberg, Sweden, on February 5, 1871,
+Sandz&#233;n left in 1894 for the small town of
+Lindsborg, Kansas, founded twenty-five years
+earlier by Swedish Lutherans. There he intended
+to teach at Bethany College and pursue
+his art in the American West. As a student of
+drawing and painting in Stockholm and Paris,
+Sandz&#233;n valued the European tradition, but
+he was also eager to experience the liberating
+influence of the open prairies. Over the next
+sixty years he produced an estimated 2,800 oil
+paintings, 400 watercolors, 330 prints, and
+5,600 sketches.</p>
+
+<p>Best known are the landscapes, whose thick,
+vigorously applied paint in vivid colors reveal
+Sandz&#233;n's passionate response to nature. He
+was thrilled by the clear atmosphere and "glorious
+scenery" he found in Kansas, particularly
+the Smoky Hill River valley, where he lived,
+and farther west in Graham County. Sandzén
+was deeply impressed by rolling hills and ravines,
+and he cherished other commonplace
+features of the region such as cottonwood
+trees, sandstone boulders, and pioneer homes.
+He was also a consummate professional with a
+strong sense of civic responsibility. He taught
+art at Bethany College for over half a century,
+wrote articles for newspapers and magazines,
+and helped establish numerous organizations
+such as the Kansas Federation of Art and the
+Prairie Print Makers. Sandz&#233;n's legacy in
+Lindsborg lives on through the art department
+at Bethany College, his recently restored house
+and studio, and the Birger Sandz&#233;n Memorial
+Gallery, opened in 1957. Sandz&#233;n died in
+Lindsborg on June 22, 1954.</p>
+
+
+<closer>
+<signed>Bruce R. Kahler<lb/>
+Bethany College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Diffily, John. "Birger Sandz&#233;n 1871-1954: Through the
+Corridor of Nature." <title level="j">Southwest Art</title> 13 (1983): 42-51.</bibl> <bibl>Lindquist,
+Emory. <title level="m">Birger Sandz&#233;n: An Illustrated Biography</title>.
+Lawrence: University Press of Kansas, 1993.</bibl> <bibl>Birger Sandz&#233;n
+Papers, Birger Sandz&#233;n Memorial Gallery Archives,
+Lindsborg <hi rend="smallcaps">KS</hi>.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

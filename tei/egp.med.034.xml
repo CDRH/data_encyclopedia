@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nye, Bill (1850-1896)</title>
+<title level="m" type="sub"></title>
+<author>Charles Vollan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Vollan, Charles">Charles Vollan</author>. <title level="a">"Nye, Bill (1850-1896)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">518</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NYE, BILL (1850-1896)</head>
+
+<p>Edgar Wilson "Bill" Nye was born on August
+25, 1850, in Shirley, Maine. His family moved
+to Wisconsin when he was two years old. Nye
+attempted farming and teaching but was unsuccessful.
+He also studied law but did not
+pass the bar in Wisconsin. Leaving Wisconsin
+in 1876, he made his way to Laramie City, Wyoming
+Territory, where he worked as a reporter
+for the <title level="j">Laramie Sentinel</title>. Nye next began
+a two-year stint as editor of the <title level="j">Laramie Boomerang</title>, a newspaper named after his unpredictable
+mule. His satirical editorials and
+feature stories soon spread his fame far beyond
+Wyoming.</p>
+
+<p>In addition to his work as an editor, Nye
+passed the Wyoming bar and practiced law.
+He also served as justice of the peace, U.S.
+commissioner, and U.S. postmaster. In 1877 he
+married Clara Francis Smith, and together
+they had seven children. He published two
+works while living in Wyoming, <title level="m">Bill Nye and Boomerang</title> (1881) and <title level="m">Forty Liars and Other Lies</title> (1882). In 1883 spinal meningitis forced
+him to seek healthier surroundings. Following
+a short recuperative period in Greeley, Colorado,
+Nye returned to his childhood home of
+Hudson, Wisconsin.</p>
+
+<p>In 1885 Nye began a second career as a platform
+lecturer. He was wildly successful, rivaling
+Mark Twain in popularity. He delivered
+his humorous lectures, sometimes alone and
+sometimes with other humorists such as James
+Whitcomb Riley, until his death in 1896. He
+was soon a household name, and his gangly,
+bald figure, familiar through both the lecture
+circuit and the humorous illustrations included
+throughout his books, made him a particularly
+well-known celebrity.</p>
+
+<p>Nye continued to write throughout his career
+as a lecturer, his style becoming progressively
+more refined and containing less of the
+jocular humor that had been in vogue during
+the previous decades and that reads poorly
+today. In 1887 he published <title level="m">Bill Nye's Remarks</title>,
+and in 1888 he and his longtime partner, Riley,
+published <title level="m">Nye and Riley's Railway Guide</title>, their
+take on the popular railroad guides of the era.
+In 1887 Nye returned to regular newspaper
+work when he became a writer for the Sunday
+edition of the <title level="j">New York World</title>. He moved to
+New York City in that year, remaining there
+until 1891, when his newspaper columns became
+syndicated in seventy newspapers.</p>
+
+<p>With his health still frail from spinal meningitis,
+Nye left New York City for Asheville,
+North Carolina. He continued writing and
+lecturing, producing his two best-known
+works, <title level="m">Bill Nye's History of the United States</title>
+(1894) and <title level="m">Bill Nye's History of England from the Druids to the Reign of Henry VIII</title> (1896).</p>
+
+<p>A gentle wit, Nye himself was often the
+focus of his jokes. Regretfully, he also adopted
+the prejudices of his day. He specialized in
+lampooning the self-important, including
+politicians and recent arrivals to the Plains
+from back east. Although he spent less than
+ten years in the Plains, the experience proved
+to be central to his writings. Nye adopted the
+western love of play on words, exaggeration,
+and a sense of pragmatism. In early 1896 Nye
+suffered a series of strokes that finally took his
+life on February 22 at his home near Asheville,
+North Carolina.</p>
+
+<closer>
+<signed>Charles Vollan<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Keterson, David B. <title level="m">Bill Nye: The Western Writings</title>. Boise
+<hi rend="smallcaps">ID</hi>: Boise State University Press, 1976.</bibl> <bibl>Nye, Frank Wilson,
+ed. <title level="m">Bill Nye: His Own Life Story</title>. New York: Century Company,
+1926.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

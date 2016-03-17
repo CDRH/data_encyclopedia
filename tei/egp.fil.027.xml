@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gray, Coleen (b. 1922)</title>
+<title level="m" type="sub"></title>
+<author>Samuel J. Umland</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Umland, Samuel J.">Samuel J. Umland</author>. <title level="a">"Gray, Coleen (b. 1922)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">268-269</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GRAY, COLEEN (b. 1922)</head>
+<figure n="egp.fil.027" rend="granted">
+<figDesc>Coleen Gray</figDesc>
+</figure>    
+
+<p>Coleen Gray was born Doris Jensen on October
+23, 1922, in Staplehurst, a small town in
+eastern Nebraska. She attended Hamline University
+in St. Paul, Minnesota, where she became
+interested in dramatics. After a series of
+appearances in little theaters, she landed her
+first, uncredited role in the Hollywood musical
+<title>State Fair</title> (1945). The following year she had a
+bit part in yet another musical comedy, <title>Three Little Girls in Blue</title> (1946), also uncredited.
+In 1947, however, she appeared as the honest,
+faithful wife of criminals in two famous films
+noir, <title>Kiss of Death</title> and <title>Nightmare Alley</title>, in
+which she established herself as a competent
+actress capable of playing leading roles. Perhaps
+her most complex role was that of the
+abusive nurse, Ann Sebastian, in the disturbing
+noir <title>The Sleeping City</title> (1950), about corruption
+in a large city hospital. She also appeared
+in many Westerns and action films, among
+them Howard Hawks's <title>Red River</title> (1948), in
+which she played Fen, the lovely woman whom
+Thomas Dunson (John Wayne) leaves behind,
+in effect condemning her to death.</p>
+
+<p>In all, Gray appeared in about thirty-eight
+motion pictures, making very few after 1960,
+the year she was cast in the Universal horror
+film <title>The Leech Woman</title>, a mediocre picture in
+which she was quite good. She continued to
+appear on television, playing guest roles in
+various series, but these appearances also diminished,
+and after 1972 she retired from acting
+altogether. She made a brief return with a
+role in <title>Cry from the Mountain</title> (1986), made by
+the Reverend Billy Graham.</p>
+
+<closer>
+<signed>Samuel J. Umland<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Katz, Ephraim. <title level="m">The Film Encyclopedia</title>. New York: Thomas
+Y. Crowell, 1979.</bibl> <bibl>Silver, Alain, and Elizabeth Ward, eds.
+<title level="m"><hi rend="italic">Film Noir: An Encyclopedic Reference to the American Style</hi></title>.
+Woodstock <hi rend="smallcaps">NY</hi>: Overlook Press, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

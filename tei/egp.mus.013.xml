@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Denver, John (1943-1997)</title>
+<title level="m" type="sub"></title>
+<author>Timothy J. Kloberdanz</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kloberdanz, Timothy J.">Timothy J. Kloberdanz</author>. <title level="a">"Denver, John (1943-1997)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">537</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">DENVER, JOHN (1943-1997)</head>
+
+<p>John Denver was a popular entertainer and
+songwriter whose music exalted simple living
+and the natural beauty of the American West.
+He was born Henry John Deutschendorf Jr. in
+Roswell, New Mexico, on December 31, 1943.
+His parents, Henry John "Dutch' Deutschendorf
+and Erma Swope, were native Oklahomans
+who moved frequently due to Dutch
+Deutschendorf 's career as an Air Force flight
+instructor and test pilot.</p>
+
+<p>The Deutschendorfs were descendants of
+German Russian colonists who settled on the
+Ukrainian steppes during the reign of Czar
+Alexander I. By the 1920s an American branch
+of the Deutschendorf family had put down
+roots near Cordell, Oklahoma, along the Washita
+River. For years afterward, their prairie farmstead
+in Oklahoma would serve as the home
+place of the Deutschendorf family. John Denver
+composed some of his earliest songs while he
+labored in the dusty wheat fields of western
+Oklahoma during the summer months. He was
+only a teenager at the time, but the experience of
+working so close to the land exerted a profound
+and lasting influence on his life philosophy and
+his music.</p>
+
+<p>Henry John Deutschendorf Jr. rose to fame
+after a song he had written, "Leaving on a Jet
+Plane," was recorded by the musical trio Peter,
+Paul, and Mary in 1968. His career as a songwriter
+soon blossomed into that of a popular
+performer and also a movie and television actor.
+By the mid-1970s his new name, John
+Denver, had become a household word, and
+both his music and his shy yet upbeat personality
+endeared him to millions of fans all
+around the world.</p>
+
+<p>John Denver wrote and recorded many musical
+hits, including "Rocky Mountain High,"
+"Sunshine on My Shoulders," "Take Me Home,
+Country Roads," and "Annie's Song." Despite
+Denver's frequent reference to the Rocky
+Mountains of Colorado, he also wrote songs
+about memorable experiences and characters
+drawn from the Plains of western Oklahoma
+and Kansas. The song "Matthew," for example,
+was inspired by real-life wheat farmer and
+close relative Dean Deutschendorf.</p>
+
+<p>One of the many causes that Denver championed
+was that of the environment, and it
+was a theme that dominated the musical compositions
+of his later years. On October 12,
+1997, he was killed in a single-engine plane
+crash near Pacific Grove, California. A few
+days later, a memorial service was held for
+John Denver in Aurora, Colorado, at the edge
+of both the Rocky Mountains and the Great
+Plains, the two regions he so proudly celebrated
+in his distinctive and uplifting music.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.012">German Russians</ref>.</p>
+
+<closer>
+<signed>Timothy J. Kloberdanz<lb/>
+North Dakota State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Denver, John. <title level="m">Take Me Home: An Autobiography, with Arthur Tobier</title>. New York: Harmony Books, 1994.</bibl> <bibl>Deutschendorf,
+Abe. "Memories of My Nephew John Denver."
+<title level="j">Journal of the American Historical Society of Germans from Russia</title> 21 (1998): 6–7.</bibl> <bibl>Kloberdanz, Timothy J. "Henry John
+Deutschendorf, Jr.: The World Knew Him as John Denver."
+<title level="j">Journal of the American Historical Society of Germans from Russia</title> 21 (1998): 1–5.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

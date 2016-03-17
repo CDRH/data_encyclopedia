@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Folk Toys</title>
+<title level="m" type="sub"></title>
+<author>John R. Nelson Jr.</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nelson, Jr., John R.">John R. Nelson, Jr.</author>. <title level="a">"Folk Toys."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">300</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FOLK TOYS</head>
+
+<p>Centuries before the influx of European American
+settlers, Native Americans of the Great
+Plains developed hundreds of ingenious and
+highly differentiated toys to instruct and entertain
+both the young and not-so-young. Among
+the most widespread and creative examples
+were six-foot-long knotted loops, usually of
+deer hide or rawhide, which were used to produce
+string figures, variations of the modern
+"cat's cradle." Play could be solitary, or it might
+join two persons of different generations passing
+the intricate loops back and forth (thus, the
+practice was called "web weaving"). Tribes
+shared many designs and each produced a
+variant of the nearly universal cat's cradle.
+Many Great Plains Native American string figures
+illustrated tribal histories and folklore, as
+well as religious narratives.</p>
+
+<p>Other Native American toys both entertained
+and developed eye-hand coordination.
+Many were comprised of an eight- to twelve-inch
+pin of wood, bone, or antler connected
+by a length of cord to a series of up to nineteen
+small rings, or to a piece of leather punched
+with various-sized holes. As the pin is swung
+upward at arm's length, the rings or leather
+form a large arc, and when reaching the apex,
+begin to fall downward. At that instant, the
+player attempts to thrust the pin through all
+the rings or through a designated hole in the
+leather. The considerable deftness and skill required
+helped train children for spearfishing
+and hunting.</p>
+
+<p>A related toy combines a hoop with darts.
+In each variant, whether from the Ojibwas of
+North Dakota, Lakotas of South Dakota, or
+Gros Ventres of Montana, a hoop, with a diameter
+from two-and-three-quarters up to
+twenty-five inches, fashioned from a thin
+branch, bone, or supple corn husk, surrounds
+a central weaving of yarn, string, beads, or
+rawhide. The weaving divides the hoop's enclosed
+area into sectors, with a small hole remaining
+in the center. The target hoop may be
+set on the ground, suspended from a tree
+branch, or rolled along the ground. Two players
+throw sharpened and sometimes elaborately
+decorated darts, or shoot arrows at the
+hoop, seeking to hit an exact spot or find the
+hoop's center. A variation has players throwing
+short spears instead of darts while running
+after a rolling hoop.</p>
+
+<p>One of the continent's most ancient toys is
+the buzzer, a disk-shaped piece of wood, bone,
+or pottery pierced with two holes, through
+which a deerskin thong or piece of doubledover
+sinew, about two feet long, is passed. The
+object is placed at the center of the doubled
+thong and spun rapidly by the winding and
+unwinding of the thong, with the rhythmic
+pressure of the hands and arms moving inward
+and pulling outward on the thong in the
+manner of playing an accordion. The thong,
+stretched tight between the hands, supports
+the buzzer, which functions as a flywheel. The
+Gros Ventres and the Lakotas used a knee
+bone or knucklebone as a buzzer; other tribes
+used painted and patterned wooden disks that
+would change color (for example, red and
+yellow becoming orange) and apparent shape
+as the buzzer spun. The term "buzzer" derives
+from the sound made while the bone, wood,
+or pottery piece is rotated clockwise and then
+counterclockwise at high speed.</p>
+
+<p>Plains Indians also fashioned many designs
+of spinning tops of wood, bone, and horn; the
+Crees of Alberta as well as the Crows of Montana
+and the Lakotas crafted tops of solid
+horn, which children kept spinning with rawhide
+whips.</p>
+
+<p>Balls for numerous kinds of play were crafted
+from hardwood, buckskin filled with rag or
+animal hair, and even pebbles covered with
+yarn. In Montana, the Northern Cheyennes
+and Crows, and in North Dakota the Mandans,
+developed a soft ball of buckskin, antelope
+hair, or dyed porcupine quills wrapped
+with cord, which they kicked gently in the air
+and caught on the top of the foot. A girl's
+toy, it was nearly identical to the modern
+"hacky sack."</p>
+
+<p>Many Plains Indian children fashioned human
+and animal forms (especially horses and
+buffaloes) of red-brown sun-dried mud; Lakota
+children made clay animal forms and
+mixed vertebra from buffalo, deer, or antelope
+and their imagination to create "bone ponies."
+Children would gather the bleached bones
+into herds or use them in single combat or
+races. These folk toys were sometimes copied
+by white settlers' families in the nineteenth
+century.</p>
+
+<p>Native American dolls were nearly universal,
+with great variations in design, color, and
+sophistication. Construction materials ranged
+from the simplest combinations of fabric tied
+to a forked stick to finely finished figures with
+beaded deerskin dresses, sometimes attached
+to miniature cradleboards. Today, replicas of
+these latter dolls are sold widely at reservation
+gift shops.</p>
+
+<p>Great Plains settlers brought with them a
+small number of notable folk designs from
+Europe and the eastern United States, including
+the "limberjack," an Irish and Scandinavian
+dancing figure used to accentuate Celtic
+musical rhythms; carved, brilliantly painted
+Scandinavian toy animals; and carved dolls.
+Rag dolls had become common in New England
+following the Revolutionary War, took
+up little space, and traveled well. But because
+of the hardships involved in settling the Plains,
+children's amenities, including folk toys, were
+often lost.</p>
+
+<p>Folk toys could be constructed by parents
+or other adults at a final destination once
+housing, a water supply, and other necessities
+were established. Miniature cradles and rocking
+horses were fashioned using a saw, jackknife,
+hammer, and nails. Additional sturdy
+folk toys, including stilts, swings, and seesaws
+were made on the spot from scraps of available
+wood, providing years of delight to Great
+Plains children.</p>
+
+<closer>
+<signed>John R. Nelson Jr.<lb/>
+University of Massachusetts-Amherst</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Culin, Robert Stewart. <title level="m">Games of the North American Indians</title>.
+Washington <hi rend="smallcaps">DC</hi>: Government Printing Office, 1907.</bibl>
+<bibl>Nelson, John R. Jr. <title level="m">American Folk Toys</title>. Newtown <hi rend="smallcaps">CT</hi>:
+Taunton Press, 1998.</bibl> <bibl>Toelken, Barre. <title level="m">The Dynamics of Folklore</title>. Boston: Houghton Mifflin Company, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

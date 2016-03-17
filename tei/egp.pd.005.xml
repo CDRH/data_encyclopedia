@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pd.005 SYSTEM "egp.pd.005.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">American Indian Movement</title>
+<title level="m" type="sub"></title>
+<author>Akim D. Reinhardt</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reinhardt, Akim D.">Akim D. Reinhardt</author>. <title level="a">"American Indian Movement."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">705-706</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AMERICAN INDIAN MOVEMENT</head>
+
+<figure n="egp.pd.005" rend="granted">
+<figDesc>American Indian Movement, Wounded Knee, South Dakota, March 2, 1973</figDesc>
+</figure>
+
+<p>Eddie Benton Banai and Clyde Bellecourt, two
+Ojibwa prisoners at Minnesota's Stillwater
+Prison, began organizing fellow Native American
+inmates in 1963, preaching a doctrine of
+Indian pride and self-reliance. After receiving
+parole the following year, Bellecourt took his
+message to Minneapolis. By 1968 he and Banai
+had teamed up with two more Ojibwas, George
+Mitchell and Dennis Banks. They named their
+group Concerned Indian Americans. Unhappy
+with that acronym, they settled upon
+the American Indian Movement (<hi rend="smallcaps">AIM</hi>).</p>
+
+<p><hi rend="smallcaps">AIM</hi> monitored police actions to prevent
+and report brutality, fought discrimination in
+jobs and housing, and set up survival schools
+to equip Indian children with life skills for the
+urban environment and provide them alternative
+views of Native history unavailable in
+public schools. Its approach was also pan-Indian; since the Indian ghettos of American
+cities contained people from different reservations
+and tribes, <hi rend="smallcaps">AIM</hi> did not represent any
+single one of them. Instead, they focused on
+local issues that affected all Indians.</p>
+
+<p>At first, the organization solicited government
+funds and donations from religious
+groups. But by 1968 frustration from dealing
+with these organizations led <hi rend="smallcaps">AIM</hi> to adopt
+a stance that was antagonistic toward mainstream
+America. They also began to extend
+their efforts beyond Minnesota. In 1970 an
+<hi rend="smallcaps">AIM</hi> chapter was founded in Cleveland by Russell
+Means, a Lakota who was born on the Pine
+Ridge Reservation in South Dakota. Major
+chapters were subsequently added in Milwaukee,
+Denver, Chicago, and San Francisco.
+Throughout its existence, <hi rend="smallcaps">AIM</hi>'s power structure
+was largely decentralized, with individual
+chapters retaining substantial authority and
+frequently concentrating on local issues. In
+addition, its national leaders, including Banks,
+Means, Bellecourt, and Santee Dakota John
+Trudell, generally led by force of personality
+and with support from their followers and
+colleagues.</p>
+
+<p><hi rend="smallcaps">AIM</hi> went beyond urban concerns and made
+inroads on the Pine Ridge Reservation when
+it organized protests in nearby Gordon, Nebraska,
+in early 1972. A Lakota from the reservation,
+Raymond Yellow Thunder, had been
+abducted, publicly humiliated, and beaten to
+death in the town by white racists. When they
+were charged with involuntary manslaughter
+instead of murder, many Pine Ridge Lakotas
+were outraged. <hi rend="smallcaps">AIM</hi> marched on the town and
+forced concessions from local authorities and
+the governor, thus cementing its presence and
+reputation on the reservation.</p>
+
+<p>Later that year, <hi rend="smallcaps">AIM</hi> moved onto the national
+stage through its involvement in the
+Trail of Broken Treaties, a large-scale civil
+rights march in Washington <hi rend="smallcaps">DC</hi> the week before
+the presidential election of 1972. When
+the marchers arrived, inadequate sleeping accommodations
+and federal red tape led to an
+altercation with police at the Bureau of Indian
+Affairs (<hi rend="smallcaps">BIA</hi>) building, which quickly turned
+into a riot. The marchers occupied the building.
+During the standoff, AIM took control of
+the occupation and dealt with the media and
+federal negotiators. The occupation ended after
+less than a week when the government paid
+<hi rend="smallcaps">AIM</hi> more than $66,000 to transport people
+back home.</p>
+
+<p>After the BIA building incident, <hi rend="smallcaps">AIM</hi> was
+condemned by Pine Ridge tribal chairman
+Dick Wilson, who himself was embroiled in a
+major political dispute; many people on the
+reservation accused him of corruption and intimidation.
+As conditions became increasingly
+violent, <hi rend="smallcaps">AIM</hi> came to the support of Wilson's
+opponents. After Means announced he
+would run against Wilson in the next election,
+Wilson had him temporarily jailed.</p>
+
+<p>Tensions increased when the federal government
+stationed <hi rend="smallcaps">FBI</hi> agents and U.S. marshals
+on the reservation in the midst of Wilson's
+impeachment trial. After Wilson was
+acquitted amid confusing circumstances, his
+opponents decided to make a stand by seizing
+Wounded Knee, the site of the 1890 massacre
+of as many as 300 Lakotas by the U.S. Seventh
+Cavalry. <hi rend="smallcaps">AIM</hi> readily supported them. They
+jointly occupied the hamlet of Wounded Knee
+on February 27, 1973, and were immediately
+surrounded by marshals, <hi rend="smallcaps">FBI</hi> agents, <hi rend="smallcaps">BIA</hi> police,
+and Wilson's private army, known as the
+"goon squad."</p>
+
+<p>During the ensuing siege, <hi rend="smallcaps">AIM</hi> again took
+control of the situation, dealing with the national
+media and negotiating with the federal
+representatives. After seventy-one days, endless
+negotiations, the shooting death of two
+aim supporters, and the paralysis of one marshal,
+the siege ended on May 8. It signaled the
+beginning of the end of <hi rend="smallcaps">AIM</hi>.</p>
+
+<p>From then on, aim endured a two-pronged
+attack from the federal government. First, a
+long series of trials against <hi rend="smallcaps">AIM</hi>'s leaders was designed
+to bankrupt the organization through
+costly legal fees and keeping its leaders tied up
+in court. Meanwhile, the <hi rend="smallcaps">FBI</hi> used counter-intelligence
+programs, later deemed illegal, to
+infiltrate and disrupt the organization. Government
+repression reached its zenith with the conviction
+of prominent <hi rend="smallcaps">AIM</hi> member Leonard Peltier
+in the 1975 shooting deaths of two <hi rend="smallcaps">FBI</hi> agents
+on the Pine Ridge Reservation. During the trial,
+the government intimidated witnesses, manufactured
+evidence, and committed numerous
+other infractions. Nonetheless, Peltier was sentenced
+to two consecutive life terms in 1977.
+Efforts to win his freedom have since gained
+international attention, and Amnesty International
+currently recognizes him as one of the
+most important political prisoners in the world.</p>
+
+<p>Meanwhile, a virtual civil war between <hi rend="smallcaps">AIM</hi>
+and the "goons" plagued Pine Ridge during
+Wilson's post–Wounded Knee tenure (1973–76), resulting in more than fifty unsolved
+murders of <hi rend="smallcaps">AIM</hi> members and supporters. In
+1979 the mother-in-law, wife, and three children
+of <hi rend="smallcaps">AIM</hi>'s national chairman, John Trudell,
+were killed in an arsonist's fire. The cause
+of the fire, which was started while Trudell
+was protesting the Peltier verdict, remains
+unsolved.</p>
+
+<p>Bankruptcy, paranoia, and repression, combined
+with <hi rend="smallcaps">AIM</hi>'s decentralized structure and
+leadership patterns, led to a spiraling decline
+within the organization. Individual leaders increasingly
+worked on their own projects, political
+and otherwise, and by the 1980s <hi rend="smallcaps">AIM</hi> was
+defunct as a national entity. The <hi rend="smallcaps">FBI</hi> closed its
+active files on <hi rend="smallcaps">AIM</hi> in July 1979. Today, a scattering
+of local chapters continues to work on local
+issues, and individual members of national
+prominence continue to invoke the movement's
+name on behalf of their own programs.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.046">Trudell, John</ref> / <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.056">Wounded Knee Massacre</ref>.</p>
+
+<closer>
+<signed>Akim D. Reinhardt<lb/>
+Towson University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Churchill, Ward, and Jim Vander Wall. <title level="m">Agents of Repression:
+The <hi rend="smallcaps">FBI</hi>'s Secret War against the Black Panther Party
+and the American Indian Movement</title>. Boston: South End
+Press, 1988.</bibl> <bibl>Smith, Paul Chaat, and Robert Allen Warrior.
+Like a Hurricane. New York: New Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

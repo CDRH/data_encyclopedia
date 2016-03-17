@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farm Security Administration</title>
+<title level="m" type="sub"></title>
+<author>Catherine J. Lavender</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lavender, Catherine J.">Catherine J. Lavender</author>. <title level="a">"Farm Security Administration."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">45</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FARM SECURITY ADMINISTRATION</head>
+
+<p>The Farm Security Administration (<hi rend="smallcaps">FSA</hi>) was
+created through the Bankhead-Jones Farm
+Tenant Act in September of 1937, in order to
+deal with the chronic poverty of American independent
+farmers and migrant farm laborers.
+This act created the fsa out of the Resettlement
+Administration, which President
+Franklin Roosevelt had launched via an executive
+order in the spring of 1935.</p>
+
+<p>The <hi rend="smallcaps">FSA</hi>'s activities fell into two chief categories:
+rationalization of farming in order to
+increase its e.ciency and decrease cyclical agricultural
+booms and busts and elevation of
+public awareness of the problems confronting
+farmers, especially in the Dust Bowl&#8211;ravaged
+Southern Plains. In order to achieve the former
+goal, the <hi rend="smallcaps">FSA</hi> sponsored fragmentary
+land-use reform, provided loans which Farmers
+Unions used to build cooperatives, and offered
+rehabilitation and settlement camps for
+a limited number of migrant farmworkers.
+fsa-sponsored photography documented the
+struggles of farmers and migrant farm workers,
+and included the work of Dorothea Lange,
+Walker Evans, Ben Shahn, Roy Striker, and
+Marion Post Wolcott. The <hi rend="smallcaps">FSA</hi> also sponsored
+Pare Lorentz's influential documentary, <title>The Plow That Broke the Plains</title> (1936). In the Great
+Plains, the fsa helped launch irrigation projects,
+most notably on the Platte River in Nebraska
+and the Colorado River in Texas. It also
+offered soil conservation assistance and loans
+at 3 percent to farmers, while sponsoring continued
+research into the causes and outcomes
+of the ecological crisis of the Dust Bowl in the
+region.</p>
+
+<p>The Farmers Home Administration Act of
+1946, signed into law by President Harry S.
+Truman, abolished the <hi rend="smallcaps">FSA</hi> and created the
+Farmers Home Administration (<hi rend="smallcaps">FHA</hi>) in its
+place.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">ART</hi>: <ref n="egp.art.017">Dust Bowl Photographers</ref> / <hi rend="smallcaps">FILM</hi>: <hi rend="italic"><ref n="egp.fil.055">The Plow That Broke the Plains</ref></hi>.</p>
+
+<closer>
+<signed>Bradley H. Baltensperger<lb/>
+Michigan Technological University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Baldwin, Sidney. <title level="m">Poverty and Politics: The Rise and Decline of the Farm Security Administration</title>. Chapel Hill: University
+of North Carolina Press, 1968.</bibl> <bibl>Lowitt, Richard. <title level="m">The New Deal and the West</title>. Bloomington: Indiana University
+Press, 1984.</bibl> <bibl>Worster, Donald. <title level="m">Dust Bowl: The Southern Plains in the 1930s</title>. New York: Oxford University Press,
+1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

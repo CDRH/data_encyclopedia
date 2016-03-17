@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Telus</title>
+<title level="m" type="sub"></title>
+<author>Barry Ferguson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ferguson, Barry">Barry Ferguson</author>. <title level="a">"Telus."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">435</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TELUS</head>
+
+<p>Telus Corporation is an Alberta–British Columbia
+telecommunication firm created by
+the 1999 merger of two province-based companies.
+It is the second largest telecommunication
+organization in Canada and one of the
+largest business operations in Canada headquartered
+in the West.</p>
+
+<p>Telus's emergence reflects the changing
+goals of western provincial enterprises and
+governments and the influence of federal regulations.
+Until privatized and renamed Telus
+in 1990, the former Alberta Government Telephones
+operated from 1908 to 1990 as a provincial
+crown enterprise regulated and sheltered
+under a provincial public utilities board.
+Operating from 1904 to 1999, bc Telephone,
+renamed bc Telecom in 1992 and a wholly
+owned subsidiary since 1926 of American utility
+gte, was confined to provincial activity
+under the federal regulation that oversaw
+private-sector utilities.</p>
+
+<p>In 1988 the Supreme Court of Canada ruled
+that federal regulation of telecommunication
+included provincial crown-owned enterprises,
+and in 1992 the federal regulator, the Canadian
+Radio-Television and Telecommunication
+Commission, began allowing interprovincial
+telecommunication competition. The
+merger between Edmonton-based Telus and
+Vancouver-based <hi rend="smallcaps">BC</hi> Telecom has enabled
+Telus to compete nationally with other telecommunication
+and cable providers for the
+total market of data, Internet, voice, and wireless
+communication. Current federal regulation
+of telecommunication stipulates that
+rates and ownership structures are controlled
+but not competition for markets. Telus shares
+are one-fifth held by Verizon, the successor to
+gte and Bell Atlantic. Telus has made major
+acquisitions in Canada and abroad in order to
+compete throughout Canada, in the United
+States, and elsewhere.</p>
+
+<closer>
+<signed>Barry Ferguson<lb/>
+University of Manitoba</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Babe, Robert. <title level="m">Telecommunication in Canada: Technology, Industry and Government</title>. Toronto: University of Toronto
+Press, 1990.</bibl> <bibl>Lens, Jean-Guy. <title level="m">The Invisible Empire: A History of the Telecommunication Industry in Canada 1846– 1956</title>. Montreal: McGill-Queen's University Press, 2001.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

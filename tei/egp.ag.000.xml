@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.000 SYSTEM "egp.ag.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Agriculture</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+      
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+
+<div1 type="contents">
+
+<head>Agriculture</head>
+
+<figure n="egp.ag.000" rend="granted">
+<figDesc>Grain elevators, southwestern Alberta, 1955</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.ag.001">Agriculture</ref></item>
+<item><ref n="egp.ind.003">Agribusiness <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.ag.003">Agricultural Adjustment Administration</ref></item>
+<item><ref n="egp.ind.004">Agricultural Commodity Markets. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.ag.005">Agricultural Extension Service</ref></item>
+<item><ref n="egp.ag.006">Agricultural Meteorology</ref></item>
+<item><ref n="egp.ag.007">Agricultural Price Supports</ref></item>
+<item><ref n="egp.ag.008">Alfalfa</ref></item>
+<item><ref n="egp.pd.004">American Agricultural Movement. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.law.004">Anti-Corporate Farming Laws. <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.ag.011">Barbed Wire</ref></item>
+<item><ref n="egp.ag.012">Barley</ref></item>
+<item><ref n="egp.ag.013">Bonanza Farming</ref></item>
+<item><ref n="egp.ag.014">Branding</ref></item>
+<item><ref n="egp.ag.015">Buffalo Ranching</ref></item>
+<item><ref n="egp.ag.016">Campell, Hardy Webster</ref></item>
+<item><ref n="egp.ag.017">Canola</ref></item>
+<item><ref n="egp.fol.005">Cattle Guards. <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.ag.019">Cattle Ranching</ref></item>
+<item><ref n="egp.ag.020">Center for Rural Affairs</ref></item>
+<item><ref n="egp.ag.021">Conservation Reserve Program</ref></item>
+<item><ref n="egp.ag.022">Corn</ref></item>
+<item><ref n="egp.ag.023">Corporate Farming</ref></item>
+<item><ref n="egp.ag.024">Cotton</ref></item>
+<item><ref n="egp.ag.025">Custom Combining</ref></item>
+<item><ref n="egp.ag.026">Draft Animals</ref></item>
+<item><ref n="egp.ag.027">Dryland Farming</ref></item>
+<item><ref n="egp.pe.022">Dust Bowl. <hi rend="italic">See</hi> <hi rend="smallcaps">Physical Environment</hi></ref></item>
+<item><ref n="egp.ag.029">Exotic Animals</ref></item>
+<item><ref n="egp.ag.030">Fairs</ref></item>
+<item><ref n="egp.ag.031">Family Farm</ref></item>
+<item><ref n="egp.ag.032">Farm Consolidation</ref></item>
+<item><ref n="egp.pd.019">Farmers Alliance. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.pd.020">Farmers Holiday Association. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ind.019">Farm Implements. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.fol.010">Farm Inheritance Practices. <hi rend="italic">See</hi> <hi rend="smallcaps">Folkways</hi></ref></item>
+<item><ref n="egp.ag.037">Farm Security Administration</ref></item>
+<item><ref n="egp.ind.020">Feedlots. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.ii.022">Fertile Belt. <hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.ag.040">Fertilized Acreage</ref></item>
+<item><ref n="egp.ag.041">Flax</ref></item>
+<item><ref n="egp.ag.042">Gardiner, Jimmy</ref></item>
+<item><ref n="egp.ag.043">Goats</ref></item>
+<item><ref n="egp.pd.024">Grain Growers Associations. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ind.025">Grain Processing</ref>. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></item>
+<item><ref n="egp.ag.046">Hay</ref></item>
+<item><ref n="egp.gen.018">Hind, Cora. <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.wat.011">Irrigation. <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.ag.049">The Land Institute</ref></item>
+<item><ref n="egp.ag.050">Millet</ref></item>
+<item><ref n="egp.pd.038">National Farmers Union. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ag.052">Native American Agriculture</ref></item>
+<item><ref n="egp.ag.053">Prairie Farm Rehabilitation Administration</ref></item>
+<item><ref n="egp.ag.054">Ranches</ref></item>
+<item><ref n="egp.ag.055">Range Management</ref></item>
+<item><ref n="egp.ag.056">Rye</ref></item>
+<item><ref n="egp.ag.057">Saskatchewan Wheat Pool</ref></item>
+<item><ref n="egp.ag.058">Sheep</ref></item>
+<item><ref n="egp.pe.055">Shelterbelts. <hi rend="italic">See</hi> <hi rend="smallcaps">Physical Environment</hi></ref></item>
+<item><ref n="egp.ag.060">Soil Bank</ref></item>
+<item><ref n="egp.ag.061">Sorghum</ref></item>
+<item><ref n="egp.ag.062">Soybeans</ref></item>
+<item><ref n="egp.ind.055">Sugar Beet Processing. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.ag.064">Sugar Beets</ref></item>
+<item><ref n="egp.ag.065">Suitcase Farming</ref></item>
+<item><ref n="egp.ag.066">Sunflowers</ref></item>
+<item><ref n="egp.ag.067">Sustainable Agriculture</ref></item>
+<item><ref n="egp.ag.068">Swan, Alexander</ref></item>
+<item><ref n="egp.ind.056">The Swather. <hi rend="italic">See</hi> <hi rend="smallcaps">Industry</hi></ref></item>
+<item><ref n="egp.ag.070">Swine</ref></item>
+<item><ref n="egp.ag.071">Taylor Grazing Act</ref></item>
+<item><ref n="egp.ag.072">Texas Fever</ref></item>
+<item><ref n="egp.pd.056">United Farmers of Canada, Saskatchewan Section. <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ag.074">Viticulture</ref></item>
+<item><ref n="egp.ag.075">Wheat</ref></item>
+<item><ref n="egp.ag.076">Wildlife and Agriculture</ref></item>
+<item><ref n="egp.gen.041">Women in Agriculture. <hi rend="italic">See</hi> <hi rend="smallcaps">Gender</hi></ref></item>
+<item><ref n="egp.ag.078"><hi rend="smallcaps">XIT</hi> Ranch</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Public Buildings</title>
+<title level="m" type="sub"></title>
+<author>Keith Sawyers</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Sawyers, Keith">Keith Sawyers</author>. <title level="a">"Public Buildings."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">89-90</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PUBLIC BUILDINGS</head>
+
+<p>Public buildings such as schools, libraries, city
+halls, and courthouses are the physical embodiment
+of pride, stability, and cultural enlightenment.
+They functionally acknowledge
+and aesthetically symbolize the foundations of
+civil life in a community.</p>
+
+<p>The need for universal public education
+was well established by the time immigrants
+began to settle the Great Plains. At that time a
+basic knowledge of reading, writing, and elementary
+arithmetic was considered a sufficient minimum. Facilities to accommodate
+these requirements were generally very modest,
+often temporary structures built by the
+fledgling communities utilizing indigenous
+materials such as logs, sod, and even baled
+hay. Few of these early buildings survive.</p>
+
+<p>During the frontier period many school
+buildings were barely suitable for educational
+functions, due primarily to a lack of design
+and building expertise. Consequently, educational
+reformers focused attention upon rectifying
+common deficiencies in illumination,
+heating, sanitation, and furnishings by developing
+design guidelines and creating standardized
+plans. At the same time, state and
+provincial governments began to assert their
+influence upon the design of school buildings.</p>
+
+<p>One of the earliest and most basic purposebuilt
+designs for education was the one-room
+schoolhouse. A small rectangular structure
+with a gable roof, it became a ubiquitous feature
+of the rural Plains landscape. Based upon
+a common plan, the vast majority were of
+wood-frame construction, although some
+were constructed of brick or stone where available.
+Likewise, many medium-size schools
+were based upon standardized plans. Characteristically
+rectangular in configuration, many
+of these buildings were organized around a
+central hall flanked by several rooms and accommodating
+stairs to a basement and upper
+floor. Exterior composition was typically symmetrical,
+with emphasis upon vertical proportions,
+the latter frequently accentuated by a
+central tower. Popular Victorian styles considered appropriate for schools at this time included
+Italianate, Second Empire, and Romanesque.
+By the turn of the century the formal
+classical styles were widely favored for
+their more pretentious symbolism and distinctive
+monumental character.</p>
+
+<p>During the early decades of the twentieth
+century, preparation of the citizenry for an
+increasingly complex society transformed the
+mission and magnitude of education. More
+sophisticated school subtypes evolved to satisfy
+new educational requirements, ranging
+from the nursery school to the junior high
+school and vocational high school. Specialuse
+rooms were required for instruction in
+science, fine and performing arts, physical education,
+home economics, and vocational
+training. The compact but rather confining
+rectangular plan of earlier years gave way to
+increasingly flexible T-shaped and courtyard
+plans. The elevations of these more complex
+configurations accommodated a variety of
+stylistic variations, including the Late Gothic
+Revival, which was popularly associated with
+educational buildings ranging from grade
+schools to collegiate institutions.</p>
+
+<p>The architectural character of schools in the
+Great Plains continued to evolve after World
+War II, paralleling changes in educational philosophy,
+technology, and design. Elementary
+and high schools were typically sited on tracts
+of land large enough to accommodate generous
+playgrounds and outdoor athletic facilities.
+Their designs were characterized by openspace
+planning, spreading classroom wings,
+and clearly articulated special-use facilities.
+Designs in the 1950s and 1960s were distinctly
+modern, emphasizing efficiency and displaying
+a functional, almost industrial image.
+Glass curtain walls, simple brick facades, and
+flat roofs were characterizing features that
+were used extensively.</p>
+
+<p>School design in recent decades features a
+return to subtle historical references in material
+usage and decorative details, a utilization
+of the latest advances in building technology,
+plans based on the concept of learning communities,
+and an increasingly sensitive response
+to environmental issues. On the other
+hand, shifting rural and suburban populations
+and obsolescent educational facilities
+have resulted in the closing of many older
+school buildings and their conversion to offices
+and housing.</p>
+
+<p>An interest in establishing libraries also accompanied
+immigrants to the Great Plains.
+Small collections of books were housed wherever
+unused space was available such as the
+rear of a store or the corner of a church basement.
+These modest collections were frequently
+the property of local citizens such as
+women's groups whose goal was to improve
+the cultural climate of the community. The
+greatest momentum for founding public libraries
+in the region occurred between the
+1890s and World War I.</p>
+
+<p>After the turn of the century the Carnegie
+Foundation provided funding and stimulated
+the construction of many libraries in the
+Great Plains region of Canada and the United
+States. In 1911 the foundation published a
+set of design standards for these libraries. The
+favored scheme was a rectangular, one-story
+building set on a raised basement and entered
+from a small vestibule. The Carnegie Endowment
+program placed almost no restrictions
+on exterior design, but the overwhelming majority
+exhibited the influence of classicism,
+which gained widespread popularity following
+the World's Columbian Exposition of 1893.</p>
+
+<p>Prior to World War II, library design was
+characterized by a bias for monumentality,
+modest attention paid to function, and meager
+consideration given to future expansion.
+After 1950 the use of fixed book stacks and
+walls gave way to a more spatially open, functionally
+flexible, and user-friendly design.
+In recent decades the information explosion,
+new technology, provision for the handicapped,
+and population growth have forced
+additional changes upon libraries. In larger
+cities the main downtown library may be retained,
+but new satellite branches are being
+constructed in the suburbs. The exterior appearance
+of these new buildings varies considerably,
+partially due to changing attitudes
+regarding the symbolism considered appropriate
+for a contemporary public building.
+Monumentality, once very much in favor for
+civic architecture, has given way to an imagery
+that is less formal and imposing. Common
+interior features include innovations in illumination,
+environmental control, and flexibility
+in the functional use of space.</p>
+
+<p>Governmental buildings made their appearance
+early in the settlement of the Great
+Plains. In Canada the municipal building, or
+town hall, was the primary symbol of government
+after the provincial capitol. Sparsely
+populated rural communities and townships
+constructed small, unimposing structures that
+accommodated only the most basic functions
+of local government, but by the end of the
+nineteenth century the largest Plains towns
+were erecting monumental city halls following
+European precedents. In addition to providing
+for governmental activities such as
+a council chamber, offices, and courtroom,
+many city halls also housed a public auditorium
+for cultural events and a variety of additional
+civic amenities.</p>
+
+<p>In the United States the county courthouse
+emerged as the most important symbol of
+government, second only to the state capitol.
+It was commonly believed that a building displaying
+a dignified and monumental character
+was appropriate for the transaction of county
+business, security of public records, and administration
+of justice. The courthouse commanded
+a place of honor in the town plan and
+typically occupied a full city block. One of the
+most distinctive spatial arrangements features
+the courthouse in the midst of the business
+district surrounded on four sides by commercial
+buildings. Status within the anonymous
+grid was also achieved by siting the building
+on a hill or at the end of a prominent street
+or vista.</p>
+
+<p>The function of the courthouse changed little
+during the nineteenth and first half of
+the twentieth centuries, during which time the
+spatial arrangement tended to follow a distinctive
+pattern. offices for the daily business
+of elected officials were usually located within
+a rectangular plan, the more significant activities
+being located on a raised first floor and
+the remainder placed in the basement. The
+second floor accommodated the most important
+public space, the courtroom, and related
+functions.</p>
+
+<p>Nineteenth-century governmental buildings
+revealed evidence of the prevailing Victorian
+styles, including the Italianate and Second
+Empire. The Gothic style was quite popular in
+Canada but seldom utilized in the United
+States due to its religious connotations and the
+desire to separate church and state. During the
+1880s the round arch, or Romanesque, style
+was widely favored for its solid, dignified appearance.
+The overwhelming majority of governmental
+buildings built between the turn of
+the century and the 1930s exhibit the influence
+of classicism.</p>
+
+<p>Since World War II many city halls and
+county courthouses have been remodeled or
+replaced. The design of new governmental
+buildings tends to be significantly affected by
+functional and economic factors. In contrast
+to the pride and optimism expressed in much
+traditional civic architecture, the scale and
+imagery of many contemporary governmental
+buildings resemble the sobriety and efficiency characteristic of today's utilitarian office
+blocks.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EDUCATION</hi>: <ref n="egp.edu.032">One-Room Schoolhouses</ref>.</p>
+
+<closer>
+<signed>Keith Sawyers<lb/>
+University of Nebraska-Lincoln<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kalman, Harold D. <title level="m">A History of Canadian Architecture</title>.
+Toronto: Oxford University Press, 1996.</bibl> <bibl>Maddex, Diane,
+ed. <title level="m">Built in the U.S.A.: American Buildings from Airports to Zoos</title>. Washington <hi rend="smallcaps">DC</hi>: Preservation Press, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

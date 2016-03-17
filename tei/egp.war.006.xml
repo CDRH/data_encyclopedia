@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Beecher Island, Battle of</title>
+<title level="m" type="sub"></title>
+<author>John H. Monnett</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Monnett, John H.">John H. Monnett</author>. <title level="a">"Beecher Island, Battle of."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">823</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BEECHER ISLAND, BATTLE OF</head>
+<figure n="egp.war.006" rend="granted">
+<figDesc>Poster of image depicting the Battle of Beecher Island in 1868</figDesc>
+</figure>
+
+<p>The Battle of Beecher Island was one of the
+most publicized engagements fought between
+Plains Indians and the U.S. Army. On September
+17, 1868, on a sandbar in the middle of the
+Arickaree River in eastern Colorado, a large
+group of Cheyenne Dog Soldiers, Arapahos,
+and Lakotas attacked fifty citizen scouts under
+the command of Maj. George A. Forsyth. The
+scouts held off repeated charges before the Indians
+departed.</p>
+
+<p>The scouts survived by eating the meat of
+their horses for nine days before reinforcements
+arrived from Fort Wallace, Kansas. Forsyth's
+command sustained losses of five scouts
+killed and eighteen wounded. Included among
+the dead was Lt. Frederick H. Beecher, the
+nephew of the outspoken New York abolitionist
+Henry Ward Beecher. Forsyth named the
+battle in memory of Lieutenant Beecher.</p>
+
+<p>The Indian records obtained years later
+by George Bent and George B. Grinnell accounted
+for nine warriors killed and an unknown
+number wounded. One casualty was
+the esteemed warrior Roman Nose, a Northern
+Cheyenne member of the Crooked Lance
+Society. The Cheyennes referred to the battle as
+"the fight where Roman Nose was killed." Although
+the battle held little significance for the
+Indians, the scouts' successful defensive stand
+against extreme odds was inevitably compared
+to the Battle of the Little Bighorn, and consequently
+came to hold epic and symbolic importance
+for Americans. The sensationalism
+it generated indirectly led to an infusion of
+new troops into the Plains, culminating in the
+Washita campaign.</p>
+
+<closer>
+<signed>John H. Monnett<lb/>
+Metropolitan State College of Denver</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Monnett, John H. <title level="m">The Battle of Beecher Island and the
+Indian War of 1867–1869</title>. Niwot: University Press of Colorado,
+1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

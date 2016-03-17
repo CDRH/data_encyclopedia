@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Railroad Politics</title>
+<title level="m" type="sub"></title>
+<author>K. Austin Kerr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.066</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerr, K. Austin">K. Austin Kerr</author>. <title level="a">"Railroad Politics."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">684-685</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">RAILROAD POLITICS</head>
+
+<p>"Railroad politics" is the term used to summarize
+the bargaining among railroads and
+their investors, employees, customers, and
+public officials. This bargaining has at different
+times centered on the location of railroad
+lines and supporting facilities, the quality
+of service provided by railroad companies, the
+wages paid to employees, the profits returned
+to investors, and, especially, the charges imposed
+on passengers and freight shippers.</p>
+
+<p>Although the first railroads penetrated the
+Great Plains of the United States in the 1860s, it
+was the 1880s that saw enormous expansion. In
+that decade railroad firms laid more miles of
+track in the United States than in any comparable
+time period anywhere in the world. Similarly,
+north of the forty-ninth parallel the decade
+of the 1880s saw the completion of the
+Canadian Pacific, Canada's first transcontinental
+railway. The result in the Great Plains
+was a land boom and rapid population growth.
+The particular location of the rail lines was
+often a matter of political bargaining. Land
+speculators, town builders, and municipal officials vied to have railroads come to their favored
+location because of the economic vitality
+that rail service promised. Fully three-quarters
+of the towns incorporated in Alberta were established
+by railway companies. Towns that
+did not enjoy direct access to the railroad network
+either stagnated or died. Locations favored
+with railroad junctions, railroad yards
+(sidetracks for the storage and sorting of
+equipment), terminal facilities, and maintenance
+shops were especially likely to boom
+economically in the late nineteenth century in
+the Plains. Calgary actually bribed the Canadian
+Pacific to obtain its maintenance shops
+and freight yards.</p>
+
+<p>Railroad companies built too many lines in
+the Great Plains for all to be profitable, and
+by the depression years of the 1890s several major
+carriers were bankrupt but still operating.
+Competition for the most profitable long-haul
+freight and passenger traffic was intense. Although
+improvements in operating efficiencies
+had led to lower rates, farmers and merchants
+dependent on railroad service often
+complained that charges were too high. Some
+in the Plains argued for public ownership of
+the railroads to ensure their operation in "the
+public interest," a policy advocated by the populist
+movement. Shippers who complained
+about unjust freight rates also turned to state
+and federal regulation.</p>
+
+<p>With a return to prosperity in the first years
+of the twentieth century, railroads and shippers
+continued to bargain for advantage, especially through a system of federal regulation
+strengthened by the Hepburn Act of 1906 and
+the Mann-Elkins Act of 1910. Railroads sought
+permission from regulators to increase rates
+so as to improve facilities and operating efficiencies. Employees seeking higher wages and
+investors seeking better returns supported the
+carriers, while shippers viewed rate increase
+requests suspiciously. The political bargaining
+among those groups was typically intense,
+with elected officials in the Great Plains voicing
+support for local merchants and farmers
+and expressing hostility toward the carriers.</p>
+
+<p>The intensity of railroad politics gradually
+eased as improved highways and long-distance
+motor trucks lessened the dependence of shippers
+on the railroad serving their local area.
+Nevertheless, grain farmers depended on railroads
+for taking their products to market
+cheaply, and railroads continued to haul large
+volumes of other agricultural products and
+manufactured goods as well. After the Staggers
+Rail Act of 1980 deregulated the carriers, there
+were widespread mergers of competing railroads,
+as well as the integration of rail and
+motor truck freight services. This situation
+sometimes led to problems, especially in the
+1990s when the Union Pacific Railroad was
+unable to manage operations e.ciently after
+taking over the Southern Pacific lines, and bitter
+complaints again emerged in Texas and
+other places in the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.028">Railroads, United States</ref>; <ref n="egp.tra.029">Railways, Canada</ref>.</p>
+
+<closer>
+<signed>K. Austin Kerr<lb/>
+Ohio State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Berk, Gerald. <title level="m">Alternative Tracks: The Constitution of American
+Industrial Order, 1865-1917</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns
+Hopkins University Press, 1994.</bibl> <bibl>Hoogenboom, Ari and
+Olive. <title level="m">A History of the <hi rend="smallcaps">ICC</hi>: From Panacea to Palliative</title>. New
+York: W. W. Norton Co., 1976.</bibl> <bibl>Kerr, K. Austin. <title level="m">American
+Railroad Politics, 1914-1920: Rates, Wages, and Efficiency</title>.
+Pittsburgh: University of Pittsburgh Press, 1968.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

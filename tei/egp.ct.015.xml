@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ct.015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">County Seats</title>
+<title level="m" type="sub"></title>
+<author>Steven Jennings</author>
+<author>Robert P. Larkin</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ct.015</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schellenberg, James A.">James A. Schellenberg</author>. <title level="a">"County Seats."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">165</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-27</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COUNTY SEATS</head>
+
+<p>Approximately 500 counties exist in the Great
+Plains, and each of them has a county seat, that
+is, a city or town designated as the county's
+center for local government.</p>
+
+<p>The county-centered Virginia system had a
+stronger influence upon the organization of
+local governments during U.S. westward expansion
+than the town-centered system begun
+in colonial New England. Although townships
+do exist in states as far west as Nebraska and
+the Dakotas, they are clearly less important
+than the county unit. The prevailing form of
+county government in the Great Plains included
+locally elected commissioners and a
+number of elected county executive officers
+operating from the courthouse of the county
+seat. State or territorial legislation also generally
+recognized the importance of popular
+sovereignty in selecting which town became
+the county seat.</p>
+
+<p>With few exceptions, the county seat was
+(or became, after it was selected as the county
+capital) the town with the largest population.
+In a few cases, when the largest town lacked
+a central location, the county seat went to a
+smaller town nearer the county center. Examples
+of leading cities failing to become county
+seats include Coffeyville and Pittsburg in Kansas
+and Crete and Norfolk in Nebraska.</p>
+
+<p>The likelihood for future growth of a town
+chosen by a county-seat election often led
+such elections to be highly disputed. In some
+cases (such as in Pratt, Stevens, and Wichita
+Counties in Kansas), battles between rival
+towns resulted in deaths. More commonly, a
+raiding party from a town seeking to become
+the new county seat (often following a disputed
+election) forcibly seized the county records
+from a rival town. This was the case in at
+least twenty different counties in Nebraska
+and the Dakotas.</p>
+
+<p>The rapid settlement of the Great Plains led
+to the organization of many counties within a
+few years. For example, all of the counties in
+northwest Texas were organized in the same
+year, 1876, and in 1873 no fewer than 45 counties
+(of the 120 now existing in North and
+South Dakota) were organized in Dakota Territory.
+Rapid settlement and county organization
+were leading factors in the most violent
+county-seat controversies, often pitting very
+young towns (and sometimes only projected
+locations for towns) against each other. Most
+of the "county-seat wars" (as the more bitter
+controversies have been called) occurred in
+the Great Plains during the last quarter of the
+nineteenth century.</p>
+
+<p>Few county seats were changed during
+the twentieth century, though this has happened
+in several cases when strong population
+growth of one town supported its claim to
+county-seat honors. This occurred in Logan
+and Morton Counties in western Kansas as
+late as the 1960s, when new county seats were
+located at Oakley and Elkhart, respectively.
+With very few exceptions, however, the counties
+and county seats that had been established
+by the early twentieth century have remained
+unchanged.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: 
+<ref n="egp.pg.011">Civil Divisions of Government</ref>.</p>
+
+<closer>
+<signed>James A. Schellenber<lb/>
+Indiana State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kane, Joseph Nathan. <hi rend="smallcaps">The American Counties</hi>. New York:
+Scarecrow Press, 1983.</bibl> <bibl>Schellenberg, James A. <hi rend="smallcaps">Conflict between
+Communities</hi>. New York: Paragon House, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

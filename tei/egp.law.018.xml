@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hall, Emmett (1898-1995)</title>
+<title level="m" type="sub"></title>
+<author>Linda M. Gerber</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.018</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Gerber, Linda M.">Linda M. Gerber</author>. <title level="a">"Hall, Emmett (1898-1995)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">452</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HALL, EMMETT (1898-1995)</head>
+
+<p>Born at St. Colomban, Quebec, on November
+9, 1898, Emmett Matthew Hall moved to
+Saskatoon, Saskatchewan, with his family at
+age twelve. Later, he studied law at the University
+of Saskatchewan (he was a classmate of
+John Diefenbaker), graduating at age twentyone.
+While Diefenbaker was prime minister,
+Hall was elevated to chief justice of Saskatchewan
+(1961) and to Canada's Supreme Court,
+where he served from 1962 until his retirement
+in 1973 at age seventy-five.</p>
+
+<p>This record only partially defines the man,
+for Emmett Hall served Canada in a wide range
+of roles. By 1962, with Saskatchewan premier
+Tommy Douglas, he had developed a comprehensive
+plan for publicly supported medical
+care. Diefenbaker then asked him to chair
+a royal commission on health services, overcome
+resistance on the part of the medical
+profession, and design a system of universal
+health care for all of Canada. Hall's 1964–65
+<title>Report of the Royal Commission on Health Services</title>
+was implemented in 1967 under Prime
+Minister Lester B. Pearson.</p>
+
+<p>While Hall made his mark as the father of
+medicare, he also reported on primary and
+secondary school education in Ontario (1968),
+university organization and structure (1973),
+railway arbitration (1973), as well as grain handling
+and transportation (1974). Furthermore,
+he was a popular and involved chancellor at the
+University of Guelph (1971–77) and at the University
+of Saskatchewan (1980–86).</p>
+
+<p>At the time of his death on November 12,
+1995, at age ninety-six, Emmett Hall was recognized
+as an outstanding Canadian. When
+he retired from the Supreme Court, he was
+appointed a Companion of the Order of Canada
+(1974)&#8211;the highest honor bestowed by
+Canada&#8211;for his lifetime of service to the law,
+health services, and education. Hall's incomparable
+commitment and energy are apparent
+in the fact that so many of his contributions in
+health care and education came when he was
+seventy to eighty-five years old. Modern Canadian
+society, in large measure, is shaped by
+the vision of this one man.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.017">Diefenbaker, John</ref>.</p>
+
+<closer>
+<signed>Linda M. Gerber<lb/>
+University of Guelph</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

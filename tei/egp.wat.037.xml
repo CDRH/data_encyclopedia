@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.wat.037 SYSTEM "egp.wat.037.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Water Towers</title>
+<title level="m" type="sub"></title>
+<author>Dori M. Penny</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Penny, Dori M.">Dori M. Penny</author>. <title level="a">"Water Towers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">865-866</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WATER TOWERS</head>
+
+<figure n="egp.wat.037" rend="granted">
+<figDesc>Nebraska Public Power District structure, April 1991</figDesc>
+</figure>
+
+<p>A water tower, or elevated tank, is designed to
+hold enough water to provide a supply area
+with sufficient amounts for periods of peak use
+and, in the case of a system failure, one day's
+use. A water tower, however, is so much more
+than a reservoir for water. Along highways,
+they mark the location and declare the name of
+countless small and large communities. They
+also provide an opportunity for ardent fans of
+high school sports, young lovers, and graduating
+seniors to declare themselves in height-defying
+graffiti. The need for water and the
+need to express pride in hometowns and relationships
+have made the water tower an enduring
+feature of the Great Plains landscape.</p>
+
+<p>Water towers are generally constructed
+from steel. Many were produced by companies
+known to residents of Plains states
+from bridge nameplates. A wide variety of
+shapes are used including those referred to as
+doorknobs, lattice towers, and fully enclosed
+domes. Many smaller communities used a
+shape that one author, Anne Dingus, has likened
+to the head of the Tinman in the classic
+movie, <title level="m">The Wizard of Oz</title>. After the tank is
+erected, the steel is given a protective coat of
+paint. The name of the town and sometimes a
+logo is then painted on the tank. Repainting is
+performed to maintain the condition of the
+tank as well as to cover graffiti. Water towers
+can seem deceptively small in appearance because of their height. However, they can hold
+anywhere from 15,000 gallons to as much as 3
+million gallons of water.</p>
+
+<p>The operation of a water tower is fairly simple.
+Because it needs to be elevated above the
+rest of a water system, it is constructed on a
+scaffold or, in the case of a tank, positioned on
+a hill. The height&#8211;usually between 100 and
+300 feet&#8211;of a water tower is necessary in
+order to provide pressure. Water is pumped
+from a treatment plant or a well into a city's
+water system and also into the tower. Because
+the water tower is providing storage, the system's
+pump can be sized to supply average
+rather than peak demand. During any period,
+if the city's system needs more water, water is
+allowed to flow from the tank and increase the
+supply through the pipes. If demand decreases,
+the water flows into the tank and is
+then stored until it is needed.</p>
+
+<p>Because of the simplicity of their design,
+water towers have survived since the first half
+of the twentieth century. Towers are familiar
+and well-remembered landmarks to former
+and current residents of communities. They
+stand as sentinels over stable and growing
+communities as well as over towns that have
+been bypassed by highways and economic development.
+The real importance of a water
+supply and the symbolic importance of the
+water tower ensure that the it will continue to
+be an elemental part of the Plains landscape.</p>
+
+<closer>
+<signed>Dori M. Penny<lb/>
+LTA, Inc., Laramie, Wyoming</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dingus, Anne. "The Water Tower." <title level="j">Texas Monthly</title>. 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

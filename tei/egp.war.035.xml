@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Pike, Zebulon (1779-1813)</title>
+<title level="m" type="sub"></title>
+<author>Roger L. Nichols</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nichols, Roger L.">Roger L. Nichols</author>. <title level="a">"Pike, Zebulon (1779-1813)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">834</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PIKE, ZEBULON (1779-1813)</head>
+<figure n="egp.war.035" rend="granted" type="noclick">
+<figDesc>"Portrait of Zebulon Pike, about 1810"</figDesc>
+</figure>  
+
+<p>Zebulon Montgomery Pike, army officer
+and explorer, substantially added to early-nineteenth-century
+knowledge of the Central
+and Southern Plains. He is remembered
+mainly for his description of the region as a
+"Great Sandy Desert" and for Pikes Peak, the
+Colorado mountain that bears his name.</p>
+
+<p>Son of an army officer, he was born at Lamberton
+(today Lamington), New Jersey, on January
+5, 1779. In 1794 young Pike became a cadet,
+and five years later he was commissioned
+as a second lieutenant of the infantry. In 1805,
+while serving in Illinois, he led a small party up
+the Mississippi River to locate its source and to
+select sites for future army posts. The next
+spring he received orders to lead a party across
+the Central Plains to find the headwaters of the
+Arkansas and Red Rivers. The expedition, including
+twenty-one soldiers, an interpreter,
+and a civilian doctor, rode west out of St. Louis
+on July 15, 1806. They crossed Kansas to the
+Rocky Mountains and into Spanish territory.
+There, severe winter threatened their survival,
+forcing them to surrender to the Spanish.
+They were taken south to Chihuahua,
+Mexico, but in 1807 President Thomas Jefferson
+secured their release. Early in the War of
+1812, Pike was promoted to brigadier general.
+He died on April 27, 1813, in an explosion of a
+British powder magazine during the capture of
+York (Toronto), Ontario.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.032">Great American Desert</ref>.</p>
+
+<closer>
+<signed>Roger L. Nichols<lb/>
+University of Arizona</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hollon, W. Eugene. <title level="m">The Lost Pathfinder: Zebulon Montgomery
+Pike</title>. Norman: University of Oklahoma Press,
+1949.</bibl> <bibl>Jackson, Donald, ed. <title level="m">Journals of Zebulon Montgomery
+Pike</title>. Norman: University of Oklahoma Press, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

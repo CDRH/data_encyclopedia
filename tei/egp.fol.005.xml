@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fol.005 SYSTEM "egp.fol.005.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cattle Guards</title>
+<title level="m" type="sub"></title>
+<author>James F. Joy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoy, James F.">James F. Hoy</author>. <title level="a">"Cattle Guards."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">292</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATTLE GUARDS</head>
+
+<figure n="egp.fol.005" rend="granted">
+<figDesc>Cattle guard</figDesc>
+</figure>
+
+<p>A cattle guard is a device of folk technology
+(although many today are commercially manufactured)
+that allows automotive tra.c to
+move freely while hindering the passage of
+livestock. Its essential components are a pit,
+usually constructed of concrete and a foot or
+more deep, placed across a roadway at the
+point where it intersects with a fence; a grid of
+metal bars, pipe or of railroad rails, fastened
+in parallel fashion across the pit and spaced
+about three to five inches apart; and a wing on
+either side that angles up from the edge of the
+grid to the fence. Hoofed livestock, instinctively
+wary about insecure footing, are generally
+deterred by this barrier. Some ranchers
+have created effective cattle guards by placing
+fresh cowhides, sheets of tin, or an arrangement
+of old tires in a gateway.</p>
+
+<p>The cattle guard had its origin in the Great
+Plains, being independently developed in a
+number of locations from Texas to North Dakota
+in the decade beginning around 1905 in
+response to the introduction of a growing
+number of automobiles in fenced range country.
+The immediate progenitor of the automotive
+cattle guard is the railroad cattle guard, an
+American innovation dating back at least to
+1836. The ultimate progenitor of the cattle
+guard is the flat stone stile of Cornwall, England,
+where grids of granite bars placed over
+pits in public footpaths have been in existence
+for more than 2,000 years.</p>
+
+<p>Today, cattle guards are found in all fifty
+states and on every continent. The term "cattle
+guard" is generally used in the Southern
+Plains, while from Nebraska north the terms
+"auto gate" or "car gate" are common. In the
+Prairie Provinces, a cattle guard usually refers
+to the railroad variety, while those on highways
+are called "Texas gates."</p>
+
+<closer>
+<signed>James F. Hoy<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hoy, James F. <title level="m">The Cattle Guard: Its History and Lore</title>. Lawrence:
+University Press of Kansas, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

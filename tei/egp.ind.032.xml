@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">International Trade</title>
+<title level="m" type="sub"></title>
+<author>Craig R. MacPhee</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="MacPhee, Craig R.">Craig R. MacPhee</author>. <title level="a">"International Trade."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">423-424</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INTERNATIONAL TRADE</head>
+
+<table rows="17" cols="4">
+<head type="sub">Commodity Exports of the Great Plains States and Provinces in 1996</head>
+
+<row><cell role="desc">State/Province</cell><cell role="desc">Total exports U.S. dollars (millions)</cell><cell role="desc">Exports per capita U.S. dollars (millions)</cell><cell role="desc">Major products</cell></row>
+
+<row><cell role="desc">Texas</cell><cell role="data">53,662</cell><cell role="data">2,805</cell><cell role="data">machinery, oil</cell></row>
+<row><cell role="desc">Colorado</cell><cell role="data">10,749</cell><cell role="data">2,812</cell><cell role="data">machinery</cell></row>
+<row><cell role="desc">Kansas</cell><cell role="data">5,312</cell><cell role="data">2,065</cell><cell role="data">agriculture</cell></row>
+<row><cell role="desc">Oklahoma</cell><cell role="data">2,752</cell><cell role="data">834</cell><cell role="data">machinery</cell></row>
+<row><cell role="desc">Nebraska</cell><cell role="data">2,573</cell><cell role="data">1,557</cell><cell role="data">processed food</cell></row>
+<row><cell role="desc">New Mexico</cell><cell role="data">935</cell><cell role="data">546</cell><cell role="data">agriculture</cell></row>
+<row><cell role="desc">North Dakota</cell><cell role="data">632</cell><cell role="data">981</cell><cell role="data">agriculture</cell></row>
+<row><cell role="desc">South Dakota</cell><cell role="data">422</cell><cell role="data">577</cell><cell role="data">machinery</cell></row>
+<row><cell role="desc">Montana</cell><cell role="data">358</cell><cell role="data">407</cell><cell role="data">metals</cell></row>
+<row><cell role="desc">Wyoming</cell><cell role="data">130</cell><cell role="data">270</cell><cell role="data">chemicals, machinery</cell></row>
+<row><cell role="desc">U.S. total</cell><cell role="data">77,525</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Alberta</cell><cell role="data">22,634</cell><cell role="data">7,950</cell><cell role="data">oil, gas</cell></row>
+<row><cell role="desc">Saskatchewan</cell><cell role="data">9,197</cell><cell role="data">9,290</cell><cell role="data">grain, oil</cell></row>
+<row><cell role="desc">Manitoba</cell><cell role="data">4,571</cell><cell role="data">4,031</cell><cell role="data">vehicles, grain</cell></row>
+<row><cell role="desc">Canadian total</cell><cell role="data">36,402</cell><cell role="data"></cell><cell role="data"></cell></row>
+<row><cell role="desc">Total</cell><cell role="data">113,927</cell><cell role="data"></cell><cell role="data"></cell></row>
+</table>
+
+<p>The international trade of the Great Plains is
+dominated by Texas, which exports more, by
+value, of almost every important Plains product
+than any other state or province in the
+region. One significant balance in the North is
+the large amount of Alberta's exports of oil
+and natural gas. In total, Texas exports almost
+as much, by value, as all the other Great Plains
+states and provinces combined.</p>
+
+<p>Texas probably imports more than the other
+states as well, but there are no estimates of
+imports by state. This data void is unfortunate,
+because imports contribute to the standard of
+living by providing a greater variety of goods at
+lower costs than we would be able to produce
+ourselves, and it would be interesting to observe
+the differences in import patterns across
+the Plains. These commodity export data also
+ignore trade in services such as finance, transport,
+consulting, and tourism. Finally, it should
+be noted that the data are assembled by state
+and therefore reflect substantial exports originating
+outside of the Plains areas of several
+states. Primary metals and wood products
+from Alberta and Montana come mainly from
+their mountain regions, and much of Texas's
+oil and chemical exports originates in the Gulf
+Coast region. On a per capita basis, trade appears
+to be most important to Saskatchewan,
+Alberta, and Manitoba, in that order. Colorado
+and Texas are the only Plains states above
+the U.S. national average of $2,308 worth of
+exports per person.</p>
+
+<p>Most of the international trade is between
+the United States and Canada, which are each
+other's largest international trade partners.
+The European Union and Japan are the next
+largest foreign trade partners for both the
+United States and Canada. These trade patterns
+have been maintained in the aftermath
+of the 1989 free-trade agreement between the
+United States and Canada and after the 1994
+implementation of the North American Free
+Trade Agreement, which included Mexico as
+well. However, trade with Mexico and the developing
+countries of Asia and Africa has been
+growing rapidly, especially in the categories of
+food and other agricultural products. For example,
+the largest export market for Kansas
+hard winter wheat in 2003 was Nigeria.</p>
+
+<p>Despite the significance of international
+trade for the Great Plains, it pales in significance
+next to intranational trade. Oil, grain,
+and livestock products are major exports from
+the Plains to the East and West Coasts of the
+United States and Canada, while the Plains
+imports primarily manufactured products
+from the more populated areas of the two
+countries.</p>
+
+<p>The composition of Plains exports partially
+reflects the resource endowment of this region.
+Raw and processed agricultural products are
+major exports from Saskatchewan, North Dakota,
+Nebraska, Manitoba, and Kansas, metals
+from Alberta and Montana, and petroleumrelated
+products from Alberta, Saskatchewan,
+Oklahoma, and Texas. Major metropolitan
+areas in Colorado, Manitoba, New Mexico,
+Oklahoma, and Texas, however, have taken advantage
+of economies of scale and technology
+to make machinery and equipment their major
+exports.</p>
+
+<closer>
+<signed>Craig R. MacPhee<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hayward, David J., and Rodney E. Erickson. "The North
+American Trade of U.S. States: A Comparative Analysis of
+Industrial Shipments, 1983–91." <title level="j">International Regional Science Review</title> 18 (1995): 1–31.</bibl> <bibl>Massachusetts Institute for
+Social and Economic Research. <title level="m">National Trade Data Bank, Exports, State of Origin, Series II</title>. Amherst: University of
+Massachusetts Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

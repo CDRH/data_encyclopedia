@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lougheed, James (1854-1925)</title>
+<title level="m" type="sub"></title>
+<author>David J. Hall</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hall, David J.">David J. Hall</author>. <title level="a">"Lougheed, James (1854-1925)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">456</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LOUGHEED, JAMES (1854-1925)</head>
+
+<p>Sir James Alexander Lougheed was a prominent
+Calgary lawyer and entrepreneur and,
+from December 10, 1889, until his death, a
+member of the Senate of Canada. Of Protestant
+Irish descent, Lougheed was born in
+Brampton on September 1, 1854, was raised in
+Toronto, where he trained as a lawyer, and
+settled in Fort Calgary in 1883, just as the Canadian
+Pacific Railway was being constructed
+there. He married Belle Hardisty, daughter of
+William Hardisty, a prominent Hudson's Bay
+Company factor; they eventually had four
+sons and two daughters.</p>
+
+<p>Lougheed's law practice grew rapidly, particularly
+as solicitor for the railway, and he
+invested heavily, and profitably, in Calgary
+real estate. He constructed numerous rental
+properties in the downtown area, culminating
+in the Lougheed Building (1912), an office
+building with a 1,500-seat theater. Lougheed
+was leader of the Conservative Party in the
+Canadian Senate from 1906 until his death,
+and he was government leader from 1911 to
+1921. He served in the federal government under
+Sir Robert Borden as minister without
+portfolio (1911-18), minister of soldiers' civil
+reestablishment (1918-20), and (under Arthur
+Meighen) as minister of the interior, superintendent
+general of Indian affairs, and minister
+of mines (1920-21). Lougheed's diplomatic
+skills were a great asset in securing the passage
+of government measures. He always was a vigorous
+representative of western Canada in Ottawa.
+Perhaps his greatest work was the resettlement
+of demobilized soldiers, many of
+them in western Canada, following World
+War I. Sir James Lougheed died in Ottawa on
+November 2, 1925.</p>
+
+<closer>
+<signed>David J. Hall<lb/>
+University of Alberta</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McKenna, Marian C. "Calgary's First Senator and City
+Builder: Sir James Alexander Lougheed." In <title level="m">Citymakers: Calgarians after the Frontier</title>, edited by Max Foran and
+Sheilagh S. Jameson. Calgary: Historical Society of Alberta,
+Chinook Country Chapter, 1987: 93–116.</bibl> <bibl>Morton,
+Desmond, and Glenn Wright. <title level="m">Winning the Second Battle: Canadian Veterans and the Return to Civilian Life, 1915– 1930</title>. Toronto: University of Toronto Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

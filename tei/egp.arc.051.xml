@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ukranian Architecture</title>
+<title level="m" type="sub"></title>
+<author>John C. Lehr</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lehr, John C.">John C. Lehr</author>. <title level="a">"Ukranian Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">98-99</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">UKRANIAN ARCHITECTURE</head>
+
+<p>Ukrainian immigrants, mostly peasants from
+eastern Galicia and northern Bukovyna in
+western Ukraine, settled large areas of the Canadian
+Plains from 1892 to 1914. Almost all
+came to North America to seek free 160-acre
+homesteads in the "bush country" of the aspen
+Parkland Belt in Canada's Prairie Provinces,
+but some were also induced to settle in
+the Belfield area of southwestern North Dakota
+by American land agents. In Canada they
+established a series of large, ethnically homogeneous
+bloc settlements that stretched northwest
+from southeast Manitoba, through central
+Saskatchewan, into east-central Alberta.
+The Dominion Lands Act of 1872, which governed
+the disbursement of homesteads in
+Canada, required that all applicants reside
+upon their homestead for at least three years
+before full title was granted. This made it
+impossible for settlers to replicate the villages
+they had known in Europe. Nevertheless,
+chain migration created loose groupings
+of settlers from the same villages or
+regions, which encouraged perpetuation of
+Old Country cultural traits in the newly settled
+territories.</p>
+
+<p>The first shelter built by a Ukrainian pioneer
+was often a simple sod-roofed dugout,
+called a <hi rend="italic">zemlyanka</hi> or <hi rend="italic">burdei</hi>, patterned on
+the temporary shelters used by shepherds
+in the Carpathian Mountains of western
+Ukraine. These dwellings provided shelter for
+the first year or two until a more substantial
+house could be built. The first true houses
+showed considerable variation in style according
+to the builder's region of origin but followed
+a general pattern: a south-facing, twoor
+three-roomed, single-story log house plastered
+and lime washed on the exterior with a
+low, overhanging, hip or hipped-gable roof
+and a central chimney. This type of house predominated
+in Ukrainian rural districts until
+the late 1930s. Abandoned examples may still
+be seen, and some modernized versions are
+still in use.</p>
+
+<p>The aspen parkland provided an array of
+building materials similar to those of the western Ukraine. Aspen, poplar, birch, tamarack,
+and spruce were all used in place of the hardwoods
+of Europe. Slough grass was commonly
+used as an acceptable substitute for rye straw
+in thatching. Other materials remained unchanged:
+clay, fieldstones, chopped straw,
+lime, and horse or cow dung.</p>
+
+<p>Log construction was the norm in the homeland
+and in North America, although where
+Ukrainians settled in timber-scarce areas
+wattle-and-daub construction was sometimes
+employed. Three methods of log building were
+used: horizontally laid logs, post and fill, and
+vertical logs. The diameter of available timber
+determined the method used. In areas with
+mature stands of spruce, logs were squared and
+corners dovetailed. Generally, poplar logs were
+merely scaled and corners saddle notched.
+Where mature timber was more scarce, post
+and fill was used: load-bearing vertical logs
+were mortised, and short, small-diameter, or
+misshapen logs were slotted in as fill. In a few
+areas where fire had destroyed all good building
+timber, walls were made of small-diameter
+logs placed vertically on a wood sill.</p>
+
+<p>Generally, both interior and exterior walls
+were plastered with a mix of clay, chopped
+straw, and horse or cow dung. The plaster was
+anchored to the wall either by pegs driven into
+the logs or by a lattice of willow fixed into
+place before the application of the mud plaster.
+All plaster was invariably coated with a
+white lime wash.</p>
+
+<p>High, steeply pitched, thatched, hipped, or
+hipped-gable roofs were most common in the
+pioneer era. Wood shingles were introduced
+in the 1920s. Roofs were then lowered and
+changed to the gable form, but the pronounced
+eave projection on all sides was
+maintained. Settlers from Bukovyna commonly
+extended the eave up to three feet at the
+front, supporting it with ornate eave brackets
+and four vertical posts to create an open
+porch.</p>
+
+<p>House dimensions varied but generally
+were about twenty-six to thirty feet by twelve
+to seventeen feet, with the ratio of the side to
+the front about 1:1.8. Space was divided into
+the west <hi rend="italic">mala khata</hi> (<hi rend="italic">little house</hi>) and the east
+<hi rend="italic">velykha khata</hi> (big house). The front entrance
+opened into the <hi rend="italic">mala khata</hi>. In early buildings,
+this room, which was the center of daily
+activities, housed the large clay stove (<hi rend="italic">pich</hi>)
+with a wide sleeping shelf. These stoves were
+quickly replaced by lighter and smaller castiron
+store-bought stoves. The <hi rend="italic">velykha khata</hi>
+was reserved for formal occasions. Icons were
+placed along its east wall. A central hallway
+was a common feature.</p>
+
+<p>Construction of ancillary farm buildings
+followed that of the house, though they were
+more likely left without plaster or paint. Usually,
+such buildings were arranged in the form
+of a square, with the house forming one side.</p>
+
+<p>Acculturation showed in second-generation
+buildings, when two-story frame houses were
+built that still retained the traditional floor
+plan. In some small service centers, commercial
+false fronts were grafted onto the gable
+ends of traditional log buildings. Decor and
+use of space within the house were the two
+elements most resistant to acculturation; the
+preference for blue and green as decorative
+trim colors survived structural and stylistic
+changes, as did the use of the east-facing wall
+for placement of religious icons and, later,
+family photographs.</p>
+
+<p>Churches built by Ukrainian immigrants
+during the pioneer era were invariably copies
+of the vernacular church styles of the homeland.
+Built by settlers from sometimes inexact
+recollection, they imbued the new landscape
+with a strong Slavic element. On occasion, the
+ancient styles of the Carpathian mountain
+churches were built, but the Russian Byzantine
+style, which was then replacing the older
+forms in the homeland, was more common.
+Pioneer churches were distinguished by their
+separate bell towers, log construction, and adherence
+to homeland regional styles. Ornate
+pear-shaped <hi rend="italic">banyas</hi> (Byzantine domes) were
+sometimes added to early buildings but were
+more usually an integral feature of secondgeneration
+churches built on a tripartite plan.
+Architect-designed churches using balloonframe,
+brick, or concrete construction did not
+generally appear until the 1930s.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.037">Ukrainians</ref>.</p>
+
+<closer>
+<signed>John C. Lehr<lb/>
+University of Winnipeg</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Darlington, James W. "The Ukrainian Impress on the Canadian
+West." In <title level="m">Canada's Ukrainians: Negotiating an Identity</title>, edited by Lubomyr Luciuk and Stella Hryniuk.
+Toronto: University of Toronto Press, 1991: 53-80.</bibl> <bibl>Lehr,
+John C. "Ukrainians in Western Canada." In <title level="m">To Build in a New Land</title>, edited by Allen G. Noble. Baltimore <hi rend="smallcaps">MD</hi>: Johns
+Hopkins University Press, 1992: 309-30.</bibl> <bibl>Rotoff, Basil, Roman
+Yereniuk, and Stella Hryniuk. <title level="m">Monuments to Faith: Ukrainian Churches in Manitoba</title>. Winnipeg: University of
+Manitoba Press, 1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

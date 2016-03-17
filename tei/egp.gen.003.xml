@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.gen.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Barnard, Kate (1875-1930)</title>
+<title level="m" type="sub"></title>
+<author>Linda Reese</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.gen.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Reese, Linda">Linda Reese</author>. <title level="a">"Barnard, Kate (1875-1930)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">324</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BARNARD, KATE (1875-1930)</head>
+
+<p>Catherine Ann (Kate) Barnard is representative
+of the women in the Great Plains who
+made a career of social activism on behalf of
+the poor and vulnerable, voicing the concerns
+of the working class, minorities, women, and
+families in agricultural states experiencing
+rapid development. Kate was born in Geneva,
+Nebraska, on May 23, 1875, but grew up in
+Kirwin, Kansas. Her mother died there in
+1877. In the mid-1890s she moved with her
+father, John P. Barnard, to a claim he had
+staked in the Oklahoma Land Run of 1889.
+While her father practiced law in Oklahoma
+City, Kate lived alone on the homestead, enduring
+the isolation, wind, and hard work,
+until the claim was secure. She then moved to
+Oklahoma City and attended St. Joseph's
+Academy. She taught in rural schools from
+1896 to 1899 and then worked as a stenographer
+before taking charge, in 1905, of the
+Provident Association of Oklahoma City, a
+floundering charity organization. Barnard's
+highly successful appeals for contributions
+through the <title level="j">Daily Oklahoman</title> newspaper
+turned her home into a distribution center for
+food, clothing, money, and job-placement information.</p>
+
+<p>Barnard moved beyond charity to activism
+when she founded the local chapter of the
+Women's International Union Label League
+and represented the workers of the Oklahoma
+City Trades and Labor Assembly in 1905-7.
+These efforts made her an attractive advocate
+to socialist and populist political factions. She
+developed alliances with women's groups such
+as the Oklahoma Territory Federation of
+Women's Clubs, and she traveled to several
+major cities to interview the leaders of national
+reform organizations, making valuable
+contacts and gaining firsthand information
+about the latest social justice measures. As
+Oklahoma statehood approached in 1907,
+Democratic Party leaders recognized Barnard's
+political potential. She represented the
+women's lobby at the preliminary Shawnee
+Convention, urging child labor legislation,
+compulsory education, prison reform, and
+the creation of an office of commissioner of
+charities and corrections to oversee these issues.
+In the state document, members of the
+constitutional convention worded the description
+of the commissioner of charities and
+corrections to include a woman officeholder
+so that she might have the position. She was
+such an effective campaigner that she polled
+more votes from an all-male electorate than
+any other candidate, including the governor.
+She was reelected in 1910.</p>
+
+<p>Barnard used her new office as the vehicle to
+propose aggressive legislation to implement
+her reforms and to demand adequate appropriations
+to establish effective social welfare
+institutions. Her graphic exposures in 1908
+and 1909 of the treatment of Oklahoma prisoners
+in Kansas jails led to the construction of
+the first state penitentiary at McAlester and to a
+national reputation as an authority on prison
+reform. The publicity surrounding her descriptions
+of the shortcomings of the Oklahoma
+government's response to the poor and
+helpless, as well as her outspoken demands for
+money and action, soon angered party leaders
+such as William "Alfalfa Bill" Murray, speaker
+of the Oklahoma House of Representatives.
+Barnard's prosecution of corrupt, court-appointed
+"guardians" who dispossessed Indian
+orphans of valuable land, money, and oil assets
+led to her political downfall. In retaliation for
+her interference, members of the state legislature
+launched an investigation of her office, cut
+her appropriations, and recommended that
+the office be abolished. Barnard left political
+office in 1914, exhausted and ill. In obscurity
+she continued to advocate on behalf of society's
+most vulnerable citizens until she died
+alone in an Oklahoma City hotel on February
+23, 1930.</p>
+
+<closer>
+<signed>Linda Reese<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Crawford, Suzanne, and Musslewhite, Lynn. "Kate Barnard,
+Progressivism, and the West." In <title level="m">"An Oklahoma I Had Never Seen Before": Alternative Views of Oklahoma History</title>, edited by Davis D. Joyce. Norman: University of
+Oklahoma Press, 1994: 62–79.</bibl> <bibl>Reese, Linda W. <title level="m">Women of Oklahoma, 1890–1920</title>. Norman: University of Oklahoma
+Press, 1997.</bibl> <bibl>Short, Julia A. "Kate Barnard: Liberated
+Woman." Master's thesis, University of Oklahoma, 1972.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

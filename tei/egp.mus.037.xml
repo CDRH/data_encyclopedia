@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.037">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Orbison, Roy (1936-1988)</title>
+<title level="m" type="sub"></title>
+<author>Burt Kaufman</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.037</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kaufman, Burt">Burt Kaufman</author>. <title level="a">"Orbison, Roy (1936-1988)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">545</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ORBISON, ROY (1936-1988)</head>
+<figure n="egp.mus.037" rend="granted">
+<figDesc>Roy Orbison</figDesc>
+</figure>      
+    
+<p>Roy Kelton Orbison was born in Vernon,
+Texas, on April 23, 1936, and grew up in nearby
+Wink (population 1,000), where his father
+worked in the oil fields. Surrounded by the
+sounds of western swing and honky-tonk, he
+began singing for audiences at the age of ten.
+His first band, the Wink Westerners, played
+pop songs and western standards around West
+Texas before adapting to the times and, as the
+Teen Kings, moving into rockabilly. This was a
+short-lived phase for Orbison, who turned to
+ballads after 1958 and, recording for Monument,
+moved into the ranks of leading stars
+alongside Elvis Presley and Buddy Holly.</p>
+
+<p>Between 1958 and 1964 a Roy Orbison bigbeat
+ballad was rarely absent from the record
+charts. His often melancholy songs, including
+"Only the Lonely," "Running Scared," "Crying,"
+"It's Over," and "Oh, Pretty Woman,"
+sung in an operatic style that often crescendoed
+to a high note, were standard accompaniments
+to teenage angst. Working with
+producer Fred Foster, Orbison pioneered the
+use of violin backing and abandoned the standard
+"verse-chorus" song structure in favor
+of a more complex symphonic style. He was
+equally popular in the United Kingdom as in
+the United States, and when he toured the uk
+in 1963 with the Beatles, who idolized him,
+Orbison was the main act.</p>
+
+<p>Orbison's career plummeted after 1964, as
+hard rock displaced the softer, more sentimental
+songs of the early 1960s. A move to
+mgm did nothing to rescue declining sales,
+and, more drastically, Roy's life was struck by
+tragedy: in 1966 his first wife, Claudette, was
+killed in a motorcycle accident, and, just over
+two years later, his two oldest sons, Tony and
+Roy, died in a house fire while Roy was on tour
+in Europe.</p>
+
+<p>By 1970 Orbison was virtually forgotten in
+the United States, though he continued to
+turn out albums for <hi rend="smallcaps">MGM</hi> and later Mercury.
+Married again in 1969 to a German, Barbara
+Welhoner, he spent more and more of his time
+in Europe, where he was still a popular figure.
+But his mystique was enduring: his black
+clothes, black shades, and motionless presence
+on stage still captivated audiences. He continued
+to tour, playing small towns like the
+ones he had known in his youth on the Plains.</p>
+
+<p>Moreover, a newer generation of rock artists
+had not forgotten Roy Orbison. Bruce Springsteen
+introduced him at his induction into the
+Rock and Roll Hall of Fame in 1987, and sales of
+his record "In Dreams" revived after it was
+featured in David Lynch's bizarre movie <title>Blue Velvet</title> (1986). Further new exposure came in
+the <hi rend="smallcaps">HBO</hi> special <title>Roy Orbison and Friends: A
+Black and White Night</title>, in which he was joined
+and honored by Springsteen, Elvis Costello,
+Bonnie Raitt, and other rock luminaries whose
+careers had been so influenced by him. Orbison's
+career rose to a new zenith in 1988,
+when he recorded with Bob Dylan, George
+Harrison, Tom Petty, and Jeff Lynne as a member
+of The Traveling Wilburys. His new solo
+album, <title>Mystery Girl</title>, shot up the charts in early
+1989, but by that time the gentle Texan with the
+ethereal voice had died on December 6, 1988,
+in Hendersonville, Tennessee.</p>
+
+<closer>
+<signed>Burt Kaufman<lb/>
+Oakland, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clayson, Alan. <title level="m">Only the Lonely: Roy Orbison's Life and Legacy</title>. New York: St. Martin's Press, 1990.</bibl> <bibl>Kaufman, Burt.
+"Spotlight on Roy Orbison." <title level="j">Rockin' 50's</title> 31 (1991): 8–16.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

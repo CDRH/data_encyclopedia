@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cattle Trails</title>
+<title level="m" type="sub"></title>
+<author>Richard W. Slatta</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Slatta, Richard W.">Richard W. Slatta</author>. <title level="a">"Cattle Trails."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">800-801</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CATTLE TRAILS</head>
+
+<p>Ranchers used specific routes, known as cattle
+trails, to move their animals from grazing
+lands to market. The most famous trails of the
+Great Plains ran from Texas northward to
+Kansas cow towns or railheads. Trail drives
+defined the classic golden age of the cowboy,
+as herders drove millions of cattle north from
+the mid-1860s through the mid-1880s.</p>
+
+<p>Cattlemen in the Great Plains had an interest
+in moving their animals to more profitable
+markets to the north and east as early as the
+1840s. Edward Piper blazed the first documented
+cattle trail in 1846, when he drove a
+thousand head from Texas and sold them in
+Ohio. Another early route, known initially as
+the Kansas Trail and later as the Shawnee Trail,
+opened in the 1840s. The full route ran from
+Brownsville in southern Texas north through
+Dallas. After crossing Indian Territory into
+southeastern Kansas, the trail branched to
+Missouri railheads at Kansas City, Sedalia, and
+St. Louis. Quarantines against Texas cattle carrying
+ticks and the interruptions of the Civil
+War closed the Shawnee Trail and ended the
+first phase of Great Plains trail drives.</p>
+
+<p>During the Civil War untended herds in
+Texas multiplied quickly as Union blockades
+cut the state off from market outlets. The
+Texans knew that their four-dollar-per-head
+cattle in Texas could bring $40 to $50 apiece in
+eastern markets. Thus, after the war ranchers
+looked for ways to move their large herds to
+market. In 1866 Charles Goodnight and Oliver
+Loving blazed the famous cattle trail that bears
+their names. It ran northwest from Palo Pinto
+County, Texas, to Pope's Crossing in southeastern
+New Mexico, and on north to Fort
+Sumner and Fort Bascom. From Fort Sumner,
+Loving continued the route northwest through
+Raton Pass and on to markets in Colorado. In
+1867 the 600-mile Chisholm Trail became the
+main trail, and it was used extensively until
+1871. Illinois cattle buyer Joseph G. McCoy laid
+out the trail along an old trade path initially
+developed by merchant Jesse Chisholm. It ran
+north from San Antonio to Fort Worth, Texas,
+through Oklahoma and ended at Abilene,
+Kansas. McCoy built stock pens in Abilene to
+hold cattle awaiting shipment on the Kansas
+Pacific Railroad. In 1874 he published the first
+major account of life on the cattle trail, <title level="m">Historic
+Sketches of the Cattle Trade</title>.</p>
+
+<p>Additional cattle trails developed for a
+number of reasons. Conflicts with Native
+Americans, rustlers, or local farmers and
+ranchers fearful of tick-born "Texas fever"
+convinced some Texans to seek more peaceful
+routes. As railroads proliferated in Kansas and
+Nebraska, new cow towns and markets required
+new trails to reach them. Ranchers also
+tried to find better routes with reliable supplies
+of grass and water and with the fewest
+major hazards such as major river crossings.</p>
+
+<p>In 1867 ranchers in southern Texas began
+moving animals along a route that ran parallel
+to but east of the Chisholm Trail. This Eastern
+Trail ran through the Cherokee Strip, passed
+through Wichita and Newton, Kansas, and
+then went on to Abilene. A decade later, Lucien
+Maxwell struck out to the northwest from
+Belton, Texas. This route, known as the Western
+Trail, ran through Fort Griffin northward
+to Doan's Store on the Red River and across the
+Oklahoma Panhandle. Herds could be marketed
+at Dodge City, Kansas, or Ogallala, Nebraska,
+or driven to the Northern Great Plains
+on the Jones and Plummer Trail. Drovers continued
+to utilize the Western Trail until 1892,
+when homesteaders settled and fenced off the
+route in Oklahoma Territory.</p>
+
+<p>On the Northern Plains, drovers moved cattle
+along several routes, including the Bozeman,
+Northern, Oregon Cattle, and Jones and
+Plummer Trails. John Bozeman, born in Georgia,
+aspired to find a shortcut to the Montana
+gold deposits. In 1863 he trekked along the
+Yellowstone River, turned south toward the Big
+Horn Mountains, and arrived at Deer Creek
+Settlement. The trail continued in use until it
+was abandoned in the summer of 1868. From
+1869 until about 1875, cattlemen in the Pacific
+Northwest pushed herds eastward into Wyoming
+over the Oregon Cattle Trail. Another
+route, the Northern Trail, paralleled the Oregon
+Cattle Trail from eastern Oregon through
+Idaho before joining the latter at South Pass,
+Wyoming.</p>
+
+<p>Historian Philip Ashton Rollins estimated
+that cattle drives required about one man for
+each 250–350 head of cattle. In addition to the
+drovers, crews included a trail boss, a cook,
+perhaps an assistant foreman, and a horse
+wrangler to care for the six to eight mounts
+needed by each man. Cattle and horses acted
+up more often early on the trail. After a few
+weeks the animals became "trail broke" or
+"road broke" and easier to handle.</p>
+
+<p>Cattle trails became some of the most storied
+places of the Great Plains. Some cowboys,
+beginning with Charles A. Siringo in 1885,
+penned memoirs of life on the trail. Siringo's
+book, A Texas Cow Boy, set off a flood of similar
+cattle drive books of variable quality and
+veracity. Countless novels and movies such as
+<title>Red River</title> (1948), starring John Wayne, would
+popularize the lightning storms, stampedes,
+rustler attacks, and dangerous river crossings
+that cowhands actually endured on the trail.</p>
+
+<p>Cowboys drove some 600,000-700,000 animals
+north from Texas during 1871 alone. In
+1884, however, Kansas enacted a quarantine
+against Texas cattle that effectively killed the
+large northern drives. The final blow to the
+drives came when railroads pushed trunk lines
+southward so that cattle could be shipped directly
+from Texas. Sporadic drives continued
+on a reduced basis for another decade, but the
+great era of the cattle trails had ended.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.011">Cattle Towns</ref> / <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.057"><hi rend="italic"><title>Red River</title></hi></ref> / <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.041">Siringo, Charles</ref> / <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.019">Dodge City, Kansas</ref>.</p>
+
+<closer>
+<signed>Richard W. Slatta<lb/>
+North Carolina State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Gard, Wayne. <title level="m">The Chisholm Trail</title>. Norman: University of
+Oklahoma Press, 1988.</bibl> <bibl>McCoy, Joseph G. <title level="m">Historic Sketches
+of the Cattle Trade of the West and Southwest</title>, edited by
+Ralph P. Bieber. Lincoln: University of Nebraska Press,
+1985.</bibl> <bibl>Skaggs, Jimmy M. <title level="m">The Cattle-Trailing Industry</title>. Norman:
+University of Oklahoma Press, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

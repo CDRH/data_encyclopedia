@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Army Topographical Engineers</title>
+<title level="m" type="sub"></title>
+<author>Richard A. Bartlett</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.005</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bartlett, Richard A.">Richard A. Bartlett</author>. <title level="a">"Army Topographical Engineers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">823</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ARMY TOPOGRAPHICAL ENGINEERS</head>
+
+<p>From 1777 until 1863 the U.S. Army included
+topographical engineers among its professional
+officers. The Topographical Bureau was
+created as a branch of the U.S. Army Corps
+of Engineers on March 3, 1813, and remained
+only a small, elite corps until John James
+Abert, a graduate of the U.S. Military Academy
+at West Point, became its head in 1829. A
+good politician as well as a capable engineer,
+Abert succeeded in getting the Corps of Topographical
+Engineers created in 1838 as an
+independent army unit separate from the U.S.
+Army Corps of Engineers. Sixty-four of its
+seventy-two officers were West Point men, testifying
+to the unit's superior composition. The
+Corps was in tune with the romantic interests
+of a nation curious about the West and anxious
+to unlock its secrets. On March 3, 1863,
+Congress eliminated the independent unit,
+merging it with the Army Engineers.</p>
+
+<p>One of the first six officers in the Corps,
+Stephen H. Long explored along the Platte,
+Arkansas, and Red Rivers in 1820. His report
+included a map of the Great Plains across
+which was printed "Great American Desert."
+Although the description is today considered
+incorrect, Long (and Zebulon Pike before
+him), in their pessimistic forecasts denying
+the possibility of white settlement, were accurate
+within the context of the technology of
+the times.</p>
+
+<p>The Topographical Engineers were most
+active in the 1840s and 1850s. John C. Fr&#233;mont's
+western explorations began in 1841
+with an exploration of the North Platte River.
+Fr&#233;mont's next exploration took him west to
+present Pueblo, Colorado, then north to the
+Laramie Plains. Returning east a year later,
+Fr&#233;mont took a southerly route via Bent's Fort
+on the Arkansas River. His report of this twoyear
+reconnaissance (1843–44) greatly expanded
+the geographical knowledge of the
+Great Plains.</p>
+
+<p>The Southern Plains gained o.cial attention
+with the advent of the Mexican War. Topographical
+engineers accompanied military
+forays searching out the best routes, and sites
+for artesian wells, into New Mexico and California.
+They were involved in the running
+of the Mexican American boundary. Colonel
+Abert's son, Lt. James W. Abert, Bvt. Maj. William
+Hemsley Emory, Lt. Amiel Weeks Whipple,
+and Lt. James H. Simpson are but four of
+the many topographical engineers whose activities
+added further to the knowledge of the
+Southern Plains.</p>
+
+<p>The Topographical Engineers were deeply
+involved in the Pacific Railroad surveys. These
+explorations resulted in the delineation of several
+viable railroad routes ranging, in the
+north, from St. Paul, Minnesota, to Oregon
+and, in the south, from Vicksburg to southern
+California. Lt. Gov. K. Warren, Capt. John W.
+Gunnison, Isaac I. Stevens, and Capt. William
+F. Raynolds were among the engineers who
+traversed the Great Plains in the course of
+their assignments. In addition, scientists accompanied
+the surveys, and their Pacific Railroad
+reports&#8211;magnificent volumes gathering
+dust in research libraries&#8211;offer a proud beginning
+to the scientific investigation of the
+entire West, including the Great Plains.</p>
+
+<closer>
+<signed>Richard A. Bartlett<lb/>
+Florida State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Goetzmann, William H. <title level="m">Army Exploration of the American
+West, 1803–1863</title>. New Haven <hi rend="smallcaps">CT</hi>: Yale University Press,
+1959.</bibl> <bibl>Goetzmann, William H. <title level="m">Exploration and Empire</title>.
+New York: Alfred A. Knopf, Inc. 1966.</bibl> <bibl>Wallace, Edward S.
+<title level="m">The Great Reconnaissance</title>. Boston: Little, Brown and Co.,
+1955.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

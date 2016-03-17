@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">The Last Picture Show</hi></title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.038</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"The Last Picture Show."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">271</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">THE LAST PICTURE SHOW</hi></head>
+<figure n="egp.fil.038" rend="granted" type="noclick">
+<figDesc>The Last Picture Show DVD Special Edition Cover</figDesc>
+</figure>         
+
+<p>In the opening scene of <title>The Last Picture Show</title>
+(1971), directed by Peter Bogdanovich, it appears
+as if gunshots are echoing through the
+empty dirt streets of Anarene, Texas. But it
+is only the backfiring of Sonny Crawford's
+(Timothy Bottoms) truck, and the viewer is
+forewarned that though this may look like a
+frontier town, right down to the tumbleweeds,
+it no longer has the energy to give rise to a
+gunfight. The stores are boarded up, the highway
+sign to Routes 25 and 79 points to the
+way out, and the Royal, the town's theater,
+is showing its final movie, Howard Hawks's
+<title>Red River</title>.</p>
+
+<p>The year is 1951, and Sonny and his best
+friend, Duane (Jeff Bridges), have just lost
+their last football game, and, like other teenagers
+in Anarene, they have no idea what to
+do with their lives. The adults offer no model:
+there is Ruth Popper (Cloris Leachman), the
+aging and lonely wife of the boorish coach
+who finds respite from despair in the arms of
+Sonny; there is Lois Farrow (Ellen Burstyn),
+rich and bored and worried that her daughter&#8211;
+the self-centered and manipulative Jacy
+(Cybill Shepherd)&#8211;is following in her footsteps;
+there are nameless old men who aimlessly
+gather at the pool hall, its air heavy with
+dust and tedium; and everywhere there are
+open secrets and unmentioned infidelities.
+Only the dignified Sam the Lion (Ben Johnson),
+a former cowboy and now the theater
+owner, is a reminder of a more vibrant past.
+But Sam dies, the movie house closes, Duane
+heads off to Korea, and Sonny is left with no
+prospects in this atrophied place.</p>
+
+<p>Director Peter Bogdanovich audaciously
+(by 1970 nearly all feature films were in color)
+shot the film in black and white on location in
+Archer City, which, like the fictional Anarene,
+lies just to the southwest of Wichita Falls. Bogdanovich
+and Larry McMurtry wrote the
+Academy Award–winning screenplay, which
+was adapted from McMurtry's 1966 novel of
+the same name. (The screenplay is a less bitter
+though no less desolate view of McMurtry's
+hometown of Archer City.) The music of
+Hank Williams, Hank Snow, and Bob Wills
+and the Texas Playboys, among others, confirms
+the time and place. With its unhappy
+marriages and failed lives, the movie could
+easily have degenerated into a soap opera, but
+Bogdanovich's skilled, unobtrusive direction
+and the superb cast of actors&#8211;both Ben Johnson
+and Cloris Leachman won Oscars and
+Ellen Burstyn won a New York Film Critics
+Award for their supporting roles&#8211;ensure the
+authenticity of this sad, elegiac portrayal of
+the dying days of a Great Plains town.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.049">Small Towns</ref> / 
+<hi rend="smallcaps">LITERARY TRADITIONS</hi>: <ref n="egp.lt.044">McMurtry, Larry</ref>.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dawson, Jan. "Review of The Last Picture Show." <title level="j">Sight and Sound</title> 47 (1972): 107–8.</bibl> <bibl>Lorenz, Janet E. "The Last Picture
+Show." In <title level="j">International Dictionary of Films and Filmmakers</title>,
+edited by Nicholas Thomas. Chicago: St. James
+Press, 1990: 1: 497–99.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

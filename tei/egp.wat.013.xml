@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.wat.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lake Agassiz</title>
+<title level="m" type="sub"></title>
+<author>Leo Pettipas</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.wat.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pettipas, Leo">Leo Pettipas</author>. <title level="a">"Lake Agassiz."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">855</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LAKE AGASSIZ</head>
+
+<p>Ten thousand years ago, glacial Lake Agassiz
+was the largest body of freshwater in North
+America. At its maximum extent, the lake covered
+an area of some 135,000 square miles and
+had a maximum depth of around 700 feet.
+Lake Agassiz was a product of widespread deglaciation
+that marked the closure of the last
+great Ice Age. By 11,700 years ago, the ice front
+had retreated far enough north to permit impoundment
+of glacial meltwater&#8211;incipient
+Lake Agassiz&#8211;in the extreme southern end of
+the Red River Valley of the North near the
+junction of present-day North Dakota, South
+Dakota, and Minnesota. As the ice sheet retreated
+the lake gradually expanded northward
+across the First Steppe (or Manitoba
+Plain) and over much of the adjoining Precambrian
+Shield. Initially, drainage flowed
+southward via the Minnesota and Mississippi
+Rivers. The level of the lake rose and fell, and
+its margins correspondingly expanded and
+contracted, several times in response to a sequence
+of ice frontal readvances and retreats
+that alternately opened and closed its outlets
+into the Lake Superior basin.</p>
+
+<p>Migration made possible by extensive riverine
+connections with other drainages to the
+south, east, west, and northwest culminated in
+a varied fish population in Lake Agassiz. The
+lake's huge size, however, precluded human
+occupation of a sizeable portion of the northeastern
+Plains periphery, while adjacent areas
+to the south and west were inhabited by generations
+of hunters and gatherers.</p>
+
+<p>The lake began its final phase of drainage
+just over 9,000 years ago. Around 1,000 years
+later a much-diminished Lake Agassiz discharged
+into ancestral Hudson Bay as the last
+vestiges of the once-formidable ice dam finally
+disintegrated.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.029">Glaciation</ref>.</p>
+
+<closer>
+<signed>Leo Pettipas<lb/>
+Manitoba Museum of Man and Nature</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Teller, James T., and Lee Clayton, eds. <title level="m">Glacial Lake Agassiz</title>.
+St. John's, Newfoundland: Geological Association of Canada,
+1983.</bibl> <bibl>Teller, James T., and Alan E. Kehew. "Introduction
+to the Late Glacial History of Large Proglacial Lakes
+and Meltwater Runoff along the Laurentide Ice Sheet."
+<title level="j">Quaternary Science Reviews</title> 13 (1994): 795-99.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

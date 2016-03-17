@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.026">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hutterites</title>
+<title level="m" type="sub"></title>
+<author>Courtney Muir Wallner</author>
+<author>James A. Kitts</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.026</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wallner, Courtney Muir">Courtney Muir Wallner</author> and <author n="Kitts, James A.">James A. Kitts</author>. <title level="a">"Hutteries."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">747</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HUTTERIES</head>
+
+<p>The Hutterian Brethren (commonly known as
+the Hutterites) are a traditional Christian sect
+who settled in many agricultural colonies
+across the Great Plains of the United States
+and Canada. Approximately 36,000 members
+live and work communally in about 428 collective
+farms, or <hi rend="italic">Bruderhofs</hi> (<hi rend="italic">Bruderh&#246;fe</hi>).</p>
+
+<p>The Hutterian movement began in 1528,
+when an Anabaptist sect in Austerlitz, Moravia
+(now the Czech Republic), adopted communal
+living, rejected the sanctioned practice
+of infant baptism, and renounced the Catholic
+doctrine of transubstantiation. Severely persecuted
+for these heresies, the sect found its
+current name in 1536 when an early leader,
+Jakob Hutter, was burned at the stake.</p>
+
+<p>After more than 300 years of persecution
+and forced migration within eastern Europe
+and Russia, the Hutterites fled to Dakota Territory
+between 1874 and 1877. However, they
+were again persecuted in the United States
+during World War I due to their strict pacifism
+and Germanic ethnicity, and all but one
+colony migrated to Canada in 1918. While
+many colonies remain in Alberta, Saskatchewan,
+Manitoba, and British Columbia today,
+others have returned to, or have been founded
+in, the United States. These are primarily located
+in South Dakota and Montana but are
+also found in North Dakota, Minnesota, and
+Washington.</p>
+
+<p>Daily life in Hutterian colonies revolves
+around religion, as Hutterites attend services
+every evening and twice on Sunday. Their spiritual
+beliefs discourage selfish interests and
+emphasize serving the communal good. The
+tenet of <hi rend="italic">Gelassenheit</hi>&#8211;or "self-surrender"&#8211;entails
+a rejection of material luxury and personal
+wealth. Modeling themselves after the
+early Christians (see Acts 2:44–47), the Hutterites
+practice communal ownership of land
+and other goods. While individual families live
+in private apartments, each colony holds all
+possessions and money in a common trust.
+Hutterites eat and work collectively, receiving
+no individual salary but sharing equally in the
+proceeds of their labor. The colony provides
+for all basic necessities, such as medical costs,
+child care, clothing, and furniture.</p>
+
+<p>Hutterian colonies are located in sparsely
+populated areas to minimize interaction with
+the outside world and thus focus attention on
+spiritual goals. Like the well-known Amish
+and Mennonites (who are not communal),
+the Hutterites adhere to traditional dress, customs,
+and language. Unlike these other Germanic
+Anabaptist sects, the Hutterites employ
+modern technology and methods of agriculture
+and manufacturing.</p>
+
+<p>Hutterites learn English but use High German
+in religious services and informally speak
+a Tyrolean dialect, which they call Hutterisch.
+Children learn Hutterite traditions and history
+in a German-speaking classroom while also
+studying standard academic topics in a government-mandated
+school, which they call the
+"English" school. They are growing more open
+to conventional education, and some Hutterite
+teenagers now earn high school diplomas.</p>
+
+<p>Adolescents become adult members at age
+fifteen and are eligible for baptism at age
+twenty. At this age, a Hutterite woman generally
+leaves her colony to marry a man in another
+colony, which receives a dowry in exchange.
+The Hutterites practice traditional
+gender roles, and women cannot vote or hold
+colony office. Large families are encouraged,
+and Hutterites have some of the highest birthrates
+of any ethnic or religious group in the
+United States, with an average of nine children
+per family. For this reason, the total number
+of Hutterites and Hutterian colonies rises
+steadily. When a colony grows too large (130.
+150 members), it splits and forms a "daughter"
+colony.</p>
+
+<p>Some related traditional sects, such as the
+Bruderhof of New York, Pennsylvania, and
+Connecticut, or nonagricultural colonies in
+Japan, England, and Paraguay, have grown out
+of the Hutterian movement. The Prarieleut
+are people of Hutterian descent who also settled
+in the Great Plains but do not live communally,
+and they often attend Mennonite
+churches.</p>
+
+<closer>
+<signed>Courtney Muir Wallner<lb/>
+Columbia University<lb/>
+James A. Kitts<lb/>
+Cornell University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hostetler, John A. <title level="m">Hutterite Society</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns
+Hopkins University Press, 1974.</bibl> <bibl>Hostetler, John A., and
+Gertrude Enders Huntington. <title level="m">The Hutterites in North
+America</title>. New York: Holt, Rinehart and Winston, 1967.</bibl>
+<bibl>Miller, Timothy. "A Guide to the Literature on the Hutterites."
+<title level="j">Communal Societies</title> 10 (1990): 68–86.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

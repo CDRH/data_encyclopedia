@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jimenez, Luis (b. 1940)</title>
+<title level="m" type="sub"></title>
+<author>Karen O. Janovy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Janovy, Karen O.">Karen O. Janovy</author>. <title level="a">"Jimenez, Luis (b. 1940)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">360</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JIMENEZ, LUIS (b. 1940)</head>
+
+<p>Luis Alfonso Jimenez Jr., one of the Americas'
+most important Hispanic artists, was born on
+July 14, 1940, in El Paso, Texas. He received
+a bachelor of science degree in art and architecture
+from the University of Texas in 1964.
+The same year, he attended Ciudad Universitaria,
+Mexico. He has been awarded the prestigious
+Mid-Career Fellowship Awards at the
+American Academy in Rome and the National
+Endowment for the Arts, and the American
+Institute of Architects Environmental Improvement
+Award for <hi rend="italic">Vaquero</hi>, his work of
+sculpture in Moody Park, Houston, Texas.
+Numerous other commissions and exhibitions
+are at institutions such as the National
+Museum of American Art, Washington <hi rend="smallcaps">DC</hi>;
+New York's Metropolitan Museum of Art; the
+Art Institute of Chicago; the Modern Art Museum
+of Fort Worth; the San Antonio Museum
+of Arts; and the Sheldon Memorial Art
+Gallery, University of Nebraska–Lincoln.</p>
+
+<p>Jimenez's technique in creating monumental
+sculptures was learned in the workshop of
+his father, a sign painter and neon sign maker.
+He is widely known for his large, public, fiberglass
+sculptures that are based on a contemporary
+language and convey a "Tex-Mex"
+flavor, inviting spirited dialogue not only
+about their subject matter but also their medium.
+He incorporates age-old Chicano and
+Mexican icons that can be thought of in a
+more popular idiom, and he challenges accepted
+notions of the definition of art. His
+vigorous, gestural drawings also are full of a
+sense of pride in his Latino heritage.</p>
+
+<closer>
+<signed>Karen O. Janovy<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Zamudio-Taylor, Victor. "Chicano Art." In <title level="m">Latin American Art in the Twentieth Century</title>, edited by Edward J. Sullivan.
+London: Phaidon Press, 1996: 318–21.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

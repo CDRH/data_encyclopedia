@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kaws</title>
+<title level="m" type="sub"></title>
+<author>Benjamin Y. Dixon</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dixon, Benjamin Y.">Benjamin Y. Dixon</author>. <title level="a">"Kaws."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">579-580</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KAWS</head>
+
+<p>The Kaw, or Kanza, Indians refer to themselves
+collectively as the Kaw Nation. The
+names Kaw and Kanza appear on the tribe's
+national seal, but Kaw is the identity used
+by members. Kaw means "Wind People." The
+Kaws are part of the Dhegiha branch of the
+Central Siouan-speaking peoples, a group that
+includes Quapaws, Osages, Omahas, and Poncas.
+According to their histories, these tribes
+once lived together along or near the lower
+Ohio Valley. They began to migrate westward
+around 1300 <hi rend="smallcaps">A.D.</hi>, and by the 1700s the Kaws
+were firmly situated in present northeastern
+Kansas and northwestern Missouri.</p>
+
+<p>From the late eighteenth century until the
+late 1820s, the Kaws, numbering about 1,500,
+lived in a single village near present Manhattan,
+Kansas. Their territory extended throughout
+most of the Kansas Valley and the lower
+reaches of its tributaries from about the Delaware
+River west to the Solomon and Smoky
+Hill Rivers. Within this core, the Kaws exercised
+nearly total territorial control. Their
+hunting range extended west to the upper Republican
+River and south to the saline plains of
+the present Kansas-Oklahoma border.</p>
+
+<p>The Kaws' subsistence operated on an annual
+cycle of hunting, horticulture, raiding,
+and trading. Beginning in April, Kaw women
+planted corn, beans, pumpkins, melons, and
+squash in small fields around the village. They
+also gathered nuts, berries, roots, tubers, and
+wood in the riparian forest adjacent to the
+Kansas and Blue Rivers. Kaw males pastured
+their horses on nearby upland prairie and
+hunted (mostly elk and deer) along the Kansas
+River. After planting ended in early May, the
+Kaws left for their annual summer bison hunt.
+Along the way to the bison grounds, they
+hunted deer and elk, and small war parties
+frequently left to raid Pawnee villages. The
+Kaws primarily hunted along the middle Solomon,
+Smoky Hill, and Arkansas Rivers, where
+vast herds of bison sought water in summer.
+They returned to their village in mid-August to
+harvest their crops. In winter, the Kaws left
+their village again and traveled to the woodlands
+along the Missouri River in present
+northeastern Kansas and northwestern Missouri.
+There they scattered into small parties
+and hunted beaver, deer, elk, turkey, and other
+smaller game. The furs from these animals
+were exchanged for goods from French and
+American traders who regularly traveled the
+Missouri River. During this season, Kaw war
+parties raided Otoe, Iowa, Sauk, Fox, and Missouria
+villages. The Kaws reconvened at their
+village in mid-March.</p>
+
+<p>This subsistence pattern also provided the
+Kaws with their material culture (dress, tools,
+utensils, weapons, and housing). Kaw dress,
+for instance, consisted of moccasins and leggings
+(made from deerskins), a breechcloth
+and girdle (acquired through trade), and a
+blanket or bison robe. Male warriors often
+wore necklaces of animal claws or of shells,
+beads, and metal ornaments (acquired through
+trade), and they carried a wire apparatus to keep
+their arms, chins, eyebrows, and scalp plucked
+(except for a strip of hair on the top of their
+heads). Both men and women used vermilion to
+dye their hair.</p>
+
+<p>Circular earth lodges were the most common
+form of village housing. A lodge measured
+from thirty to sixty feet in diameter and
+housed an average of two families (or about
+ten persons). Each lodge consisted of an outer
+ring of wooden posts and four taller central
+posts that were then covered with a frame of
+stick or twig bundles, over which they laid
+grass or reed mats, tree bark, and earth. Inside
+a lodge they maintained a central fire pit (and
+a hole in the roof's center for smoke to escape)
+as well as storage pits for dried corn, beans,
+and other foods. When the Kaws were on the
+hunt, they lived in portable skin-covered tipis.</p>
+
+<p>Kaw society was patrilineal, and it was divided
+into two halves, or moieties, each composed
+of eight clans, or gentes (consisting of
+several families each), whose members descended
+from a common ancestor. Politically,
+the Kaws were organized around a loose confederation
+headed by several chiefs. There
+were five civil chiefs, drawn from each of the
+five leading gentes. There were also several war
+chiefs, established warriors who ruled in matters
+of war. Chiefs were elected by a common
+council of the people because of their demonstrated
+wisdom, bravery, and generosity. Office
+was for life and succession was hereditary.
+Despite the chieftainships, usually no solid
+ruling authority was recognized. Most matters
+were still decided through common council,
+and some degree of factionalism was characteristic
+of Kaw politics.</p>
+
+<p>In 1825 the U.S. government convinced the
+Kaws to cede their land and placed them on a
+reservation in present northern Kansas. For
+the next two decades, the Kaws were hemmed
+in by thousands of relocated Indians from the
+eastern United States. The influx of emigrant
+Indians and the expansion of the fur trade
+depleted small game in the region, and missionaries
+and government employees on the
+reservation introduced disease. The Kaws intensified
+their bison hunting, raided enemies
+with increasing frequency, and stole crops and
+animals from neighboring reservations and
+white settlements.</p>
+
+<p>The Kaws maintained their population of
+1,500 persons until midcentury, after which
+their numbers plummeted. The U.S. government
+restricted the Kaws to progressively
+smaller reservations (in 1846, 1859, and 1873).
+When officials opened Kansas Territory in
+1854, settlers pushed the bison farther west,
+depleted grass and wood, peddled whiskey,
+and brought more disease to the tribe. Starvation
+was chronic, and frequent outbreaks of
+smallpox, cholera, and other illnesses continued
+to plague the tribe. When the Kaws were
+removed to Indian Territory in 1873, they numbered
+500. By 1900 barely 200 full-blooded
+Kaws remained. Tragedy extended beyond
+death. Since religious knowledge was preserved
+within each gente, the demise of entire
+gente populations meant the loss of beliefs and
+customs. By the early twentieth century, much
+understanding of Kaw society, religion, and
+history was lost forever.</p>
+
+<p>Congress dissolved the last Kaw reservation
+in 1902, and the lands were divided into individual
+allotments. Four years later the former
+reservation became part of Kay County, Oklahoma.
+Today, many Kaw descendants still reside
+in Kay County. According to the 1997
+tribal enrollment, there are 2,269 Kaw Nation
+members. The last Kaw full-blood, William A.
+Mehojah Sr., died in Omaha, Nebraska, on
+April 23, 2000.</p>
+
+<closer>
+<signed>Benjamin Y. Dixon<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Unrau, William E. <title level="m">The Kansa Indians, A History of the
+Wind People, 1673–1873</title>. Norman: University of Oklahoma
+Press, 1971.</bibl> <bibl>Wedel, Waldo R. "The Kansa Indians." <title level="j">Transactions
+of the Kansas Academy of Science</title> 49 (1946) 1–35.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

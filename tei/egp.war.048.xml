@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.048">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Texas Revolution</title>
+<title level="m" type="sub"></title>
+<author>Paul D. Lack</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.048</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lack, Paul D.">Paul D. Lack</author>. <title level="a">"Texas Revolution."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">838</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEXAS REVOLUTION</head>
+
+<p>The events known as the Texas Revolution
+separated Texas from Mexico in 1836. It resulted
+from efforts of Texas residents, mostly
+Anglo Americans who had emigrated from
+the United States, to retain their virtual political
+autonomy. Disputes over immigration
+policy and slavery had led to growing tensions
+and protests between them and the government
+of Mexico. These became irreconcilable
+in 1835, when Mexico abandoned its federalist
+constitution in favor of a centralized order.
+Texas resistance brought a military response
+from Mexico, which in turn resulted in war,
+beginning in October 1835. To promote internal
+unity and elicit support from Mexican federalists,
+provisional authorities refrained from
+declaring independence until March 2, 1836.</p>
+
+<p>The war involved about an equal total number
+of soldiers on each side (approximately
+4,000), but the Texas armies consisted of undisciplined
+volunteers, including many from
+the United States. They served in units headed
+by elected officers and often without an overall
+commander. The war consisted of two offensive
+campaigns. The first, by the Texas
+army under Stephen F. Austin and others, resulted
+in the capitulation of Bexar (San Antonio)
+and surrender of Mexican forces on
+December 10, 1835. The second, under President
+Antonio Lopez de Santa Anna, focused
+on redeeming that loss by attacking the Alamo,
+while other Texas armies succumbed to
+indecision and a swift movement of Mexican
+forces under Jos&#233; Urrea. Texas volunteers then
+rallied under Gen. Sam Houston and retreated
+deep into East Texas until they halted
+and assaulted the Mexicans at San Jacinto on
+April 21. A captive himself, Santa Anna ordered
+the remainder of Mexican forces to
+withdraw from Texas and gave his own recognition
+to the Texas Republic, though this act,
+conducted under compulsion, did not bring a
+true accord. In 1837 Sam Houston was elected
+the first president of the Republic of Texas.</p>
+
+<closer>
+<signed>Paul D. Lack<lb/>
+McMurry University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barr, Alwyn. <title level="m">Texans in Revolt: The Battle for San Antonio,
+1835</title>. Austin: University of Texas Press, 1990.</bibl> <bibl>Lack, Paul D.
+<title level="m">The Texas Revolutionary Experience: A Political and Social
+History, 1835–1886</title>. College Station: Texas <hi rend="smallcaps">A&amp;M</hi> University
+Press, 1992.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">Indian Country Today</hi></title>
+<title level="m" type="sub"></title>
+<author>Todd M. Kerstetter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.025</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kerstetter, Todd M.">Todd M. Kerstetter</author>. <title level="a">"<hi rend="italic">Indian Country Today</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">514</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">INDIAN COUNTRY TODAY</hi></head>
+<figure n="egp.med.025" rend="granted">
+<figDesc>Front-page snapshot of an issue of Indian Country Today newspaper</figDesc>
+</figure>
+
+<p>Indian Country Today is the most widely circulated
+and arguably the most influential Native
+newspaper in the world. Tim Giago (<title level="j">Nanwica Kciji</title>, or Defender), Oglala Lakota, established
+the weekly paper in 1981 as the <title level="j">Lakota Times</title>.
+Giago, born in 1934 on the Pine Ridge Reservation
+and educated at the Holy Rosary Mission
+School there, served in the U.S. Navy after high
+school. He attended San Jose State College in
+California and earned his bachelor's degree
+from the University of Nevada-Reno. Giago
+worked a variety of jobs before becoming an
+Indian affairs columnist for the <title level="j">Rapid City Journal</title> in Rapid City, South Dakota, in 1979;
+he later became a full-time reporter. In 1981 he
+established the <title level="j">Lakota Times</title> to provide news
+coverage for Pine Ridge. The paper expanded
+to cover other reservations in the upper Midwest
+and by 1986 was distributed to all reservations
+in South Dakota, North Dakota, Nebraska,
+and Montana. Unlike most Native
+American papers, which tend to focus on one
+tribe or reservation, the <title level="j">Lakota Times</title> focused
+on all tribes and reservations. The paper's offices
+moved to Rapid City in 1989, and in 1991
+the <title level="j">Lakota Times</title> claimed a readership of 50,000.
+By 1999 circulation had reached 77,000, with
+pass-along readership estimated to be as high as
+100,000.</p>
+
+<p>With support from the Gannett Corporation,
+publisher of <title level="j"><hi rend="smallcaps">USA</hi> Today</title>, Giago expanded
+to national coverage in 1992 and changed the
+name of the paper to <title level="j">Indian Country Today</title>.
+The paper operated bureaus in Albuquerque,
+New Mexico, and Spokane, Washington, and
+used freelance reporters to cover other regions.
+Giago has used the paper and pieces
+written for national publications such as <title level="j"><hi rend="smallcaps">USA</hi>
+Today</title>, the <title level="j">New York Times</title>, and <title level="j">Newsweek</title> to
+defend Lakota and other Native American interests.
+He may be most widely known for
+criticizing the use of Native Americans as
+sports team mascots.</p>
+
+<p>Standing Stone Media, Inc., an operation of
+the Oneida Indian Nation of New York State,
+bought <title level="j">Indian Country Today</title> in December
+1998. Corporate headquarters moved to New
+York, but editorial headquarters remain in
+Rapid City. The independent paper's sale to
+a tribal entity raised concern among some
+members of the Native American Journalists
+Association, who feared the Oneidas might restrict
+the paper's editorial voice. Early indications,
+however, show that the tribe is not
+changing the paper's editorial process. The paper
+maintains a bureau in Washington dc and
+has reporters in the Southwest, California,
+Oklahoma, and the Northeast. An expanding
+pool of correspondents provides national coverage.
+The paper now claims distribution in all
+fifty states and seventeen foreign countries,
+and it operates an on-line version.</p>
+
+<closer>
+<signed>Todd M. Kerstetter<lb/>
+Texas Christian University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Andreassi, Diane. "Tim Giago." In <title level="m">Notable Native Americans</title>,
+edited by Sharon Malinowski. Detroit: Gale Research,
+1995: 164–65.</bibl> <bibl>Fitzgerald, Mark. "A 'New Model' for
+Tribal Ownership?" <title level="j">Editor &amp; Publisher</title>, October 23, 1999:
+22–26.</bibl> <bibl>Riley, Sam G. <title level="m">Biographical Dictionary of American Newspaper Columnists</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press,
+1995.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

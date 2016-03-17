@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.rel.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Evangelicalism</title>
+<title level="m" type="sub"></title>
+<author>Douglas Firth Anderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.rel.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Anderson, Douglas Firth">Douglas Firth Anderson</author>. <title level="a">"Evangelicalism."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">745</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">EVANGELICALISM</head>
+
+<p>Evangelicalism is a Protestant ethos that has
+fostered denominational, interdenominational,
+and nondenominational traditions and
+institutions since its emergence in the late seventeenth
+and the eighteenth centuries. As an
+ethos, evangelicalism has been a phenomenon
+of religious contention as well as revitalization.
+It encompasses denominations as diverse
+as the Assemblies of God, the Churches of
+Christ, the Conservative Baptist Association,
+and the Evangelical Free Church, yet evangelicalism
+has had, and continues to have,
+an influence on many members and groups
+within other denominations, from the Evangelical
+Lutheran Church in America to the Reformed
+Church in America, and on unnumbered
+independent congregations and other
+religious organizations.</p>
+
+<p>Confusion about the nature and development
+of evangelicalism is in part due to popular
+conflation of the historical ethos with
+evangel and evangelism. "Evangel" is a rough
+transliteration of the New Testament Greek
+word for good news or gospel. While evangelicalism
+has certainly been concerned with
+the evangel of Jesus Christ, it has never had
+exclusive possession of it. Similarly, while
+evangelism&#8211;the intentional propagation of
+the Christian good news&#8211;has also been a central
+concern in evangelicalism, evangelicals
+have not been the only Christians to encourage
+and engage in evangelism.</p>
+
+<p>To the conceptual ambiguity in evangelicalism's
+name, the historical development of the
+ethos adds further complexity. As a term,
+"evangelical" arose in connection with the
+Protestant Reformation of the sixteenth century.
+In distinction from Roman Catholicism,
+Protestants at the time saw themselves as
+stressing the gospel of justification by faith in
+the atoning work of God in Jesus Christ. The
+formative century for evangelicalism, though,
+was the eighteenth. The convergence of elements
+of English Puritanism with the newer
+movement of continental pietism fed a burgeoning
+network of personal contacts and institutional
+ties epitomized by the evangelical
+Anglicans George Whitefield and John Wesley
+and the Moravian Count Zinzendorf. Itinerant
+preaching for conversion, publishing religious
+literature for evangelism and growth in
+holiness, and founding societies and institutions
+that downplayed denominational distinctions
+in the interests of promoting the
+gospel marked a broad European–North
+American "evangelical awakening" that encompassed
+varied local episodes of revivalism
+and evangelical institution-building.</p>
+
+<p>By the time of European American settlement
+in the Great Plains in the mid– to late
+nineteenth century, "evangelical" was a term the
+majority of North American Protestants would
+have accepted as an apt one for themselves and
+their coreligionists. Particularly among Anglo-American
+Protestants, whether Baptists, Congregationalists,
+Methodists, or Presbyterians,
+evangelicalism had become an ethos that
+stressed transdenominational emphases on
+personalizing belief in the atoning work of
+Christ, on the centrality of using the Bible for
+faith and practice, and on the importance of
+faith-based activism. In other words, by 1900
+the evangelical ethos was conversionist, crucicentric,
+biblicist, activist, and populist. Late-nineteenth-
+and early-twentieth-century Protestant
+evangelists who worked in the Great
+Plains, whether lesser-known local or denominational
+figures, or more famous national, interdenominational
+figures such as Dwight L.
+Moody, John Wilbur Chapman, and William
+A. "Billy" Sunday, were evangelicals. So,
+too, were most nineteenth-century Englishspeaking
+Protestant home missionaries, circuit
+riders, and missionaries to Native Americans.
+Also, many Protestants who sought to act on
+the social implications of the gospel in the late
+nineteenth and early twentieth century were
+evangelicals.</p>
+
+<p>However, by 1900 the evangelical dominance
+of North American Protestantism was also
+showing signs of fraying. Larger social and intellectual
+trends were leading some elements
+among otherwise evangelical Protestant groups
+and institutions to respond by downplaying supernaturalism
+in favor of divine immanence
+and by challenging conventional understandings
+of the Bible's composition, meaning, and
+authority. Other Protestants accentuated or developed
+various aspects of the evangelical ethos
+to counter perceived "modernizing" trends
+within and outside of the religious community.
+Dispensationalism, the holiness movement, and
+pentecostalism arose as distinct movements
+within evangelicalism that were well represented
+in the U.S. Great Plains. These movements
+not only led in many cases to new institutions
+(e.g., Bible institutes and colleges, the
+Church of the Nazarene, and the Assemblies of
+God) but also fed a more militant antimodernist
+and separatist stream within evangelicalism.</p>
+
+<p>During the same turn-of-the-century era, a
+Christian restorationist tradition that had always
+been a minority element within evangelicalism
+became more institutionally distinct
+when the Churches of Christ distinguished
+themselves from the Disciples of Christ in 1906.
+Symbolic of the strength of the Churches of
+Christ in Oklahoma and Texas is Abilene Christian
+University, an important Great Plains religious
+and educational institution within an
+anti-institutional evangelical tradition.</p>
+
+<p>After 1920 the more militant antimodernists
+within evangelicalism were calling themselves
+fundamentalists. As fundamentalism
+became the then-newest movement to take
+shape under the umbrella of the evangelical
+ethos, evangelicalism in all its burgeoning
+complexity not only persisted in the U.S.
+Great Plains through churches, revivalism, periodicals,
+camps, educational institutions, radio,
+and later television and film, but it also
+took root and flourished in the Prairies of
+Canada. In 1922 Kansan Leslie E. Maxwell arrived
+in Three Hills, Alberta, and founded the
+nondenominational Prairie Bible Institute. It
+is perhaps the most famous of several Canadian
+Plains evangelical institutions of higher
+education founded or reorganized since 1920,
+including the Canadian Bible Institute and
+Canadian Theological Seminary in Regina,
+Saskatchewan (Christian and Missionary Alliance),
+the Canadian Mennonite Bible College,
+the Canadian Nazarene College, and
+Catherine Booth College (Salvation Army), all
+in Winnipeg, Manitoba, and the King's University
+College in Edmonton, Alberta (Christian
+Reformed).</p>
+
+<p>In the Great Plains since World War II, evangelicalism
+has grown in numbers and in its
+public presence even as the intermingling of
+its various elements has made for some new
+forms of old elements. The rise of Oral Roberts
+illustrates some of the contemporary flexibility
+of evangelicalism in the Great Plains. Roberts
+began his adult career before and during the
+war as a pastor and evangelist for the Pentecostal
+Holiness Church. Not long after the war,
+though, the native Oklahoman launched an
+independent evangelistic and healing ministry
+that came to be institutionalized in television
+broadcasts and Oral Roberts University and its
+associated organizations in Tulsa. Further, in
+1968 Roberts reflected a resurgence of a more
+open rather than separatist evangelicalism
+when he publicly left the Pentecostal Holiness
+Church and took ministerial ordination in the
+United Methodist Church. He also embodies
+both the strength and weaknesses of another
+aspect of contemporary evangelicalism: religious
+fiefdoms built around the charisma of
+an individual.</p>
+
+<p>While the future vitality of Roberts's religious
+empire seems in question, another new
+center of evangelicalism in the Great Plains&#8211;Colorado
+Springs, Colorado&#8211;continues to
+thrive in the twenty-first century. Colorado
+Springs's electronics firms and military have
+been joined by a plethora of evangelical institutions,
+which were either founded or relocated
+there since 1945. Evangelical groups such
+as the Navigators, the Christian Booksellers
+Association, Young Life, and Focus on the
+Family employed in 1991 some 2,000 people
+and pumped some $40 million in payroll into
+the local economy. Moreover, by 1995 local estimates
+put the self-designated proportion of
+evangelicals in the city of 300,000 at 40 percent.
+Particular leaders and institutions and
+movements embodying the evangelical ethos
+will continue to come and go, but evangelicalism
+at large has become a permanent part of
+Great Plains life.</p>
+
+<closer>
+<signed>Douglas Firth Anderson<lb/>
+Northwestern College, Orange City, Iowa</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dayton, Donald W., and Robert K. Johnston, eds. <title level="m">The
+Variety of American Evangelicalism</title>. Downers Grove <hi rend="smallcaps">IL</hi>:
+InterVarsity Press, 1991.</bibl> <bibl>Rabey, Steve. "Colorado Springs:
+Head for the Mountains." <title level="j">Christianity Today</title> 35 (Nov. 25,
+1991): 47.</bibl> <bibl>Rawlyk, George A., ed. <title level="m">Aspects of the Canadian
+Evangelical Experience</title>. Montreal: McGill-Queen's University
+Press, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

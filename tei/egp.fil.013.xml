@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cody, Iron Eyes (1907-1999)</title>
+<title level="m" type="sub"></title>
+<author>Jacquelyn Kilpatrick</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.013</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kilpatrick, Jacquelyn">Jacquelyn Kilpatrick</author>. <title level="a">"Cody, Iron Eyes (1907-1999)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">262</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CODY, IRON EYES (1907-1999)</head>
+
+<p>Iron Eyes Cody was best known as the "Crying
+Indian" in the Keep America Beautiful advertising
+campaign of the 1970s, but his Hollywood
+credits span eight decades of film and
+television history. His place and date of birth
+are disputed, as is his ancestry, but he claimed
+that he was born in Oklahoma in 1907 to Cree
+and Cherokee ancestors. Whatever the case,
+he spent most of his life in Hollywood or on
+location. He is credited in forty-seven movies
+and performed uncredited in at least that
+many more. He not only acted in but also
+worked as a consultant for films such as <title>The Oregon Trail</title> (1959) and <title>The Unconquered</title> (1947). He counted among his friends film legends Gary Cooper, Tim McCoy, Cecil B. De
+Mille, John Ford, and many others.</p>
+
+<p>One of Cody's first films was <title>The Covered Wagon</title> (1923). When the film premiered at
+Grauman's Chinese Theater, Cody was one of
+fifty Native Americans from the film who provided
+a prologue filled with Native American
+dancing and music. Cody danced and told
+stories in sign language, which Tim McCoy
+"translated." From that point on, Iron Eyes
+Cody was one of the most visible Native
+Americans in the entertainment industry.</p>
+
+<p>About his involvement in the stereotypical
+depictions of Native Americans, Cody said,
+"When I first started in the film business, I had
+no power and was there to do what I was told:
+to make exciting Western entertainment. And
+in the days of the big studios, you either did
+what you were told or you didn't work. So
+we made movies, we 'gave them what they
+wanted,' as movies always did and continue to
+do." Cody died on January 4, 1999, in Los Angeles,
+California.</p>
+
+<closer>
+<signed>Jacquelyn Kilpatrick<lb/>
+Governors State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cody, Iron Eyes. <title level="m">Indian Talk: Hand Signals of the American Indians</title>. Healdsburg <hi rend="smallcaps">CA</hi>: Naturegraph Publishers, 1970.</bibl>
+<bibl>Cody, Iron Eyes, and Collin Perry. <title level="m">Iron Eyes: My Life as a Hollywood Indian</title>. New York: Everest House, 1982.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

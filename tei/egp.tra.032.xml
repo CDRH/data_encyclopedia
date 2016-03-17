@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.tra.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Route 66</title>
+<title level="m" type="sub"></title>
+<author>Markku Henriksson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.tra.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henriksson, Markku">Markku Henriksson</author>. <title level="a">"Route 66."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">810</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ROUTE 66</head>
+
+<p>Route 66 is one of the most famous highways
+in the world. It runs some 2,200 miles from
+Chicago to Los Angeles through eight states,
+cutting across the Great Plains through fourteen
+miles of southeastern Kansas, then on to
+Tulsa, Oklahoma City, Amarillo, Albuquerque,
+and points west. It was originally part of
+the U.S. highway system established in 1926. It
+was fully paved by 1938 but was later replaced
+by the present interstate system. Recently,
+some remaining segments have been designated
+as Historic Route 66, and in 1999 Congress
+passed and President Bill Clinton signed
+into law the National Route 66 Preservation
+Bill that will preserve and restore historic
+properties along the route. Throughout most
+of its existence as a highway, Route 66 was not
+very important at either terminus, but it was
+crucial for communication and transportation
+in the Southern Plains and the Southwest.
+The route linked hundreds of rural communities,
+locally carried farmers' products, and,
+as one of the few diagonal long-distance highways,
+was a major trucking artery.</p>
+
+<p>The route earned real fame with John Steinbeck's
+novel <title level="m">The Grapes of Wrath</title> (1939), in
+which the Joad family and other Okies fled the
+Great Depression from Oklahoma to California
+on Route 66. Steinbeck called 66 the
+"mother road," and some 400,000 people
+traveled west on it during the 1930s. The 1940
+film by John Ford based on Steinbeck’s novel
+further embedded the shield-shaped road sign
+of Route 66 into the American imagination.
+Later Route 66 movies include <title>Easy Rider</title>
+(1969) and <title>Bagdad Cafe</title> (1987). The highway
+was also featured in the 1960s television series
+<title>Route 66</title>, starring Martin Milner and George
+Maharis.</p>
+
+<p>Folksinger Woody Guthrie wrote several
+songs in which Route 66 was mentioned as the
+"Main Street" of the Dust Bowl refugees. The
+most famous of the many Route 66 songs is
+"(Get Your Kicks on) Route 66," written by
+Bobby Troup and recorded by Nat King Cole
+in 1946. Perhaps more than anything else, this
+song has made Route 66 an American icon.
+Several museums and Web sites and a Route
+66 magazine commemorate the highway's
+glory days, and the National Historic Route 66
+Federation works to preserve both the route
+and its memory.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.026"><hi rend="italic"><title>The Grapes of Wrath</title></hi></ref> / <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.019">Guthrie, Woody</ref>.</p>
+
+<closer>
+<signed>Markku Henriksson<lb/>
+Unviersity of Helsinki</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Snyder, Tom. <title level="m">Route 66 Traveler's Guide and Roadside Companion</title>.
+New York: St. Martin's Griffin, 1995.</bibl> <bibl>Wallis, Michael.
+<title level="m">Route 66: The Mother Road</title>. New York: St. Martin's
+Press, 1990.</bibl> <bibl>Witzel, Michael Karl. <title level="m">Route 66 Remembered</title>.
+Osceola <hi rend="smallcaps">WI</hi>: Motorbooks International, 1966.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.051">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Villasur Expedition</title>
+<title level="m" type="sub"></title>
+<author>Robert S. Weddle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.051</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Weddle, Robert S.">Robert S. Weddle</author>. <title level="a">"Villasur Expedition."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">839</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VILLASUR EXPEDITION</head>
+<figure n="egp.war.051" rend="granted" type="noclick">
+<figDesc>"Villasur and his men (center) were quickly surrounded by the Pawnee and killed. 1720"</figDesc>
+</figure> 
+
+<p>In 1720 the Spanish governor of New Mexico,
+Antonio Valverde y Cos&#237;o, under orders from
+the viceroy in Mexico City, sent out an expedition
+to investigate rumors of a French thrust
+toward New Mexico. The force of forty-two
+soldiers, sixty Pueblo Indian auxiliaries, and
+three settlers was led by Lt. Gov. Don Pedro de
+Villasur. Fray Juan Mínguez went as chaplain.
+There was also a French interpreter, "Juan de
+Archebeque" (Jean L'Archev&#234;que), a survivor
+of the La Salle expedition that had landed on
+the Texas coast in 1685.</p>
+
+<p>Having left Santa Fe in mid-June 1720, the
+Villasur expedition encamped in early August
+on a large river that most authorities identify
+as the Platte, not far from a sizable Pawnee
+village. An exchange of messages with the
+Pawnees proved unsatisfactory, and Villasur,
+suspecting treachery, prepared to withdraw.
+On the morning of August 14, while the Spaniards
+were gathering their horses, they were
+attacked with musket fire by the Pawnees and
+Otoes. Taken by surprise, the Spanish camp
+was thrown into confusion. Only thirteen of
+the soldiers escaped. Villasur himself perished
+along with forty-five others, including Mínguez
+and L'Archev&#234;que. The Villasur catastrophe
+severely weakened New Mexico's defenses,
+for the province had lost a third of its fighting
+force.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">EUROPEAN AMERICANS</hi>: <ref n="egp.ea.041">Villasur, Pedro de</ref>.</p>
+
+<closer>
+<signed>Robert S. Weddle<lb/>
+Bonham, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Jones, Oakah L., Jr. <title level="m">Pueblo Warriors and Spanish Conquest</title>.
+Norman: University of Oklahoma Press, 1966.</bibl> <bibl>Thomas,
+Alfred Barnaby, trans. and ed. <title level="m">After Coronado: Spanish
+Exploration Northeast of New Mexico, 1696–1727</title>. Norman:
+University of Oklahoma Press, 1935.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

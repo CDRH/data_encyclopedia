@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baseball</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.003</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Baseball."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">766-767</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BASEBALL</head>
+
+<p>The Plains states made important contributions
+to professional baseball throughout the
+course of the twentieth century. Among the
+hundreds of Plains natives who have played in
+baseball's major leagues are several players
+who have been recognized for their achievements
+as World Series champions, most valuable
+players, and members of baseball's Hall
+of Fame.</p>
+
+<p>During the first half of the twentieth century,
+several Plains natives had careers that
+immortalized them in the history of America's
+national pastime. Tris Speaker, the "Grey Eagle"
+of Hubbard City, Texas, was regarded as
+one of baseball's great outfielders while playing
+for the Boston Red Sox and Cleveland Indians
+in the 1910s and 1920s. Speaker's 3,514
+lifetime hits rank fifth in major-league history,
+and his 792 doubles and 309 triples rank him
+first all-time in both categories. Joe Tinker&#8211;one-third
+of the Chicago Cubs' famous "Tinker
+to Evers to Chance" infield&#8211;hailed from
+Muscotah, Kansas. Another Hall of Famer
+from baseball's early years is Sam Crawford of
+Wahoo, Nebraska.</p>
+
+<p>Rogers Hornsby of Winters, Texas, starred
+for several teams. With the St. Louis Cardinals,
+Hornsby batted .424&#8211;the highest single-season
+batting average in major-league history&#8211;in 1924. "Rajah" won six consecutive
+batting titles between 1920 and 1925, and his
+career average of .358 is second in baseball history
+only to Ty Cobb. The Waner brothers,
+Paul and Lloyd, grew up in Harrah, Oklahoma,
+and starred in the outfield of the Pittsburgh
+Pirates in the 1920s and 1930s. Another
+Oklahoman, "Pepper" Martin of Temple,
+turned in what is still regarded as the best
+individual performance in a World Series in
+1931, leading the St. Louis Cardinals to the
+championship with a .500 batting average.</p>
+
+<p>Two of the era's outstanding pitchers were
+Grover Cleveland Alexander, a native of Elba,
+Nebraska, and Walter Johnson, who was born
+in Humboldt, Kansas. Alexander (who was
+played by Ronald Reagan in the movie, <title>The
+Winning Team</title>) starred for several teams and
+may be best remembered for his heroics in the
+1926 World Series for the Cardinals. Johnson,
+who spent his career with the Washington
+Senators, held the career strikeout record for
+many years. Johnson's 417 lifetime victories
+rank him second to Cy Young in major-league
+baseball history, and Alexander ranks third
+with 373. Fifth on the all-time victory list is
+Warren Spahn, who has lived much of his adult
+life on a ranch near Hartshorne, Oklahoma.</p>
+
+<p>The Plains continued to contribute players
+to the major leagues after World War II. Mickey
+Mantle of Commerce, Oklahoma, starred for
+the New York Yankees in the 1950s and 1960s.
+Mantle ranks fifth on the all-time home run
+list and is still regarded as one of baseball's
+greatest sluggers and most popular players.
+Among Mantle's Yankee teammates was fellow
+Oklahoman Allie Reynolds. Reynolds was born
+in Oklahoma City and starred at Oklahoma
+State University, whose baseball stadium is now
+named for him. In 1951 he became the first
+pitcher to throw two no-hitters in a single season.
+Bob Gibson of Omaha, Nebraska, was one
+of baseball's dominant pitchers in the 1960s.
+Gibson won seven World Series games with the
+St. Louis Cardinals in 1964, 1967, and 1968 and
+still holds the all-time record for most strikeouts
+in a World Series game. Richie Ashburn
+of Tilden, Nebraska, starred for the Philadelphia
+Phillies in the 1950s and later spent many
+years as the team's broadcaster before his death
+in 1997.</p>
+
+<p>Johnny Bench of Binger, Oklahoma, is often
+regarded as the best catcher to play the game.
+Bench was selected most valuable player in the
+National League in 1970 and 1972 with the Cincinnati
+Reds. Bench teamed with Joe Morgan,
+who was born in Bonham, Texas, and was most
+valuable player in 1975 and 1976, to lead the
+"Big Red Machine" to consecutive championships.
+Willie Stargell, most valuable player with
+the Pittsburgh Pirates in 1979, was born in
+Earlsboro, Oklahoma. Stargell's American
+League counterpart as most valuable player,
+Don Baylor, was from Blanco, Texas. Baylor
+went on to additional success as manager of the
+Colorado Rockies in the 1990s. One of the top
+stars of the 1990s was Joe Carter of Oklahoma
+City. In 1993 Carter's ninth-inning home run
+won the final game of the World Series for the
+Toronto Blue Jays.</p>
+
+<p>Although the Canadian portion of the
+Plains has not produced many major-league
+baseball players, pitcher Reggie Cleveland
+of Moose Jaw, Saskatchewan, and outfielder
+Terry Puhl of Melbourne, Saskatchewan, had
+notable careers in the 1970s and 1980s.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AFRICAN AMERICANS</hi>: <ref n="egp.afam.007">Baseball, Interracial</ref>.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Porter, David L., ed. <title level="m">Biographical Dictionary of American
+Sports: Baseball</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 2000.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

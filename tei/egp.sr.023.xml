@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Gowdy, Curt (b. 1919)</title>
+<title level="m" type="sub"></title>
+<author>Jim W. Harper</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.023</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harper, Jim W.">Jim W. Harper</author>. <title level="a">"Gowdy, Curt (b. 1919)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">774-775</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GOWDY, CURT (b. 1919)</head>
+
+<p>Curtis Gowdy was a major figure in televised
+sport during the 1960s and 1970s, coinciding
+with that medium's increasing impact on American
+society. Gowdy was born in Green River,
+Wyoming, on July 31, 1919, and raised in Cheyenne.
+He grew up loving team and outdoor
+sports. He excelled in basketball and softball
+during his high school years and at the University
+of Wyoming from 1938 to 1942. After a back
+injury ended his service in the Army Air Corps
+in 1943, he began a career as a broadcaster in
+Cheyenne and later Oklahoma City, Oklahoma.</p>
+
+<p>Gowdy reached broadcasting's big markets
+in 1949, starting a two-year tour as Mel Allen's
+partner with the New York Yankees. This exposure
+led to a job as the announcer for the
+Boston Red Sox from 1951 to 1966. Gowdy
+quickly became a popular figure with the large
+New England audience. Like most broadcasters
+he covered all major sports and hosted various
+programs. He impressed network officials and
+peers with his versatility, preparation, and good
+humor.</p>
+
+<p>Gowdy reached national prominence during
+the 1960s as the play-by-play broadcaster of the
+young American Football League. Teamed with
+former Missouri quarterback Paul Christman
+and backed by the managerial and technological
+innovations of Roone Arledge, Gowdy attracted
+listeners to the rival league with his enthusiasm,
+knowledge, and fairness. When the National
+Broadcasting Company took over the <hi rend="smallcaps">AFL</hi> rights
+in 1966, the network hired Gowdy as its main
+football and baseball announcer. He announced
+every World Series and major afl telecast from
+1966 through 1975. In addition, he broadcast
+college football bowl games and basketball
+championships. He described his life and announcing
+philosophy in <title level="m">Cowboy at the Mike</title> in
+1966.</p>
+
+<p>Gowdy's stature enabled him to launch the
+<title>American Sportsman</title> series in 1967. The program
+took celebrities on hunting, fishing, and
+camera trips around the globe and introduced
+millions of urbanites to the beauties of wilderness,
+augmenting the fledgling environmental
+movement. Gowdy received numerous accolades:
+four Emmys; sportscaster of the year
+recognitions in 1965 and 1967; a George Foster
+Peabody Award in 1970; and membership in
+the Sports Broadcasters, National Baseball,
+and American Sportscasters Halls of Fame. He
+served as president of the National Basketball
+Hall of Fame, and that organization's media
+award was named in his honor. The creation
+of Curt Gowdy State Park in Cheyenne in 1971
+was yet another recognition.</p>
+
+<p>Gowdy's work on so many sportscasts led to
+his overexposure in an industry that constantly
+demanded new faces, and his network appearances
+declined after 1975. He branched
+into production and ownership and hosted a
+critically acclaimed nostalgia series, <title>The Way It
+Was</title>, on <hi rend="smallcaps">PBS</hi> during the 1980s. He wrote <title level="m">Seasons
+to Remember: The Way It Was in American
+Sports, 1945–1960</title> in 1993. Gowdy retired to
+Palm Beach, Florida, in the 1990s. His son,
+Curt Gowdy Jr., is an Emmy Award–winning
+producer of sports programs.</p>
+
+<closer>
+<signed>Jim W. Harper<lb/>
+Texas Tech University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Smith, Curt. <title level="m">Of Mikes and Men: From Ray Scott to Curt
+Gowdy: Broadcast Tales from the Pro Football Booth</title>. South
+Bend <hi rend="smallcaps">IN</hi>: Diamond Communications, 1998.</bibl> <bibl>Smith, Curt.
+<title level="m">Voices of the Game</title>. South Bend <hi rend="smallcaps">IN</hi>: Diamond Communications,
+1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

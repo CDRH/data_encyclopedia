@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.pe.028 SYSTEM "egp.pe.028.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.028">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Geology</title>
+<title level="m" type="sub"></title>
+<author>Kathleen H. Keeler</author>
+<author>James H. Locklear</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.028</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Keeler, Kathleen H.">Kathleen H. Keeler</author> and <author n="Locklear, James H.">James H. Locklear</author>. <title level="a">"Geology."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">629-630</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GEOLOGY</head>
+
+<figure n="egp.pe.028" rend="granted">
+<figDesc>Generalized Chart of Rocks of the Great Plains<lb/>
+<hi rend="italic">Note</hi>: Unit names are representative and not complete. Time column is not to scale. Shading represents missing intervals of strata.</figDesc>
+</figure>
+
+<p>Any discussion of the geology of a given physiographic
+region should distinguish between
+the history of the present landscape and the
+older geologic record that, for the most part,
+lies buried beneath the area. The oldest rocks
+under the Great Plains belong to the Precambrian
+era and represent a complex set of
+primarily igneous and metamorphic rocks.
+They record the construction of the North
+American continent as a series of continental
+plates which collided with an earlier "North
+America" that was 2.1 billion years old and
+much farther south than today. These ancient
+rocks are exposed at the surface within the
+Great Plains in the Black Hills and the Central
+Texas and Hartville (eastern Wyoming)
+Uplifts.</p>
+
+<p>About one billion years ago, the last amalgamation
+of continental material involving
+the future Great Plains region was completed,
+and erosion prevailed over deposition for the
+next half billion years, leaving little in the way
+of a rock record in the central part of the continent.
+Beginning about 540 million years ago,
+the first of many shallow inland seas ushered
+in the Paleozoic and later the Mesozoic eras.
+Shallow ocean waters covered a significant
+part of the interior of North America, including
+the region we recognize as the Great
+Plains, for most of Paleozoic and Mesozoic
+time. Typically between 5,000 and 10,000 feet
+of layered sediments, predominantly limestones,
+shales, and sandstones representing a
+mixture of seafloor, near-shore, and delta environments,
+accumulated during the course of
+almost 480 million years.</p>
+
+<p>This long period of predominantly shallow
+marine deposition was brought to a close some
+70 million years ago when a major period of
+mountain building (the Laramide Orogeny)
+created a belt of mountains stretching from
+Alaska to Mexico. This major shift in geologic
+processes lasted for more than 20 million
+years, as the continental seas retreated, to be
+replaced by the first landscapes of the ancestral
+Great Plains. Uplift along the eastern margin
+of the Rocky Mountains was dramatic, and
+deposits of the Cretaceous seas were raised
+thousands of feet above sea level. East of the
+rising Rockies and the flanking basins, gentle
+warping and uplift raised the former seabeds
+from one to a few thousand feet. The Black
+Hills and the Laramie Range and Hartville Uplift
+of eastern Wyoming were formed as highlands
+probably late in the Laramide Orogeny.
+They reached maximum elevation in the late
+Paleocene and early Eocene.</p>
+
+<p>The forces of erosion immediately attacked
+all of these new highlands, and the mud, sand,
+and gravel produced were transported by
+eastward-flowing rivers and deposited in low
+basins on the western margin of the newly
+created Plains during the Paleocene. The majority
+of these deposits were preserved in the
+Northern Great Plains, and no sediment or
+depositional record has been discovered for
+the first 25 million years of the Cenozoic era in
+the Central Great Plains except for the Denver
+and Raton Basins. Erosion and/or nondeposition
+was the order of the day for an even longer
+time, some 50 million years, in the Southern
+Great Plains. The following discussion will
+focus on more specific aspects of the geologic
+history of the Southern, Central, and Northern
+Great Plains.</p>
+
+<p>The rivers originating in the newly arisen
+southern Rocky Mountains flowed eastward
+and carved a series of drainages hundreds of
+feet deep into the recently uplifted Mesozoic
+strata. The record in the Southern Great Plains
+for the first 75 percent of the Cenozoic, however,
+speaks only of erosion. Only the Raton
+Basin contains sedimentary rocks of early
+Cenozoic age. The enormous quantity of debris
+that was shed off the rising mountains was
+transported across the region into the Gulf of
+Mexico, forming major deltas along the coastline.
+Enough sediment was delivered in the
+early Cenozoic to the Gulf that the coastline
+was pushed more than 100 miles seaward. Finally,
+about 12 million years ago, braided
+streams flowing in the valleys began to deposit
+sand and gravel, and the construction of the
+Southern High Plains was under way. These
+valleys did not always completely fill with
+stream deposits, and in Texas and eastern New
+Mexico they are often capped by windblown
+sand and silt, which were also deposited on the
+adjacent uplands. Near the end of the Miocene
+and into the early Pliocene, sedimentation
+rates slowed and extensive calcareous soils
+(caliches) developed on a relatively stable land
+surface. These calcareous soils form the hard
+and durable caprock horizons that cover much
+of the Southern High Plains. Geologists have
+included these deposits within the Ogallala
+Formation or Group. These strata comprise
+the majority of sediments in the High Plains
+aquifer, the primary source of groundwater in
+the Southern and Central Great Plains. The
+Quaternary deposits of the Southern High
+Plains are primarily windblown sandy silt and
+shallow lake sediments.</p>
+
+<p>In the Central Great Plains there is a good
+record of early Cenozoic (Paleocene) deposition
+only in the Denver Basin and in the Williston
+Basin of northwestern South Dakota. The basal
+Paleocene rocks (Denver Formation) are up to
+1,500 feet thick and consist of fine-grained river
+floodplain, swamp, and lake sediments with
+scattered coaly beds. These strata are overlain by
+coarse sandstones and conglomerates (Dawson
+Formation), representing large alluvial fans
+deposited by braided rivers that drained the
+newly arisen Rocky Mountain Front Range.
+The climate was probably tropical to subtropical
+throughout most of the Great Plains during
+the Paleocene epoch. For the succeeding 20
+million years, representing most of the Eocene,
+only a sparse rock record is preserved and
+erosion or nondeposition was widespread
+throughout the Great Plains. A major period
+of sedimentation was then initiated in the late
+Eocene and continued into the Oligocene.
+Over the next eight million years, as much as
+1,300 feet of predominantly fine-grained sediment,
+the White River Group, was deposited
+across much of the Central Great Plains. This
+deposit is unique because much of it was deposited
+by the wind, and typically more than
+80 percent of the fine-grained mineral grains
+are shards of volcanic glass or volcanic minerals
+derived from huge eruptive centers in the
+Great Basin of Nevada and Utah. There are
+widespread coarse-grained river deposits in
+the lower part of the White River Group, but
+the upper half consists primarily of windblown
+sandy silt, an ancient dust (loess) deposit
+that blanketed and built up the landscapes.
+This interval also marks a change from
+subtropical to a subhumid (and possibly semiarid)
+environment in the Central Great Plains.</p>
+
+<p>The next major set of rocks, the Arikaree
+Group, represents about 10 million years of late
+Oligocene and early Miocene time and is restricted
+to western Nebraska and adjoining
+parts of South Dakota and Wyoming. The
+basal Arikaree strata were deposited in several
+valleys as sandy river sediments. However, the
+remainder of the Arikaree is composed primarily
+of windblown fine sand and silt. As
+much as 40 to 70 percent of these grains have a
+volcanic origin, but they appear to be largely
+derived from huge volcanic eruptions in Colorado
+instead of the Great Basin. At the end of
+Arikaree deposition, about 18 million years
+ago, the dominant depositional process and
+accompanying landscape development underwent
+a major shift. The constructional and
+widespread windblown deposits of the Arikaree
+and White River Groups gave way to
+deposition in restricted river valleys that typifies
+the Miocene-age Ogallala Group. There
+was also a cessation of volcanically derived material
+blown into the Great Plains, and from
+that time to the present the Rocky Mountains
+have been the major source (excluding continental
+glacial deposits) of sediment deposited
+in the Plains. Ogallala deposition began about
+six million years earlier here than in the Southern
+Great Plains, and landscape evolution was
+more complex, as there are more cycles of valley
+cutting and filling preserved in the rock
+record. Sediment transported out of the Central
+and Northern Great Plains by rivers during
+the Miocene was probably delivered to the
+ocean via Hudson Bay rather than the Gulf of
+Mexico. Observations of ancient soils and
+mammal fossils of the Arikaree and Ogallala
+Groups suggest that shortgrass prairies first
+appeared in the Great Plains in the early Miocene,
+about 22 million years ago, and that tallgrass
+prairies did not appear until the late
+Miocene, about 8 to 10 million years ago.</p>
+
+<p>Ogallala sedimentation ceased across the
+Central and Southern Great Plains at about the
+same time, some five million years ago at the
+end of the Miocene. The region had less local
+relief than today and would have presented
+remarkable vistas of vast, nearly unbroken
+grasslands, sloping gently to the east and
+ramping westward up onto the Rockies. Most
+of the present physiographic regions of the
+Great Plains are a result of erosion in the last
+five million years. Widespread uplift to the
+west and in the Black Hills caused rivers draining
+these highlands to erode the landscape
+once again and the Great Plains were carved
+up. One of the few remaining examples of the
+"climax" Great Plains topography is found in
+the "Gangplank" area west of Cheyenne, Wyoming.
+Here the Union Pacific Railroad and
+Interstate 80 use the gentle slope of the old
+Ogallala surface to climb to the summit of the
+Laramie Mountains. Renewed uplift of the
+Rocky Mountains of northern Colorado and
+southeastern Wyoming between 3.5 and 2 million
+years ago (Pliocene epoch), perhaps aided
+by increased precipitation, delivered coarse
+sediment out onto the Great Plains via ancestral
+South and North Platte Rivers. Within
+Colorado, Wyoming, and western Nebraska,
+these deposits were confined to valleys no
+larger than those of the present North and
+South Platte. In central Nebraska, however, a
+complex sheet of sand and gravel, as much as
+200 feet thick, was deposited over 20,000
+square miles. These deposits, referred to as the
+Broadwater and Long Pine Formations, represent
+the greatest known volume of coarse material
+shed into the Great Plains in the last 34
+million years.</p>
+
+<p>The Williston Basin, covering 60,000 square
+miles, contains the most extensive and complete
+section of Paleocene deposits (Fort Union
+Group) in the Great Plains. The Fort Union
+Group consists of as much as 1,800 feet of sandstone,
+mudstone, and thick coal beds deposited
+mainly in delta, swamp, and river environments.
+The last of the great interior seas was
+slowly retreating toward the northeast and
+Hudson Bay while the lower part of the Fort
+Union was being deposited. It left behind a
+deposit of shale called the Cannonball Formation.
+The Eocene primarily marks a time of
+erosion. While late Eocene- to Oligocene-age
+White River strata were deposited in North
+Dakota, to the northwest in Saskatchewan the
+equivalent-age Cypress Hills Formation was
+deposited. However, it is a coarse-grained river
+deposit compared to the windblown White
+River strata. There are a few thin and widely
+scattered Miocene- and Pliocene-age river deposits
+found across the Northern Great Plains.
+It has been estimated that up to two kilometers
+of sediment were removed by erosion from this
+region between 34 and 2 million years ago.
+What is left is only a small fraction of the
+enormous quantity of material that was moved
+out of the region, a situation similar to the
+Southern Great Plains.</p>
+
+<p>During the last two million years, the geologic
+history of the Central and Northern
+Great Plains was dominated by the effects of
+continental glaciation. In the Southern Plains,
+the record is one of interplay between deposition
+by running water, winds, and in lake
+basins.</p>
+
+<closer>
+<signed>James B. Swinehart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Baars, D. L. "Basins of the Rocky Mountain Region." In
+<title level="m">Sedimentary Cover, North American Craton</title>, U.S., edited
+by L. L. Sloss, The Geology of North America, vol. <hi rend="smallcaps">D</hi>-2:
+109-220. Boulder <hi rend="smallcaps">CO</hi>: Geological Society of America, 1988.</bibl>
+<bibl>Trimble, Donald E. <title level="m">The Geologic Story of the Great Plains</title>.
+<title level="j">Geologic Survey Bulletin</title> 1493. Washington <hi rend="smallcaps">DC</hi>: Government
+Printing Office, 1980.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.057">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Norbeck, Peter (1870-1936)</title>
+<title level="m" type="sub"></title>
+<author>Fred M. Shelley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.057</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Shelley, Fred M.">Fred M. Shelley</author>. <title level="a">"Norbeck, Peter (1870-1936)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">680-681</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORBECK, PETER (1870-1936)</head>
+
+<p>Peter Norbeck was governor and U.S. senator
+from South Dakota and a pivotal figure in
+South Dakota politics in the early twentieth
+century. Norbeck was born in Clay
+County, South Dakota, on August 27, 1870.
+He was the son of the Reverend George Norbeck
+and Karen Larsen Norbeck, immigrants
+from Norway. The Norbecks soon moved to
+Charles Mix County, where Peter grew up. After
+attending the University of South Dakota,
+Norbeck invented an improved method of
+drilling wells to extract water from aquifers.
+He and his partner, Oscar Nicholson, established
+a well-drilling business in Redfield,
+South Dakota. The business prospered in the
+drought-stricken Great Plains, and Norbeck
+became wealthy. He married Lydia Anderson
+in 1900, and they raised four children.</p>
+
+<p>Inspired by the progressive Republicanism
+of Theodore Roosevelt, Norbeck entered politics.
+He was elected to the South Dakota Senate
+in 1908 and served three two-year terms.
+He was elected lieutenant governor in 1914
+and governor in 1916 and 1918. During Norbeck's
+governorship, statewide populist parties
+were established in several neighboring
+states, including the Nonpartisan League of
+North Dakota and the Farmer-Labor Party of
+Minnesota. Nonpartisan League organizers
+tried to establish a similar party in South Dakota,
+but Norbeck incorporated many of the
+League's policies into his own platform. Norbeck's
+popularity among farmers and his progressive
+views were instrumental in preventing
+the establishment of a third party in South
+Dakota, whose Republican Party remained allied
+with progressives throughout Norbeck's
+lifetime.</p>
+
+<p>In 1920 Norbeck was elected to the U.S.
+Senate. He was reelected in 1926 and 1932. As a
+senator, Norbeck was especially active in agriculture
+and conservation issues. He played an
+instrumental role in the establishment of
+Mount Rushmore as a national memorial. In
+the 1930s Norbeck generally supported New
+Deal legislation, but he was distrusted by Republicans
+who regarded him as too progressive
+and by Democrats who shunned his loyalty
+to the Republican Party.</p>
+
+<p>His last years were also overshadowed by
+the onset of cancer, which led to his death
+in Redfield, South Dakota, on December 20,
+1936. Norbeck is recognized as a leader of the
+progressive forces of the Northern Plains and
+as an instrumental figure in preventing a split
+between progressive and conservative Republicans
+during the interwar years.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.043">Mount Rushmore National Memorial</ref>.</p>
+
+<closer>
+<signed>Fred M. Shelley<lb/>
+Southwest Texas State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fite, Gilbert C., and Peter Norbeck. <title level="m">Prairie Statesman</title>.
+Columbia: University of Missouri Press, 1948.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

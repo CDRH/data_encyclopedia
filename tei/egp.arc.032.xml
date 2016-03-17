@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.arc.032 SYSTEM "egp.arc.032.jpg" NDATA jpeg>
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Layton, Solomon (1864-1943)</title>
+<title level="m" type="sub"></title>
+<author>Mary Jo Nelson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nelson, Mary Jo">Mary Jo Nelson</author>. <title level="a">"Layton, Solomon (1864-1943)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">86-87</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">LAYTON, SOLOMON (1864-1943)</head>
+
+<figure n="egp.arc.032" rend="granted">
+<figDesc>Daily Oklahoman Building, Oklahoma City, Oklahoma</figDesc>
+</figure>
+
+<p>Solomon Andrew Layton was a prolific architect
+of early statehood Oklahoma. Twenty-two
+of his buildings are listed on the National Register
+of Historic Places, a record unmatched
+among the state's architects. Born in Red Oak,
+Iowa, on July 22, 1864, he died in Oklahoma
+City on February 6, 1943.</p>
+
+<p>Layton began practice in Denver in 1887
+and moved to El Reno in central Oklahoma in
+1902. Three years later he moved to Oklahoma
+City, where he headed an architectural firm
+until his death. Alone and with different partners,
+he designed more than 100 public, educational,
+and commercial buildings (a majority
+of which remain) and many private
+residences. Layton powerfully influenced the
+buildings of early statehood Oklahoma. His
+works are recognized for their endurance
+and for setting a standard of stability and
+rich design that continues to enhance the built
+environment.</p>
+
+<p>Among Layton's accomplishments are the
+Oklahoma State Capitol, the governor's mansion,
+more than one-fifth of the state's seventyseven
+county courthouses, and at least fortyfive
+Oklahoma City public schools, including
+the city's first six junior high schools and first
+five high schools. In addition, Layton designed several corporate headquarters, office
+buildings, department stores, mental hospitals,
+a museum, correctional facilities, and
+public and private higher education projects.
+Fourteen downtown Oklahoma City highrises
+built from 1909 to 1929 were designed
+by the Layton firm. Layton took advantage of
+new oil wealth to grace his projects with marble,
+limestone, sculpted terra-cotta, and often
+opulent interiors.</p>
+
+<p>On the University of Oklahoma main campus
+at Norman, Layton fashioned original
+sections of the library, the administration
+building, and the football stadium, all still in
+use. The Layton firm designed the original
+College of Medicine and Children's Hospital
+at the University of Oklahoma Health Sciences
+Center in Oklahoma City. Both were
+still used in the early twentieth-first century.
+The Oklahoma State Capitol (designed with S.
+Wemyss Smith and built from 1914 to 1917) is a
+neoclassical structure with four-story-tall
+Corinthian columns on all sides. The interior
+was altered to gain space in the 1930s to the
+1950s but has since undergone a historical restoration.
+Oklahoma City Central High, Oklahoma's
+first four-year high school, built in
+1908–9, illustrates the adaptability of Layton's
+works. Abandoned as a sprawling innercity
+school in the 1970s, it was remodeled as
+Southwestern Bell Telephone headquarters.
+The 1936 Oklahoma County Courthouse in
+downtown Oklahoma City is a monument of
+Depression-era Art Deco. The Skirvin Hotel
+(1911) is famous for its oilman founder, William
+Balser Skirvin, and his daughter, Perle
+Mesta, Washington <hi rend="smallcaps">DC</hi> social leader and minister
+to Luxembourg from 1949 to 1953. The
+Skirvin sheltered royalty, U.S. presidents, and
+early cattle and oil barons. The 1910 Baum
+Building, one of Oklahoma City's first highrises,
+was patterned after the doge's palace in
+Venice. Along with Layton's elaborately ornamented
+Patterson Building and Halliburton
+Department Store, the Baum Building fell victim
+to urban renewal.</p>
+
+<p>The neoclassical Shrine Auditorium (1925.
+26), later remodeled as the Journal Record Office
+Building, Central High (Southwestern
+Bell), and the original Oklahoma Publishing
+Company headquarters are three Layton
+works on the National Register to survive the
+April 19, 1995, terrorist bombing of the A. P.
+Murrah Federal Building in downtown Oklahoma
+City. The Shrine Auditorium and the
+publishing building suffered extensive damage;
+Central High sustained less damage. Yet
+all three remained structurally sound in the
+late 1990s. Central High and the publishing
+buildings have since been restored, and the
+Shrine Auditorium is being incorporated into
+the bombing memorial as an interpretive museum,
+with full restoration scheduled.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PROTEST AND DISSENT</hi>: 
+<ref n="egp.pd.041">Oklahoma City Bombing</ref>.</p>
+
+<closer>
+<signed>Mary Jo Nelson<lb/>
+Edmon, Oklahoma<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Nelson, Mary Jo. "Solomon Layton: Architect." In <title level="m">Of the Earth: Oklahoma Architectural History</title>, edited by Howard
+L. and Mary Ellen Meredith. Oklahoma City: Oklahoma
+Historical Society, 1980: 87–104.</bibl> <bibl>Williams, Robert L.
+"Solomon Andrew Layton." <title level="j">Chronicles of Oklahoma</title> 22
+(1944): 122–24.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

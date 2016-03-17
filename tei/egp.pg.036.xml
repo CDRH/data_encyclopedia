@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Kansas-Nebraska Act</title>
+<title level="m" type="sub"></title>
+<author>Harl A. Dalstrom</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dalstrom, Harl A.">Harl A. Dalstrom</author>. <title level="a">"Kansas-Nebraska Act."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">670</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">KANSAS-NEBRASKA ACT</head>
+
+<p>The Kansas-Nebraska Act of 1854 brought territorial
+government to that portion of the
+Louisiana Purchase between the Missouri
+River and the divide of the Rocky Mountains
+and from 37&#186; north latitude to the boundary
+of British America at 49&#186; north latitude. The
+act created, within this huge area, the territories
+of Kansas and Nebraska, dividing them at
+40&#186; north latitude. In addition to what became
+the states of Kansas (1861) and Nebraska
+(1867), portions of what became Colorado
+were included in the Kansas and Nebraska
+Territories and parts of what became Wyoming,
+South Dakota, North Dakota, and
+Montana were within Nebraska Territory.</p>
+
+<p>The Kansas-Nebraska Act would be crucial
+in the coming of the Civil War. The Missouri
+Compromise (1820) had banned slavery in the
+Louisiana Purchase north of 36&#186;30' north latitude,
+except within the borders of the slave
+state of Missouri that was created by the Compromise.
+By midcentury there was growing
+pressure to open the trans-Missouri Indian
+country to settlement. The Platte Purchase, a
+3,139-square-mile area adjoining the Missouri
+River north and northwest of modern Kansas
+City, had been carved, with no sectional commotion,
+from the nonslave area of the Louisiana
+Purchase and added to Missouri in 1837.
+In 1846 Iowa entered the Union, extending
+that state to the Missouri River. Two years earlier
+Rep. Stephen Douglas of Illinois had offered
+the first bill to provide territorial government
+for the trans-Missouri area, called
+"Nebraska." A Nebraska bill passed the House
+in 1853 but failed in the Senate, largely because
+of southern opposition.</p>
+
+<p>In December 1853 Sen. Augustus Dodge of
+Iowa offered a Nebraska bill that, like the recent
+House measure, did not address the slavery
+issue. Stephen Douglas, who chaired the
+Senate Committee on Territories, recognized
+that southern opposition to the Missouri
+Compromise ban upon slavery threatened
+such legislation. In January 1854 he reported a
+rewritten bill that embodied the "popular sovereignty"
+principle, by which the people of the
+territory ultimately would decide if their prospective
+state would or would not have slavery.
+This concept had been basic to his legislation
+to organize New Mexico and Utah Territories,
+key parts of the Compromise of 1850. However,
+southern pressure for explicit repeal of
+the 36&#186;30' line was soon evident, and Douglas
+brought in a bill by adding such a repeal. This
+revision also called for the establishment of
+two territories. The latter provision implicitly
+recognized that frontier Iowa and Missouri
+boosters had produced separate nuclei of potential
+settlement in the trans-Missouri country
+and that diverse transcontinental railroad
+interests would be served by the creation of
+two territories, Kansas and Nebraska. Despite
+northern outrage over the proposed repeal of
+the Missouri Compromise slavery ban, the
+Kansas-Nebraska bill passed Congress, and on
+May 30, 1854, received President Franklin
+Pierce's signature.</p>
+
+<p>As historian James Malin explained, Douglas
+saw the Great Lakes–Mississippi Valley region
+as the "geographical pivot" for continental
+development. To Douglas, popular
+sovereignty was a rational policy that would
+facilitate the nation's spatial and economic development.
+But this was not a calm, deliberative
+time, and the Kansas-Nebraska Act
+brought two tremendous forces—the slavery
+controversy and national expansion augmented
+by technology—into collision. The ensuing
+agitation, including the conflict called
+"Bleeding Kansas," brought a recasting of political
+parties that destabilized the Republic
+and propelled the nation toward war.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.008">Bleeding Kansas</ref>.</p>
+
+<closer>
+<signed>Harl A. Dalstrom<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Malin, James C. "The Motives of Stephen A. Douglas in
+the Organization of Nebraska Territory: A Letter Dated
+December 17, 1853." <title level="j">Kansas Historical Quarterly</title> 19 (1951):
+321–53.</bibl> <bibl>Nichols, Roy F. "The Kansas-Nebraska Act: A Century
+of Historiography." <title level="j">Mississippi Valley Historical Review</title>
+43 (1956): 167–212.</bibl> <bibl>Rawley, James A. <title level="m">Race and Politics:
+"Bleeding Kansas" and the Coming of the Civil War</title>. Philadelphia:
+Lippincott, Williams and Wilkins, 1969.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ha.000 SYSTEM "egp.ha.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Hispanic Americans</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>  
+
+<div1 type="contents">
+
+<head>Hispanic Americans</head>
+
+<figure n="egp.ha.000" rend="granted">
+<figDesc>Mexican workers on a train listen to a lecture in Spanish on hoeing and thinning beets, eastern Colorado, ca. 1920.</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.ha.001">Hispanic Americans</ref></item>
+<item><ref n="egp.ha.002">Adams-On&#237;s Treaty</ref></item>
+<item><ref n="egp.ha.003">Baca, Polly</ref></item>
+<item><ref n="egp.ha.004"><hi rend="italic">Betabeleros</hi></ref></item>
+<item><ref n="egp.ha.005">Bracero Program</ref></item>
+<item><ref n="egp.ha.006">Central Americans</ref></item>
+<item><ref n="egp.ha.007">Cervantez, Pedro</ref></item>
+<item><ref n="egp.ha.008">Chavez, Linda</ref></item>
+<item><ref n="egp.ha.009"><hi rend="italic">Ciboleros</hi></ref></item>
+<item><ref n="egp.ha.010"><hi rend="italic">Comancheros</hi></ref></item>
+<item><ref n="egp.ha.011">de Baca, Fabiola Cabeza</ref></item>
+<item><ref n="egp.ha.012"><hi rend="italic">Empresarios</hi></ref></item>
+<item><ref n="egp.ha.013">Escuela Tlatelolco</ref></item>
+<item><ref n="egp.ha.014">Genizaros</ref></item>
+<item><ref n="egp.ha.015">Gonzales, Corky</ref></item>
+<item><ref n="egp.ha.016"><hi rend="italic">Gorras Blancas</hi></ref></item>
+<item><ref n="egp.ha.017">Guadalupe Hidalgo, Treaty of</ref></item>
+<item><ref n="egp.ha.018">Gutierrez, Jose Angel</ref></item>
+<item><ref n="egp.ha.019">Herrera, Juan Jose</ref></item>
+<item><ref n="egp.ha.020">Hispanic Population Geography</ref></item>
+<item><ref n="egp.ha.021">Hispano Homeland</ref></item>
+<item><ref n="egp.ha.022">Jimenez, Luis</ref></item>
+<item><ref n="egp.pd.030">Junta de Indignacion <hi rend="italic">See</hi> <hi rend="smallcaps">Protest and Dissent</hi></ref></item>
+<item><ref n="egp.ha.024">Lisa, Manuel</ref></item>
+<item><ref n="egp.ha.025">Lopez, Nancy</ref></item>
+<item><ref n="egp.ha.026">Maxwell Land Grant</ref></item>
+<item><ref n="egp.ha.027">Meatpackers</ref></item>
+<item><ref n="egp.ha.028">Mexican American Cuisine</ref></item>
+<item><ref n="egp.ha.029">Missouri Company</ref></item>
+<item><ref n="egp.ha.030">Otero, Miguel Antonio</ref></item>
+<item><ref n="egp.ha.031"><hi rend="italic">Pastores</hi></ref></item>
+<item><ref n="egp.ha.032">Pena, Federico</ref></item>
+<item><ref n="egp.ha.033">Plan of San Diego</ref></item>
+<item><ref n="egp.ha.034">Ranching Heritage</ref></item>
+<item><ref n="egp.ha.035">Repatriation to Mexico</ref></item>
+<item><ref n="egp.ha.036">Richardson, Bill</ref></item>
+<item><ref n="egp.ha.037">Rivera, Tomas</ref></item>
+<item><ref n="egp.ha.038">Romero, Casimero</ref></item>
+<item><ref n="egp.ha.039">San Saba Mission and Presidio</ref></item>
+<item><ref n="egp.ha.040">South Americans</ref></item>
+<item><ref n="egp.ea.035">Spaniards <hi rend="italic">See</hi> <hi rend="smallcaps">European Americans</hi></ref></item>
+<item><ref n="egp.ha.042">Spanish-Comanche Treaties</ref></item>
+<item><ref n="egp.ha.043">Spanish-Language Press</ref></item>
+<item><ref n="egp.wat.030">Spanish Water Law <hi rend="italic">See</hi> <hi rend="smallcaps">Water</hi></ref></item>
+<item><ref n="egp.ha.045">Tafoya, Jose Piedad</ref></item>
+<item><ref n="egp.ha.046">Tejanos</ref></item>
+<item><ref n="egp.ea.041">Villasur, Pedro de <hi rend="italic">See</hi> <hi rend="smallcaps">European Americans</hi></ref></item>
+<item><ref n="egp.ha.048">Zamora, Bernice</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

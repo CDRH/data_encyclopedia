@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Goodnight, Charles (1836-1929)</title>
+<title level="m" type="sub"></title>
+<author>Ken Zontek</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.024</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zontek, Ken">Ken Zontek</author>. <title level="a">"Goodnight, Charles (1836-1929)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">420</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GOODNIGHT, CHARLES (1836-1929)</head>
+
+<p>Charles Goodnight epitomized the plainsman.
+Born in Macoupin County, Illinois, on
+March 5, 1836, Goodnight, riding bareback,
+first came to the Southern Plains of Texas in
+1846. During his young adulthood in the
+Brazos River valley, he worked as a farmhand,
+freighter, and cowboy. In 1856 Goodnight
+hired himself out to a local rancher and received
+every fourth calf as pay. Within a year
+he had also become a Texas Ranger. Meanwhile,
+he continued to add to his small herd of
+cattle, which he moved to Palo Pinto County,
+Texas.</p>
+
+<p>His eight-year Ranger career, filled with
+frontier patrols, ended when the twenty-nineyear-
+old entrepreneur decided to take his 180
+head of cattle west to reservation agencies. He
+became partners with Oliver Loving, a man
+twenty-five years his senior with experience in
+driving cattle long distances. The two adventurers
+planned to trail their combined herd
+from Fort Belknap, Texas, to Fort Sumner,
+New Mexico. While preparing for departure,
+Goodnight invented the chuck wagon by remodeling
+the back end of an existing wagon
+into a mess area. In 1866 the two men took
+2,000 cattle guided by eighteen cowboys and
+struck out southwest for the Pecos River,
+which they would follow north. The 700-mile
+journey, 96 miles of it without water on the
+Staked Plains, established the Goodnight-
+Loving Trail that later extended to Cheyenne,
+Wyoming.</p>
+
+<p>The two stockmen quickly made a successful
+second trip but met disaster on their third trip
+in 1868, when Comanches mortally wounded
+Loving. Goodnight made three more trips on
+the trail from 1869 to 1871 while simultaneously
+operating a corn farm and way station ranch in
+southeastern Colorado. In 1871 he wed Mary
+Dyer from Fort Belknap, Texas. Subsequently,
+they lost their Colorado holdings in the Panic
+of 1873.</p>
+
+<p>Charles returned to his trail-driving days by
+blazing the Goodnight Trail from Alamogordo
+Creek, New Mexico, to Granada, Colorado,
+in 1875. The following year, he moved his
+remaining cattle into the Palo Duro Canyon in
+the Texas Panhandle, where he found a partner
+in John Adair from Ireland. Their spread,
+the ja Ranch, eventually covered one million
+acres and included more than 100,000 cattle.
+To these cattle, Goodnight added bison from a
+captive breeding program he had initiated in
+1878 at the request of his wife. Goodnight bred
+bison with cattle, thereby developing the "cattalo."
+He later abandoned the project, but his
+knack for cattle breeding resulted in the improvement
+of his herds with Hereford bulls.
+In 1880 Goodnight became the inaugural president
+of the Panhandle Stockman's Association.</p>
+
+<p>Goodnight retired from the ja Ranch in
+1888 and within a couple of years purchased a
+smaller ranch at nearby Goodnight Station.
+He spent the remainder of his life as a cattle
+breeder, an active member of the American
+Bison Society, and a leading citizen. Goodnight
+died on December 12, 1929, in Phoenix,
+Arizona. His family buried him next to his
+wife in Goodnight, Texas. Goodnight was
+commemorated by the U.S. Postal Service
+with a stamp and postcard in its 1993 Legends
+of the West series.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">AGRICULTURE</hi>: Ranches / <hi rend="smallcaps">TRANSPORTATION</hi>: <ref n="egp.tra.007">Cattle Trails</ref>.</p>
+
+<closer>
+<signed>Ken Zontek<lb/>
+University of Idaho</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Goodnight, Charles, Emanuel Dubbs, and John A. Hart.
+<title level="m">Pioneer Days in the Southwest from 1850 to 1879</title>. Guthrie
+<hi rend="smallcaps">OK</hi>: State Capital Company, 1909.</bibl> <bibl>Haley, J. Evetts. <title level="m">Charles Goodnight: Cowman and Plainsman</title>. Norman: University
+of Oklahoma Press, 1936.</bibl> <bibl>Hamner, Laura. <title level="m">The No-Gun Man of Texas: A Century of Achievement, 1835–1929</title>. Amarillo:
+Hamner, 1935.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

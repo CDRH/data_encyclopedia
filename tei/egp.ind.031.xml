@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Insurance</title>
+<title level="m" type="sub"></title>
+<author>James A. Stephens</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Stephens, James A.">James A. Stephens</author>. <title level="a">"Insurance."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">423</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">INSURANCE</head>
+
+<p>The Great Plains insurance industry has a spirit
+and tenacity that reflect the speculative and
+adventurous nature of the region in which it
+was born. The Great Plains insurance industry
+was created by losses from prairie fires, lightning
+strikes, and windstorms. Other forces
+such as the uncertainty of crop prices and cattle
+prices as well as the high costs of farming
+operations led to the organization of a substantial
+part of the agricultural community
+into the Grange and Farmers Alliance movements.
+From these issues and organizing movements
+many Great Plains insurance companies
+were started. Other insurance companies were
+formed on the principles of cooperation, mutual
+aid, benevolence, and care for others.
+Most provided an alternative to the eastern
+stock insurance companies, which did not
+understand the Great Plains conditions and
+whose insurance coverage was unaffordable.
+Some of the early companies still in business
+today are Portage Mutual (Manitoba, 1884),
+Northwest German Farmers Mutual Insurance
+(South Dakota, 1887), Farmers Alliance Mutual
+(Kansas, 1888), Kansas Mutual (1895),
+Wawanesa Mutual (Manitoba, 1896), and the
+Oklahoma Farmers Union (1907).</p>
+
+<p>In 1998 the Great Plains insurance industry
+consisted of more than 600 domestic companies
+writing $35 billion in U.S. property and
+liability insurance, $133 billion of the U.S. life
+insurance premiums, and more than $1 trillion
+in life insurance. There are 87 domestic
+Prairie Province insurance companies out of
+more than 200 general Canadian insurance
+companies. The Canadian companies insure
+$4 billion worth of Great Plains property and
+liability (21 percent of the Canadian total) as
+well as $1 billion in accident and sickness and
+$3 billion in life insurance.</p>
+
+<p>Losses in the Great Plains are caused by tornados
+(there were 508 in 1996, or 44 percent of
+the U.S. total) and strong winds, but the most
+significant losses result from hail damage.
+Great Plains property premiums have escalated
+due to hail losses to real property and
+autos. As a result of high losses, some companies
+withdrew from the Great Plains property
+insurance markets. However, since 1993,
+most Great Plains insurance companies have
+become profitable with an acceptable adjusted
+loss ratio and net investment income. The
+Great Plains insurance customer continues to
+receive a high level of service from the insurance
+industry, and the cost of insurance continues
+to remain below the U.S. average, with
+annual auto insurance expenditures of $523
+versus the national average of $665. Healthcare
+costs continue to increase; however,
+health-care insurance premiums are below the
+national average. For example, the Great
+Plains average hospital cost of $749 per patient
+day in 1999 was well below the U.S. average of
+$968.</p>
+
+<p>The insurance industry makes a significant
+contribution to the Great Plains economy:
+$340 million in life insurance premium taxes
+and $1.14 billion in property and casualty
+insurance taxes are paid annually. As employers,
+Great Plains insurance companies
+also pay Social Security taxes as well as other
+taxes, licenses, and fees. The economic multiplier
+effect results in a substantial economic
+contribution to the Plains economy. The insurance
+industry output averages about 2 percent
+of each state's gross state product.</p>
+
+<p>Changes in U.S. agricultural policy and
+world agricultural markets have forced Plains
+farmers to proactively analyze grain markets
+and manage crop revenue. New crop insurance
+approaches provide multiperil insurance
+coverage for crop revenue and market price
+fluctuations. National and global competition
+is forcing a revision in underwriting models
+for personal and commercial lines as Great
+Plains insurance companies continue to look
+for better methods to provide affordable and
+profitable insurance. Technology changes are
+revising marketing practices as direct marketers
+such as the <hi rend="smallcaps">USAA</hi> Group strive to take advantage
+of electronic databases and electronic
+marketing opportunities.</p>
+
+<p>The Great Plains agricultural community,
+which established the Great Plains insurance
+industry, continues to decline in employment
+and in proportion of total value added. It has
+been replaced by economic clusters of airplane
+manufacturing, mining, petroleum, and
+various light global and domestic industries
+throughout the Great Plains region. In general,
+the Great Plains continues to be served by
+domestic insurance companies and independent
+agents, particularly in the commercial
+lines, but the trend is to increase personal lines
+market share by direct writers and national
+insurance companies. Insurance companies
+will continue to consolidate, to merge with
+banks, to demutualize, to market across national
+boundaries, and to engage in electronic
+commerce. These trends will challenge the domestic
+Great Plains insurance market and may
+ultimately alter the state regulatory management
+of the industry. The resiliency and tenacity
+of the Great Plains insurance industry
+founders will need to be remembered if these
+challenges are to be successfully met.</p>
+
+<closer>
+<signed>James A. Stephens<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl><title level="m">The Fact Book 1998: Property/Casualty Insurance Facts</title>.
+New York: Insurance Information Institute, 1998.</bibl> <bibl><title level="m">Facts of the General Insurance Industry in Canada</title>. 24th ed.
+Toronto: Insurance Bureau of Canada, 1997.</bibl> <bibl><title level="m">1997 Life Insurance Fact Book</title>. Washington <hi rend="smallcaps">DC</hi>: American Council of
+Life Insurance, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

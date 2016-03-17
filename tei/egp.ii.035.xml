@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ii.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Holliday, Doc (1852-1887)</title>
+<title level="m" type="sub"></title>
+<author>Derrick S. Ward</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ii.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ward, Derrick S.">Derrick S. Ward</author>. <title level="a">"Holliday, Doc (1852-1887)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">390&#8211;391</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-09-29</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HOLLIDAY, DOC (1852-1887)</head>
+<figure n="egp.ii.035" rend="granted" type="noclick">
+<figDesc>Photograph of John Henry "Doc" Holliday</figDesc>
+</figure>
+
+<p><persName reg="Holliday, John Henry (Doc)">John Henry "Doc" Holliday</persName>, perhaps the most written about dentist in American history, was one of the most colorful and enigmatic characters on the nineteenth-century frontier. The frail, tubercular Georgian became a popular folk legend after participating in the famous gunfight outside the <hi rend="smallcaps">OK</hi> Corral. <persName reg="Holliday, John Henry (Doc)">Holliday</persName>'s image as a killer and peerless duelist has been embellished through countless newspaper and magazine articles, books, television shows, and motion pictures. While the <persName reg="Holliday, John Henry (Doc)">Doc Holliday</persName> of fiction and folklore continues to be an enduring symbol of America's violent frontier past, the historical personality behind the myth remains an elusive, complex figure.</p>
+
+<p><persName reg="Holliday, John Henry (Doc)">Doc Holliday</persName> was born on August 14, 1852, at <placeName rend="settlement" key="ga.gri" reg="Griffin, Georgia">Griffin, Georgia</placeName>, the only son of <persName reg="Holliday, Jane">Jane</persName> and <persName reg="Holliday, Henry B.">Henry B. Holliday</persName>, a planter, lawyer, and politician. After attending dentistry school, <persName reg="Holliday, John Henry (Doc)">Holliday</persName> opened a practice in <placeName rend="settlement" key="ga.atl" reg="Atlanta, Georgia">Atlanta</placeName> in 1872. Diagnosed with tuberculosis in 1873, he sought a healthier climate farther west. He settled in <placeName rend="settlement" key="tx.dal" reg="Dallas, Texas">Dallas, Texas</placeName>, and became a regular at the local gaming houses. He adapted well to the saloons and gambling halls and eventually became a full-time faro dealer. He left <placeName rend="settlement" key="tx.dal" reg="Dallas, Texas">Dallas</placeName> in 1875 after being involved in a shooting fray. <persName reg="Holliday, John Henry (Doc)">Doc Holliday</persName> reportedly spent the years from 1875 to 1879 drifting from one frontier town to another, dealing faro and practicing dentistry in <geogName rend="region" reg="Great Plains">Plains</geogName> communities such as <placeName rend="settlement" key="co.den" reg="Denver, Colorado">Denver, Colorado</placeName>; <placeName rend="settlement" key="nm.lv" reg="Las Vegas, New Mexico">Las Vegas, New Mexico</placeName>; <placeName rend="settlement" key="wy.che" reg="Cheyenne, Wyoming">Cheyenne, Wyoming</placeName>; and <placeName rend="state" key="ks.dc" reg="Dodge City, Kansas">Dodge City, Kansas</placeName>. In <placeName rend="settlement" key="ks.dc" reg="Dodge City, Kansas">Dodge</placeName> he developed a close friendship with city policeman <persName reg="Earp, Wyatt">Wyatt Earp</persName>, whom he later followed to <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone, Arizona</placeName>.</p>
+
+<p><persName reg="Holliday, John Henry (Doc)">Holliday</persName> has had the reputation of being a superb marksman and one of the most deadly gunfighters of the Old West. Also said to have been handy with a bowie knife, he has been credited with as many as thirty-five killings. For example, he reportedly shot to death a soldier at <placeName rend="settlement" key="tx.jac" reg="Jacksonboro, Texas">Jacksonboro, Texas</placeName>, knifed a gambler in <placeName rend="settlement" key="co.den" reg="Denver, Colorado">Denver</placeName>, and killed another man in <placeName rend="settlement" key="nm.lv" reg="Las Vegas, New Mexico">Las Vegas, New Mexico</placeName>. These stories have little basis in fact, having been penned years after the alleged acts occurred. <persName reg="Masterson, Bat">Bat Masterson</persName>, for example, helped strengthen <persName reg="Holliday, John Henry (Doc)">Holliday</persName>'s image as a killer in a popular 1907 article. <persName reg="Holliday, John Henry (Doc)">Holliday</persName> also helped popularize his own image as a dangerous killer. The frail, chronically ill <persName reg="Holliday, John Henry (Doc)">Holliday</persName> was actually a poor shot who carefully nurtured his reputation as a skilled gunman and killer to deter any would-be gambling cheats, thieves, or assorted hard cases. His only documented killing, the shotgun slaying of <persName reg="McLaury, Tom">Tom McLaury</persName>, took place during the <hi rend="smallcaps">OK</hi> Corral fight.</p>
+
+<p>While <persName reg="Holliday, John Henry (Doc)">Doc Holliday</persName> and others might have exaggerated his notorious reputation, he was certainly not all bluff. A product of the southern dueling tradition, <persName reg="Holliday, John Henry (Doc)">Holliday</persName> often resorted to violence to settle disputes. For example, when <persName reg="Allen, Billy">Billy Allen</persName> approached him in a <placeName rend="settlement" key="co.lea" reg="Leadville, Colorado">Leadville, Colorado</placeName>, saloon in 1884 to collect a five-dollar bet, the insulted <persName reg="Holliday, John Henry (Doc)">Holliday</persName> opened fire, leaving <persName reg="Allen, Billy">Allen</persName> with a nasty flesh wound. Also on October 26, 1881, in the most written about gun battle of the nineteenth-century <geogName rend="region" reg="American West">American West</geogName>, <persName reg="Holliday, John Henry (Doc)">Holliday</persName> stood side by side with the Earp brothers at the <hi rend="smallcaps">OK</hi> Corral in a fight that killed three members of the Clanton gang. In the period after the <placeName rend="settlement" key="az.tom" reg="Tombstone, Arizona">Tombstone</placeName> gunfight, he was alleged to have helped <persName reg="Earp, Wyatt">Wyatt Earp</persName> murder Clanton henchmen <persName reg="Stilwell, Frank">Frank Stillwell</persName> and <persName reg="Cruz, Florentino">Florentino Cruz</persName>, although he never stood trial for either crime. <persName reg="Holliday, John Henry (Doc)">Doc Holliday</persName> died from tuberculosis on November 8, 1887, in <placeName rend="state" key="co.gs" reg="Glenwood Springs, Colorado">Glenwood Springs, Colorado</placeName>.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FILM</hi>: <ref n="egp.fil.066">Wyatt Earp Films</ref>.</p>
+
+
+<closer>
+<signed rend="right"><hi rend="italic">Derrick S. Ward<lb/>
+Ventura, California</hi></signed>
+</closer>
+</div1>
+
+<div1 type="ref">
+<bibl>Jahns, Pat. <title level="m">The Frontier World of Doc Holliday</title>. New York: Hastings House, 1957.</bibl> <bibl>Myers, John M. <title level="m">Doc Holliday</title>. Boston: Little, Brown, 1955.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

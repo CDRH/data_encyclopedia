@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ea.040">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Vial, Pedro (ca. 1746-1814)</title>
+<title level="m" type="sub"></title>
+<author>Mark R. Ellis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ea.040</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ellis, Mark R.">Mark R. Ellis</author>. <title level="a">"Vial, Pedro (ca. 1746-1814)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">250-251</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">VIAL, PEDRO (CA. 1746-1814)</head>
+
+<p>Born in Lyons, France, around 1746, Pedro
+(Pierre) Vial was one of the earliest European
+explorers and trailblazers on the Southern
+Plains. From 1787 to 1809 he served as a guide,
+interpreter, negotiator, and pathfinder in the
+Spanish Borderlands. Little is known of Vial's
+early life, but by the early 1770s he was probably
+trapping on the Missouri River. During
+the 1770s he lived periodically with various
+Southern Plains Indians, plying his trade as a
+gunsmith. Vial's relationship with Plains Indian
+tribes would help him during his many
+journeys across the Plains in later years.</p>
+
+<p>Vial made his first trip across the Plains
+in 1786–87, when Texas governor Domingo
+Cebello commissioned him to find a route between
+the Spanish provincial capitals of San
+Antonio, Texas, and Santa Fe, New Mexico.
+Vial left San Antonio on October 4, 1786, with
+a single companion and a packhorse. The pair
+headed north and then followed the Red and
+Canadian Rivers across the Plains, reaching
+Santa Fe on May 26, 1787. Although the trail
+he established was not a direct route and
+would be rerouted the following year, Vial was
+the first European to travel overland between
+the two settlements.</p>
+
+<p>Using Santa Fe as a home base after 1787,
+Vial traversed the Plains on numerous occasions
+in the service of Spain. In 1788, for
+example, he blazed a trail from Santa Fe
+to Natchitoches (Louisiana). Concerned with
+American activity in the trans-Mississippi region,
+New Mexico governor Fernando de la
+Concha assigned Vial in 1792 to find a route
+from Santa Fe to St. Louis. He and two companions
+left Santa Fe on May 21, crossing the
+Plains via the Canadian, Arkansas, and Kansas
+Rivers; much of this route comprised the later
+Santa Fe Trail. On his return trip, Vial went up
+the Missouri River to the mouth of the Little
+Nemaha River (present-day Nebraska) where
+he established relations with the Pawnee Indians.
+Between 1795 and 1806 he visited Pawnee
+territory at least four times: in 1795 the
+Spanish government sent him to negotiate
+a peace treaty between the Pawnees and Comanches,
+and in 1805 he went back to find out
+about the Lewis and Clark expedition. Vial
+apparently retired from government service in
+1809 and settled permanently in Santa Fe. He
+did not marry and had no children. Pedro Vial
+died there in October 1814.</p>
+
+<closer>
+<signed>Mark R. Ellis<lb/>
+University of Nebraska at Kearney</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bannon, John Francis. <title level="m">The Spanish Borderlands Frontier: 1513–1821</title>. Albuquerque: University of New Mexico Press,
+1974.</bibl> <bibl>Loomis, Noel B., and Abraham P. Nasatir. <title level="m">Pedro Vial and the Roads to Santa Fe</title>. Norman: University of Oklahoma
+Press, 1967.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

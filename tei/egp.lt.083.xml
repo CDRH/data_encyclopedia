@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.083">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wiseman, Adele (1928-1992)</title>
+<title level="m" type="sub"></title>
+<author>Ruth Panofsky</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.083</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Panofsky, Ruth">Ruth Panofsky</author>. <title level="a">"Wiseman, Adele (1928-1992)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">498</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WISEMAN, ADELE (1928-1992)</head>
+
+<p>Canadian writer Adele Wiseman was born on
+May 21, 1928, and raised in Winnipeg, Manitoba.
+Her parents had emigrated from the
+Ukraine in 1923 and spent two years in Montreal
+before settling in Winnipeg's North End,
+a vibrant enclave of Jewish, German, Ukrainian,
+and Slavic immigrants. Wiseman earned
+a bachelor of arts degree in English and psychology
+from the University of Manitoba in
+1949. Following graduation, she lived in London,
+Rome, and New York, where she wrote
+and worked at a number of jobs. From 1964 to
+1969 Wiseman lived in Montreal, where she
+taught English at Sir George Williams (now
+Concordia) University and Macdonald College
+of McGill University. She was later writer
+in residence at several Canadian universities
+and head of the May Studios (Writing Program)
+at Banff Centre for the Arts.</p>
+
+<p>Wiseman wrote two novels, The Sacrifice,
+which received the Governor General's Literary
+Award for fiction in 1956, and <title level="m">Crackpot</title>
+(1974). Both novels employ biblical metaphors,
+are set in (the unnamed city of ) Winnipeg,
+and explore the lives of Jewish immigrants
+who settle on the Canadian Prairies. <title level="m">The Sacrifice</title> is the tragic story of a butcher who
+murders a local temptress. The biblical story
+of Abraham and Isaac resonates throughout
+Wiseman's narrative. Her own Abraham&#8211;
+once proud and certain&#8211;is transplanted from
+the Old to the New World, where he loses his
+third son and his precarious hold on life in a
+novel that charts the demise of a patriarch.
+<title level="m">Crackpot</title> shifts from tragic to comic mode and
+experiments with narrative form and perspective.
+The work celebrates the resilience of
+Hoda, an obese Jewish prostitute whose life,
+like Abraham's, is shattered by moral and spiritual
+challenges.</p>
+
+<p>Wiseman also wrote two plays (<title level="m">The Lovebound</title>,
+ca. 1960; <title level="m">Testimonial Dinner</title>, 1978);
+two books for children (<title level="m">Kenji and the Cricket</title>,
+1988; <title level="m">Puccini and the Prowlers</title>, 1992); and three
+works of nonfiction (<title level="m">Old Markets, New World</title>,
+1964; <title level="m">Old Woman at Play</title>, 1978; <title level="m">Memoirs of a Book Molesting Childhood and Other Essays</title>,
+1987). Her correspondence with fellow writer
+and friend is available in <title level="m">Selected Letters of Margaret Laurence and Adele Wiseman</title> (1997).</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWNS</hi>: <ref n="egp.ct.057">Winnipeg, Manitoba</ref>.</p>
+
+<closer>
+<signed>Ruth Panofsky<lb/>
+Ryerson Polytechnic University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Greene, Elizabeth, ed. <title level="m">We Who Can Fly: Poems, Essays and Memories in Honour of Adele Wiseman</title>. Dunvegan, Ontario:
+Cormorant Books, 1997.</bibl> <bibl>Panofsky, Ruth, ed. <title level="j">Room of One's Own</title> 16 (1993).</bibl> <bibl>Adele Wiseman issue. Adele Wiseman
+Papers, York University, Toronto.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sunflowers</title>
+<title level="m" type="sub"></title>
+<author>James Schild</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.066</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Schild, James">James Schild</author>. <title level="a">"Sunflowers."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">53</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUNFLOWERS</head>
+
+<p>Native Americans domesticated the sunflower,
+a native of the Great Plains. They used
+the seed for food, extracted oil from them for
+paints, and used bloom petals for dye. The
+wild form, <hi rend="italic">Helianthus annuus</hi> L., is still common
+throughout the Great Plains in cultivated
+fields, pastures, gardens, roadsides, and other
+disturbed sites. The plants provide cover, and
+the seeds furnish energy and protein for a
+wide range of wildlife species, but they are
+considered weeds because they compete with
+cultivated crops.</p>
+
+<p>Cultivated sunflowers are grown as either
+an ornamental plant in the landscape or as
+an agronomic crop used for its edible seed or
+extractable oil. Ornamental sunflowers have
+been developed to produce blooms of magenta,
+white, and orange and to reach heights
+of one to fifteen feet. They are commonly used
+in the back of garden beds for height, color,
+and texture, or as screens and alongside fences.
+Kansas, the Sunflower State, has adopted it as
+its state flower.</p>
+
+<p>Agronomic sunflower production is divided
+into two market classes, oil and confectionery.
+Most of the acreage in the Great
+Plains is planted with the oil type. The oil is
+used primarily in cooking and baking. Confectionary
+types are grown for the edible
+roasted seed. Acreage in confectionary sunflowers
+is contracted with processing companies
+and is subject to strict guidelines. Confectionery
+seeds not meeting the guidelines go
+into birdseed markets. Recently, a third market
+class has developed based on specialty
+cooking oil markets.</p>
+
+<p>Sunflowers in the Great Plains are grown
+under both irrigation and dryland-farming
+methods but mainly under dryland farming.
+Yields under irrigation are typically double
+those of dryland. Although sunflowers are
+cultivated in significant amounts in western
+Kansas and Nebraska, eastern Colorado, and
+parts of the Texas Panhandle, U.S. production
+is dominated by South Dakota and, especially,
+North Dakota. In Canada, fully 90 percent
+of national production comes from central
+Manitoba.</p>
+
+<p>Sunflowers work well in rotation with winter
+wheat, as a wheat-fallow-sunflower rotation.
+In this system two crops are harvested in
+a three-year period. They are sown in May and
+harvested in late September or October. Sunflowers
+should be planted into a firm seedbed
+when soil temperatures are above 50&#186;F. They
+grow best on medium-textured soils, such
+as loams. Planting is done with a row crop
+planter equipped with special plates or with a
+grain drill. Seeding rates are 14,000 to 21,000
+plants per acre under dryland conditions and
+20,000 to 25,000 plants per acre under irrigation.
+Sunflowers are harvested with the use of
+a combine with special extensions (sunflower
+pans) in front of the cutter bar.</p>
+
+<p>The sunflower, being native to the region, is
+vulnerable to a wide array of insects and diseases
+that can cause serious economic yield
+reductions. Common insect pests are the sunflower
+seed weevil, sunflower moth, grasshoppers,
+and the sunflower head clipper weevil.
+Common diseases are stalk and head rot, rust,
+Phoma black stem, and downy mildew.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.043">Oilseeds</ref></p>
+
+<closer>
+<signed>James Schild<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schild, Jim, Dave Baltensperger, Drew Lyon, Gary Hein,
+and Eric Kerr. "Sunflower Production in Nebraska." G91–
+1026, University of Nebraska, 1991.</bibl> <bibl>McMullen, Marcia P.
+"Sunflower Production and Pest Management." <title level="j">Extension Bulletin</title> 25. North Dakota State University, 1985.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.ag.064 SYSTEM "egp.ag.064.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.064">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sugar Beets</title>
+<title level="m" type="sub"></title>
+<author>Barry Jacobsen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.064</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Jacobsen, Barry">Barry Jacobsen</author>. <title level="a">"Sugar Beets."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">52</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SUGAR BEETS</head>
+
+<figure n="egp.ag.064" rend="granted">
+<figDesc>Sugar beets, Huntley Irrigation Project, Montana, 1906</figDesc>
+</figure>
+
+<p>Sugar beet (<hi rend="italic">Beta vulgaris</hi>) is one of the world's
+two sources of sucrose. Sugar beets are grown
+in almost all temperate areas of the world and
+are produced in North America from southern
+Canada to Mexico at elevations ranging
+from sea level to near 7,000 feet. In the United
+States, sugar beets are produced in fourteen
+states on more than 1.46 million acres, yielding
+annual output of more than 3.8 million
+tons of sucrose. Farm gate value (the value of
+the product when it leaves the farm and before
+value-added processing, wholesaling, and retailing)
+to producers is more than $1.1 billion.
+Sugar beets are grown under dryland
+conditions in Michigan, Ohio, Minnesota,
+and eastern North Dakota, and under irrigation
+in western North Dakota, Montana,
+Wyoming, New Mexico, Colorado, Nebraska,
+Idaho, Oregon, Washington, and California.</p>
+
+<p>Sugar beet production in the Great Plains
+region accounts for more than 64 percent of
+the United States total. The crop has been an
+important part of the farm economy in eastern
+Colorado and western Nebraska since
+1890. Commercial production in the Red
+River Valley of the North began in 1925. The
+Minnesota–North Dakota production area
+that includes the Red River Valley of the North
+now has nearly 46 percent (667,000 acres) of
+U.S. acreage; other Great Plains states contribute
+another 17 percent of the nation's production.
+Production areas involving western Nebraska
+and adjacent Colorado and Wyoming
+annually plant approximately 150,000 acres,
+and the production areas in the Yellowstone,
+Missouri, and Bighorn valleys of Montana,
+Wyoming, and western North Dakota plant
+approximately 120,000 acres. In 1998 the only
+sugar beet factory in Texas was closed due to
+chronically high disease losses. Sugar beet
+production in Canada is centered in Taber,
+Alberta, and has recently been targeted for expansion
+by the minister of agriculture.</p>
+
+<p>The sugar beet is a biennial, cross-pollinated
+plant whose growth is favored by medium-
+to light-textured soils with a 6.0&#8211;7.5 pH
+and warm bright days and cool nights. Sugar
+beets require significant nitrogen&#8211;150 to 200
+pounds per acre&#8211;for maximum production.
+Nitrogen levels must be carefully monitored
+since excess nitrogen at harvest will reduce
+both sugar content and quality. Sugar content
+in roots can be as high as 22 percent, but commercial
+production generally ranges from 12 to
+20 percent. Two major innovations were critical
+to the modern culture of this crop: the
+discovery of cytoplasmic male sterility in the
+1940s by Dr. W. F. Owens allowed the production
+of high yielding hybrids, and the discovery
+of monogerm seed in 1948 by Drs. V. F.
+and Helen Savitsky eliminated the need for
+hand thinning. Since the late 1960s all sugar
+beet crops in the United States are planted
+with monogerm, hybrid seed. Harvesting has
+been done entirely by machines since the early
+1950s.</p>
+
+<p>All sugar beets are grown under contract
+with sugar companies or grower cooperatives.
+Typically, a minimum of 25,000 to 30,000 contracted
+acres are needed to support a sugar
+processing plant. In the Great Plains region
+seeding generally starts in March and is finished
+in early May. After harvest, beets are
+stored in piles until they are processed during
+a 60- to 200-day processing period. Sugar
+beets are almost always grown in rotations of
+two to three or more years. Shorter rotations
+lead to depressed yields because of fungal and
+virus diseases, the sugar beet cyst nematode
+(<hi rend="italic">Heterodera schacctii</hi>), insects, and weeds.
+Historically the most important diseases are
+Cercospora leaf spot, curly top virus, rhizomania
+(beet necrotic yellow vein virus),
+powdery mildew, Rhizoctonia crown and root
+rot, and Aphanomyces black root. Insect pests
+include sugar beet root maggot, sugar beet
+root aphid, armyworms, cutworms, aphids,
+and leafhoppers. Weed management is critical
+to high yields of this important Plains crop.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">HISPANIC AMERICANS</hi>: <ref n="egp.ha.004"><hi rend="italic">Betabeleros</hi></ref> / <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.055">Sugar Beet Processing</ref>.</p>
+
+<closer>
+<signed>Barry Jacobsen<lb/>
+Montana State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cooke, D. A., and R. K. Scott, eds. <title level="m">The Sugar Beet Crop</title>.
+London: Chapman and Hall, 1993.</bibl> <bibl>Whitney, E. D., and J.
+E. Duffus, eds. <title level="m">Compendium of Beet Diseases and Insects</title>.
+St. Paul: <hi rend="smallcaps">APS</hi> Press, 1986.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

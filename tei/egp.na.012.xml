@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Big Bear (ca. 1825-1888)</title>
+<title level="m" type="sub"></title>
+<author>Hugh A. Dempsey</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dempsey, Hugh A.">Hugh A. Dempsey</author>. <title level="a">"Big Bear (ca. 1825-1888)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">567</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BIG BEAR (ca. 1825-1888)</head>
+<figure n="egp.na.012" rend="granted">
+<figDesc>Photograph of Plains Cree leader Big Bear taken in 1885</figDesc>
+</figure>
+
+<p>Big Bear (Mistahimaskwa) was a leader of the
+Plains Crees who carried on a nine-year struggle
+to gain better treaty terms for his people
+from the Canadian government. Born about
+1825 to Ojibwa parents near Fort Carlton, Saskatchewan,
+Big Bear was part of a transitional
+camp that spent its summers on the open
+Plains but in winter hunted and trapped in the
+woodlands near Jackfish Lake, Saskatchewan.
+After the death of his father, about 1865, Big
+Bear became chief of a band of sixty-five
+lodges. In addition, he received a number of
+visions and was a religious leader who opposed
+the work of Christian missionaries.</p>
+
+<p>In 1876 Big Bear refused to sign Treaty
+Number 6 with the Canadian government. Instead,
+he said he would wait five years to see if
+its promises were honored. As starvation began
+to beset the Crees, many young dissidents
+flocked to Big Bear's camp, and he became one
+of the most important chiefs on the Canadian
+Plains. During this time, he demanded better
+terms from the government but was unsuccessful.
+Finally, he was forced to sign the
+treaty in 1882 when his own sons rebelled
+against him.</p>
+
+<p>In the spring of 1885, the Métis launched the
+North-West Rebellion and, at the same time,
+Big Bear's son, Little Bear (Ayimisis), joined
+with war chief Wandering Spirit (Kapapamahchakwew)
+to kill nine white residents of
+Frog Lake. Several others were taken prisoner.
+Big Bear tried to stop the killing and later protected
+the prisoners. However, as chief, he was
+convicted of treason and was sentenced to
+three years in prison. He became ill while imprisoned
+and was released after two years. He
+died within a year of his release.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">WAR</hi>: <ref n="egp.war.032">North-West Rebellion</ref>.</p>
+
+<closer>
+<signed>Hugh A. Dempsey<lb/>
+Glenbow Museum</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dempsey, Hugh A. <title level="m">Big Bear: The End of Freedom</title>. Vancouver:
+Douglas and McIntyre, 1984.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

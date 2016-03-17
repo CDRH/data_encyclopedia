@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ha.017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Guadalupe Hidalgo, Treaty of</title>
+<title level="m" type="sub"></title>
+<author>Mary E. Adams</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ha.017</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Adams, Mary E.">Mary E. Adams</author>. <title level="a">"Guadalupe Hidalgo, Treaty of."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">358</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GUADALUPE HIDALGO, TREATY OF</head>
+
+<p>Signed on February 2, 1848, the Treaty of
+Guadalupe Hidalgo officially ended the Mexican
+American War (1846-48). The treaty required
+that Mexico cede 947,570 square miles,
+almost half of its territory, in exchange for
+peace and $15 million. The United States
+gained most of what is now the American
+Southwest and parts of the Great Plains, including
+New Mexico, Arizona, Utah, Nevada,
+California, and parts of Wyoming, Colorado,
+and Oklahoma. The treaty also recognized the
+annexation of Texas to the United States and
+set the boundary between the two nations at
+the Rio Grande.</p>
+
+<p>Key factors leading to the war, as well as the
+eventual terms of the treaty, included the annexation
+of Texas by the United States, an almost
+religious belief in American manifest
+destiny, and a vulnerable Mexican government.
+Unfortunately for Mexico, a succession
+of overthrown presidents had followed its
+war of independence from Spain, leaving the
+unstable nation an easy target for American
+expansionism.</p>
+
+<p>Appointed by President James Polk, Nicholas
+Trist traveled to Mexico in May 1847 and
+began diplomatic relations soon after. He and
+three Mexican peace commissioners eventually
+signed the treaty at Villa de Guadalupe
+Hidalgo, but ratification would be an arduous
+process for both countries. While Mexican
+o.cials were outraged about lost territory,
+Americans were equally disappointed that
+they would not receive even more of the defeated
+nation.</p>
+
+<p>Aside from land and money, the treaty dealt
+with the citizenship and property rights of
+those living within the transferred territory:
+Mexican citizens could relocate to Mexico,
+remain in the territory as Mexican citizens, or
+become citizens of the United States. The treaty
+promised these new Americans all rights, including
+"free enjoyment of liberty and property."
+The ratification did not, however, include
+Article 10 of the original document,
+which had promised to honor Mexican land
+grants.</p>
+
+<closer>
+<signed>Mary E. Adams<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>del Castillo, Richard Griswold. <title level="m">The Treaty of Guadalupe Hidalgo: A Legacy of Conflict</title>. Norman: University of
+Oklahoma Press, 1990.</bibl> <bibl>Gonzales, Manuel G. <title level="m">Mexicanos: A History of Mexicans in the United States</title>. Bloomington:
+Indiana University Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

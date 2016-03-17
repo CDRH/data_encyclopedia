@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bloor, Ella R. (1862-1951)</title>
+<title level="m" type="sub"></title>
+<author>Kathleen Banks Nutter</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.009</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Nutter, Kathleen Banks">Kathleen Banks Nutter</author>. <title level="a">"Bloor, Ella R. (1862-1951)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">707</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BLOOR, ELLA R. (1862-1951)</head>
+
+<p>Ella Reeve "Mother" Bloor was a feminist and
+labor organizer who dedicated her life to the
+cause of America's industrial workers and
+farmers. She was born on Staten Island, New
+York, on July 8, 1862, and brought up in comfortable
+upper-middle-class circumstances.
+As a young woman she was drawn to the suffrage
+and prohibition movements, and after
+1902 she devoted herself to labor issues, investigating,
+for example, the Chicago meatpacking
+industry and demonstrating for the rights
+of working women and their children. In 1919
+she broke with the Socialist Party because
+many in its ranks supported World War I, and
+she joined the newly formed American Communist
+Party.</p>
+
+<p>In 1929 the Communist Party sent Bloor, then
+sixty-seven years old, to work with farmers in
+North and South Dakota. For the next five years
+much of her focus was in the Great Plains. In
+1930 Bloor married North Dakota farmer and
+fellow Communist Andrew Omholt, and a year
+later she joined the United Farmers League as an
+organizer in the Dakotas and Montana. The
+United Farmers League fought bank foreclosures
+and organized mass demonstrations,
+often with Bloor literally leading the parade.
+When the unrest spread into Iowa and Nebraska
+as the "Farmers Holiday" movement grew,
+Bloor continued her role as featured speaker,
+especially during the dramatic Milk Strike of
+1932 in Sioux City, Iowa. She frequently worked
+alongside her oldest son and party comrade, Hal
+Ware. In 1934, while protesting on behalf of
+striking women chicken pluckers in Loup City,
+Nebraska, Bloor was arrested for the thirty-sixth
+and final time in her long career. In 1935, after
+multiple appeals failed, the then seventy-three-year-old woman served thirty days in an Omaha
+jail&#8211;an event that received much sympathetic
+press even in mainstream publications.</p>
+
+<p>Hailed in a 1937 <title level="j">Life</title> magazine piece as the
+"grand old woman of the U.S. Communist
+party," Bloor spent her final active years fighting
+fascism at home and abroad. She died in Richlandtown,
+Pennsylvania, on August 10, 1951.</p>
+
+<closer>
+<signed>Kathleen Banks Nutter<lb/>
+Smith College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bloor, Ella Reeve. Papers. Sophia Smith Collection, Smith
+College, Northampton <hi rend="smallcaps">MA</hi>.</bibl> <bibl>Bloor, Ella Reeve. <title level="m">We Are
+Many</title>. New York: International Publishers, 1940.</bibl> <bibl>Dyson,
+Lowell K. <title level="m">Red Harvest: The Communist Party and American
+Farmers</title>. Lincoln: University of Nebraska Press, 1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

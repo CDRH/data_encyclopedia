@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Trial of Standing Bear</title>
+<title level="m" type="sub"></title>
+<author>Dennis J. Smith</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.053</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Smith, Dennis J.">Dennis J. Smith</author>. <title level="a">"Trial of Standing Bear."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">725</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TRIAL OF STANDING BEAR</head>
+
+<p>On May 12, 1879, in Omaha, Nebraska, in the
+U.S. Circuit Court for the District of Nebraska,
+Judge Elmer Dundy ruled that noncitizen
+Indians&#8211;in this case, a group of Poncas
+led by Chief Standing Bear&#8211;were defined
+as persons in terms of federal law and entitled
+to review under habeas corpus protections (a
+constitutionally based appeal used to determine
+whether a person is restrained or imprisoned
+without due process). The writ of
+habeas corpus specifically stated that Standing
+Bear and his followers had withdrawn from
+the Ponca tribe. Standing Bear's case not only
+played a central role in four crucial decades of
+Ponca-federal relations, but it also directly influenced
+landmark Indian policy changes of
+the 1880s.</p>
+
+<p>In an 1858 treaty, the Poncas ceded all their
+lands except for a small reservation (in presentday
+northeastern Nebraska) on the lower Niobrara
+River. Dutifully taking up farming the
+white man's way, the Poncas endured terrible
+hardships when their crops regularly failed and
+Indian agency supplies remained woefully inadequate.
+Yet their long-standing friendship
+with the United States failed to prevent their
+forced removal to Indian Territory in the
+spring of 1877. The Poncas' conditions worsened
+due to the Office of Indian Affairs' complete
+lack of preparation for their arrival&#8211;no
+lands had been reserved and no appropriation
+secured to provide food, clothing, and housing.
+As many as 200 Poncas died from related
+hardships. In January 1879 Standing Bear and
+twenty-nine others fled back to their Nebraska
+homeland. When they reached the Omaha reservation
+in March, the U.S. Army arrested
+them and escorted them to Fort Omaha (located
+four miles north of Omaha, Nebraska).</p>
+
+<p>On March 30 <title level="j">Omaha Daily Herald</title> assistant
+editor Thomas Henry Tibbles interviewed
+Standing Bear and dispatched a stream of features
+to newspapers in Chicago, New York,
+and other eastern cities. Tibbles also inaugurated
+a legal challenge against Standing Bear's
+arrest, obtaining the services of two prominent
+Omaha attorneys, John Lee Webster and
+A. J. Poppleton. In May, Judge Dundy delivered
+his extraordinary ruling that habeas corpus
+safeguards applied to Standing Bear, even
+though as a Native American he was a noncitizen
+and in spite of the fact that for all practical
+purposes he had renounced his Ponca
+tribal affiliation. Moreover, because federal
+statutes authorized the army to deliver prisoners
+only to civil authorities, making the
+Ponca detainment at Fort Omaha illegal,
+Dundy ordered Standing Bear and the Poncas
+released and directed that there would be no
+appeals to a higher court.</p>
+
+<p>Judge Dundy's bold decision protected
+Standing Bear's Poncas from being returned
+to Indian Territory, but it provided no lands
+for them. In 1890 they finally secured allotments
+on their former reservation. Equally
+important, Standing Bear's struggle for justice
+significantly influenced the national movement
+to reform Indian policy. In the fall of
+1879 Tibbles featured Standing Bear on a
+highly successful Indian reform tour that included
+Chicago, Boston, New York, Philadelphia,
+and Washington. In Boston, Standing
+Bear's eloquence so impressed Massachusetts
+senator Henry L. Dawes that he plunged into
+the Indian reform movement. He joined the
+Senate Indian Affairs Committee, and his
+leadership on Indian issues and prominence
+on the popular issue of Indian assimilation led
+directly to passage of the 1887 General Allotment
+(or Dawes) Act. Standing Bear lived on
+his family allotment on the Niobrara until his
+death in 1908.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.088">Poncas</ref>; <ref n="egp.na.112">Standing Bear</ref>.</p>
+
+<closer>
+<signed>Dennis J. Smith<lb/>
+Morningside College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hoxie, Frederick E. <title level="m">A Final Promise: The Campaign to
+Assimilate the Indians, 1880–1920</title>. Lincoln: University of
+Nebraska Press, 1984.</bibl> <bibl>Lake, James A., Sr. "Standing Bear,
+Who?" <title level="j">Nebraska Law Review</title> 60 (1981): 451–503.</bibl> <bibl>Tibbles,
+Thomas Henry. <title level="m">The Ponca Chiefs: An Account of the Trial
+of Standing Bear</title>, edited by Kay Graber. Lincoln: University
+of Nebraska Press, 1972.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

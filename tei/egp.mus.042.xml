@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.042">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Schools of Music</title>
+<title level="m" type="sub"></title>
+<author>Lawrence R. Mallett</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.042</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Mallett, Lawrence R.">Lawrence R. Mallett</author>. <title level="a">"Schools of Music."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">547</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SCHOOLS OF MUSIC</head>
+
+<p>The Great Plains has witnessed the development
+of many music programs in higher education
+that are, to a large extent, responsible
+for the rich musical heritage and culture of its
+people. These schools and departments of music
+in the region's colleges and universities have
+contributed greatly to the quality of life in the
+Great Plains in addition to training future
+teachers and professional and amateur musicians.
+Six music programs in higher education
+have a tradition of musical excellence and represent
+the impact that all of the schools and
+departments of music have had on the people
+of the Great Plains.</p>
+
+<p>Two of these music programs, the University
+of Kansas and the University of Nebraska.
+Lincoln, are among the oldest in the Great
+Plains. They are geographically close to each
+other, and their music programs developed at
+approximately the same time. Both music
+programs were granted membership in the
+National Association of Schools of Music
+(<hi rend="smallcaps">NASM</hi>) in 1928, the first year nasm began
+awarding national accreditation. The first evidence
+of a music department at the University
+of Kansas appears in the university catalog of
+1877-78, which lists music by special instructors.
+In 1884 a committee introduced music
+study to the curriculum to furnish instruction
+in all branches of music to both amateur and
+professional students, to combine music with
+regular collegiate work, and to train teachers.
+The idea that all three could be offered in a
+single department was unheard-of before 1884
+and was not generally accepted until well after
+World War I.</p>
+
+<p>The University of Nebraska catalog of 1877
+describes the availability of vocal and instrumental
+study. The names of several different
+music instructors appear in the records between
+1877 and 1887. In 1892 a plan was presented
+to enhance the music program by establishing
+a conservatory that would operate as a
+separate entity by generating its own funds.
+The conservatory would serve the university
+by offering instruction for which credit would
+be granted. The current School of Music at the
+University of Nebraska-Lincoln evolved from
+this plan and was officially founded in 1894.
+The following description of the School of Music
+appeared in a 1910 issue of the <title level="j">Musical Courier</title>: "It stands here in a city of 40,000 inhabitants,
+situated in the center of a great prairie,
+isolated from all the great art centers of the
+United States." The board of regents purchased
+the School of Music in 1930, and it became an
+official academic unit of the University of
+Nebraska-Lincoln.</p>
+
+<p>Two additional institutions developed comprehensive
+music programs in the Great
+Plains. The School of Music at the University of
+Oklahoma became one of the first music programs
+in the country to be granted membership
+in <hi rend="smallcaps">NASM</hi> in 1931, and the music program at
+the University of Colorado grew to become a
+College of Music and was awarded accreditation
+in <hi rend="smallcaps">NASM</hi> in 1941.</p>
+
+<p>Alberta College in Edmonton is one of Canada's
+oldest arts institutions. The music department,
+now the Conservatory of Music, was
+established in 1903 and has become one of the
+largest music programs in Canada. The School
+of Music at the University of Manitoba can be
+traced to 1944, when students in arts and sciences
+could minor in music with courses in
+music theory and music history. A degree program
+in music was instituted in 1963.</p>
+
+<closer>
+<signed>Lawrence R. Mallett<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

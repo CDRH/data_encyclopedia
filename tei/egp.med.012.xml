@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cronkite, Walter Leland (b. 1916)</title>
+<title level="m" type="sub"></title>
+<author>Doug James</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="James, Doug">Doug James</author>. <title level="a">"Cronkite, Walter Leland (b. 1916)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">509</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">CRONKITE, WALTER LELAND (b. 1916)</head>
+
+<p>Walter Leland Cronkite Jr., the American
+journalist whose objectivity and credibility
+prompted <title level="j">Time</title> magazine to name him the
+most trusted man in America, greatly influenced
+the development of national television
+news reporting while serving as anchor and
+managing editor at <hi rend="smallcaps">CBS</hi> News from 1962 to
+1981.</p>
+
+<p>Cronkite was born November 4, 1916, in St.
+Joseph, Missouri. When his dentist father received
+a World War I army commission in
+1917, the family moved to Kansas City, Missouri.
+In 1928 the family relocated to Houston,
+Texas. Cronkite graduated from high school
+in 1933 and enrolled as a political science major
+at the University of Texas at Austin. Uncertain
+about his future vocation, he dropped out
+of college in 1935 and worked at a wide variety
+of jobs over much of the Midwest. After his
+1940 marriage to Betsy Maxwell, Cronkite and
+his wife moved to New York City, where he
+had been assigned to the United Press foreign
+office.</p>
+
+<p>In 1942 Cronkite accepted a position as a
+war correspondent based in London, where
+he distinguished himself for bravery and professionalism.
+Following the surrender of Nazi
+Germany in 1945, he was named chief United
+Press correspondent at the Nuremberg war
+trials. In 1946 he was sent to Moscow for two
+years, accompanied by his wife. At Edward R.
+Murrow's invitation, Cronkite left United
+Press in 1948 to work at radio station kmbd in
+Washington <hi rend="smallcaps">DC</hi>. In 1951 after joining cbsowned
+television station <hi rend="smallcaps">WTOP</hi>, his <title>Man of the Week</title> program attracted the attention of <hi rend="smallcaps">CBS</hi>
+executives. He was chosen to cover the first
+televised national political convention in 1952
+in Chicago as well as every ensuing convention
+while he was with <hi rend="smallcaps">CBS</hi> News. Cronkite
+was transferred by <hi rend="smallcaps">CBS</hi> to New York City in
+1953 to host <title>The Twentieth Century</title>, <title>Eyewitness to History</title>, and <title>You Are There</title>.</p>
+
+<p>In 1961 America was introduced to the space
+age with Cronkite's televised live launch of
+Alan B. Shepard, the first American in space.
+Cronkite covered every manned <hi rend="smallcaps">NASA</hi> flight
+until his retirement. After a 1968 fact-finding
+trip to Southeast Asia, Cronkite declared his
+opposition to the increasingly unpopular Vietnam
+War on a special news program and challenged
+the misleading optimism expressed by
+governmental officials. His pronouncement
+had a powerful impact on American politics,
+influencing Lyndon Johnson's decision not to
+run for reelection as president.</p>
+
+<p>Cronkite, an outspoken defender of First
+Amendment rights, received most of the
+credit&#8211;or blame&#8211;for exposing the multifarious
+criminal activities of members of
+Richard Nixon's White House staff as they attempted
+to cover up the Watergate break-in.
+Intense pressure from the public and news
+media eventually brought down the entire
+Nixon administration.</p>
+
+<p>Cronkite was also responsible for opening
+the dialogue between Israeli prime minister
+Menachem Begin and Egyptian president Anwar
+Sadat, giving President Jimmy Carter the
+opportunity to secure an agreement of cooperation
+between the two nations in a historic
+1979 White House ceremony.</p>
+
+<p>By the time Cronkite retired from cbs in
+1981, he had received every major broadcasting
+honor as well as the Presidential Medal of
+Freedom awarded to him by President Jimmy
+Carter.</p>
+
+<closer>
+<signed>Doug James<lb/>
+Spring Hill College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>James, Doug. <title level="m">Walter Cronkite: His Life and Times</title>. Nashville:
+<hi rend="smallcaps">JMP</hi> Press, 1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

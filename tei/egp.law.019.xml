@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Haskell, Ella Knowles (1860-1911)</title>
+<title level="m" type="sub"></title>
+<author>John R. Wunder</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wunder, John R.">John R. Wunder</author>. <title level="a">"Haskell, Ella Knowles (1860-1911)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">452</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HASKELL, ELLA KNOWLES (1860-1911)</head>
+
+<p>On a December evening in 1889, after Cornelius
+Hedges and two other Montana lawyers
+had conducted an unusual bar exam, Hedges
+wrote in his diary, "Examined Miss Knowles
+for admission to the Bar and was surprised to
+find her so well read. She beat all that I have
+ever examined." Ella Knowles Haskell might
+have enjoyed that assessment had she ever
+read it, because the words summarized her
+life.</p>
+
+<p>Born July 31, 1860, in Northwood Ridge,
+New Hampshire, Ella Knowles became a
+woman of many firsts. She would be the first
+woman to become a lawyer in Montana, the
+first woman to run for a major political party
+for state attorney general, and probably the
+first woman to serve as an assistant state attorney
+general and represent a state before a
+state supreme court.</p>
+
+<p>Ella's early years were spent in New Hampshire
+and Maine, where she embraced education
+and sought to expand women's rights. At
+age twenty she entered Bates College as one of
+its first women students. She graduated in
+1884 magna cum laude and started to read law
+in a New Hampshire law office.</p>
+
+<p>Ella Knowles then developed an illness for
+which she was advised to move West. In 1888
+she arrived in Helena, Montana, and thereafter
+claimed Montana as her permanent home.
+After teaching for a year in Helena, she resolved
+to begin preparing for a legal career by
+reading law with local attorney Joseph W.
+Kinsley. In order to practice law, however, Ella
+had to persuade the Montana territorial legislature
+to change Montana's law that restricted
+legal practice to men, and then she needed to
+pass a bar exam. In February 1889 the legislature
+revised its laws to allow women to practice
+law, and that December Ella Knowles easily
+passed her bar exam.</p>
+
+<p>Knowles opened her own law office in 1891.
+She prevailed in her first case, suing a black
+restaurant owner in justice of the peace court
+on behalf of a Chinese client who had been
+employed in the restaurant and cheated out of
+$5 of back wages.</p>
+
+<p>Ella Knowles quickly made a reputation as a
+progressive and energetic lawyer, and it resulted
+in her nomination in 1892 by the Populist
+Party to run for attorney general. Although
+she came in a close third, losing to
+Republican incumbent Henri Haskell, she
+garnered more statewide votes than any other
+Populist candidate. Prior to the campaign,
+Haskell had gained authorization to hire an
+assistant attorney general, and after the campaign
+he offered the position to Ella Knowles.
+She accepted and proceeded to represent the
+state in public lands issues, and she defended
+the state's anti-Chinese legislation before the
+Montana Supreme Court. In May 1895 Ella
+Knowles married Haskell, and as Ella Knowles
+Haskell she continued to represent the state
+of Montana until her husband's term expired
+in 1896.</p>
+
+<p>During these years Ella was active politically.
+In 1896 she was chosen president of the
+Montana Women Suffrage Association. That
+same year she was selected to attend the Populist
+Party's national convention in Omaha. She
+went on the stump for William Jennings
+Bryan in both the 1896 and 1900 presidential
+campaigns.</p>
+
+<p>In 1897 Ella divorced Henri Haskell and relocated
+eventually in Butte, where she hung up
+her shingle once again. Over the next fourteen
+years she became an expert on mining law,
+corporate law, and property law. She also accumulated
+significant wealth from investments
+in mines and from her corporate work
+and continued to lecture on woman's rights in
+Montana, the Great Plains, and the West.</p>
+
+<p>On January 27, 1911, Ella Knowles Haskell
+died from an infection at her home in Butte at
+the young age of fifty.</p>
+
+<closer>
+<signed>John R. Wunder<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Larson, T. A. "Montana Women and the Battle for the
+Ballot." <title level="j">Montana: The Magazine of Western History</title> 28
+(1973): 24–41.</bibl> <bibl>Roeder, Richard B. "Crossing the Gender
+Line: Ella L. Knowles, Montana's First Woman Lawyer."
+<title level="j">Montana: The Magazine of Western History</title> 32 (1982): 64–
+75.</bibl> <bibl>Wunder, John R. "Law and Chinese in Frontier Montana."
+<title level="j">Montana: The Magazine of Western History</title> 30
+(1980): 18–31.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

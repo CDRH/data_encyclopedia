@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nimitz, Chester (1885-1966)</title>
+<title level="m" type="sub"></title>
+<author>Dede Weldon Casad</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.031</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Casad, Dede Weldon">Dede Weldon Casad</author>. <title level="a">"Nimitz, Chester (1885-1966)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">832</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NIMITZ, CHESTER (1885-1966)</head>
+<figure n="egp.war.031" rend="granted" type="noclick">
+<figDesc>"Fleet Admiral Chester W. Nimitz, USN Oil on canvas" (Adrian Lamb, 1960)</figDesc>
+</figure>     
+
+<p>Chester William Nimitz was born in Fredericksburg,
+Texas, on February 24, 1885, to Chester
+Bernard, a cattle driver, and Anna (Henke)
+Nimitz. Chester's father died before he was
+born. He was raised by his mother and his
+paternal grandfather, Charles H. Nimitz. The
+grandfather, a German immigrant and lover
+of the sea, built a steamboat-shaped hotel in
+Fredericksburg, the Nimitz Hotel, that still existed
+at the beginning of the twenty-first century.
+Young Chester listened with wide eyes to
+stories of his grandfather's youth in the German
+merchant marines.</p>
+
+<p>Nimitz graduated from the U.S. Naval
+Academy in Annapolis, Maryland, on January
+30, 1905, seventh in a class of 114. For thirty-five
+years Nimitz performed his duties in the
+U.S. Navy, rising to the rank of admiral. On
+December 17, 1941, ten days after the bombing
+of Pearl Harbor, Nimitz was appointed commander
+in chief of the Pacific Fleet. Admiral
+Nimitz quickly rebuilt the fleet into the largest
+military armada ever assembled and launched
+an offensive, with raids on Wake Island, the
+Gilbert Islands, the Marshall Islands, and New
+Guinea. He handed the Japanese their first
+major setback at Midway Island in June 1942
+and continued the offensive in the Pacific until
+the Japanese defeat. Along with Gen. Douglas
+MacArthur, Nimitz signed the Japanese surrender
+agreements.</p>
+
+<p>Chester Nimitz was the first naval officer to
+acquire five stars. In response to Nimitz's generosity
+in returning to the Japanese their samurai
+swords, the Japanese government built a
+Garden of Peace behind the Nimitz Hotel in
+Fredericksburg as a tribute to his goodwill.
+Nimitz died on February 20, 1966, near San
+Francisco and was buried in Golden Gate National
+Cemetery.</p>
+
+<closer>
+<signed>Dade Weldon Casad<lb/>
+Dallas, Texas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Driskill, Frank A., and Dede Weldon Casad. <title level="m">Chester W.
+Nimitz: Admiral of the Hills</title>. Austin <hi rend="smallcaps">TX</hi>: Eakin Press, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

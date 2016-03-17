@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Aughey, Samuel, Jr. (1831-1912)</title>
+<title level="m" type="sub"></title>
+<author>Margaret R. Bolick</author>
+<author>Hugh H. Genoways</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bolick, Margaret R.">Margaret R. Bolick</author> and <author n="Genoways, Hugh H."> Hugh H. Genoways</author>. <title level="a">"Aughey, Samuel, Jr. (1831-1912)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">619</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">AUGHEY, SAMUEL, JR. (1831-1912)</head>
+
+<p>Samuel Aughey Jr. was a minister and naturalist/
+geologist in Nebraska and Wyoming from
+1864 until 1886. He was born on February 8,
+1831, near MiÄin, Pennsylvania, the son of
+Samuel and Elizabeth Kepner Aughey. He
+graduated from Pennsylvania College (now
+Gettysburg College) in 1856 and then attended
+seminary there. Aughey came to Dakota City,
+Nebraska, in 1864 as a "home missionary" for
+the Lutheran Church. After resigning this position
+in 1867, he worked for the Dakota County
+government from 1866 until 1869 as superintendent
+of public instruction and county surveyor.
+He was named the first professor of natural
+science at the University of Nebraska in
+Lincoln in 1871.</p>
+
+<p>Despite heavy teaching responsibilities,
+Aughey published widely on the geology, botany,
+and zoology of Nebraska. The work was
+of uneven quality; when scientific information
+conflicted with his desire to promote the
+Plains as an ideal place for settlers, his promotional
+instincts often won. For example, writing
+in 1880 during one of Nebraska's wetter
+periods, Aughey confidently asserted that the
+act of cultivating the soil was responsible for
+increased rainfall. This apocryphal theory,
+"rainfall follows the plow," did not survive the
+devastating drought of the 1890s. Aughey was
+also instrumental in the founding of both the
+Nebraska State Historical Society and the Nebraska
+Academy of Sciences, serving as the
+first secretary of the former and the first president
+of the latter.</p>
+
+<p>Aughey's relationship with the University of
+Nebraska began to deteriorate in the early
+1880s. In 1883, he was involved in a financial
+scandal that precipitated his resignation from
+the university. He subsequently became territorial
+geologist for Wyoming. A smelting accident
+in 1886 left him with severe heavy metal
+poisoning and ended his career as a geologist
+and his time as a resident of the Great Plains.</p>
+
+<p>Aughey had married Elizabeth Catherine
+Welty on October 14, 1858. They had three
+children, only one of whom, Helen Barbara,
+survived childhood. Aughey died on February
+3, 1912, in Spokane, Washington.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.049">Rainfall Follows the Plow</ref>.</p>
+
+<closer>
+<signed>Margaret R. Bolick<lb/>
+University of Nebraska-Lincoln<lb/>
+Hugh H. Genoways<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Aughey, Samuel. <title level="m">Sketches of the Physical Geography and
+Geology of Nebraska</title>. Omaha: Daily Republican Book,
+1880.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

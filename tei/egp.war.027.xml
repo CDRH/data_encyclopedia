@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mackenzie, Ranald (1840-1889)</title>
+<title level="m" type="sub"></title>
+<author>Michael D. Pierce</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pierce, Michael D.">Michael D. Pierce</author>. <title level="a">"Mackenzie, Ranald (1840-1889)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">831</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MACKENZIE, RANALD (1840-1889)</head>
+
+<p>Ranald Slidell Mackenzie was one of the most
+capable officers in the frontier army and
+would probably be one of the most famous
+were it not for the circumstances of his retirement
+and death. Mackenzie was born on July
+27, 1840, near Tarrytown, New York. He entered
+the U.S. Military Academy at West Point
+in 1858 and graduated first in his class in 1862.
+During the Civil War, Mackenzie gained a reputation
+for bravery and distinguished leadership
+and finished the war with the rank of
+major general.</p>
+
+<p>After the war, Mackenzie served briefly with
+the Army Corps of Engineers before being assigned
+to a field command. In 1871 he was
+given command of the Fourth Cavalry Regiment
+with the rank of colonel. In the next few
+years Mackenzie pioneered the use of large
+bodies of troops on the Llano Estacado in
+Texas, fought several engagements with Comanches
+and Kiowas, and led a controversial
+raid on a Kickapoo village in northern Mexico.
+Mackenzie's most famous fight was his
+victory at the Battle of Palo Duro Canyon,
+which was instrumental in putting an end to
+the Red River War. In 1876 Mackenzie participated
+in Gen. George Crook's campaign
+against the Northern Plains Indians. He spent
+the rest of his active career as a roving troubleshooter
+on the Texas border and in New
+Mexico, Arizona, and Colorado.</p>
+
+<p>In November 1883 Mackenzie, now a brigadier
+general, established his headquarters in
+San Antonio as the new commander of the
+Department of Texas. By this time he was behaving
+in an erratic manner, and his condition
+quickly deteriorated. After an incident
+that left him beaten and tied to a wagon wheel,
+Mackenzie's aides put him on a train to New
+York, where he was briefly committed to the
+Bloomingdale Asylum. He was released after a
+few weeks but never regained mental stability.
+He died on January 19, 1889, almost forgotten
+by the general public, and was buried at West
+Point, New York.</p>
+
+<closer>
+<signed>Michael D. Pierce<lb/>
+Tarleton State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Pierce, Michael D. <title level="m">The Most Promising Young Officer: A
+Life of Ranald Slidell Mackenzie</title>. Norman: University of
+Oklahoma Press, 1993.</bibl> <bibl>Wallace, Ernest, ed. Ranald S. <title level="m">Mackenzie's
+Official Correspondence Relating to Texas, 1871-1879</title>. Lubbock: West Texas Museum Association, 1967-68.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

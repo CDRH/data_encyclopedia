@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pe.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cottonwoods</title>
+<title level="m" type="sub"></title>
+<author>Walter T. Bagley</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pe.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Bagley, Walter T.">Walter T. Bagley</author>. <title level="a">"Cottonwoods."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">625</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COTTONWOODS</head>
+
+<p>Cottonwoods, tall and stately pioneer invaders
+of the prairies&#8211;though few and far between
+when European Americans first came to the
+Great Plains&#8211;served as prominent landmarks
+and shady respites for those who traversed the
+region. They often marked a source of water
+and provided fuel for campsites. The cottonwood
+population increased dramatically with
+the coming of the plow and the demise of
+prairie wildfires. The seedlings that sprouted
+on sandbars were collected by early settlers
+and planted at their homesites for shade and
+wind shelter.</p>
+
+<p>Today, cottonwoods continue to be an important
+part of farmstead windbreaks and
+field shelterbelts. Natural cottonwood stands
+are one of the main sources of sawtimber harvested
+in the Great Plains. The lumber, though
+lightweight and soft, is used for pallets and
+light construction. These fast growing, easily
+propagated trees are also used to provide fiber
+for high-quality paper.</p>
+
+<p>Cottonwoods&#8211;members of the genus Populus
+in the willow family (Salicaceae)&#8211;are
+most at home along flowing streams and level,
+subirrigated uplands where soil moisture is
+plentiful. They bear wind-pollinated flowers.
+After pollination capsules release large numbers
+of tiny, cottony, winged seeds in early
+summer that must germinate and take root in
+a matter of hours or perish because they do
+not contain their own built-in food supply.
+Most species of <hi rend="italic">Populus</hi> will also reproduce
+readily by stump and root sprouts. They can
+be propagated by hardwood cuttings as well.</p>
+
+<p>Eastern cottonwood (<hi rend="italic">P. deltoides</hi>) and its
+western variety plains cottonwood (<hi rend="italic">var. occidentalis</hi>)
+grow throughout the Great Plains
+from the Rio Grande to the Prairie Provinces
+of Canada. The national cochampion eastern
+cottonwood stood ninety-six feet tall near
+Arapahoe, Nebraska, until it was severely
+damaged by wind. The national champion
+plains cottonwood stands 105 feet tall near
+Hygiene, Colorado.</p>
+
+<p>Other cottonwood species native to the
+Great Plains are the narrowleaf cottonwood
+(<hi rend="italic">P. anqustifolia</hi>) and the lanceleaf cottonwood
+(<hi rend="italic">p. xacuminata</hi>), which is believed to be a natural
+cross between the eastern and narrowleaf
+cottonwoods. Closely related family members
+&#8211;balsam poplar (<hi rend="italic">P. balsamifera</hi>) and quaking
+aspen (<hi rend="italic">P. tremuloides</hi>)&#8211;are natives of northern
+portions of the Great Plains.</p>
+
+<closer>
+<signed>Walter T. Bagley<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>American Forestry Association. <title level="m">National Register of Big
+Trees</title>. Washington <hi rend="smallcaps">DC</hi>, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

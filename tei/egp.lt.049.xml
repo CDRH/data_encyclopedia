@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountie Stories</title>
+<title level="m" type="sub"></title>
+<author>Dick Harrison</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Harrison, Dick">Dick Harrison</author>. <title level="a">"Mountie Stories."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">486</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MOUNTIE STORIES</head>
+
+<p>Mountie stories were once the most popular
+adventure fiction of the Canadian Prairies, but
+by the 1950s they were overtaken by history and
+changing fashion. Soon after they came west,
+the North-West Mounted Police were discovered
+by the international entertainment industry,
+with nineteenth-century adventure
+writers creating various romantic images of
+the force. British writers such as John Mackie
+and Harold Bindloss depicted Mounties as
+well-bred Englishmen defending the ideals of
+empire. The Mounties of American writers
+such as James Oliver Curwood were U.S. marshals
+in red tunics, given to shootouts and extralegal
+justice. By contrast, the Canadian
+Mountie hero popularized by Charles Gordon
+and Gilbert Parker could ride into a hostile
+Indian camp and arrest the chief 's son without
+unholstering his weapon because he eschewed
+violence: his uncanny power resided not in
+himself but in the empire he symbolized.</p>
+
+<p>Mountie stories appeared regularly through
+the 1940s, but by 1930 virtually none were
+being published in Canada. Canadian publishers
+were losing interest probably because,
+with Canada's growing independence, a hero
+embodying a discarded myth of empire was
+an embarrassment. The fictional Mountie was
+left largely to Hollywood, which had already
+produced more than 200 movies projecting
+the American image of the force. Aside from
+historical studies, Mounties in Canada usually
+feature in ironic or satiric sketches on radio or
+television. The crowning irony may be the sale
+of the rights to the Mountie image to the Disney
+Corporation in 1995, completing the circle
+of an old British colonial symbol absorbed in
+the new American colonization of Canadian
+culture.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">LAW</hi>: <ref n="egp.law.038">North-West Mounted Police</ref>.</p>
+
+<closer>
+<signed>Dick Harrison<lb/>
+Sechelt, British Columbia</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dawson, Michael. <title level="m">The Mountie: From Dime Novel to Disney</title>.
+Toronto: Between the Lines, 1998.</bibl> <bibl>Harrison, Dick, ed.
+<title level="m">Best Mounted Police Stories</title>. Edmonton: University of Alberta
+Press, 1978.</bibl> <bibl>Walden, Keith. <title level="m">Visions of Order: The Canadian Mounties in Symbol and Myth</title>. Toronto: Butterworths,
+1982.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

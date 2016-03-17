@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Norris, George W. (1861-1944)</title>
+<title level="m" type="sub"></title>
+<author>David Landis</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.058</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Landis, David">David Landis</author>. <title level="a">"Norris, George W. (1861-1944)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">681</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NORRIS, GEORGE W. (1861-1944)</head>
+
+<p>George William Norris represented Nebraska
+for forty years in the House of Representatives
+and U.S. Senate, passing significant liberal legislation
+as a maverick Republican and Independent.
+Norris was born on July 11, 1861, near
+Clyde, Ohio. He grew up on his family farm,
+where he learned temperance, fear of debt,
+and Lincoln Republicanism from his widowed
+mother. After graduating from Northern Indiana
+Normal School (later Valparaiso University),
+George failed as a lawyer in Walla
+Walla, Washington, and Beatrice, Nebraska,
+before moving to Beaver City and then McCook, Nebraska, where he married the daughter
+of a prominent family and became county
+attorney and then district judge.</p>
+
+<p>In 1902 he was elected as a Republican to
+Congress; he spent the next ten years in growing
+disenchantment with Republican leaders
+and extreme partisanship. He led a revolt of
+insurgents and Democrats to limit the powers
+of the Speaker of the House, Republican Joe
+Cannon, in 1910, which earned Norris a chapter
+in John Kennedy's <title level="m">Profiles in Courage</title>. Election
+to the Senate in 1912, again as a Republican,
+gave Norris a national platform as a
+political and economic democrat often at odds
+with Republican leadership. He supported unreservedly
+the initiative, referendum, recall, a
+strong civil service, and abolishing the Electoral
+College and the poll tax. He opposed the
+excesses of partisanship.</p>
+
+<p>Endorsing Franklin Roosevelt's successful
+candidacy in 1932 changed Norris's role from
+gadfly critic to architect of major legislation.
+Economic democracy was the recurring theme
+of Norris's legislation. The Norris-LaGuardia
+Act of 1932 curtailed federal court injunctions
+against labor unions. Norris introduced and
+enabled passage that same year of the Twentieth
+Amendment to the U.S. Constitution,
+which ended lame-duck sessions of Congress,
+notorious for special interest influence.</p>
+
+<p>Norris took his greatest satisfaction from
+passage of the Tennessee Valley Authority Act
+in 1933, which harnessed hydroelectric power
+under public ownership. Rural electric cooperatives
+brought light and power to American
+farms under the Norris-Rayburn Act of 1936.
+In Nebraska, Norris successfully led the 1934
+petition drive for a nonpartisan unicameral to
+limit special interest and party boss influence.
+His final Senate term was as an Independent,
+and he lost his 1942 reelection bid. An autobiography,
+The Fighting Liberal, was finished
+eight weeks before his death at McCook on
+September 2, 1944.</p>
+
+<closer>
+<signed>David Landis<lb/>
+Nebraska Legislature</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lowitt, Richard. <title level="m">George W. Norris: The Making of a Progressive,
+1861–1912</title>. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 1963.</bibl>
+<bibl>Lowitt, Richard. <title level="m">George W. Norris: The Persistence of a
+Progressive, 1913–1933</title>. Chicago: University of Illinois
+Press, 1971.</bibl> <bibl>Lowitt, Richard. <title level="m">George W. Norris: The Triumph
+of a Progressive</title>. Chicago: University of Illinois Press,
+1978.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

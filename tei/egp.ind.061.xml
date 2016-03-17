@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ind.061">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wind Energy</title>
+<title level="m" type="sub"></title>
+<author>Ernest Callenbach</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ind.061</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Callenbach, Ernest">Ernest Callenbach</author>. <title level="a">"Wind Industry."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">437</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">WIND ENERGY</head>
+
+<p>The Great Plains has been called the "Saudi
+Arabia of Wind Energy" because its resources
+for wind power are so immense, but development
+of those resources has been slow. Several
+important long-term factors favor extensive
+development of the industry in the Plains:
+wind power is independent of the fluctuations
+of the world energy market, which many analysts
+expect to become more extreme; it has a
+low impact on the environment; and, because
+wind towers need very small footprints and
+wind farm wires are underground, it is compatible
+with grazing, farming, and other
+Plains land uses. Indeed, for individual farmers
+and ranchers, wind farm lease royalties can
+greatly surpass other income.</p>
+
+<p>Through sophisticated engineering of blades
+and other turbine components, the costs per
+kilowatt-hour of wind power have been dropping
+steadily for many years. Only natural
+gas-burning turbines now produce cheaper
+power, and high-tech wind turbines are predicted
+to soon equal their costs&#8211;sooner if fossil
+fuel costs rise, as many expect. In some
+parts of the Great Plains, wind power is already
+effectively cheaper than gas when all
+costs, for example, transportation of fuel, are
+taken into account. However, Plains state governments,
+universities, and private utilities
+have all been slow in recognizing the manifold
+advantages of wind power for the region.
+Wind facilities are presently concentrated
+where state governments have acknowledged
+the potential of wind power (Texas primarily,
+but Colorado and Kansas have also offered incentives
+for "green" power). As of 1999, wind
+turbine installations also exist in Wyoming,
+Nebraska, and North Dakota.</p>
+
+<p>According to prospectors who have assessed
+the Plains winds, North Dakota alone has wind
+resources that, if harnessed, could provide
+about a third of the entire country's electricity
+demand, and the Plains as a whole could provide
+all the power the country could foreseeably
+need. However, because of the economics
+of the electrical industry, wind power is likely
+to evolve as a largely local institution in the
+thinly settled Plains. As utilities planners have
+recently recognized, electrical distribution is
+more costly than electrical generation. This
+fact has implications both for generating strategies
+and for grid planning. For the Plains, it
+means that wind farm development is likely to
+be relatively decentralized, a pattern that will
+minimize grid investment needs. It is also
+likely to suit the desire of Plains people for local
+control rather than dependence on distant
+powerful forces. Because transmission costs
+and losses favor consumption of power nearer
+points of generation, state-scale or local generating
+facilities are probable. They will also have
+the advantage of increasing local grid reliability
+in case national power shortages occur. A
+Danish-owned, thirteen-employee wind machine
+blade factory has recently been set up in
+Wisconsin, and other manufacturing and installing
+companies should follow in the Plains
+proper. Wind farms provide more numerous
+jobs per million dollars of investment than any
+other means of generating power—and without
+the boom-and-bust pattern of oil and coal.
+Individual farmers and ranchers with their
+own turbines will also find themselves able in
+especially windy spells to sell excess power to
+the grid through reverse metering.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.068">Wind</ref>.</p>
+
+<closer>
+<signed>Ernest Callenbach<lb/>
+Berkeley, California</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Righter, Robert W. <title level="m">Wind Energy in America: A History</title>.
+Norman: University of Oklahoma Press, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

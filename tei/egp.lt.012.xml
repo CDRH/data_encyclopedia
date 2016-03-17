@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cowboy Poetry</title>
+<title level="m" type="sub"></title>
+<author>James Hoy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.012</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoy, James">James Hoy</author>. <title level="a">"Cowboy Poetry."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">476</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">COWBOY POETRY</head>
+
+<p>Ever since cattle first trod the Chisholm Trail
+to Abilene in 1867, cowboys have been composing
+verse, some of it sung as song lyrics,
+some of it published in livestock journals, and
+some of it recited as poetry around campfires
+or in bunkhouses. In fact, according to cowboy
+folk song authority Guy Logsdon, no
+other occupational folk group in this country
+has produced as much verse, partly because of
+subject matter (the cowboy's exciting and
+sometimes dangerous work occurs amidst
+beautiful natural surroundings) and partly
+because of opportunity (the cowboy has sufficient leisure, whether on the back of a horse
+or behind the steering wheel of a pickup, in
+which to reflect and compose). The cowboy,
+in essence, puts into practice Wordsworth's
+theoretical definition of poetry as emotion
+recollected in tranquility.</p>
+
+<p>In form, traditional cowboy poetry is rhymed
+and metrically regular, usually cast in ballad
+stanzas or tetrameter stanzas with second and
+fourth lines rhyming and with narrative a predominant
+element. While in earlier years cowboy
+poetry tended to reflect the episodes and
+duties of actual ranch work, recently innovative
+cowboy poets have written in free verse
+and have expanded their subject matter to include
+themes such as the environment and
+economic or governmental threats to the cowboy
+way of life. In contrast to much mainstream
+academic poetry, cowboy poetry is
+marked by accessibility to a general audience
+and emphasizes public oral performance.</p>
+
+<p>Unlike the more visible aspects of cowboy
+culture that were earlier adapted into our
+popular culture, however, authentic cowboy
+verse remained essentially unknown beyond
+range country until the first Cowboy Poetry
+Gathering, held at Elko, Nevada, in 1985. Since
+then cowboy poetry has enjoyed a renaissance,
+with scores of gatherings being held throughout
+the West and performers such as Baxter
+Black and Waddie Mitchell gaining national
+prominence. Although this recent surge of
+popularity has attracted a host of less-than-skilled
+practitioners, the work of cowboy poets
+such as J. B. Allen, Wallace McRae, Vess
+Quinlan, Buck Ramsey, Andy Wilkinson, and
+Paul Zarzyski, among many others, has the
+technical skill, intellectual rigor, and universality
+of emotion that are the hallmarks of
+lasting poetry.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">IMAGES AND ICONS</hi>: <ref n="egp.ii.015">Cowboy Culture</ref>
+/ <hi rend="smallcaps">MUSIC</hi>: <ref n="egp.mus.012">Cowboy Music</ref>.</p>
+
+<closer>
+<signed>James Hoy<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Cannon, Hal, ed. <title level="m">Cowboy Poetry: A Gathering</title>. Salt Lake
+City: Gibbs Smith, 1985.</bibl> <bibl>Lomax, John. <title level="m">Cowboy Songs and Other Frontier Ballads</title>. New York: Macmillan Company,
+1910.</bibl> <bibl>Thorp, N. Howard (Jack). <title level="m">Songs of the Cowboys</title>.
+Boston: Houghton Mifflin, 1921.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

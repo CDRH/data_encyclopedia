@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Omaha Race Riot</title>
+<title level="m" type="sub"></title>
+<author>Orville D. Menard</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Menard, Orville">Orville Menard</author>. <title level="a">"Omaha Race Riot."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">19</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">OMAHA RACE RIOT</head>
+<figure n="egp.afam.032" rend="granted" type="noclick">
+<figDesc>"Rioters on the south side of Douglas County Courthouse,Omaha, Nebraska,September 28, 1919." (NSHS RG2281-72). (nebraskastudies.org)</figDesc>
+</figure>     
+
+<p>During the frenzy of a riot in Omaha, Nebraska,
+on September 28, 1919, Will Brown,
+an African American, was lynched near the
+Douglas County courthouse. He was accused
+of raping Agnes Loebeck, a white woman.
+Identified by Loebeck and Milton Hoffman,
+the young man with her on the night of the
+alleged attack, Brown had been taken to the
+police station and then transferred to the
+courthouse jail. On Sunday morning, the
+twenty-eighth, a crowd of mostly young men
+gathered at a school on the south side and was
+led downtown by Hoffman, adding followers
+as it progressed.</p>
+
+<p>Earlier in the afternoon the situation
+seemed nonthreatening, but it turned ugly as
+time passed and more people appeared on the
+scene. From 300 at the school, the crowd increased
+late in the day to an estimated 4,000
+at the courthouse. Demanding that Brown
+be handed over to them, the demonstrators
+turned on the police and set the courthouse on
+fire. When firefighters appeared, their hoses
+were cut into pieces by rioters who had broken
+into nearby hardware stores and stolen axes as
+well as firearms. Mayor Edward P. Smith was at
+the scene and came out of the courthouse at
+about 10:30 p.m. to try to restore order. He
+became a target of the mob and was nearly
+lynched himself before being rescued.</p>
+
+<p>The mob then turned its attention back to
+Brown, who along with other prisoners had
+been taken to the roof of the courthouse as the
+fire spread. Finally the rioters achieved their
+goal and Brown was taken and reportedly
+handed over the heads of the rioters down
+the stairs. By the time the ground floor was
+reached, he had likely been beaten to death.
+Hoisted into the air on a lynch rope, his swaying
+body was then riddled with bullets. Not
+yet satisfied, the crowd pulled his corpse to a
+nearby intersection where he was burned, and
+what remained of Will Brown was then towed
+about downtown Omaha. The victim's death
+certificate gave his age as "about 40," marital
+status unknown, birthplace left blank, and the
+principal cause of death bullet wounds and
+strangulation.</p>
+
+<p>During the night federal troops restored
+order, and in the morning, armed with machine
+guns, they guarded downtown streets.
+Several arrests were made in the following
+days for complicity in the riot, but a grand
+jury's deliberations resulted in only a few indictments
+of little consequence.</p>
+
+<p>Omaha was not the only city where rioting
+blighted the summer and fall of 1919. Chicago
+and Washington dc, among others, had outbreaks
+of racial violence and deaths. But in
+Omaha racial tensions may have been orchestrated
+for political purposes. A reform movement's
+candidates had been elected in 1918,
+defeating the political machine headed by
+Thomas "Old Man" Dennison that had dominated
+city hall for two decades. Direct accusations
+by church leaders and an assessment
+by Gen. Leonard Wood assigned responsibility
+for the lynching to political ambition.
+They asserted that to discredit the reformers,
+Dennison and his newspaper ally, the Omaha
+Bee, exaggerated crime and racial tensions to
+create the atmosphere that exploded on September
+28, 1919. Two years later voters restored
+the Dennison slate to office. Will Brown appears
+to have been the victim of political
+machinations as well as racial prejudice.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">CITIES AND TOWN</hi>: <ref n="egp.ct.037">Omaha, Nebraska</ref>.</p>
+
+
+<closer>
+<signed>Orville D. Menard<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Menard, Orville D. <title level="m">Political Bossism in Mid-America: Tom
+Dennison's Omaha</title>. Lanham <hi rend="smallcaps">MD</hi>: University Press of
+America, 1989.</bibl> <bibl>Menard, Orville D. "<title level="a">Tom Dennison, the
+Omaha Bee, and the 1919 Omaha Race Riot</title>." <hi rend="italic">Nebraska
+History</hi> 68 (1987): 152–65.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

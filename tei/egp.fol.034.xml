@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.034">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Plant Lore</title>
+<title level="m" type="sub"></title>
+<author>Kelly Kindscher</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.034</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kindscher, Kelly">Kelly Kindscher</author>. <title level="a">"Plant Lore."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">309</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">PLANT LORE</head>
+
+<p>The uses of native plants of the Great Plains
+for food, medicine, and utilitarian purposes
+were many and of profound importance to
+the Native Americans. Plant lore has declined
+dramatically since European American settlement,
+and the majority of foods and virtually
+all medicines today are imported into the region.</p>
+
+<p>The Great Plains has more than 3,000 plant
+species. All Native American tribes of the region
+used numerous plant species, totaling in
+the hundreds. Most of the knowledge of their
+uses for food, medicine, and utilitarian purposes
+was held in oral histories, and many Native
+American uses continue today on Plains
+reservations. Anthropologists and ethnobotanists
+have recorded much information on the
+topic. Not surprisingly, most plants utilized
+were prairie plants, although some trees and
+shrubs also had important uses.</p>
+
+<p>More native prairie plants (over 200) have
+been documented as being used by Plains Indians
+for medicine than for any other use.
+Some, such as yarrow (<hi rend="italic">Achillea millefolium</hi>)
+and the purple coneflower (<hi rend="italic">Echinacea angustifolia</hi>),
+were widely used for their general
+medicinal qualities. Others, such as locoweed
+(<hi rend="italic">Astragalus</hi>), with its toxic amounts of alkaloids
+and selenium, were used more successfully
+to treat both internal and external
+maladies. Most people knew the many common
+uses of plants, but there were also highly
+trained individuals, medicine men and medicine
+women, who had very specific knowledge
+about plants and used them in spiritual ceremonies
+for healing.</p>
+
+<p>In most cases, the belief system was that the
+spirit healed the individual, and that the plant
+was a vehicle for this process. The major medicinal
+plant cures of Plains Indian tribes have
+plausible scientific explanations for their use
+and effectiveness. Most of them contain active
+medicinal constituents. It is extraordinary
+that many of these uses were discovered. Certainly,
+much learning occurred through trial
+and error, but Native Americans also believed
+that knowledge could be gained through
+dreams and visions, and plant lore was of
+course handed down, orally, over generations.
+In fact, the healing systems of Native Americans
+are ancient and suggest links to Asia. For
+example, the Pawnees burned the stems of
+yarrow and leadplant (<hi rend="italic">Amorpha canescens</hi>) as
+short punks placed on rheumatic points to
+relieve pain, a practice known as "moxabustion,"
+which today is almost completely associated
+with Asian medicine. Only a very few
+medicinal plants used by Native Americans
+were adopted by European American immigrants,
+primarily because the traditions were
+vastly different and few European Americans
+were willing to give credence to Native American
+learning. One that was adopted was the
+purple coneflower, which has been imported
+into Europe and more recently been made
+available commercially in the United States as
+an immune system stimulant, used primarily
+to ward off colds.</p>
+
+<p>Food uses of native plants were vitally important
+to the Great Plains Indians, and played
+an essential dietary role. More than 120 native
+prairie plants were used for food. Many plants
+were used for seasoning, flavors, tea, or nutritional
+needs (greens in the spring were used to
+ward off scurvy). The most important native
+food plant was the prairie turnip (<hi rend="italic">Psoralea esculenta</hi>).
+This starchy, leguminous root was
+eaten as a staple or added to bison stew. It was
+also dried and traded or stored. The prairie
+turnip was so important to the Omahas that
+they determined the route of their summer
+buffalo hunt in the High Plains by the locations
+where the women could find the plant. Since
+wild food procurement was primarily women's
+work, little of this knowledge was passed
+on to European immigrants because interaction
+between Native American women and
+women settlers rarely occurred.</p>
+
+<p>Native Americans had many other uses for
+wild plants, such as cattails and rushes for
+mats, white sage (<hi rend="italic">Artemisia ludoviciana</hi>) and
+eastern redcedar (<hi rend="italic">Juniperus virginiana</hi>) for
+ceremonial incense, and trees for lodges and
+firewood. Of course, Native American women
+had long cultivated corn, beans, squash, sunflowers,
+and other crops. With European
+American settlement, large numbers of new
+cultivars were introduced for farming and gardening,
+but the diversity and variety have dramatically
+decreased over the decades, and
+farmers now only grow a handful of crops (and
+indeed only a few genetic varieties of a small
+number of crops). Only a small number of the
+native plants originally used by Plains Indians
+&#8211;wild plums (<hi rend="italic">Prunus americana</hi>), chokecherries
+(<hi rend="italic">Prunus virginiana</hi>), wild grapes (<hi rend="italic">Vitis
+riparia</hi>), and other&#8211;are now used for jams,
+jellies, and wine by the wider population.</p>
+
+<closer>
+<signed>Kelly Kindscher<lb/>
+University of Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kindscher, Kelly. <title level="m">Edible Wild Plants of the Prairie: An Ethnobotanical Guide</title>. Lawrence: University Press of Kansas,
+1987.</bibl> <bibl>Kindscher, Kelly. <title level="m">Medicinal Wild Plants of the Prairie: An Ethnobotanical Guide</title>. Lawrence: University Press of
+Kansas, 1992.</bibl> <bibl>Moerman, Daniel E. <title level="m">Native American Ethnobotany</title>.
+Portland <hi rend="smallcaps">OR</hi>: Timber Press, 1998.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

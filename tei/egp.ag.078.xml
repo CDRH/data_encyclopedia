@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.078">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">XIT Ranch</title>
+<title level="m" type="sub"></title>
+<author>Kenneth C. Dagel</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.078</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Dagel, Kenneth C.">Kenneth C. Dagel</author>. <title level="a">"XIT Ranch."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">57</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-01-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">XIT Ranch</head>
+
+<p>The <hi rend="smallcaps">XIT</hi> Ranch encompassed more than three
+million acres across ten counties on the Llano
+Estacado in western Texas. Considered the
+largest cattle ranch in the world, the <hi rend="smallcaps">XIT</hi> also
+leased land in the Dakotas and in Montana.
+The <hi rend="smallcaps">XIT</hi> stretched for more than 200 miles in
+the Texas Panhandle and had 575 miles of outside
+fence. The first 22,000 cattle arrived from
+Fort Concho in 1885 and the number maintained
+on the <hi rend="smallcaps">XIT</hi> eventually grew to 150,000.
+The ranch, which employed as many as 100
+cowboys, was organized into seven divisions
+with a headquarters at Channing. The brand
+<hi rend="smallcaps">XIT</hi> was the idea of Ab Blocker, a trail driver
+who persuaded management that any good
+brand should be easy to make with a simple
+iron, but also be difficult to brand over by
+rustlers.</p>
+
+<p>The land the <hi rend="smallcaps">XIT</hi> was established on was sold
+by the state of Texas to the Chicago-based Capitol
+Syndicate Company in 1882. This became
+the Capitol Freehold Land and Investment
+Company, Ltd., in 1885, which included investors
+from the United States and Britain. The
+Syndicate Company received title to the land
+in exchange for constructing a new capitol
+building in Austin. The Capitol building, completed
+in 1888, ultimately cost $3,224,593.45,
+which meant the Syndicate Company paid
+$1.07 per acre for the land that would become
+the <hi rend="smallcaps">XIT</hi>. Because of the high price of land and
+the declining prices of cattle, the <hi rend="smallcaps">XIT</hi> was dismantled
+in the early twentieth century. The
+last <hi rend="smallcaps">XIT</hi> cattle, 13,560 head, were sold in November
+1912, and the vast ranch was sold in
+large parcels to other ranchers and in small
+acreages to farmers from 1901 to the 1950s.</p>
+
+<closer>
+<signed>Kenneth C. Dagel<lb/>
+Missouri Western State College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Haley, J. Evetts. <hi rend="italic">The </hi><hi rend="smallcaps">XIT</hi> <hi rend="italic">Ranch of Texas and the Early Days
+of the Llano Estacado</hi>. Norman: University of Oklahoma
+Press, 1953.</bibl> <bibl>Nordyke, Lewis. <hi rend="italic">Cattle Empire: The Fabulous
+Story of the 3,000,000 acre</hi> <hi rend="smallcaps">XIT</hi>. New York: William Morrow
+and Company, 1949.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

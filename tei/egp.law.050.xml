@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main"><hi rend="italic">United States v. Sioux Nation of Indians</hi></title>
+<title level="m" type="sub"></title>
+<author>Mark R. Scherer</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Scherer, Mark R.">Mark R. Scherer</author>. <title level="a">"<hi rend="italic">United States v. Sioux Nation of Indians</hi>."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">463-464</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-09</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main"><hi rend="italic">UNITED STATES V. SIOUX NATION OF INDIANS</hi></head>
+
+<p>In <hi rend="italic">United States v. Sioux Nation of Indians</hi>
+(1980), the U.S. Supreme Court held that an
+1877 act of Congress, by which the United
+States wrested control of the Black Hills of
+South Dakota from the Sioux Indian Nation,
+constituted a "taking" of property under the
+Fifth Amendment, giving rise to an obligation
+to fairly compensate the Sioux. The Court affirmed
+a prior decision of the court of claims,
+which had awarded the Sioux $17.1 million for
+the taking of the Black Hills, and further held
+that the tribe was entitled to interest on that
+amount from 1877. By the late 1990s, the
+amount due the Sioux had risen to more than
+$600 million&#8211;a payment that the tribe still
+refuses to accept, choosing instead to continue
+to seek the return of the land itself.</p>
+
+<p>The 1980 decision represented the judicial
+culmination of more than sixty years of litigation
+and lobbying in the Court of Claims, the
+Indian Claims Commission, the U.S. Congress,
+and the Supreme Court, in which the
+Sioux sought retribution for more than a century's
+worth of bad faith and fraudulent dealings
+relating to the Black Hills. The fundamental
+basis for the continuing claim is the
+1868 Fort Laramie Treaty, in which the government
+pledged that the Great Sioux Reservation,
+including the Black Hills, would be
+permanently preserved for the "absolute and
+undisturbed use and occupation" of the tribe.
+The treaty further provided that no change to
+the reservation boundaries would be effective
+unless approved by at least three-fourths of
+the adult male population of the Sioux Nation.
+In 1877 Congress enacted a statute that,
+in effect, unilaterally abrogated the provisions
+of the 1868 treaty. The act codified the terms of
+a new treaty, signed under military duress by
+only about 10 percent of the adult male Sioux
+population, under which the Sioux purportedly
+ceded another 7 million acres, including
+the Black Hills, to the United States.</p>
+
+<p>Some forty years after losing the Black Hills
+under those dubious circumstances, the Sioux
+embarked upon a long judicial and legislative
+quest for their return. In 1920 they brought
+suit in the Court of Claims, alleging that the
+government had taken the Black Hills without
+just compensation in violation of the Fifth
+Amendment. The Court of Claims ultimately
+dismissed that claim in 1942, and the Sioux
+then reasserted their arguments before the Indian
+Claims Commission, beginning in 1946.
+The commission held that the 1877 act was in
+fact a compensable taking for which the Sioux
+were entitled to $17.5 million, without interest.
+On appeal, however, the Court of Claims
+again dismissed the Sioux claim, holding that
+the tribe's arguments were barred by the
+Court's 1942 decision. There the matter stood
+until 1978, when the Sioux obtained a special
+act of Congress authorizing a new review of
+the tribe's Black Hills claim without regard to
+the earlier decisions of the Court of Claims.
+This time the Court of Claims held that the
+government had indeed acted in bad faith in
+taking the Black Hills and that the Sioux were
+entitled to $17.1 million in damages, plus interest
+from 1877. When the Supreme Court
+affirmed the Court of Claims ruling in 1980,
+the Sioux's long decades of legal tenacity were
+seemingly vindicated.</p>
+
+<p>Yet even before the Sioux achieved this
+monumental Supreme Court victory, controversy
+arose within the tribe and between some
+members of the tribe and their attorneys over
+whether or not a monetary judgment should
+even be sought, much less accepted. For growing
+numbers of Sioux, monetary compensation
+was not acceptable as a resolution of their
+claims.only the return of the sacred Black
+Hills themselves would suffice. Those sentiments
+have controlled subsequent events in
+this prolonged drama, and the Sioux continue
+to refuse to accept the payment dictated by the
+Court's decision.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.107">Sioux</ref>.</p>
+
+<closer>
+<signed>Mark R. Scherer<lb/>
+University of Nebraska at Omaha</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Lazarus, Edward. Black Hills, <title level="m">White Justice: The Sioux Nation versus the United States, 1775 to the Present</title>. New York:
+HarperCollins, 1991.</bibl> <bibl>Pemberton, Richard, Jr. "'I Saw That
+It Was Holy': The Black Hills and the Concept of Sacred
+Land." <title level="j">Law and Inequality: A Journal of Theory and Practice</title>
+3 (1985): 287–311.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

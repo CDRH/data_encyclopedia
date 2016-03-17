@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.law.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Native American Rights Fund</title>
+<title level="m" type="sub"></title>
+<author>Ray Ramirez</author>
+<author>Walter Echo-Hawk</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.law.035</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ramirez, Ray">Ray Ramirez</author> and <author n="Echo-Hawk, Walter">Walter Echo-Hawk</author>. <title level="a">"Native American Rights Fund."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">458-459</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NATIVE AMERICAN RIGHTS FUND</head>
+<figure n="egp.law.035" rend="granted" type="noclick">
+<figDesc>Logo for Native American Rights Fund</figDesc>
+</figure>
+
+<p>The Native American Rights Fund (<hi rend="smallcaps">NARF</hi>),
+based in Boulder, Colorado, is the oldest and
+largest nonprofit national Indian rights organization
+in the country. Since its establishment
+in 1970, <hi rend="smallcaps">NARF</hi> has grown from a three-lawyer
+staff to a firm of forty full-time staff members,
+with fourteen attorneys. Most of the attorneys
+and nearly all support staff personnel are Native
+American. <hi rend="smallcaps">NARF</hi> has represented more
+than 200 Indian tribes located in thirty-one
+states, including many Native people who are
+Indigenous to the Great Plains. The hundreds
+of cases it has handled have involved every
+major problem and issue in the field of Native
+American law. The Native American Rights
+Fund is governed by a thirteen-member board
+of directors composed entirely of Native people.
+This board charts the direction of <hi rend="smallcaps">NARF</hi>'s activities
+by setting priorities and policies. Board
+members are chosen on the basis of their involvement
+in Native affairs, their knowledge
+of the legal problems facing Native Americans
+throughout the country, and, most importantly,
+their dedication to the well-being and survival
+of Native Americans.</p>
+
+<p>Today, more than fifty-five Indian tribes are
+an important and integral part of the economic,
+political, and cultural life of the Great
+Plains. Most have treaties with the United
+States that set forth property, political, and
+legal rights. Each Great Plains state contains
+Indian reservations that were established by
+treaties or other federal action and are governed
+by tribal governments. From legal and
+political standpoints, each reservation in the
+United States is a nation within a nation. The
+power of tribal governments and the jurisdiction
+over reservation lands among tribal,
+state, and federal governments are integral aspects
+of Great Plains governance and are continually
+being refined by litigation or legislation.
+At the same time, the protection of and
+control over the natural resources located on
+Indian reservations such as water, oil, and natural
+gas are vitally important to Indian owners.
+Tribal people are citizens of their respective
+Indian tribes, the United States, and their
+respective states, and they aspire to rights of
+self-determination, tribal sovereignty, cultural
+rights, and human rights similar to those
+sought by other Indigenous peoples throughout
+the world.</p>
+
+<p><hi rend="smallcaps">NARF</hi> attorneys work to tear down barriers
+to the fulfillment of these rights in Great
+Plains courtrooms and legislatures. For example,
+<hi rend="smallcaps">NARF</hi> has worked to restore land and federal
+recognition to the Alabama-Coushatta
+Tribe, the Kickapoo Tribe, and the Ysleta del
+Sur Pueblo in Texas and to restore tribal jurisdiction
+to the Winnebago Tribe in Nebraska.
+In Oklahoma, <hi rend="smallcaps">NARF</hi> has worked to recognize
+the reservation status of Pawnee lands, to clarify
+Osage tribal government status, and to
+confirm Cheyenne and Arapaho tribal oil and
+gas taxation authority. In the area of human
+rights, <hi rend="smallcaps">NARF</hi> has represented Native American
+inmates in jails and prisons in North and
+South Dakota, Nebraska, Kansas, and Oklahoma.
+It provided legal representation to
+tribes located in Oklahoma and North Dakota
+to protect tribal burial grounds from desecration
+and to repatriate human remains that
+had been removed from tribal graves and carried
+away to museums, historical societies,
+and other institutions. <hi rend="smallcaps">NARF</hi> has also represented
+tribes and students in South Dakota,
+North Dakota, Oklahoma, and eastern Colorado
+on education issues relating to public,
+tribal, and Bureau of Indian Affairs schools.
+<hi rend="smallcaps">NARF</hi> has represented traditional religious
+practitioners in protecting their freedom of
+worship at sacred sites in eastern Wyoming, in
+prisons, and during the worship ceremonies
+of the Native American Church. These issues
+illustrate the problems that confront Great
+Plains Indian tribes in the United States today
+as Native peoples strive to live according to
+their traditional ways of life and the aspirations
+of their forefathers.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">NATIVE AMERICANS</hi>: <ref n="egp.na.096">Reservations</ref>.</p>
+
+<closer>
+<signed>Ray Ramirez<lb/>
+Walter Echo-Hawk<lb/>
+Native American Rights Fund</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dobler, Lavinia. <title level="m">Esther Morris: First Woman Justice of the Peace</title>. Riverton <hi rend="smallcaps">WY</hi>: Big Bend Press, 1993.</bibl> <bibl>Larson, T. A.
+<title level="m">History of Wyoming</title>. Lincoln: University of Nebraska
+Press, 1978.</bibl> <bibl>Massie, Michael A. "Reform Is Where You
+Find It: The Roots of Woman Suffrage in Wyoming." <title level="j">Annals of Wyoming</title> 62 (1990): 2-21.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

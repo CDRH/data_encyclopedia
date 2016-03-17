@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tourist Architecture</title>
+<title level="m" type="sub"></title>
+<author>Carroll Van West</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.049</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="West, Carroll Van">Carroll Van West</author>. <title level="a">"Tourist Architecture."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">97</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TOURIST ARCHITECTURE</head>
+
+<p>Tourists of the Great Plains have both created
+and encountered a distinctive built environment.
+In one sense of the term, the first
+tourist architecture in the region embraced
+the natural landmarks that travelers named
+during their overland journeys, places like
+Chimney Rock in Nebraska and Register Cliff
+in Wyoming, where travelers carved their
+names, addresses, and destinations. Later, as
+railroads crisscrossed the Plains, company officials
+realized that travelers looked for a West
+that conformed to preconceived images and
+ideas. Rustic-style resort hotels and cabins
+were built in vacation destinations, while railroad
+depots often reflected a Spanish Colonial
+or Pueblo Revival style in their design. For
+example, the Northern Pacific Railway depot
+in Bismarck, North Dakota, is a striking Spanish
+Colonial gateway to the city, even if that
+style has no compelling historical associations
+with the state.</p>
+
+<p>Yet it was automobile travel that would
+create the most distinctive aspects of tourist
+architecture in the Great Plains. The first
+transcontinental highway, the Lincoln Highway
+(later designated U.S. 30), passed through
+the heart of the region. Later came famous
+roads such as Route 66 and U.S. 40. In their
+wake came service stations that initially were
+flashy, eye-catching buildings designed to grab
+the attention of speeding motorists. The soaring
+column of the Tower Station, built in 1936
+along Route 66 in Shamrock, Texas, was an
+instant landmark. During the 1930s and 1940s,
+however, these individualistic designs gave
+way to the standardized plans of the major
+petroleum companies. Revival designs, especially
+reflecting Colonial and Tudor styles, created
+an image of homelike comfort and convenience.
+After World War II, standardized
+designs, like those from Texaco and Standard
+Oil, used streamlined building forms, striping,
+and glossy enamel wall surfaces to turn
+service stations into virtual three-dimensional
+corporate billboards. By the 1950s a corporate
+stamp marked the roadside landscape, replacing
+the unpredictable yet visually exciting designs
+of earlier auto travel.</p>
+
+<p>The pattern of evolving design conformity
+documented in service stations is also found
+in the designs of motels and restaurants, two
+additional key buildings of the modern roadscape.
+Motels proliferated across the regional
+landscape in the late 1940s and 1950s. Some
+of these early designs, like the Alamo Court
+motels in Texas, reflected both historical
+places and revival styles like Spanish Colonial.
+But by the 1960s major hotel-motel chains
+dominated the market, and their similar standardized
+designs varied little, no matter the
+location. By the end of the twentieth century,
+even the brightly colored signs once associated
+with motels, like those of the early Holiday
+Inns, were gone, replaced by the large, plastic,
+fluorescent-lit signs that now clutter interstate
+exits.</p>
+
+<p>The history of restaurant design along the
+region's roadsides is a similar story of evolving
+architectural conformity. Distinctive roadside
+places like Ole's Big Game Tavern in Paxton,
+Nebraska, still serve travelers on older federal
+highways, but these restaurants are few and far
+between compared to the innumerable McDonalds
+and Burger Kings lining the main
+streets and interstates of the Great Plains.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.058">Tourism</ref> / <hi rend="smallcaps">TRANSPORTATION</hi>:
+<ref n="egp.tra.019">Lincoln Highway</ref>; <ref n="egp.tra.032">Route 66</ref>.</p>
+
+<closer>
+<signed>Carroll Van West<lb/>
+Middle Tennessee State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Hokanson, Drake. <title level="m">The Lincoln Highway: Main Street across America</title>. Iowa City: University of Iowa Press, 1988.</bibl>
+<bibl>Jakle, John A., and Keith A. Sculle. <title level="m">The Gas Station in America</title>. Baltimore <hi rend="smallcaps">MD</hi>: Johns Hopkins University Press,
+1994.</bibl> <bibl>Jennings, Jan, ed. <title level="m">Roadside America: The Automobile in Design and Culture</title>. Ames: Iowa State University Press,
+1990.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

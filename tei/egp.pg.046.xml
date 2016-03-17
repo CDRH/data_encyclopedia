@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">McGovern, George (b. 1922)</title>
+<title level="m" type="sub"></title>
+<author>Stephen Zunes</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.046</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Zunes, Stephen">Stephen Zunes</author>. <title level="a">"McGovern, George (b. 1922)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">674</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MCGOVERN, GEORGE (b. 1922)</head>
+
+<p>South Dakota senator and 1972 Democratic
+presidential nominee George McGovern was
+born on July 19, 1922, in the small town of
+Avon in southeastern South Dakota. He later
+moved with his family to Mitchell, where his
+father served as minister for the town's Methodist
+Church. McGovern's interest in politics
+first became apparent in high school, where
+he was an active member of the debate team,
+through which he met his future wife, Eleanor
+Sternberg. He entered Dakota Wesleyan University
+in Mitchell on an academic scholarship
+in 1940. Three years later he enlisted in the
+U.S. Army Air Corps, becoming a highly decorated
+<hi rend="smallcaps">B</hi>-24 bomber pilot in Europe. He completed
+his bachelor of arts degree at Dakota
+Wesleyan in 1946.</p>
+
+<p>Following his graduation, McGovern, who
+had a deep interest in the Social Gospel, enrolled
+at Garrett Theological Seminary on the
+campus of Northwestern University in Evanston,
+Illinois. But after hearing a lecture by the
+western historian Ray Allen Billington, he
+opted for graduate work in history. He received
+his doctorate from Northwestern in
+1953. McGovern then began a short career as a
+professor at Dakota Wesleyan University before
+being elected to the U.S. House of Representatives
+in 1956. In 1961 President John F.
+Kennedy named him director of the Food for
+Peace program. He left the Kennedy administration
+the following year to run for Senate
+and was elected for the first of three terms.
+Though best known in his Senate career for
+his outspoken opposition to the Vietnam War,
+South Dakotans appreciated him most for his
+efforts on behalf of Plains farmers and his expertise
+on food and agricultural policy.</p>
+
+<p>McGovern briefly entered the race for the
+1968 presidential nomination following the
+assassination of Robert Kennedy. The widespread
+outcry over the perceived unfairness of
+the presidential nomination process led to the
+creation of a reform commission in 1969,
+which McGovern chaired. In 1972 he ran again
+for the presidency, this time winning the Democratic
+nomination with the help of an army of
+young volunteers. Pundits were stunned that
+the junior senator from a small Plains state,
+widely known as "the prairie populist," could
+defeat the better-financed favorites of the party
+leadership.</p>
+
+<p>Although McGovern was a deeply religious
+family man rooted in the populist traditions
+of the Great Plains, Republicans and some elements
+of the Washington media tried to link
+him with the excesses of the radical counter-culture
+of the day. Abandoned by much of the
+Democratic Party establishment, badly outspent,
+and subjected to a series of "dirty
+tricks" that were later revealed in the Watergate
+investigation, McGovern lost the election
+to incumbent President Richard Nixon in one
+of the biggest landslides in U.S. history. Less
+than a year later, however, as Nixon's scandals
+unfolded, public opinion polls showed that
+were the election held over, McGovern would
+have won.</p>
+
+<p>McGovern was reelected to the Senate in
+1974 but was defeated in 1980 in a stunning
+upset, along with several other prominent
+Democrats, in the Republican landslide. He
+became a part-time lecturer at Northwestern
+and other universities and continued to speak
+out on political affairs. He launched an unsuccessful
+bid for the Democratic presidential
+nomination in 1984. He became president of
+the Middle East Policy Council in 1991, calling
+for a more balanced U.S. policy toward
+the region. The alcohol-related death of his
+daughter Terry in 1994 led McGovern to write
+a widely acclaimed personalized biography of
+her struggle with alcoholism, and he soon became
+a prominent spokesperson for the recognition
+and treatment of the disease. In 1997
+President Bill Clinton named him the U.S.
+permanent representative to the United Nations
+Food and Agricultural Organization
+based in Rome.</p>
+
+<closer>
+<signed>Stephen Zunes<lb/>
+University of San Francisco</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>McGovern, George. <title level="m">Grassroots</title>. New York: Random House,
+1977.</bibl> <bibl>Weil, Gordon L. <title level="m">The Long Shot: George McGovern Runs
+for President</title>. New York: W. W. Norton Co., 1973.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

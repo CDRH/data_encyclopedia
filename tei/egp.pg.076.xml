@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.076">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sorensen, Ted (b. 1928)</title>
+<title level="m" type="sub"></title>
+<author>Martin J. Medhurst</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.076</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Medhurst, Martin J.">Martin J. Medhurst</author>. <title level="a">"Sorensen, Ted (b. 1928)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">689</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SORENSEN, TED (b. 1928)</head>
+
+<p>Theodore Sorensen was born on May 8, 1928,
+in a sod house in Lincoln, Nebraska. He was
+one of five children born to Christian Abraham
+Sorensen and Annis Chaikin Sorensen.
+His father was active in Republican Party politics,
+rising to become the state attorney general
+of Nebraska. His mother, an outspoken feminist
+and pacifist of Russian Jewish heritage,
+gave her family name to each of her five children
+as their middle name. The Sorensen
+household was a regular meeting place for progressive
+Republicans, and Ted absorbed most
+of his early ideas from the lively debates that
+were a regular part of his family life. He attended
+the public schools in Lincoln, graduating
+from Lincoln High School in 1945. Sorenson
+graduated from the University of Nebraska
+in 1949, entered the University of Nebraska
+College of Law, where he eventually became
+editor in chief of the <title level="j">Nebraska Law Review</title>. He
+graduated first in his class in 1951.</p>
+
+<p>Seeking a larger venue for his talents, Sorensen
+moved to Washington dc, where he took a
+position as a staff attorney for the Federal Security
+Agency (1951-52), worked as a staff
+member for the Joint Committee on Railroad
+Retirement (1952), and ultimately joined the
+staff of newly elected Sen. John F. Kennedy
+(1953-61). Sorensen quickly became Senator
+Kennedy's chief policy adviser and speechwriter.
+He did the background research for
+Kennedy's Pulitzer Prize.winning book, Profiles
+in Courage, and wrote Kennedy's speech
+that electrified the 1956 Democratic National
+Convention. Sorensen worked tirelessly to
+help John Kennedy secure the 1960 democratic
+presidential nomination, serving as both the
+campaign's chief policy adviser and speechwriter.
+Upon his assumption of the presidential
+office in 1961, John F. Kennedy appointed
+Sorensen as special counsel to the president, a
+title created specifically for him. He remained
+the chief policy adviser and speechwriter for
+President Kennedy. Sorensen retained this title
+throughout the Kennedy administration and
+into the early months of the Lyndon Johnson
+administration. In 1965 Sorensen published his
+book Kennedy, which became a national bestseller.
+Two years later, with Robert Kennedy
+then a U.S. senator from New York, Sorensen
+became chairman of the New York State Democratic
+Committee's advisory council, and he
+served as a delegate to the 1968 Democratic
+National Convention, a convention at which
+he had hoped to help Robert F. Kennedy wrest
+the nomination away from Hubert H. Humphrey
+and Eugene McCarthy. But an assassin's
+bullet ended the Kennedy quest in June 1968,
+just weeks before the convention. Sorensen
+tried to pick up the pieces of the Kennedy
+organization and offered himself as the Democratic
+candidate for the U.S. Senate from New
+York in 1970. Following his defeat, he returned
+to the New York law firm of Paul, Weiss, Rifkind,
+Wharton and Garrison, where he remained
+in 2000.</p>
+
+<p>Throughout the 1980s and 1990s Sorensen
+devoted himself to numerous causes, serving as
+a director of the Twentieth-Century Fund, as a
+member of the Council on Foreign Relations
+and the National Democratic Institute for International
+Affairs, and as a trustee of the New
+York Academy of Medicine, among many
+other positions. Over the years he has been
+awarded honorary degrees from the University
+of Canterbury, Alfred University, Temple University,
+Fairfield University, and the University
+of Nebraska. He is the author or editor of seven
+books, most recently <title level="m">Why I Am a Democrat</title>
+(1996). He is a member of the bar of the U.S.
+Supreme Court, the District of Columbia, and
+the states of New York and Nebraska.</p>
+
+<closer>
+<signed>Martin J. Medhurst<lb/>
+Texas A&amp;M University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Sorensen, Theodore. Papers. John F. Kennedy Presidential
+Library, Boston.</bibl> <bibl>Sorensen, Theodore C. <title level="m">Why I Am a Democrat</title>.
+New York: Henry Holt and Company, 1996.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

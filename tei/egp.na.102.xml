@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.na.102">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Sacred Geography</title>
+<title level="m" type="sub"></title>
+<author>Kari Forbes-Boyte</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.na.102</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Forbes-Boyte, Kari">Kari Forbes-Boyte</author>. <title level="a">"Sacred Geography."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">599</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-20</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">SACRED GEOGRAPHY</head>
+
+<p>While Great Plains Indian religions differ considerably
+from one another, they all exhibit a
+sacred geography. All of nature is regarded as
+being sacred, yet certain geographical features
+and areas figure more prominently than others
+on the sacred map.</p>
+
+<p>Sacred places have multiple levels of meaning
+to Indigenous cultures. First, sacred places
+are acts of creation, usually designed by a
+World Maker. The places are revealed through
+the society's mythology (sacred truth), thereby
+becoming the physical manifestations of the
+mythological system. Second, Great Plains
+Indians hinge both their religious perceptions
+and their religious ceremonies on sacred
+places. The locale where a ritual takes place is
+as significant as the ritual itself. Third, symbolism
+is an important component of sacred
+places. Last, the religious perceptions that
+Plains Indians have of their physical environment
+lead to a psychological stability evident
+in a condition referred to as "existential insideness."
+Existential insideness is knowing that a
+particular place is where one belongs, completing
+the self-identity of an individual. Existential
+insideness is supported through the
+spiritual system of the culture when there is an
+acknowledgment of sacred places.</p>
+
+<p>The mythological traditions of many Plains
+Indians are located in real places. Thus, place is
+both mythic and geographical. For example,
+<hi rend="italic">Pahuk</hi>, meaning "Mound on the Water," located
+in eastern Nebraska on a high bluff above
+the Platte River, is one of five known Pawnee
+sacred sites. The Pawnees believe Pahuk is
+one of the locales where the Sacred Animals
+(<hi rend="italic">Nahu-rac</hi>) held council during mythic times
+and where a young Pawnee boy learned healing
+practices from the animal council. The boy
+took the knowledge to his people, curing his
+fellow villagers and eventually teaching his
+skills to other young men of the village. Traditionally,
+Pawnee doctors would visit Pahuk
+yearly to renew their healing powers and to
+give thanks to those mythic beings who bestowed
+the knowledge on their predecessor.</p>
+
+<p>A place made sacred through mythology is
+continually consecrated by rituals. The Lakota
+religion recognizes seven sacred ceremonies.
+Each of these ceremonies is identified with
+specific sites where the rituals are performed.
+The <hi rend="italic">hanbleceya</hi> (vision quest) ceremony is executed
+at Bear Butte in western South Dakota
+near the Black Hills, a place the Lakotas describe
+as "their most sacred altar." The hanbleceya
+is a prayer for spiritual guidance. The
+Lakotas recognize Bear Butte as a particularly
+worthy site for visions because the seeker is
+generally successful, and visions experienced
+there can reveal future events that are necessary
+for the continuation of humanity.</p>
+
+<p>Symbolism plays a primary role in the recognition
+of sacredness for Great Plains Indian
+peoples. Natural landforms or human-manufactured
+structures often symbolize the
+cosmos: their shapes possess the power of
+what they symbolize. The "medicine wheel,"
+to many Plains cultures, represents an organization
+of the cosmos based on a recognition of
+the four sacred directions. These circular rock
+formations are found throughout the Plains
+region and are regularly visited by Indian people
+on pilgrimages. The best-known example,
+the Big Horn Medicine Wheel, is sacred to
+the Cheyennes, Lakotas, Arapahos, and Shoshones.</p>
+
+<p>Existential insideness, the feeling that one
+belongs to a particular place, characterizes
+Plains Indians' relationships with their homeland.
+According to the Lakotas, their religion
+cannot be practiced without access to the sacred
+places. When this bond is severed, severe
+psychological alienation and cultural disintegration
+can ensue. Many Native American
+peoples' sense of identity comes from walking
+on land also walked on by their ancestors, or
+by being able to identify places that are not
+only significant to them as individuals but also
+significant to their ancestors. To lose this identity,
+through loss of sacred lands, would have
+devastating consequences for the generations
+to come.</p>
+
+<closer>
+<signed>Kari Forbes-Boyte</signed>
+Sacramento City College</closer>
+</div1>
+
+<div1>
+<bibl>Eliade, Mircea. <title level="m">The Sacred and the Profane: The Nature of
+Religion</title>. New York: Harcourt, Brace, and World, Inc.,
+1957.</bibl> <bibl>Vecsey, Christopher. <title level="m">Handbook of American Indian
+Religious Freedom</title>. New York: Crossroad Publishing Company,
+1991.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

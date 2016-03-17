@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.war.020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Harney, William (1800-1889)</title>
+<title level="m" type="sub"></title>
+<author>Richmond L. Clow</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.war.020</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Chow, Richmond L.">Richmond L. Chow</author>. <title level="a">"Harney, William (1800-1889)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">828-829</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-28</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">HARNEY, WILLIAM (1800-1889)</head>
+
+<p>Gen. William S. Harney was born in Haysboro,
+Tennessee, on August 22, 1800. He first visited
+the Great Plains in 1825, when he accompanied
+the Col. Henry Atkinson and Benjamin O'Fallon
+expedition to sign treaties with the upper
+Missouri tribes. Harney fought in the Sauk and
+Fox wars in 1832, serving as Gen. Zachary Taylor's
+assistant inspector. In 1837 he participated
+in the Second Seminole War. Harney left Florida
+with a reputation as an Indian fighter, having
+performed several daring, and sometimes
+ruthless, actions against the Seminoles.</p>
+
+<p>Between 1846 and 1848 Harney fought in
+the U.S.-Mexican War. After the war, Harney
+was assigned to inspect military posts and
+control Indian raids in Texas. In 1855 he assumed
+command of a campaign against the
+Brul&#233;s, who were involved in conflicts with
+immigrant travelers on the overland trails. On
+September 3, Harney's troops routed Little
+Thunder's village at Blue Water Creek (Ash
+Hollow) in western Nebraska, killing about a
+half of the 250 band members. The Lakotas
+named Harney "Mad Bear" because, following
+the attack on their village, he marched
+across the Badlands to Fort Pierre, Dakota
+Territory, challenging the Lakotas to a winter
+fight. The success of his campaign encouraged
+Harney to suggest that mobile units might replace
+permanent posts.</p>
+
+<p>Harney was promoted to brigadier general
+in 1858, and in 1863 he retired to St. Louis. He
+returned to the Great Plains as a member of
+the 1865 and 1867 peace commissions to negotiate
+treaties with tribal leaders. In 1868 he also
+received a temporary assignment to establish
+three Sioux agencies on the Missouri River&#8211;at
+Whetstone Creek, Cheyenne River, and
+Grand River. Harney died in Orlando, Florida,
+on May 9, 1889.</p>
+
+<closer>
+<signed>Richmond L. Clow<lb/>
+University of Montana</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Clow, Richmond L. "General William Harney on the
+Northern Plains." <title level="j">South Dakota History</title> 16 (1986): 229–48.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

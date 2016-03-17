@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.med.006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Brinkley, John Richard (1885-1942)</title>
+<title level="m" type="sub"></title>
+<author>R. Alton Lee</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.med.006</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lee, R. Alton">R. Alton Lee</author>. <title level="a">"Brinkley, John Richard (1885-1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">507</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BRINKLEY, JOHN RICHARD (1885-1942)</head>
+
+<p>John R. Brinkley pioneered radio broadcasting
+with numerous innovations that influenced
+the industry for decades. Brinkley was
+born in Beta, North Carolina, on July 8, 1885.
+His father was a mountain doctor who apprenticed
+to learn medicine, much like lawyers
+learned their craft in the nineteenth century.
+The son decided on a career in medicine,
+receiving a degree from the Eclectic Medical
+University of Kansas City, an institution of
+questionable standards and ethics. He began
+practicing in 1918 in the small Kansas town of
+Milford and pioneered in glandular surgery,
+developing a lucrative operation that brought
+him worldwide attention for rejuvenating elderly
+men with goat glands. He advertised his
+unique operation over the new medium of
+radio.</p>
+
+<p>Brinkley presciently envisioned the potential
+of radio and received a license from the
+Federal Radio Commission to operate station
+<hi rend="smallcaps">KFKB</hi> in 1923, becoming one of the first commercial
+broadcasters in the nation. He pioneered
+radio programming with a twelve-hour
+daily combination of country music, news,
+markets, orchestras, local talent, medical advice,
+and travelogues describing his world
+journeys, all directed toward a rural audience.
+He also experimented with bringing college
+extension courses into the home, utilizing professors
+from nearby Kansas State College, and
+allowing politicians free airtime and a citizens
+forum during which the civic questions of listeners
+could be answered. His station, broadcasting
+at 5,000 watts, became popular over a
+wide area and in 1929 was voted best in the
+nation in a poll conducted by <title level="j">Radio Digest</title>.
+That same year he conceived the idea for a
+show called <title>Medical Question Box</title>, during
+which his rustic listeners described their ailments.
+He read their symptoms over the air,
+then prescribed remedies available at his pharmacy.
+After regional pharmacists became upset
+over this intrusion, Brinkley changed to
+recommending the prescriptions be filled at
+his listeners' local drugstore, and pharmacists
+gave him a cut on each sale.</p>
+
+<p>This competition aroused the ire of the
+<title level="j">Kansas City Star</title>, which owned radio station
+wdaf, both because of lost revenues from prescription
+drug advertisements and loss of the
+popularity contest to Brinkley's station. The
+American Medical Association was also disturbed
+over his lack of ethics in advertising,
+and the two combined to have both his medical
+and radio licenses revoked in 1930. Brinkley
+unsuccessfully ran for governor that year, hoping
+to name a new medical board for Kansas.</p>
+
+<p>Brinkley then moved south of the border,
+where Mexico licensed him to operate a powerful
+"borderblaster" station in Villa Acu&#241;a.
+Living and practicing medicine in Del Rio,
+where he was licensed in Texas, he continued to
+experiment, developing the techniques of electrical
+transcriptions and longwire directional
+antennas, which are still in use. When Mexico
+increased his power to 500,000 watts, he could
+reach listeners across North America. Others
+imitated his borderblaster techniques, and the
+resulting jumble in the airwaves led to the Treaty
+of Havana of 1937, a North American agreement
+to control international radio broadcasting. For
+the first time Mexico received some fair share,
+legally, of the airwave allotments and agreed to
+bring its rogue broadcasters under control.</p>
+
+<p>Once a millionaire through his unusual
+medical and radio practices, Brinkley began
+a rapid descent in 1939 when the American
+Medical Association successfully won a suit
+against him and disgruntled patients began
+lawsuits. He died bankrupt in San Antonio,
+Texas, on May 26, 1942, but his radio techniques
+endured.</p>
+
+<closer>
+<signed>R. Alton Lee<lb/>
+University of South Dakota</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Fowler, Gene, and Bill Crawford. <title level="m">Border Radio: Quacks, Yodelers, Pitchmen, Psychics, and Other Amazing Broadcasters of the American Airwaves</title>. Austin: Texas Monthly
+Press, 1987.</bibl> <bibl>Lee, R. Alton. <title level="m">The Bizarre Careers of John R. Brinkley</title>. Lexington: University Press of Kentucky, 2002.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

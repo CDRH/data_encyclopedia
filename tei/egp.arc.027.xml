@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.arc.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Greene, Herb (b. 1929)</title>
+<title level="m" type="sub"></title>
+<author>Arn Henderson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.arc.027</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Henderson, Arn">Arn Henderson</author>. <title level="a">"Greene, Herb (b. 1929)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">83-84</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GREENE, HERB (b. 1929)</head>
+
+<p>Herb Greene is an architect, painter, and author
+who developed a highly original interpretation
+of organic design. Born in Oneonta,
+New York, on September 13, 1929, Greene
+studied with the architect Bruce Goff at the
+University of Oklahoma and practiced architecture
+in Texas, Oklahoma, and Kentucky. He
+returned to the University of Oklahoma to
+teach in 1957 and was later a professor of architecture
+at the University of Kentucky until
+1982. Two Oklahoma houses built in the late
+1950s&#8211;the Joyce House in Snyder and the
+Greene House in rural Norman&#8211;reflect the
+synthesis of aesthetic and philosophic ideals of
+his mature work.</p>
+
+<p>The Joyce House, built on a bluff strewn
+with large granite boulders and with distant
+views of flat grasslands, represents a synthesis
+of both site characteristics and the clients' desire
+to include their collection of antique furniture
+in the design. The unrestricted views of
+the surrounding landscape dictated walls of
+wood and glass placed upon a pedestal of
+granite to accommodate the unusual collection
+of furniture. Moreover, the design strategy
+suggested a high degree of contrast with
+multidirectional meanings. The anchoring
+pedestal of granite contrasts with the floating
+roof above. The upper walls of wood, modulated
+to accommodate stained-glass windows,
+are terminated with a winglike mansard protecting
+the glass walls on the lower floor. The
+scaly and articulated form of the asymmetrical exterior, with its animalistic, hornlike roof
+drain, is further contrasted with the smooth,
+white, crystalline wall forms of the symmetrical
+interior. At the very center of the octagonal
+plan is a fountain and pool of water, placid
+and in contrast to the arid landscape beyond.</p>
+
+<p>The Greene House, built as a family home,
+is a more complex design than the Joyce
+House. The two-story, wood-frame house
+atop a prairie knoll extended Greene's interest
+in creating an architecture composed of diverse
+and ambiguous metaphors. The inclusion
+of diverse elements is, theoretically, an attempt
+to express meaning through an organic
+process of cognition. Central to this concept,
+which Greene derived from Alfred North
+Whitehead, is the notion that any object is not
+a static entity but has multiple aspects that are
+apparent by various cues that can be measured
+against our own emotional and intellectual
+experiences.</p>
+
+<p>In the Greene House, forms that are both
+barnlike and creaturelike are organized into a
+synthesis of images. The elliptical shape is a
+form that presents the least surface to Oklahoma
+storms approaching from the southwest.
+The color and texture of the house echo
+the farm buildings of the region. The animal
+metaphor is also an apparent attempt to make
+reference to both the living and the passage of
+time. The weathered boards and shingles on
+the exterior sustain the metaphors of both
+creature and barn and relate to the forms of
+ravines and windblown grass of the landscape.
+The design reflects deliberate suggestions of
+opposites. Even the sheet-metal canopy, with
+its insectlike legs, suggests contradictions. As
+the canopy climbs upward to hover over the
+roof, it is transformed into a machined element
+like a rocket about to launch.</p>
+
+<p>Both the Joyce House and the Greene
+House are complex and mysterious images.
+Philosophically, the images suggest associations
+with regional history, ecology, the passage
+of time, and pathos. Certainly, they are
+profound statements of the traditional elements
+of architecture (form, space, texture,
+and color), but the arrangement and juxtaposition
+of images encourage contemplation.
+Greene constructed an ensemble of startling
+metaphors and thereby invites speculation
+into meaning by drawing upon the past experiences
+of the beholder.</p>
+
+<closer>
+<signed>Arn Henderson<lb/>
+University of Oklahoma<lb/>
+</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Farmer, John. <title level="m">Green Shift: Toward a Green Sensibility in Architecture</title>. Oxford: Butterworth-Heinemann, 1996.</bibl>
+<bibl>Greene, Herb. <title level="m">Mind and Image: An Essay on Art and Architecture</title>.
+Lexington: University Press of Kentucky, 1976.</bibl>
+<bibl>Greene, Herb, and Nanine Hilliard Greene. <title level="m">Building to Last: Architecture as Ongoing Art</title>. New York: Hastings
+House, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

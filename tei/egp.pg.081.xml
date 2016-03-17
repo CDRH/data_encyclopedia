@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pg.081">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Texas</title>
+<title level="m" type="sub"></title>
+<author>David F. Prindle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pg.081</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Prindle, David F.">David F. Prindle</author>. <title level="a">"Texas."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">690-691</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">TEXAS</head>
+
+<p>Although Texas includes a significant portion
+of the Great Plains, its politics and government
+have been far more heavily influenced
+by two other geographic factors: its proximity
+to Mexico and its situation in the southern
+United States.</p>
+
+<p>Texas was originally a northern province of
+Spanish Mexico. After winning their independence
+in 1821, Mexicans encouraged immigration
+from the adjacent United States. This policy
+backfired in 1836, however, when an army
+of "Texian" Americans under the command of
+Sam Houston vanquished a Mexican army
+under General Santa Anna and achieved independence.
+From that year to the modern era,
+persons of Mexican descent have been at an
+economic and political disadvantage in Texas.
+Their increasing numbers, plus other historical
+changes, however, have guaranteed their
+continuing, and growing, importance in the
+state.</p>
+
+<p>From the revolution of 1836, when Texas
+declared itself a republic, through 1845 when it
+entered the United States, to the end of the
+Civil War in 1865, the state experienced immigration
+largely from other Southern states.
+Southern white farmers, moving west, brought
+their slaves and the economic, political, and
+social institutions of slavery with them. Texas,
+like the other Confederate states, was defeated
+in the war and occupied in a humiliating fashion
+by victorious Union troops during Reconstruction,
+which in Texas lasted until 1874. As
+with the other Southern states, this searing
+historical experience exercised a dominating
+influence over Texas society and institutions
+for well over a century after the end of the war.</p>
+
+<p>The Southern political culture that dominates
+Texas even today can best be summarized
+as "conservatism." With some noteworthy
+exceptions, such as Lyndon Johnson,
+Anglo-Texans have opposed an active government,
+especially on behalf of the disadvantaged.
+They have defined good government
+largely in terms of low taxes; when taxes are
+necessary they prefer the regressive variety,
+such as sales taxes. Anglo-Texans have also
+been extremely conservative on social issues.
+Contemporary public opinion surveys reveal
+that they oppose affirmative action and gay
+rights, and support prayer in schools and the
+death penalty, by wide margins.</p>
+
+<p>As in the other Southern states, after the
+Civil War Anglo-Texans prevented African
+Americans from voting by statutes, customs,
+and violence. The schemes created to prevent
+black political participation also worked to
+keep ballots out of the hands of Mexican
+Americans and poor Anglos. The federal government
+forced Texas to admit all of its adult
+citizens to the franchise in the 1960s and 1970s,
+but the legacy of the suppression of voting
+rights lives on in the extremely low turnout of
+the state's minority citizens.</p>
+
+<p>The great Spindletop oil strike near Galveston
+in 1901 inaugurated a period in which
+Texas became one of the world's important
+petroleum-producing provinces and the nation's
+dominant producer. Production taxes
+on oil and gas, in many years supplying a third
+of state government revenue, reinforced the
+resistance of the population to more direct
+taxes.</p>
+
+<p>The general conservatism of the dominant
+Anglo population found further expression in
+two institutional arrangements. First, Texas
+was a one-party Democratic state until well
+into the 1970s. Since the Texas Democratic
+Party was usually dominated by reactionaries,
+the one-party system served to reinforce the
+control of dominant ethnic and economic interests.
+Second, the state constitution of 1876,
+written by white farmers nursing grievances
+against the perceived tyranny of the justdeparted
+Reconstruction regime, "disintegrates"
+the executive, parceling out legislative
+and administrative power among several independently
+elected o.cials. The governor is
+weak. Moreover, in seeking to foresee and prohibit
+every possible misbehavior by state government,
+the authors wrote in specifically circumscribed
+grants of power and forbade
+almost everything not mentioned in the document.
+The result of this specificity has been
+both a state government that does comparatively
+little, and one that must amend the constitution
+to meet every new contingency. As a
+consequence, by the late 1990s the constitution,
+at over 80,000 words, was the second longest
+among the states and had been amended
+more than 360 times.</p>
+
+<p>At the turn of the twenty-first century,
+Texas had a population of about twenty million,
+making it the second most populous
+state in the country. Its economy was robust
+and diverse. The modernity and prosperity of
+the state, however, existed alongside political
+institutions and behaviors that exhibited
+more apparent than real change.</p>
+
+<p>Texas's petroleum production, the foundation
+of its economy for most of the twentieth
+century, declined steadily after the 1960s. By
+the mid-1980s production taxes were supplying
+less than 5 percent of state government
+revenue. The legislature responded by raising
+the sales tax, whose regressive impact fell most
+heavily on the poor. Texas remained the only
+large industrial state without an income tax.</p>
+
+<p>When the national Democratic Party became
+dominated by liberals in the 1960s, it set
+in motion a slow party realignment among
+the state's conservative Anglo population. Minority
+citizens, now fully enfranchised, tended
+to vote overwhelmingly Democratic, but they
+still went to the polls in very low percentages.
+This voluntary abstention meant that the generally
+greater liberalism of African Americans
+and Mexican Americans had little impact on
+elections, and state government remained
+conservative. By the mid-1990s Republicans
+filled most state offices.</p>
+
+<p>Nevertheless, the Mexican American portion
+of Texas's population continues to grow
+rapidly. If Mexican Americans and African
+Americans ever began to go to the polls in
+significant numbers, they could join with the
+few liberal Anglos in a "rainbow coalition"
+that might transform the state's politics. At
+this writing, however, there is no sign that
+such a transformation is imminent.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">INDUSTRY</hi>: <ref n="egp.ind.047">Petroleum, United States</ref>.</p>
+
+<closer>
+<signed>David F. Prindle<lb/>
+University of Texas at Austin</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Barr, Alwyn. <title level="m">Black Texans: A History of African Americans
+in Texas, 1528–1995</title>. Norman: University of Oklahoma
+Press, 1996.</bibl> <bibl>Kraemer, Richard H., Charldean Newell, and
+David F. Prindle. <title level="m">Texas Politics</title>. 8th ed. Belmont <hi rend="smallcaps">CA</hi>: West/
+Wadsworth, 1999.</bibl> <bibl>Montejano, David. <title level="m">Anglos and Mexicans
+in the Making of Texas, 1836–1986</title>. Austin: University of
+Texas Press, 1987.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

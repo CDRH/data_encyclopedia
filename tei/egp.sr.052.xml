@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Storm Chasing</title>
+<title level="m" type="sub"></title>
+<author>Matthew D. Biddle</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.052</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Biddle, Matthew D.">Matthew D. Biddle</author>. <title level="a">"Storm Chasing."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">787</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">STORM CHASING</head>
+
+<p>The attempt to intercept supercell thunderstorms
+and tornadoes from as close a distance
+as possible is known as storm chasing. The
+prevalence of flat terrain and a scarcity of trees
+combine with a climatology rich in spectacular
+and violent weather to make the Great
+Plains the optimal arena for storm chasing.
+Each spring, people from all corners of the
+country and beyond visit "Tornado Alley," an
+area of the Great Plains stretching from North
+Texas to Nebraska that is the breeding ground
+of more tornadoes per area than anywhere in
+the world, to storm chase. In addition to meteorological
+researchers, amateur weather enthusiasts,
+photographers, and videographers
+chase storms as a hobby, and emergency management
+"storm spotters" and television news
+crews chase to provide early warnings to the
+public.</p>
+
+<p>Storm chasing was formally begun by a
+handful of scientists at the National Severe
+Storms Laboratory (<hi rend="smallcaps">NSSL</hi>) in Norman, Oklahoma,
+in the mid-1970s to obtain ground
+truth information in support of the development
+of weather radar. Storm chasing is extremely
+hazardous, especially when attempted
+by those without adequate meteorological
+training and experience, but the recent swell
+of attention given the endeavor by the media
+and the popularity of the Hollywood movie
+<title>Twister</title> (1996) have led to its dramatic increase
+as a recreational pursuit. Nationally televised
+programs regularly take viewers on virtual
+chases by following research teams and other
+chasers around the Plains each storm season.
+Storm-chasing tour companies now take vanloads
+of paying storm tourists on weeklong
+voyages in search of storms. Customers come
+from all backgrounds, and "chase vacations"
+in the Great Plains have become popular with
+weather enthusiasts from as far away as Europe
+and Japan.</p>
+
+<p>Large-scale, research-oriented storm intercept
+projects also became more numerous in the
+late 1990s as meteorologists sought to improve
+warning technologies and understand tornado
+genesis. Field intercept projects of note include
+the Verification of the Origins of Rotation in
+Tornadoes Experiment (<hi rend="smallcaps">VORTEX</hi>), an ongoing
+multimillion-dollar research project begun in
+1994 and headquartered at <hi rend="smallcaps">NSSL</hi>. <hi rend="smallcaps">VORTEX</hi> utilizes
+four to ten vehicles equipped with Mobile
+Mesonets, an array of sensors mounted on car
+tops that measure and record weather data very
+near and around tornadoes. Mobile weather
+balloon units, video and photogrammetry
+crews, and radar-equipped "hurricane hunter"
+aircraft are sometimes used.</p>
+
+<p>Despite their relative frequency on the
+Plains, tornadoes are still rare events. Even the
+most experienced and schooled chasers face
+poor odds of success. Forecasts must be made
+hours before a tornado touches down, and it is
+common for chases to cover more than 1,000
+miles in a day to and from a "target area." An
+intercept rate of one tornado witnessed per ten
+chases is considered a respectable average. In
+spite of these odds, scientific storm chasing has
+resulted in the collection of valuable weather
+data. The success of such field research operations
+coupled with the high profile storm chasing
+has gained from media coverage of recent
+tornado events such as the 1999 Oklahoma
+City outbreak has stirred widespread fascination
+with violent weather and made storm
+chasing an activity likely to remain part of
+Great Plains science and recreation.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">FOLKWAYS</hi>: <ref n="egp.fol.043">Tornado Stories</ref> / <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.061">Tornadoes</ref>.</p>
+
+<closer>
+<signed>Matthew D. Biddle<lb/>
+University of Oklahoma</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bedard, Richard. <title level="m">In the Shadow of the Tornado</title>. Norman
+<hi rend="smallcaps">OK</hi>: Gilco Publishing, 1996.</bibl> <bibl>Bluestein, Howard. <title level="m">Tornado
+Alley: Monster Storms of the Plains</title>. New York: Oxford
+University Press, 1999.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

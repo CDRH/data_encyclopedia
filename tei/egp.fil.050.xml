@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.050">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Nolte, Nick (b. 1942)</title>
+<title level="m" type="sub"></title>
+<author>Karen L. Durst</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.050</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+    <bibl><author n="Durst, Karen L.">Karen L. Durst</author>. <title level="a">"Nolte, Nick (b. 1942)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">274-275</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">NOLTE, NICK (b. 1942)</head>
+<figure n="egp.fil.050" rend="granted" type="noclick">
+<figDesc>Nick Nolte</figDesc>
+</figure>    
+
+<p>Born in Omaha, Nebraska, on February 8,
+1941, Nick Nolte was a star athlete in high
+school who won a football scholarship to Arizona
+State University. Over the next several
+years he drifted in and out of numerous college
+programs before abandoning plans for a
+professional football career.</p>
+
+<p>While studying at the Pasadena Playhouse,
+Nolte came to the attention of a drama coach
+who encouraged him to study at Stella Adler's
+Academy. Believing that the coasts were over-populated
+with talented actors, Nolte sought
+opportunities to develop his acting skills
+with various regional theater companies. He
+worked for more than a decade with companies
+in Denver, Chicago, and Minneapolis.
+After a few minor television roles in the early
+1970s, Nolte landed the pivotal role of his career
+(<title>Rich Man, Poor Man</title>, <hi rend="smallcaps">ABC</hi> [1976]), which
+garnered him an Emmy nomination.</p>
+
+<p>Hollywood noticed his phenomenal audience
+appeal, and Nolte began regular film
+work. Although much in demand as a romantic
+lead (<title>The Deep</title>, 1977; <title>Prince of Tides</title>, 1991),
+Nick Nolte has almost always shunned purely
+commercial fare in favor of roles that examine
+the darker, more troubling elements of the human
+spirit. As a result, he is more often seen as
+a complex and often threatening antagonist (<title>Q&amp;A</title>, 1990) than a romantic leading man. Even
+his more romantic turns (as in <title>Afterglow</title>, 1997)
+examine a tortured psyche with enormous
+depth and realism.</p>
+
+<p>One of the most physically intense and
+emotionally eloquent contemporary American
+actors, Nolte continues to produce critically
+acclaimed performances (<title>Affliction</title>, 1998;
+<title>The Thin Red Line</title>, 1999).</p>
+
+<closer>
+<signed>Karen L. Durst<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Katz, Ephraim. <title level="m">The Film Encyclopedia</title>. 3rd ed. New York:
+HarperPerennial, 1998.</bibl> <bibl>Macnab, Geoffrey. "Saint Nick."
+<title level="j">Sight and Sound</title> 8 (1998): 6-8.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

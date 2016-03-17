@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.pd.011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Browder, Earl (1891-1973)</title>
+<title level="m" type="sub"></title>
+<author>James G. Ryan</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.pd.011</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Ryan, James G.">James G. Ryan</author>. <title level="a">"Browder, Earl (1891-1973)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">707-708</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BROWDER, EARL (1891-1973)</head>
+
+<p>Leader of the American Communist Party
+(<hi rend="smallcaps">CPUSA</hi>) during the movement's heyday, Earl
+Russell Browder was born into an impoverished,
+radicalized Wichita, Kansas, family on
+May 20, 1891. Forced to leave school before
+completing third grade, he rose eventually
+to become an accountant, while wandering
+around Kansas City leftist movements. World
+War I draft resistance sent him to Leavenworth
+Penitentiary in 1919. Upon release, he
+located New York Leninists and soon led a
+delegation to Moscow. There, he befriended
+Soviet labor expert Solomon Lozovsky. Between
+1922 and 1926 Browder assisted domestic
+working-class hero William Z. Foster and
+supported Joseph Stalin, who was bureaucratizing
+the Soviet Union's revolutionary state.
+In 1926 Browder married Raissa Luganovskaya,
+a former Russian commissar of justice,
+who pestered Lozovsky to give Browder a career
+break. Covert work for the Communist
+International (Comintern) in China quickly
+followed. By 1932 Browder led the cpusa, and
+soon he was championing Comintern head
+Georgi Dimitrov's antifascist Popular Front
+policy, which sought to replace revolution
+with reformism and advocated collective security
+with the Soviet Union against Germany.
+Rapidly the Communists became the
+largest political party left of the Democrats,
+bringing unprecedented influence.</p>
+
+<p>In 1939 the Soviet Union signed a nonaggression
+treaty with Nazi Germany, abandoning
+the tactic of collective security.
+Browder vacillated, caught between the Soviet
+Union's demands and domestic radical needs.
+In 1941 the U.S. government sent him to Atlanta
+Penitentiary on an ancient passport
+technicality. Amid a national "Red Scare," the
+cpusa hastily broke official Comintern ties. In
+June 1941 Germany invaded Russia, and that
+December the United States entered the war,
+making possible the Grand Alliance between
+the Soviet Union and the Western powers.
+Communists gave the conflict their total support,
+and President Franklin D. Roosevelt
+freed Browder on May 16, 1942.</p>
+
+<p>Unlike his experience in Leavenworth twenty
+years earlier, imprisonment in Atlanta left
+Browder with permanent psychological damage.
+Wisely, in 1938 he had secured his sister's
+release from Soviet secret police work, citing his
+own high profile. Yet recklessly he maintained
+espionage contacts because of curiosity, a need
+to outpace former mentor Foster (now a rival),
+and to impress the Russians. In 1943 Stalin disbanded
+the Comintern. Browder, ever vain, assumed
+he now led an independent Communist
+movement. By 1944 he considered himself a
+world Marxist thinker, akin to Chou En-lai.
+Browder converted the <hi rend="smallcaps">CPUSA</hi> into a leftist pressure
+group, the Communist Political Association.
+He thereby abandoned the movement's
+Leninist vanguard role. Once Allied victory
+became inevitable, a message from Moscow
+brought the cpusa's reconstitution and Browder's
+expulsion. He spent his remaining years a
+pariah and died on June 27, 1973, unmourned by
+any Communist publications.</p>
+
+<closer>
+<signed>James G. Ryan<lb/>
+Texas A&amp; University at Galveston</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Browder, Earl. Papers. Syracuse University Library, Syracuse
+University, Syracuse <hi rend="smallcaps">NY</hi>.</bibl> <bibl>Ryan, James G. <title level="m">Earl Browder:
+The Failure of American Communism</title>. Tuscaloosa:
+University of Alabama Press, 1997.</bibl> <bibl>Ryan, James G. "Earl
+Browder and American Communism." In <title level="m">American Reform
+and Reformers</title>, edited by Randall M. Miller and Paul
+A. Cimbala. Westport <hi rend="smallcaps">CT</hi>: Greenwood Press, 1996: 71–82.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Flatlanders</title>
+<title level="m" type="sub"></title>
+<author>Andy Wilkinson</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.016</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wilkinson, Andy">Andy Wilkinson</author>. <title level="a">"The Flatlanders."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">538</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THE FLATLANDERS</head>
+<figure n="egp.mus.016" rend="granted" type="noclick">
+<figDesc>The Flatlanders' album cover (1972)</figDesc>
+</figure>       
+
+<p>In the arts, events need not last long to have
+long-lasting impact. Such is the case with the
+Flatlanders, a Lubbock, Texas, band from the
+early 1970s. Though they were together scarcely
+over a year and produced only one recording,
+which wasn't released until almost a decade after
+they'd gone their separate ways, the influence of
+their music has spanned generations, genres,
+and geography.</p>
+
+<p>Joe Ely, Jimmie Dale Gilmore, and Butch
+Hancock had become acquainted during their
+high school years in Lubbock. Reconnecting
+there in the summer of 1971, they discovered
+their mutual interests in blues, old-time country
+music (especially the works of Jimmie
+Rodgers), and songwriting. The three began
+performing together, with Jimmie Dale handling
+the lead vocals, Joe adding harmonica
+and Dobro, and all playing acoustic guitar and
+singing harmonies. From time to time, they
+were joined by several other musicians native
+to the Llano Estacado: John Reed on guitar,
+Sylvester Rice on acoustic bass, Tony Pearson
+on mandolin, and Steve Wesson on saw (a carpenter's
+ripsaw, bent and played with a violin
+bow).</p>
+
+<p>The band, called the Flatlanders in celebration
+of the region's topography, cut several
+demo tracks at a small studio in Big Springs,
+Texas. Those led to a recording session in
+Nashville in February 1972, when Ely, Gilmore,
+and Hancock recorded seventeen songs, joined
+by Tommy Hancock on fiddle, Rice on acoustic
+bass, and Wesson on saw. Gilmore and Butch
+Hancock each wrote four of the tunes, Lubbock
+native Al Strehli wrote two, and Al's sister
+Angela wrote another. The selections were
+augmented with classic songs by Jimmie Rodgers,
+Willie Nelson, A. P. Carter, and Harry
+Choates. The company for whom the session
+was done, Plantation Records, only released
+two 45s for airplay: "Dallas" and "Jole Blon." It
+wasn't until 1980 that an English label, Charly
+Music, released an LP (<title>The Flatlanders: One Road More</title>) with all seventeen cuts.</p>
+
+<p>The Flatlanders scattered soon after the
+release of the two singles, but their music
+has continued to influence new generations of
+audiences and musicians. In particular, Joe
+Ely and Jimmie Dale Gilmore are now internationally
+known for their songwriting, performing,
+and recording careers, and Butch
+Hancock has developed a cultlike reputation
+for his writing. In 1990 Rounder Records released
+a <hi rend="smallcaps">CD</hi> reissue of fourteen songs from the
+Nashville session. Aptly, it was entitled <title>More a Legend than a Band</title>.</p>
+
+<closer>
+<signed>Andy Wilkinson<lb/>
+Lubbock, Texas</signed>
+</closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

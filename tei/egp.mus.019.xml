@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.mus.019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Guthrie, Woody (1912-1967)</title>
+<title level="m" type="sub"></title>
+<author>Brad Lookingbill</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.mus.019</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Lookingbill, Brad">Brad Lookingbill</author>. <title level="a">"Guthrie, Woody (1912-1967)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">539</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GUTHRIE, WOODY (1912-1967)</head>
+<figure n="egp.mus.019" rend="granted" type="noclick">
+<figDesc>Woody Guthrie, 1943</figDesc>
+</figure>     
+
+<p>Woodrow Wilson, or Woody, Guthrie was
+born in Okemah, Oklahoma, on July 14, 1912.
+His formative years exposed him to middleclass
+circumstances in a wild and restless
+boomtown, although his family life unraveled
+by 1927. His father, Charlie, became an alcoholic,
+while his mother, Nora, suffered from
+Huntington's chorea and was committed to a
+mental institution.</p>
+
+<p>Relocating to Pampa, Texas, in 1929, Guthrie
+met and married his first wife, Mary Jennings.
+While listening to the voices emanating
+from the region, he developed his musical talents
+and appropriated cowboy songs, gospel
+hymns, and hard-luck blues for his repertoire.
+Soon he discovered a new life as a rambling
+minstrel, playing folksy songs on his guitar at
+country dances, rodeos, and carnivals.</p>
+
+<p>In 1937, after experiencing firsthand the blistering
+heat and sandstorms of the Dust Bowl,
+Guthrie left his family and took to the road. He
+arrived in California, where a relative helped
+him find work. The boom in country music on
+the radio brought ballads to <hi rend="smallcaps">KFVD</hi> in Los Angeles,
+California, and listeners enjoyed folk
+songs that described a distant homeland and
+"cornpone" philosophy. While referencing experiences
+seemingly long ago and far away,
+Guthrie's lyrics summoned an audience's recollections
+of hard times in the heartland. From
+the beginning of his musical career, he was
+dubbed the Dust Bowl Troubadour and the
+Okie Balladeer. After a divorce from his first
+wife, he married Marjorie Mazia in 1945.</p>
+
+<p>While playing the restless saloon singer,
+Guthrie matured into a visionary artist. He
+wrote a column for the <title level="j">People's Daily World</title> and
+crafted poetry, a novel, and an autobiography.
+Composing more than 1,000 songs, he sang of
+the Dust Bowl, President Roosevelt's New Deal,
+antifascist patriotism, union organization, and
+child's play. His titles ranged from "Jesus
+Christ" to "Union Maid." His working-class
+heroes traveled with him in the classic anthem
+"This Land Is Your Land." Over the course of
+his journey, he collaborated with Maxine
+"Lefty Lou" Crissman, Pete Seeger, Leadbelly,
+Burl Ives, Cisco Houston, and Alan Lomax. By
+the 1960s, Guthrie had become a legendary
+icon for a younger generation of protest musicians,
+including Bob Dylan and Joan Baez. His
+influence is still seen in the more contemplative
+songs of Bruce Springsteen.</p>
+
+<p>Guthrie identified with the "Dust Bowl refugees"
+of the Great Plains and, in efect, reinvented
+himself. Through the chords of memory
+he articulated a collective search among
+plain-folk Americans for a better life. While
+musing that socialism offered a new hope for
+this kind of proletariat, he sang about a primitive
+rebel in a nascent state. The wiry balladeer
+came to embody the rambling Okie of his
+songs. After suffering for fifteen years from
+Huntington's chorea, he died in New York on
+October 3, 1967.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">PHYSICAL ENVIRONMENT</hi>: <ref n="egp.pe.022">Dust Bowl</ref> / <hi rend="smallcaps">POLITICS AND GOVERNMENT</hi>: <ref n="egp.pg.054">New Deal</ref>.</p>
+
+<closer>
+<signed>Brad Lookingbill<lb/>
+Columbia College</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Guthrie, Woody. <title level="m">Bound for Glory</title>. New York: E. P. Dutton,
+1943.</bibl> <bibl>Klein, Joe. <title level="m">Woody Guthrie: A Life</title>. New York: Alfred
+A. Knopf, Inc., 1980.</bibl> <bibl>Lookingbill, Brad. "Dusty Apocalypse
+and Socialist Salvation: A Study of Woody Guthrie's
+Dust Bowl Imagery." <title level="j">Chronicles of Oklahoma</title> 72 (1994–
+95): 396–413.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

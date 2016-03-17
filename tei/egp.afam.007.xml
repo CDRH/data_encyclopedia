@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.afam.007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Baseball, Interracial</title>
+<title level="m" type="sub"></title>
+<author>Jason Pendleton</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.afam.007</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Pendleton, Jason">Jason Pendleton</author>. <title level="a">"Baseball, Interracial."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">10</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-03</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">BASEBALL, INTERRACIAL</head>
+<figure n="egp.afam.007" rend="granted">
+<figDesc>A 1935 team photograph of the integrated Bismarck Churchills semi-professional baseball team.</figDesc>
+</figure>   
+<p>Interracial baseball was prevalent in the Great
+Plains at the same time that other social interaction
+between African Americans and whites
+was virtually nonexistent. While Jim Crow
+segregation prevented African Americans
+from fully enjoying their constitutional liberties,
+black baseball players routinely experienced
+equality on the baseball fields of the
+Great Plains. It was common for all-black
+teams such as the San Angelo Sheepherders or
+Kansas City Colts to play against all-white
+teams such as the Duncan (Oklahoma) Cementers
+or the Arkansas City (Kansas) Dubbs.</p>
+
+<p>Beginning around 1920, and increasingly
+thereafter, residents of the Great Plains could
+watch baseball contests between local all-black
+teams as well as barnstorming (touring) black
+teams that challenged local white teams. The
+all-black Wichita Monrovians, who played
+in the professional Colored Western League
+(founded in 1922) along with all-black teams
+from Oklahoma City, Omaha, Coffeyville,
+Topeka, Independence, and Kansas City (Kansas),
+often played white teams throughout the
+Plains because additional games provided
+players the opportunity to earn extra money.
+Barnstorming tours were also common and
+included many professional black teams, including
+the Cuban All Stars and the Kansas
+City Monarchs&#8211;the top team in the Negro
+National League in the 1920s and 1930s. Despite
+the segregation that isolated white and
+black Americans in everyday life, the baseball
+diamond proved to be a place where diverse
+people could compete on an equal basis.</p>
+
+<p>The extent of racial toleration on the baseball
+field is evident from the game that took
+place in 1925 between the all-black Wichita
+Monrovians and the all-white Wichita Ku
+Klux Klan Number 6 team. The game was
+played without violence, and the Monrovians
+prevailed ten to eight. Another sign of racial
+toleration on the baseball fields of the Great
+Plains was the existence of an entire racially
+integrated league in North Dakota in the early
+1930s. The league included many players from
+the Negro National League, including Hall of
+Famer Satchel Paige, who played for the integrated
+Bismarcks and was paid $400 a month
+and given a car by the team owner.</p>
+
+<p>The expansion of integrated regional baseball
+continued in 1934 when the organizers of
+the <title level="j">Denver Post</title>'s semiprofessional baseball
+tournament invited the Kansas City Monarchs
+to be the first all-black team in the tournament's
+nineteen-year history. The Monarchs
+finished second and set the stage for future
+black teams to participate in Plains baseball
+tournaments. In 1935 the magnitude of racial
+toleration in baseball in the Plains was displayed
+in Wichita at the first National Semi-
+Pro Baseball Tournament. Four different racial
+groups competed among the thirty-two
+teams in the tournament. The Memphis Red
+Sox, San Angelo Sheepherders, Denver Stars,
+Texas Centennials, and Monroe Monarchs
+were all-black teams. The Nipponese Stars
+from California were Japanese and the Stanolind
+Indians from Oklahoma were Native
+American. The most diverse team was the
+tournament champion, the Bismarcks, who
+featured five white players and six black players,
+including Satchel Paige, who pitched in
+the decisive championship game.</p>
+
+<p>Despite the presence of interracial baseball,
+the Great Plains was not a haven of racial tolerance
+in the Jim Crow era. Racial toleration
+in baseball in the Great Plains existed because
+African Americans represented only a tiny
+fragment of the total population and were
+consequently not considered a threat to the
+existing social order. Interracial and integrated
+baseball flourished there because the
+presence of black and white players together
+did not challenge the racist segregation that
+existed outside the lines of the ballfield.</p>
+
+<p><hi rend="italic">See also</hi> <hi rend="smallcaps">SPORTS AND RECREATION</hi>: 
+<ref n="egp.sr.003">Baseball</ref>.</p>
+
+<closer>
+<signed>Jason Pendleton<lb/>
+Lawrence, Kansas</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Bruce, Janet. <title level="m">The Kansas City Monarchs. Lawrence: University
+Press of Kansas, 1985</title>.</bibl> <bibl>Pendleton, Jason. "<title level="a">A Jim
+Crow Strikes Out: Interracial Baseball in Wichita, Kansas
+1920–1935</title>." <title level="j">Kansas History</title> 20 (1997): 86–101.</bibl> <bibl>Rogosin,
+Donn. <title level="m">Invisible Men: Life in Baseball's Negro Leagues</title>. New
+York: Atheneum, 1983.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

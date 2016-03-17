@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.fil.000 SYSTEM "egp.fil.000.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.000">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Film</title>
+<title level="m" type="sub"></title>
+<author></author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.000</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+    
+    
+    
+    
+<revisionDesc>
+<change when="2011-04-15"><name>Erin Pedigo</name> changed refs</change>
+<change when="2008-09-08"><name>Nicholas Swiercek</name> Model Encoding</change>
+        
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>     
+
+<div1 type="contents">
+
+<head>Film</head>
+
+<figure n="egp.fil.000" rend="granted">
+<figDesc>Red River</figDesc>
+</figure>
+
+<list>
+
+<item><ref n="egp.fil.001">Film</ref></item>
+<item><ref n="egp.fil.002">Altman, Robert</ref></item>
+<item><ref n="egp.fil.003">Arbuckle, Fatty</ref></item>
+<item><ref n="egp.fil.004">Astaire, Fred</ref></item>
+<item><ref n="egp.fil.005">Autry, Gene</ref></item>
+<item><ref n="egp.fil.006">Beery, Wallace</ref></item>
+<item><ref n="egp.fil.007">Brando, Marlon</ref></item>
+<item><ref n="egp.fil.008">Brooks, Louise</ref></item>
+<item><ref n="egp.fil.009">Butler, Hugo</ref></item>
+<item><ref n="egp.fil.010">Chaney, Lon</ref></item>
+<item><ref n="egp.fil.011"><hi rend="italic">Cimarron</hi></ref></item>
+<item><ref n="egp.fil.012">Clift, Montgomery</ref></item>
+<item><ref n="egp.fil.013">Cody, Iron Eyes</ref></item>
+<item><ref n="egp.fil.014">Cooper, Gary</ref></item>
+<item><ref n="egp.fil.015">Custer Films</ref></item>
+<item><ref n="egp.fil.016"><hi rend="italic">Dances with Wolves</hi></ref></item>
+<item><ref n="egp.fil.017"><hi rend="italic">Days of Heaven</hi></ref></item>
+<item><ref n="egp.fil.018">Dennis, Sandy</ref></item>
+<item><ref n="egp.fil.019">Disney, Walt</ref></item>
+<item><ref n="egp.fil.020"><hi rend="italic">Drylanders</hi></ref></item>
+<item><ref n="egp.fil.021">Fairbanks, Douglas, Sr.</ref></item>
+<item><ref n="egp.fil.022">Film Companies</ref></item>
+<item><ref n="egp.fil.023">Fonda, Henry</ref></item>
+<item><ref n="egp.ii.027">Gale, Dorothy<hi rend="italic">See</hi> <hi rend="smallcaps">Images and Icons</hi></ref></item>
+<item><ref n="egp.fil.025"><hi rend="italic">Giant</hi></ref></item>
+<item><ref n="egp.fil.026"><hi rend="italic">The Grapes of Wrath</hi></ref></item>
+<item><ref n="egp.fil.027">Gray, Coleen</ref></item>
+<item><ref n="egp.fil.028">Harlow, Jean</ref></item>
+<item><ref n="egp.fil.029">Hollywood Indians</ref></item>
+<item><ref n="egp.fil.030">Hopper, Dennis</ref></item>
+<item><ref n="egp.fil.031"><hi rend="italic">Hud</hi></ref></item>
+<item><ref n="egp.fil.032"><hi rend="italic">Incident at Oglala</hi></ref></item>
+<item><ref n="egp.law.020"><hi rend="italic">In Cold Blood</hi> <hi rend="italic">See</hi> <hi rend="smallcaps">Law</hi></ref></item>
+<item><ref n="egp.fil.034">Johnson, Martin and Osa</ref></item>
+<item><ref n="egp.afam.024">Johnson, Noble M <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.fil.036">Jones, Tommy Lee</ref></item>
+<item><ref n="egp.fil.037">Keaton, Buster</ref></item>
+<item><ref n="egp.fil.038"><hi rend="italic">The Last Picture Show</hi></ref></item>
+<item><ref n="egp.afam.026">Little, Cleavon <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.fil.040"><hi rend="italic">Little Big Man</hi></ref></item>
+<item><ref n="egp.fil.041">Lloyd, Harold</ref></item>
+<item><ref n="egp.fil.042">Loy, Myrna</ref></item>
+<item><ref n="egp.fil.043">Mann, Delbert</ref></item>
+<item><ref n="egp.afam.029">McDaniel, Hattie <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.fil.045">McGuire, Dorothy</ref></item>
+<item><ref n="egp.afam.031">Micheaux, Oscar <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.fil.047">Miller Brothers</ref></item>
+<item><ref n="egp.fil.048">Moore, Demi</ref></item>
+<item><ref n="egp.fil.049">Movie Houses</ref></item>
+<item><ref n="egp.fil.050">Nolte, Nick</ref></item>
+<item><ref n="egp.fil.051"><hi rend="italic">Northern Lights</hi></ref></item>
+<item><ref n="egp.fil.052">Oil Field Films</ref></item>
+<item><ref n="egp.fil.053"><hi rend="italic">Oklahoma!</hi></ref></item>
+<item><ref n="egp.afam.034">Parks, Gordon <hi rend="italic">See</hi> <hi rend="smallcaps">African Americans</hi></ref></item>
+<item><ref n="egp.fil.055"><hi rend="italic">The Plow That Broke the Plains</hi></ref></item>
+<item><ref n="egp.fil.056">Prairie Films</ref></item>
+<item><ref n="egp.fil.057"><hi rend="italic">Red River</hi></ref></item>
+<item><ref n="egp.fil.058">Rogers, Will</ref></item>
+<item><ref n="egp.fil.059">Saunders, Russell M.</ref></item>
+<item><ref n="egp.fil.060"><hi rend="italic">Soldier Blue</hi></ref></item>
+<item><ref n="egp.fil.061">Splendor in the Grass</ref></item>
+<item><ref n="egp.fil.062">Taylor, Robert</ref></item>
+<item><ref n="egp.med.046">Television Shows <hi rend="italic">See</hi> <hi rend="smallcaps">Media</hi></ref></item>
+<item><ref n="egp.fil.064">Westerns</ref></item>
+<item><ref n="egp.fil.065"><hi rend="italic">The Wizard of Oz</hi></ref></item>
+<item><ref n="egp.fil.066">Wyatt Earp Films</ref></item>
+<item><ref n="egp.fil.067">Zanuck, Darryl F.</ref></item>
+
+</list></div1>
+
+
+</body>
+</text>
+</TEI>

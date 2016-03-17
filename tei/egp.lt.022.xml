@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Grey, Zane (1872-1939)</title>
+<title level="m" type="sub"></title>
+<author>Arthur G. Kimball</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.022</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Kimball, Arthur G.">Arthur G. Kimball</author>. <title level="a">"Grey, Zane (1872-1939)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">479</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-23</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">GREY, ZANE (1872-1939)</head>
+<figure n="egp.lt.022" rend="granted" type="noclick">
+<figDesc>Zane Grey holds a Koala during a visit to Australia</figDesc>
+</figure>    
+
+<p>Immensely popular in the 1910s and 1920s as a
+writer of Western romances such as <title level="m">Heritage of the Desert</title> (1910) and <title level="m">Riders of the Purple Sage</title> (1912), Zane Grey also wrote sporting and
+adventure novels and short stories. He was
+born Pearl Zane Grey on January 31, 1872, in
+Zanesville, Ohio. He practiced dentistry in
+New York City from 1896 to 1904 before traveling
+extensively in the West. He died on October
+23, 1939, in Altadena, California.</p>
+
+<p>Vintage Grey features a romantic adventure
+during which a couple, often two couples, find
+true love, marriage, and wealth after overcoming
+obstacles in an environment made ambiguous
+by conflicting laws. The majestic western
+land confronts them: beauty, vastness, physical
+challenge, and a renewing spirit. So does outlaw
+violence: rustling, gunplay, and threats of
+seduction, the latter enhancing the erotic appeal.
+They respond with fists and guns. Splendid
+horses frequently aid the protagonists. Native
+Americans, either as enemies or victims,
+often constitute a disturbing presence.</p>
+
+<p>Sometimes locale specific, sometimes not,
+Grey's narratives often travel the Great Plains.
+In <title level="m">The Trail Driver</title> (1936), Texas Joe Shipman
+wins the love of orphan Reddy Bayne on an
+1871 cattle drive from Texas to Dodge City.
+Tough young Andrew Bonning prevails with
+equally tough runaway Martha Ann Dixon in
+<title level="m">Wyoming</title> (1953). The earlier <title level="m">U.P. Trail</title> (1918)
+celebrates the building of the Union Pacific
+Railroad. Several Grey novels involve Texas
+Rangers. Wade Holden in <title level="m">Shadow on the Trail</title>
+(1946) has to escape them to prove himself. In
+<title level="m">Lone Star Ranger</title> (1915) Buck Duane flees from
+and then secretly joins the Rangers to clear his
+name. The close reader will find intriguing ironies
+in Grey; in both <title level="m">Heritage of the Desert</title> and
+Lone Star Ranger conflicting and ambiguous
+laws call into question their very meaning.</p>
+
+<closer>
+<signed>Arthur G. Kimball<lb/>
+Huron International University Tokyo</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Kimball, Arthur G. <title level="m">Ace of Hearts: The Westerns of Zane Grey</title>. Fort Worth: Texas Christian University Press, 1993.</bibl>
+<bibl>Scott, Kenneth W. <title level="m">Zane Grey: Born to the West: A Reference Guide</title>. Boston: G. K. Hall, 1979.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

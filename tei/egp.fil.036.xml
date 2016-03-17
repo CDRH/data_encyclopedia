@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fil.036">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Jones, Tommy Lee (b. 1946)</title>
+<title level="m" type="sub"></title>
+<author>David J. Wishart</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fil.036</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Wishart, David J.">David J. Wishart</author>. <title level="a">"Jones, Tommy Lee (b. 1946)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">270-271</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">JONES, TOMMY LEE (b. 1946)</head>
+<figure n="egp.fil.036" rend="granted">
+<figDesc>Tommy Lee Jones in Lonesome Dove</figDesc>
+</figure>    
+
+<p>Tommy Lee Jones, who was born to workingclass
+parents in the small central Texas town of
+San Saba on September 15, 1946, has the looks
+(his face appears to have been chiseled by a
+dusty Plains wind) and real experience of cattle
+country that surely would have made him a
+hero of Westerns had not that genre faded before
+he became a star (his role in the television
+movie <title>Lonesome Dove</title> [1988] proves this
+point). Instead, he has become a popular, accomplished,
+not-quite-leading man in a diverse
+array of films, including his complex portrayal
+of murderer Gary Gilmore in <title>The Executioner's Song</title> (1982), his inventive character
+study of Clay Shaw in <title><hi rend="smallcaps">JFK</hi></title> (1992), and his
+tongue-in-cheek performances in Hollywood
+action movies like <title>Men in Black</title> (1997).</p>
+
+<p>There is no doubt that Jones is a fine actor
+who through small gestures can make his characters
+real, and he was honored as such with a
+best supporting actor Academy Award for his
+role as Gerard in <title>The Fugitive</title> (1994). Yet part
+of his appeal is that he doesn't seem to take
+himself seriously. A cum laude graduate in English
+from Harvard (where he also played football
+and roomed with Al Gore), he nevertheless
+still locates "home" as "somewhere
+between Texas and Mexico"; he likes to play
+polo, but he also raises cattle on a ranch near
+San Saba; and he credits his Texas upbringing
+with giving him the work ethic that carried
+him through thirty-three feature films by 1998.</p>
+
+<closer>
+<signed>David J. Wishart<lb/>
+University of Nebraska-Lincoln</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Matthews, Peter. "12 Distinct Species of Maniacal Laughter."
+<title level="j">Sight and Sound</title> 7 (1997): 7–9.</bibl> <bibl>Smith, Gavin. "Somebody's
+gonna give you money, you do your best to make
+'em a good hand." <title level="j">Film Comment</title> 30 (1994): 30–36.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

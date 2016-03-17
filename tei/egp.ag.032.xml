@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.ag.032">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Farm Conslidation</title>
+<title level="m" type="sub"></title>
+<author>Bradley H. Baltensperger</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.ag.032</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Baltensperger, Bradley H.">Bradley H. Baltensperger</author>. <title level="a">"Farm Conslidations."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">44-45</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-12-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">FARM CONSOLIDATION</head>
+
+<p>Although the Great Plains region of North
+America was largely settled by 1900, farm
+numbers continued to grow during the first
+third of the twentieth century, peaking at
+nearly 1.7 million in 1935. Average farm size
+was 355 acres in the U.S. Great Plains, and 221
+acres (in 1941) in the Canadian Prairie Provinces.
+During the ensuing six decades, farms
+grew larger and fewer in number. By 1992 only
+646,000 farms remained; there were 502,000
+farms in the ten U.S. Plains states, averaging
+1,020 acres, and 144,000 Prairie Province
+farms averaging 952 acres in 1991. This process
+of farm consolidation was the product of
+a number of economic and environmental
+forces that affected all of North America. The
+effect on Great Plains farms varied considerably
+from place to place, both in timing and
+intensity.</p>
+
+<p>Farm expansion was primarily a product of
+scale economies, mostly related to the impact
+of mechanization and technological change
+in agriculture and in the national economy.
+Increasingly during the twentieth century,
+farmers had to compete with the booming
+manufacturing sector for workers. Laborsaving
+technologies, particularly tractors, were
+adopted mostly because farmers were unable
+to secure a sufficient labor supply at an affordable
+cost. However, machinery was most cost-effective when fully used. A new tractor or hay
+baler could be more easily paid for if the
+farmer had more land on which to use it.
+Thus, machinery purchased to solve a labor
+supply problem put upward pressure on farm
+size, as farmers sought to maximize their return
+on investment.</p>
+
+<p>Farm consolidation was mostly a product
+of the expansion of some family-owned operations
+and the demise of others. In the last
+thirty years of the twentieth century some
+high-profile corporate farming operations
+were established in the Great Plains. Most
+were associated with cattle feedlots, confinement
+hog production, or center-pivot irrigation.
+However, the role of nonfarm corporations
+in agriculture is considerably less
+important in the Great Plains than elsewhere
+in North America: corporate farming in the
+Plains is mostly conducted by family corporations.</p>
+
+<p>The pressure to expand was exacerbated by
+drought and depression during the 1930s. As
+crop yields and prices fell and as some marginal
+cropland was abandoned, farmers in the
+most drought-stricken areas either had to expand
+their operations to maintain adequate
+income or drop out of farming. In the western
+and southern Great Plains states, farm numbers
+plummeted between 1935 and 1959. New
+Mexico lost more than 60 percent of its farms
+in that twenty-four-year period; Oklahoma
+and Texas lost 55 percent; Colorado and Wyoming
+lost more than 45 percent. Farm consolidation
+was not confined to these states.
+Farmers dependent on livestock production
+were especially hard hit. In some counties in
+the Nebraska Sandhills and in southwestern
+Kansas average farm size had more than doubled
+by 1950, and farm numbers had decreased
+accordingly.</p>
+
+<p>In Oklahoma and Texas, the Depression put
+almost unbearable pressure on tenant farmers.
+Farm numbers in these two states dropped by
+23 percent between 1935 and 1945, but the
+number of tenant farmers was cut almost in
+half. Whereas 58 percent of all farms were operated
+by tenants in 1935, only 38 percent were
+tenant-operated in 1945. A few of those tenants
+became owners, but most were squeezed out
+of agriculture altogether.</p>
+
+<p>Farmers in the more humid eastern reaches
+of the Plains were less affected by expansionary
+pressures because they were able to counter
+the "cost-price squeeze" by intensifying
+their operations. In humid, crop-producing
+areas the adoption of tractors during the 1930s
+and 1940s freed up land that had been used to
+feed horses. Increased use of fertilizer and improved
+seed varieties raised total production
+without adding more acres to the farm. These
+options, largely unavailable to livestock producers
+who dominated the drier sections of
+the Plains, resulted in only modest changes in
+farm numbers and size in the eastern third of
+the Dakotas and Nebraska, and northeastern
+Kansas. Average farm size increased less than
+20 percent in many eastern counties before
+1950.</p>
+
+<p>Subsequently, however, and especially after
+1959, this area experienced rapid farm expansion,
+and consolidation shifted dramatically
+from the livestock counties of the south and
+west toward the cash-crop and mixed agriculture
+region of the Central and Northern
+Plains. Corn Belt farmers had already adopted
+most of the yield-enhancing technologies and
+had converted pastureland to crops. Farm expansion was the only means remaining to increase
+farm output and income.</p>
+
+<p>Farms reliant on corn production were particularly
+affected. Between 1959 and 1978
+nearly all counties in this formerly stable
+area saw farm size increase by 40 to 80 percent.
+A typical example is Hall County, a cornproducing
+county in east-central Nebraska.
+Between 1930 and 1950, average farm size grew
+by only 12 percent, from 199 acres to 222 acres;
+but between 1959 and 1978, farm size jumped
+46 percent, from 262 acres to 382 acres. The
+1,628 farms in the county in 1930 had been cut
+nearly in half to 860 by 1978.</p>
+
+<p>Meanwhile, with the recovery from the
+1950s drought, ranchers had some opportunities
+to intensify use of marginal lands, and
+technological change did not produce the
+same pressures to expand operations as was
+the case in the Corn Belt counties. After 1959,
+farm expansion was quite modest in western
+and southern Plains counties, and in some
+areas, farm size actually decreased and farm
+numbers increased.</p>
+
+<p>After the mid-1970s farm numbers changed
+relatively little in the Great Plains. Prior to
+1974, farm numbers dropped by 10 percent or
+more in nearly every five-year period. As of
+1992, there were only 9 percent fewer farms in
+the U.S. Plains states than there had been in
+1974. Certain external factors may have reduced
+expansionary pressures in the last third
+of the twentieth century. Center-pivot irrigation
+technology provided some farmers with
+intensification opportunities, which reduced
+the need to acquire more land. Rural industrialization
+and other nonfarm employment opportunities
+resulted in a dramatic increase in
+the number of farm women holding jobs off
+the farm. The number of farm men employed
+in nonfarm enterprises much or all of the year
+grew substantially in this period. Nonfarm
+wages provided many families with additional
+income even without farm expansion and allowed
+some smaller farms to stay in business.</p>
+
+<p>This is not to say that farm consolidation is
+a thing of the past. Low commodity prices,
+larger machinery, and limited opportunities
+to expand revenues without more land all put
+pressure on farms to expand. In a region
+where most land is already in farms, expansion
+of one farm necessarily comes at the expense
+of others. Larger farms translate into
+fewer farms. Whether the forces that provide
+alternatives to consolidation will continue to
+stabilize farm size and numbers is difficult to
+predict. Technological changes in food production
+and the market prices of agricultural
+products will certainly affect whether smaller
+farms will survive or sell out to their expanding
+neighbors.</p>
+
+<closer>
+<signed>Bradley H. Baltensperger<lb/>
+Michigan Technological University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Baltensperger, Bradley H. "Farm Consolidation on the
+Northern and Central Great Plains." <hi rend="italic">Great Plains Quarterly</hi>
+7 (1987): 256–65.</bibl> <bibl>Baltensperger, Bradley H. "Larger
+and Fewer Farms: Patterns and Causes of Farm Enlargement
+on the Central Great Plains, 1930–1978." <hi rend="italic">Journal of
+Historical Geography</hi> 19 (1993): 299–313.</bibl> <bibl>Shover, John L.
+<hi rend="italic">First Majority, Last Minority: The Transforming of Rural
+Life in America</hi>. DeKalb: Northern Illinois University
+Press, 1976.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

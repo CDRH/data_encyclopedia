@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.fol.029">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mythical Animals</title>
+<title level="m" type="sub"></title>
+<author>James F. Hoy</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.fol.029</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hoy, James F.">James F. Hoy</author>. <title level="a">"Mythical Animals."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">306-307</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-16</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">MYTHICAL ANIMALS</head>
+
+<p>The most pervasive mythical animal of the
+Great Plains is undoubtedly the jackalope.
+Mounted jackalopes are most often seen hanging
+from the walls of cafes, taverns, and filling
+stations throughout the region, while jackalope
+postcards are a popular tourist item.
+Most jackalopes have the body and head of a
+jackrabbit and the antlers of a deer or elk or
+the horns of a pronghorn antelope, although
+the "warrior rabbit" of Nebraska and the Dakotas
+also has pheasant wings and tail feathers.
+The New Mexico version is sometimes called
+an "antelabbit."</p>
+
+<p>A large statue of a jackalope is located in
+Douglas, Wyoming, which claims to be the
+home of this fabulous beast, the brainchild of
+two taxidermist brothers, Ralph and Doug
+Herrick, who created their first one in the
+1930s. The antecedents of the jackalope, however,
+are much older, going back to the Bavarian
+<hi rend="italic">wolpertinger</hi> and the French <hi rend="italic">dahout</hi>.
+These beasts combine crow or hawk wings,
+rabbit ears, deer antlers, boar tusks, duck forefeet,
+rooster hind feet, a foxtail, and a coxcomb,
+all on a woodchuck body.</p>
+
+<p>A body of lore has grown up around the
+jackalope: it can mimic the human voice and
+in earlier times would often sing along with
+night-herding cowboys; jackalopes mate during
+flashes of lightning; and jackalope milk is
+credited with the ability to cure everything
+from rheumatism to snakebite. An exhibit at
+the Dyche Museum of Natural History on the
+campus of the University of Kansas displayed
+not only mounted jackalope and postcards
+but also a number of mounted cottontail rabbits
+aÄicted with Shope's papillomas, a viral
+infection that causes skin growths similar
+to that which forms the outer sheath of the
+pronghorn on an antelope. Other fabulous
+creatures reported in the Great Plains include
+Bigfoot, sighted near McLaughlin, South Dakota,
+during the early 1980s, and a water monster,
+nicknamed "SinkHole Sam," which supposedly
+arose in the early 1950s from an
+underground cavern in McPherson County,
+Kansas, when a small lake there was drained.</p>
+
+<p>Most mythical creatures from the Plains are
+actual animals that have achieved exaggerated
+proportions, such as stories of snakes the size
+of boa constrictors. Obvious hoaxes are the
+postcard versions of giant grasshoppers or
+saddled jackrabbits being ridden by cowboys,
+while stories of giant catfish that reside in the
+deepest waters of the reservoirs that dot the
+Plains are told for truth. Also told for truth are
+reports of animals that were once prevalent
+before being hunted to regional extinction in
+parts of the Plains, such as bear or mountain
+lions or wolves.</p>
+
+<p>Finally, individual animals have sometimes
+taken on mythic status, such as the elusive
+white mustang that roamed the Central Plains
+in the last century, or the "Murder Steer" of
+the southwestern Plains celebrated in folk
+song. Apparently based on an actual quarrel
+and gunfight that resulted from an ownership
+dispute during a roundup, the steer was
+branded murder and set free, whereupon for
+decades it roamed the range from Texas to
+Montana, a grim reminder of the consequences
+of greed and anger.</p>
+
+<closer>
+<signed>James F. Hoy<lb/>
+Emporia State University</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Dance, S. Peter. <title level="m">Animal Fakes and Frauds</title>. Maidenhead
+<hi rend="smallcaps">UK</hi>: Sampson Low, 1975.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.lt.086">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Zitkala &#138;a (1876-1938)</title>
+<title level="m" type="sub"></title>
+<author>P. Jane Hafen</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.lt.086</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Hafen, P. Jane">P. Jane Hafen</author>. <title level="a">"Zitkala &#138;a (1876-1938)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">498</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">ZITKALA &#138;A (1876-1938)</head>
+<figure n="egp.lt.086" rend="granted" type="noclick">
+<figDesc>Portrait photograph of Zitkala &#138;a, attributed to Gertrude Kasebier</figDesc>
+</figure>
+
+<p>Zitkala &#138;a, a Yankton Sioux, was among the
+first Native American authors to tell her own
+story without the aid of an editor or translator,
+and she was a significant figure in pan-Indian
+politics during the first part of the twentieth
+century. She was born Gertrude Simmons on
+February 22, 1876, on the Yankton Reservation
+in South Dakota. As a little girl, at the enticement
+of missionaries, she left her mother and
+homeland to attend boarding school. In compelling
+narratives published in the <title level="j">Atlantic Monthly</title> and <title level="j">Harper's Magazine</title> in the early
+1900s, Gertrude described her life on the reservation
+and her experiences in White's Manual
+Labor Institute boarding school in Indiana and
+as a teacher at Carlisle Indian School in Pennsylvania.
+She also published short stories and a
+collection of traditional Sioux tales, <title level="m">Old Indian Legends</title> (1901). Gertrude renamed her literary
+and public persona Zitkala &#138;a, or Red Bird.</p>
+
+<p>In 1901 Gertrude returned to the Yankton
+Reservation, where she met and married Raymond
+Bonnin. They worked for the Indian
+Bureau on the Uintah and Ouray Reservation
+in Utah, where Gertrude collaborated with
+William Hanson on the <title level="m">Sun Dance Opera</title>
+(1913) and became involved with the Pan-
+Indian Society of American Indians. After she
+was elected secretary in 1916, she and Raymond
+moved to Washington dc, where she
+worked for the society and edited and wrote
+for American Indian Magazine.</p>
+
+<p>In 1921 she published her earlier writings
+along with several new, more political pieces
+in <title level="m">American Indian Stories</title>. With Raymond,
+she continued her activism, lobbying for the
+American Indian Citizenship Act of 1924,
+against violence and injustice on reservations,
+and for land claims and tribal rights. Zitkala
+&#138;a died on January 26, 1938, in Washington
+<hi rend="smallcaps">DC</hi>. She was buried in Arlington National
+Cemetery.</p>
+
+<closer>
+<signed>Denis R. Fournier<lb/>
+University of Mary</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Rappaport, Doreen. <title level="m">The Flight of Red Bird: The Life of
+Zitkala-&#138;a</title>. New York: Dial Books, 1997.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>

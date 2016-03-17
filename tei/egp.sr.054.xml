@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY egp.sr.054 SYSTEM "egp.sr.054.jpg" NDATA jpeg>
+]> -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="egp.sr.054">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Thorpe, Jim (1887-1953)</title>
+<title level="m" type="sub"></title>
+<author>Russ Cunningham</author>
+<editor>David J. Wishart</editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+<name>Nicholas Swiercek</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>egp.sr.054</idno>
+<authority>Encyclopedia of the Great Plains</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl><author n="Cunningham, Russ">Russ Cunningham</author>. <title level="a">"Thorpe, Jim (1887-1953)."</title> In <editor n="Wishart, David J.">David J. Wishart</editor>, ed. <title level="m">Encyclopedia of the Great Plains</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2004">2004</date>. <biblScope type="pages">788-789</biblScope>.</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-21</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head type="main">THORPE, JIM (1887-1953)</head>
+
+<figure n="egp.sr.054" rend="granted">
+<figDesc>Jim Thorpe</figDesc>
+</figure>
+
+<p>James Francis Thorpe, widely acknowledged
+as the greatest American athlete of the twentieth
+century, was born on May 28, 1887, near
+Prague, Indian Territory, in what is now the
+state of Oklahoma. His impoverished parents,
+Hiram and Charlotte Thorpe, were members
+of the Sauk and Fox Indian Nation. They gave
+their son the Native American name Wa-Tho-Huk,
+or Bright Path. To this day, Thorpe remains
+the only American athlete to perform at
+the world-class level in three major sports:
+track and field, baseball, and football.</p>
+
+<p>Thorpe grew up hunting, fishing, and
+breaking horses with his twin brother, Charlie.
+Charlie died of pneumonia at age nine,
+and Thorpe came to believe he inherited a
+measure of his brother's physical energy and
+strength. Thorpe's mother died when he was a
+teenager, and his father subsequently sent him
+to the Carlisle Indian Industrial School in
+Pennsylvania, one of several schools founded
+by Richard Henry Pratt with the intent to assimilate
+Native American youths into European
+American society. After he enrolled at
+Carlisle, Thorpe returned to the Great Plains
+only intermittently throughout the remainder
+of his life.</p>
+
+<p>While playing halfback for Carlisle, Thorpe
+earned football all-American honors in 1911
+and 1912, leading Carlisle to the collegiate national
+championship in 1912. Although he did
+not become an official citizen of the United
+States until 1917, Thorpe was a member of
+the U.S. track and field team at the Olympic
+Games of 1912 held in Stockholm, Sweden. His
+gold medal performances in both the pentathlon
+and decathlon inspired King Gustav V of
+Sweden to remark, "You, Sir, are the greatest
+athlete in the world." Thorpe's gold medals
+were stripped from him by the Amateur Athletic
+Association when it was revealed that he
+had previously played semiprofessional baseball,
+but these medals were posthumously restored
+to him in 1982. It has been argued that
+the worldwide publicity inspired by Thorpe's
+accomplishments in Stockholm helped to ensure
+the future viability of the Olympic Games.</p>
+
+<p>After his triumph in Stockholm, Thorpe
+signed a five-thousand-dollar contract to play
+baseball with the New York Giants. He played
+major-league baseball for seven seasons, with
+New York, the Boston Braves, and the Cincinnati
+Reds. In 1915 Thorpe agreed to play football
+for the Canton Bulldogs. He led Canton
+to unofficial world championships in 1916,
+1917, and 1919. Thorpe went on to play football
+for an assortment of teams, including the New
+York Giants and the Chicago Cardinals. In
+1920 he become the first president of the
+American Football Association, which later
+became the National Football League. After
+retiring from sports, Thorpe worked as an actor
+and casting director in Hollywood, lectured
+around the country on Native American
+culture, and during World War II served in the
+U.S. Merchant Marine. He died in his trailer
+in Lomita, California, on March 28, 1953. He is
+buried in the eastern Pennsylvania town that
+bears his name.</p>
+
+<p>Thorpe was elected to the Pro Football Hall
+of Fame in 1963. In 1999 the Associated Press
+ranked Thorpe third on its list of the 100 top
+athletes of the century, behind only Babe Ruth
+and Michael Jordan. In the same year, both
+the U.S. Senate and the U.S. House of Representatives
+passed resolutions that designated
+Thorpe "American Athlete of the Century."
+Prior to the 2000 Super Bowl, ABC Sports honored
+Thorpe as "Athlete of the Century," and
+the National Football League renamed its
+most valuable player award in his honor.</p>
+
+<closer>
+<signed>Russ Cunningham<lb/>
+Poway High School</signed>
+</closer>
+</div1>
+
+<div1>
+<bibl>Schoor, Gene. <title level="m">The Jim Thorpe Story: America's Greatest
+Athlete</title>. New York: Messner, 1951.</bibl> <bibl>Wheeler, Robert W. <title level="m">Jim
+Thorpe: World's Greatest Athlete</title>. Norman: University of
+Oklahoma Press, 1981.</bibl>
+</div1>
+
+
+</body>
+</text>
+</TEI>
