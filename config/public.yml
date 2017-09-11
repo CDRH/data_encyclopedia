@@ -1,4 +1,4 @@
 default:
-  shortname: encyclopedia
+  es_type: encyclopedia
   solr_core: encyclopedia
   tei_solr_xsl: collections/encyclopedia/scripts/solr_transform_tei.xsl
